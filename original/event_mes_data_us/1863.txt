@@ -1,0 +1,103 @@
+\u2137Talk about the request?
+<CHOICE_AB> Yes
+ No
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>Sweet, you saw my request on
+the message board, yeah?<PAGE>So let's get to it! I'm
+gonna explain <RED>hand fishing</COLOR>
+to you, <MYNAME>!<PAGE>Did you know that you can
+<RED>catch fish with your hands</COLOR>
+in the shallows of rivers?<PAGE>It's true! And the sense of
+accomplishment you get when
+you catch one is massive!
+----------------------------|----------------------------------
+\u2137<CHOICE_AB> Please teach me!
+ No thanks.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>Nice! I'll explain it to
+you, then!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>And that's the nuts and
+bolts of hand fishing. You
+got it? Wanna hear it again?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>Awright, now it's on you!
+Catch those fish in my
+<RED>request</COLOR>!<PAGE>You can do it!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>What's up?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>What's up?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>What's up?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>What's up?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>Whoa! You caught 'em? Sweet!
+Lemme take a look...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>Right on!<PAGE>I wasn't sure if you could
+do it, but you did! You
+rock!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>I guess you know, but you
+can <RED>cook and eat the
+fish</COLOR> you catch.<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY>Try chowin' down on a cooked
+fish if your Stamina is low.
+You'll get a little back.<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_SHY>Most small fish can't
+be used in cooking,
+though...<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY>Some of 'em can, though, and
+you can also find crabs you
+can cook, too!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>Awright, you came through on
+my request, so you get a...
+\u270areward!<PAGE>Just select your reward from
+the <RED>Reward Screen</COLOR>!<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY>Then just put it in your
+<RED>bag</COLOR>! How easy is that?!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>You rocked it, dude!<PAGE>I'm definitely gonna be
+sending more requests
+your way soon!<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY>And I know I'm gonna see you
+when you come by my shop,
+right?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>What's up?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>What's up?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>What's up?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>What's up?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>What's up?
+----------------------------|----------------------------------
+\u2137The stuff I'm gonna teach
+you ain't rocket science,
+so you'll pick it up quick!
+----------------------------|----------------------------------
+\u2137There are a lot of river
+shallows like this where
+fish hang out.
+----------------------------|----------------------------------
+\u2137Whoa! Did you see that fish?<PAGE>Once you spot 'em, it's a
+cinch! Just get up close,
+and...<PAGE>Bam!\u270a
+<RED>Push the A Button</COLOR> to
+catch the fish!
+----------------------------|----------------------------------
+\u2137Don't be a slacker, though,
+or the fish will get away!
+Keep your eye on 'em!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>What's up?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>What's up?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>What's up?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>What's up?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>What's up?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>What's up?

@@ -1,0 +1,80 @@
+<FACE_POS_LEFT><HIDE_NAME><FACE_KANA><FACE_NORMAL><FP_LEFT><HIDE_FACE>Berhenti! Duduk! Kaki!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_SAD><FP_RIGHT><MYNAME>!
+<MYNAME>!?<PAGE><FACE_POS_LEFT><FACE_KANA><FACE_ANGRY><FP_LEFT>Nori!
+<MYNAME>!!<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_SAD><FP_RIGHT>Kana!
+<MYNAME> terjatuh
+kesungai!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_SAD><FP_RIGHT><MYNAME>! Apakah kamu
+baik-baik saja?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_SAD><FP_RIGHT>Maaf ya yang barusan, <MYNAME>!<PAGE>Anjingku tidak tahan kalau
+dimandikan, dan akhirnya
+panik. Itu tidak bermaksud<PAGE>menyakiti kamu kok...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>Ah itu kerennya dari kamu.
+Makasih untuk pengertian-
+nya.<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>Oke kalau gitu, anging,
+sekarang kamu akan mandi!
+Jangan mengacaukannya ya!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>Oke! Bagus bagus!<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_SHY><FP_RIGHT>Sekali lagi, Aku meminta
+maaf atas kejadian tadi,
+kepada kalian...<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>Oke, aku akan memandikan
+dia sekarang...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_SAD><FP_RIGHT>Aku benar-benar minta maaf,
+<MYNAME>...<PAGE>Kamu seharusnya tidak usah
+melindungi sampai seperti
+itu...
+----------------------------|----------------------------------
+<CHOICE_AB> Tapi kamu spesial...
+ Untuk semua gadis kubantu...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_SHOCK><FP_RIGHT>Terima kasih, <MYNAME>.<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>......
+Tapi...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_SAD><FP_RIGHT>Lihat itu...
+Kamu terluka.<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>Aku sungguh senang kalau
+kamu ingin menolongku, tapi
+Aku tidak ingin kamu melu-<PAGE>kai dirimu sendiri.<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_SAD><FP_RIGHT>Disaat kamu terhanyut ke
+sungai, Aku benar-benar
+khawatir loh.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>Handsaplas sepertinya bisa
+menutupi lukamu, tapi kamu
+harus mengeceknya terlebih<PAGE>dahulu ke dokter ayame
+untuk memastikan lebih
+lanjut.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Ha ha! Jawaban yang bagus!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>Kamu tahukan, <MYNAME>...<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Kamu itu seseorang yang me-
+narik. Seseorang yang akan
+melindungi orang lain.<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_SHOCK><FP_RIGHT>Kamu seseorang...
+yang aku tahu yang dapat
+aku diandalkan.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Oh, um, tidak... tidak ada
+apa-apa. Jangan mengawatir-
+kan mengenai itu.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>Seharusnya aku cepat-cepat
+melakukan sesuatu mengenai
+lukamu itu!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_SHY><FP_RIGHT>Kupikir juga...
+Kamu selalu baik kepada
+semua orang, benarkan?<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Aku berharap disuatu saat
+kamu merasakan suastu 
+spesial mengenai aku...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Tidak, lupakan hal itu.<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>Tapi, terima kasih atas
+bantuanmu itu, <MYNAME>.<PAGE>Kamu benar-benar menyelamat-
+kan aku!<PAGE>Aku bersyukur...<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_SAD><FP_RIGHT>Tapi... Tapi... 
+aku...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_SAD><FP_RIGHT>Ma-maafkan aku...
+Aku merasa tak enak badan...
+Aku akan pulang dulu ya...

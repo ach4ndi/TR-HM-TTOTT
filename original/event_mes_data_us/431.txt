@@ -1,0 +1,47 @@
+<FACE_POS_RIGHT><FACE_MIKHAIL><FACE_SHY><FP_RIGHT>What am I going to do?
+My violin just doesn't
+sound right.<PAGE>The birds won't sing along
+to my playing like they
+usually do.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_SHENG><FACE_HAPPY><FP_LEFT>Sounds pretty good to me.<PAGE><FACE_POS_RIGHT><FACE_MIKHAIL><FACE_HAPPY><FP_RIGHT>No, no, it's all wrong.<PAGE><FACE_POS_RIGHT><FACE_MIKHAIL><FACE_SAD><FP_RIGHT>Normally I play much better
+than this, but recently my
+sound has been off.<PAGE><FACE_POS_RIGHT><FACE_MIKHAIL><FACE_SHY><FP_RIGHT>I need to have my violin
+properly serviced...<PAGE><FACE_POS_LEFT><FACE_SHENG><FACE_NORMAL><FP_LEFT>You do, do ya?
+Based on my experience, it's
+something with your strings.<PAGE>I might be able to fix it.
+Here, let me see.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>This violin is very special
+to me, so please handle it
+carefully.<PAGE><FACE_POS_LEFT><FACE_SHENG><FACE_NORMAL><FP_LEFT>I'm a master blacksmith,
+aren't I? Don't worry, I'll
+fix it all up for you.<PAGE><FACE_POS_LEFT><FACE_SHENG><FACE_HAPPY><FP_LEFT>In fact, I bet I can get it
+to sound even better than
+it does now.<PAGE>Just leave it to me.<PAGE><FACE_POS_LEFT><FACE_SHENG><FACE_NORMAL><FP_LEFT>I'll take it back to my
+smithy.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>You have a lot of tools!
+And they're all so well
+maintained!<PAGE><FACE_POS_LEFT><FACE_SHENG><FACE_HAPPY><FP_LEFT>Ho ho ho!
+They're more important to me
+than life itself, my tools.<PAGE><FACE_POS_LEFT><FACE_SHENG><FACE_NORMAL><FP_LEFT>This is quite a violin you
+have here, Mikhail.<PAGE><FACE_POS_RIGHT><FACE_MIKHAIL><FACE_HAPPY><FP_RIGHT>Thank you very much.<PAGE>It was given to me by my
+teacher. It's my most
+precious possession.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_SHENG><FACE_NORMAL><FP_LEFT>All right, that'll do the
+trick.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MIKHAIL><FACE_HAPPY><FP_RIGHT>You're done already!?<PAGE><FACE_POS_LEFT><FACE_SHENG><FACE_NORMAL><FP_LEFT>It wasn't a very difficult
+piece of work.
+Now try playing it.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_SHENG><FACE_HAPPY><FP_LEFT>Now that's what I call a
+fine-sounding instrument!<PAGE><FACE_POS_RIGHT><FACE_MIKHAIL><FACE_HAPPY><FP_RIGHT>All thanks to you, Sheng!
+I can't thank you enough.<PAGE><FACE_POS_LEFT><FACE_SHENG><FACE_NORMAL><FP_LEFT>It was nothing.<PAGE><FACE_POS_LEFT><FACE_SHENG><FACE_HAPPY><FP_LEFT>I wanted to hear that violin
+the way it's supposed to
+sound. Now I'm satisfied.<PAGE>Come by again any time if
+you need anything.<PAGE><FACE_POS_RIGHT><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>I'll try to keep it in good
+repair, but I'm glad to know
+you're here if I need you.

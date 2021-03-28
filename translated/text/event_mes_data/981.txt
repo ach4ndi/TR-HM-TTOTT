@@ -1,0 +1,66 @@
+<FACE_POS_LEFT><FACE_ASH><FACE_HAPPY><FP_LEFT>Georgia benar-benar menjaga
+kuda-kudanya dengan baik.<PAGE>Dia memastikan untuk membe-
+rikan semuanya rasa sayang
+dan perhatian yg dibutukan.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ASH><FACE_NORMAL><FP_LEFT>Jadi kita mempunyai anak
+domba yang barusan lahir...
+dan namanya "Snow"...<PAGE>Dia senang berlari-larian.
+Jika kamu lalai untuk meli-
+hatnya dalam sekejap dia<PAGE>menghilang!
+Kupikir dia masih ingin
+melihat orang tuanya.<PAGE>Sedihnya...
+Dia, sepertinya tampak cang-
+gung dengan binatang<PAGE>lainnya saat ini.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_SHY><FP_RIGHT>Oh tidak! Dan itu dia ada
+disana. Sepertinya dia
+akan keluar lagi.
+----------------------------|----------------------------------
+<CHOICE_AB> Dorong dia ke kandang.
+ Mencoba berbicara dgn dia.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_SHY><FP_RIGHT>Hey, hentikan!
+Sekarang dia malah menjadi
+lebih seteresss stress.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>Aku tidak mempercayahinya.
+Kenapa kamu melakukan itu
+kepada Snow?<PAGE>Aku tidak pernah melihat
+alasan seperti itu terha-
+dap anak domba sebelumnya.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_SAD><FP_RIGHT>Tapi kamu sudah mencoba me-
+maksakan dia kembali ke
+kandangnya yang awalnya<PAGE>sedih untuk dilihatnya.
+Aku bisa mengatakan bahwa
+Snow makin menangis, dan<PAGE>dia benar-benar merasakan
+ketakutan.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL><FP_RIGHT>Oh oke.
+Aku senang dia sudah kembali
+ke kandangnya.<PAGE><FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>Makasih, <MYNAME>.<PAGE><FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL><FP_RIGHT>Well, Aku akan mengecek
+Snow, jadi aku bisa pulang
+kerumah.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_CHERYL><FACE_SAD><FP_LEFT>.........
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL><FP_RIGHT>Aku tidak mempercayainya.
+Apa yang kamu katakan kepada
+Snow, hu?<PAGE>Aku tidak pernah melihat se-
+seorang seperti itu sebelum-
+nya.<PAGE><FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>Kamu benar-benar hebat, 
+<MYNAME>!<PAGE>Kamu benar-benar sangat
+dekat dengan binatang!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL><FP_RIGHT>Aku tidak mempercayahinya,
+dia langsung menuju kandang-
+nya dengan sendirinya.<PAGE><FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>Makasih, <MYNAME>.<PAGE>Tampaknya aku bisa belajar
+dari kamu mengenai cara
+merawat binatang ternak ini!<PAGE><FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL><FP_RIGHT>Oke! Aku akan mengecek
+si Snow itu, jadi aku bisa
+pulang kerumah.<PAGE><FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>Makasih! Mari kita jalan-
+jalan keluar lagi nanti.<PAGE>Sampai jumpa lagi,
+<MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_CHERYL><FACE_SAD><FP_LEFT>......

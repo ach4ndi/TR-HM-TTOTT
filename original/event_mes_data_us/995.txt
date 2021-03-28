@@ -1,0 +1,118 @@
+<FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT>It's a cat! But what's it
+doing over there...?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT>You're going to save it?<PAGE><FACE_POS_RIGHT><FACE_CAM><FACE_SHY><FP_RIGHT>Hey, w-wait!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_SHY><FP_RIGHT>It's wearing a collar.
+It must be lost.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT>Everything's going to be
+all right. Don't cry.<PAGE>Hey, will you help me
+find its owner,
+<MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_HAPPY><FP_RIGHT>Thanks!<PAGE>First, let's ask around, and
+see if anyone knows anything
+about this cat.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ASH><FACE_NORMAL><FP_LEFT>A lost cat?<PAGE><FACE_POS_LEFT><FACE_ASH><FACE_SHY><FP_LEFT>Hmm... I feel like I've
+seen that cat around here
+before...<PAGE><FACE_POS_LEFT><FACE_ASH><FACE_SAD><FP_LEFT>Sorry... I can't remember
+anything more than that...<PAGE><FACE_POS_RIGHT><FACE_CAM><FACE_SAD><FP_RIGHT>It's OK. Sorry to bother
+you.<PAGE><FACE_POS_LEFT><FACE_ASH><FACE_NORMAL><FP_LEFT>Oh, don't worry about it!
+I hope you guys are able
+to find its owner!<PAGE><FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT>Thanks...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT>All right, let's go ask
+someone else.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_GEORGIA><FACE_SHY><FP_LEFT>I reckon I've seen that
+cat somewhere before...<PAGE><FACE_POS_LEFT><FACE_GEORGIA><FACE_SAD><FP_LEFT>But I can't rightly remember
+where...<PAGE><FACE_POS_LEFT><FACE_GEORGIA><FACE_NORMAL><FP_LEFT>I've got a hunch it was
+with one of our regulars
+at our shop.<PAGE><FACE_POS_RIGHT><FACE_CAM><FACE_SHY><FP_RIGHT>Really...?<PAGE><FACE_POS_LEFT><FACE_GEORGIA><FACE_NORMAL><FP_LEFT>I reckon so. I'll let y'all
+know if I remember anything
+else.<PAGE>I'd be glad to look after it
+for a while if y'all need.
+Just say the word!<PAGE><FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT>Thanks a lot. We will.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_SAD><FP_RIGHT>*sigh*... The search isn't
+going so well...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_SHY><FP_RIGHT>...<PAGE><FACE_POS_RIGHT><FACE_CAM><FACE_SAD><FP_RIGHT>What'll happen to this
+cat if we can't find
+its owner?
+----------------------------|----------------------------------
+<CHOICE_AB> Let's put it back...
+ We can't give up now!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_ANGRY><FP_RIGHT>Put it back...? You mean
+leave it by the river
+where we found it?<PAGE>That's horrible! What
+kind of cold, uncaring
+person are you?!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_ANGRY><FP_RIGHT>Never mind.
+I'll find the owner
+myself.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_HAPPY><FP_RIGHT>Here, come with me...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_SAD><FP_RIGHT>Sorry I dragged you
+into this.<PAGE>See you.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_HAPPY><FP_RIGHT>You're right...<PAGE><FACE_POS_RIGHT><FACE_CAM><FACE_SHOCK><FP_RIGHT>You know, just hearing you
+say that, I think everything
+will be all right.
+----------------------------|----------------------------------
+Nico! Here, Nico!
+Where are you...?
+----------------------------|----------------------------------
+Oh! It's you,
+Nico!<PAGE>Thank goodness! You had
+me worried there!<PAGE>You chased off after that
+bug and disappeared! I've
+been looking everywhere!<PAGE>Well, I'm just glad that
+you're all right!
+----------------------------|----------------------------------
+Were you kids looking
+after him?
+<PAGE>Thank you very much!
+I'm Nico's owner.
+
+----------------------------|----------------------------------
+Oh dear! If we don't hurry,
+Nico and I will miss our
+ride out of town!<PAGE>I wanted to thank you
+somehow, but I don't have
+the time now. I'm sorry...<PAGE><FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT>Oh no, don't worry about
+it. We're just glad we
+found his owner.
+----------------------------|----------------------------------
+What nice kids you are!
+You'll have to excuse me,
+then. I have to go.<PAGE>Let's go, Nico!
+----------------------------|----------------------------------
+Oh! Nico thanked you, too!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_SHOCK><FP_RIGHT>Oh, uh...
+You're...welcome?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_SHY><FP_RIGHT>...\u270a\u270aWell, that was a bit
+of an adventure.<PAGE>All's well that ends
+well, I guess.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT>A-Anyway...<PAGE><FACE_POS_RIGHT><FACE_CAM><FACE_HAPPY><FP_RIGHT>I'm so glad you were
+with me, <MYNAME>...<PAGE>You said everything would be
+all right, and it was...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_HAPPY><FP_RIGHT>You're always so positive,
+and it makes me feel
+the same way.<PAGE><FACE_POS_RIGHT><FACE_CAM><FACE_SHOCK><FP_RIGHT>Thanks again, <MYNAME>.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT>Anyway, it's getting late.
+Time always goes so quickly
+when I'm with you...<PAGE><FACE_POS_RIGHT><FACE_CAM><FACE_HAPPY><FP_RIGHT>I'll walk you home.
+Let's go, <MYNAME>...

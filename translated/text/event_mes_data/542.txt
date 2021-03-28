@@ -1,0 +1,72 @@
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Apakah pekerjaan pertanianmu
+itu berjalan baik-baik saja?<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Hari ini, temanku yang masih
+muda ini akan mengajarimu
+mengenai <RED>Penumpukan Tanah</COLOR>.<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Apakah kamu tahu mengenai
+penumpukkan tanah?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Dan ini dia!
+Sebuah gundukkan tanah!<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Disaat kamu menanam tanaman
+disebuah gundukkan, kamu da-
+pat mengairi dan kasih pupuk<PAGE>secara bersama-sama.<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Sangat praktiskan?
+<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL>Gundukkan tanah ini sangat
+mudah dibuat kok.<PAGE>Disaat kamu mencangkul ta-
+nah dengan cangkul, bisa
+tetap menekan <RED>+Control Pad</COLOR><PAGE>sambil kearah tertentu!<PAGE>Lalu tekan <RED>Tombol A</COLOR> tiap
+kotak yang kamu langkahi
+itu.<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Tiap kotak yang baru kamu
+pacul, itu akan ditambah-
+kan kedalam alur gundukkan.<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_SAD><FP_RIGHT>Tapi kamu harus memperha-
+tikan satu hal ini...<PAGE>Posisi paritnya harus di-
+garis lurus...
+tanpa celah.<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Dengan kata lain, kamu tak
+dapat menyambungkan gunduk-
+an itu.<PAGE>Jika kamu melakukan sebuah
+kesalahan, salah satu cara
+untuk merapikannya yaitu<PAGE>menggunakan palu untuk me-
+ratakan gundungan yang
+gagal itu dan buat lagi.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Jadi untuk membuat gundukkan
+seperti ini, kamu sampai
+membentuk sebuah <RED>garis</COLOR> yang<PAGE>tersambung dengan lainnya.<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Tapi...\u270ajika kamu membiar-
+kan gundukkan itu seminggu
+...<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_SAD><FP_RIGHT>Gundukannya akan hilang di-
+posisi disitu...<PAGE>Jika kamu memotong alur
+gundukkan yang berada di-
+tengahnya, maaf!<PAGE>itu tidak bisa diperbaiki.<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Itu kenapa kamu harus ber-
+hati-hati.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Dan itulah dasar-dasarnya
+yang kamu perlu ketahui me-
+ngenai teknik gundukkan<PAGE>tanah.<PAGE>Apakah kamu ingin kujelas-
+kan lagi?
+----------------------------|----------------------------------
+<CHOICE_AB> Jelaskan lagi dong!
+ Tidak makasih, dah paham!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Oke, aku akan menjelaskan
+hal ini lagi.<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Teknik ini membuah gundukkan
+tanah berbentuk garis dari
+susunan kotak-kotak.<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Mari kutunjukkan kepadamu
+itu dan menjelaskannya ke-
+padamu.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Maka, ayo pergi untuk mena-
+nam beberapa tanaman yang
+ada!
+----------------------------|----------------------------------
+<CHOICE_AB> Tidak, mohon ajari lagi.
+ Ya, Aku dah tahu.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Oke, aku akan menjelaskan
+hal ini lagi.<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Teknik ini membuah gundukkan
+tanah berbentuk garis dari
+susunan kotak-kotak.<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Ini cukup mudah dipahami
+jika aku tunjukkan contoh
+nyatanya. hehehe
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Oh, kamu dah paham?
+Aku sangat senang mendengar-
+nya!<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Maka, ayo pergi untuk mena-
+nam beberapa tanaman yang
+ada!

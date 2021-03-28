@@ -1,0 +1,592 @@
+<FACE_POS_CENTER><HIDE_NAME><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Oh, and who might you be?
+When did you get here?<PAGE><FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>I'm <BLUE>Eileen</COLOR>.
+So pleased to meet you!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>What terrible weather we
+had yesterday! I do hope
+your house wasn't damaged.<PAGE>I'll help with any repairs
+you need. Just say the word!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Work, work, work!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Work, work, work!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Work, work, work!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_HAPPY><FP_RIGHT>Ooh, how cute! I just love
+it! I wish I could have
+a pet like this...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Sorry, it's just not my
+favorite animal.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Work, work, work.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_HAPPY><FP_RIGHT>Ooh, what a beautiful
+feather! Where can I get
+one like that?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Ooh, a gift? Sorry. I'd
+feel a little weird about
+taking that.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Another gift today? Sorry.
+That's just too many.
+Thanks, though.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Work, work, work.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Work, work, work.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Hmm... Don't you need that?
+Don't try to give it away.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_HAPPY><FP_RIGHT>Oh! A birthday present?
+It's just what I was hoping
+for! Thank you so much!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_HAPPY><FP_RIGHT>Ooh, this smells lovely.
+Oh, <RED>spring breeze</COLOR>?!<PAGE>This is really for me?
+Thank you so much!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Work, work, work.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Work, work, work.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>What a treat to get such a
+nice birthday present!
+Thank you so much!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Ooh, this is lovely!
+What? It's for me?
+Thank you so much!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Oh, a birthday present?
+Thank you so much!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Thank you so much!
+How nice of you.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_SAD><FP_RIGHT>What!? This is supposed to
+be a birthday present?<PAGE>Are you just giving it to
+me because you want to get
+rid of it?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_SAD><FP_RIGHT>Did I do something
+to upset you?<PAGE>Why else would you give me
+something so awful?
+That's so mean!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_SAD><FP_RIGHT>Oh... This gift makes me so
+sad. What did I ever do to
+you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Work, work, work.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Work, work, work.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_HAPPY><FP_RIGHT>You look so happy now that
+you're married, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_ANGRY><FP_RIGHT>I just hate typhoons.
+They can wreck houses, you
+know!<PAGE>How can they undo my hard
+work like that? Nature can
+be such a jerk!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_HAPPY><FP_RIGHT>I had so much fun making
+snow forts when I was
+little.<PAGE>Maybe I'll go make one
+today! That would be pretty
+cool, don't you think?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_HAPPY><FP_RIGHT>I'm so glad we're such
+good friends, <MYNAME>.<PAGE>I hope we can always tell
+each other everything.
+
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_HAPPY><FP_RIGHT>There is someone I have
+feelings for.<PAGE>He's a little odd, but
+he's an amazing craftsman.
+Hee hee hee!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>People say I'm too reckless
+when I work.<PAGE>But I hardly ever cause
+accidents! It just LOOKS
+like I'm being careless!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Oh dear. I got hungry a
+few hours ago, then
+completely forgot about it.<PAGE>I've really got to remember
+to eat something when I get
+the chance...<PAGE>Not right now, though.
+There's so much to do!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>I have so much fun being
+a carpenter.<PAGE>It makes me so happy to 
+build the things I dream up.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_SAD><FP_RIGHT>Huh? Now where did I
+put that tool?<PAGE>Hmm, it seems to have
+disappeared again.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Oh dear, what is it?
+Sorry, I'm a little busy.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Work, work, work.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Work, work, work.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Work, work, work.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Work, work, work.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Work, work, work.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Work, work, work.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Work, work, work.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Work, work, work.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Work, work, work.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Work, work, work.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Work, work, work.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Work, work, work.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Work, work, work.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Work, work, work.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Work, work, work.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Work, work, work.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Work, work, work.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Work, work, work.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Work, work, work.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Work, work, work.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Work, work, work.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Work, work, work.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Work, work, work.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Work, work, work.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Work, work, work.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Work, work, work.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Work, work, work.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Work, work, work.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Work, work, work.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Work, work, work.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Work, work, work.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Work, work, work.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Work, work, work.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Work, work, work.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Work, work, work.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Work, work, work.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>What's that?
+Oh, for the festival?
+Good luck!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Work, work, work.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Work, work, work.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>How cute!
+And so quiet...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_HAPPY><FP_RIGHT>Oh my!
+How adorable!
+I want one too!<RED>❤</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_ANGRY><FP_RIGHT>This isn't cute at all.
+Why would you show it to me?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>I saw that today too!
+I'm impressed you caught it!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Work, work, work.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Work, work, work.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Work, work, work.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Work, work, work.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Work, work, work.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Work, work, work.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Work, work, work.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Work, work, work.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Work, work, work.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Work, work, work.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Work, work, work.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Work, work, work.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_HAPPY><FP_RIGHT>Ooh, how nice!<RED>❤</COLOR>
+Thank you so much,
+<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Work, work, work.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Work, work, work.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Work, work, work.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Work, work, work.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Work, work, work.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Work, work, work.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>What's this? I can't
+wait to open it!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_HAPPY><FP_RIGHT>I think of you like
+a little sister, you know?<PAGE>I feel like we can always
+count on each other.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Work, work, work.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>I love the buildings
+in the village where you
+live, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Work, work, work.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Work, work, work.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Work, work, work.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>When I'm relaxing here, time
+just seems to slow down.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_HAPPY><FP_RIGHT>Today is my day off!
+What to do, what to do?
+Hee hee!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_HAPPY><FP_RIGHT>I enjoy myself
+so much when I come here.<PAGE>I can feel all my
+stress just fall away.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Here we go!
+Mountain climbing
+is great exercise! 
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_HAPPY><FP_RIGHT>Sheng is such an
+incredible craftsman.<PAGE>I have sooo much
+respect for him.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Work, work, work.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Work, work, work.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Work, work, work.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Work, work, work.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Work, work, work.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Work, work, work.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_HAPPY><FP_RIGHT>So we won, huh?
+Thanks for cheering so
+loudly!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_SAD><FP_RIGHT>So we lost, huh?
+Thanks for all your
+support anyway.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Come to our village for the
+next Cooking Festival! We
+could use your help!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Work, work, work.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Work, work, work.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_SAD><FP_RIGHT>We lost!
+I'm kind of in shock!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Work, work, work.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Now don't be sad about it.
+Everyone makes mistakes.<PAGE>Look at me, I make tons
+of mistakes.
+Cheer up!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_HAPPY><FP_RIGHT>It's a festival day! I have
+butterflies in my stomach.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_HAPPY><FP_RIGHT>You didn't enter anything?
+That's too bad!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Work, work, work.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>What a pity!
+I was rooting for you, too.
+It's really too bad.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Work, work, work.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Work, work, work.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Work, work, work.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Work, work, work.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Work, work, work.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Work, work, work.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Work, work, work.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Work, work, work.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Work, work, work.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Work, work, work.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Work, work, work.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Work, work, work.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Work, work, work.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Work, work, work.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Work, work, work.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Work, work, work.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Work, work, work.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Work, work, work.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Work, work, work.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Work, work, work.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Work, work, work.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>I'm so excited about today's
+festival!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Work, work, work.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Work, work, work.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Work, work, work.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Work, work, work.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Work, work, work.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Work, work, work.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Work, work, work.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Work, work, work.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Work, work, work.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Work, work, work.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Work, work, work.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Work, work, work.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Work, work, work.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Work, work, work.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Work, work, work.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Work, work, work.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Work, work, work.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Work, work, work.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Work, work, work.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Good morning...
+*Yaaawn*
+I'm so tired...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Good morning there,
+<MYNAME>!
+*Yawn*<PAGE>I love mornings, but
+it takes me a long time to
+wake up.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT><MYNAME>!
+Good morning!<PAGE>I love mornings,
+no matter what the weather.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Hello there! Ooh, I get so
+tired right around now.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_HAPPY><FP_RIGHT><MYNAME>!<PAGE>Hello there! All right,
+time to get serious about
+today's work!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_HAPPY><FP_RIGHT>Hello there, <MYNAME>!
+You look well!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Hello there!
+How's your day going?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Hello there, <MYNAME>!
+Done with work for the day?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Good evening, <MYNAME>!
+<PAGE>I'm always starving
+by this time.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Work, work, work.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Work, work, work.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Work, work, work.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Ooh, you want me to do 
+a job for you? Just go
+on up to the counter.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Welcome! Talk to me across
+the counter if you want
+something.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_HAPPY><FP_RIGHT>Work, work, work. 
+I'm having so much fun!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_HAPPY><FP_RIGHT>Howard's food is just
+sooo good!
+I may need seconds.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>The food here
+is one of a kind!
+Don't you agree?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>The food here
+is so good!
+I recommend everything.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>I'm just taking a
+little break here.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_HAPPY><FP_RIGHT>I always feel like I'm
+at my grandparents' here.
+I feel so at peace.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>This is the village's
+recreation center.<PAGE>Take a rest here
+with me, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Work, work, work.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Work, work, work.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Work, work, work.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Work, work, work.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Work, work, work.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Work, work, work.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Work, work, work.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Work, work, work.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Work, work, work.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_HAPPY><FP_RIGHT>Congratulations, <MYNAME>.
+That was amazing!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_HAPPY><FP_RIGHT>I wish I could be
+a good cook like you.
+That looked amazing!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_HAPPY><FP_RIGHT>You're amazing!
+I've never seen such
+delicious-looking food!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_HAPPY><FP_RIGHT>I had fun at the festival!
+Now let's start cleaning up.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_HAPPY><FP_RIGHT>That festival was great!
+<MYNAME>, did you have
+fun?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Now that the festival is
+over, I can breathe easy.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Work, work, work.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Work, work, work.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Work, work, work.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_HAPPY><FP_RIGHT>This was such a
+good festival!
+Heh heh♪
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_HAPPY><FP_RIGHT>What a great festival.
+That was just beautiful.
+
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>What a breathtaking 
+festival. I can't wait for
+next year's!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Oh my, you caught so
+many! You're amazing!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Congratulations!
+You're amazing!
+You're a star!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Children always love
+this festival.<PAGE>Oh, I don't mean that
+you're a child, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Your farm is so 
+amazing, <MYNAME>.<PAGE>I'm sure you won due to your
+great farming techniques.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_HAPPY><FP_RIGHT>Your <VAR_2>
+was so cute! I just wanted
+to hug it!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Next time, can I pet
+your <VAR_2>?
+Promise me!

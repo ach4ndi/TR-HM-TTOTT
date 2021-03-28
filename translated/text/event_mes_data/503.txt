@@ -1,0 +1,61 @@
+<FACE_POS_LEFT><HIDE_NAME><FACE_INA><FACE_NORMAL><FP_LEFT><HIDE_FACE>Selamat Pagi, <MYNAME>.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>Apakah kamu senang tinggal
+disini? Apakah Konohana
+itu benar-benar wooow gitu?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>Sekarang aku yakin bahwa
+kamu tidak akan pindah dari
+kota kita yang indah ini...<PAGE>...Tapi aku kesini hari ini
+untuk memberitahumu mengenai
+perpindahan.<PAGE>Apakah kamu tahu untuk
+pindah, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>Oke aku akan jelaskan!<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>Kamu dapat pindah ke <BLUE>Bluebell</COLOR>
+diantara tanggal <RED>23 sampai 30
+dimusim apapun</COLOR>.<PAGE>Jika kamu ingin pindah,
+kamu akan mulai tinggal diantara
+Bluebell ditanggal itu.<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>Tinggal datang aja ke balai
+desa ditanggal <RED>23 sampai 30
+dimusim apapun</COLOR><PAGE>jika kamu ingin pindah.<PAGE>Balai desa itu bangunan
+yang paling besar didesaloh,
+jadi mudah untuk ditemukan!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>これを出すとは流石だな！
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_HAPPY>これを出すとは流石だな！
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_SAD><FP_RIGHT>Ini akan memakan waktu se-
+harian untuk mempersiapkan
+segalanya siap.<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>Jadi pastikan selesaikan
+semuanya sebelum hari-hari
+nya berakhir.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>Nah, itulah informasi semua
+hal yang perlu diketahui
+mengenai perpindahan...<PAGE>Apa kamu ingin kujelaskan
+lagi?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>Oke oke, aku akan menjelas-
+kannya lagi kepadamu.<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>Kamu dapat pindah ke <BLUE>Bluebell</COLOR>
+diantara tanggal <RED>23 sampai 30
+dimusim apapun</COLOR>.<PAGE>Jika kamu ingin pindah,
+kamu akan mulai tinggal diantara
+Bluebell ditanggal itu.<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>Tinggal datang aja ke balai
+desa ditanggal <RED>23 sampai 30
+dimusim apapun</COLOR><PAGE>jika kamu ingin pindah.<PAGE>Balai desa itu bangunan
+yang paling besar didesaloh,
+jadi mudah untuk ditemukan!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>Oh oke. Jika kamu ingin
+pindah, datang saja kebalai
+desa.<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>Tentu saja, desa kita ini
+lebih baik dari segala hal,
+jadi aku yakin kamu akan<PAGE>tinggal disini kapanpun!
+----------------------------|----------------------------------
+<CHOICE_AB> Tidak, tidak.
+ Ya.
+----------------------------|----------------------------------
+<CHOICE_AB> Tolong jelasken.
+ Dah paham, oke oke.

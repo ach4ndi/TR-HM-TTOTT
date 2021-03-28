@@ -1,0 +1,441 @@
+<FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>Disini, tampaknya lokasi
+yang bagus.<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>Aku akan mengajarimu untuk
+<RED>menumbuhkan tanaman</COLOR>.<PAGE>Apakah kamu tahu bagaimana
+cara menumbuhkan tanaman,
+<MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>Uh, kamu sudah tahu? Oke,
+baguslah kalau gitu.<PAGE>Maka aku akan memberikanmu
+sebuah peralatan.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>Ini, <RED>sabit</COLOR>mu. 
+Kamu akan membutuhkan ini
+untuk membersihkan lahan.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>Ini, <RED>cangkul</COLOR>mu.
+Kamu akan membutuhkan ini
+untuk menggemburkan tanah.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>Ini, <RED>penyiram air</COLOR>mu.
+Kamu akan membutuhkan ini
+untuk menyiram tanaman.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>Ini ada beberapa <RED>pupuk</COLOR>.<PAGE>Pupuk ini akan menaikan kua-
+litas tanamanmu dimana
+ditempatkan disekitarnya.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT><FP_RIGHT>それじゃあ、
+１から教えてあげるよ！<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>あたしについて来てくれ。
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>Maka, aku akan memulai dari
+paling dasar.<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>Tahap untuk menumbuhkan se-
+buah tanaman, yaitu:<PAGE><RED>membersihkan</COLOR>, <RED>mancangkul</COLOR>,
+<RED>menabur</COLOR>, dan <RED>mengairi</COLOR>.<PAGE>Ini, biarkan aku memberikan
+ini kepadamu.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>Inilah, <RED>sabit</COLOR>mu. 
+Kamu akan membutuhkan ini
+untuk <RED>membersihkan lahan</COLOR>.<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>Cobalah.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT><FP_RIGHT>そこじゃない。
+あたしの前だ。
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>Pertama, bersihkan rumput
+yang ada didepanku ini.<PAGE>Ada dua cara untuk memegang
+sabitmu itu.<PAGE>Pindahkan sabitmu itu ke
+tempat yang bertulisan
+"Alat"...<PAGE>...Atau gunakan <RED>Tombol R</COLOR>
+untuk menampilkan layar
+pegang alat dan pilih sabit!<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>Setelah kamu memegang sabit
+mu itu, lalu arahkan dan
+sambil tekan <RED>Tombol A</COLOR>.<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>Dan itu caranya untuk mem-
+bersihkan rumput!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>Pertama, simpan dulu apa
+yang sedang kamu pegang itu.<PAGE>Memegang sesuatu dan meme-
+gang peralatan itu hal
+yang berbeda.<PAGE>Apapun itu, sabit yang ada
+didalam tasmu itu pindahkan
+ke "Alat"...<PAGE>...Atau gunakan <RED>Tombol R</COLOR>
+untuk menampilkan layar
+pegang alat dan pilih sabit!<PAGE>Setelah kamu memegang sabit
+mu itu, lalu arahkan dan
+sambil tekan <RED>Tombol A</COLOR>.<PAGE>Dan itu caranya untuk mem-
+bersihkan rumput!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>Itulah caranya!
+Sepertinya kamu sudah
+menguasainya!<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>Biarkan aku memberikan ini
+kepadamu untuk tahap selan-
+jutnya.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>Ini adalah sebuah <RED>cangkul</COLOR>.
+Kamu dapat menggunakan untuk
+menggemburkan tanah.<PAGE>Cangkul tanahnya, dimana
+setelah membersihkan rerum-
+putannya.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT><FP_RIGHT>そこじゃない。
+<PAGE>今、草をかった場所を
+たがやしてくれ。
+あたしの前だ。
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>Kamu tidak tahu dimana
+tempat yang bagus dicangkul?
+Ya disini, dimana kamu<PAGE>sudah membersihkan rumput
+nya.<PAGE>Gunakan cangkulmu dengan me-
+nekan <RED>Tombol R</COLOR>, lalu
+tekan <RED>Tombol A</COLOR> untuk mencangkul.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>Pertama, simpan semua apa
+yang sedang kamu pegang
+ya!.<PAGE>Memegang sesuatu dan meng-
+gunakan alat itu sesuatu
+hal yang berbeda.<PAGE>Gunakan cangkulmu dengan me-
+nekan <RED>Tombol R</COLOR>, lalu
+tekan <RED>Tombol A</COLOR> untuk mencangkul.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT><FP_RIGHT>今はたがやすんだ。
+カマは、使わないな。<PAGE>そうびは、<RED>Ｒボタン</COLOR>だ。
+<RED>クワ</COLOR>をそうびしてくれ。
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>Bagus! Kamu tampaknya
+memiliki bakat yang
+terpendam!<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>Selanjutnya, biarkan aku mem-
+memberikan ini kepadamu.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>Ini sebuah <RED>Bibit turnip putih</COLOR>.
+Kamu tabur ketanah yang su-
+dah digemburin barusan.<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>Pegang bibitnya, lalu tabur
+dengan menekan <RED>Tombol A</COLOR>.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>Pegang bibitnya, lalu tabur
+dengan menekan <RED>Tombol A</COLOR>.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>Kamu kehilangan kantong
+bibitmu?<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_SAD><FP_RIGHT>Oh, demi dewi...
+Jangan sampai kamu menghi-
+langkan itu semuanya!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>Pertama, simpan semua apa
+yang sedang kamu pegang
+ya!<PAGE>Memegang sesuatu dan meng-
+gunakan sesuatu itu sebuah
+hal yang berbeda.<PAGE>Pegang bibitnya, lalu tabur
+bibitnya dengan menekan
+<RED>Tombol A</COLOR>.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT><FP_RIGHT>種まきにカマは使わない。
+<RED>かぶの種</COLOR>をそうびしてくれ。<PAGE>そうびは、<RED>Ｒボタン</COLOR>だ。
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT><FP_RIGHT>種まきにクワは使わない。
+<RED>かぶの種</COLOR>をそうびするんだ。<PAGE>そうびは、<RED>Ｒボタン</COLOR>だ。
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>Nah itu dia! Nah itu
+seharusnya cara untuk
+menaburnya!<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>Sekarang tahap terakhir.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>Ini sebuah <RED>penyiram air</COLOR>.
+Gunakan ini untuk mengairi-
+tanamannya.<PAGE>Penuhi isi alat penyiram
+airnya dari sumber air yang
+dekat dengan kebunmu.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>Ini adalah sumber air-
+nya.<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>Pegang alat penyiramnya,
+lalu tekan <RED>Tombol A</COLOR> di-
+dekat sumber airnya.<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>Disaat alat penyirammu penuh
+lalu tekan <RED>Tombol A</COLOR> untuk
+mengairi bibitnya.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>Gunakan <RED>penyiram air</COLOR> untuk
+mengairi bibitmu itu.<PAGE>Gunakan <RED>Tombol R</COLOR> untuk
+memegangnya, atau mengguna-
+kan dari tasmu.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>Pertama, simpan semua apa
+yang sedang kamu pegang
+ya!<PAGE>Memegang sesuatu dan meng-
+gunakan sesuatu itu dua
+hal yang berbeda.<PAGE>Gunakan <RED>Tombol R</COLOR> untuk
+menggunakannya, atau meme-
+gangnya dari tasmu.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT><FP_RIGHT><MYNAME>は、
+水まきにカマを使うんだな。<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT><FP_RIGHT><RED>じょうろ</COLOR>をそうびしてくれ。<PAGE>そうびは、<RED>Ｒボタン</COLOR>だ。
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT><FP_RIGHT><MYNAME>は、
+水まきにクワを使うんだな。<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT><FP_RIGHT><RED>じょうろ</COLOR>をそうびしてくれ。<PAGE>そうびは、<RED>Ｒボタン</COLOR>だ。
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT><FP_RIGHT>そこに水はまけないね。<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT><FP_RIGHT>種をまいた場所に
+水をまいてくれ。
+あたしの前だ。
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>Nah itulah caranya!<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>Dan itu cara dasar bagaimana
+merawat dan menumbuhkan se-
+buah tanaman.<PAGE>Sekarang, aku akan menjelas-
+kan bagaimana tanamanmu itu
+berkembang.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT><HIDE_FACE>Jika kamu menyiramnya tiap
+hari, maka mereka akan ber-
+<RED>kecambah</COLOR>.<PAGE>Tapi jika kamu lupa, walau-
+pun itu hanya sehari...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT><HIDE_FACE>...Tanamanmu akan
+<RED>layu</COLOR>!<PAGE>Ini tandanya tanamanmu
+memburuhkan air!<PAGE>Jika kamu tetap melupa-
+kan untuk menyiramnya...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT><HIDE_FACE>...pastinya mereka akan <RED>mati</COLOR>!
+Hati-hati ya!<PAGE>Disaat kondisi mereka sudah
+seperti itu, maka sudah
+telat untuk disiram oleh air!<PAGE>Gunakan <RED>Sabit</COLOR>mu untuk mem-
+bersihkan tanaman yang sudah
+mati itu.<PAGE>Agar kamu bisa menanam
+tanaman lainnya ditempat
+tanaman sebelumnya mati.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT><HIDE_FACE>Disaat kamu mengairi dengan
+benar, sebuah turnip akan
+tumbuh seperti ini.<PAGE>Sekarang kamu bisa <RED>memanennya</COLOR>!<PAGE>Untuk memanennya, cuman hanya
+dekati tanamannya dan tekan
+<RED>Tombol A</COLOR>!<PAGE>Namun, beberapa tanaman
+membutuhkan <RED>sabit</COLOR> untuk
+memanennya..<PAGE>Contohnya yaitu gandum dan
+kacang kedelai.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>Ada beberapa tips untukmu:
+siram tanamanmu dipagi hari.<PAGE>Dengan itu, nanti sorenya
+tanamnmu akan tampak
+kering tanahnya.<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>Lalu kamu bisa menyirami
+nya kedua kalinya. dan itu
+akan lebih cepat tumbuhnya!<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>Oh, ya ada satu lagi menge-
+nai merawat tanaman...<PAGE>Pastinya kamu penasaran
+dengan <RED>rating bintang kuning</COLOR>
+disebelah kanan barangkan?<PAGE>Itu adalah sebuah rating
+<RED>kualitas</COLOR> pada suatu barang
+termasuk tanaman juga.<PAGE>Untuk menaikan kualitas
+tanamanmu, bisa menggunakan
+<RED>pupuk</COLOR>.<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>Penggunaan pupuk yaitu me-
+nancapkannya digundukan
+tanah yang dibuat, dan<PAGE>kamu akan menaikan tingkat
+kualitas tanaman diseki-
+tarnya!<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>Untuk menggunakan pupuk,
+pegang, dan seperti peng-
+gunaak sabit atau cangkul.<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_SAD><FP_RIGHT>Pastikan penggunaan pupuk-
+nya <RED>disaat tanamanmu se-
+dang tumbuh</COLOR>, atau ...<PAGE>tidak memberikan efek
+apapun.<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>Jadi diingat-ingat ya!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT><FP_RIGHT>せっかくだ。
+ひりょうもさしてみよう。
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT><FP_RIGHT>まずは、さっき種をまいた、
+となりの草をかりなさい。
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT><FP_RIGHT>どうかしたかい？
+場所は先ほどのとなりだよ。
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT><FP_RIGHT>まずは、持っているものを、
+おろしなさい。<PAGE>持ち上げるのと、
+そうびは別だからね。
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT><FP_RIGHT>草をかるのは、<RED>カマ</COLOR>だよ。
+クワじゃないな。
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT><FP_RIGHT>草をかるのは、<RED>カマ</COLOR>だよ。
+じょうろじゃないな。
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT><FP_RIGHT>そこじゃないよ。<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>やじるしのところだ。
+さっきやった、となりだよ。
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT><FP_RIGHT>いい感じだね！
+では、次はたがやしなさい。
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT><FP_RIGHT>どうかしたのかい？
+今、草をかったところだよ。
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_ANGRY><FP_RIGHT><FP_RIGHT>まずは、持っているものを、
+おろしなさい。<PAGE>持ち上げるのと、
+そうびは別だからね。
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT><FP_RIGHT>たがやすのは、<RED>クワ</COLOR>だよ。
+カマじゃないな。
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT><FP_RIGHT>たがやすのは、<RED>クワ</COLOR>だよ。
+じょうろじゃないな。
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_ANGRY><FP_RIGHT><FP_RIGHT>そこじゃないね。<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>やじるしのところだよ。
+さっきやった、となりだよ。
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT><FP_RIGHT>それでいいよ！
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT><FP_RIGHT>これで、ひりょうが、
+使えるようになったぞ。
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT><FP_RIGHT><RED>ひりょう</COLOR>だ。
+たがやした場所にさせるよ！<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>たがやした場所に、
+さしなさい。<PAGE>ひりょうももそうびすれば、
+使えるよ。
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT><FP_RIGHT>どうかしたのかい？
+今たがやしたところだよ。
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_ANGRY><FP_RIGHT><FP_RIGHT>まずは、持っているものを、
+おろしなさい。<PAGE>持ち上げるのと、
+そうびは別だからね。
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT><FP_RIGHT>ひりょうをさしなさい。<PAGE>カマは使わないな。
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT><FP_RIGHT>ひりょうをさしなさい。<PAGE>クワは使わないな。
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT><FP_RIGHT>ひりょうをさしなさい。<PAGE>じょうろは使わないな。
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_ANGRY><FP_RIGHT><FP_RIGHT>そこじゃないね。<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>やじるしのところだよ。
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT><FP_RIGHT>無事にひりょうがさせたね。
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_ANGRY><FP_RIGHT><FP_RIGHT>…ひりょうをなくしたのかい？
+<FACE_POS_RIGHT><FACE_INA><FACE_SAD><FP_RIGHT>仕方ないね…。
+次は、なくすなよ。
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT><FP_RIGHT>ひりょうの近くにある作物は、
+品質があがるからね。<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>有効に使いなさい。
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT><FP_RIGHT><RED>ひりょう</COLOR>だ。
+<PAGE>ひりょうの近くにある作物は、
+品質があがるからね。
+あとで、さしてみるといい。<PAGE><FP_RIGHT>作物の育て方は、
+こんなところだね。<PAGE>それでは部屋に戻ろうか。\u270e<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT><FP_RIGHT>育てた作物には品質があるよ。
+品質は、<RED>星の数</COLOR>で
+あらわされる。<PAGE>もし、品質を上げたいなら
+<RED>ひりょう</COLOR>をさすといいぞ。<PAGE>使い方は、まず作物の近くを
+たがやすんだ。<PAGE>そうすれば、ひりょうが
+させるようになる
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>Ini ada beberapa pupuk yang
+bisa kamu gunakan nanti.<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>Kebun ini memiliki banyak
+ruang untuk menumbuhkan
+tanaman, jadi tanam seba-<PAGE>banyak-banyak ya!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>Bersihkan rumput liar dengan
+sabit dimana arahnya yang
+ditunjuk itu.<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>Ada dua cara untuk mengguna-
+kan sabitmu itu.<PAGE>Apapun caranya, pindahkan
+sabitnya kebagian yang
+tertulis "Alat"...<PAGE>...Atau gunakan <RED>Tombol R</COLOR> untuk
+menampilkan layar alat,
+dan pilih sabitnya!<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>Setelah memegang sabitnya,
+pergi ketempat arahnya
+dan tekan <RED>Tombol A</COLOR>.<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>Dan itu bagaimana caranya
+kamu membereskan rumput
+liar yang tumbuh!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>そうそう。
+育てた作物だが…。<PAGE>育てた作物には品質がある。
+品質は、<RED>星の数</COLOR>で
+あらわされるぞ。<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>もし、品質を上げたいなら
+<RED>ひりょう</COLOR>をやると
+いいだろう。<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>ひりょうをたがやした地面に
+さす事で、周りに植えた作物の
+品質をあげる事ができるぞ！<PAGE>ちなみに、そうびの仕方は、
+カマやクワと同じだ。<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_SAD><FP_RIGHT>ただし、ひりょうはその作物が
+<RED>成長している間</COLOR>しか効果が
+ないから気をつけてくれ。
+----------------------------|----------------------------------
+<CHOICE_AB> Aku tidak tahu caranya.
+ Aku tahu aku tahu.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>そうだ。
+まだ、話しておかなければ
+ならない事があるんだ。<PAGE>上画面の左上を見てくれ。
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>では、出荷箱を
+置いている場所に案内しよう。
+ついて来てくれ。
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT>これが、このはな村の
+<RED>出荷箱</COLOR>だ。<PAGE>近づいて、<RED>Ａボタン</COLOR>を押すと
+下画面に出荷箱画面が
+出てくるよ。<PAGE><FACE_POS_LEFT><FACE_INA><FACE_HAPPY><FP_LEFT>そこに、とれた作物等の
+出荷したいものを入れると
+出荷ができるぞ。<PAGE>かんたんだろう？<PAGE><FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT>それから、一度出荷箱に
+入れた物は取り出せないから
+気をつけてくれ。<PAGE><FACE_POS_LEFT><FACE_INA><FACE_HAPPY><FP_LEFT>出荷した物のお金だが、
+朝一でキミの自宅に届くよう
+あたしの方で手配しておこう。<PAGE><FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT>出荷箱はいつでも使えるから
+自由に使ってくれ。<PAGE>作物のほかにも、
+山で見つけたものも
+ここで出荷できるぞ。<PAGE>山に行けば
+いろんなものが手に入る。<PAGE><FACE_POS_LEFT><FACE_INA><FACE_HAPPY><FP_LEFT>たけのこ、しめじ、
+クルミやハーブ…
+まさに山の幸（さち）だ！<PAGE>いっぱい手に入るから、
+<RED>荷馬γを連れて行くと
+便利</COLOR>だぞ。
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT>…ん？
+出荷箱はここにしかないのか
+\u270aだって？<PAGE>…そうだな。
+この村の出荷箱は
+ここにしかない。<PAGE>そういえば…、出荷箱は
+<BLUE>ブルーベル村</COLOR>にもあるぞ。<PAGE>出荷箱は、村に関係なく
+自由に使えるから、
+気にせず使うといい。<PAGE>山を降りた辺りに
+あるはずだ。<PAGE>きっとブルーベル村の村人は
+出荷箱に入った
+すばらしい作物を見て…、<PAGE><FACE_POS_LEFT><FACE_INA><FACE_HAPPY><FP_LEFT>あまりの美しさに
+腰をぬかすに違いない！！
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>Dan permintaanku dari papan
+permintaan semuanya sudah
+terpenuhi!<PAGE>oh dan aku sudah menaruh be-
+berapa hadiah untukmu di
+<RED>tempat penyimpanan</COLOR>mu.<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>Aku akan ada disekitar jika
+ada waktu luang akan mema-
+sang beberapa permintaan<PAGE>lagi dipapan, jadi bagusnya
+kamu cek setiap saat ya.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>Dibagian atas kiri dari
+layar atas ada sebuah
+bar ukur berwarna biru.<PAGE>Alat ukur itu akan memberi-
+tahu banyaknya <RED>Stamina</COLOR>
+yang tersisa.<PAGE>Disaat kamu menggunakan se-
+buah alat, <RED>itu akan
+mengurangi Stamina</COLOR>.<PAGE>Kamu akan <RED>pingsan</COLOR> jika
+barnya kosong.<PAGE>Jika kamu pingsan, kamu
+<RED>tidak akan bisa ber-
+gerak dihari itu</COLOR>, jadi<PAGE>hati hati ya.<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>Namun, kamu dapat menam-
+bah beberapa stamina de-
+ngan memakan sesuatu.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>Itu mengingatkanku... ada
+sesuatu yang ingin kujelas-
+kan kepadamu...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>Kamu dapat <RED>makan</COLOR> atau <RED>memasak</COLOR>
+tanaman yang kamu tanam dan
+panen, atau...<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>...Kamu dapat <RED>menjualnya
+untuk mendapatkan uang</COLOR>!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>Jika kamu lupa bagaimana me-
+ngambil sebuah permintaan,
+bisa bertanya lagi di<PAGE><RED>konter dibalai desa</COLOR>.<PAGE>Kamu dapat juga menemukan
+rumah para warga desa
+disana.<PAGE>Itu akan berguna disaat
+kamu ingin tahu dimana tem-
+pat para pemasang minta<PAGE>bantuan itu tinggal.<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>Bertani ini sebuah pekerja-
+an yang keras, tapi aku
+yakin kamu akan melakukan-<PAGE>nya dengan baik! Aku senang
+mempunyai orang-orang seper-
+timu didesa ini!<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>Well, Kayaknya aku harus
+kembali kebalai desa.
+Sampai jumpa, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>Oh ya ada beberapa lobak
+putih yang siap untuk di-
+panen, jadi cobalah untuk<PAGE>memanennya ya!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>Dan juga kamu dapat memanen
+tanaman untuk memasak atau
+mendapatkan uang.

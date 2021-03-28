@@ -1,0 +1,71 @@
+\u2137Talk about the request?
+<CHOICE_AB> Yes.
+ No.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HOWARD><FACE_SAD><FP_RIGHT>Uh oh! Looks like you
+don't have everything yet!
+<PAGE><FACE_POS_RIGHT><FACE_HOWARD><FACE_NORMAL>I'll wait here, so just
+come back later.<RED>❤</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HOWARD><FACE_NORMAL><FP_RIGHT>What is it?
+Is there something else you
+have to go do?<PAGE><FACE_POS_RIGHT><FACE_HOWARD><FACE_HAPPY>I'll wait, so just
+come back later.<RED>❤</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HOWARD><FACE_NORMAL><FP_RIGHT>Now the money.
+That's <VAR_0>G.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HOWARD><FACE_HAPPY><FP_RIGHT>Welcome, welcome!
+I heard you'd be coming.
+Thanks! I've been waiting!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HOWARD><FACE_HAPPY><FP_RIGHT>I knew you could do it,
+<MYNAME>! Great work!
+Thanks a lot!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HOWARD><FACE_HAPPY><FP_RIGHT>Bye, then!
+And please pass on my
+thanks!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HOWARD><FACE_NORMAL><FP_RIGHT><BLUE>
+MSG NOT APPEAR
+</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HOWARD><FACE_NORMAL><FP_RIGHT>　
+\u20d0<RED>　　　　DUMMY</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HOWARD><FACE_NORMAL><FP_RIGHT>　
+\u20d0<RED>　　　　DUMMY</COLOR>
+----------------------------|----------------------------------
+\u2137Talk about the request?
+<CHOICE_AB> Yes.
+ No.
+----------------------------|----------------------------------
+\u2137Decline reward item?
+<CHOICE_AB> Yes.
+ No.
+----------------------------|----------------------------------
+\u2137You got <VAR_0>G!
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HOWARD><FACE_NORMAL><FP_RIGHT>　
+\u20d0<RED>　　　 Dummy</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HOWARD><FACE_NORMAL><FP_RIGHT>　
+\u20d0<RED>　　　 Dummy</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HOWARD><FACE_NORMAL><FP_RIGHT>　
+\u20d0<RED>　　　 Dummy</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HOWARD><FACE_NORMAL><FP_RIGHT>　
+\u20d0<RED>　　　 Dummy</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HOWARD><FACE_NORMAL><FP_RIGHT>　
+\u20d0<RED>　　　 Dummy</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HOWARD><FACE_NORMAL><FP_RIGHT>　
+\u20d0<RED>　　　 Dummy</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HOWARD><FACE_NORMAL><FP_RIGHT>　
+\u20d0<RED>　　　 Dummy</COLOR>

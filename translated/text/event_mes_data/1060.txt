@@ -1,0 +1,95 @@
+<FACE_POS_RIGHT><FACE_HIRO><FACE_NORMAL><FP_RIGHT>Maaf jika ini merepotkanmu
+untuk membawamu ketempat
+ini.<PAGE>Tapi kamu tahu, <MYNAME>,
+ada sesuatu yang inginku
+utarakan kepadamu.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_NORMAL><FP_RIGHT>Aku benar-benar minta maaf
+atas hal yang mendadak ini
+kepadamu...<PAGE>Aku sudah memikirkan hal
+ini dari waktu ke waktu.<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_NORMAL><FP_RIGHT><MYNAME>, jadi kamu benar-
+benar bersemangat dan 
+mandiri itulah yang mendoro-<PAGE>ngku untuk memikirkan hal
+ini.<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_SAD><FP_RIGHT>Aku tahu bahwa pendapatan
+aku belumnya cukup dan
+sukses yang seharusnya...<PAGE>Tapi dari itu semua aku
+bisa meningkatkannya dengan
+cara bekerja giat...<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_ANGRY><FP_RIGHT>Dan saat ini aku merasa
+sudah meningkat karena
+kamu, bantuanmu.<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_NORMAL><FP_RIGHT>Dengan cintamu, Aku tahu
+... aku akan melakukannya
+sebaik mungkin.<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_SHOCK><FP_RIGHT>Aku mencintai kamu.
+Apakah kamu...\u270a\u270a
+menikahi aku?
+----------------------------|----------------------------------
+<CHOICE_AB> Ya! Aku 'dah menunggunya!
+ Aku belum siap...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_HAPPY><FP_RIGHT>Benarkah?
+Kamu benar-benar merasa
+yakin kah?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_HAPPY><FP_RIGHT>Terima kasih banyak!!!<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_SAD><FP_RIGHT>Aku sungguh legah...
+Tangisan ini karena terlalu
+bahagia mendengarnya...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_HAPPY><FP_RIGHT>Tapi tidak...!<PAGE>Bukannya tadi aku sudah ber-
+bicara bahwa aku akan men-
+jadi lebih kuatkan?<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_SAD><FP_RIGHT>Maafkan aku ya. Atas waktu-
+waktu ini.<PAGE>Dimulai dipoin ini dan kede-
+pannya, aku akan berlatih
+menjadi seorang lelaki<PAGE>yang dapat diandalkan!<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_NORMAL><FP_RIGHT><MYNAME>...<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_SHOCK><FP_RIGHT>Aku berterima kasih dari
+dalam lubuk hatiku yang
+terdalam.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_HAPPY><FP_RIGHT>Aku sudah mempersiapkan
+jiwa dan ragaku yang masih
+utuh ini hehe.<PAGE>Uh apa boleh aku memberitahu-
+kan berita baik ini kepada
+dokter Ayame?<PAGE>Dia sudah sangat baik kepada
+aku. Aku merasa aku harus
+memberitahukanya hal ini.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_AYAME><FACE_HAPPY><FP_LEFT>Oe oe selamat ya!
+Aku sangat senang untuk
+kalian ini.<PAGE><FACE_POS_LEFT><FACE_AYAME><FACE_NORMAL><FP_LEFT>Kapan pelaksaan pernikahan-
+nya?<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_NORMAL><FP_RIGHT>Oh, uh kita belum menentukan
+tanggal mainnya...<PAGE><FACE_POS_LEFT><FACE_AYAME><FACE_HAPPY><FP_LEFT>Tapi sebentar lagi kan?
+Seperti seminggu dari
+sekarang?<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_SAD><FP_RIGHT>Apa? 
+Kenapa kamu yang menentukan
+tanggal pernikahan kita?<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_ANGRY><FP_RIGHT>Kita butuh waktu untuk me-
+mikirkannya ini tante...<PAGE><FACE_POS_LEFT><FACE_AYAME><FACE_NORMAL><FP_LEFT>Ah, tapi <MYNAME> itu
+termasuk gadis popular di-
+desa sebelah loh!<PAGE><FACE_POS_LEFT><FACE_AYAME><FACE_HAPPY><FP_LEFT>Kamu tidak mau kan jika
+ada yang menikungmu dari
+belakang...<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_NORMAL><FP_RIGHT>Oh! Bener juga ya!<PAGE><FACE_POS_LEFT><FACE_AYAME><FACE_NORMAL><FP_LEFT>...\u270a\u270aOh, Aku bercanda kok!<PAGE><FACE_POS_LEFT><FACE_AYAME><FACE_HAPPY><FP_LEFT><MYNAME> ini gadis tipe-
+tipe setia kok. hehehe.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_AYAME><FACE_NORMAL><FP_LEFT><MYNAME>, jadi bagaimana
+seminggu dari sekarang
+pernikahannya diadakan?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_AYAME><FACE_HAPPY><FP_LEFT>Bagus!<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_NORMAL><FP_RIGHT>Jika <MYNAME> setuju, maka
+aku sudah tidak mengajukan
+keberatan dibagianku.<PAGE><FACE_POS_LEFT><FACE_AYAME><FACE_HAPPY><FP_LEFT>Maka sudah diputuskan,
+Aku akan membantu <MYNAME> 
+Dandani dia!<PAGE><FACE_POS_LEFT><FACE_AYAME><FACE_NORMAL><FP_LEFT>di hari pernikahannya,
+dikarenakan kamu akan sibuk
+sepanjang hari...<PAGE>Jadi selesaikan pekerjaanmu
+sebelum harinya, oke?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_SHOCK><FP_RIGHT>Ini terasa terlalu mendadak
+... Tapi aku sudah tidak
+sabar menantinya!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_SAD><FP_RIGHT>Oh, ...
+Jadi ini akhirnya...<PAGE>Aku benar-benar meminta
+maaf, <MYNAME>.<PAGE>Karena dipembicaraan ini
+aku ... memaksamu secara
+... seperti ini...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_SAD><FP_RIGHT>Ini dikarenakan aku terlalu
+berharap... Maaf ya...<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_NORMAL><FP_RIGHT>Aku benar-benar
+meminta maaf. Jika berkenan
+bolehkah aku pulang?

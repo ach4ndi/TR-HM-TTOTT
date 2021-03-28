@@ -1,0 +1,46 @@
+<FACE_POS_LEFT><FACE_ULYSSA><FACE_HAPPY><FP_LEFT>Now what should I do THIS
+time?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ULYSSA><FACE_NORMAL><FP_LEFT>First...I'll put in some of
+THIS...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ULYSSA><FACE_HAPPY><FP_LEFT>Now what should I add NEXT?
+Even just THINKING about
+alchemy is fun, fun, FUN!!
+
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ULYSSA><FACE_NORMAL><FP_LEFT>I THINK I used that stuff
+over there last time...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ULYSSA><FACE_NORMAL><FP_LEFT>So today...<PAGE>I'll go with THIS,\u270a THIS,
+and...\u270aTHIS! Perfectamundo!
+This will be my formula!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ULYSSA><FACE_SHY><FP_LEFT>WH-\u270a\u20d0WHERE DID YOU COME FROM?!
+You gave me a SHOCK!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ULYSSA><FACE_NORMAL><FP_LEFT>Whoa...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ULYSSA><FACE_NORMAL><FP_LEFT>Whoa-ho-ho...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ULYSSA><FACE_SHY><FP_LEFT>Aaaaiiiiiiyyyyyyyeeeee...!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ULYSSA><FACE_NORMAL><FP_LEFT>Oof...
+This is dangerous...\u270a...\u270a...<PAGE><FACE_POS_LEFT><FACE_ULYSSA><FACE_SHY><FP_LEFT>I'm going to FAAAALLLL...!!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_SHY><FP_RIGHT><HIDE_FACE>\u20d1Bwwwwaaaaaahhhh!!!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ULYSSA><FACE_SAD><FP_LEFT>Awwwwww...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ULYSSA><FACE_ANGRY><FP_LEFT>HOW MANY TIMES HAVE I TOLD
+YOU NOT TO TALK TO ME WHEN
+I'M DOING AN EXPERIMENT?!?!<PAGE>Yet another failure...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ULYSSA><FACE_NORMAL><FP_LEFT>But wait...<PAGE><FACE_POS_LEFT><FACE_ULYSSA><FACE_HAPPY><FP_LEFT>Yes, let's have it be all
+YOUR fault, <MYNAME>.<PAGE>I was JUST thinking about
+doing an experiment.
+Perfect timing!<RED>❤</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ULYSSA><FACE_HAPPY><FP_LEFT>The great Oracle has made
+her decision, and that's
+FINAL! Okey-dokey?

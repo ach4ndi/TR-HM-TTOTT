@@ -1,0 +1,82 @@
+<FACE_POS_RIGHT><FACE_HOWARD><FACE_NORMAL><FP_RIGHT>Oh, apakah itu salah?
+Aku tidak mengetahuinya...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><HIDE_NAME><FACE_GRADY><FACE_NORMAL><FP_LEFT><HIDE_FACE>Ada apa, Howard?<PAGE><FACE_POS_RIGHT><FACE_HOWARD><FACE_NORMAL><FP_RIGHT>Maaf. Aku agak banyak pikir-
+an sekarang.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GRADY><FACE_HAPPY><FP_RIGHT>Huh? Kenapa?<PAGE><FACE_POS_LEFT><FACE_HOWARD><FACE_NORMAL><FP_LEFT>Aku hanya khawatir...<PAGE><FACE_POS_RIGHT><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Itu bukanlah dirimu. Ada
+apa? Kamu bisa bicara kepada
+ku masalahnya...<PAGE><FACE_POS_LEFT><FACE_HOWARD><FACE_HAPPY><FP_LEFT>Oh, Grady.
+Kamu sungguh baik.
+Kurasa, jika kamu memaksa...<PAGE><FACE_POS_LEFT><FACE_HOWARD><FACE_NORMAL><FP_LEFT>Ini mengenai anakku, Laney.
+Akhir-akhir ini dia agak
+bersikap dingin terhadapku.<PAGE>Aku bertanya soal pacar
+kemarin. Apakah dia sedang
+pacaran...<PAGE>Dia berkata "itu sungguh
+aneh untukku jika kamu ber-
+tanya mengenai hal itu.<PAGE>Dan ini bukanlah urusanku!"<PAGE>Dan itu semua hal yang
+dibicarakan...<PAGE><FACE_POS_RIGHT><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Jadi Laney beraktik seper-
+itu juga?<PAGE>Jika kamu ingin tahu, anak-
+ku Georgia juga begitu.<PAGE>Memang gadis diumur se-
+gini memang agak susah
+ditebak...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_RUTGER><FACE_HAPPY><FP_LEFT>Ah. Halo, semuanya.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HOWARD><FACE_NORMAL><FP_RIGHT>Selamat datang, Rutger.<PAGE>Aku senang jika kamu ada di-
+sini...<PAGE><FACE_POS_RIGHT><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Aku ada beberapa pertanyaan
+untukmu. Jika kamu tidak
+keberatan.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_RUTGER><FACE_NORMAL><FP_LEFT>Oh tidak tidak. tidak
+masalah kok. Ada apa?<PAGE><FACE_POS_RIGHT><FACE_HOWARD><FACE_NORMAL><FP_RIGHT>Ini mengenai anakku. Dia
+tidak mau berbicara kepadaku
+mengenai kehidupan pribadi-<PAGE>nya lagi...<PAGE><FACE_POS_LEFT><FACE_RUTGER><FACE_NORMAL><FP_LEFT>Oh cuman itu saja?
+Ini tidak biasa untuk gadis
+seumurannya...<PAGE>Aku tahu bahwa kamu itu
+khawatir tapi jangan ter-
+lalu dipikirkan.<PAGE>Dia akan membuka diri nanti
+jika disaat mereka merasa
+nyaman, Howard.<PAGE><FACE_POS_RIGHT><FACE_HOWARD><FACE_NORMAL><FP_RIGHT>Aku tahu, tapi ini
+masih...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_RUTGER><FACE_HAPPY><FP_LEFT>Aku memiliki sebuah pesanan
+yaitu <VAR_0>.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Ini memang berat disaat kamu
+menyadari bahwa anakmu tidak
+membutuhkanmu lagi.<PAGE><FACE_POS_LEFT><FACE_RUTGER><FACE_NORMAL><FP_LEFT>Ya. Ini terlalu susah untuk
+melepaskannya.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Tentu saja. Tapi kamu harus
+memulai menganggap dia 'dah
+dewasa.<PAGE><FACE_POS_RIGHT><FACE_GRADY><FACE_HAPPY><FP_RIGHT>Laney itu ingin sebisanya
+menjalankan kehidupannya
+sendiri tanpa adanya bantu-<PAGE>an dari ayahnya, terutama
+saran.<PAGE><FACE_POS_LEFT><FACE_RUTGER><FACE_HAPPY><FP_LEFT>Ya. Ini semuanya bagian
+dari sebuah perkembangan
+jati diri.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HOWARD><FACE_NORMAL><FP_RIGHT>Maaf untuk membuatmu
+menunggu, bapak Rutger.<PAGE><FACE_POS_LEFT><FACE_RUTGER><FACE_NORMAL><FP_LEFT>Tidak masalah.
+Aku mah santai-santai aja
+kok.<PAGE><FACE_POS_LEFT><FACE_RUTGER><FACE_HAPPY><FP_LEFT>Kamu tuh sudah dipercayahi
+olehnya, dia akan datang
+jika dia benar-benar mem-<PAGE>butuhkan bantuan kok.
+jadi tenang saja, jangan
+overprotektif.<PAGE><FACE_POS_LEFT><FACE_RUTGER><FACE_NORMAL><FP_LEFT>Oke. Aku akan pergi ya.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Aku yakin Laney akan membi-
+carakannya jika kamu membe-
+rikan waktu.<PAGE>Just wait and see.<PAGE><FACE_POS_LEFT><FACE_HOWARD><FACE_NORMAL><FP_LEFT>Ya kamu benar.
+Aku akan melakukannya.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GRADY><FACE_HAPPY><FP_RIGHT>Sampai ketemu lagi ya.
+----------------------------|----------------------------------
+roll kubis
+----------------------------|----------------------------------
+asinan ikan
+----------------------------|----------------------------------
+jamur kukus
+----------------------------|----------------------------------
+lasagna

@@ -1,0 +1,604 @@
+<FACE_POS_CENTER><HIDE_NAME><FACE_SHENG><FACE_NORMAL><FP_RIGHT>So what's your name, eh?
+<MYNAME>, you say?
+Not much of a name...<PAGE><FACE_POS_CENTER><FACE_SHENG><FACE_HAPPY><FP_RIGHT>Me? I'm the blacksmith
+around here.<PAGE><BLUE>Sheng's</COLOR> my name, and it's
+a mighty good name, too!<PAGE><FACE_POS_CENTER><FACE_SHENG><FACE_ANGRY><FP_RIGHT>And you'd better not say
+anything about my outfit!
+Don't insult panda power!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Weather like yesterday's is
+no good for my tools.
+I better tend to them.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_HAPPY><FP_RIGHT>Not bad. It's almost as
+cute as a panda!
+
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>If it's not a panda, it's
+not cute to my mind.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>You're thinking about
+getting married? Aren't you
+a little young for that?<PAGE><FACE_POS_CENTER><FACE_SHENG><FACE_HAPPY><FP_RIGHT>Well, as long as you're
+sure it's love, I wish you
+the best of luck.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>For me? Nah, I wouldn't
+feel right.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>You've already given me
+enough today. Thanks,
+though.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>What do you think you're
+doing with that?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_HAPPY><FP_RIGHT>A birthday present for me?
+And lookit that, it's <RED>agate</COLOR>!
+I love agate!<PAGE>You're a perceptive
+youngster. Thank you!
+
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_HAPPY><FP_RIGHT>Isn't that pretty, now?
+You're a thoughtful one, eh?<PAGE>I appreciate that.
+Thank you very much!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>For my birthday, eh?
+You're a thoughtful one.
+<PAGE><FACE_POS_CENTER><FACE_SHENG><FACE_HAPPY><FP_RIGHT>Very nice! I thank you.
+It's very important to show
+respect for your elders.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_HAPPY><FP_RIGHT>How did you figure out
+what I like?
+Thanks!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>A birthday present, eh?
+Seems pretty nice.
+I'll take it, and thanks.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>You're a thoughtful one, eh?
+I accept your gift.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_ANGRY><FP_RIGHT>You got something against
+me, eh? If so, spit it
+out!<PAGE>If not, why in tarnation did
+you get me something like
+this on my birthday?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_SAD><FP_RIGHT>What are you giving me this
+for? Are you pulling my leg?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_ANGRY><FP_RIGHT>Confound this thing! I hate
+its chirping! It ruins my
+concentration!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>!
+Glad you got married?<PAGE>Once you're married, you've
+got to protect your family
+at all costs.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_SAD><FP_RIGHT>Hmmm. Will the pandas be
+safe? This wind isn't
+messing around.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_SAD><FP_RIGHT>Will the panda be okay in
+all this snow? I hope
+it doesn't get buried.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_HAPPY><FP_RIGHT>I never met anybody before
+that I could talk pandas
+with like I can with you.<PAGE>I look forward to watching
+the panda grow with you.
+
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_HAPPY><FP_RIGHT>Did you think that pandas
+only eat bamboo?<PAGE>They also eat things like
+fruit. Didn't know that,
+did ya?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_HAPPY><FP_RIGHT>Newborn pandas are awfully
+small.<PAGE>It's amazing how big they
+grow to be.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_HAPPY><FP_RIGHT>Pandas climb trees, but are
+no good at climbing down.
+It's part of their cuteness.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Pandas love to drink water.
+Did you know that?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>How can pandas be so
+unbelievably cute?
+Tell me, eh, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>What now?
+I'm trying to think!
+Talk to me later!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Oh, for the festival? What
+are you showing that to me
+for?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Anything that's not a panda,
+I got nothing to say about
+it.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_HAPPY><FP_RIGHT>There is just nothing cuter
+than a panda.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_ANGRY><FP_RIGHT>Aiiieee!
+Quit it!!
+That's no panda!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Not much of a pet.
+Why bother showing it to me?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_HAPPY><FP_RIGHT>For me, eh?
+Don't get one of these too
+often. Thanks!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_HAPPY><FP_RIGHT>What's all this?
+Bunch of wrapping, eh?
+What's in here...?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_HAPPY><FP_RIGHT><MYNAME>, you're a girl
+with some spunk! I like
+that!<PAGE>You run your farm the right
+way, and I'll help you out
+any way I can.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Tell you what, <MYNAME>...
+Move to this village, and
+you'll see pandas every day!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>That panda is so soft and
+cuddly. Do you think it'd
+let me take a nap with it?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>There's only one reason I'm
+here: this is where
+the panda is!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>There's only one reason I'm
+here: this is where
+the panda is!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>This tunnel is very well-
+made. Outstanding work!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>It's nothing like Konohana
+around here.
+And no pandas!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Eileen has potential as an
+artisan. She'd be
+worth teaching
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Guess I'll head home.
+It's a snap now that the
+tunnel's done.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Now that the tunnel's done,
+people from Bluebell will
+come see the panda!<PAGE>That's tremendous!
+Don't you agree, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Look at all the bamboo
+around here! Panda chow!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_HAPPY><FP_RIGHT>Ho, <MYNAME>.
+Thanks for cheering us on.<PAGE>Konohana won the Cooking
+Festival!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_ANGRY><FP_RIGHT>Confound it, <MYNAME>!
+Your weak cheering cost us
+the Cooking Festival!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>We were opponents in this
+year's Cooking Festival.
+Next time, let's team up.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_SAD><FP_RIGHT>Why'd we lose the Cooking
+Festival?
+Not enough gumption, eh?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Eh, no big deal.
+Practice harder.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_HAPPY><FP_RIGHT>How could the Festival
+be fun when there won't be
+any pandas there...?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_HAPPY><FP_RIGHT>What were you up to today?
+No time to participate in
+the festival, eh?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Unless you put all your
+passion into it, you won't
+win.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Want to be in this festival,
+eh, <MYNAME>?
+Move to Konohana, then.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Morning, <MYNAME>.
+Got big plans today?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Morning, <MYNAME>.
+Want to do some panda
+exercises with me?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Morning. *yawn*<PAGE>Just like pandas, I'm a
+little sluggish in the
+morning.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, hello, <MYNAME>!<PAGE>I hope you're putting all
+that youthful energy to
+good use!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_HAPPY><FP_RIGHT>Hello, <MYNAME>.
+Whenever I see your face, I
+think of delicious crops!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Oh, it's you, <MYNAME>.
+Not now, not now.
+I'm thinking about pandas.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Good evening, <MYNAME>.<PAGE>Pandas settle down for the
+night around this time, and
+so do I.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Look at the time, <MYNAME>!
+Be off home now!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Evening.
+I'm feeling sleepy.
+You can wait till tomorrow.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_ANGRY><FP_RIGHT>What are you up to?
+If it's about business, talk
+to me across the counter.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>I'm working right now!
+No time for chitchat!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_ANGRY><FP_RIGHT>Whaddaya want?
+I'm busy.
+Come back later, eh?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Hmm, well...
+Take your time, now!
+Nothing's going on.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Hmm, well...
+Take your time, now!
+Nothing's going on.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Hmm, well...
+Take your time, now!
+Nothing's going on.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>I never saw that coming!
+You, the winner? Didn't
+think you had it in you.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_HAPPY><FP_RIGHT>The judge for the Cooking
+Festival really knows food.
+Winning it is impressive!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_HAPPY><FP_RIGHT>Looking at your dish
+made me hungry...!
+Cook me something, eh?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>It's all over.
+Good work.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>I wanted to see the festival
+with my panda...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Festivals always get me
+pepped up. There's always
+something exciting.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_HAPPY><FP_RIGHT>Ain't that something!?
+Now that's a pro at work!
+Good job!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Well now, <MYNAME>,
+congratulations on winning.<PAGE>I always knew you were gonna
+make a name for yourself.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Growing crops may look easy,
+but it's tough.<PAGE><MYNAME>, the hard work
+you put in is clear as day!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Well, I don't mind festivals
+like that now and again!
+The arts are important!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>The arts build character!
+Not as much as
+blacksmithing, though.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>That was pretty amazing,
+wasn't it?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Confound it, I lost!
+I'll win it next year!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>How'd I lose that one?
+I wasn't ready enough.
+Next time I won't lose.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_SAD><FP_RIGHT>I lost to you of all people!
+Now that hurts.
+I'll train for next time.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.

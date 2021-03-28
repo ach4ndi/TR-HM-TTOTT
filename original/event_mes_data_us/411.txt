@@ -1,0 +1,22 @@
+<FACE_POS_RIGHT><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Hey there, Ying. What are
+you up to?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_YING><FACE_NORMAL><FP_LEFT>Oh, I'm just enjoying the
+sunshine...<PAGE>The weather's so nice
+today...<PAGE><FACE_POS_RIGHT><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Ah, I see.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RAHI><FACE_HAPPY><FP_RIGHT>A-Anyway, I have some free
+time today, so, um, let's
+go do something fun!<PAGE><FACE_POS_RIGHT><FACE_RAHI><FACE_ANGRY><FP_RIGHT>But remember, it's just
+because I have some free
+time!<PAGE><FACE_POS_LEFT><FACE_YING><FACE_NORMAL><FP_LEFT>No, I know you're busy. You
+don't have to go out of your
+way. I'm fine by myself...<PAGE><FACE_POS_RIGHT><FACE_RAHI><FACE_SAD><FP_RIGHT>Erm...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_YING><FACE_NORMAL><FP_LEFT>I have to go back inside
+to my room anyway.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RAHI><FACE_SAD><FP_RIGHT>Man... I was hoping to
+actually talk with her
+awhile...<PAGE>Shoot! Why does it always
+end up like this?

@@ -1,0 +1,639 @@
+<FACE_POS_CENTER><HIDE_NAME><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Heii, wajahmu itu tampak
+baru kukenal ya!<PAGE><MYNAME> apakah itu
+namamu?<PAGE><FACE_POS_CENTER><FACE_AYAME><FACE_HAPPY><FP_RIGHT>Ya aku <BLUE>Ayame</COLOR>.
+Seorang dokter didesa ini.<PAGE>Jika kamu membutuhkan aku,
+bisa datang kapan saja
+untuk bertemu denganku.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_SAD><FP_RIGHT>Aku selalu merasa sedih di-
+saat cuaca buruk seperti
+badai kemarin itu.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, pemuda.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, pemuda.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, pemuda.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_HAPPY><FP_RIGHT>Aww.
+Lucunya!
+Betapa menggemaskannya!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_ANGRY><FP_RIGHT>Apa itu?
+Apakah kamu mencoba untuk
+mengangkatnya didepanku?<PAGE>Betapa kekanak-kanaknya
+engkau itu...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, pemuda.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_HAPPY><FP_RIGHT>Uh sekarang, apakah itu se-
+buah bulu biru?!<PAGE>Jadi kamu mau mencoba
+melamar seseorang?<PAGE>Jangan sampai gagal ya!
+Aku akan mendukungmu!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Aku tidak menginginkannya
+saat ini. Sedang gak mood.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Oh, hadiah lain untuk hari
+ini? Hmm, maaf kalau aku
+menolaknya. maaf.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, pemuda.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, pemuda.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Kamu itu sedang apa?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_HAPPY><FP_RIGHT>Aku tidak pernah mendapat-
+kan hadiah ulang tahun se-
+bagus itu.<PAGE>Itu sungguh bagus!
+Makasih, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_HAPPY><FP_RIGHT><RED>quiche</COLOR>!
+Itu tampaknya lezat ya!<PAGE>Betapa nikmatnya!
+Terima kasih ya!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, pemuda.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, pemuda.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Terima kasih ya, ini akan
+menjadi hari ulang tahunku
+yang tidak pernah kulupakan,<PAGE><MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Aku histeris melihatnya.
+Aku tidak bisa menahan
+dengan itu. Makasih!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Jadi kamu tahu bahwa hari
+ini adalah hari ulang tahun
+ku? Aku sungguh senang!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Ini untuk aku?
+Betapa baiknya engkau ini.
+Makasih!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Sebuah hadiah ulang tahun?
+Um, enaknya berkata apa ya?<PAGE>Sebenarnya, aku tidak menyu-
+kainya.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Aku hanya tidak bisa mau
+dengan sesuatu itu.<PAGE>Tapi aku akan menerimanya
+saja, karena tidak enak
+kalau menolaknya.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Tidak, jangan <RED>Sereal jagung</COLOR>!
+Aku tahu itu penuh akan
+banyaknya nutrisi, tapi...<PAGE>Aku tidak menyukainya...<PAGE>Maafkan aku kalau berkata
+seperti itu, hadiah ini
+adalah hadiah terburuk.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, pemuda.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Apakah hidup bersama Hiro
+itu yang kamu harapkan,
+<MYNAME>?<PAGE>Kamu itu salah satu gadis
+yang beruntung, untuk men-
+dapatkan masakan rumahnya<PAGE>tiap hari...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Tampaknya pernikahan itu
+membuatmu semakin tampak
+terawat, <MYNAME>.<PAGE><FACE_POS_CENTER><FACE_AYAME><FACE_SAD><FP_RIGHT>Aku harap kamu bisa melihat
+Seorang lelaki yang tepat
+buatku... *sigh*
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_SAD><FP_RIGHT>Aku berharap semua orang
+untuk tidak pergi keluar
+dihari ini.<PAGE>Itu cukup berbahaya diluar.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_ANGRY><FP_RIGHT>Salju saat ini sungguh
+lebat. Tetaplah didalam
+rumah dan hangat!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_HAPPY><FP_RIGHT><MYNAME>, Aku senang
+sudah bertemanan denganmu.<PAGE>Sejak bertemu denganmu, aku
+merasa seperti banyak
+belajar dari berbagai hal.<PAGE>Jadi tetap menjadi
+temanku ya!
+Oke!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Di Konohana, orang-orangnya
+jarang yang sakit.<PAGE>Kemungkinan dikarenakan
+udaranya bersih dan tanaman
+nya segar-segar semuanya.<PAGE>Itu membuat pekerjaanku
+semakin mudah!
+hehehe.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_HAPPY><FP_RIGHT>Bagaimana keadaan kebunmu?
+Apakah bisa aku mengunjungi-
+nya?<PAGE>Aku hanya tertarik untuk
+melihat kehidupan pertanian
+itu seperti apa.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_HAPPY><FP_RIGHT>Aku selalu senang jika ber-
+temu denganmu, <MYNAME>. 
+Kamu itu teman yang baik.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Beri tahuku jika kamu ter-
+luka.<PAGE>Karena semakin cepat, sema-
+kin bagus untuk penyembuhan
+lukanya.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Apakah kamu terluka?
+Apa ada yang salah denganmu?
+Jika benar, beritahukan aku.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Ayo datang kemari.
+Buat tehmu sendiri ya,
+jika kamu mau.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, pemuda.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, pemuda.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, pemuda.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, pemuda.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, pemuda.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, pemuda.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, pemuda.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, pemuda.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, pemuda.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, pemuda.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, pemuda.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, pemuda.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, pemuda.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, pemuda.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, pemuda.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, pemuda.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, pemuda.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, pemuda.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, pemuda.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, pemuda.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, pemuda.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, pemuda.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, pemuda.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, pemuda.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, pemuda.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, pemuda.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, pemuda.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, pemuda.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, pemuda.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, pemuda.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, pemuda.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, pemuda.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, pemuda.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, pemuda.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, pemuda.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, pemuda.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_HAPPY><FP_RIGHT>Apakah itu untuk festival-
+nya? Semoga beruntung,
+kiddo.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, pemuda.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, pemuda.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Huh...
+Sungguh tidak menarik...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_HAPPY><FP_RIGHT>Apa yang kita punya disini?
+Wow sungguh menggemaskan!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_ANGRY><FP_RIGHT>Jangan berikan itu kesini!
+Jauhkan aku dari itu!
+iiiiiiiiih
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Binatang liar itu sungguh
+berbahaya. Jadi kamu harus
+membiarkannya hidup bebas.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, pemuda.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, pemuda.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, pemuda.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, pemuda.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, pemuda.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, pemuda.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, pemuda.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, pemuda.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, pemuda.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, pemuda.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, pemuda.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, pemuda.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_HAPPY><FP_RIGHT>Bunga untukku?
+Makasih!
+Itu sungguh manis sekali.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, pemuda.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, pemuda.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, pemuda.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, pemuda.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, pemuda.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, pemuda.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_HAPPY><FP_RIGHT>Tidak sabar untuk melihat
+isinya seperti apa...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_HAPPY><FP_RIGHT><MYNAME>, kamu itu
+seperti adikku sendiri.
+Kamu itu sungguh manis deh.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, pemuda.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Tatap aku untuk beberapa
+detik...
+Buka yang lebar...<PAGE><FACE_POS_CENTER><FACE_AYAME><FACE_ANGRY><FP_RIGHT>Dan tahan ya!!!
+Itu tampaknya tidak bagus.<PAGE>Makan sesuatu yang bernutri-
+si dan tidur jangan larut
+malam ya!<PAGE>Itu perintah dokter.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Tatap aku untuk beberapa
+detik...
+Buka yang lebar...<PAGE><FACE_POS_CENTER><FACE_AYAME><FACE_ANGRY><FP_RIGHT>Dan tahan ya!!!
+Itu tampaknya tidak bagus.<PAGE>Makan sesuatu yang bernutri-
+si dan tidur jangan larut
+malam ya!<PAGE>Semua dah selesai di-
+cek!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, pemuda.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, pemuda.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_HAPPY><FP_RIGHT>Aku sudah bekerja lebih
+banyak diminggu ini.<PAGE>Hari ini aku ingin tidak
+berada diklinik untuk
+beberapa saat.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_SAD><FP_RIGHT>Oh boy, hari ini
+seperti cepat berlalu.
+Tidak ada istirahat ya...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_ANGRY><FP_RIGHT>Sekarang tahan untuk bebera-
+detik ya, <MYNAME>.<PAGE>Apa yang kamu lakukan kelu-
+ar disaat hujan seperti ini
+tanpa menggunakan payung?<PAGE>Kamu akan kedinginan!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, pemuda.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, pemuda.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, pemuda.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, pemuda.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, pemuda.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, pemuda.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, pemuda.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, pemuda.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_HAPPY><FP_RIGHT>Hari ini adalah hari yang
+bagus!<PAGE>Kita tidak dapat melakukan-
+nya kalau tanpa adanya
+dukunganmu kepada kami!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_SAD><FP_RIGHT>Kita kalah hari ini...
+Dan kamu sudah menyemangati
+kami juga, ... oh ...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_HAPPY><FP_RIGHT><MYNAME>, Aku ingin
+ikut dalam festival memasak
+bersamamu. Untuk Konohana.<PAGE>Pastinya.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, pemuda.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, pemuda.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_SAD><FP_RIGHT>Oh dasar rajungan! Kita
+kalah! Beri semangat donk,
+kiddo!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, pemuda.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Kedepannya selalu ada kesem-
+patan kok, kiddo.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_SAD><FP_RIGHT>Festival hari ini pastinya
+menyenangkan. Aku hanya
+khawatir jika ada orang<PAGE>yang mengalami cidera atau
+terluka gegara hal yang
+sepeleh...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Kamu tidak ikutan untuk
+hari ini ya?<PAGE>Apakah kamu sedang sakit?<PAGE>Apakah aku harus memeriksa
+kondisimu itu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, pemuda.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Oh boy, dan harapanku keli-
+hatannya terlalu tinggi...
+Mungkin lain waktu ya.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, pemuda.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, pemuda.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, pemuda.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, pemuda.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, pemuda.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, pemuda.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, pemuda.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, pemuda.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, pemuda.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, pemuda.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, pemuda.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, pemuda.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, pemuda.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, pemuda.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, pemuda.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, pemuda.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, pemuda.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, pemuda.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, pemuda.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, pemuda.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, pemuda.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Tinggal duduk manis untuk
+melihat festivalnya?
+Oke itu oke oke aja.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, pemuda.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, pemuda.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, pemuda.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, pemuda.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, pemuda.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, pemuda.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, pemuda.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, pemuda.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, pemuda.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, pemuda.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, pemuda.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, pemuda.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, pemuda.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, pemuda.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, pemuda.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, pemuda.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, pemuda.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, pemuda.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, pemuda.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Selamat pagi, <MYNAME>.<PAGE>Bagaimana keadaanmu?<PAGE>Jika kamu mengantuk, coba
+beberapa latihan untuk
+membangunkanmu!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Selamat pagi, <MYNAME>.<PAGE>Aku memiliki masalah darah
+rendah gula, jadi dipagi
+hari itu sangat-sangat mem-<PAGE>beratkan untukku...
+Aku selalu mengantuk...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Ugh. Met pagi.
+Kalau terlalu mengantuk,
+itu juga berbahaya juga.<PAGE>Kamu akan tampak kikuk dan
+kemungkinan lebih besar
+untuk melukai diri sendiri.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, <MYNAME>.
+Ada sesuatu yang ingin ku-
+bantu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, <MYNAME>.<PAGE>Bagaimana pekerjaanmu?
+Jangan bergumang disekitar!
+Tetaplah bekerja keras ya!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi.<PAGE><MYNAME>, Aky dapat mem-
+baca pikiranmu seperti aku
+membaca sebuah buku.<PAGE>Aku tahu apa yang kamu
+pikirkan saat ini.
+hehehe
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Malam, <MYNAME>.<PAGE>Ini saatnya untuk kekasur.
+Seorang dokter harus membe-
+rikan contoh yang baik.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Malam, <MYNAME>.<PAGE>Aku lega kamu datang kemari,
+tapi kamu harusnya pagi-
+pagi sudah memulainya loh,<PAGE>jadi pulang kerumah dan
+tidur dikasur!
+Jangan dikandang sapi ya!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Selamat Malam.<PAGE>Aku butuh untuk membersihkan
+tempat ini, karena tampak
+sangat berdebu.<PAGE>Mungkin aku terlalu sibuk
+untuk membersihkannya,
+jadi berdebu kek gini.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, pemuda.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, pemuda.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, pemuda.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, pemuda.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, pemuda.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, pemuda.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_HAPPY><FP_RIGHT>Mmm. Lezat!
+Makanan disini ini sungguh
+lezat, seperti masakan ibuku.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Kamu penasaran kan, kenapa
+aku tidak memasak sendiri?<PAGE>Itu bukannya aku tidak bisa
+memasak, tapi itu hanya...
+tidak banyak waktu saja.<PAGE>Dan aku tidak suka menyiap-
+kan dan membersihkannya.<PAGE>Itu hanya buang-buang
+waktu saja!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Apa yang harus kulakunan di-
+hari ini? Apa rekomendasimu
+, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Ada apa?
+Apakah kamu merasa sakit?
+Tidak? Oke baguslah.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Ada apa?
+Apakah kamu merasa sakit?
+Sakit patah hati? hahaha
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Ada apa?
+Apakah kamu merasa sakit?
+Merasa jones? Itu nasibmu.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, pemuda.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, pemuda.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, pemuda.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, pemuda.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, pemuda.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, pemuda.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, pemuda.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, pemuda.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, pemuda.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_HAPPY><FP_RIGHT><MYNAME>, kamu itu se-
+orang pemasak yang hebat!<PAGE>Tampaknya aku dapat memakan
+masakkan rumahmu setiap
+saat! :3
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Untuk menjaga kemenangan
+itu menunjukkan hasil dari
+kerja kerasmu selama ini!<PAGE>Selamat ya!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Makananmu tampaknya enak!
+Akau aku harus memintamu
+untuk memasak diklinik?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_HAPPY><FP_RIGHT>Aku sungguh senang tidak ada
+orang terluka difestivalnya.
+Sungguh melegakan.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Ah, ternyata sudah selesai.
+Aku khawatir jika ada se-
+seorang yang sakit...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Dikarenakan tidak ada yang
+salah, maka aku dapat tidur
+dengan nyenyak dimalam ini.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_HAPPY><FP_RIGHT>Apapun yang kumakan tanaman
+yang kamu panen itu, aku
+merasa ada energi besar<PAGE>yang keluar dari tubuhku!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_HAPPY><FP_RIGHT>Selamat atas kemenangannya!
+Aku tahu bahwa kamu dapat
+melakukannya, kiddo.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Produk yang segar itu pasti-
+nya menyehatkan, jadi tetap-
+lah menanam tanaman.<PAGE>Semua orang seharusnya mem-
+belinya darimu.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Ah, perasaan yang bagus.
+Aku yakin aku akan tidur
+nyenak semalaman.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_HAPPY><FP_RIGHT>Festival hari ini sungguh
+banyak hal yang menyenang-
+kan. 
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Sungguh menyenangkan, hari-
+hari yang sungguh rileks
+ini.<PAGE>Aku tahu aku akan bangun
+dengan merasakan kelegahan
+keesokan harinya!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_HAPPY><FP_RIGHT>Selamat atas kemenangannya!<PAGE>Kamu tampak seperti anak
+kecil yang ada diluar,
+kamu tampaknya sangat<PAGE>menikmatinya.
+Aku sungguh iri loh!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Tidak terluka kan?
+Jangan memaksakan diri,
+itu saranku.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Festival hari ini sungguh
+menyenangkan untuk para
+orang dewasa. Aku tahu...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, pemuda.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, pemuda.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, pemuda.

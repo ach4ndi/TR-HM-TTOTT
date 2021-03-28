@@ -1,0 +1,31 @@
+<FACE_POS_LEFT><HIDE_NAME><FACE_NATHAN><FACE_NORMAL><FP_LEFT><HIDE_FACE>Selamat pagi, anakku!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><HIDE_NAME><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Apakah namamu <MYNAME><PAGE><FACE_POS_RIGHT><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Nama aku <BLUE>Nathan</COLOR>. 
+Aku pengikutnya si dewi
+tani! :v
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Aku datang kemari karena
+aku dengar dewi tani telah
+membuat sarang, ...<PAGE>maksudnya rumah singganya
+disini.<PAGE><PAGE><FACE_POS_RIGHT><FACE_NATHAN><FACE_HAPPY><FP_RIGHT>Hidup aku habiskan untuk
+menyanyi sanjungan sang
+dewi tani, disinilah aku!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NATHAN><FACE_HAPPY><FP_RIGHT>Aku pindah disekitar gejera
+jadi aku bisa lebih dekat
+dengan sang dewi tani.<PAGE>Aku disini bagaikan hujan
+atau sinar menyilaukan,
+jadi kunjungi kapanpun<PAGE>kamu suka, tapi jangan intip
+-intip ya apalagi
+ngintip si dewi tani.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NATHAN><FACE_HAPPY><FP_RIGHT>Aku pindah ke gereja di
+desa bluebell karena dekat
+dengan tempatnya dewi tani.<PAGE>Aku disini bagaikan hujan
+atau sinar menyilaukan,
+jadi kunjungi gereja jika<PAGE>sangat ingin mengunjunginya!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Well, aku akan pergi
+sekarang. aku harap nanti
+bisa ketemu lagi!<PAGE>btw, awas kena ranjau darat
+ya!

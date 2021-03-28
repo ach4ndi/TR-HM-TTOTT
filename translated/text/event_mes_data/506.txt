@@ -1,0 +1,133 @@
+<FACE_POS_LEFT><HIDE_NAME><FACE_RUTGER><FACE_NORMAL><HIDE_FACE><FP_LEFT>Selamat pagi, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Bagaimana kegiatanmu itu?<PAGE>Aku datang kesini untuk mem-
+beritahu sesuatu kepadamu
+yang akan menjadi sangat<PAGE>berguna untuk tinggal
+disini.<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Ayo ikut denganku ke alun-
+alun desa.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Aku pikir aku akan menjelas-
+kan mengenai permintaan.<PAGE>Aku pikir ini akan menjadi
+lebih cepat dijelaskan jika
+aku menunjukkanmu langsung<PAGE>apa yang aku jelaskan
+kepadamu.<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Ikuti aku.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Ini adalah <RED>papan pesan</COLOR>.<PAGE>Para warga desa yang membu-
+tuhkan sesuatu akan memasa-
+ng <RED>permintaannya</COLOR> disini.<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Untuk membaca permintaannya,
+tinggal hadap pas didepan
+papan dan tekan <RED>tombol A</COLOR>.<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Aku harap kamu mengambil
+beberapa permintaan disaat
+kesempatannya ada.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Oke, kalau begitu aku akan
+menjelaskannya!<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Pertama,kamu harus mengambil
+dengan menerima sebuah per-
+mintaan dari papan.<PAGE>Selanjutnya, kamu coba me-
+menuhinya barang yang
+diminta.<PAGE>Dan terakhir, kamu akan
+memberikan barang yang
+diminta keorang tersebut.<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Jika kamu mengantarkan apa
+yang diminta sesuai jadwalnya,
+kamu akan mendapatkan <RED>hadiah</COLOR>.<PAGE>Disaat kamu mendapatkan
+hadiahnya, itu tandanya
+permintaan itu terpenuhi!<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Dan itu dasar bagaimana
+cara kerja untuk memenuhi
+permintaan.<PAGE>Ada tiga hal yang perlu
+diingat mengenai permintaan
+yang diambil.<PAGE>Pertama, adalah batas waktu.<PAGE>Jika kamu kelewatan dari
+jadwalnya, maka permintaan
+yang diambil akan gagal.<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_SAD><FP_RIGHT>Orang yang memintanya
+akan tidak menerimanya.<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Tapi jangan khawatir
+Tidak ada sanksi apapun
+kalau gagal!<PAGE>Jadi jangan khawatir
+jika gagal memenuhinya!
+Jadi ambil saja yg banyak!!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Dan itulah dasar-dasarnya
+mengenai cara kerja dari
+suatu permintaan!<PAGE>Apakah kamu mau ku-
+jelaskan lagi??
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Sentuh <RED>Permintaan</COLOR> dilayar
+bawah jika ingin menge-
+cek apa yang diambil.<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Sekarang, kenapa tidak kamu
+ambil sebuah permintaan
+yang ada disini??<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Pertama, cek papan pesannya.
+Kamu akan melihat per-
+mintaannya dilayar bawah.<PAGE>Gunakan <RED>+Control Pad</COLOR> untuk me-
+milih permintaannya, lalu
+tekan <RED>Tombol A</COLOR> untuk<PAGE>melihatnya.<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Aku sudah menaruh per-
+mintaan perdana untukmu!
+Jadi coba ambil yang itu!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Oke, aku akan menjelas-
+kan lagi.<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Ini adalah sebuah <RED>papan pesan</COLOR>.<PAGE>Warga desa yang membutuh-
+kan bantuan akan mema-
+sang sebuah catatan<PAGE><RED>Permintaannya</COLOR> disini.<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Untuk membaca permintaannya,
+Hanya hadap didepan papan
+dan tekan <RED>Tombol A</COLOR>.<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Aku harap kamu akan
+mengambil beberapa permin-
+taan diwaktu luang.
+----------------------------|----------------------------------
+<CHOICE_AB> Ya, kumohon.
+ Makasih, sudah paham.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT><FP_RIGHT>Dan itu caranya!
+Bagaimana kamu meneri-
+ma sebuah permintaan!<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Untuk permintaan yang baru-
+san kamu terima, <RED>Oleh</COLOR>...
+<RED>Rutger</COLOR>... Pastinya, itu aku!<PAGE>Dan seperti apa yang ter-
+tulis disitu, aku ingin men-
+jelaskan sesuatu kepadamu.<PAGE>Jadi, ayo kembali ke
+kebunmu sekarang.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Hal kedua yang perlu di-
+ingat yaitu bagaimana cara
+untuk mengirimnya.<PAGE>Pertama, setelah mengambil
+permintaannya, cari barang-
+nya dan taruh kedalam tas.<PAGE>Selanjutnya, bicara ke yang
+minta bantuan, dan mereka
+akan menanyakanmu jika<PAGE>kamu ingin membicarakan
+permintaannya.<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Setelah itu, layar itu akan
+tampil dimana kamu bisa
+memberikan barang yang<PAGE>diminta olehnya.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Setelah kamu membawakan
+barangnya, kamu akan men-
+dapatkan sebuah <RED>hadiah</COLOR>.<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_ANGRY><FP_RIGHT>Dan ini hal terakhir yang
+perlu diingat, dan sangat
+penting!<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Jika tasmu penuh...<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_ANGRY><FP_RIGHT>...Kamu akan dipaksa untuk
+<RED>Buang</COLOR> atau <RED>kehilangan
+hadiahnya</COLOR>!<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_SAD><FP_RIGHT>Kamu pastinya tidak ingin
+kehilangan hadiah yang sudah
+susah payah, iyakan??<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Jadi pastikan tasmu itu
+ada ruang kosong ya!
+Sebelum menyelesaikannya!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Biarkan aku menjelaskan
+dasar dari permintaan kepada
+mu. Ingin diberi tahu??
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Pertama, kamu harus mengambil
+dengan menerima sebuah per-
+mintaan dari papan.<PAGE>Selanjutnya, kamu coba me-
+menuhinya barang yang
+diminta.<PAGE>Dan terakhir, kamu akan
+memberikan barang yang
+diminta keorang tersebut.<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Jika kamu mengantarkan apa
+yang diminta sesuai jadwalnya,
+kamu akan mendapatkan <RED>hadiah</COLOR>.<PAGE>Disaat kamu mendapatkan
+hadiahnya, itu tandanya
+permintaan itu terpenuhi!<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Dan itu dasar bagaimana
+cara kerja untuk memenuhi
+permintaan.<PAGE>Ada tiga hal yang perlu
+diingat mengenai permintaan
+yang diambil.<PAGE>Pertama, adalah batas waktu.<PAGE>Jika kamu kelewatan dari
+jadwalnya, maka permintaan
+yang diambil akan gagal.<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_SAD><FP_RIGHT>Orang yang memintanya
+akan tidak menerimanya.<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Tapi jangan khawatir
+Tidak ada sanksi apapun
+kalau gagal!<PAGE>Jadi jangan khawatir
+jika gagal memenuhinya!
+Jadi ambil saja yg banyak!!

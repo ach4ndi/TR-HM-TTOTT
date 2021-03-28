@@ -1,0 +1,61 @@
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>Kesalahan!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Oh, para penggemar
+mancing!<PAGE>Kamu datang kesini untuk men-
+cari <RED>pancingan master</COLOR>?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>Kesalahan!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>Kesalahan!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Ini dia!<PAGE>Ini sangat penting untuk se-
+mua pemancing untuk menjaga
+sungai tetap bersih!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>Kesalahan!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Dan sekarang uangnya
+Sebesar <VAR_0>G.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>Kesalahan!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>Kesalahan!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>Kesalahan!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>Kesalahan!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>Kesalahan!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Kerja bagus!
+Bekerja keras untuk sebuah
+alat pemancing...<PAGE>Kamu memang masternya para
+pemancing!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Maka, aku bersyukur ada
+orang yang masih mengingin-
+kannya!<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_ANGRY>\u20d0Faktanya, kamulah seorang
+yang ingin memilikinya!
+----------------------------|----------------------------------
+<FP_NONE>Kamu mendapatkan :
+<RED>pancingan master</COLOR>!<PAGE>Ada tanda tangan kepala
+desa disitu...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Sudah aku tanda tangani,
+sesuai janji! Aku tebak
+kamu akan kaget jika aku<PAGE>agak kesal memberikannya
+kepadamu...<PAGE>Tidak apa-apa kok, pancingan
+nya ini milikmu sekarang!<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL>Sekarang, pancingan ini 
+kualitasnya super, maka...<PAGE>Kamu dapat menangkap
+<RED>ikan besar</COLOR><PAGE>Hati-hati mereka bisa men-
+dorongmu masuk kesungai,
+atau mulut buaya!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Kerja bagus!
+Selamat memancing!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>Kesalahan!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>Kesalahan!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>Kesalahan!</COLOR>

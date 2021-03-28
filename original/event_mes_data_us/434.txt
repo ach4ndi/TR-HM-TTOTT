@@ -1,0 +1,30 @@
+<FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>It's so much fun to get
+everything as clean and
+shiny as new!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_NATHAN><FACE_HAPPY><FP_LEFT>You're working hard today.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_NATHAN><FACE_NORMAL><FP_LEFT>A clean soul keeps a clean
+house, as they say.
+<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>Y-Yes, Nathan.
+And also...
+<FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>I just love to clean!<PAGE><FACE_POS_LEFT><FACE_NATHAN><FACE_NORMAL><FP_LEFT>The room looks great.
+Could you clean the Harvest
+Goddess' statue now?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_NATHAN><FACE_HAPPY><FP_LEFT>Ohh! You really got it
+looking clean!<PAGE>I'm sure the Harvest
+Goddess will be pleased!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Oh, how pretty she is!
+
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_NATHAN><FACE_NORMAL><FP_LEFT>It's all thanks to you,
+Alisa.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_NATHAN><FACE_HAPPY><FP_LEFT>Your love for the Harvest
+Goddess shows in your work.<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>Oh, I'm just cleaning up
+a little...<PAGE><FACE_POS_LEFT><FACE_NATHAN><FACE_HAPPY><FP_LEFT>No, you did a splendid job!
+<PAGE><FACE_POS_LEFT><FACE_NATHAN><FACE_NORMAL><FP_LEFT>Now let us give thanks to
+the Harvest Goddess.
+<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Alright, Nathan.

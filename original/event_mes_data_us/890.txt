@@ -1,0 +1,1451 @@
+<FACE_POS_LEFT><FACE_RUTGER><FACE_NORMAL><FP_LEFT>Everyone, the wait is over!
+The day of the Cooking
+Festival has arrived!<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>The theme of today's Cooking
+Festival is:
+<RED><VAR_0></COLOR>!<PAGE>I'm sure our contestants
+have something delicious
+planned for us today!
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_RUTGER><FACE_HAPPY><FP_LEFT>Ina, are you ready to
+be taken down a peg?
+<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>Ha ha. You must be joking.
+
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_RUTGER><FACE_NORMAL><FP_LEFT>The time for another
+Cooking Festival has come.<PAGE>I'm sure our village will
+win this time!<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>The only thing you'll be
+eating today is your words.
+<PAGE><FACE_POS_LEFT><FACE_RUTGER><FACE_NORMAL><FP_LEFT>We'll see about that.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_RUTGER><FACE_HAPPY><FP_LEFT>You'll be tasting the
+bitterness of defeat today!
+Ha ha ha.<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>Don't be ridiculous.
+We both know you're
+going to lose.<PAGE><FACE_POS_LEFT><FACE_RUTGER><FACE_ANGRY><FP_LEFT>It sounds like you've
+already lost your grip on
+reality!<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_ANGRY><FP_RIGHT>In your dreams!
+Let's get this thing
+started!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_RUTGER><FACE_HAPPY><FP_LEFT>よゆうがあれば仲良しポイント
+３０００未満の場合のＭＳＧ
+その４が出る予定じゃ。
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_RUTGER><FACE_HAPPY><FP_LEFT>よゆうがあれば仲良しポイント
+３０００未満の場合のＭＳＧ
+その５が出る予定じゃ。
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>We're going to win today,
+Rutger.<PAGE><FACE_POS_LEFT><FACE_RUTGER><FACE_HAPPY><FP_LEFT>It does look like this will
+be a close competition...<PAGE>But I'm still sure Bluebell
+will win.<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>We'll just have to see,
+won't we?
+Let's get this started.<PAGE><FACE_POS_LEFT><FACE_RUTGER><FACE_NORMAL><FP_LEFT>Hmph. Yes, we will.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>How nice of you to come to
+watch my village win,
+Rutger.<PAGE><FACE_POS_LEFT><FACE_RUTGER><FACE_NORMAL><FP_LEFT>You haven't won yet!
+We haven't even started.<PAGE>But dream on if you want.
+My village will win this.<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>We'll see about that...
+Now let's begin.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>What a beautiful day.
+Perfect to celebrate my
+village's win.<PAGE><FACE_POS_LEFT><FACE_RUTGER><FACE_NORMAL><FP_LEFT>But it's a much better day
+to celebrate Bluebell's win.<PAGE>Which, let's face it, is
+the only logical outcome.<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>Oh, now it's on!
+Let's see what you've got!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>よゆうがあれば仲良しポイント
+６０００未満の場合のＭＳＧ
+その４が出る予定だ。
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>よゆうがあれば仲良しポイント
+６０００未満の場合のＭＳＧ
+その５が出る予定だ。
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_RUTGER><FACE_HAPPY><FP_LEFT>Ho ho ho, your contestants
+seem to have some talent.
+This should be interesting.<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>We had to make it a fair
+contest, of course.
+We're not going easy on you.<PAGE><FACE_POS_LEFT><FACE_RUTGER><FACE_NORMAL><FP_LEFT>Sounds good. We're not
+going to go easy on you,
+either!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_RUTGER><FACE_HAPPY><FP_LEFT>I've been waiting for this,
+Ina!
+<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>You too?
+So have I...<PAGE>Now we'll see just how
+far each village's cooking
+skills have come.<PAGE>It's on, Rutger!<PAGE><FACE_POS_LEFT><FACE_RUTGER><FACE_NORMAL><FP_LEFT>Bring it!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_RUTGER><FACE_HAPPY><FP_LEFT>We'll see who has
+more talent now.<PAGE>We've got strong
+competitors here!<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>So it seems...
+But so do we!<PAGE>We're going to give it
+everything we've got!<PAGE><FACE_POS_LEFT><FACE_RUTGER><FACE_HAPPY><FP_LEFT>Heh heh.
+Then let's have a fair
+fight!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_RUTGER><FACE_HAPPY><FP_LEFT>よゆうがあれば仲良しポイント
+６０００以上の場合のＭＳＧ
+その４が出る予定じゃ。
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_RUTGER><FACE_HAPPY><FP_LEFT>よゆうがあれば仲良しポイント
+６０００以上の場合のＭＳＧ
+その５が出る予定じゃ。
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_HAPPY><FP_RIGHT>Alright!
+It's festival time!!
+The Cooking Festival is on!<PAGE><FACE_POS_RIGHT><FACE_RAHI><FACE_NORMAL><FP_RIGHT>G-Gombe...
+Please calm down.<PAGE><FACE_POS_LEFT><FACE_ROSE><FACE_HAPPY><FP_LEFT>My, Gombe is really excited
+about this. How cute!
+<PAGE><FACE_POS_LEFT><FACE_RUTGER><FACE_ANGRY><FP_LEFT>C-Cute?!
+That guy's as old as I am!
+<PAGE><FACE_POS_LEFT><FACE_ROSE><FACE_HAPPY><FP_LEFT>Come now, you're too old
+to get jealous like this...<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>I'll say...
+Ha ha ha.<PAGE><FACE_POS_LEFT><FACE_RUTGER><FACE_NORMAL><FP_LEFT>Don't you laugh at me,
+Ina...<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>Ha ha...oh, excuse me.<PAGE>The audience must be on
+pins and needles by now...
+Let's get started.<PAGE><FACE_POS_LEFT><FACE_RUTGER><FACE_SAD><FP_LEFT>Y-Yeah.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>Let's have a good contest
+here.<PAGE><FACE_POS_RIGHT><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Mom...<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>What is it, Rahi? 
+<PAGE><FACE_POS_RIGHT><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Are we going to win today?<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>Ha ha ha. We'll have to see.
+Rutger's competition looks
+strong today...<PAGE><FACE_POS_RIGHT><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Our village is gonna win!
+We can do it!<PAGE><FACE_POS_LEFT><FACE_RUTGER><FACE_NORMAL><FP_LEFT>Ho ho ho.
+What an energetic boy.<PAGE>We're not going to lose
+that easily, kid.<PAGE><FACE_POS_RIGHT><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Our village is gonna
+win, no matter what!<PAGE><FACE_POS_LEFT><FACE_RUTGER><FACE_HAPPY><FP_LEFT>Is that so?
+Well now...
+Let's get started.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_HAPPY><FP_RIGHT>ＥＤ後の場合のＭＳＧ
+その３が出る予定じゃ。
+よゆうがあればじゃが…。
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_HAPPY><FP_RIGHT>ＥＤ後の場合のＭＳＧ
+その４が出る予定じゃ。
+よゆうがあればじゃが…。
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_HAPPY><FP_RIGHT>ＥＤ後の場合のＭＳＧ
+その５が出る予定じゃ。
+よゆうがあればじゃが…。
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_RUTGER><FACE_NORMAL><FP_LEFT>Now then, we've brought in
+a special guest to be our
+judge today...<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>The world famous Gourmet,
+Pierre! Now let's give him
+a grand welcome!
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_NORMAL><FP_RIGHT>Hello, everyone, I'm Pierre.
+<PAGE><FACE_POS_RIGHT><FACE_PIERRE><FACE_HAPPY><FP_RIGHT>I'll be using all my Gourmet
+expertise to judge this
+contest.
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_RUTGER><FACE_NORMAL><FP_LEFT>Now let's introduce our
+competitors!<PAGE>First, 
+<RED>Team Bluebell</COLOR>!!
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>Next,
+<RED>Team Konohana</COLOR>!!
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_HAPPY><FP_RIGHT>I can't wait to see what
+you've all cooked up
+for me today.<PAGE><FACE_POS_RIGHT><FACE_PIERRE><FACE_NORMAL><FP_RIGHT>Now then, I'd like to
+begin the judging!
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_NORMAL><FP_RIGHT>I'll start with
+Team Bluebell's food.
+
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_HAPPY><FP_RIGHT>Simply wonderful!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_NORMAL><FP_RIGHT>What fantastic flavor!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_HAPPY><FP_RIGHT>This is amazing!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_HAPPY><FP_RIGHT>It's as if it was made by
+the Harvest Goddess herself!
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_NORMAL><FP_RIGHT>Pretty good!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_NORMAL><FP_RIGHT>Delicious!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_NORMAL><FP_RIGHT>Hmm... This isn't bad...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_NORMAL><FP_RIGHT>Quite tasty!
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_NORMAL><FP_RIGHT>Not bad, but not great...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_NORMAL><FP_RIGHT>Hmm...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_NORMAL><FP_RIGHT>This is okay, I suppose...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_NORMAL><FP_RIGHT>This is all right...
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_SAD><FP_RIGHT>*Cough*...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_NORMAL><FP_RIGHT>Um, what a unique flavor...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_SAD><FP_RIGHT>Ugh...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_SAD><FP_RIGHT>C-Can I get some water?
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_NORMAL><FP_RIGHT>I've finished judging
+Team Bluebell's food.<PAGE><FACE_POS_RIGHT><FACE_PIERRE><FACE_HAPPY><FP_RIGHT>Let's see how Konohana's
+food compares...
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_NORMAL><FP_RIGHT>Now let me try Team
+Konohana's food...
+
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_HAPPY><FP_RIGHT>Phew...
+That was some good food...<PAGE><FACE_POS_RIGHT><FACE_PIERRE><FACE_NORMAL><FP_RIGHT>I've tasted all
+the dishes.<PAGE>So now I'd like to move
+on to the results...
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_NORMAL><FP_RIGHT>As usual, both teams had
+some delicious food.<PAGE>It's hard to rank such fine
+dishes.<PAGE>But it's the job of a
+Gourmet to make those kinds
+of tough decisions!<PAGE>And now I'd like to
+announce the results!<PAGE>The winner is...
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_HAPPY><FP_RIGHT><RED>Team Bluebell</COLOR>!
+
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_RUTGER><FACE_HAPPY><FP_LEFT>Did you hear that?
+Bluebell is number one!<PAGE>Looks like your village
+has some work to do...<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_ANGRY><FP_RIGHT>Grr...
+I can't believe we lost.<PAGE>This was just a fluke!
+I know we'll win next time!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_RUTGER><FACE_HAPPY><FP_LEFT>There, I knew it!
+My village won!!
+<PAGE>And after all your boasts, 
+the truth comes out...<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_ANGRY><FP_RIGHT>This is so humiliating...
+
+<PAGE>We just had bad luck today!
+But we'll win next time!
+And don't you forget it!<PAGE><FACE_POS_LEFT><FACE_RUTGER><FACE_NORMAL><FP_LEFT>My memory's not what it
+once was, you know...<PAGE>I might be too busy
+remembering how we won!
+<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_ANGRY><FP_RIGHT>Darn it...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_RUTGER><FACE_HAPPY><FP_LEFT>You lost, and we weren't
+even trying very hard...
+How embarrassing...<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_ANGRY><FP_RIGHT>What did you just say?<PAGE><FACE_POS_LEFT><FACE_RUTGER><FACE_NORMAL><FP_LEFT>I guess your village just
+isn't that talented...<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_ANGRY><FP_RIGHT>Say what you will...<PAGE><FACE_POS_LEFT><FACE_RUTGER><FACE_NORMAL><FP_LEFT>Humiliating, isn't it?
+Ha ha ha ha!
+<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_ANGRY><FP_RIGHT>...but we'll win the next
+Cooking Festival!<PAGE><FACE_POS_LEFT><FACE_RUTGER><FACE_HAPPY><FP_LEFT>I'd like to see you try!
+Ha ha ha ha!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_RUTGER><FACE_HAPPY><FP_LEFT>よゆうがあれば仲良しポイント
+３０００未満の場合のＭＳＧ
+その４が出る予定じゃ。
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_RUTGER><FACE_HAPPY><FP_LEFT>よゆうがあれば仲良しポイント
+３０００未満の場合のＭＳＧ
+その５が出る予定じゃ。
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_SAD><FP_RIGHT>It can't be!<PAGE><FACE_POS_LEFT><FACE_RUTGER><FACE_NORMAL><FP_LEFT>Ah, so we won!
+That's a relief.<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>What went wrong? We gave it
+everything we had...<PAGE><FACE_POS_LEFT><FACE_RUTGER><FACE_NORMAL><FP_LEFT>It's all about the desire to
+win.<PAGE>I guess your village
+just didn't want to win as
+badly as mine did.<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>We'll win next time...<PAGE><FACE_POS_LEFT><FACE_RUTGER><FACE_NORMAL><FP_LEFT>You can try, but we don't
+plan on losing!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_RUTGER><FACE_HAPPY><FP_LEFT>We did it!
+My village won!<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_SAD><FP_RIGHT>I-I can't believe we lost...
+<PAGE><FACE_POS_LEFT><FACE_RUTGER><FACE_NORMAL><FP_LEFT>Looks like you've got a ways
+to go. Cooking isn't just
+about skill. It takes heart.<PAGE>That's what makes a real
+chef...<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_SAD><FP_RIGHT>We entered our best cooks!
+How could this happen?<PAGE>I have to think of a
+new strategy for next time.<PAGE><FACE_POS_LEFT><FACE_RUTGER><FACE_NORMAL><FP_LEFT>Seems like it.<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>But we'll win next time...<PAGE><FACE_POS_LEFT><FACE_RUTGER><FACE_HAPPY><FP_LEFT>We'll be prepared to take
+you on again. And we'll
+win again, too.<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>Well, we'll just see about
+that, won't we?<PAGE><FACE_POS_LEFT><FACE_RUTGER><FACE_NORMAL><FP_LEFT>I may have awakened a
+sleeping lion here...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_RUTGER><FACE_HAPPY><FP_LEFT>We won!<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_ANGRY><FP_RIGHT>That's ridiculous!
+There must be some mistake!<PAGE><FACE_POS_LEFT><FACE_RUTGER><FACE_ANGRY><FP_LEFT>Say what you want, Ina, but
+this was judged by a member
+of the famed Gourmet family!<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>Grrr.<PAGE><FACE_POS_LEFT><FACE_RUTGER><FACE_NORMAL><FP_LEFT>Don't you understand?
+No Gourmet would ever
+make an unjust call.<PAGE>Especially not Pierre.
+His decision is final!<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>Sorry... I didn't mean to
+sully the Gourmet name.
+<PAGE>I'll accept the results...
+But we'll win next time.<PAGE><FACE_POS_LEFT><FACE_RUTGER><FACE_NORMAL><FP_LEFT>Is that so?
+I look forward to seeing it.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_RUTGER><FACE_HAPPY><FP_LEFT>よゆうがあれば仲良しポイント
+６０００未満の場合のＭＳＧ
+その４が出る予定だ。
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_RUTGER><FACE_HAPPY><FP_LEFT>よゆうがあれば仲良しポイント
+６０００未満の場合のＭＳＧ
+その５が出る予定だ。
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_RUTGER><FACE_HAPPY><FP_LEFT>Looks like we won.
+It was a good fight, though.<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>No, you won by a landslide.<PAGE><FACE_POS_LEFT><FACE_RUTGER><FACE_NORMAL><FP_LEFT>Oh, I'm surprised to hear
+you admit it. Are you
+feeling alright?<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>The minute I saw your food,
+I knew we didn't have a
+chance. It was incredible.<PAGE><FACE_POS_LEFT><FACE_RUTGER><FACE_NORMAL><FP_LEFT>Thank you, but your entries
+were very nice as well.
+<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>That's kind of you to say.
+But don't think we'll go
+easy on you next time!<PAGE><FACE_POS_LEFT><FACE_RUTGER><FACE_NORMAL><FP_LEFT>I look forward to another
+fine contest!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_RUTGER><FACE_HAPPY><FP_LEFT>Looks like we won this time.<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>Looks like it.
+It was a good contest.
+One to remember...<PAGE><FACE_POS_LEFT><FACE_RUTGER><FACE_NORMAL><FP_LEFT>Maybe, but I know we'll be
+aiming for even greater
+heights...<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>That's right. We'll keep
+improving as well! We won't
+fall behind!<PAGE><FACE_POS_LEFT><FACE_RUTGER><FACE_HAPPY><FP_LEFT>So we'll just have to
+keep on improving...<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>We will...
+See you next time.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_RUTGER><FACE_HAPPY><FP_LEFT>Good job, everyone!
+We won!<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>We lost...
+How humiliating...<PAGE><FACE_POS_LEFT><FACE_RUTGER><FACE_NORMAL><FP_LEFT>Well, it takes strength to
+accept defeat.<PAGE>I'm sure that strength will
+help you out next time.<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>Rutger...<PAGE><FACE_POS_LEFT><FACE_RUTGER><FACE_NORMAL><FP_LEFT>Well, could you go easy on
+us next time?<PAGE>I couldn't handle another
+close call like this...<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>You won't get off that easy.
+Next time, we'll prepare
+something even more amazing.<PAGE><FACE_POS_LEFT><FACE_RUTGER><FACE_HAPPY><FP_LEFT>Then I'll have to watch out
+for a sudden upset...<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>See you next time...<PAGE><FACE_POS_LEFT><FACE_RUTGER><FACE_HAPPY><FP_LEFT>Right!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_RUTGER><FACE_HAPPY><FP_LEFT>よゆうがあれば仲良しポイント
+１００００未満の場合のＭＳＧ
+その４が出る予定じゃ。
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_RUTGER><FACE_HAPPY><FP_LEFT>よゆうがあれば仲良しポイント
+１００００未満の場合のＭＳＧ
+その５が出る予定じゃ。
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_RUTGER><FACE_HAPPY><FP_LEFT>I can't believe we won.
+That was close!<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>Congratulations, Rutger!
+You won fair and square.<PAGE><FACE_POS_LEFT><FACE_RUTGER><FACE_NORMAL><FP_LEFT>No no, I didn't win.
+My village won.<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>Of course.<PAGE>We may have lost this time,
+but next time, Konohana
+will win!<PAGE><FACE_POS_LEFT><FACE_RUTGER><FACE_HAPPY><FP_LEFT>Sounds like it'll be a good
+contest.<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>Heh heh. I'm sure it will
+be!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_RUTGER><FACE_HAPPY><FP_LEFT>Ho ho ho. Looks like we
+scraped by for a win there.<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>You don't need to be modest.
+That was a solid win.<PAGE><FACE_POS_LEFT><FACE_RUTGER><FACE_NORMAL><FP_LEFT>I still say it was close.
+Your dishes were excellent.<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>Well, I appreciate you
+saying that.
+<PAGE><FACE_POS_LEFT><FACE_RUTGER><FACE_HAPPY><FP_LEFT>Tell your villagers just how
+well they did.<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>I'll be sure to.
+Until next time, then...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_RUTGER><FACE_HAPPY><FP_LEFT>ＥＤ後の場合のＭＳＧ
+その３が出る予定じゃ。
+よゆうがあればじゃが…。
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_RUTGER><FACE_HAPPY><FP_LEFT>ＥＤ後の場合のＭＳＧ
+その４が出る予定じゃ。
+よゆうがあればじゃが…。
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_RUTGER><FACE_HAPPY><FP_LEFT>ＥＤ後の場合のＭＳＧ
+その５が出る予定じゃ。
+よゆうがあればじゃが…。
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_RUTGER><FACE_NORMAL><FP_LEFT>And this brings today's
+Cooking Festival to an end!
+<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>A big thank you to all our
+competitors and spectators!<PAGE><FACE_POS_RIGHT><FACE_PIERRE><FACE_NORMAL><FP_RIGHT>The next theme will be:
+<RED><VAR_1></COLOR>.<PAGE><FACE_POS_RIGHT><FACE_PIERRE><FACE_HAPPY><FP_RIGHT>I'm looking forward to
+some more delicious
+food next time!<PAGE><FACE_POS_LEFT><FACE_RUTGER><FACE_NORMAL><FP_LEFT>Until next time, then!
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_RUTGER><FACE_NORMAL><FP_LEFT><MYNAME>, thanks for
+competing today.
+<PAGE>Thanks to you, our village
+won.
+<PAGE><FACE_POS_LEFT><FACE_RUTGER><FACE_HAPPY><FP_LEFT>I hope you'll accept this
+<RED><VAR_2></COLOR> as
+a token of my thanks.
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_RUTGER><FACE_NORMAL><FP_LEFT>And we've also got a gift
+for you from Pierre. He
+really enjoyed your food.<PAGE>It should have arrived at
+your house by the time you
+get back home.
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_RUTGER><FACE_HAPPY><FP_LEFT>I'm counting on you for
+next time, so keep up
+the good work!
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_RUTGER><FACE_NORMAL><FP_LEFT><MYNAME>, thanks for
+competing today.
+<PAGE>Thanks to you, our village
+won.
+<PAGE><FACE_POS_LEFT><FACE_RUTGER><FACE_HAPPY><FP_LEFT>I hope you'll like the
+<RED><VAR_3></COLOR> I've
+had sent to your house.<PAGE>I think you'll get good use
+out of it.
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_RUTGER><FACE_NORMAL><FP_LEFT>I'm counting on you for
+next time, so keep up
+the good work!
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_HAPPY><FP_RIGHT><RED>Team Konohana</COLOR>!
+
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>Well, it looks like my
+village is just better than
+yours...<PAGE>This must be embarrassing
+for you.
+<PAGE><FACE_POS_LEFT><FACE_RUTGER><FACE_ANGRY><FP_LEFT>What are you talking about?
+We just hit a few snags
+this time!<PAGE>But it won't happen next
+time! Enjoy this victory
+while you can!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>Heh heh heh.
+My village won!<PAGE><FACE_POS_LEFT><FACE_RUTGER><FACE_ANGRY><FP_LEFT>How could this happen?
+<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>Well, it did, so you'd
+better just accept it.<PAGE><FACE_POS_LEFT><FACE_RUTGER><FACE_ANGRY><FP_LEFT>Don't let one win go to
+your head!
+Just watch next time!<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>Oh, I'll watch. I'll watch
+Konohana win again!<PAGE><FACE_POS_LEFT><FACE_RUTGER><FACE_ANGRY><FP_LEFT>We'll see about that!
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>Looks like we found out just
+whose village is better!!<PAGE><FACE_POS_LEFT><FACE_RUTGER><FACE_ANGRY><FP_LEFT>Why you...
+We just let our guard down!<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>Your guard?
+Don't be stupid.<PAGE>Konohana is just better than
+Bluebell.<PAGE><FACE_POS_LEFT><FACE_RUTGER><FACE_NORMAL><FP_LEFT>Wh-What was that?<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>You heard me.
+<PAGE><FACE_POS_LEFT><FACE_RUTGER><FACE_ANGRY><FP_LEFT>I won't let you slander my
+village like that!<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>Well, you'll have to do
+better to stop me.<PAGE><FACE_POS_LEFT><FACE_RUTGER><FACE_ANGRY><FP_LEFT>Oh, we will!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>よゆうがあれば仲良しポイント
+３０００未満の場合のＭＳＧ
+その４が出る予定じゃ。
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>よゆうがあれば仲良しポイント
+３０００未満の場合のＭＳＧ
+その５が出る予定じゃ。
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>We did it! We won!<PAGE><FACE_POS_LEFT><FACE_RUTGER><FACE_SAD><FP_LEFT>I don't understand why
+we lost...<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>Don't complain.
+Just accept your defeat.<PAGE><FACE_POS_LEFT><FACE_RUTGER><FACE_SAD><FP_LEFT>This is so humiliating...
+<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>I'm sure it is.<PAGE>Just the thought of our
+positions being reversed
+makes me shudder...<PAGE>All you can do is use it as
+motivation to improve.<PAGE><FACE_POS_LEFT><FACE_RUTGER><FACE_NORMAL><FP_LEFT>That's true.
+You're right.
+We'll do better next time!<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>So will we.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>My village won.
+Good work, everyone.<PAGE><FACE_POS_LEFT><FACE_RUTGER><FACE_ANGRY><FP_LEFT>No! We lost!
+Why did we lose?<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>It just means that my
+village was better today.<PAGE><FACE_POS_LEFT><FACE_RUTGER><FACE_ANGRY><FP_LEFT>But...<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>I know it's hard to accept.
+But everybody loses
+sometimes.<PAGE><FACE_POS_LEFT><FACE_RUTGER><FACE_NORMAL><FP_LEFT>I suppose you're right.
+We'll just have to double
+our efforts next time.<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>And so will we.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>My village won!<PAGE><FACE_POS_LEFT><FACE_RUTGER><FACE_ANGRY><FP_LEFT>How...
+How did we lose?<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>Sounds like you have a
+complaint there...<PAGE><FACE_POS_LEFT><FACE_RUTGER><FACE_ANGRY><FP_LEFT>I know...
+The Gourmet is always right.<PAGE>I'll trust his judgment.
+This was our loss.<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>You're taking this all much
+better than I expected...<PAGE><FACE_POS_LEFT><FACE_RUTGER><FACE_ANGRY><FP_LEFT>Of course I'm angry, but I
+can't let my village see it.
+<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>I see. Then I won't say
+anything more.
+I look forward to next time.<PAGE><FACE_POS_LEFT><FACE_RUTGER><FACE_NORMAL><FP_LEFT>Just wait and see.
+We'll win next time!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>よゆうがあれば仲良しポイント
+６０００未満の場合のＭＳＧ
+その４が出る予定だ。
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>よゆうがあれば仲良しポイント
+６０００未満の場合のＭＳＧ
+その５が出る予定だ。
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>So we won...<PAGE><FACE_POS_LEFT><FACE_RUTGER><FACE_NORMAL><FP_LEFT>And we lost...<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>This was a close one. I was
+on the edge of my seat.<PAGE><FACE_POS_LEFT><FACE_RUTGER><FACE_NORMAL><FP_LEFT>What are you saying? You
+beat us soundly.<PAGE>But we gave it everything
+we had, so I have no
+regrets.<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_SAD><FP_RIGHT>Rutger...<PAGE><FACE_POS_LEFT><FACE_RUTGER><FACE_HAPPY><FP_LEFT>But we'll win the next.<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>We'll see.
+I look forward to it.<PAGE><FACE_POS_LEFT><FACE_RUTGER><FACE_HAPPY><FP_LEFT>So do I.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>So we won this time.<PAGE><FACE_POS_LEFT><FACE_RUTGER><FACE_NORMAL><FP_LEFT>It looks like it. I'm sorry
+to let my predecessor down.<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>Now there's nothing to be
+ashamed of. You should be
+proud of how you did. <PAGE>Another time, we might have
+lost.<PAGE>But we had our best people
+doing their best cooking.<PAGE>I didn't see much of a
+difference between the
+dishes both sides prepared.<PAGE>This was a close call, so
+you should be proud of that.<PAGE><FACE_POS_LEFT><FACE_RUTGER><FACE_HAPPY><FP_LEFT>You're right.
+I am proud.
+And we'll win next time.<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>We'll see about that!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>Good work, everyone.
+We won.<PAGE><FACE_POS_LEFT><FACE_RUTGER><FACE_NORMAL><FP_LEFT>So we didn't make it...<PAGE>But my villagers did a good
+job. We may have lost, but
+we gave it our all.<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>That's right.
+I thought we'd lost, but
+it all came down to luck.<PAGE><FACE_POS_LEFT><FACE_RUTGER><FACE_NORMAL><FP_LEFT>We'll do better next time.
+So get ready for it.<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>I will.
+You won't be the only ones
+getting better...<PAGE>Until next time, then.<PAGE><FACE_POS_LEFT><FACE_RUTGER><FACE_NORMAL><FP_LEFT>Indeed!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_RUTGER><FACE_HAPPY><FP_LEFT>よゆうがあれば仲良しポイント
+１００００未満の場合のＭＳＧ
+その４が出る予定じゃ。
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_RUTGER><FACE_HAPPY><FP_LEFT>よゆうがあれば仲良しポイント
+１００００未満の場合のＭＳＧ
+その５が出る予定じゃ。
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>We won!
+I didn't think we would!<PAGE><FACE_POS_LEFT><FACE_RUTGER><FACE_HAPPY><FP_LEFT>Congratulations, Ina.
+<PAGE>I'm sorry we lost, but
+you won fair and square.<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>Thank you, Rutger.
+<PAGE><FACE_POS_LEFT><FACE_RUTGER><FACE_NORMAL><FP_LEFT>This was a good competition.
+It made me see just how much
+we need to improve.<PAGE>I learned a lot from it.
+Until next time, then.<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>Yes. I'm looking forward to
+it.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>So we won...
+You did well, though...<PAGE><FACE_POS_LEFT><FACE_RUTGER><FACE_NORMAL><FP_LEFT>No, a loss is a loss.
+Your village was remarkable.<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>Thank you, Rutger.
+<PAGE>But you never know what will
+happen next time...<PAGE><FACE_POS_LEFT><FACE_RUTGER><FACE_HAPPY><FP_LEFT>That's true.
+Well, just you wait.<PAGE>Next time we'll really
+wow the judge...<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>I look forward to seeing it.
+Until next time, then.<PAGE><FACE_POS_LEFT><FACE_RUTGER><FACE_HAPPY><FP_LEFT>Right!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_HAPPY><FP_RIGHT>ＥＤ後の場合のＭＳＧ
+その３が出る予定じゃ。
+よゆうがあればじゃが…。
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_HAPPY><FP_RIGHT>ＥＤ後の場合のＭＳＧ
+その４が出る予定じゃ。
+よゆうがあればじゃが…。
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_HAPPY><FP_RIGHT>ＥＤ後の場合のＭＳＧ
+その５が出る予定じゃ。
+よゆうがあればじゃが…。
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_RUTGER><FACE_NORMAL><FP_LEFT>And this brings today's
+Cooking Festival to an end!
+<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>A big thank you to all our
+competitors and spectators!<PAGE><FACE_POS_RIGHT><FACE_PIERRE><FACE_NORMAL><FP_RIGHT>The next theme will be:
+<RED><VAR_1></COLOR>.<PAGE><FACE_POS_RIGHT><FACE_PIERRE><FACE_HAPPY><FP_RIGHT>I'm looking forward to
+some more delicious
+food!<PAGE><FACE_POS_LEFT><FACE_RUTGER><FACE_NORMAL><FP_LEFT>Until next time, then!
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT><MYNAME>...
+Thank you for competing
+today.<PAGE>Thanks to you, our village
+won. 
+I really appreciate it.<PAGE><FACE_POS_LEFT><FACE_INA><FACE_HAPPY><FP_LEFT>Accept this <RED><VAR_2></COLOR>
+as a small token of
+my gratitude...
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT>And we've also got a gift
+for you from Pierre. He
+really enjoyed your food.<PAGE>It should have arrived at
+your house by the time you
+get back home.
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT>I hope you'll do even
+better next time.
+I'm counting on you...
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT><MYNAME>, thanks for
+competing today.
+<PAGE>Our village won because of
+you.
+<PAGE>I sent a
+<RED><VAR_3></COLOR>
+to your house as thanks.<PAGE>I'm sure you'll get good use
+out of it.
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT>I hope you'll do even
+better next time.
+I'm counting on you...
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_SAD><FP_RIGHT>Hmm...
+This dish tastes fine, but
+it doesn't fit the theme...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_ANGRY><FP_RIGHT>Who was it who brought a
+dish that doesn't fit the
+theme of today's festival?<PAGE><FACE_POS_RIGHT><FACE_PIERRE><FACE_SAD><FP_RIGHT>Please remember to observe
+the rules. This kind of
+thing makes me very sad...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_NORMAL><FP_RIGHT>Th-This...<PAGE><FACE_POS_RIGHT><FACE_PIERRE><FACE_SAD><FP_RIGHT>This doesn't fit the theme!<PAGE>It's too good not to eat,
+but sadly I have to take
+points off for this...
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>Well, it looks like the
+mayors are making some
+progress...<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_SAD><FP_RIGHT>I wouldn't call them
+friends just yet, though.<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>They've got a long way to
+go before they make up, but
+I know you can do it!
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>Hmm...\u270a\u270a<PAGE>They're still fighting, but
+they're getting along
+better than they were...<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>But keep up the good work,
+<MYNAME>! I'll be cheering
+you on from my spring!
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>The mayors seem to be
+getting along a lot better.<PAGE>They don't fight as much
+now. We're almost there!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>I'm so glad I asked for
+your help, <MYNAME>!
+Keep up the good work!
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>The mayors seem like they're
+actually okay with each
+other now.<PAGE>You're really amazing,
+<MYNAME>!
+My compliments!<RED>❤</COLOR><PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>Now all they need is
+something to bring them
+together again...<PAGE>Maybe our best bet is to
+have them <RED>open the tunnel</COLOR>,
+don't you think?<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>We're almost there!
+Good luck!
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Who cares who wins?
+Let's just make some good
+food and enjoy the festival!
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT><MYNAME>, thank you for
+taking time out of your busy
+schedule to participate.<PAGE><FACE_POS_LEFT><FACE_INA><FACE_HAPPY><FP_LEFT>Here's your prize:
+<RED><VAR_2></COLOR>!
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_RUTGER><FACE_NORMAL><FP_LEFT><MYNAME>, thank you for
+taking time out of your busy
+schedule to participate.<PAGE><FACE_POS_LEFT><FACE_RUTGER><FACE_HAPPY><FP_LEFT>Here's your prize:
+<RED><VAR_2></COLOR>!
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>Dum-Da-Da-DAA!
+<MYNAME>, you're doing
+such a great job!<PAGE>Here's how the mayors'
+Friendliness Meter looks.
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>Dum-Da-Da-DAA!
+Great job, <MYNAME>!
+<PAGE>Here's how the mayors'
+Friendliness Meter looks.
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy

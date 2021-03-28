@@ -1,0 +1,83 @@
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>★ＥＲＲＯＲ！★</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MAKO><FACE_NORMAL><FP_RIGHT>You saw my request on the
+message board, did you?
+You have my gratitude.<PAGE>But you've come too late.
+We'll call the whole thing
+off.<PAGE>Sorry to drag you out here
+when you're busy with your
+own farm.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>★ＥＲＲＯＲ！★</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MAKO><FACE_HAPPY><FP_RIGHT>You saw my request on the
+message board, did you?
+You have my gratitude.<PAGE>Well, don't just stand
+there! There's work to be
+done!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>★ＥＲＲＯＲ！★</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MAKO><FACE_HAPPY><FP_RIGHT>This is my orchard.
+Beautiful, I know.<PAGE><FACE_POS_RIGHT><FACE_MAKO><FACE_NORMAL><MYNAME>, here's what I want
+you to do: <RED>harvest</COLOR> all the
+fruit.<PAGE>You know what to do?
+<RED>Use the A Button to jump</COLOR> so
+you can harvest the fruit.<PAGE>The fruit you harvest will
+<RED>automatically be sent to
+my storage</COLOR>.<PAGE>Simple as that!
+Come tell me when you're all
+done.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>★ＥＲＲＯＲ！★</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>★ＥＲＲＯＲ！★</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>★ＥＲＲＯＲ！★</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>★ＥＲＲＯＲ！★</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MAKO><FACE_HAPPY><FP_RIGHT>So you're done with the job?
+Nice work.<PAGE>I'll give you your reward.
+Come with me.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MAKO><FACE_NORMAL><FP_RIGHT>You're done with the job?
+Nice work.<PAGE>But I wanted to hear that
+report before midnight!<PAGE><FACE_POS_RIGHT><FACE_MAKO><FACE_ANGRY>Today's young people just
+don't understand how to
+behave honorably!<PAGE><FACE_POS_RIGHT><FACE_MAKO><FACE_NORMAL>But I'll give you a reward
+anyway.
+Come with me.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MAKO><FACE_NORMAL><FP_RIGHT>You're done with the job?
+Nice work.<PAGE>But I wanted to hear that
+report earlier in the day!<PAGE>I was just about to go to
+bed! You should be on the
+ball more!<PAGE><FACE_POS_RIGHT><FACE_MAKO><FACE_NORMAL>But I'll give you a reward
+anyway.
+Come with me.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>★ＥＲＲＯＲ！★</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MAKO><FACE_NORMAL><FP_RIGHT><MYNAME>, I'm not surprised
+you did the job so well.
+<PAGE>I'm satisfied.
+Here's your reward.
+Go on, take it.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>★ＥＲＲＯＲ！★</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>★ＥＲＲＯＲ！★</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MAKO><FACE_HAPPY><FP_RIGHT>And here's a little bonus
+for finishing so quickly.
+----------------------------|----------------------------------
+\u2137You received a
+<VAR_1>!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MAKO><FACE_NORMAL><FP_RIGHT>You have my thanks.
+I might be requesting your
+help again sometime.
+----------------------------|----------------------------------
+\u2137You finished all the work
+you were asked to do!

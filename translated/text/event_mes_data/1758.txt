@@ -1,0 +1,72 @@
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>-Kosong-
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Jadi kamu inginkan untuk
+memperluas kebunmu?
+Aku sudah menunggumu!<PAGE><FACE_POS_RIGHT><FACE_EILEEN><FACE_HAPPY>Oke, sini dan berikan
+aku materialnya.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>-Kosong-
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>-Kosong-
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_EILEEN><FACE_HAPPY><FP_RIGHT>Bagus! Makasih!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>-Kosong-
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Sekarang uangnya.
+Totalnya menjadi...
+<VAR_0>G.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>-Kosong-
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>-Kosong-
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>-Kosong-
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>-Kosong-
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>-Kosong-
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_EILEEN><FACE_HAPPY><FP_RIGHT>Kamu memberikan semuanya
+yang aku butuhkan untuk
+perluasannya! Bagus sekali!<PAGE><FACE_POS_RIGHT><FACE_EILEEN><FACE_NORMAL>Sekarang ayo kekebunmu!
+Aku akan langsung mengerja-
+kannya.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Sekarang kamu hanya menunggu
+disini... Aku akan menyele-
+saikannya dengan kilat!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>-Kosong-
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>-Kosong-
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Semuanya sudah selesai!
+Dan pekerjaan yang baik,
+jika aku mengatakannya!<PAGE>Aku membuatkanmu sebuah
+<RED>sawah</COLOR> dan
+<RED>watermill</COLOR>.<PAGE>Kamu dapat menggunakan 
+watermill unduk <RED>menggiling 
+gandum jadi tepung</COLOR>.<PAGE>atau <RED>mengekstrak bibit dari
+tanaman</COLOR>.<PAGE>Disawahmu kamu dapat menanam
+<RED>padi</COLOR>.<PAGE>Tapi perlu dipikirkan bahwa
+masa panennya cukup lama!<PAGE>Untuk menanam padi, kamu
+harus membuka <RED>penutup air</COLOR>
+untuk mengaliri sawahnya.<PAGE>Disaat sawah penuh dengan
+ari, kamu dapat menanamkan
+padi disitu.<PAGE>Tapi penutup air hanya dapat
+dibuka <RED>selama musim semi</COLOR>.
+Jadi harus ingat itu!<PAGE>Dan kamu dapat memanen padi
+disaat <RED>musim gugur</COLOR>. <PAGE>Jadi ini membutuhkan kesa-
+baran untuk menanam padi.<PAGE><FACE_POS_RIGHT><FACE_EILEEN><FACE_SAD>Merawat padi itu bukan
+pekerjaan yang mudah!<PAGE><FACE_POS_RIGHT><FACE_EILEEN><FACE_HAPPY>Sana lihat perubahannya!
+Kamu dapat langsung mengguna
+kan fasilitas perluasannya.<PAGE>Pekerjaan aku disini sudah
+selesai semuanya, jadi aku
+akan pulang. Sampai jumpa.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>-Kosong-
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>-Kosong-
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>-Kosong-

@@ -1,0 +1,160 @@
+<FACE_POS_LEFT><HIDE_NAME><FACE_INA><FACE_NORMAL><FP_LEFT><HIDE_FACE>Good morning, <MYNAME>.
+I thought I'd drop by.
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>I came by this morning to
+give you some festival info.
+
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>The <RED>Crop Festival</COLOR> will be
+held on the 25th of this
+month.<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>The theme this time is
+<RED>radishes</COLOR>.<PAGE>So, if you want to enter,
+you'd better have a radish
+ready by the 25th.<PAGE>And remember, you <RED>can't
+enter rotten crops</COLOR>!
+Don't forget!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>The <RED>Crop Festival</COLOR> will be
+held on the 25th of this
+month.<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>The theme this time is
+<RED>onions</COLOR>.<PAGE>So, if you want to enter,
+you'd better have a onion
+ready by the 25th.<PAGE>And remember, you <RED>can't
+enter rotten crops</COLOR>!
+Don't forget!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>The <RED>Crop Festival</COLOR> will be
+held on the 25th of this
+month.<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>The theme this time is
+<RED>tomatoes</COLOR>.<PAGE>So, if you want to enter,
+you'd better have a tomato
+ready by the 25th.<PAGE>And remember, you <RED>can't
+enter rotten crops</COLOR>!
+Don't forget!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>The <RED>Crop Festival</COLOR> will be
+held on the 25th of this
+month.<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>The theme this time is
+<RED>corn</COLOR>.<PAGE>If you want to enter, you'd
+better have an ear of corn
+ready by the 25th.<PAGE>And remember, you <RED>can't
+enter rotten crops</COLOR>!
+Don't forget!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>The <RED>Crop Festival</COLOR> will be
+held on the 25th of this
+month.<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>The theme this time is
+<RED>watermelons</COLOR>.<PAGE>If you want to enter, you'd
+better have a watermelon
+ready by the 25th.<PAGE>And remember, you <RED>can't
+enter rotten crops</COLOR>!
+Don't forget!
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>That's all I have to say.
+Did you catch all that?<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>If you forget, just take a
+look at the <RED>calendar</COLOR>.<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>Well, I'll be on my way,
+then. See you later.
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY

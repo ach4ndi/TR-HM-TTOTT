@@ -1,0 +1,224 @@
+<FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT>Ini tempatnya!
+Sebuah kebun barumu!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HERO><FACE_NORMAL>INVALID MESSAGE
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_INA><FACE_HAPPY><FP_LEFT>Pertama, kamu butuh sebuah
+nama untuk kebunmu. Kamu
+bisa menamai sesuai apa saja
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT>Jadi kamu menamainya ...
+<BLUE>Kebun <MYFARMNAME></COLOR>? 
+Apa kamu yakin?
+----------------------------|----------------------------------
+<CHOICE_AB> Ya! Ya itu!
+ Sepertinya yang lain aja.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_INA><FACE_HAPPY><FP_LEFT>Nama yang bagus! Aku yakin
+nantinya akan menjadi kebun
+yang hebat!<PAGE><FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT>Rumah kamu ada didepan. Tapi
+sebelumnya kamu lihat-lihat
+dulu disekitar kebunmu!<PAGE><FACE_POS_LEFT><FACE_INA><FACE_HAPPY><FP_LEFT>Sebelum memulainya, mari
+aku beritahumu cara bagai-
+mana bergerak disekitar.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT>Gunakan <RED>+Control Pad</COLOR> untuk
+bergerak disekitar.<PAGE><FACE_POS_LEFT><FACE_INA><FACE_HAPPY><FP_LEFT>Tekan <RED>Tombol L</COLOR> untuk
+mengganti antara lari dan
+berjalan.<PAGE><FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT>Tapi hati-hati untuk tidak
+menabrak tembok!<PAGE><FACE_POS_LEFT><FACE_INA><FACE_HAPPY><FP_LEFT>Sekarang kamu mengetahui
+bagaimana untuk lari dan
+berjalan!<PAGE><FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT>Kamu juga bisa menekan
+<RED>Tombol B</COLOR> untuk melompat!<PAGE><FACE_POS_LEFT><FACE_INA><FACE_HAPPY><FP_LEFT>Sekarang kamu dapat berjalan
+dan melompat, kamu juga da-
+pat melihat sekitar kebunmu<PAGE><FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT>Disaat kamu selesai, datang
+disekitarku dan tekan
+<RED>Tombol A</COLOR> untuk bicara.<PAGE>Mengerti?
+----------------------------|----------------------------------
+<CHOICE_AB> Ya ngerti tante!
+ Tolong jelaskan.. lagi..
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT>Bagus!
+Aku akan menunggu kamu di
+depan rumah.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_INA><FACE_HAPPY><FP_LEFT>Bagus! Kamu sudah bisa ber-
+bicara keaku.<PAGE><FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT>Disaat kamu ingin berbicara
+ke seseorang atau melihat
+sebuah barang, tekan <PAGE><RED>Tombol A</COLOR>.<PAGE><FACE_POS_LEFT><FACE_INA><FACE_HAPPY><FP_LEFT>Aku tahu! Aku akan membe-
+rikan kamu beberapa latihan
+seperti pencarian harta<PAGE>karun misalnya!<PAGE><FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT>Disuatu tempat dikebun ini
+ada <GREEN>bunga</COLOR>.<PAGE><FACE_POS_LEFT><FACE_INA><FACE_HAPPY><FP_LEFT>Cari <GREEN>bunga</COLOR>nya dan tekan 
+<RED>Tombol A</COLOR> untuk 
+mengambilnya!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT>Dekati sesuatu ditanah dan
+tekan <RED>Tombol A</COLOR> untuk 
+Mengambilnya.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_INA><FACE_HAPPY><FP_LEFT>Itu caranya! Itu caranya
+kamu mengambil sesuatu!<PAGE><FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT>Disaat kamu memegang sebuah
+barang, tekan <RED>Tombol A</COLOR> 
+lagi untuk melemparnya.<PAGE><FACE_POS_LEFT><FACE_INA><FACE_HAPPY><FP_LEFT>Tapi jangan lakukan itu ke
+barang berhargamu yang ba-
+rusan kamu temukan!<PAGE><FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT>Tekan <RED>Tombol Y</COLOR> untuk mena-
+ruh barangmu kedalam tasmu..<PAGE><FACE_POS_LEFT><FACE_INA><FACE_HAPPY><FP_LEFT>Ide yang bagus untuk menaruh
+apa yang kamu pegang kedalam
+tas sebelum hilang!<PAGE>Taruh bunga itu kedalam tas,
+lalu bicara keaku lagi!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT>Tekan <RED>Tombol A</COLOR> untuk
+melempar sesuatu, termasuk 
+para mantan dan jones.<PAGE>Tapi jangan sekarang! Taruh
+yang kamu pegang kedalam
+tas saat ini.<PAGE>Lalu bicarakan lebih lanjut
+keaku lagi.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT>Kamu butuh untuk menaruh apa
+yang dipegang dimasukkan ke
+dalam tas.<PAGE>Tekan <RED>Tombol Y</COLOR> untuk
+menaruh apa yang sedang di
+pegang kedalam tas.<PAGE>Lalu bicara ke aku lagi.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_INA><FACE_HAPPY><FP_LEFT>Sepertinya kamu menaruh ke
+dalam tas dengan benar.<PAGE><FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT>Untuk melihat apa saja di
+dalam tas, Tekan 
+<RED>Tombol X</COLOR>.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT>Disaat kamu membuka tasmu,
+disana ada banyak hal yang
+kamu dapat lakukan.<PAGE>Gunakan <RED>+Control Pad</COLOR> untuk 
+memindahkan kursor, dan 
+tekan <RED>Tombol A</COLOR> untuk pilih.<PAGE>Pilih kotak putih dipojok
+bawah kanan dari layar bawah
+untuk membuang barang.<PAGE><FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT>Tekan <RED>Tombol B</COLOR> untuk 
+menutup tasmu disaat kamu
+siap.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT>Itu apa saja yang kamu butuh
+kan mengenai tasmu.<PAGE>Sekarang biarkan aku memper
+lihatkan rumah kamu.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><HIDE_NAME><FACE_KANA><FACE_NORMAL><FP_LEFT><HIDE_FACE>Ketua desa Ina!
+Maaf membuatmu menunggu!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT>Ah!
+Ini yang aku tunggu tunggu
+dari tadi!<PAGE><FACE_POS_RIGHT><HIDE_NAME><FACE_KANA><FACE_NORMAL><FP_RIGHT>Maaf mengenai ini.
+Aku terlalu lambat larinya.
+Apa ini nih, sipetani baru?<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>Hi, aku <BLUE>Kana</COLOR>.
+Senang bertemu denganmu.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HERO><FACE_NORMAL>INVALID MESSAGE
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HERO><FACE_NORMAL>INVALID MESSAGE
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HERO><FACE_NORMAL>INVALID MESSAGE
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT>btw, <MYNAME>, apa kamu tahu
+bagaimana cara kerja <RED>kuda</COLOR> 
+dan <RED>gerobak</COLOR>?<PAGE>Aku tebak kamu sudah tahu,
+tapi lebih baik dijelaskan
+lagi?
+----------------------------|----------------------------------
+<CHOICE_AB> Tolong jelaskan keaku.
+ Tidak, makasih.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>Oke, jika kamu berkata demi-
+kian. Jaga baik-baik ya
+gerobak ini! Jangan sampai<PAGE>rusak ya, janji? 
+janji?<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>Well, aku akan pergi dari
+sini. kapan-kapan kunjungi
+toko aku ya.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HERO><FACE_NORMAL>INVALID MESSAGE
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>Cool,aku akan jelaskan se-
+mampuku biar kamu paham me-
+ngenai kuda dan gerobak.<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>Pertama mengenai kuda.
+Tekan <RED>Tombol A</COLOR> untuk
+menaiki kudamu.<PAGE>Tekan <RED>Tombol B</COLOR> untuk
+menuruini kudamu.<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>Simpel, mudah? ya kan?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>Sekarang aku akan menjelas
+kan mengenai gerobakmu.<PAGE>Hari ini aku membawa kesini
+tapi biasanya diparkirkan di
+<RED>sebelah kiri rumahmu</COLOR>.<PAGE>Kamu dapat menaruh beberapa
+jenis barang didalam
+gerobakmu.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HERO><FACE_NORMAL>INVALID MESSAGE
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HERO><FACE_NORMAL>INVALID MESSAGE
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HERO><FACE_NORMAL>INVALID MESSAGE
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HERO><FACE_NORMAL>INVALID MESSAGE
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>Untuk melihat apa saja di-
+dalam gerobakmu, dekati dan
+tekan <RED>Tombol A</COLOR>.<PAGE>Maka layar bawah akan ter-
+lihat seperti ini:
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>Barang yang tidak cukup da-
+lam tas, kamu bisa menaruh-
+nya kedalam gerobak.<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>Dan barang-barang seperti
+sayuran dan susu akan tetap
+segar didalam gerobak.<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>Cara kerja gerobak sama se-
+perti tasmu.<PAGE>Gunakan <RED>+Control Pad</COLOR> untuk
+memindahkan kursor, dan te-
+kan <RED>Tombol A</COLOR> untuk pilih.<PAGE>Tekan <RED>Tombol B</COLOR>
+jika dirasa sudah selesai.
+Coba saja!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>Itu semua hal yang perlu di
+ketahui mengenai gerobak.<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>Gerobak dapat ditaruh dimana
+saja, jadi fungsinya akan
+berguna untuk membantumu!<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>Tapi untuk membawanya keluar
+kebun, kamu perlu untuk
+<RED>mengikat</COLOR>nya kekudamu.<PAGE>Untuk itu, dekati kudamu,
+lalu tekan <RED>Tombol R</COLOR>.<PAGE>Untuk melepasnya, parkir
+gerobakmu di tempat awal,
+dan Tekan <RED>Tombol R</COLOR>.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>Itu semua hal mengenai
+gerobak dan kuda.
+Apa kamu dah paham, ye?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>Ini rumahmu!
+Tinggal disini kapanpun
+kamu suka!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>Ternyata seharian ini sudah
+banyak informasi yang kamu
+ketahui...<PAGE>Aku tebak kamu kelelahan?
+Kamu bisa beristirahat di
+kasur, disaat didepannya<PAGE>tekan <RED>Tombol A</COLOR> untuk
+tidur.<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>Jika kamu merasa masih kuat
+, bisa mengecek <RED>rak buku</COLOR> 
+dan <RED>dapur</COLOR> sebelum tidur.<PAGE>Rasanya udah cukup, aku
+akan pulang kerumah dulu.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT>Ini kana, tokonya berisikan
+kudanya dan gerobak.<PAGE><FACE_POS_LEFT><FACE_INA><FACE_SAD><FP_LEFT>Gerobak yang kamu kendarain
+sebelumnya sudah rusak dan
+tidak dapat digunakan.<PAGE><FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT>Jadi aku bertanya ke Kana
+apa ada gerobak yang bisa
+digunakan untukmu.<PAGE><FACE_POS_LEFT><FACE_INA><FACE_HAPPY><FP_LEFT>Gerobak ini adalah hadiah
+dari aku utnuk menggantikan
+gerobakmu!<PAGE>Gunakan sebaik-baiknya ya!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>Mari kita perlihatkan apa
+yang ada didalam rumahmu.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>Tidak masalah.
+Dengarkanlah kali ini.<PAGE>Tekan <RED>Tombol A</COLOR> untuk
+mengendarai kudamu.<PAGE>Disaat mau menuruninya,
+Tekan<RED>Tombol B</COLOR>.<PAGE>Untuk mengikat gerobakmu ke
+kuda, dekati kudamu dan
+lalu dekati gerobakmu.<PAGE>Lalu Tekan <RED>Tombol R</COLOR>.<PAGE>Untuk melepaskannya, parkir
+ditempat asalnya dan
+Tekan <RED>Tombol R</COLOR>.
+----------------------------|----------------------------------
+<CHOICE_AB> Ya, sudah paham.
+ Jelaskan lagi ya ya ya.

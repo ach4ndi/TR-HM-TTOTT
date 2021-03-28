@@ -1,0 +1,23 @@
+<FACE_POS_LEFT><HIDE_NAME><FACE_INA><FACE_NORMAL><FP_LEFT><HIDE_FACE><MYNAME>? Are you there?
+I'm coming in.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_HAPPY><FP_RIGHT>The <VAR_0> you brought
+in the other day, <VAR_1>,
+had a healthy baby!<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>I've brought both of
+them back for you.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_HAPPY><FP_RIGHT>Here's the baby! Doesn't it
+look adorable?<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Have you thought of a good
+name for it?\u2390\u2709
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Is <RED><VAR_0></COLOR> OK?
+<CHOICE_AB> Yes!
+ I changed my mind.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>That's a great name! Well,
+make sure to take good
+care of it.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Well, I'm going to head back
+to my shop now. Stop by and
+see me if you need anything!

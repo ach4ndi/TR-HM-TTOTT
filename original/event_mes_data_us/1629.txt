@@ -1,0 +1,71 @@
+\u2137Talk about the request?
+<CHOICE_AB> Yes.
+ No.
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fc8<FP_RIGHT>What's this?
+You're missing something.<PAGE>I'll be here, okay?
+Just come back whenever
+you're ready.
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fc8<FP_RIGHT>What's this?
+You have an errand to do?<PAGE>I'll be here, okay?
+I'll just wait for you
+to come back.
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fc8<FP_RIGHT>Now the money.
+That's <VAR_0>G.
+
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fc8<FP_RIGHT><BLUE>
+MSG NOT APPEAR
+</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fc8<FP_RIGHT><BLUE>
+MSG NOT APPEAR
+</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fc8<FP_RIGHT><BLUE>
+MSG NOT APPEAR
+</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT>\u1fc8<FACE_NORMAL><FP_RIGHT><BLUE>
+MSG NOT APPEAR
+</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fc8<FP_RIGHT>　
+\u20d0<RED>　　　　DUMMY</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fc8<FP_RIGHT>　
+\u20d0<RED>　　　　DUMMY</COLOR>
+----------------------------|----------------------------------
+\u2137Talk about the request?
+<CHOICE_AB> Yes.
+ No.
+----------------------------|----------------------------------
+\u2137Decline reward item?
+<CHOICE_AB> Yes.
+ No.
+----------------------------|----------------------------------
+\u2137You got <VAR_0>G!
+
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fc8<FP_RIGHT>　
+\u20d0<RED>　　　 Dummy</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fc8<FP_RIGHT>　
+\u20d0<RED>　　　 Dummy</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fc8<FP_RIGHT>　
+\u20d0<RED>　　　 Dummy</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fc8<FP_RIGHT>　
+\u20d0<RED>　　　 Dummy</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fc8<FP_RIGHT>　
+\u20d0<RED>　　　 Dummy</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fc8<FP_RIGHT>　
+\u20d0<RED>　　　 Dummy</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fc8<FP_RIGHT>　
+\u20d0<RED>　　　 Dummy</COLOR>

@@ -1,0 +1,53 @@
+<FACE_POS_RIGHT><FACE_HIRO><FACE_NORMAL><FP_RIGHT>Aku ... bersemangat membara.
+...<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_SHY><FP_RIGHT>Uh apakah ini benar-benar...
+kumaksud kamu beneran ini?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_HAPPY><FP_RIGHT>Terima kasih banyak!<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_SHY><FP_RIGHT>Aku agak malu bahwa kamu
+mendahuluhiku.<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_SAD><FP_RIGHT>Ini seharusnya aku yang
+memberikan itu kepada kamu,
+dan...<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_ANGRY><FP_RIGHT>...\u270a...\u270a\u270a...<MYNAME>...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_NORMAL><FP_RIGHT>Kumohon... biarkan aku yang
+melamarmu.<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_SHOCK><FP_RIGHT>Apakah kamu...\u270a\u270a
+menikahi aku, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_HAPPY><FP_RIGHT>Hooreee!
+Terima kasih banyak!<PAGE>Sepertinya kita akan memberi-
+tahukan berita baik ini
+kepada Dokter Ayame.<PAGE>Dikarenakan dia sangat baik
+terhadap aku dan aku me-
+rasa lebih baik memberitahu-<PAGE>kan dia, orang pertama yang
+harus tahu.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_AYAME><FACE_HAPPY><FP_LEFT>Oe oe selamat ya!
+Aku sangat senang untuk
+kalian ini.<PAGE><FACE_POS_LEFT><FACE_AYAME><FACE_NORMAL><FP_LEFT>Kapan pelaksaan pernikahan-
+nya?<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_NORMAL><FP_RIGHT>Oh, uh kita belum menentukan
+tanggal mainnya...<PAGE><FACE_POS_LEFT><FACE_AYAME><FACE_HAPPY><FP_LEFT>Tapi sebentar lagi kan?
+Seperti seminggu dari
+sekarang?<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_SAD><FP_RIGHT>Apa? 
+Kenapa kamu yang menentukan
+tanggal pernikahan kita?<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_ANGRY><FP_RIGHT>Kita butuh waktu untuk me-
+mikirkannya ini tante...<PAGE><FACE_POS_LEFT><FACE_AYAME><FACE_NORMAL><FP_LEFT>Ah, tapi <MYNAME> itu
+termasuk gadis popular di-
+desa sebelah loh!<PAGE><FACE_POS_LEFT><FACE_AYAME><FACE_HAPPY><FP_LEFT>Kamu tidak mau kan jika
+ada yang menikungmu dari
+belakang...<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_NORMAL><FP_RIGHT>Oh! Bener juga ya!<PAGE><FACE_POS_LEFT><FACE_AYAME><FACE_NORMAL><FP_LEFT>...\u270a\u270aOh, Aku bercanda kok!<PAGE><FACE_POS_LEFT><FACE_AYAME><FACE_HAPPY><FP_LEFT><MYNAME> ini gadis tipe-
+tipe setia kok. hehehe.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_AYAME><FACE_NORMAL><FP_LEFT><MYNAME>, jadi bagaimana
+seminggu dari sekarang
+pernikahannya diadakan?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_AYAME><FACE_HAPPY><FP_LEFT>Bagus!<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_NORMAL><FP_RIGHT>Jika <MYNAME> setuju, maka
+aku sudah tidak mengajukan
+keberatan dibagianku.<PAGE><FACE_POS_LEFT><FACE_AYAME><FACE_HAPPY><FP_LEFT>Maka sudah diputuskan,
+Aku akan membantu <MYNAME> 
+dandani dia!<PAGE><FACE_POS_LEFT><FACE_AYAME><FACE_NORMAL><FP_LEFT>di hari pernikahannya,
+dikarenakan kamu akan sibuk
+sepanjang hari...<PAGE>Jadi selesaikan pekerjaanmu
+sebelum harinya, oke?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_SHOCK><FP_RIGHT>Ini terasa terlalu mendadak
+... Tapi aku sudah tidak
+sabar menantinya!

@@ -1,0 +1,40 @@
+<FACE_POS_RIGHT><FACE_CAM><FACE_SAD><FP_RIGHT>Hmm...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_SHY><FP_RIGHT>Oh, sorry. I was just
+thinking about something.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT>Oh, it's nothing big. A
+friend of mine who lives in
+the city is getting married.<PAGE>He's really done a lot for
+me over the years, so I
+wanted to help him out.<PAGE>His fiance likes pink, so I
+thought I'd make a bouquet
+using mainly pink and white.<PAGE><FACE_POS_RIGHT><FACE_CAM><FACE_SHY><FP_RIGHT>But I'm not sure what flower
+I should use to accent the
+bouquet. 
+----------------------------|----------------------------------
+<CHOICE_AB> How about pink roses?
+ Gerberas would be great!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_SAD><FP_RIGHT>I want to offset the
+rest of the bouquet...<PAGE>If I use flowers of the
+same color, they'll
+just get lost in it.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_SHY><FP_RIGHT>Hmm... Sorry I wasn't much
+fun today...<PAGE><FACE_POS_RIGHT><FACE_CAM><FACE_SAD><FP_RIGHT>I'm going to head home
+now. See you.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT>Wow, you think so?<PAGE>I was actually thinking I
+should use gerberas...<PAGE><FACE_POS_RIGHT><FACE_CAM><FACE_HAPPY><FP_RIGHT>If you think so too,
+then gerberas must
+be the right choice.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_HAPPY><FP_RIGHT>Thanks, <MYNAME>.
+I always value
+your opinion!<PAGE>I'll go home and
+start working on
+that bouquet, then.<PAGE>Thanks for hanging out
+with me today.
+See you later!

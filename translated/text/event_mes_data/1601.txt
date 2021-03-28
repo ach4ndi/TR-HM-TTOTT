@@ -1,0 +1,73 @@
+<FP_NONE>Tanya tentang permintaan?
+<CHOICE_AB> Ya.
+ Tidak.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_ANGRY><FP_RIGHT>Hmm??
+Tunggu sebentar...<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_SHY>Maafkan aku, kamu belum mem-
+bawakan semua barang yang
+kuminta!<PAGE>Kembali lagi dengan
+membawakanku semua barangnya
+TITIK.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_SHY><FP_RIGHT>Sekarang apa?
+Kamu membatalkannya?<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL>Jika kamu memiliki sesuatu
+yang lain diselesaikan, sana
+selesaikan sekarang.<PAGE>Baru jika sudah selesai,
+datang kesini lagi. Aku 
+bisa menunggu kok.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>Sekarang uangnya...
+Hanya <VAR_0>G.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>Aku dengar kamu akan
+datang. Aku sudah menunggu
+kamu.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>Ah-ha. Kerja yang sempurna,
+itu pastinya dari
+Kebun <MYFARMNAME>.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_HAPPY><FP_RIGHT>Selamat tinggal.
+Titip salam tempel ya.
+Makasih.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT><BLUE>
+MSG NOT APPEAR
+</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>　
+\u20d0<RED>　　　　Dummy</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>　
+\u20d0<RED>　　　　Dummy</COLOR>
+----------------------------|----------------------------------
+<FP_NONE>Tanya tentang permintaan?
+<CHOICE_AB> Ya.
+ Tidak.
+----------------------------|----------------------------------
+<FP_NONE>Menolak hadiahnya?
+<CHOICE_AB> Ya.
+ Tidak.
+----------------------------|----------------------------------
+<FP_NONE>Kamu mendapatkan <VAR_0>G!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>　
+\u20d0<RED>　　　　Dummy</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>　
+\u20d0<RED>　　　　Dummy</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>　
+\u20d0<RED>　　　　Dummy</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>　
+\u20d0<RED>　　　　Dummy</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>　
+\u20d0<RED>　　　　Dummy</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>　
+\u20d0<RED>　　　　Dummy</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>　
+\u20d0<RED>　　　　Dummy</COLOR>

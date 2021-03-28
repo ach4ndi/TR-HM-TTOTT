@@ -1,0 +1,738 @@
+<FACE_POS_CENTER><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>I don't think we've met.
+I'm <BLUE>Mikhail</COLOR>.
+Nice to meet you.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>The winds howled a fierce
+melody yesterday. It was
+thrilling to play along to.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>Hey, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>Hey, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>Hey, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MIKHAIL><FACE_HAPPY><FP_RIGHT>Nice pet, nice pet...
+Aren't you cute?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>I love most animals, but
+I can't bring myself to like
+these.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>I have heard what a blue
+feather means, but...<PAGE>We need to go have a serious
+discussion about this...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>I've heard what a blue
+feather means.
+A proposal of marriage...<PAGE>Whoever you're proposing to,
+I wish you luck.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>No thanks.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>No, you've given me quite
+enough gifts today. Thank
+you, though.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>A Harmony Day present?
+For me?<PAGE><FACE_POS_CENTER><FACE_MIKHAIL><FACE_SHOCK><FP_RIGHT>You didn't have to do that,
+but I accept gratefully.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>A Harmony Day present?
+For me?<PAGE>It seems as though it should
+go to someone else, but...
+if you're sure, I accept it.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>That's not something you
+should give away.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>Is that <RED>boiled tofu</COLOR>...
+a birthday present for me!?<PAGE><FACE_POS_CENTER><FACE_MIKHAIL><FACE_HAPPY><FP_RIGHT>Thank you!!
+You know what my absolute
+favorite is...<PAGE>I'm moved!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MIKHAIL><FACE_HAPPY><FP_RIGHT>Wow, it's <RED>boiled tofu</COLOR>!
+I'm so happy!
+Thank you!!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>Hey, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>Hey, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>Could that possibly be...
+my birthday present...?!<PAGE><FACE_POS_CENTER><FACE_MIKHAIL><FACE_SHOCK><FP_RIGHT>Thank you!!
+You know what my one of my
+favorites is...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MIKHAIL><FACE_HAPPY><FP_RIGHT>What, a present?
+Thank you. It's quite nice!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>Could that possibly be...
+my birthday present...?<PAGE><FACE_POS_CENTER><FACE_MIKHAIL><FACE_HAPPY><FP_RIGHT>Thank you. It's quite nice!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>A present for me?
+Ah, thank you.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>Could that possibly be...
+...my birthday present...?<PAGE><FACE_POS_CENTER><FACE_MIKHAIL><FACE_SHY><FP_RIGHT>This...is not a good gift.
+Do you mind if I ask what
+you were thinking?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>...A present?<PAGE><FACE_POS_CENTER><FACE_MIKHAIL><FACE_SHY><FP_RIGHT>Hmph. It could be worse,
+I guess.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MIKHAIL><FACE_SHY><FP_RIGHT>...A present?
+It's...for me?<PAGE><FACE_POS_CENTER><FACE_MIKHAIL><FACE_SAD><FP_RIGHT>Life does have its low
+notes... I can't imagine
+a worse gift than this.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>Hey, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>And how is married life?
+Harmonious?<PAGE>It must be nice to have
+accompaniment through life
+like that.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>And how is married life?
+Harmonious?<PAGE>I'm in no position to say,
+but having a happy home
+must be nice.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>I love the sound of the
+wind and rain today.<PAGE>It's nature's marvelous
+music...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>On a day like this, you must
+keep your ears pricked up
+and listen to the snowfall.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>When I'm with you, so many
+melodies flood into my head.<PAGE>Your words and your
+expressions stimulate my
+emotions...in a good way.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>I have traveled to many
+places...but for now I
+am staying in Konohana.<PAGE>I like this village and its
+natural setting, and I have
+good friends here...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>If you listen carefully to
+people talking, don't you
+hear music in it?<PAGE>I hear beautiful melodies
+even as you and I speak.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>To write great music, you
+need a great environment.<PAGE>And this is just such a
+harmonious environment.
+
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>Sometimes when I am playing
+violin all alone, a strange
+feeling comes over me.<PAGE>Even though no one's around,
+I get the sense that I am
+conversing with someone.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>What kind of music do you
+like?<PAGE>I like music that seems to
+play in counterpoint with
+nature.<PAGE>Come to the Music Festival
+and you'll hear what I mean.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>If you listen quietly, you
+can hear music all around
+us.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>Hey, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>Today I just can't hear that
+beautiful music in your
+voice that I usually do.<PAGE>You know why I'm angry.
+----------------------------|----------------------------------
+<CHOICE_AB> ...I'm sorry.
+ Somebody's grumpy.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>No, it's all right.
+I forgive you.
+Don't worry about it.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>That's not the issue!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>Hey, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>What terrible weather
+yesterday. I'm glad you
+weren't harmed.<PAGE>You know, those violent
+winds actually inspired me
+with a good rhythm.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>Hey, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>Hey, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>Hey, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>Hey, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>Ah, a gift for Harmony Day?
+I am such a fortunate
+husband.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>Is that...
+...my birthday present...?!<PAGE><FACE_POS_CENTER><FACE_MIKHAIL><FACE_HAPPY><FP_RIGHT>Thank you!!
+You remembered my
+favorite!<PAGE>I'm moved!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>Oh, a present?<PAGE><FACE_POS_CENTER><FACE_MIKHAIL><FACE_HAPPY><FP_RIGHT>Thank you!
+This is wonderful!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT><MYNICKNAME>, why don't we go
+somewhere the birds are
+singing and talk?
+----------------------------|----------------------------------
+<CHOICE_AB> That sounds nice.
+ I'll pass for today.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MIKHAIL><FACE_SHY><FP_RIGHT>Oh really?
+Well, some other time when
+you feel like it, then...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>Hey, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>Is that...
+...my birthday present...?<PAGE><FACE_POS_CENTER><FACE_MIKHAIL><FACE_SHY><FP_RIGHT>I appreciate the sentiment,
+but could you at least
+remember what I like?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>And that's...for me?<PAGE><FACE_POS_CENTER><FACE_MIKHAIL><FACE_SHY><FP_RIGHT>Thank you...but...
+Shouldn't you remember what
+I like by now?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>I can't believe I'm going
+to be a father!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>I'm going to play good music
+for our child to help
+its mind develop.<PAGE>And of course, music
+appreciation is important.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>Soon I will be a father...
+It hardly seems real...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MIKHAIL><FACE_HAPPY><FP_RIGHT>Today your voice is again
+a beautiful melody playing
+on my heartstrings.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>Being able to talk with you
+every day is a source of
+endless musical inspiration.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>At night, your voice is like
+a serenade to my heart.<PAGE>This is my favorite time of
+the day.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>In times past, I traveled to
+many places, but now I have
+put down roots like this...<PAGE>This settled life has its
+own appeal, I now realize.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT><MYNICKNAME>, would you like
+to do some singing?<PAGE>Perhaps you and I could
+perform together sometime.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>Because you work so hard to
+support us, I can focus on
+my music.<PAGE>Thank you for that.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT><MYNICKNAME>, do you like to
+spend time with me?<PAGE>If you are happy, then I
+am happy.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>It seems that we don't talk
+as much as we used to.<PAGE>A husband and wife should
+live in harmony.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT><MYNICKNAME>, you've changed
+somehow since we got
+married...<PAGE>The magic seems to be gone
+from our relationship.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>I don't feel like talking to
+you today.
+----------------------------|----------------------------------
+<CHOICE_AB> I'm so sorry!
+ Fine by me.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>Okay, I understand.
+Now I feel better about it,
+so don't worry.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MIKHAIL><FACE_SAD><FP_RIGHT>.........Rrrrrright.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>Don't you need to hold on
+to that?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>Hey, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>Hey, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>Is this your pet?
+How cute!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MIKHAIL><FACE_HAPPY><FP_RIGHT>Nice little guy...
+Animals make me feel
+so peaceful.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MIKHAIL><FACE_SHY><FP_RIGHT>I like most animals, but
+this kind...not so much.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>Haven't I seen one of these?
+It's a cute one.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>Now that's a nice outfit.
+You have good fashion sense.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>Would you like to go on a
+date with me?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>So, <MYNAME>, why don't we
+go for a walk together?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>So, <MYNAME>, why don't we
+have a chat?
+----------------------------|----------------------------------
+<CHOICE_AB> Okay, I'd like that.
+ Um, not today...
+----------------------------|----------------------------------
+<CHOICE_AB> Yeah. Sounds nice.
+ Now's not a good time...
+----------------------------|----------------------------------
+<CHOICE_AB> Yes, let's chat.
+ Maybe another time?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>Hey, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>Hey, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>I understand.
+Another time, maybe...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>Not a good time?
+Of course, of course.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>Another time?
+Okay, I guess.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>What a pretty flower.
+A Flower Day present...?
+Thank you.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>What a pretty flower.
+A Flower Day present...?<PAGE>It's always nice to get
+flowers from my wife.
+I feel so happy.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>Tomorrow is the Starry Night
+Festival. If you don't have
+any plans, we could go.
+----------------------------|----------------------------------
+<CHOICE_AB> Yeah! Sounds great!
+ I'm sorry, but...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MIKHAIL><FACE_HAPPY><FP_RIGHT>It's decided, then.
+I'll look forward to
+tomorrow.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>I see.
+I'll find somebody else to
+go with, then.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MIKHAIL><FACE_HAPPY><FP_RIGHT>I know tomorrow's Starry
+Night Festival will be fun
+since I'm going with you.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MIKHAIL><FACE_HAPPY><FP_RIGHT>What beautiful wrapping.
+May I open it?<PAGE>What's inside?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>When you speak, your words
+are like a beautiful melody
+plucking my heartstrings...<PAGE>Sometimes the melody is
+gentle, sometimes fierce...
+
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>Hey, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>Did you enjoy today's Music
+Festival?<PAGE>I loved playing. I felt
+entirely in touch with the
+melody.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MIKHAIL><FACE_HAPPY><FP_RIGHT>The Music Festival today was
+fun.<PAGE>You could tell that everyone
+was having a good time.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>I was really feeling the
+soul of the music today.<PAGE>I'm glad everyone enjoyed
+the performance.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>Well, take it easy.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>As I walk along hearing the
+birds sing and the babbling
+brook, music comes to me.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>The droning of the cicadas
+in summer is annoying, yet
+it's a kind of chorus.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>Listen closely...
+Can you hear the voices of
+the bugs and frogs?<PAGE>It's nature's harmony.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>In winter the mountain lies
+in a hush...<PAGE>But the stirring of the wind
+and the rustle of leaves is
+a soft whisper of song.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>I love this place.<PAGE>The view from here is
+incredible...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>I always hike up to the peak
+of the mountain when I have
+some free time.<PAGE>It's so much fun to walk
+along listening to nature's
+own music.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>This is such a nice village.
+The people and nature are
+full of life...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>Rain is one of nature's
+blessings, so I let it fall
+on me with no umbrella.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>Hey, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>Hey, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>Hey, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>Did you enjoy this year's
+Music Festival?<PAGE>I enjoyed playing, and I'm
+happy with my performance.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MIKHAIL><FACE_HAPPY><FP_RIGHT>The Music Festival today was
+fun.<PAGE>You could tell that everyone
+was having a good time.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MIKHAIL><FACE_HAPPY><FP_RIGHT>I was really feeling the
+soul of the music today.<PAGE>I'm glad everyone enjoyed
+the performance.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>Hey, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>Hey, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>Hey, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>Hey, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>It's no big deal, but take
+it easy, okay?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>It's no big deal, but take
+it easy, okay?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>I feel like I can write
+some good music today.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>Hey, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>I feel like I can write a
+good tune today.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>Hey, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>Hey, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_MIKHAIL><FACE_NORMAL><FP_LEFT>Welcome home,
+<MYNICKNAME>.<PAGE><FACE_POS_LEFT><FACE_MIKHAIL><FACE_HAPPY><FP_LEFT>Today's your birthday!
+I prepared a special
+surprise for you.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MIKHAIL><FACE_HAPPY><FP_RIGHT>I made this for you.<PAGE>I was thinking about you the
+whole time I was cooking,
+so I got distracted...<PAGE>But in the end, I think it
+came out pretty well.
+I hope you'll like it.<PAGE><FACE_POS_RIGHT><FACE_MIKHAIL><FACE_SHOCK><FP_RIGHT>Happy birthday,
+<MYNICKNAME>.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_MIKHAIL><FACE_NORMAL><FP_LEFT>Welcome home,
+<MYNICKNAME>.<PAGE><FACE_POS_LEFT><FACE_MIKHAIL><FACE_HAPPY><FP_LEFT>Today is your birthday,
+<MYNICKNAME>, and also mine!<PAGE><FACE_POS_LEFT><FACE_MIKHAIL><FACE_HAPPY><FP_LEFT>I prepared a special
+surprise for you.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MIKHAIL><FACE_HAPPY><FP_RIGHT>I wanted to share this meal
+with you.<PAGE>I was thinking about you the
+whole time I was cooking,
+so I got distracted...<PAGE>But in the end I think it
+came out pretty well.
+I hope you'll like it.<PAGE><FACE_POS_RIGHT><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>Let's eat it before it gets
+cold.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_MIKHAIL><FACE_NORMAL><FP_LEFT>Welcome home,
+<MYNICKNAME>.<PAGE><FACE_POS_LEFT><FACE_MIKHAIL><FACE_HAPPY><FP_LEFT>Today is my birthday. I
+wanted it to be special,
+so I prepared something.<PAGE>So come over here, <MYNICKNAME>.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MIKHAIL><FACE_HAPPY><FP_RIGHT><MYNICKNAME>, I wanted to
+celebrate with you, so I
+cooked this.<PAGE><FACE_POS_RIGHT><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>I can't cook food that
+tastes as good as yours,
+but this came out well.<PAGE><FACE_POS_RIGHT><FACE_MIKHAIL><FACE_HAPPY><FP_RIGHT>So eat up!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_MIKHAIL><FACE_NORMAL><FP_LEFT>Welcome home,
+<MYNICKNAME>.<PAGE><FACE_POS_LEFT><FACE_MIKHAIL><FACE_HAPPY><FP_LEFT>Guess whose birthday it is?
+\u2337's!<PAGE>So come right over here.
+Let's celebrate together.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MIKHAIL><FACE_HAPPY><FP_RIGHT>It's great that our child's
+been healthy and growing
+strong.<PAGE><FACE_POS_RIGHT><FACE_MIKHAIL><FACE_SHOCK><FP_RIGHT>This little one is our
+treasure, yours and mine.
+We are loving parents!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_MIKHAIL><FACE_NORMAL><FP_LEFT>Welcome home,
+<MYNICKNAME>.<PAGE><FACE_POS_LEFT><FACE_MIKHAIL><FACE_HAPPY><FP_LEFT>Guess whose birthday it is?
+Our precious \u2337!<PAGE>So come right over here.
+Let's celebrate together.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>Just how \u2337 likes it,
+that's how I made it.<PAGE>It's good to cultivate a
+child's knowledge of fine
+music and fine food.<PAGE>We don't want our little
+one eating any junk food.<PAGE><FACE_POS_RIGHT><FACE_MIKHAIL><FACE_HAPPY><FP_RIGHT>My cooking can't measure up
+to yours, but I baked in all
+my love for you and \u2337.<PAGE>Happy birthday,
+\u2337.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_MIKHAIL><FACE_NORMAL><FP_LEFT>Welcome home,
+<MYNICKNAME>.<PAGE><FACE_POS_LEFT><FACE_MIKHAIL><FACE_HAPPY><FP_LEFT>Today is a date that brought
+you and I great happiness...
+our anniversary!<PAGE>I've been waiting for you to
+get home, so come right over
+here.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MIKHAIL><FACE_HAPPY><FP_RIGHT>Whenever we celebrate our
+anniversary, I think...<PAGE>...I love you more this year
+than last year, and next
+year I'll love you more.<PAGE><FACE_POS_RIGHT><FACE_MIKHAIL><FACE_SHOCK><FP_RIGHT>I'm so glad to be with you,
+<MYNICKNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>Hey, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>Hey, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>Hey, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>Hey, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>Hey, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>Hey, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>Hey, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>I guess today is Konohana's
+<VAR_0>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>Hey, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>Hey, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>Hey, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>Hey, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>Hey, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>Hey, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>Hey, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>Hey, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>Hey, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>Hey, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>Hey, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>Hey, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>Hey, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>Hey, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>Hey, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>Hey, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>Hey, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>Hey, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>Hey, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MIKHAIL><FACE_HAPPY><FP_RIGHT>Good morning, <MYNAME>.
+Your voice has a good tone
+today.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MIKHAIL><FACE_HAPPY><FP_RIGHT>Good morning, <MYNAME>.
+Your voice has a low tone
+today. Are you tired?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MIKHAIL><FACE_HAPPY><FP_RIGHT>Hey, good morning!
+Feeling good?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>Hey, <MYNAME>...
+Hello.
+How's work today?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MIKHAIL><FACE_HAPPY><FP_RIGHT>Hey, <MYNAME>.
+Having a good day?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>Hello.
+Your voice has a good tone
+today.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>Good evening, <MYNAME>.
+Your voice tone drops
+a little at night.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>Good evening.
+Did you enjoy your day?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>Good evening, <MYNAME>.
+The stars are beautiful
+tonight.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>Our wedding is coming up.
+Are you all ready?<PAGE>There is still so much to
+prepare.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>Should I play my violin
+on our wedding day?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MIKHAIL><FACE_SHOCK><FP_RIGHT>Soon we'll be married!
+I need to calm myself down.
+It's no good to be frazzled.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>Hey, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>Hey, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>Hey, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>Hey, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>Hey, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>Hey, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>I feel like I can write
+some good music today.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>Unless you walk every day,
+you'll get out of shape.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>When I'm writing music, I
+step outside once in a
+while for inspiration.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MIKHAIL><FACE_HAPPY><FP_RIGHT>Good morning, <MYNICKNAME>.
+You talked in your sleep
+last night.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MIKHAIL><FACE_HAPPY><FP_RIGHT><MYNICKNAME>, good morning!
+Hearing your voice in the
+morning starts the day well!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>Good morning.
+Feeling well?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>Hey, <MYNICKNAME>.
+Where did the day go?
+It's already midday.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>...Hey, <MYNICKNAME>.
+What should we have for
+dinner?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MIKHAIL><FACE_SHY><FP_RIGHT>Hey...<MYNICKNAME>...
+I was drowsing, but your
+voice opened my eyes.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>Hey, <MYNICKNAME>.
+A good day's work done?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>Hey, <MYNICKNAME>.
+Did you enjoy your day?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>...Hey, <MYNICKNAME>.
+We haven't spoken at all
+today.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>I feel like I can write
+some good music today.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>When I'm writing music, I
+step outside once in a
+while to relieve stress.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>Hey, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>I feel like I can write
+some good music today.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>It's no big deal, but take
+it easy, okay?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>It's no big deal, but take
+it easy, okay?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>It's no big deal, but take
+it easy, okay?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>I feel like I can write
+some good music today.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>I feel like I can write
+some good music today.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>It's no big deal, but take
+it easy, okay?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>I feel like I can write
+some good music today.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>I feel like I can write
+some good music today.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>It's no big deal, but take
+it easy, okay?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>I feel like I can write
+some good music today.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>It's no big deal, but take
+it easy, okay?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>It's no big deal, but take
+it easy, okay?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>It's no big deal, but take
+it easy, okay?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>I feel like I can write
+some good music today.

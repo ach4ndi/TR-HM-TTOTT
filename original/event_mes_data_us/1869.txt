@@ -1,0 +1,105 @@
+\u2137Talk about the request?
+<CHOICE_AB> Yes
+ No
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CHERYL><FACE_HAPPY><FP_RIGHT>Ooh, you got my request!
+Yay!★<PAGE><FACE_POS_RIGHT><FACE_CHERYL><FACE_NORMAL>Just like I promised, I've
+got something to teach
+you!<PAGE><RED>How to make friends with
+villagers</COLOR>! You want
+to know, right?
+----------------------------|----------------------------------
+\u2137<CHOICE_AB> Please tell me!
+ No thanks.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CHERYL><FACE_HAPPY><FP_RIGHT>Oooh-kay! Listen carefully!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>And that's how it works!
+Want to hear it again?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Um, really? I guess that's
+fine...<PAGE>Well, why don't you practice
+on me if you already know?<PAGE>Bring me what's in my
+<RED>request</COLOR> so we'll be
+better friends!<PAGE><FACE_POS_RIGHT><FACE_CHERYL><FACE_HAPPY>Tee-hee! I can't wait!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi,<MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi,<MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi,<MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi,<MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CHERYL><FACE_HAPPY><FP_RIGHT>Ooh, you brought it!
+Thanks!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>You're great!★ No wonder
+you're such a good farmer!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>You did great!<PAGE>Since you did such a nice
+job, I'm going to tell you
+something useful!<PAGE>Did you know that you can
+<RED>give gifts to people</COLOR>?<PAGE>To give someone a gift, talk
+to them while <RED>holding</COLOR> what
+you want to give them!<PAGE><FACE_POS_RIGHT><FACE_CHERYL><FACE_HAPPY>If the present is something
+they like, they'll be sooooo
+happy!<PAGE>You'll become closer
+friends, and <RED>they'll
+like you more</COLOR>!<PAGE><FACE_POS_RIGHT><FACE_CHERYL><FACE_SAD>But if you give them
+something they hate,
+they'll like you less...<PAGE><FACE_POS_RIGHT><FACE_CHERYL><FACE_NORMAL>Hmm? Worried you'll give
+someone something they hate?
+\u270a\u270a<FACE_POS_RIGHT><FACE_CHERYL><FACE_HAPPY>Tee-hee! Don't worry!<PAGE><FACE_POS_RIGHT><FACE_CHERYL><FACE_HAPPY>Even if you don't give gifts
+to people, just talk to them
+to become better friends!<PAGE>If you talk to them every
+day, you'll learn the things
+they like and dislike!★
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Since you did such a great
+job, I have a reward for
+you!<PAGE>Just select your reward from
+the <RED>Reward Screen</COLOR>...<PAGE>...And move it to your <RED>bag</COLOR>!
+It's really easy!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CHERYL><FACE_HAPPY><FP_RIGHT>I know you're going to be
+great friends with everyone,
+so don't worry!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi,<MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi,<MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi,<MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi,<MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi,<MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>To improve your friendship
+with people, just <RED>talk to
+them every day</COLOR>!<PAGE><FACE_POS_RIGHT><FACE_CHERYL><FACE_HAPPY>People naturally become
+better friends with someone
+who talks to them every day!<PAGE><FACE_POS_RIGHT><FACE_CHERYL><FACE_NORMAL>My big brother Ash's rule of
+building friendships is:
+Greet everyone you meet!<PAGE>Fulfilling requests and
+taking part in village
+events are good, too!★
+----------------------------|----------------------------------
+\u2137How about around here?
+----------------------------|----------------------------------
+\u2137How about around here?
+----------------------------|----------------------------------
+\u2137How about around here?
+----------------------------|----------------------------------
+\u2137How about around here?
+----------------------------|----------------------------------
+\u2137How about around here?
+----------------------------|----------------------------------
+\u2137How about around here?
+----------------------------|----------------------------------
+\u2137How about around here?
+----------------------------|----------------------------------
+\u2137How about around here?
+----------------------------|----------------------------------
+\u2137How about around here?

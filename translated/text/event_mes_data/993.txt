@@ -1,0 +1,43 @@
+<FACE_POS_RIGHT><FACE_CAM><FACE_SAD><FP_RIGHT>Hmm...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_SHY><FP_RIGHT>Oh, maaf. Aku hanya memikir
+kan sesuatu.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT>Oh, itu hal yang sepele.
+Seorang teman aku yang
+tinggal dikota, dia akan<PAGE>segera menikah.
+Dia sangat membantu aku
+selama tahun terakhir ini,<PAGE>jadi aku ingin membantunya.
+Pengantin perempuannya me-
+nyukai warna pink, jadi<PAGE>aku pikir jika membuatkan-
+nya sebuah karangan bunga
+yang warnanya pink dan putih<PAGE><FACE_POS_RIGHT><FACE_CAM><FACE_SHY><FP_RIGHT>Tapi aku tidak yakin bunga
+yang harus digunakan kedalam
+karangan bunga.
+----------------------------|----------------------------------
+<CHOICE_AB> Bunga Rose Pink?
+ Gerberas juga bagus!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_SAD><FP_RIGHT>Aku ingin menyeragamkan
+warna untuk ruang sisa pada
+karangannya...<PAGE>Jika aku menggunakan warna
+yang sama, mungkin bunga
+tersebut tidak akan terlihat
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_SHY><FP_RIGHT>Hm... maaf hari ini tidak
+cukup membuat aku senang...<PAGE><FACE_POS_RIGHT><FACE_CAM><FACE_SAD><FP_RIGHT>Aku akan kembali kerumah
+sekarnag. Ketemu nanti aja 
+ya.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT>Wow, apa kamu memikirkannya?<PAGE>Aku sebenarnya berpikir
+juga menggunakan gerbera.<PAGE><FACE_POS_RIGHT><FACE_CAM><FACE_HAPPY><FP_RIGHT>Jika kamu memikirkannya juga
+, maka gerbera merupakan
+pilihan yang terbaik.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_HAPPY><FP_RIGHT>Makasih, <MYNAME>.
+Aku selalu menghargai
+pendapatmu!<PAGE>Aku akan kembali kerumah
+dan memulai merangkai
+bunganya.<PAGE>Terima kasih untuk keluar
+bersama aku hari ini.
+Sampai ketemu lagi.

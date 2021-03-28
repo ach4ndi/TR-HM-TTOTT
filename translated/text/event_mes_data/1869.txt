@@ -1,0 +1,127 @@
+<FP_NONE>Tanya tentang permintaan?
+<CHOICE_AB> Ya
+ Tidak
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CHERYL><FACE_HAPPY><FP_RIGHT>Ooh, kamu mengambil permin-
+taanku! Yay!★<PAGE><FACE_POS_RIGHT><FACE_CHERYL><FACE_NORMAL>Seperti apa yang aku janji-
+kan, aku ada beberapa hal
+yang dapat mengajari ke kamu!<PAGE><RED>Bagaimana cara berteman
+dengan warga desa</COLOR>!<PAGE>Apa kamu ingin mengetahuinya,
+benar kan?
+----------------------------|----------------------------------
+<FP_NONE><CHOICE_AB> Tolong beritahuku!
+ Tidak makasih.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CHERYL><FACE_HAPPY><FP_RIGHT>Oooh-kay! Dengarkan
+baik-baik!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Dan itu caranya!
+Apa ingin mendengarkannya
+lagi?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Um, benarkah? Aku pikir
+...
+...<PAGE>okelah kalau gitu...<PAGE>well, kenapa tidak kamu mem-
+pratekkannya didepanku jika
+kamu sudah mengetahuinya?<PAGE>Berikan apa yang aku
+<RED>minta</COLOR> jadi kita bakal
+menjadi teman lebih baik!<PAGE><FACE_POS_RIGHT><FACE_CHERYL><FACE_HAPPY>Tee-hee! 
+Aku dah tidak sabar!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi,<MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi,<MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi,<MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi,<MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CHERYL><FACE_HAPPY><FP_RIGHT>Ooh, jadi kamu membawakan-
+nya! Makasih!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Kamu benar-benar hebat!★ 
+Tidak mengagetkan jika kamu
+seorang petani yang hebat!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Bagus! bagus! kamu sudah
+melakukannya dengan baik!<PAGE>Karena kamu sudah melakukan-
+nya dengan baik, maka aku
+akan memberitahumu sesuatu<PAGE>yang berguna!
+Apakah kamu tahu, kamu bisa<PAGE><RED>memberikan hadiah 
+kepada orang lain</COLOR>?<PAGE>Untuk memberikan hadiah
+kepada orang lain, bicara
+kepadanya sambil <RED>memegang</COLOR><PAGE>apa yang ingin kamu berikan!<PAGE><FACE_POS_RIGHT><FACE_CHERYL><FACE_HAPPY>Jika hadiah tersebut disukai,
+maka dia akan benar-benar
+senang!, kamu bakalan lebih<PAGE>akrab dan menjadi <RED>teman
+dekat</COLOR>!<PAGE><FACE_POS_RIGHT><FACE_CHERYL><FACE_SAD>Tapi jika kamu memberikan
+mereka sesuatu yang di
+benci maka, mereka akan<PAGE>seidkit tidak suka kepada
+kamu!<PAGE><FACE_POS_RIGHT><FACE_CHERYL><FACE_NORMAL>Hmm? kamu khawatir jika mem-
+berikan yang tidak disukai
+seseorang itu?\u270a\u270a<FACE_POS_RIGHT><FACE_CHERYL><FACE_HAPPY>Tee-hee! Jangan khawatir!<PAGE><FACE_POS_RIGHT><FACE_CHERYL><FACE_HAPPY>Walaupun jika kamu tidak mem-
+berikan mereka sebuah hadiah,
+kamu bisa hanya mengajak<PAGE>mereka bicara tiap hari!
+nanti lama-lama menjadi
+teman dekat kok!<PAGE>Dan juga mereka akan membe-
+ritahukan apa yang disukai
+dan apa yang dibenci kok.★
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Dikarenakan kamu melakukan
+itu dengan sangat sangat
+baik, maka aku akan memberi<PAGE>kanmu sebuah hadiah! pilih
+hadiah pada <RED>Layar hadiah</COLOR>...
+...Dan pindahkan ke dalam<PAGE><RED>tas</COLOR> kamu!
+Itu mudah kok!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CHERYL><FACE_HAPPY><FP_RIGHT>Aku tahu kamu akan menjadi
+teman yang baik dengan
+semua orang, jadi jangan<PAGE>khawatir ya!
+ada aku kok!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi,<MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi,<MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi,<MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi,<MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi,<MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Untuk memperbaiki pertemanmu
+dengan orang-orang, <PAGE>hanya <RED>berbicara kepadanya
+tiap hari</COLOR>!<PAGE><FACE_POS_RIGHT><FACE_CHERYL><FACE_HAPPY>Pada umumnya orang-orang
+akan lebih akrab dengan kamu,
+dimana kamu mengajak mereka<PAGE>bicara tiap hari!<PAGE><FACE_POS_RIGHT><FACE_CHERYL><FACE_NORMAL>Kakakku Ash, mempunyai aturan
+pertemanan, yaitu :
+Menyapa orang yang lewat!<PAGE>Memenuhi permintaan dan
+menjadi bagian acara
+yang diadakan didesa juga<PAGE>bagus untuk menjalin perte-
+manan!★
+----------------------------|----------------------------------
+<FP_NONE>Bagaimana disekitar 
+sini aja?
+----------------------------|----------------------------------
+<FP_NONE>Bagaimana disekitar 
+sini aja?
+----------------------------|----------------------------------
+<FP_NONE>Bagaimana disekitar 
+sini aja?
+----------------------------|----------------------------------
+<FP_NONE>Bagaimana disekitar 
+sini aja?
+----------------------------|----------------------------------
+<FP_NONE>Bagaimana disekitar 
+sini aja?
+----------------------------|----------------------------------
+<FP_NONE>Bagaimana disekitar 
+sini aja?
+----------------------------|----------------------------------
+<FP_NONE>Bagaimana disekitar 
+sini aja?
+----------------------------|----------------------------------
+<FP_NONE>Bagaimana disekitar 
+sini aja?
+----------------------------|----------------------------------
+<FP_NONE>Bagaimana disekitar 
+sini aja?

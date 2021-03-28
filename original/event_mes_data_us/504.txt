@@ -1,0 +1,239 @@
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>I'm going to teach you how
+to grow crops today.<PAGE>Do you know how to grow
+crops, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Oh, you do? Good! In that
+case, I'll give you your
+tools.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Here's your <RED>sickle</COLOR>. You'll
+need it for clearing
+grass.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Here's your <RED>hoe</COLOR>. You'll need
+it to till your fields.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Here's your <RED>watering can</COLOR>.
+You'll need it to water your
+crops.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Here's some <RED>fertilizer</COLOR>.<PAGE>Use it on tilled fields to
+raise the quality of crops
+planted around it.<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Well, have fun farming!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>In that case, I'll teach
+you!<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Come, follow me.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>There, this looks like a
+good spot.<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>The steps to growing crops
+are: <RED>clearing</COLOR>, <RED>tilling</COLOR>,
+<RED>sowing</COLOR>, and <RED>watering</COLOR>.<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Here, let me give you this.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>This is a <RED>sickle</COLOR>. You use it
+to cut grass and clear
+an area for tilling.<PAGE>Try it out...
+----------------------------|----------------------------------
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>What are you doing? Go ahead
+and cut the grass.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>First put away what you're
+holding.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>That's the way to do it!
+Looks like you got it!<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Next, I'll give you this.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>It's a <RED>hoe</COLOR>. You can use this
+to till where you've cleared
+the grass.<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Try it! Use the hoe where
+you just cleared the grass.<PAGE>You use the hoe the same way
+you use the sickle.
+----------------------------|----------------------------------
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>You don't know where you
+need to till? Right where
+you just cleared the grass.<PAGE>Equip your hoe with the
+<RED>R Button</COLOR>, then press the
+<RED>A Button</COLOR> to till the ground.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>First put away what you're
+holding!
+----------------------------|----------------------------------
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Great! You look like a
+natural!<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Let me give you these next!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>These are <RED>turnip seeds</COLOR>.<PAGE>Sow them on the ground you
+just tilled.<PAGE>Just equip the seeds, then
+sow them.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Equip the seeds, then sow
+them with the <RED>A Button</COLOR>.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_SAD><FP_RIGHT>What's that, now? You lost
+your seeds?<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_ANGRY>I'll have to give you more.
+Now don't lose these!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>First put away what you're
+holding.
+----------------------------|----------------------------------
+
+----------------------------|----------------------------------
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>There you go! That's how you
+sow!<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Now for the last step.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>This is a <RED>watering can</COLOR>.
+You use it to water your
+crops.<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Fill the watering can with
+water from the well
+near your fields.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>That's your well.<PAGE>Equip the watering can, then
+push the <RED>A Button</COLOR> near the
+well to fill it up.<PAGE>Once your watering can is
+full, use the <RED>A Button</COLOR> to
+water the seeds.<PAGE>Give it a try.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Use the <RED>watering can</COLOR> to
+water the seeds.<PAGE>Use the <RED>R Button</COLOR> to equip
+it, or equip it from your
+bag.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>First put away what you're
+holding.
+----------------------------|----------------------------------
+
+----------------------------|----------------------------------
+
+----------------------------|----------------------------------
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Ho ho ho!<PAGE>What wonderful watering!<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>And that's the basics of
+how you grow crops.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_RUTGER><FACE_NORMAL><FP_LEFT><HIDE_FACE>If you water them every day,
+they'll start to <RED>sprout</COLOR>.<PAGE>But if you forget to water
+them, even for a single
+day...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_RUTGER><FACE_NORMAL><FP_LEFT><HIDE_FACE>...your crops will <RED>dry out</COLOR>!<PAGE>That's a sign that your
+crops need watering!<PAGE>If you continue to neglect
+your crops...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_RUTGER><FACE_NORMAL><FP_LEFT><HIDE_FACE>...they'll eventually <RED>die</COLOR>!
+Be careful!<PAGE>Once they get like this,
+it's too late to water
+them...<PAGE>Use your <RED>sickle</COLOR> to clear
+dead crops. You can then
+plant new seeds.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_RUTGER><FACE_NORMAL><FP_LEFT><HIDE_FACE>When watered properly, a
+turnip will grow to look
+like this.<PAGE>Now you can <RED>harvest</COLOR> it!<PAGE>To harvest a crop, just
+stand near it and press
+the <RED>A Button</COLOR>!<PAGE>However, some crops are
+harvested using your
+<RED>sickle</COLOR>.<PAGE>Examples of such crops are
+wheat and soybeans.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Here's some advice: water
+your crops early in the
+morning.<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>That way, by the evening,
+your crops will be dry
+again.<PAGE>Then you can water your
+crops a second time, and
+they'll grow even faster!
+----------------------------|----------------------------------
+
+----------------------------|----------------------------------
+
+----------------------------|----------------------------------
+
+----------------------------|----------------------------------
+
+----------------------------|----------------------------------
+
+----------------------------|----------------------------------
+
+----------------------------|----------------------------------
+
+----------------------------|----------------------------------
+
+----------------------------|----------------------------------
+
+----------------------------|----------------------------------
+
+----------------------------|----------------------------------
+
+----------------------------|----------------------------------
+
+----------------------------|----------------------------------
+
+----------------------------|----------------------------------
+
+----------------------------|----------------------------------
+
+----------------------------|----------------------------------
+
+----------------------------|----------------------------------
+
+----------------------------|----------------------------------
+
+----------------------------|----------------------------------
+
+----------------------------|----------------------------------
+
+----------------------------|----------------------------------
+
+----------------------------|----------------------------------
+
+----------------------------|----------------------------------
+
+----------------------------|----------------------------------
+
+----------------------------|----------------------------------
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Now then, let's go back
+inside.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Here's some fertilizer.
+You should try it out later.<PAGE>Put your best effort into
+growing crops!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Looks like you don't have
+enough space in your bag.<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>I have <RED>four</COLOR> tools to
+give you, so make sure you
+have four open spaces.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Clear the grass with your
+sickle where the arrow is
+pointing.<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>There are two ways to equip
+your sickle.<PAGE>Either move the sickle in
+your bag to where it says
+"Equip"...<PAGE>...or use the <RED>R Button</COLOR> to
+bring up the equip screen,
+then select the sickle!<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>After you equip your sickle,
+go where the pointing arrow
+is and push the <RED>A Button</COLOR>.<PAGE>And that's how you clear
+grass!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Oh, one more thing about
+growing crops...<PAGE>You can tell the quality
+of your crops by the amount
+of <RED>yellow stars</COLOR> they have.<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>To improve the quality of
+your crops, use <RED>fertilizer</COLOR>.<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Apply fertilizer to tilled
+ground, and you'll raise the
+quality of nearby crops!<PAGE>To use fertilizer, equip it,
+just like your sickle or
+hoe.<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_SAD><FP_RIGHT>Be sure to apply fertilizer
+<RED>while your crops are
+growing</COLOR>, or it won't work.
+----------------------------|----------------------------------
+<CHOICE_AB> I don't know how.
+ I know how.

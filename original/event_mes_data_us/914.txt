@@ -1,0 +1,187 @@
+<FACE_POS_LEFT><FACE_RUTGER><FACE_NORMAL><FP_LEFT>Tonight is the Stargazing
+Festival. Let's all take a
+moment to enjoy the stars.<PAGE><FACE_POS_LEFT><FACE_RUTGER><FACE_HAPPY><FP_LEFT>Everyone pick a star to
+make a wish on!
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_GEORGIA><FACE_NORMAL><FP_LEFT>A wish, huh?<PAGE><FACE_POS_RIGHT><FACE_LANEY><FACE_NORMAL><FP_RIGHT>You're looking thoughtful
+there, Georgia. What's up?
+<PAGE><FACE_POS_LEFT><FACE_GEORGIA><FACE_HAPPY><FP_LEFT>Why, talking of wishes makes
+me think of the past...<PAGE><FACE_POS_RIGHT><FACE_LANEY><FACE_NORMAL><FP_RIGHT>The past?<PAGE><FACE_POS_LEFT><FACE_GEORGIA><FACE_NORMAL><FP_LEFT>That's right.<PAGE><FACE_POS_LEFT><FACE_GEORGIA><FACE_SHY><FP_LEFT>When I first came here to
+the village, I had a real
+hard time fitting in, right?<PAGE>Well, at night when I saw a
+star, I used to wish on it.
+I used to wish for friends.<PAGE><FACE_POS_LEFT><FACE_GEORGIA><FACE_NORMAL><FP_LEFT>Why, then one day you came
+and talked to me, Laney.
+And my wish came true.<PAGE><FACE_POS_RIGHT><FACE_LANEY><FACE_SHOCK><FP_RIGHT>Oh, Georgia...
+It wasn't that big a deal...<PAGE><FACE_POS_LEFT><FACE_GEORGIA><FACE_HAPPY><FP_LEFT>I realized then that if you
+wish hard enough, sometimes
+wishes do come true.<PAGE><FACE_POS_LEFT><FACE_ASH><FACE_HAPPY><FP_LEFT>That's a great story...
+It makes me want to wish for
+something. Right, Cam?<PAGE><FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT>Yeah.
+Maybe I'll make a wish...<PAGE><FACE_POS_LEFT><FACE_GEORGIA><FACE_HAPPY><FP_LEFT>You too, Laney!
+You should make a wish!
+<PAGE><FACE_POS_RIGHT><FACE_LANEY><FACE_HAPPY><FP_RIGHT>Oh, Georgia... Well, I guess
+it couldn't hurt.<PAGE><FACE_POS_LEFT><FACE_GEORGIA><FACE_HAPPY><FP_LEFT>Yeah, come on, now.
+Let's all make a wish
+wish together!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_GRADY><FACE_HAPPY><FP_LEFT>A wish, hmm?
+Now what should I wish for?<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_HAPPY><FP_RIGHT>You might need to wish for
+glasses one of these years.
+<PAGE><FACE_POS_LEFT><FACE_GRADY><FACE_HAPPY><FP_LEFT>Ha ha! You might be right
+about that!<PAGE>And what are you going to
+wish for, Jessica?<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>What, me?
+Let's see...<PAGE>I'm going to wish for our
+animals to stay healthy.<PAGE><FACE_POS_LEFT><FACE_GRADY><FACE_NORMAL><FP_LEFT>Oh, good idea.
+I'll wish for my horses to
+stay healthy too.<PAGE>What are you going to
+wish for, Eileen?<PAGE><FACE_POS_RIGHT><FACE_EILEEN><FACE_HAPPY><FP_RIGHT>Who, me?
+Hmmm...well...
+Maybe a husband?<PAGE><FACE_POS_LEFT><FACE_GRADY><FACE_HAPPY><FP_LEFT>Haha! That just might work.
+I'm sure you'll find someone
+special.<PAGE><FACE_POS_RIGHT><FACE_EILEEN><FACE_HAPPY><FP_RIGHT>Heh heh.
+You think so?
+Alright, then! Let's wish!<PAGE><FACE_POS_LEFT><FACE_ROSE><FACE_HAPPY><FP_LEFT>Ho ho ho.
+Sounds like you youngsters
+have a lot to wish for.<PAGE>Oh, it's starting...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT>Not many villages have a
+Stargazing Festival like
+ours does.<PAGE><FACE_POS_LEFT><FACE_LANEY><FACE_NORMAL><FP_LEFT>Oh, really?
+I thought everywhere did.<PAGE><FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT>There's too much light in
+the big cities.<PAGE>You can't see stars like you
+can here.<PAGE><FACE_POS_RIGHT><FACE_EILEEN><FACE_SAD><FP_RIGHT>Oh, is that so?
+That's kind of sad...<PAGE><FACE_POS_LEFT><FACE_JESSICA><FACE_SAD><FP_LEFT>It really is...<PAGE>The city lights are nice,
+but I don't think I'd trade
+them for the stars.<PAGE><FACE_POS_RIGHT><FACE_EILEEN><FACE_HAPPY><FP_RIGHT>Yes. They're so beautiful!
+I'm so glad I live here.
+<PAGE><FACE_POS_LEFT><FACE_JESSICA><FACE_HAPPY><FP_LEFT>So am I.<PAGE>You don't have the sense of
+community in the city that
+you have here.<PAGE>And the pace of life here
+is just more relaxing.<PAGE><FACE_POS_RIGHT><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Oh, it looks like we're
+starting.<PAGE>I feel so lucky that I get
+to see this sky of stars...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ROSE><FACE_NORMAL><FP_RIGHT>Have you all decided
+what to wish for?<PAGE><FACE_POS_LEFT><FACE_GRADY><FACE_NORMAL><FP_LEFT>When it comes down to it,
+it's not so easy to decide.<PAGE>Have you decided, Georgia?
+<PAGE><FACE_POS_RIGHT><FACE_GEORGIA><FACE_SHY><FP_RIGHT>Why no, I haven't.
+Can you think of anything,
+Dad?<PAGE><FACE_POS_LEFT><FACE_GRADY><FACE_NORMAL><FP_LEFT>Now let's see...
+Maybe I'll wish to find
+that saddle I lost...<PAGE><FACE_POS_RIGHT><FACE_GEORGIA><FACE_ANGRY><FP_RIGHT>How could you lose something
+so important!?
+That's merchandise!<PAGE><FACE_POS_LEFT><FACE_GRADY><FACE_SAD><FP_LEFT>That's why I'll wish
+to find it.<PAGE><FACE_POS_RIGHT><FACE_GEORGIA><FACE_ANGRY><FP_RIGHT>That's not right!<PAGE>You can't just fix your
+mistakes with wishes! You've
+got to go find that saddle!<PAGE><FACE_POS_LEFT><FACE_ASH><FACE_SHY><FP_LEFT>Whoa, Georgia. Cut your
+dad some slack.
+<PAGE><FACE_POS_LEFT><FACE_GRADY><FACE_SAD><FP_LEFT>Sorry. I'll find it.
+So don't be mad.
+<PAGE><FACE_POS_RIGHT><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>Well, alright, then. I'm
+counting on you!<PAGE><FACE_POS_RIGHT><FACE_ROSE><FACE_NORMAL><FP_RIGHT>Now that's enough, you two.
+We're going to start.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ROSE><FACE_HAPPY><FP_RIGHT>This brings back memories,
+doesn't it, Rutger?
+<PAGE><FACE_POS_LEFT><FACE_RUTGER><FACE_NORMAL><FP_LEFT>Wh-What's gotten into you
+all of a sudden?<PAGE><FACE_POS_RIGHT><FACE_ROSE><FACE_HAPPY><FP_RIGHT>We used to come here often
+when we were courting...<PAGE><FACE_POS_RIGHT><FACE_EILEEN><FACE_HAPPY><FP_RIGHT>Ooh, you did?<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_HAPPY><FP_RIGHT>That's so romantic, Rutger!<PAGE><FACE_POS_LEFT><FACE_GRADY><FACE_HAPPY><FP_LEFT>We'd love to hear about
+your first date here!<PAGE><FACE_POS_LEFT><FACE_RUTGER><FACE_ANGRY><FP_LEFT>*Cough* *Cough*<PAGE>Oh, sorry, I missed that.
+What are you all going
+on about, now?<PAGE><FACE_POS_RIGHT><FACE_ROSE><FACE_HAPPY><FP_RIGHT>Oh, I can tell you all about
+it!<PAGE>Now let's see...
+Where should I start?<PAGE>Rutger came to my house...
+<PAGE><FACE_POS_LEFT><FACE_RUTGER><FACE_NORMAL><FP_LEFT>Now stop that!
+I'm starting the festival!<PAGE><FACE_POS_RIGHT><FACE_EILEEN><FACE_SAD><FP_RIGHT>Awww...<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_SAD><FP_RIGHT>That's too bad...<PAGE><FACE_POS_LEFT><FACE_GRADY><FACE_NORMAL><FP_LEFT>Why can't we hear about it?<PAGE><FACE_POS_LEFT><FACE_RUTGER><FACE_ANGRY><FP_LEFT>Now be quiet, all of you!
+We're starting!!
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ASH><FACE_HAPPY><FP_LEFT>What beautiful stars.<PAGE>Huh?\u270a
+Maybe it's just me...<PAGE>But those ones at the bottom
+left look kind of like a
+scorpion's tail!<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_HAPPY><FP_RIGHT>They look kind of like a
+snake to me...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_CAM><FACE_HAPPY><FP_LEFT>The stars are so bright!
+That line of stars on the
+right looks like a bow.<PAGE><FACE_POS_RIGHT><FACE_ROSE><FACE_HAPPY><FP_RIGHT>Well, now that you say
+that, it does, doesn't it?
+
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_GEORGIA><FACE_HAPPY><FP_LEFT>What fine stars!
+It looks like a big bird
+is spreading its wings！<PAGE><FACE_POS_RIGHT><FACE_GRADY><FACE_HAPPY><FP_RIGHT>It does, doesn't it?
+That star over there on the
+left is especially bright.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_CAM><FACE_HAPPY><FP_LEFT>I could look at these stars
+forever... That star on the
+left is so bright.<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>It really is bright!
+It looks like the mouth of
+a huge bird.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_LANEY><FACE_HAPPY><FP_LEFT>That star on the right over
+there is so bright. I wonder
+what star it is.<PAGE><FACE_POS_RIGHT><FACE_EILEEN><FACE_HAPPY><FP_RIGHT>The stars are all lined up
+so nicely. How neat!
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_RUTGER><FACE_NORMAL><FP_LEFT>It's about time to call it
+a night, I'd say.<PAGE>We all have plenty of work
+to do tomorrow.
+Time to head home, folks.
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy

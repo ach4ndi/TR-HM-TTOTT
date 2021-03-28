@@ -1,0 +1,36 @@
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_NORMAL>You need something from
+me?\u2390
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_NORMAL><CHOICE_AB> Make something.
+ Never mind.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_NORMAL>You want me to make you
+something? You're sure I
+didn't already do that?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_NORMAL>Okay, then.
+Come by any time!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_SAD>What? You changed your
+mind? Okay...
+Anything else?\u2390
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY>That'll be <RED><VAR_0>G</COLOR>!
+<CHOICE_AB> Okay!
+ No!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_SAD>You don't have enough money!
+I don't even know why you're
+here...\u2390
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_SAD>Oh, it looks like your
+bag is full...\u2390
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY>I'm working on something
+right now!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY>What do you think? Isn't it
+just great? You're amazed,
+I can tell!
+----------------------------|----------------------------------
+Dummy

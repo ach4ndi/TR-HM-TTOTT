@@ -1,0 +1,73 @@
+<FACE_POS_LEFT><HIDE_NAME><FACE_KANA><FACE_NORMAL><FP_LEFT><HIDE_FACE>Stop! Sit! Heel!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_SAD><FP_RIGHT><MYNAME>!
+<MYNAME>!?<PAGE><FACE_POS_LEFT><FACE_KANA><FACE_ANGRY><FP_LEFT>Nori!
+<MYNAME>!!<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_SAD><FP_RIGHT>Kana!
+<MYNAME> fell in the river!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_SAD><FP_RIGHT><MYNAME>! Are you okay?
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_SAD><FP_RIGHT>Sorry about that, <MYNAME>!<PAGE>My dog can't stand getting a
+bath, and totally panicked.
+He didn't mean to hurt you.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>That's cool of you. Thanks
+for understanding.<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>Awright, dog, now you
+are going in that bath with
+no more messing around!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>Awright! Good boy!<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_SHY><FP_RIGHT>Again, I am seriously sorry
+about that, you guys.<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>Okay, I gotta go give him
+his bath now.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_SAD><FP_RIGHT>I'm really sorry,
+<MYNAME>...<PAGE>You didn't have to protect
+me like that.
+
+----------------------------|----------------------------------
+<CHOICE_AB> But you're special to me.
+ I'd do it for any girl!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_SHOCK><FP_RIGHT>Thank you, <MYNAME>.
+<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>......But...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_SAD><FP_RIGHT>Look here...
+You're hurt.<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>I'm so happy that you wanted
+to help me, but I don't want
+you to hurt yourself.<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_SAD><FP_RIGHT>When you fell in the river,
+I was really worried.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>That bandage should do it,
+but you should go see Dr.
+Ayame just to be sure.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Ha ha! Good answer!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>You know, <MYNAME>...<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>You really are a sweet guy.
+Someone who will protect
+others.<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_SHOCK><FP_RIGHT>You're someone...who I know
+I can depend on.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Oh, um, it's nothing.
+Don't worry about it.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>I shouldn't keep you any
+longer. You've got to get
+that injury looked at!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_SHY><FP_RIGHT>I guess so...
+You're always nice to
+everybody, aren't you?<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>I kind of hoped that maybe
+you felt special about me...
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>No, forget about it.<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>But anyway, thanks for what
+you did, <MYNAME>.
+You really saved me!<PAGE>I'm grateful.
+<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_SAD><FP_RIGHT>But...But I...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_SAD><FP_RIGHT>I-I'm sorry...I'm not
+feeling so well today!
+I'm going home, okay?

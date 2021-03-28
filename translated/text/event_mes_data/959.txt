@@ -1,0 +1,100 @@
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_HAPPY><FP_RIGHT>Aku sudah berusaha dengan
+keras dalam masakanku
+akhir-akhir ini.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>Laney dan aku sudah memang-
+gang banyak disaat kami ma-
+sih muda, jadi aku benar-<PAGE>benar ahli dalam memanggang
+roti.<PAGE><FACE_POS_RIGHT><FACE_GEORGIA><FACE_SHY><FP_RIGHT>Aku hampir tidak pernah me-
+masak selain itu dengan
+baik.<PAGE><FACE_POS_RIGHT><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>Tapi aku ingin mencobanya
+lagi dalam memasak.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_SHOCK><FP_RIGHT>Aku yakin aku bisa melakukan-
+nya!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_HAPPY><FP_RIGHT>Hei, aku punya sebuah ide!
+Mari kita berpiknik dipegu-
+nungan!<PAGE>Aku akan membuatkan beberapa
+bola nasi yang gurih dan
+manis seperti aku <3
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_HAPPY><FP_RIGHT>Bagus! Aku akan memulainya!<PAGE>Kenapa kamu tidak menunggu-
+ku dilokasinya dipegunungan,
+<MYNAME>?<PAGE>Aku akan bertemu denganmu
+disaat aku sudah selesai.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>Terima kasih atas sudah
+menantikanku!<PAGE>Maafkan aku. aku tidak ber-
+pikir ini tidak selama ini
+aku membuatnya.<PAGE><FACE_POS_RIGHT><FACE_GEORGIA><FACE_HAPPY><FP_RIGHT>Tada! Ini diaaaa!
+Bola nasi spesial extra
+dobelku!<PAGE>Ayo cobalah!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_SHY><FP_RIGHT>Bagaimana?
+----------------------------|----------------------------------
+<CHOICE_AB> Uh,... enak...
+ Rasanya, aneh...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_HAPPY><FP_RIGHT>Waa, aku sungguh senang
+bahwa rasanya enak!<PAGE>Aku sudah kelaparan ini,
+mari makan!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_SAD><FP_RIGHT>Ugh!<PAGE><FACE_POS_RIGHT><FACE_GEORGIA><FACE_ANGRY><FP_RIGHT>\u20d1Ini terlalu manis!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_SAD><FP_RIGHT>Tampaknya aku terlalu banyak
+menambahkan gula, kurasa
+tadi aku tidak memikirkan<PAGE>takarannya, jadi kebanyakan
+deh ini.<PAGE><FACE_POS_RIGHT><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>Betapa manisnya kamu berbo-
+hong dan mengatakan bahwa
+itu enak!<PAGE><FACE_POS_RIGHT><FACE_GEORGIA><FACE_SAD><FP_RIGHT>Maafkan aku sudah memaksa-
+mu memakan itu...<PAGE>Kupikir ini aku bisa membu-
+at sebuah bola nasi,...
+aku pikir ini, kesalahan.<PAGE><FACE_POS_RIGHT><FACE_GEORGIA><FACE_SHY><FP_RIGHT>Aku tidak pernah bisa me-
+masak dengan baik dan be-
+nar.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_SAD><FP_RIGHT>Kamu pikir aku bisa?
+Uh, itu... kamu, selalu
+baik kepada semua orang.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>Ya itu...!<PAGE><FACE_POS_RIGHT><FACE_GEORGIA><FACE_ANGRY><FP_RIGHT>Tidak ada lagi fokus ke hal
+kosong... tapi binatang!<PAGE>Mulai sekarang, aku akan
+belajar memasak!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>Aku akan belajar dan bekerja
+dengan giat untuk mewujudkan-
+nya!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_SHOCK><FP_RIGHT>Jadi... uh... itu aku bisa
+memasakanmu sebuah hidangan
+istimewa, karena...<PAGE>kamu itu seorang yang spe-
+sial buat aku.<PAGE><FACE_POS_LEFT><HIDE_NAME><FACE_GRADY><FACE_NORMAL><FP_LEFT><HIDE_FACE>\u20d0Halllooooo? Georgia?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_GRADY><FACE_HAPPY><FP_LEFT>Ya ini dia, Georgia!<PAGE><FACE_POS_LEFT><FACE_GRADY><FACE_NORMAL><FP_LEFT>Ada pelanggan yang ingin
+melihat pakaian kuda
+thoroughbred.<PAGE>Dan aku tak yakin kamu ada
+untuk mengantarkannya.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_SAD><FP_RIGHT>Ayah...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_SAD><FP_RIGHT>Ayah, kamu...\u270b
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_ANGRY><FP_RIGHT>\u20d1IDIOT!!!!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_GRADY><FACE_NORMAL><FP_LEFT>Apa?
+Hei, Georgia!<PAGE>Pakaiannya. dimana?<PAGE>Georgia, kemana kamu itu?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_GRADY><FACE_SAD><FP_LEFT>Ada apa dengan dia?<PAGE><FACE_POS_LEFT><FACE_GRADY><FACE_NORMAL><FP_LEFT>Kurasa aku tidak mengganggu
+apapun, benarkan,
+<MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_GRADY><FACE_SAD><FP_LEFT>Hei!
+Georgia, tunggu!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_SHY><FP_RIGHT>Huh!?
+Rasanya aneh...?<PAGE><FACE_POS_RIGHT><FACE_GEORGIA><FACE_SAD><FP_RIGHT>Itu bukanlah seorang lelaki
+bicarakan, walaupun kamu
+tidak menyukainya.<PAGE>Aku sudah membuatnya
+dengan susah payah!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_SAD><FP_RIGHT>...

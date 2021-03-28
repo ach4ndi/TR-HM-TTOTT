@@ -1,0 +1,15 @@
+<FACE_POS_LEFT><HIDE_NAME><FACE_MIKHAIL><FACE_NORMAL><FP_LEFT><HIDE_FACE>Apa kamu ada, <MYNAME>?
+Aku akan masuk ya.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>Sudah berapa lama ya, 
+<MYNAME>?<PAGE>Sekarang cuacanya lebih adem
+didesa ini, jadi aku 
+kembali kesini lagi.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MIKHAIL><FACE_HAPPY><FP_RIGHT>Aku menyukai kondisi alam
+disekitar desa ini. Aku
+mulai menyukainya.<PAGE>Dan aku menyukai dimana
+bisa memainkan musikku
+disini.<PAGE>Aku akan tinggal di balai
+desa, jadi kapan-kapan mam-
+pir bilang hai kapan saja!

@@ -1,0 +1,582 @@
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo! I haven't seen you
+before. I'm <BLUE>Grady</COLOR>!
+Nice to meet you!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_SAD><FP_RIGHT>That was some weather we
+had yesterday, wasn't it?
+It scared the animals.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>. 
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_HAPPY><FP_RIGHT>Oh!
+Look at this lively
+little guy! Ha ha ha!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_ANGRY><FP_RIGHT>Sorry, I don't like this
+animal. Show it to someone
+else.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_HAPPY><FP_RIGHT>If it isn't a blue feather!
+Haven't seen one of
+those in a while...<PAGE>So you're getting hitched?
+Who's the lucky one?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>What's that, now?
+No thanks.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Oh, another gift? Not today,
+thanks.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Now what's this?
+What've you got there?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_HAPPY><FP_RIGHT>That's real thoughtful.
+It's my favorite thing to
+eat!<PAGE>What a perfect birthday
+present. Thank you!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>This smell...
+<RED>Tomato fondue</COLOR>?
+That's for me?<PAGE><FACE_POS_CENTER><FACE_GRADY><FACE_HAPPY><FP_RIGHT>How'd you know?
+This is a favorite of mine
+Thank you!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo,<MYNAME>
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo,<MYNAME>
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Don't tell me this
+is a birthday present?<PAGE>Well, thank you very much!
+I thought only my daughter
+would remember.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Well, thank you!
+I do like this a lot!
+How nice.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Oh, a birthday present?
+Well, thanks a lot!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Well, thank you!
+I'll take it.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Now what's this?
+For my birthday?
+That just makes me sad.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_SAD><FP_RIGHT>Wh-What's this now? It's
+the thought that counts, but
+I wish you'd thought harder.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_SAD><FP_RIGHT>For me? Ugh. I can't eat
+this. What do you expect me
+to do with it?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo,<MYNAME>
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>So, life with my daughter,
+eh? She can be a tough
+cookie. I hope you're ready.<PAGE><FACE_POS_CENTER><FACE_GRADY><FACE_HAPPY><FP_RIGHT>Ha ha, don't worry. I'm sure
+you can handle it.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_HAPPY><FP_RIGHT>It sure is nice to have
+someone to come home to,
+isn't it?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Now that's some wind!
+Hope the houses do okay.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>I don't mind a little snow,
+but this is too much.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_HAPPY><FP_RIGHT>You ever try horse racing?<PAGE>You're such a natural hand
+with animals, I'll bet you'd
+be great at it!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>I used to live in a village
+in the west.<PAGE><FACE_POS_CENTER><FACE_GRADY><FACE_HAPPY><FP_RIGHT>That's where Georgia's
+accent comes from.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Georgia says I eat too much,
+but ranching is hard work!<PAGE><FACE_POS_CENTER><FACE_GRADY><FACE_HAPPY><FP_RIGHT>I'll bet you work up quite
+an appetite too, right?
+Back me up on this.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Have I put on more weight?<PAGE>I'd better try to work it
+off, or I'll never hear the
+end of it from Georgia.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>My horse doesn't take kindly
+to being ridden these days.
+I must be getting heavy.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>This village is a good place
+for horses.
+They grow up strong.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>You like horses, <MYNAME>?
+Horses are great, and so
+are people who like them.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo,<MYNAME>
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Well now, are you going
+to enter that in the
+festival? Good luck.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>That's a fine-looking
+animal.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>How cute!
+Let me give it a pat.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_SAD><FP_RIGHT>That's not really my thing.
+Sorry.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>You don't see this every
+day. It's not even trying
+to escape. It must like you.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_HAPPY><FP_RIGHT>Oh, for me?
+You didn't need to do this.
+Thank you very much.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_HAPPY><FP_RIGHT>What's in here?
+Must be something good!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_HAPPY><FP_RIGHT>It's really nice to have a
+friend like you.<PAGE>You're the closest friend
+I have, <MYNAME>!！
+I mean it!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>How do you like this
+village? Not too bad, eh?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_SAD><FP_RIGHT>All that work has got
+me hungry! Now what
+should I eat?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Today's my day off. I'm
+going to relax. You know,
+all work and no play...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_HAPPY><FP_RIGHT>Thanks for all the support!
+I think you helped us win!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_ANGRY><FP_RIGHT>Were you really cheering?
+Then why'd we lose?<PAGE><FACE_POS_CENTER><FACE_GRADY><FACE_SAD><FP_RIGHT>I don't mean to take it out
+on you. I'm sorry.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>You should compete for us in
+the next Cooking Festival.
+Then we'd have a shot.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_ANGRY><FP_RIGHT>We'll win at the next
+Cooking Festival. I know it!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>So close!
+Better luck next time!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_HAPPY><FP_RIGHT>What will happen today?
+You never know what's going
+to happen at a festival.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_HAPPY><FP_RIGHT>So you didn't join in today?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>It took a lot to even enter.
+Don't let it get you down.
+You'll win next time.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>This festival is really
+something. Take a good look.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hi, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hi, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hi, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hi, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hi, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hi, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hi, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hi, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hi, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hi, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hi, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hi, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hi, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hi, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hi, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hi, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hi, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hi, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hi, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Morning there, <MYNAME>.
+You look half asleep.<PAGE><FACE_POS_CENTER><FACE_GRADY><FACE_HAPPY><FP_RIGHT>If you aren't a little more
+alert, you might trip and
+fall.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Morning, <MYNAME>.
+I like a good stretch in
+the morning.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Morning, <MYNAME>!<PAGE>Did you eat a good
+breakfast? Don't start the
+day on an empty stomach!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+What are you up to today?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_HAPPY><FP_RIGHT>You look busy, <MYNAME>.
+That's good. A farmer should
+always have plenty to do.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.<PAGE>I always get tired around
+this time of day. I
+think I'll take a nap.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Evening, <MYNAME>.
+You're working late.
+Don't overdo it.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Evening, <MYNAME>.
+You're not still working
+this late, are you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+Goodness, I'm tired. I
+should hit the sack soon.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Welcome, now!
+Head on over to the counter
+if you need something.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>I'm working right now.
+We can talk later.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_HAPPY><FP_RIGHT>Doing some shopping?
+You're welcome here!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_HAPPY><FP_RIGHT>Time to eat!
+What should I ear first?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_SAD><FP_RIGHT>My daughter will get mad if
+I eat too much...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>This is so good, I could
+just eat it forever!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hmm...
+Do you think I
+need to lose some weight?
+
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_HAPPY><FP_RIGHT>They're looking fit and
+healthy. I just love horses.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hmm...
+Do you think I
+need to lose some weight?
+
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_HAPPY><FP_RIGHT>You won! That's just great!<PAGE>That sure looked good...
+Could you make it for me
+sometime?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_HAPPY><FP_RIGHT>You're good enough to be a
+professional chef. You
+could start a restaurant.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_HAPPY><FP_RIGHT>Could you cook for me
+sometime? I'd love to try
+your cooking.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_SAD><FP_RIGHT>Another festival over... I
+think I'll go hit the sack.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_HAPPY><FP_RIGHT>So it's all over. Well, I
+can't wait for the next
+time. How about you, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Now the festival's over, and
+it's back to work tomorrow!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Man...
+That was a great festival.
+I really enjoyed it.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_HAPPY><FP_RIGHT>Today's festival is one you
+should share with someone
+special to you.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>It's getting late. I had so
+much fun at the festival,
+I lost track of time!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Ha ha. Congratulations!
+I'm impressed you caught
+so many.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>So you won! Impressive!
+There was some strong
+competition this time.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Congratulations on your win!
+Go on home. You deserve a
+rest after that hard work.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_HAPPY><FP_RIGHT>Oh, <MYNAME>! You won the
+<VAR_2>!
+That's impressive!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_HAPPY><FP_RIGHT>This Animal Festival is
+pretty famous.<PAGE>So it's an amazing feat
+to win it!
+Makes me proud!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Congratulations on your win!
+Never thought you'd do it...
+Oh, um, forget I said that.

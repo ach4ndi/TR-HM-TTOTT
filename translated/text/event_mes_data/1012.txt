@@ -1,0 +1,92 @@
+<FACE_POS_LEFT><FACE_HIRO><FACE_HAPPY><FP_LEFT>Oh, itu ya? Itu adalah buku
+medis.<PAGE><FACE_POS_LEFT><FACE_HIRO><FACE_NORMAL><FP_LEFT>Aku belum memperlajari
+semua material yang ada
+dibuku tersebut...<PAGE>Aku masih lama untuk masa-
+masa studiku ini!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_HIRO><FACE_HAPPY><FP_LEFT>Ya, ini terkadang sedikit
+menakutkan loh!<PAGE>Disaat pertama kali, aku
+hampir mengerti apa yang
+tertulis dibuku itu.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_HIRO><FACE_NORMAL><FP_LEFT>Sekarang aku dapat membaca-
+nya dikarenakan studiku di
+sekolah medis dikota...<PAGE>Tapi disaat aku masih
+kecil aku sering meniru
+ayahku dengan membuka buku<PAGE>medis dia...
+Aku tidak bisa membacanya,
+tapi aku mencoret-coret<PAGE>dibukunya! Itu membuat dia
+marah. hehehe
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_HIRO><FACE_NORMAL><FP_LEFT>Faktanya, hampir semua buku
+di rak buku itu miliki
+ayahku.<PAGE><FACE_POS_LEFT><FACE_HIRO><FACE_HAPPY><FP_LEFT>Ayahku seorang dokter di
+kota.<PAGE><FACE_POS_LEFT><FACE_HIRO><FACE_NORMAL><FP_LEFT>Ayah menjadi seorang dokter
+untuk membantu ibuku, yang
+sudah sakit-sakitan sejak<PAGE>masih kecil.<PAGE><FACE_POS_LEFT><FACE_HIRO><FACE_HAPPY><FP_LEFT>Apakah ini benar-benar
+romantis eh?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_HIRO><FACE_NORMAL><FP_LEFT>Sejak aku masih kecil, aku
+sudah menghargai apa ayahku
+lakukan...<PAGE>Aku membuat tekat untuk
+menjadi seorang dokter ahli
+seperti dia lakukan.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_HIRO><FACE_SAD><FP_LEFT>Tapi kenyataannya itu hampir
+mustahil menjadi seorang
+dokter seperti dia itu...<PAGE><FACE_POS_LEFT><FACE_HIRO><FACE_SHY><FP_LEFT>Aku terlalu banyak melaku-
+kan kesalahan dipekerjaanku
+sebelumnya...<PAGE><FACE_POS_LEFT><FACE_HIRO><FACE_SAD><FP_LEFT>Aku tidak pernah menyamai
+dia kalau masih begini
+terus...
+----------------------------|----------------------------------
+<CHOICE_AB> Semua orang pernah begitu.
+ Bekerja lebih giat!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_HIRO><FACE_SHY><FP_LEFT>Ya, memang itu benar.
+Itu memang benar benar..
+...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_HIRO><FACE_NORMAL><FP_LEFT>Nyawa seorang pasien itu
+ada diberada tangan dokter.<PAGE><FACE_POS_LEFT><FACE_HIRO><FACE_ANGRY><FP_LEFT>Sebuah kesalahan sekecil
+apapun itu dapat menentu-
+kan kehidupan seseorang!<PAGE><FACE_POS_LEFT><FACE_HIRO><FACE_SAD><FP_LEFT>Jadi aku tidak menoleri
+sebuah kesalahan apapun
+itu.<PAGE>Dan jika aku menjadi dok-
+ter yang membuat kesalahan
+lebih banyak daripada<PAGE>kebanyakan...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_HIRO><FACE_NORMAL><FP_LEFT>Oh, maafkan aku!<PAGE>Itu bukan bermaksud bahwa
+aku berdiskusi hal itu
+kepada kamu.<PAGE><FACE_POS_LEFT><FACE_HIRO><FACE_HAPPY><FP_LEFT>Aku seharusnya tidak mem-
+buatmu terlambat seperti
+ini hehehe.<PAGE>Aku yakin kamu ada sesu-
+atu yang ingin dilakukan.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_HIRO><FACE_NORMAL><FP_LEFT>Ya. Mungkin kamu ada
+benarnya...<PAGE>kata ayahku "semua hal itu
+tidak dapat didapatkan
+dengan mudah".<PAGE>Dia juga berkata sebagai
+seorang asisten dokter, dia
+juga membuat kesalahan dan<PAGE>serius belajar dari kesa-
+lahan itu.<PAGE><FACE_POS_LEFT><FACE_HIRO><FACE_HAPPY><FP_LEFT>Jika aku tetap mencoba,
+Aku dapat memperbaiki ke-
+salahan itu yang pernah ku-<PAGE>perbuat. Jadi aku harus
+semangat dan tidak menyerah
+begitu saja! Tidak ada<PAGE>waktu untuk ragu-ragu!<PAGE>Aku dapat mengatasi kesa-
+lahanku melalui bekerja
+lebih giat dan latihan.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_HIRO><FACE_NORMAL><FP_LEFT><MYNAME>, kamu selalu tahu
+apa yang diucapkan untuk
+membantuku.<PAGE><FACE_POS_LEFT><FACE_HIRO><FACE_SHOCK><FP_LEFT>Aku harap kedepannya jika
+ada kesempatan untuk mem-
+balas kebaikanmu itu.<PAGE><FACE_POS_LEFT><FACE_HIRO><FACE_HAPPY><FP_LEFT>Ini benar benar hal yang
+terbaik untuk bisa memban-
+tumu, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_HIRO><FACE_NORMAL><FP_LEFT>Oh, maafkan aku!
+Waktunya...!<PAGE><FACE_POS_LEFT><FACE_HIRO><FACE_HAPPY><FP_LEFT>Disaat seperti ini, waktu
+cepat berlalu...<PAGE><FACE_POS_LEFT><FACE_HIRO><FACE_SHOCK><FP_LEFT>Maka, aku harus mengantar-
+kanmu pulang kerumah se-
+belum larut malam. Ayo!

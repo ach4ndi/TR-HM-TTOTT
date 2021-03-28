@@ -1,0 +1,39 @@
+<FACE_POS_LEFT><HIDE_NAME><FACE_INA><FACE_NORMAL><FP_LEFT><HIDE_FACE><MYNAME>, apa kamu sudah
+bangun?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT>Maaf untuk datang ke tempat
+mu sepagi ini, <MYNAME>.<PAGE>Karena ada seorang lelaku
+yang akan berforma di
+festival musik nantinya.<PAGE>Mari aku memperkenaklan ke
+kamu,<BLUE>Mikhail</COLOR>.<PAGE><FACE_POS_LEFT><FACE_INA><FACE_HAPPY><FP_LEFT>Dia seorang virtuoso 
+violinist.<PAGE>Dia berkelana diberbagai 
+dunia untuk menguasai 
+violin.<PAGE>Dia akan tinggal di 
+balai desa.<PAGE><FACE_POS_RIGHT><FACE_MIKHAIL><FACE_HAPPY><FP_RIGHT>Aku <BLUE>Mikhail</COLOR>.
+Senang berkenalan denganmu.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT>Aku yakin kalian berdua
+akan akrab satu sama lain.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><HIDE_NAME><FACE_INA><FACE_NORMAL><FP_LEFT><HIDE_FACE>Apakah kamu sudah bangun,
+<MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_RUTGER><FACE_NORMAL><FP_LEFT>Maafkan aku untuk datang ke
+tempatmu sepagi ini,
+<MYNAME>.<PAGE>Aku meminta pemuda ini
+untuk berforma di festival
+musik selanjutnya.<PAGE>Mari aku perkenalkan
+<BLUE>Mikhail</COLOR>.<PAGE><FACE_POS_LEFT><FACE_RUTGER><FACE_HAPPY><FP_LEFT>Dia seorang virtuoso 
+violinist.<PAGE>Dia berkelana diberbagai 
+dunia untuk menguasai 
+violin.<PAGE>Dia akan tinggal di 
+balai desa.<PAGE><FACE_POS_RIGHT><FACE_MIKHAIL><FACE_HAPPY><FP_RIGHT>Aku <BLUE>Mikhail</COLOR>.
+Senang berkenalan denganmu.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_RUTGER><FACE_NORMAL><FP_LEFT>Aku yakin kalian berdua
+akan akrab satu sama lain.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>Aku akan tinggal dibalai
+desa. Jika aku tidak disana<PAGE>, kamu bisa mencari aku di
+pegunungan.<PAGE><FACE_POS_RIGHT><FACE_MIKHAIL><FACE_HAPPY><FP_RIGHT>Semoga aku melihatmu di
+festival musik.

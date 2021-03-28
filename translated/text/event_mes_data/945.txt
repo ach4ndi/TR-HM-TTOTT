@@ -1,0 +1,52 @@
+<FACE_POS_LEFT><HIDE_NAME><FACE_ALISA><FACE_NORMAL><FP_LEFT><HIDE_FACE>*Ehmm*...*Ekhmm*
+H-Hello? Ada yang bisa
+dengar aku?
+----------------------------|----------------------------------
+<CHOICE_AB> GELAP.
+ Kepoin ah.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><HIDE_NAME><FACE_ALISA><FACE_SAD><FP_RIGHT>*Hiks* *Hiks*
+H-Hello?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><HIDE_NAME><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Oh, Dewi Panen!
+Kamu mengirimkan seseorang
+untuk membantuku!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><HIDE_NAME><FACE_ALISA><FACE_NORMAL><FP_RIGHT>Maaf, apa kamu mengenal
+Nathan?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><HIDE_NAME><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Kenal tah!?
+Makasih om.<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>Oh, Aku belum memperkenal-
+kan diriku.
+Namaku <BLUE>Alisa</COLOR>.<PAGE>Aku datang kesini untuk
+datang kekolamnya Dewi
+Panen.<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_SAD><FP_RIGHT>Aku malu untuk mengatakan
+tersesat.<PAGE>Aku gabisa nemuin kolam
+Dewi Panen. Sekarang aku
+tersesat.<PAGE>Eh malah nyampenya
+ke gorong gorong desa.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>Jadi kita baru saja bertemu,
+tapi...<PAGE>bisa anterin aku gak
+ke gereja?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Makasih banyak!
+Aku senang kamu baik sama
+aku!<PAGE>Dewi Panen Mengirimkan
+orang yang tampan dan baik!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>Ini gerejanya Nathan?<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Makasih banyak ya
+udah nganterin aku!.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>Oh!
+Aku belum tau namamu!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Oh, <MYNAME>?<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>Btw kamu bisa nemuin aku
+digereja.<PAGE>Jika kamu ingin
+berdoa jangan sungkan
+mampir ya kesini.<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Kamu sangat manis Aku akan
+selalu mengingatmu!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Makasih banyak ya!
+untuk hari ini!
+Bye.

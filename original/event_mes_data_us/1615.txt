@@ -1,0 +1,75 @@
+\u2137Talk about the request?
+<CHOICE_AB> Yes.
+ No.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_SAD><FP_RIGHT>What now, hmm?
+It's not all there!?!<PAGE><FACE_POS_RIGHT><FACE_GOMBE><FACE_NORMAL>Hmph! I never would have
+expected you of all people
+to let me down...<PAGE>Ah, but what can an old man
+do, hmm? I'll have to wait.
+Get it right next time!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_ANGRY><FP_RIGHT>Hmm?
+You remembered something you
+had to do?<PAGE><FACE_POS_RIGHT><FACE_GOMBE><FACE_NORMAL>Hmph! I never would have
+expected you of all people
+to let me down...<PAGE>Ah, but what can an old man
+do, hmm? I'll have to wait.
+Get it right next time!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Now the money.
+That's <VAR_0>G.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_HAPPY><FP_RIGHT>Ah, you finally came, hmm?
+They said you would!
+Much obliged!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_HAPPY><FP_RIGHT>Young <MYNAME>, you've done
+it again!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_HAPPY><FP_RIGHT>Ah, bye now!
+Pass along my thanks, hmm?
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Ah, thank you for all your
+help!
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>　
+\u20d0<RED>　　　　Dummy</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>　
+\u20d0<RED>　　　　Dummy</COLOR>
+----------------------------|----------------------------------
+\u2137Talk about the request?
+<CHOICE_AB> Yes.
+ No.
+----------------------------|----------------------------------
+\u2137Decline reward item?
+<CHOICE_AB> Yes.
+ No.
+----------------------------|----------------------------------
+\u2137You got <VAR_0>G!
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>　
+\u20d0<RED>　　　　Dummy</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>　
+\u20d0<RED>　　　　Dummy</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>　
+\u20d0<RED>　　　　Dummy</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>　
+\u20d0<RED>　　　　Dummy</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>　
+\u20d0<RED>　　　　Dummy</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>　
+\u20d0<RED>　　　　Dummy</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>　
+\u20d0<RED>　　　　Dummy</COLOR>

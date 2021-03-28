@@ -1,0 +1,24 @@
+<FACE_POS_LEFT><HIDE_NAME><FACE_INA><FACE_NORMAL><FP_LEFT><HIDE_FACE><MYNAME>? Apa kamu ada?
+Aku akan masuk ya!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_HAPPY><FP_RIGHT><VAR_0> yang kamu beli di
+waktu lalu, <VAR_1> telah
+memiliki bayi loh!<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Aku berikan keduanya
+kembali ke kamu.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_HAPPY><FP_RIGHT>Ini bayinya! Apa terlihat
+menggemaskan?<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Apa kamu sudah memikirkan
+sebuah nama untuknya?<INPUT_KEYPAD>\u2709
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Apa nama ini 
+<RED><VAR_0></COLOR>
+sudah yakin memakainya?<PAGE><CHOICE_AB> Ya!
+ Mungkin yang lainnya...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Nama yang bagus! oke,
+Yakinkan kamu menjaganya
+dengan baik ya.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Hm, aku akan kembali ke
+toko sekarang.<PAGE>Silahkan mampir jika 
+ada yang dibutuhkan.

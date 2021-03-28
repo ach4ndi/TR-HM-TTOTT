@@ -1,0 +1,315 @@
+<FACE_POS_LEFT><HIDE_NAME><FACE_RUTGER><FACE_NORMAL><FP_LEFT><HIDE_FACE>Selamat pagi, <MYNAME>.
+Aku harap kamu mengizin
+kan aku masuk.
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Aku datang kesini untuk
+memberitahukan informasi
+mengenai festival.
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Bulan ini hari ke 26 adalah
+<RED>Festival Binatang</COLOR>.<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Saat ini akan diadakan
+<RED>Festival Ayam</COLOR>.<PAGE>Pilih binatang yang diikut
+sertakan, pilih yang pera
+watannya yang terbaik.<PAGE>Dan perhatikan juga, karena
+<RED>Tidak bisa memasukkan</COLOR> 
+ayam yang sedang hamil atau <PAGE>sakit.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT><FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Bulan ini hari ke 26 adalah
+<RED>Festival Binatang</COLOR>.<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Saat ini akan diadakan
+<RED>Festival Sapi</COLOR>.<PAGE>Pilih binatang yang diikut
+sertakan, pilih yang pera
+watannya yang terbaik.<PAGE>Dan perhatikan juga, karena
+<RED>Tidak bisa memasukkan</COLOR> 
+binatang yang sedang hamil <PAGE>atau sakit.
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Ah, itu benar! Aku akan 
+menjelaskan mengenai
+<RED>Festival Memasak</COLOR> kepadamu!<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Empat kali sebulan, Bluebell
+dan Konohana akan bersaing
+untuk melihat siapakah yang<PAGE>terbaik dalam hal masak
+memasak.<PAGE>Tiap desa diwakil tiga warga
+nya, dan mereka memasak
+dengan tema yang sama.<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Ini kesempatan bagus untuk
+menunjukkan taji Bluebell
+kepada Konohana!<PAGE>Jika kamu memiliki waktu
+luang, aku akan senang
+memasukkanmu kedalam tim<PAGE>Bluebell diwaktu yang akan
+mendatang.<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Tema untuk Festival 
+Memasak yang akan mendatang
+adalah <RED>salad</COLOR>.<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Untuk mendapatkan nilai
+yang tinggi, kamu harus meng-<PAGE>gunakan <RED>bahan berkualitas
+tinggi</COLOR>!<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Tapi ingatlah, <RED>kamu tidak
+bisa memakai makanan busuk</COLOR>!
+Jangan lupakan itu!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Festival Memasak</COLOR> akan 
+diadakan pada tanggal 29 di-
+bulan ini.<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Dan temanya untuk bulan ini
+<RED>makanan utama</COLOR>.<PAGE>Jika ingin ikutan, jangan
+lupakan persiapannya!<PAGE>Tapi ingatlah, <RED>kamu tidak
+bisa memakai makanan busuk</COLOR>!
+Jangan lupakan itu!
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Harga diri desa kita berada
+difestival memasak.<PAGE>Jika kamu ingin ikut, biar-
+kan aku memberimu sebuah
+nasehat,<MYNAME>.<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Untuk mendapatkan nilai
+yang tertinggi, pastikan<PAGE>bahan yang dipakai masih
+segar kondisinya.
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Sekarang, apakah kamu bisa
+mengingat semua itu?<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Jika kamu lupa, bisa intip
+<RED>kalendar</COLOR>mu..<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Oke, aku akan kembali ke
+rumah sekarang. Semoga beruntung
+dengan pekerjaanmu!
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+<FACE_POS_LEFT><HIDE_NAME><FACE_ROSE><FACE_NORMAL><FP_LEFT><HIDE_FACE><MYNAME>, apa bisa aku
+minta waktu untuk bicara
+denganmu?
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ROSE><FACE_NORMAL><FP_RIGHT>Aku yakin bahwa suamiku
+sudah memberitahumu,
+tapi...<PAGE><RED>Festival Memasak</COLOR> itu
+event yang sangat penting
+bagi Bluebell dan Konohana.<PAGE>Rata-rata orang-orang hanya
+memikirkan masakan desa
+mana yang akan menang...<PAGE>Tapi aku harapkan itu
+dapat sebuah kesempatan
+kedua kepala desa menjadi<PAGE>teman...
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ROSE><FACE_NORMAL><FP_RIGHT>Aku datang kesini hari ini
+untuk berbicara kepadamu,<PAGE>dikarenakan kamu warga baru
+disini...<PAGE><FACE_POS_RIGHT><FACE_ROSE><FACE_HAPPY><FP_RIGHT>...mungkin sesuatu akan ber-
+ubah jika kamu ikut
+lomba memasaknya.<PAGE><FACE_POS_RIGHT><FACE_ROSE><FACE_SAD><FP_RIGHT><MYNAME>,
+apa bisa memintamu untuk
+membantu kami?
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ROSE><FACE_HAPPY><FP_RIGHT>Terima kasih ya!\u270a\u270a
+Aku tahu bahwa kamu akan
+mengatakan itu!<PAGE><FACE_POS_RIGHT><FACE_ROSE><FACE_NORMAL><FP_RIGHT>Aku mengandalakanmu!
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ROSE><FACE_NORMAL><FP_RIGHT>Maafkan aku atas kelan-
+cangan ini. Aku istrinya
+Rutger, <BLUE>Rose</COLOR>.\u270e
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ROSE><FACE_SAD><FP_RIGHT>Aku yakin kamu sudah tahu
+bahwa Rutger dan Ina saling
+bermusuhan, benarkan?<PAGE>Kepala desa dari kedua desa
+mempunyai sejarah kelamnya
+yang sudah mendarah daging<PAGE>...<PAGE>Tapi hampir semua warga
+desanya berpikir untuk
+merubah sejarah tersebut<PAGE>menjadi pertemanan antar
+dua desa.
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy

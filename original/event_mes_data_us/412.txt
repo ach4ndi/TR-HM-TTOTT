@@ -1,0 +1,58 @@
+<FACE_POS_LEFT><FACE_YUN><FACE_HAPPY><FP_LEFT>My my, welcome! What can
+I serve you today?<PAGE><FACE_POS_RIGHT><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Oh, actually, I didn't
+come to eat today.<PAGE>I remembered something from
+a long time ago. I wanted to
+talk to you about it.<PAGE>Have you got a minute?<PAGE><FACE_POS_LEFT><FACE_YUN><FACE_HAPPY><FP_LEFT>Oh, that's fine. I could use
+a little break anyway.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_HAPPY><FP_RIGHT>Ah, those were the good old
+days...<PAGE><FACE_POS_LEFT><FACE_YUN><FACE_HAPPY><FP_LEFT>They were, yes... It's fun
+to look back and reminisce
+about them...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_YUN><FACE_HAPPY><FP_LEFT>Oh, it's <MYNAME>.
+Welcome, dearie!<PAGE><FACE_POS_RIGHT><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>We were just talking about
+the good old days!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Yun's husband was a very
+good friend of mine, you
+see. We were inseparable!<PAGE><FACE_POS_LEFT><FACE_YUN><FACE_HAPPY><FP_LEFT>Oh, I get a bit embarrassed
+when I talk about my
+husband...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_HAPPY><FP_RIGHT>When he passed away, I was
+worried about how you would
+make it through.<PAGE>Fortunately, you were able
+to bounce back.<PAGE><FACE_POS_LEFT><FACE_YUN><FACE_HAPPY><FP_LEFT>Well, that was thanks to the
+kindness of everyone in the
+village...<PAGE>And I'm still so grateful
+that I can run my little
+tea house here.<PAGE><FACE_POS_RIGHT><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Since I was a close friend
+of her husband's, I wanted
+to encourage Yun somehow.<PAGE><FACE_POS_LEFT><FACE_YUN><FACE_HAPPY><FP_LEFT>And my, how grateful I am!<PAGE><FACE_POS_RIGHT><FACE_GOMBE><FACE_HAPPY><FP_RIGHT>Oh, it's nothing! Everyone
+wants the people they love
+to be happy!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>A-Anyway, I should get
+going...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>This was fun, but I'd better
+get home now...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>See you later, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_YUN><FACE_NORMAL><FP_LEFT>Whenever I see Gombe, it
+reminds me of my husband.<PAGE>In those days, I never
+imagined life without
+my husband...<PAGE>Still, remembering the good
+times today was nice...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_YUN><FACE_HAPPY><FP_LEFT>Don't ever take your spouse
+for granted, <MYNAME>...<PAGE>Always treasure your loved
+ones!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_YUN><FACE_HAPPY><FP_LEFT>I hope you find that special
+someone, <MYNAME>...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_YUN><FACE_HAPPY><FP_LEFT>Well now, what would you
+like to eat today?

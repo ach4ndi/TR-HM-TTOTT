@@ -1,0 +1,108 @@
+<FACE_POS_RIGHT><FACE_CAM><FACE_SAD><FP_RIGHT>*huuuh*...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_SHY><FP_RIGHT>Oh, ini hanya...<PAGE><FACE_POS_RIGHT><FACE_CAM><FACE_SAD><FP_RIGHT>Sejujurnya, tokoku akhir-
+akhir ini sedang bermasalah
+...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT>Dan aku berpikiran tahu masa-
+lahnya. Yaitu cara berinte-
+raksi dengan pelanggan.<PAGE><FACE_POS_RIGHT><FACE_CAM><FACE_SAD><FP_RIGHT>Disayangkan, aku ... tidak
+baik dalam hal itu...<PAGE><FACE_POS_RIGHT><FACE_CAM><FACE_SHY><FP_RIGHT>Aku ingin memperbaikinya,
+tapi tidak yakin bagaimana
+caranya...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT>Huh? Apa itu?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT>Kamu ingin membantuku menga-
+tasi masalah ini? Benarkah?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT>...<PAGE>Kamu benar benar baik dengan
+orang-orang, mungkin aku
+akan belajar sesuatu dengan<PAGE>mu hari ini.
+Apakah kamu mau membantuku
+ditokoku ini sekarang?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_CAM><FACE_SHY><FP_LEFT>Huh? Oh, itu benar...
+Aku harus menghidupkan
+beberapa teknik bisnis...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_CAM><FACE_NORMAL><FP_LEFT>Um, mari kita lihat...
+Ay...ayo datang ke tokoku
+toko bunga CAM!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_CAM><FACE_SAD><FP_LEFT>Lihat, Aku kurang pandai
+mengatakannya dengan lancar
+...
+----------------------------|----------------------------------
+<CHOICE_AB> Biarkan aku lakukan!
+ Kamu pasti bisa! lanjutkan!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_CAM><FACE_NORMAL><FP_LEFT>Wow, dengan bantuanmu, kita
+akan bisa menjual semuanya!<PAGE><FACE_POS_LEFT><FACE_CAM><FACE_SAD><FP_LEFT>Aku tidak berpikir bahwa
+bisa mempelajari banyak hal
+dari hal ini, mengenai<PAGE>pelanggan itu...
+Aku tidak berpikir bisa
+melakukannya seperti kamu<PAGE>lakukan itu.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_CAM><FACE_NORMAL><FP_LEFT>Tapi kamu sudah benar-benar
+membantuku hari ini, dan
+untuk itu aku berterima<PAGE>kasih kepada kamu. Aku
+akan bertemu dengan kamu
+nanti lagi.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_CAM><FACE_HAPPY><FP_LEFT>Te-teruma kasih atas duku-
+ngannya...<PAGE><FACE_POS_LEFT><FACE_CAM><FACE_NORMAL><FP_LEFT>Ini sungguh aneh...
+Disaat aku bersama kamu,
+aku bisa melakukan sesuatu<PAGE>yang biasanya tak pernah
+kulakukan...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_CAM><FACE_NORMAL><FP_LEFT>Oke kalau begitu, mari kita
+lihat apa yang bisa kita
+jual!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Well, well! Kalian berdua 
+itu sangat semangat ya!<PAGE><FACE_POS_LEFT><FACE_CAM><FACE_NORMAL><FP_LEFT>Oh, itu, ini...<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Hmm?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Kamu benar-benar berubah
+akhir-akhir ini, Cam!<PAGE><FACE_POS_LEFT><FACE_CAM><FACE_NORMAL><FP_LEFT>Huh?<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Sejak kamu kecil, kamu
+tidak pernah menampakan
+ekspresi yang berlebih.<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Tapi akhir-akhir ini, kamu
+tampak lebih berwarna!<PAGE>Ini pastinya berterima
+kasih kepada kamu,
+<MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_CAM><FACE_HAPPY><FP_LEFT>Well, jika kamu berkata se-
+perti itu, pak, pasti itu 
+benar.<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Ha ha ha! Ah, anak muda
+dan sedang bercinta...<PAGE><FACE_POS_LEFT><FACE_CAM><FACE_SHY><FP_LEFT>Huh? A...aku pikir kamu
+sudah salah kira, pak!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Ah, aku pikir aku akan mem-
+beli beberapa bunga untuk
+Rose! Akhir akhir ini aku<PAGE>jarang membelikannya!<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Aku akan membeli itu juga!<PAGE><FACE_POS_LEFT><FACE_CAM><FACE_NORMAL><FP_LEFT>Terima kasih banya, Pak.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_CAM><FACE_SHY><FP_LEFT>Sepertinya dia salah mengira
+mengenai kita berdua ini...
+Maaf mengenai ini ya...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_CAM><FACE_SHOCK><FP_LEFT>Oh, jika ini tidak menggang-
+gumu, ah lupakan!
+mari kita kerja lagi!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_CAM><FACE_HAPPY><FP_LEFT>Wow! Aku tidak pernah berpi-
+kir bahwa bisa menjual
+semuanya!<PAGE><FACE_POS_LEFT><FACE_CAM><FACE_NORMAL><FP_LEFT>Ini semua karena bantuanmu,
+<MYNAME>...<PAGE>Dan aku pikir aku bisa me-
+nangani pelanggan lebih
+baik daripada biasanya.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_CAM><FACE_NORMAL><FP_LEFT>Aku sungguh senang jika me-
+mintamu untuk sarannya.<PAGE><FACE_POS_LEFT><FACE_CAM><FACE_HAPPY><FP_LEFT>Terima kasih,
+<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_CAM><FACE_SHOCK><FP_LEFT>Hei, ingin mengunjungi kafe
+dulu sebelum kamu pulang?<PAGE>Aku ingin membelikanmu se-
+buah teh atau sesuatu untuk
+berterima kasih kepadamu.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_CAM><FACE_HAPPY><FP_LEFT>Bagus! Ayo, <MYNAME>!

@@ -1,0 +1,683 @@
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>Isn't spring great?
+The fragrance of plants
+growing is so wonderful.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Spring is really here!<PAGE>Even the animals are loving
+it.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>The cherry blossoms are
+nearly in full bloom.<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Aren't cherry blossom petals
+so delicate and cute?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Spring is great!<PAGE>It's hard to stay indoors
+when everything's so
+beautiful.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>More hot weather today.<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Iced tea makes a delicious
+drink this time of year.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>What a heat wave!<PAGE>Take it easy with your
+work in this weather!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_SHY><FP_RIGHT>When it's so hot like this,
+work is tough.<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>You have to take rests when
+you feel tired.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>At this time of year, it's
+refreshingly cool on the
+mountain.<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>The cool water in the river
+also feels so nice.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>Fall is really here!<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>The leaves have turned on
+the mountain and in the
+village. It's lovely!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>The weather is much more
+pleasant now.<PAGE>It's a good time of year to
+get some reading done.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>Fall is really here!<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_SHY><FP_RIGHT>It's warm during the day,
+but mornings and evenings
+are crisp.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>Autumn skies are so lovely!<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>The crisp blue daytime sky
+and the starry nights...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>It's colder today.<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Be careful not to catch
+cold.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>You should dress up warmly
+whenever you go outside.
+Otherwise you'll catch cold.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>I hope the weather warms up
+soon! I can't wait for those
+sunny spring days!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>It's gotten really cold.<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_SHY><FP_RIGHT>Working is no fun when it's
+this cold out.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>When the weather's nice, you
+can get all your laundry and
+cleaning done!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>Has your work been going
+well recently?<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Don't push yourself too
+hard!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>If you want to know what the
+weather will be like, just
+listen to the radio.<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>It's very convenient to know
+what the day's weather is.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>On sunny days, I just feel
+filled with warmth and
+happiness.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_SHY><FP_RIGHT>What's with this rain?<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>But the plants will be
+happy with it!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_SHY><FP_RIGHT>My laundry will never dry
+in weather like this!
+What a pain!<PAGE>I hope it clears
+up tomorrow.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>If you play around
+recklessly on a rainy day,
+you'll slip and get hurt.<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>So be careful!
+Don't get hurt!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>I've heard that rain is the
+Harvest Goddess's tears.<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_SHY><FP_RIGHT>If that's true, it would
+be rude to the Goddess
+to complain about rain.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>The village looks so pretty
+under a blanket of snow.<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>It's like a scene out of
+a picture book.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>Wild animals are amazing,
+aren't they?<PAGE>The snow doesn't bother
+them a bit.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>When snow falls from the
+roof, it makes a big thump!<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_SHY><FP_RIGHT>That always surprises me.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>When snow falls from the
+roof, it makes a big thump!<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_SHY><FP_RIGHT>That always surprises me.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_NORI><FACE_SAD><FP_LEFT>Um......<PAGE>I'm really sorry, but...<PAGE>I don't really like this
+place.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_NORI><FACE_SHY><FP_LEFT>A long time ago here...<PAGE>A girl with green hair
+pulled a prank on me...<PAGE><FACE_POS_LEFT><FACE_NORI><FACE_SAD><FP_LEFT>.........
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Today was really fun.<PAGE>Let's get together and talk
+again sometime soon.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>Thanks for today.
+Let's get together again.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_NORI><FACE_SAD><FP_LEFT>I'm really sorry...
+I'm going home now.<PAGE>See you later.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>I'm glad we got to have a
+long talk like this.<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>You and I should talk like
+this more often.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>You're such a nice guy.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>You're such a nice guy.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>You're such a nice guy.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>You're such a nice guy.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>You're such a nice guy.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>You're such a nice guy.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>You're such a nice guy.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>You're such a nice guy.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>You're such a nice guy.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>You're such a nice guy.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>You're such a nice guy.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>You're such a nice guy.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>You're such a nice guy.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>You're such a nice guy.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>You're such a nice guy.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>You're such a nice guy.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>It's nice to keep animals.<PAGE>It's like having a big
+family around you!<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>It would be neat if you
+had even more animals,
+wouldn't it?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>It's nice to keep animals.<PAGE>It's like having a big
+family around you!<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>You've really increased your
+number of animals, huh?<PAGE>I guess you've learned a lot
+about caring for them.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>It's nice to keep animals.<PAGE>It's like having a big
+family around you!<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>It's amazing that you can
+care for so many animals!<PAGE>You're incredible!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_SHY><FP_RIGHT>Bugs and frogs, huh?
+You collect bugs and frogs?<PAGE>.........<PAGE>Do you really need to go
+out and collect them like
+that?<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_SAD><FP_RIGHT>I feel sorry for them...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_SHY><FP_RIGHT>Bugs and frogs, huh?
+You collect bugs and frogs?<PAGE>.........<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_SHY><FP_RIGHT>Well......
+You sure have a lot of them.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_SHY><FP_RIGHT>Bugs and frogs, huh?
+You collect bugs and frogs?<PAGE>.........<PAGE>Wow!<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_SAD><FP_RIGHT>Should you have SO many?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>So you're keeping track of
+all the fish you catch?<PAGE>.........<PAGE>Seems like you're just
+getting started, huh?<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Ha ha! But knowing you,
+you'll be catching a lot
+more of them.<PAGE>Good luck!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>So you're keeping track of
+all the fish you catch?<PAGE>.........<PAGE>Ooh, you've got a lot of
+them!<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Knowing you,
+you'll be catching even
+more of them.<PAGE>Good luck!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>So you're keeping track of
+all the fish you catch?<PAGE>.........<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Oooh!
+What a huge number of fish
+you've caught. I'm amazed!<PAGE>Being really dedicated to
+something, whatever it is,
+is a wonderful thing.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>I've heard that you have
+a talent for coming up with
+new recipes for cooking.<PAGE>........<PAGE>Seems like you're just
+getting started, huh?<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>I bet that you could come up
+with new recipes by trying
+unusual combinations.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>I've heard that you have
+a talent for coming up with
+new recipes for cooking.<PAGE>........<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Oooh... It seems like you
+have a lot of inspiration
+in your cooking.<PAGE>You really have talent.
+You should make the most of
+it to do more.<PAGE>Come up with more creative
+recipes and teach
+them to me! 
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>I've heard that you have
+a talent for coming up with
+new recipes for cooking.<PAGE>........<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Ooh, wow!
+Look how many recipes you've
+come up with!<PAGE>I need to learn some of them
+from you!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>You're such a nice guy.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>You're such a nice guy.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>You're such a nice guy.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>You're such a nice guy.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>You're such a nice guy.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>You're such a nice guy.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>You're such a nice guy.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>You're such a nice guy.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>You're such a nice guy.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>You're such a nice guy.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>You're such a nice guy.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>You're such a nice guy.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>You're such a nice guy.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>You're such a nice guy.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>You're such a nice guy.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>You're such a nice guy.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>You're such a nice guy.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>You're such a nice guy.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>You're such a nice guy.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>You're such a nice guy.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>You're such a nice guy.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>You're such a nice guy.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>You're such a nice guy.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>You're such a nice guy.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>You're such a nice guy.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>You're such a nice guy.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>You're such a nice guy.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>You're such a nice guy.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>You're such a nice guy.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>You're such a nice guy.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>You're such a nice guy.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>You're such a nice guy.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>You're such a nice guy.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>You're such a nice guy.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>You're such a nice guy.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>You're such a nice guy.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>You're such a nice guy.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>You're such a nice guy.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>Sewing is really fun!<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>I love to make all kinds of
+things.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>I love kids.<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>What were you like as a
+child?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>Ayame is the doctor at the
+clinic.<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>She's very kind.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>The old folks in Konohana
+are all very active.
+They have a lot of fun.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>The Snow Festival held each
+year here is spectacular!<PAGE>I love to see the snow
+sculptures people make.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>It's so handy to be able to
+sew.<PAGE>I can fix torn clothes in
+a jiffy.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>I love kids!<PAGE>I feel more energetic just
+watching them.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>Ayame is a fantastic doctor.<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>It doesn't hurt at all
+when she gives shots.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Yun's cooking is absolutely
+delicious!<PAGE>With her many years of
+experience, she knows how to
+get amazing flavors.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>There's a Snow Festival in
+Konohana every year.<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Sheng's sculptures are
+especially artistic.<PAGE>You should go and see it if
+you have the chance.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>Recently I made panda
+pajamas for Sheng.<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>He really liked them!
+That was nice to see.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>When we were little, Kana
+and Hiro would always ask me
+to come out and play.<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Those two were so adorable.
+So full of energy...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>Dr. Ayame is very gentle.<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>She knows how important it
+is to make her patients
+comfortable.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>My grandpa is so full
+of energy!<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>He gets up at 4 AM to
+start work!<PAGE>Ha ha!
+Now THAT'S early.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>There's a Snow Festival in
+Konohana every year.<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Mako's sculptures have a
+style all their own!<PAGE>You should go and see it if
+you have the chance.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>I learned how to sew from
+my late grandma.<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>She was very kind, and I
+loved her very much.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>Kids are so cute.<PAGE>When I was a kid, I played
+outside all the time.<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Hee hee.
+Oh, the memories.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Ayame and Hiro make a
+great team.
+They get along so well.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>Sheng often goes up onto
+the mountain by himself.<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>He's a vigorous old guy.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>There's a Snow Festival in
+Konohana every year.<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>The things that Kana sculpts
+could only be by him!<PAGE>You should go and see it if
+you have the chance.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>My late grandma taught me
+sewing, cooking, and all
+kinds of things.<PAGE>I used to make chestnut buns
+with her...<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>That's a food with a lot of
+memories for me...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>Kids are so energetic!<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>I feel more energetic
+just watching them!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>The clinic is an important
+place for villagers here.<PAGE>If you ever get sick, you
+should go there too.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>The old folks in Konohana
+are all very active.<PAGE>I hope I'm that energetic
+when I get to be an old
+lady!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>Konohana's Snow Festival is
+always so much fun!<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Fun for those who make
+the sculptures, and for
+those who look at them!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>Reina is one smart
+cookie!<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>She came to Konohana in
+order to study plants. Wow!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>Do you know about the
+watermill?<PAGE>You can make all kinds of
+things there.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>I've loved books ever since
+I was a little girl.<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Reading a book, I feel like
+I'm visiting another world.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>Rahi is a little guy, but
+he's really sharp.<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>He always gives me an
+enthusiastic hello.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>Doing laundry and cleaning
+gives me a good feeling.<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>It's important to keep
+your living space all neat
+and tidy.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>Reina is a little bit
+awkward, but she's a nice
+girl.<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>You should see her smile
+when she's with her plants!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>Do you know about
+maker sheds?<PAGE>Each maker produces a
+different kind of item.<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>I'd like to try it once.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>I've loved books ever since
+I was a little girl.<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>I fell in love with the
+people and places in them.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>Ying is just a little girl,
+but she's a smart one.<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>She does a great job helping
+Yun around the Tea House.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>Cleaning is fun!<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Making a dirty room
+sparkling clean is such a
+nice feeling.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_SHY><FP_RIGHT>During a big storm, my
+grandpa went out for a walk
+and didn't come back...<PAGE>I was getting worried, so I
+was going to look for him...<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>Reina found him on the
+mountain and told him I was
+worried about him.<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>She really is a kind
+girl.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>Do you know about the
+watermill?<PAGE>Each maker in it produces a
+different kind of item.<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>I'd like to try it once.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>I fell in love with the
+people and places in books
+I read as a little girl.<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>When I read the story about
+the friendly giant, I
+was really touched.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>Mayor Ina is so no-nonsense!
+What a tough lady.<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>One time she knocked out
+a bear with one punch!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_SHY><FP_RIGHT>Grandpa Gombe always puts
+his socks in the laundry
+inside out.<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_SAD><FP_RIGHT>I'm always reminding him
+not to, but he keeps doing
+it! What a hassle!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>The other day, Reina wore an
+outfit that I made for her.<PAGE>She said, "I can't wear
+this! It's too fancy!"<PAGE>But in the end,
+she took it home with her.<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Ha ha.
+She decided that she liked
+it after all.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>Do you know about the maker<PAGE>sheds?<PAGE>If you make a lot of things
+there, you get a rank!<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_SHY><FP_RIGHT>But I wonder who hands out
+those titles, don't you?<PAGE>Hmmm...<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Maybe the legendary Harvest
+Goddess...!
+Wouldn't that be cool?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>I fell in love with the
+people and places in books
+I read as a little girl.<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>There was a boy born from a
+watermelon who befriended a
+monkey, dog, and duck...<PAGE>I loved the part where they
+went to find the rainbow's
+missing color.<PAGE>It was a true tale of
+friendship, determination
+and triumph.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>Mako is a scary-looking guy,
+but he's actually a
+really nice person.<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>He's always had fun playing
+with the village kids.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_SHY><FP_RIGHT>My grandpa always leaves
+bits of paper in the pockets
+of his pants in the laundry.<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_SAD><FP_RIGHT>I keep warning him about it,
+but he keeps doing it.
+He can be a pain sometimes!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>One time Reina gave me as a
+birthday present a bookmark
+of pressed flowers.<PAGE>She spent days picking
+flowers that she thought
+would suit me.<PAGE>I was so happy with that
+present! I treasure it and
+still use it to this day!<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Now I just don't feel right
+reading a book unless I have
+that bookmark!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>Do you know about the maker
+sheds?<PAGE>A while back, I drank some
+hot coffee that was made
+in a drink maker...<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_SHY><FP_RIGHT>The taste wasn't really to
+my liking.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>I fell in love with the
+people and places in books
+I read as a little girl.<PAGE>There's one where a girl
+is put under a magic spell
+and goes to a ball...<PAGE>There the prince falls in
+love with her...<PAGE>.........<PAGE>Ha ha!
+I still love that story!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>Isn't Yun just the
+sweetest lady?<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>I feel so much better
+whenever I talk to her.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Laundry, cleaning,
+cooking...<PAGE>They're all hard work, but
+I enjoy doing them anyway.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>Ying and Rahi get along so
+well.<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>With the two of them around,
+Konohana is always lively.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>It's so nice down by the
+river.
+Such a relaxing spot.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>I love making clothes.<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>So many styles and
+patterns... The
+possibilities are endless!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Sewing is so much fun!<PAGE>I make things for everyone
+in the village.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>You know something, <MYNAME>?
+You're...<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>A really interesting person!<PAGE>Talking to you is always
+a lot of fun.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>Ayame is a doctor, and
+Hiro is an apprentice
+doctor.<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>They both have their own
+ways of doing things.
+What a pair!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>It's so nice down by the
+river.<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>I like how the scenery looks
+so different at night from
+how it is during the day.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>Everyone in Konohana is so
+well-dressed!<PAGE>Ying's flower-print skirt...<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Isn't it just the cutest
+thing you've ever seen?<PAGE>Ha ha ha!
+I wonder if Yun made it.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>It's so handy to be able to
+sew.<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>A while back, I fixed Ying's
+teddy bear for her.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>You know something, <MYNAME>?
+You're...<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>A really nice person!<PAGE>Talking to you always gives
+me a warm feeling inside.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>My grandpa has such strange
+habits.<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_SHY><FP_RIGHT>And he can be quite self-
+centered about some things!<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>But when I really get angry,
+he straightens up his act!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>In the old days, my friends
+and I would always come down
+here by the river to play.<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Any time of the day or year,
+it's always a special place
+to me.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>Everyone in Konohana is so
+well-dressed!<PAGE>Rahi with his neat, collared
+shirt...<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>It shows he really has good
+fashion sense!<PAGE>Ha ha!
+But I wonder if his mom
+made him wear it...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>It's so handy to be able to
+sew.<PAGE>The other day, I made a
+pouch for Kana.<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>He really liked it... 
+He said he'd use it to
+keep his horse brushes in.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>You know something, <MYNAME>?<PAGE>You're really...\u270b
+<FACE_POS_RIGHT><FACE_NORI><FACE_SHOCK><FP_RIGHT>A kind person.<PAGE>You never cease to amaze me
+with how considerate you are
+towards others.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>When I was little, I met a
+woman by the spring.<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_SHY><FP_RIGHT>She suddenly popped up out
+of the water at the spring!
+I was so surprised!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>In the old days, my friends
+and I would always come down
+here by the river to play.<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Kana was always the best at
+catching fish.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>Everyone in Konohana is so
+well-dressed!<PAGE>Ayame wears that white
+doctor's gown so well...<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Just loose enough to look
+feminine. And I love that
+pendant around her neck!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>It's so handy to be able to
+sew.<PAGE>The other day, I made an
+apron For Hiro.<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>He said to me, "I don't make
+THAT much of a mess in the
+kitchen!".<PAGE>But he still took the apron!
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>You know something, <MYNAME>?<PAGE>You're really...
+<FACE_POS_RIGHT><FACE_NORI><FACE_SHOCK><FP_RIGHT>A wonderful person.<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Everyone thinks the world
+of you, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>The other day, Ayame asked
+me to make something girlish
+for her.<PAGE>So I made her a dress with
+lots of frills and ribbons.<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_SHY><FP_RIGHT>I wonder what she's planning
+on wearing it for.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>I feel so relaxed here.<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>This is where I come when
+I'm having a hard time.
+It makes me feel better.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>It's so much fun to put
+together outfits!<PAGE>Don't you think you would
+look good with a nice
+suit coat?<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Oooh, yes.
+That would be fantastic.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>It's so handy to be able to
+sew.<PAGE>The other day I made a
+nice silk eye patch for
+Mako.<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>I think it will look
+perfect on him.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_SHOCK><FP_RIGHT>............
+Um......<PAGE>If it's okay with you...<PAGE>I'd like to spend more
+time with you from now on.<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>So let's do this again
+soon, okay?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>Oooh, <MYNICKNAME>, just think
+how long it's been since we
+met!<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_SHOCK><FP_RIGHT>Spending time with you is
+such a joy!<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>We'll always be together!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT><MYNICKNAME>!<PAGE>You work so hard every day.
+But don't overdo it!<PAGE>I...<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_SHY><FP_RIGHT>I don't want to have to
+make a hospital gown for you
+to wear!<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>So please don't push
+yourself too hard.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT><MYNICKNAME>......<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_SHOCK><FP_RIGHT>I want you to stay by my
+side forever and ever!<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>I'm the happiest woman in
+the world!

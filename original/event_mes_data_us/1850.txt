@@ -1,0 +1,88 @@
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>★ERROR!★</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Ah, you saw my request on
+the message board, hmm?<PAGE><FACE_POS_RIGHT><FACE_GOMBE><FACE_SAD>But it's too late! Too bad!
+I wanted you to come earlier
+in the day, yes?<PAGE>Forgive an old man for
+having you come when you're
+busy on your own farm.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Ah, you saw my request on
+the message board, hmm?<PAGE><FACE_POS_RIGHT><FACE_GOMBE><FACE_SAD>But it rained, so the plants
+are fine now! They don't
+need watering, hmm?<PAGE>Ah, but you came all this
+way, so let an old man send
+you home with a reward.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_HAPPY><FP_RIGHT>Ah, you saw my request on
+message board, hmm?
+Much obliged to you!<PAGE>Ah, let's begin then, hmm?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_HAPPY><FP_RIGHT>These are our fields.
+Impressive, hmm?<PAGE><FACE_POS_RIGHT><FACE_GOMBE><FACE_NORMAL>Could you please <RED>water</COLOR>
+them for this old man?<PAGE>Let me know when you're
+finished, hmm?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_HAPPY><FP_RIGHT>These are our fields.
+Impressive, hmm?<PAGE><FACE_POS_RIGHT><FACE_GOMBE><FACE_NORMAL>Could you please <RED>harvest</COLOR>
+the crops for this old man?<PAGE>The crops you harvest will
+<RED>automatically be sent to
+my storage</COLOR>.<PAGE>Let me know when you're
+finished, hmm?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>★ERROR!★</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>★ERROR!★</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>★ERROR!★</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>★ＥＲＲＯＲ！★</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_HAPPY><FP_RIGHT>Done with the job, hmm?
+Ah, well done!<PAGE>Ah, your reward, hmm?
+Come along to get it.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Done with the job, hmm?
+Ah, well done!<PAGE>But I wish you'd let me know
+a little sooner, hmm? I was
+worried, and couldn't sleep!<PAGE><FACE_POS_RIGHT><FACE_GOMBE><FACE_SAD>Look, hmm! I've got bags
+under my pretty little
+eyes!<PAGE><FACE_POS_RIGHT><FACE_GOMBE><FACE_NORMAL>Ah, your reward, hmm?
+Come along to get it.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_HAPPY><FP_RIGHT>Done with the job, hmm?
+Ah, well done!<PAGE><FACE_POS_RIGHT><FACE_GOMBE><FACE_SAD>But why didn't you come and
+tell me sooner, hmm?<PAGE>It's this old man's bed time
+now, hmm! You cut it too
+close!<PAGE><FACE_POS_RIGHT><FACE_GOMBE><FACE_NORMAL>Ah, your reward, hmm?
+Come along to get it.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_HAPPY><FP_RIGHT>Done with the job, hmm?
+Ah, well done!<PAGE><FACE_POS_RIGHT><FACE_GOMBE><FACE_SAD>But it started raining in
+the meantime...<PAGE>Ah, I'm sorry I had you come
+all the way out here.<PAGE>At least take a reward, hmm?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_HAPPY><FP_RIGHT>Ah, <MYNAME>, I always knew
+you'd do a good job!
+So helpful to an old man!<PAGE><FACE_POS_RIGHT><FACE_GOMBE><FACE_NORMAL>Here's your reward!
+Don't be shy! Just take it
+home with you!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>★ERROR!★</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>★ERROR!★</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>And now for your...
+\u270aBO-\u270aNUS!<PAGE><FACE_POS_RIGHT><FACE_GOMBE><FACE_HAPPY>For finishing so quickly!
+Such a big help, hmm!
+Much obliged.
+----------------------------|----------------------------------
+\u2137You received a
+<VAR_1>!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_HAPPY><FP_RIGHT>Much obliged to you.
+This old man might ask for
+your help again sometime.
+----------------------------|----------------------------------
+\u2137You finished all the work
+you were asked to do!

@@ -1,0 +1,73 @@
+<FACE_POS_LEFT><HIDE_NAME><FACE_RUTGER><FACE_NORMAL><FP_LEFT><HIDE_FACE>Good morning, <MYNAME>.
+May I come in?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>How do you like living here?
+Bluebell is a wonderful
+town, isn't it?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Nevertheless, I've come here
+today to tell you about
+moving.<PAGE>I know you have no desire to
+leave Bluebell, but I figure
+I'll explain it anyway!<PAGE>Do you know how to move,
+<MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Well then, let me explain!<PAGE>You can move to <BLUE>Konohana</COLOR>
+between the <RED>23rd and 30th
+of any season</COLOR>.<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>If you decide to move,
+you'll start living in
+Konohana from that day on.<PAGE>Just go to Town Hall on the
+<RED>23rd to the 30th of any
+season</COLOR> if you want to move.<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Town Hall is the biggest
+building in town, so you
+can't miss it!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>dummy
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>You can keep on using the
+fields here even if you
+move to Konohana.<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_SAD><FP_RIGHT>But the barn there is a lot
+smaller...<PAGE>So if you have a lot of
+animals, you can't take
+them all with you.<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>I'll ask a friend of mine
+to take care of them for
+you.<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>That way, you won't have to
+worry about them getting
+sick.<PAGE>But we can't give them back
+to you until you move back
+to Bluebell.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_SAD><FP_RIGHT>It'll take about a day to
+get everything ready to
+move.<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>So make sure to tie up
+any loose ends the day
+before.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Well, that's basically all
+you need to know about
+moving...<PAGE>Do you want to hear the
+explanation again?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>All right, let me explain it
+again.<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>You can move to <BLUE>Konohana</COLOR>
+between the <RED>23rd and 30th
+of any season</COLOR>.<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>If you decide to move,
+you'll start living in
+Konohana from that day on.<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Just go to Town Hall on the
+<RED>23rd to the 30th of any
+season</COLOR> if you want to move.<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Town Hall is the biggest
+building in town, so you
+can't miss it!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>So just come to Town Hall
+if you want to move.<PAGE>Actually, Town Hall isn't
+open today, so you'll have
+to come tomorrow...<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Of course, our village is
+wonderful, so I'm sure
+you'll stay here anyway!
+----------------------------|----------------------------------
+<CHOICE_AB> No, I don't.
+ Yes, I do.
+----------------------------|----------------------------------
+<CHOICE_AB> Please explain again.
+ That's OK, I got it!

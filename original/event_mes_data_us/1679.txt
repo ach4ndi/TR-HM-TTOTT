@@ -1,0 +1,53 @@
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>Error!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>So you've come for
+the clothes, right?
+Come on in.<PAGE>Now I'm going to trade you
+for the item I requested.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>Error!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>Error!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Thank you very much.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>Error!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL>Now the money.
+That's <VAR_0>G.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>Error!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>Error!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>Error!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>Error!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>Error!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>I made these clothes myself,
+so I wanted to know you
+would take care of them.<PAGE>That's why I requested
+all of this. I hope it
+wasn't too difficult.<PAGE>Do forgive me!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>But I think I can trust
+you to take good care of
+these clothes. Here you go.
+----------------------------|----------------------------------
+\u2137You got an <RED>urban outfit</COLOR>!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>You already know how to
+change clothes, right?<PAGE>I hope you like that outfit!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>Hopefully we can trade
+again some other time...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>Error!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>Error!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>Error!</COLOR>

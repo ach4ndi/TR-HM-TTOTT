@@ -1,0 +1,65 @@
+<FP_NONE>Tanya tentang permintaan?
+<CHOICE_AB> Ya.
+ Tidak.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_SHENG><FACE_SAD><FP_RIGHT>Eh? kamu masih kekurangan
+barang yang aku minta.<PAGE><FACE_POS_RIGHT><FACE_SHENG><FACE_NORMAL>Pergi mencari kekurangannya,
+lalu datang kesini lagi.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ada apa sekarang?
+Kamu mengingat sesuatu yang
+harus dilakukan, eh?<PAGE>Aku akan menunggunya
+Datang kembali jika urusan-
+nya sudah selesai.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Sekarang uangnya.
+Hanya <VAR_0>G.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Jadi kamu muncul seperti
+apa yang kukatakan.
+Makasih.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_SHENG><FACE_HAPPY><FP_RIGHT>Kerja bagus, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_SHENG><FACE_HAPPY><FP_RIGHT>Oke, sampai jumpa lagi. dan
+aku ucapkan terima kasih.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Aku sangat berterima kasih
+atas bantuanmu.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_SHENG><FACE_NORMAL><FP_RIGHT>　
+\u20d0<RED>　　　　Dummy</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_SHENG><FACE_NORMAL><FP_RIGHT>　
+\u20d0<RED>　　　　Dummy</COLOR>
+----------------------------|----------------------------------
+<FP_NONE>Tanya tentang permintaan?
+<CHOICE_AB> Ya.
+ Tidak.
+----------------------------|----------------------------------
+<FP_NONE>Menolak hadiahnya?
+<CHOICE_AB> Ya.
+ Tidak.
+----------------------------|----------------------------------
+<FP_NONE>Kamu mendapatkan <VAR_0>G!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_SHENG><FACE_NORMAL><FP_RIGHT>　
+\u20d0<RED>　　　　Dummy</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_SHENG><FACE_NORMAL><FP_RIGHT>　
+\u20d0<RED>　　　　Dummy</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_SHENG><FACE_NORMAL><FP_RIGHT>　
+\u20d0<RED>　　　　Dummy</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_SHENG><FACE_NORMAL><FP_RIGHT>　
+\u20d0<RED>　　　　Dummy</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_SHENG><FACE_NORMAL><FP_RIGHT>　
+\u20d0<RED>　　　　Dummy</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_SHENG><FACE_NORMAL><FP_RIGHT>　
+\u20d0<RED>　　　　Dummy</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_SHENG><FACE_NORMAL><FP_RIGHT>　
+\u20d0<RED>　　　　Dummy</COLOR>

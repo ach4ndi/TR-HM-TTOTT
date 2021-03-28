@@ -1,0 +1,64 @@
+<FACE_POS_RIGHT><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>This spring has such a
+mysterious atmosphere about
+it...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>I wonder if some sacred
+presence dwells here.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>Speaking of mysteries...<PAGE>At the town hall I heard the
+girls relating the legend
+of the church bell.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>It seems there is a church
+on the outskirts of Bluebell
+Village.<PAGE>The church bell was once
+used to ring out the time,
+weddings, and so on.<PAGE>But it became decrepit and
+fell into disuse for some
+time...<PAGE>And yet, even though the
+church was abandoned...<PAGE><FACE_POS_RIGHT><FACE_MIKHAIL><FACE_SHY><FP_RIGHT>Couples who got married atop
+the mountain sometimes heard
+the sound of the bell...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>They said it was a sign
+of the Harvest Goddess
+giving her blessing...<PAGE>Now legend says if a couple
+marry atop the mountain and
+hear the bell ring...<PAGE>They'll be happy forever...<PAGE><FACE_POS_RIGHT><FACE_MIKHAIL><FACE_HAPPY><FP_RIGHT>Those girls certainly have
+a vivid imagination!
+It's a charming fancy.<PAGE>What do you think of this
+tale, <MYNAME>?
+----------------------------|----------------------------------
+<CHOICE_AB> It's wonderful!
+ Fairytales mean nothing.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MIKHAIL><FACE_HAPPY><FP_RIGHT>You think so?
+Just the sort of girl I
+thought you were, then!<PAGE><FACE_POS_RIGHT><FACE_MIKHAIL><FACE_SHY><FP_RIGHT>On that subject...do you
+have anyone you are hoping
+to marry someday?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MIKHAIL><FACE_HAPPY><FP_RIGHT>No?
+I am glad to hear that.<PAGE><FACE_POS_RIGHT><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>In that case, I hope...
+...\u270a...\u270a...\u270a\u270a<FACE_POS_RIGHT><FACE_MIKHAIL><FACE_SHOCK><FP_RIGHT>No,
+the time for that is later.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MIKHAIL><FACE_HAPPY><FP_RIGHT>Pardon me.
+It's nothing at all.<PAGE><FACE_POS_RIGHT><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>But now, <MYNAME>, let me
+see you home.<PAGE><FACE_POS_RIGHT><FACE_MIKHAIL><FACE_SHOCK><FP_RIGHT>I want to spend that extra
+time with you as we go.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MIKHAIL><FACE_SHY><FP_RIGHT>Mean nothing? You may be
+right.<PAGE><FACE_POS_RIGHT><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>You are a more practical-
+minded girl than I expected.<PAGE>Not that there's anything
+wrong with that.<PAGE><FACE_POS_RIGHT><FACE_MIKHAIL><FACE_SAD><FP_RIGHT>But don't you think that
+you miss out on some of
+life that way?<PAGE>Music, feelings...
+Not everything that matters
+is visible to the eye.<PAGE><FACE_POS_RIGHT><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>Isn't it okay to sometimes
+have a daydream, or believe
+in a legend?<PAGE>For myself, I believe so.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>In any case, we should be
+getting back.
+Goodbye, <MYNAME>.

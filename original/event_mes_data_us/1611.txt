@@ -1,0 +1,70 @@
+\u2137Talk about the request?
+<CHOICE_AB> Yes.
+ No.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NATHAN><FACE_SAD><FP_RIGHT>Oh no!
+That's not enough.<PAGE><FACE_POS_RIGHT><FACE_NATHAN><FACE_NORMAL>Don't worry, though.
+Mistakes build character.
+<PAGE>Please come back later.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Ah, other things to do?<PAGE>Don't worry about me.
+Please come back later.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Now the money.
+That's <VAR_0>G.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>I heard you'd be coming.
+Thank you.
+I've been waiting.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NATHAN><FACE_HAPPY><FP_RIGHT>Thank you for this.<PAGE>And thank you, Harvest
+Goddess, for this blessing.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NATHAN><FACE_HAPPY><FP_RIGHT>I'll see you later, then.
+And please pass on my
+gratitude.<PAGE>May the Harvest
+Goddess bless you!
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NATHAN><FACE_NORMAL><FP_RIGHT><BLUE>
+MSG NOT APPEAR
+</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>　
+\u20d0<RED>　　　　DUMMY</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>　
+\u20d0<RED>　　　　DUMMY</COLOR>
+----------------------------|----------------------------------
+\u2137Talk about the request?
+<CHOICE_AB> Yes.
+ No.
+----------------------------|----------------------------------
+\u2137Decline reward item?
+<CHOICE_AB> Yes.
+ No.
+----------------------------|----------------------------------
+\u2137You got <VAR_0>G!
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>　
+\u20d0<RED>　　　 Dummy</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>　
+\u20d0<RED>　　　 Dummy</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>　
+\u20d0<RED>　　　 Dummy</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>　
+\u20d0<RED>　　　 Dummy</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>　
+\u20d0<RED>　　　 Dummy</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>　
+\u20d0<RED>　　　 Dummy</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>　
+\u20d0<RED>　　　 Dummy</COLOR>

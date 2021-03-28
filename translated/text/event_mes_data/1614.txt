@@ -1,0 +1,67 @@
+<FP_NONE>Tanya tentang permintaan?
+<CHOICE_AB> Ya.
+ Tidak.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RAHI><FACE_SAD><FP_RIGHT>Maaf, tapi... masih ada
+yang kurang.<PAGE><FACE_POS_RIGHT><FACE_RAHI><FACE_NORMAL>Maksud aku, tidak masalah
+kok! Aku akan menunggunya!
+Pasti diberikan, ya kan?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Apa kamu ada urusan yang
+harus didahulukan?<PAGE>Tidak, tidak masalah kok!
+Aku akan menunggunya!
+Berikan nanti ya!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Sekarang uangnya.
+Hanya <VAR_0>G.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Oh benar, itu...
+Aku dengar kamu akan datang.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Kerja yang bagus! Seperti
+biasanya! Makasih!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RAHI><FACE_HAPPY><FP_RIGHT>Aku harus pergi sekarang.
+Sampaikan terima kasihku,
+oke?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RAHI><FACE_NORMAL><FP_RIGHT><BLUE>
+MSG NOT APPEAR
+</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RAHI><FACE_NORMAL><FP_RIGHT>　
+\u20d0<RED>　　　　Dummy</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RAHI><FACE_NORMAL><FP_RIGHT>　
+\u20d0<RED>　　　　Dummy</COLOR>
+----------------------------|----------------------------------
+<FP_NONE>Tanya tentang permintaan?
+<CHOICE_AB> Ya.
+ Tidak.
+----------------------------|----------------------------------
+<FP_NONE>Menolak hadiahnya?
+<CHOICE_AB> Ya.
+ Tidak.
+----------------------------|----------------------------------
+<FP_NONE>Kamu mendapatkan <VAR_0>G!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RAHI><FACE_NORMAL><FP_RIGHT>　
+\u20d0<RED>　　　　Dummy</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RAHI><FACE_NORMAL><FP_RIGHT>　
+\u20d0<RED>　　　　Dummy</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RAHI><FACE_NORMAL><FP_RIGHT>　
+\u20d0<RED>　　　　Dummy</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RAHI><FACE_NORMAL><FP_RIGHT>　
+\u20d0<RED>　　　　Dummy</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RAHI><FACE_NORMAL><FP_RIGHT>　
+\u20d0<RED>　　　　Dummy</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RAHI><FACE_NORMAL><FP_RIGHT>　
+\u20d0<RED>　　　　Dummy</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RAHI><FACE_NORMAL><FP_RIGHT>　
+\u20d0<RED>　　　　Dummy</COLOR>

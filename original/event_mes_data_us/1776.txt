@@ -1,0 +1,56 @@
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>ERROR!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Oh, I'm glad you came! I've
+been waiting for you.<PAGE><FACE_POS_RIGHT><FACE_EILEEN><FACE_HAPPY>OK, go ahead and give me the
+materials.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>ERROR!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>ERROR!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_EILEEN><FACE_HAPPY><FP_RIGHT>OK, I got them all.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>ERROR!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Now for the money. OK,
+I received your payment
+of <VAR_0>G.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>ERROR!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>ERROR!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>ERROR!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>ERROR!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>ERROR!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_EILEEN><FACE_HAPPY><FP_RIGHT>You brought everything
+I need for the expansion!
+Nicely done!<PAGE><FACE_POS_RIGHT><FACE_EILEEN><FACE_NORMAL>Now, let's go to the
+mountaintop! I'll get
+right to work.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Now, you just wait there...
+I'll be done in no time!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>ERROR!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>ERROR!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>All done! And a fine piece
+of work, if I do say so
+myself!<PAGE>I built a <RED>hot spring</COLOR>!<PAGE><FACE_POS_RIGHT><FACE_EILEEN><FACE_HAPPY>When you're <RED>tired</COLOR>, you can
+get in the hot spring and
+recover your Stamina!<PAGE><FACE_POS_RIGHT><FACE_EILEEN><FACE_NORMAL>It's <RED>free</COLOR>, and you can use
+it whenever you want!<PAGE><FACE_POS_RIGHT><FACE_EILEEN><FACE_HAPPY>Go take a look! You can use
+it right away!<PAGE>Well, my job here is done,
+so I'm going to go home.
+See you around.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>ERROR!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>ERROR!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>ERROR!</COLOR>

@@ -1,0 +1,132 @@
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Dum-Da-Da-DAA! You've caught
+15 fish with your hands!
+Congratulations!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>You're just getting started,
+though, so you've still got
+a ways to go!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Well, keep up the good work!
+Toodles!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Dum-Da-Da-DAA! You've caught
+50 fish with your hands!
+Congratulations!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>It looks like you've gotten
+used to catching fish with
+your hands! That's great!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Well, keep up the good work!
+Toodles!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Dum-Da-Da-DAA! You've caught
+100 fish with your hands!
+Congratulations!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>Did you know that there are
+some items you can only get
+when hand fishing?<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Well, keep up the good work!
+Toodles!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Dum-Da-Da-DAA! You've caught
+150 fish with your hands!
+Congratulations!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>Wow! I'm surprised you've
+been able to catch this
+many!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Well, keep up the good work!
+Toodles!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Dum-Da-Da-DAA! You've caught
+300 fish with your hands!
+Congratulations!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>Did you know that there are
+some rare fish you can
+catch while hand fishing?<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Well, keep up the good work!
+Toodles!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Dum-Da-Da-DAA! You've caught
+500 fish with your hands!
+Congratulations!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>You've gotten pretty good!
+You should try hand fishing
+during rain or a typhoon!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Well, keep up the good work!
+Toodles!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Dum-Da-Da-DAA! You've caught
+750 fish with your hands!
+Congratulations!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>You've gotten really good
+at hand fishing! I'm so
+happy!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Well, keep up the good work!
+Toodles!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Dum-Da-Da-DAA! You've caught
+1,000 fish with your hands!
+Congratulations!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>I can't believe how fast
+your hands move! You're
+like a hawk!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Well, keep up the good work!
+Toodles!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Dum-Da-Da-DAA!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>You've caught 1,500 fish
+with your hands!
+Congratulations!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>Wow, you're super amazing!
+I've never seen anyone as
+good at hand fishing as you!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>You've gotta be the best in
+the world!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Well, keep up the good work!
+Toodles!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Dum-Da-Da-DAA!
+
+----------------------------|----------------------------------
+<FACE_POS_LEFT><HIDE_NAME><FACE_HGODDES><FACE_NORMAL><FP_LEFT><HIDE_FACE>Dum-Da-Da-DAA! You've caught
+15 fish with your hands!
+Congratulations!<PAGE>By the way, have you figured
+out who I am?<PAGE>I'll tell you if you
+can find me!<PAGE>Well, keep up the good work!
+Toodles!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><HIDE_NAME><FACE_HGODDES><FACE_NORMAL><FP_LEFT><HIDE_FACE>Dum-Da-Da-DAA! You've caught
+50 fish with your hands!
+Congratulations!<PAGE>By the way, have you figured
+out who I am yet?<PAGE>I'll tell you if you
+can find me!<PAGE>Well, keep up the good work!
+Toodles!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><HIDE_NAME><FACE_HGODDES><FACE_NORMAL><FP_LEFT><HIDE_FACE>Dum-Da-Da-DAA! You've caught
+100 fish with your hands!
+Congratulations!<PAGE>By the way, have you figured
+out who I am yet?<PAGE>I'll tell you if you
+can find me!<PAGE>Well, keep up the good work!
+Toodles!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><HIDE_NAME><FACE_HGODDES><FACE_NORMAL><FP_LEFT><HIDE_FACE>Dum-Da-Da-DAA! You've caught
+150 fish with your hands!
+Congratulations!<PAGE>By the way, have you figured
+out who I am yet?<PAGE>I'll tell you if you
+can find me!<PAGE>Well, keep up the good work!
+Toodles!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><HIDE_NAME><FACE_HGODDES><FACE_NORMAL><FP_LEFT><HIDE_FACE>Dum-Da-Da-DAA! You've caught
+300 fish with your hands!
+Congratulations!<PAGE>By the way, have you figured
+out who I am yet?<PAGE>I'll tell you if you
+can find me!<PAGE>Well, keep up the good work!
+Toodles!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><HIDE_NAME><FACE_HGODDES><FACE_NORMAL><FP_LEFT><HIDE_FACE>Dum-Da-Da-DAA! You've caught
+500 fish with your hands!
+Congratulations!<PAGE>By the way, have you figured
+out who I am yet?<PAGE>I'll tell you if you
+can find me!<PAGE>Well, keep up the good work!
+Toodles!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><HIDE_NAME><FACE_HGODDES><FACE_NORMAL><FP_LEFT><HIDE_FACE>Dum-Da-Da-DAA! You've caught
+750 fish with your hands!
+Congratulations!<PAGE>By the way, have you figured
+out who I am yet?<PAGE>I'll tell you if you
+can find me!<PAGE>Well, keep up the good work!
+Toodles!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><HIDE_NAME><FACE_HGODDES><FACE_NORMAL><FP_LEFT><HIDE_FACE>Dum-Da-Da-DAA! You've caught
+1,000 fish with your hands!
+Congratulations!<PAGE>By the way, have you figured
+out who I am yet?<PAGE>You want to know?
+I'll tell you if you can
+find me!<PAGE>Good luck!
+Later!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><HIDE_NAME><FACE_HGODDES><FACE_NORMAL><FP_LEFT><HIDE_FACE>Dum-Da-Da-DAA! You've caught
+1,500 fish with your hands!
+Congratulations!<PAGE>By the way, isn't it about
+time you found out who I
+am...?<PAGE>I guess I'll have to appear
+right in front of you for
+you to figure it out...<PAGE>Well, keep up the good work!
+Toodles!

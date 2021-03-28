@@ -1,0 +1,86 @@
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_SAD><FP_RIGHT>Oooohhhh... Aku HAAAAUUUSSS!!!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_SHY><FP_RIGHT>Huh?
+Pergi ke.. Kafe?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_SHY><FP_RIGHT>Tu-Tu-Tu-Tungguuuu..
+<MYNAME>!!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_SHY><FP_RIGHT>A-Aku bahkan tidak tinggal
+didesa ini!<PAGE>Aku tidak tahu orang-orang
+disini apakah sifatnya itu
+seperti Kamu.<PAGE>Bagaimana bisa aku tiba-
+tiba muncul dikafe desa
+ini?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_LANEY><FACE_HAPPY><FP_LEFT>Oh, selamat datang, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_LANEY><FACE_NORMAL><FP_LEFT>Kulihat kau membawa sese-
+orang. Aku belum pernah
+bertemu dengannya.<PAGE>Apakah dia sepupumu??
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_LANEY><FACE_HAPPY><FP_LEFT>Oh, Jadi dia adalah temanmu?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_LANEY><FACE_HAPPY><FP_LEFT>Senang bertemu denganmu.
+Aku Laney.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>Se-Senang bertemu kamu juga...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_LANEY><FACE_HAPPY><FP_LEFT>Hee-hee, Kau terlihat sangat
+lucu, iya kan?
+Selamat datang dikafe kami!<PAGE><FACE_POS_RIGHT><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>O-Okay...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ULYSSA><FACE_SHY><FP_LEFT>Aiiiyeee...
+Dia pikir aku lebih muda
+darinya!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ULYSSA><FACE_NORMAL><FP_LEFT>Ooh, oke. oke.!<PAGE><FACE_POS_LEFT><FACE_ULYSSA><FACE_HAPPY><FP_LEFT>Jadi ini adalah kafe yang
+ingin kamu kunjungi? 
+Sepertinya tempatnya keren!<PAGE><FACE_POS_LEFT><FACE_ULYSSA><FACE_NORMAL><FP_LEFT>Tampaknya ini sudah sangat
+lama, lama, lama sejak ter-
+akhir kali aku berkunjung<PAGE>kerumah orang atau ketoko...<PAGE>Aku begitu terperangkap
+dalam penelitian alchemyku,
+jadinya aku....<PAGE>tidak sempat bertemu
+dengan orang-orang.<PAGE>Aku tidak yakin kalau ini
+akan berhasil, tiba-tiba
+datang kemari...<PAGE><FACE_POS_LEFT><FACE_ULYSSA><FACE_HAPPY><FP_LEFT>Tapi aku senang kita mela-
+kukan hal ini!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ULYSSA><FACE_NORMAL><FP_LEFT>Jadi, <MYNAME>...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ULYSSA><FACE_HAPPY><FP_LEFT>Maukah kamu membawaku ke-
+banyak, BUANYAK tempat se-
+perti ini mulai hari ini?<PAGE>Aku mulai ingin keluar
+jalan-jalan dan ingin men-
+jelajahi dunia!
+----------------------------|----------------------------------
+<CHOICE_AB> Oke!
+ Aku... tidak tahu...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ULYSSA><FACE_HAPPY><FP_LEFT>Sungguh!? Yay-hee!!
+Aku sangaaaaat senaaang!!<RED>❤</COLOR><PAGE><MYNAME>, <MYNAME>, <MYNAME>...
+Itulah kamu itu!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ULYSSA><FACE_NORMAL><FP_LEFT>Tampaknya aku harus berteri-
+ma kasih kepadamu,
+<MYNAME>...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ULYSSA><FACE_NORMAL><FP_LEFT>Jika aku tak bertemu dengan
+dirimu, mungkin aku hanya
+sendiri dan tenggelam dalam<PAGE>penelitianku.<PAGE><FACE_POS_LEFT><FACE_ULYSSA><FACE_SHY><FP_LEFT>Aku benar-benar lupa dunia
+luar, dan bagaimana orang
+bersenang-senang dengan<PAGE>seseorang.<PAGE><FACE_POS_LEFT><FACE_ULYSSA><FACE_SAD><FP_LEFT>Sekarang aku sadar betapa 
+amanya aku menghilang...<PAGE><FACE_POS_LEFT><FACE_ULYSSA><FACE_NORMAL><FP_LEFT>Jadi aku harus berterima
+kasih lagi kepada kamu.<PAGE><FACE_POS_LEFT><FACE_ULYSSA><FACE_SHOCK><FP_LEFT>Terima Kasih, terima kasih,
+TERIMA KASIH.<MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ULYSSA><FACE_HAPPY><FP_LEFT>Wokkkeeh!
+Waktunya untuk p-pu-pulang,
+<MYNAME>!<PAGE><FACE_POS_LEFT><FACE_ULYSSA><FACE_SHOCK><FP_LEFT>Kau punya hak istimewa
+untuk mengantarku pulang.<PAGE>Aku tau kau sangat baik!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ULYSSA><FACE_ANGRY><FP_LEFT>AAAAAAAPAAAA!?!
+Kau adalah cebol kecil
+yang jelek...!<PAGE>Hueeee! Okelah, gapapa!
+Aku tidak membutuhkanmu,
+<MYNAME>!<PAGE>Aku pulang sekarang!

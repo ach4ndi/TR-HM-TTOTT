@@ -1,0 +1,40 @@
+<FACE_POS_RIGHT><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>We are gathered here today
+to witness the marriage of
+Cam and <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Cam...<PAGE>Do you take <MYNAME>
+as your wife, to
+love forever?<PAGE><FACE_POS_LEFT><FACE_CAM><FACE_HAPPY><FP_LEFT>I do.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NATHAN><FACE_NORMAL><FP_RIGHT><MYNAME>...<PAGE>Do you take Cam
+as your husband, to
+love forever?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Then I now pronounce
+you husband and wife!<PAGE><FACE_POS_RIGHT><FACE_NATHAN><FACE_HAPPY><FP_RIGHT>May the Harvest Goddess
+smile upon your union!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_CAM><FACE_SHOCK><FP_LEFT>We'll be so happy together,
+<MYNAME>...　I promise...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_SHOCK><FP_RIGHT>Well, today we start our
+new life together...<PAGE>Since we're married, do you
+want me to call you by a
+nickname or something?<PAGE><FACE_POS_RIGHT><FACE_CAM><FACE_HAPPY><FP_RIGHT>What would you like me to
+call you, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT><MYNICKNAME>?
+Are you sure?
+----------------------------|----------------------------------
+<CHOICE_AB> Yeah!
+ Maybe something else...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_HAPPY><FP_RIGHT>All right... It's all set,
+then...<PAGE><FACE_POS_RIGHT><FACE_CAM><FACE_SHOCK><FP_RIGHT>I love you, <MYNICKNAME>...
+----------------------------|----------------------------------
+What an exciting day!
+Tomorrow, we start our
+new life together!
+----------------------------|----------------------------------
+<CHOICE_AB> Go to bed and save.
+ Go to bed without saving.

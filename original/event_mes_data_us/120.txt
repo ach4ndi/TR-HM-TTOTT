@@ -1,0 +1,593 @@
+<FACE_POS_CENTER><HIDE_NAME><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Huh, who are you?
+Your name's <MYNAME>...?<PAGE><FACE_POS_CENTER><FACE_RAHI><FACE_HAPPY><FP_RIGHT>Oh, my mom mentioned you.
+I'm <BLUE>Rahi</COLOR>.<PAGE>My mom's Ina. She's the
+mayor.<PAGE>Anyway, nice to meet you!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Yesterday's weather was
+awful. You shouldn't even
+go out on days like that.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>What's up, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>What's up, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>What's up, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_HAPPY><FP_RIGHT>Oooh, how neat!
+<PAGE><FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>It's so cute!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_ANGRY><FP_RIGHT>Wh-What's that?
+I don't like it!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>What's up, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_HAPPY><FP_RIGHT>That's a Blue Feather, huh?
+Neat!<PAGE><FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Who are you gonna give
+it to?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>For me?
+But I don't want it!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Another gift for me?
+Oh, I couldn't take
+another today.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>What's up, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>What's up, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Hey, that's not the kind of
+thing you should try to
+give away!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_HAPPY><FP_RIGHT>Wow, a <RED>Mixed Smoothie</COLOR>?
+For my birthday? Thanks!<PAGE>Yippee!
+I love these!
+I'll drink it with my mom!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_HAPPY><FP_RIGHT>Oh, for me?
+This looks so yummy!
+Yippee! Thanks!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>What's up, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>What's up, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_HAPPY><FP_RIGHT>Oh boy!
+Could this be...
+a birthday present for me?<PAGE>This is great!
+I'm so happy that you
+remembered my birthday!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_HAPPY><FP_RIGHT>Thanks a lot!
+I really like these!
+Yippee!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>How'd you know it was my
+birthday today?
+Thanks a lot!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Thanks a lot!
+This is pretty neat!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_SAD><FP_RIGHT>Uh...this is a birthday
+present? Well, I guess I'll
+take it...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_SAD><FP_RIGHT>Oh, yuck! I don't like this
+at all. Guess I've gotta
+take it, though.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_SAD><FP_RIGHT>I hate this stuff! My mom's
+always telling me to eat it.
+I'll just give it to her.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>What's up, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>What's up, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT><MYNAME>, when I'm older,
+could you teach me how
+to invite girls on dates?<PAGE>I can't think of anybody
+else I could talk to about
+stuff like that.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>You came all this way
+in this howling wind?
+Th-That's dangerous!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>It's snowing so heavily,
+I can barely see a thing
+outside!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_HAPPY><FP_RIGHT>I have lots and lots of
+respect for you, <MYNAME>.<PAGE>I know I'm gonna learn a
+lot more from you, too.
+I'm glad we're friends!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Why don't I do much fun
+stuff with my mom?<PAGE>Uh, well...
+When my dad was still alive
+we used to have more fun.<PAGE>That was a long time ago,
+so I don't remember it much.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Do you like this village?<PAGE><FACE_POS_CENTER><FACE_RAHI><FACE_HAPPY><FP_RIGHT>Oh, I can tell you do!
+That's great!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>My ancestors have always
+been mayors of the village.<PAGE>I wonder if I'll grow up to
+be a fine mayor like my mom.
+I worry about it sometimes.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>My mom's pretty strict, but
+she's actually really nice
+when you get to know her.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Lots of people come and go
+at the town hall. It's
+always so busy.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>I try to help my mom out
+as much as I can.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>What's up, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>What's up, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>What's up, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>What's up, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>What's up, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>What's up, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>What's up, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>What's up, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>What's up, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>What's up, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>What's up, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>What's up, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>What's up, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>What's up, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>What's up, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>What's up, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>What's up, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>What's up, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>What's up, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>What's up, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>What's up, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>What's up, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>What's up, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>What's up, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>What's up, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>What's up, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>What's up, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>What's up, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>What's up, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>What's up, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>What's up, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>What's up, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>What's up, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>What's up, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>What's up, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>What's up, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>So you're gonna enter that
+in the festival?
+Let's see how it goes!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>What's up, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>What's up, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Thanks a lot for
+showing me your pet.
+It's nice and gentle.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_HAPPY><FP_RIGHT>I never thought I would see
+one up close like this!
+Thanks a lot!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_SAD><FP_RIGHT>Ugh!
+Don't bring that near me!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>I see those all the time.
+Did you catch it yourself?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>What's up, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>What's up, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>What's up, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>What's up, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>What's up, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>What's up, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>What's up, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>What's up, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>What's up, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>What's up, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>What's up, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>What's up, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_HAPPY><FP_RIGHT>For me? Really?
+Thanks very much!
+I'll take good care of it!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>What's up, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>What's up, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>What's up, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>What's up, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>What's up, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>What's up, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_HAPPY><FP_RIGHT>Ooh, what could it be?
+Can I open it?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_HAPPY><FP_RIGHT><MYNAME>, you're so pretty
+and kind!<PAGE>I wonder if Ying will be
+like you when she grows up.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>What's up, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Konohana is a super village
+to live in.
+Don't you think so?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>What's up, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>What's up, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>What's up, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>I'm always teaching Ying
+stuff about the village.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>The outfit I'm wearing has
+been passed down through
+generations of my family.<PAGE>Don't you think that it's
+pretty nifty?
+I like it.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>I heard that Dirk is from
+some other country.<PAGE>He has all kinds of
+interesting stories.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>In this village, my
+ancestors have served as
+mayors for many generations.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Aw, it started raining.
+And just when I was going
+to play...<PAGE>I hope it lets up soon...
+I want to play with Ying.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>What's up, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>What's up, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>What's up, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>What's up, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>What's up, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>What's up, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_HAPPY><FP_RIGHT>We won!! Yippee!!<PAGE>I knew we could do it with
+you cheering us on, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_SAD><FP_RIGHT>We lost...
+We have to do better next
+time!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>At the next Cooking
+Festival, I hope we can
+both enter for Konohana.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>What's up, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>What's up, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_SAD><FP_RIGHT>Can't believe our village
+lost... My mom's so
+disappointed.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>What's up, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Awww... So close.
+Almost had the win...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_HAPPY><FP_RIGHT>I get so excited for this
+festival. I can't wait
+for it to start!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>You should enter the next
+time. The village needs you!
+Everyone would be excited!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>What's up, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>You'll do better next time!
+I'll be rooting for you!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>What's up, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>What's up, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>What's up, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>What's up, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>What's up, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>What's up, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>What's up, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>What's up, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>What's up, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>What's up, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>What's up, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>What's up, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>What's up, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>What's up, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>What's up, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>What's up, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>What's up, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>What's up, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>What's up, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>What's up, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>What's up, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Hey, <MYNAME>.
+Please just watch and try
+not to get in the way.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>What's up, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>What's up, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>What's up, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>What's up, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>What's up, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>What's up, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>What's up, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>What's up, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>What's up, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>What's up, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>What's up, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>What's up, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>What's up, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>What's up, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>What's up, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>What's up, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>What's up, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>What's up, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>What's up, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Good morning, <MYNAME>.<PAGE>Starting work early again
+today? That's great!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Good morning, <MYNAME>.<PAGE>My mom tells me I should
+always exercise in the
+morning, so I do my best.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_HAPPY><FP_RIGHT>Good morning, <MYNAME>.
+Do you ever have dreams?<PAGE>I often have dreams where
+I'm flying through the sky.
+I'd love to fly someday.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Oh, hi, <MYNAME>.
+What's up?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Hi, <MYNAME>!<PAGE>People say I should act more
+like a kid.
+What do they mean by that?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Hi!<PAGE>My mom told me to study
+today, so I'm off
+to study!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Hi!
+It's getting late.
+I'm feeling sleepy.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Hi, <MYNAME>!<PAGE>Grown-ups don't have to go
+to bed early! I can't wait
+to be a grown-up.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Hi!<PAGE>I should probably get to bed
+soon, or my mom will get
+mad.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>What's up, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>What's up, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>What's up, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>If you have business at the
+town hall, talk to my mom
+across the counter.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>If you have business at the
+town hall, talk to my mom
+across the counter.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>If you have business at the
+town hall, talk to my mom
+across the counter.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Are you eating here too,
+<MYNAME>?<PAGE><FACE_POS_CENTER><FACE_RAHI><FACE_HAPPY><FP_RIGHT>The food is so yummy here!
+It's almost as good as what
+my mom makes.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Are you eating here too,
+<MYNAME>?<PAGE><FACE_POS_CENTER><FACE_RAHI><FACE_HAPPY><FP_RIGHT>Ying helps out here.
+Isn't she something?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Are you eating here too,
+<MYNAME>?<PAGE><FACE_POS_CENTER><FACE_RAHI><FACE_HAPPY><FP_RIGHT>Yun's cooking is super
+yummy.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Visiting people at home and
+seeing how they live helps
+you get to know them better.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Visiting people at home and
+seeing how they live helps
+you get to know them better.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Visiting people at home and
+seeing how they live helps
+you get to know them better.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>What's up, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>What's up, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>What's up, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>What's up, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>What's up, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>What's up, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>What's up, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>What's up, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>What's up, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_HAPPY><FP_RIGHT>You won! Congratulations!
+You're the hero of the
+village!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_HAPPY><FP_RIGHT>Congratulations！
+My mom is so happy!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_HAPPY><FP_RIGHT>You're amazing, <MYNAME>.
+Congratulations!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_HAPPY><FP_RIGHT>Today was a lot of fun
+I think my mom liked it too.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_HAPPY><FP_RIGHT>I'll have great memories of
+today's festival.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Well, it's time to clean up.
+We'll all pitch in.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_HAPPY><FP_RIGHT>Congratulations, <MYNAME>.<PAGE>Judging crops and picking a
+winner is hard, but as soon
+as I saw yours, I knew.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Raising crops is hard,
+isn't it?
+Will you teach me sometime?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Your crops are amazing!
+I can see why you won!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Ying and I had a great time
+together at the festival.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Everyone had a great time
+at the festival.
+My mom looked happy.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Today was just so exciting!
+It was really super!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Hey, <MYNAME>, what you did
+today was super!
+I need to learn from you...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>I need to try even harder
+and become like you, my
+mom says.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>You've gotta teach me how
+to catch stuff like you do!
+I want to tell Ying!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>What's up, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>What's up, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>What's up, <MYNAME>?

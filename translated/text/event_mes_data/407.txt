@@ -1,0 +1,24 @@
+<FACE_POS_LEFT><FACE_YING><FACE_NORMAL><FP_LEFT>...<PAGE><FACE_POS_RIGHT><FACE_SHENG><FACE_NORMAL><FP_RIGHT>...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_YING><FACE_NORMAL><FP_LEFT>...Apa kamu seekor
+panda...?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Aku juga menyukai seekor
+panda, tapi aku bukan panda,
+nak.<PAGE><FACE_POS_LEFT><FACE_YING><FACE_NORMAL><FP_LEFT>Aku...aku punya satu
+Maksudnya... aku punya
+seekor panda...<PAGE><FACE_POS_RIGHT><FACE_SHENG><FACE_HAPPY><FP_RIGHT>Itu boneka binatang yang 
+lumayan
+imut dan lucu!<PAGE><PAGE><FACE_POS_LEFT><FACE_YING><FACE_HAPPY><FP_LEFT>Ibu aku dan ayah...
+membelikannya ini untukku...<PAGE><FACE_POS_RIGHT><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Apa mereka yang membelinya?
+oke, jaga baik-baik ya,nak.<PAGE><FACE_POS_RIGHT><FACE_SHENG><FACE_HAPPY><FP_RIGHT>Hey! mengapa tidak menga-
+jakmu untuk melihat panda
+asli di waktu mendatang?!<PAGE>Mereka lebih besar, tapi
+sama sama lucu kok!<PAGE><FACE_POS_LEFT><FACE_YING><FACE_HAPPY><FP_LEFT>Yakin? itu akan
+menyenangkan!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_SHENG><FACE_HAPPY><FP_RIGHT>Well, kita mengadakan sebuah
+kesepakatan akhirnya.<PAGE><FACE_POS_RIGHT><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Aku akan mengerjakan
+pekerjaan saat ini.
+mohon tinggalkan aku ya!<PAGE><FACE_POS_LEFT><FACE_YING><FACE_HAPPY><FP_LEFT>OK...
+Bye bye...

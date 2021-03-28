@@ -1,0 +1,58 @@
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>Kesalahan!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Jadi kamu melihat permintaan
+ku dipapan permintaan?
+Bagus! sangat bagus!<PAGE>Sekarang, apa kamu sudah
+mempunyai apa yang aku
+minta?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>Kesalahan!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>Kesalahan!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>Terima kasih banyak.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>Kesalahan!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Semuanya, <VAR_0>G.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>Kesalahan!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>Kesalahan!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>Kesalahan!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>Kesalahan!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>Kesalahan!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Baru sekarang aku menyadari
+bahwa kamu akan menggunakan
+ini juga! Aku harap aku<PAGE>dapat memberikannya kekamu
+hari ini...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>...tapi itu sebuah
+kejutan yang besar.<PAGE>Itu akan <RED>Terkirim ke
+rumahmu</COLOR> disaat kamu
+disana.
+----------------------------|----------------------------------
+<FP_NONE>Kamu mendapatkan sebuah
+<RED>radio</COLOR>!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Kamu dapat menggunakan untuk
+mendengarkan <RED>laporan ramal
+-an cuaca hari ini dan besok</COLOR>.<PAGE>Itu membuatnya sebagai alat
+penting untuk merawat
+hewan ternakmu!<PAGE>Jaga baik-baik ya!
+Jangan sampai rusak!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Terima kasih atas
+bantuanmu<PAGE>Aku harap kamu akan memban-
+tuku dipermintaanku kedepan-
+nya.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>Kesalahan!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>Kesalahan!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>Kesalahan!</COLOR>

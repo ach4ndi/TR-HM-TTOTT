@@ -1,0 +1,62 @@
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Is your work on the farm
+going smoothly?<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Today, my young friend,
+I'm going to teach you
+about <RED>irrigation trenches</COLOR>.<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Do you know about trenches?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Here we are!
+An irrigation trench!<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>When you grow crops in a
+trench, you can water and
+fertilize them all at once.<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Handy, right?
+<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL>Trenches are very easy to
+make.<PAGE>While you're tilling with
+the hoe, keep the <RED>+Control
+Pad</COLOR> pressed in a direction!<PAGE>Then press the <RED>A Button</COLOR>
+over each new square you
+step on.<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Each new square you till
+will be added to the trench.<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_SAD><FP_RIGHT>But you do have to watch out
+for one thing...<PAGE>Trenches must be in one
+unbroken line...<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>In other words, you can't
+branch trenches or connect
+them up to each other.<PAGE>If you make a mistake
+digging a trench, there's
+only one way to fix it...<PAGE>...And that's by hammering
+the ground flat and trying
+again.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>So to make a trench like
+this, you'd till in a line
+from one <RED>arrow</COLOR> to the other.<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>But...\u270aif you leave a
+tilled square untended for
+a week...<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_SAD><FP_RIGHT>...The trench will disappear
+at that spot!<PAGE>If that breaks a long trench
+in the middle, too bad!
+It can't be fixed.<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>That's why you need to be
+careful.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>That's what you need to know
+about irrigation trenches.<PAGE>Would you like me to explain
+it one more time?
+----------------------------|----------------------------------
+<CHOICE_AB> Please explain it again!
+ No thanks, I got it!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Very well!
+I'll explain one more time.<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>An irrigation trench is a
+continuous line of tilled
+squares.<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Let me show you a trench and
+explain it to you.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>In that case, please go
+ahead and grow some crops!
+----------------------------|----------------------------------
+<CHOICE_AB> No, please teach me.
+ Yes, I already know.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Very well, I'll explain!<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>An irrigation trench is a
+continuous line of tilled
+squares.<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>It's easiest to just show
+you an example.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Oh, you do?
+I'm glad to hear it!<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>In that case, please go
+ahead and grow some crops!

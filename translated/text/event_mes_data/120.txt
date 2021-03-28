@@ -1,0 +1,652 @@
+<FACE_POS_CENTER><HIDE_NAME><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Huh, siapa kamu?
+Namamu <MYNAME>...?<PAGE><FACE_POS_CENTER><FACE_RAHI><FACE_HAPPY><FP_RIGHT>Oh, ya ya, ibuku barusan
+menyebut dirimu.
+Aku <BLUE>Rahi</COLOR>.<PAGE>Ina itu ibuku. Dia seorang
+kepala desa.<PAGE>Oh ya, senang bertemu
+dengan mu!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Cuaca kemarin benar-benar
+mengerihkan.<PAGE>Kamu seharusnya tidak keluar
+disaat cuacanya buruk
+seperti itu.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Ada apa, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Ada apa, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Ada apa, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_HAPPY><FP_RIGHT>Oooh, betapa rapinya!<PAGE><FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Itu sungguh lucu!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_ANGRY><FP_RIGHT>A-Apa itu ya?
+Aku tidak menyukainya!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Ada apa, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_HAPPY><FP_RIGHT>Itu sebuah Bulu Biru, huh?
+hahahaha!<PAGE><FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Siapakah yang kamu inginkan
+memilikinya, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Untukku?
+Tapi aku tidak
+menginginkannya!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Hadiah lainnya untukku?
+Oh, aku tidak dapat
+menerimanya untuk hari ini.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Ada apa, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Ada apa, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Hee, seharusnya kamu tidak
+memberikan itu kepada
+orang lain!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_HAPPY><FP_RIGHT>Wow, sebuah <RED>Smoothie Campur</COLOR>?
+Untuk ulang tahunku? Makasih!<PAGE>Yippee!
+Aku sungguh menyukainya!<PAGE>Aku akan meminumnya bersama
+ibuku!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_HAPPY><FP_RIGHT>Oh, untukku?
+Itu tampaknya enak!
+Yippee! Makasih!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Ada apa, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Ada apa, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_HAPPY><FP_RIGHT>Oh man!
+Apakah ini...<PAGE>Sebuah hadiah ulang 
+tahun untukku?<PAGE>Tampaknya bagus ya!
+Aku sungguh senang bahwa
+kamu mengingatnya!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_HAPPY><FP_RIGHT>Terima kasih banyak!
+Aku sungguh menyukainya!
+Yippee!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Bagaimana kamu tahu bahwa
+hari ini adalah ulang tahun-
+ku? Terima kasih banyak ya!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Terima kasih banyak!
+Itu sungguh bagus ...<PAGE>kelihatannya.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_SAD><FP_RIGHT>Uh...
+ini untuk hadiah ulang
+tahunku?<PAGE>Oke, Aku pikir aku
+akan menerimanya...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_SAD><FP_RIGHT>Oh, what the hell!
+Aku sungguh tidak menyukai
+ini.<PAGE>Kurasa sebaiknya aku
+terima saja.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_SAD><FP_RIGHT>Aku sungguh membenci ini!
+Ibuku selalu memaksaku
+untuk memakannya.<PAGE>Kurasa aku akan memberikan
+ini kepada ibuku saja.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Ada apa, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Ada apa, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT><MYNAME>, disaat aku dah
+dewasa, bisakah kamu menga-
+jari aku mengenai untuk<PAGE>mengajak seorang gadis
+untuk pacaran?<PAGE>Aku tidak dapat membicara-
+kan hal ini selain dengan-
+mu.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Kamu benar-benar datang ke-
+sini disaat diluar sana
+anginnya sangat kencang?<PAGE><FACE_POS_CENTER><FACE_RAHI><FACE_HAPPY><FP_RIGHT>wow...
+Kamu itu sungguh
+aamaaazeeeng!<PAGE><FACE_POS_CENTER><FACE_RAHI><FACE_SAD><FP_RIGHT>Ah
+maksudku itu sungguh
+berbahaya bukan?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Diluar, masih lebat turun
+saljunya.<PAGE>Aku hampir tidak dapat me-
+lihat apa-apa diluar kek
+gimana keadaannya.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_HAPPY><FP_RIGHT>Aku telah sangat-sangat
+menghormatimu, <MYNAME>.<PAGE>Aku tahu aku akan bisa mem-
+perlajari sangat banyak
+darimu, juga.<PAGE>Aku sungguh senang bahwa
+kita ini telah berteman!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Kenapa aku tampak tidak
+melalukan hal senang bersa-
+ma ibuku?<PAGE>Uh, ...
+Disaat ayahku masih hidup,
+kami selalu memiliki banyak
+waktu untuk bersama-sama.<PAGE>Itu sudah sangat lama,
+Jadi aku tidak terlalu
+benar-benar mengingatnya.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Apakah kamu menyukai desa
+ini?<PAGE><FACE_POS_CENTER><FACE_RAHI><FACE_HAPPY><FP_RIGHT>Oh, aku bisa menjelaskan
+segalanya kepadamu!
+Itu sungguh bagus loh!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Leluhurku selalu menjadi
+kepala desa disini.<PAGE>Aku penasaran jika aku
+tumbuh besar menjadi kepala
+desa yang baik seperti
+ibuku.<PAGE>Aku terkadang masih cemas,
+terkadang.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Ibuku itu cukup ketat dalam
+menerapkan aturannya itu,
+tapi dia sebenarnya...<PAGE>baik jika kamu lebih dekat
+dengannya.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Banyak orang yang datang dan
+pergi dari balai desa.<PAGE>Itu menjadi hari-hari yang
+sibuk.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Aku mencoba sebisaku untuk
+membantu ibuku.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Ada apa, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Ada apa, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Ada apa, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Ada apa, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Ada apa, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Ada apa, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Ada apa, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Ada apa, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Ada apa, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Ada apa, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Ada apa, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Ada apa, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Ada apa, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Ada apa, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Ada apa, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Ada apa, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Ada apa, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Ada apa, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Ada apa, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Ada apa, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Ada apa, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Ada apa, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Ada apa, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Ada apa, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Ada apa, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Ada apa, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Ada apa, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Ada apa, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Ada apa, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Ada apa, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Ada apa, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Ada apa, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Ada apa, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Ada apa, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Ada apa, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Ada apa, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Jadi kamu akan mengikuti
+festival itu?<PAGE>Mari kita lihat nanti
+seperti apa jadinya!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Ada apa, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Ada apa, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Terima kasih banyak telah
+memperlihatkan hewan peli-
+haraanku.<PAGE>Itu sungguh lucu dan
+lemah lembut ya.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_HAPPY><FP_RIGHT>Aku tidak pernah berpikir
+bahwa aku bisa melihat se-
+dekat ini!<PAGE>Terima kasih banyak!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_SAD><FP_RIGHT>Ugh!
+Jangan bawa itu didekatku!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Oh aku pernah melihatnya.
+Apakah kamu menangkapnya
+sendiri?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Ada apa, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Ada apa, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Ada apa, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Ada apa, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Ada apa, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Ada apa, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Ada apa, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Ada apa, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Ada apa, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Ada apa, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Ada apa, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Ada apa, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_HAPPY><FP_RIGHT>Untukku? Benarkah?
+Terima kasih banyak!<PAGE>Aku akan gunakan dengan
+sebaik mungkin!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Ada apa, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Ada apa, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Ada apa, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Ada apa, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Ada apa, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Ada apa, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_HAPPY><FP_RIGHT>Ooh, apa ya isinya?
+Apakah bisa aku membukanya?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_HAPPY><FP_RIGHT><MYNAME>, kamu sungguh cantik
+dan baik!<PAGE>Aku penasaran, disaat Ying
+tumbuh besar, apakah mirip
+denganmu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Ada apa, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Konohana itu desa yang
+sangat super untuk
+ditinggali.<PAGE>Apakah kamu berpikiran hal
+yang sama?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Ada apa, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Ada apa, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Ada apa, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Aku selalu mengajari suatu
+hal mengenai desa ini
+kepada Ying.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Baju yang aku pakai ini
+adalah baju turun menurun
+dari beberapa generasi di-
+keluargaku.<PAGE>Apakah kamu pikir, baju
+ini sungguh bagus untuk
+dipakaikan?<PAGE>Aku sangat menyukai
+pakaian ini :3
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Aku dengar-dengar bahwa
+Dirk itu berasal dari
+negara lain.<PAGE>Dia memiliki sangat banyak
+cerita yang menarik.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Di desa ini, Leluhurku
+sudah mengabdikan sebagai
+kepala desa dari generasi<PAGE>ke generasi.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Aw, tampaknya mulai hujan.
+Dan disaat aku ingin me-
+mainkan sesuatu...<PAGE>Aku harap itu akan redah
+segera...<PAGE>Aku ingin bermain bersama
+Ying.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Ada apa, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Ada apa, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Ada apa, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Ada apa, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Ada apa, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Ada apa, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_HAPPY><FP_RIGHT>Kita menang!! Yippee!!<PAGE>Aku tahu bahwa kita dapat
+melakukannya disaat kamu
+menyangati kami, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_SAD><FP_RIGHT>Kita kalah...
+Kita harus lebih baik perfo-
+ma kita kedepannya!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Di festival memasak selan-
+jutnya, aku harap kita
+dapat ikut untuk Konohana.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Ada apa, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Ada apa, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_SAD><FP_RIGHT>Aku tidak mempercayahinya,
+desa kita kalah...<PAGE>Tampaknya ibuku sangat
+kecewa...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Ada apa, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Awww... itu hampir
+aja. Hampir menang...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_HAPPY><FP_RIGHT>Entah kenapa aku selalu se-
+nang disaat festival seper-
+ti ini diadakan.<PAGE>Aku tidak sabar untuk me-
+nunggu festivalnya dimulai!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Kedepannya kamu harus ikut
+ya. Warga desa membutuhkan-
+mu! Semuanya bakal senang!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Ada apa, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Kedepannya kamu harus lebih
+baik ya! Aku akan memberi
+semangat kepadamu!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Ada apa, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Ada apa, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Ada apa, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Ada apa, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Ada apa, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Ada apa, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Ada apa, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Ada apa, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Ada apa, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Ada apa, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Ada apa, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Ada apa, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Ada apa, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Ada apa, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Ada apa, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Ada apa, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Ada apa, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Ada apa, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Ada apa, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Ada apa, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Ada apa, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Hei, <MYNAME>.
+Tolong lihat saja dan tidak
+mencoba untuk menghalangi.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Ada apa, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Ada apa, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Ada apa, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Ada apa, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Ada apa, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Ada apa, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Ada apa, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Ada apa, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Ada apa, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Ada apa, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Ada apa, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Ada apa, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Ada apa, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Ada apa, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Ada apa, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Ada apa, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Ada apa, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Ada apa, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Ada apa, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Selamat pagi, <MYNAME>.<PAGE>Tampaknya memulai bekerja
+sepagi ini lagi ya?
+Itu bagus!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Selamat pagi, <MYNAME>.<PAGE>Ibuku memberitahuku, aku
+harus selalu berlatih di-
+pagi hari, jadi...<PAGE>Aku melakukannya dengan
+sebaik mungkin.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_HAPPY><FP_RIGHT>Selamat pagi, <MYNAME>.
+Apakah kamu memiliki
+sebuah mimpi?<PAGE>Aku pastinya memiliki se-
+buah mimpi dimana aku bisa
+terbang ke angkasa.<PAGE>Aku bakalan senang jika
+itu bisa menjadi kenyataan.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Oh, hi, <MYNAME>.
+Ada apa?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Hi, <MYNAME>!<PAGE>Orang-orang mengatakan
+bahwa aku harus berakting
+seperti anak kecil.<PAGE>Aku tak tahu maksud mereka
+mengatakan hal itu...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Hi!<PAGE>Ibuku mengatakan kepadaku
+untuk belajar dihari ini,
+jadi aku sekarang belajar!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Hi!
+Kelihatannya dah malam.
+Aku merasa dah mengantuk.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Hi, <MYNAME>!<PAGE>Tampaknya orang dewasa bisa
+tidur dilarut malam!<PAGE>Aku gak sabar untuk
+menjadi dewasa.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Hi!<PAGE>Tampaknya aku harus ke-
+kasur sebentar lagi, atau
+ibuku akan marah.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Ada apa, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Ada apa, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Ada apa, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Jika kamu ada urusan di
+balai desa, bicara keibuku
+tepat didepan konter ya.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Jika kamu ada urusan di
+balai desa, bicara keibuku
+tepat didepan konter ya.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Jika kamu ada urusan di
+balai desa, bicara keibuku
+tepat didepan konter ya.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Apakah kamu juga makan di-
+sini juga, <MYNAME>?<PAGE><FACE_POS_CENTER><FACE_RAHI><FACE_HAPPY><FP_RIGHT>Makanan disini sunggu lezat!
+Makanannya hampir mirip
+dengan buatan ibuku.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Apakah kamu juga makan di-
+sini juga, <MYNAME>?<PAGE><FACE_POS_CENTER><FACE_RAHI><FACE_HAPPY><FP_RIGHT>Ying selalu membantu disini.
+Apakah dia itu benar-benar?<PAGE><FACE_POS_CENTER><FACE_RAHI><FACE_HAPPY><FP_RIGHT>Uh lupakan aja.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Apakah kamu juga makan di-
+sini juga, <MYNAME>?<PAGE><FACE_POS_CENTER><FACE_RAHI><FACE_HAPPY><FP_RIGHT>Masakannya Yun itu bener-
+bener lezat.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Mengunjungi orang dirumah
+dan melihat bagaimana hidup,
+itu akan membantumu<PAGE>dalam hal membuatmu
+lebih baik.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Mengunjungi orang dirumah
+dan melihat bagaimana hidup,
+itu akan membantumu<PAGE>dalam hal membuatmu
+lebih baik.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Mengunjungi orang dirumah
+dan melihat bagaimana hidup,
+itu akan membantumu<PAGE>dalam hal membuatmu
+lebih baik.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Ada apa, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Ada apa, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Ada apa, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Ada apa, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Ada apa, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Ada apa, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Ada apa, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Ada apa, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Ada apa, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_HAPPY><FP_RIGHT>Kamu menang! Selamat!
+Kamu merupakan seorang
+pahlawan didesa!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_HAPPY><FP_LEFT>Selamat??
+Ibuku tampaknya dah amat
+senang sekali!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_HAPPY><FP_RIGHT>Kamu benar-benar hebat,
+<MYNAME>.
+Selamat!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_HAPPY><FP_RIGHT>Hari ini dah sangat menye-
+nangkan, Kupikir ibuku juga
+menyukainya juga.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_HAPPY><FP_RIGHT>Tampaknya pada festival
+hari ini akan menjadi
+sebuah kenangan yang indah.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Well, sepertinya waktunya
+untuk bersih-bersih.
+Kita semua akan masuk.<PAGE>*krek* *krek*
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_HAPPY><FP_LEFT>Selamat, <MYNAME>.<PAGE>Menilai sebuah tanaman dan
+menentukan siapa yang me-
+nang itu sebuah tugas yang<PAGE>amat susah, tapi setelah
+aku melihat milikmu itu,
+aku tak akan menghawatir-<PAGE>kannya. Karena aku tahu
+bahwa kamu akan memenang-
+kannya.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Apakah merawat tanaman itu
+susah?
+Iyakan?<PAGE>Apakah kamu akan mengajari
+aku bagaimana caranya?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Tanamanmu itu sungguh
+hebat!<PAGE>Aku tahu kenapa kamu bisa
+memenanginya!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Aku dan Ying selalu bersama
+disaat festival dimulai.
+Itu waktu-waktu yang indah.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Semua orang pasti memiliki
+waktu untuk menikmati di
+saat ada festival.<PAGE>Ibuku tampaknya senang
+jika itu sedang ada
+festival...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Hari ini sungguh menyenang-
+kan! Itu benar-benar
+super!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Hei, <MYNAME>, yang kamu
+lakukan dihari ini adalah
+super!<PAGE>Tampaknya aku harus belajar
+banyak darimu...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Aku butuh mencoba lebih
+keras dan menjadi sepertimu,
+itu kata ibuku.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Kamu akan mengajari aku
+bagaimana untuk menangkapnya
+sesuatu seperti kamu <PAGE>lakukan!
+Aku akan mengatakan itu
+kepada Ying!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Ada apa, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Ada apa, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Ada apa, <MYNAME>?

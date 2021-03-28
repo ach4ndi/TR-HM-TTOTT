@@ -1,0 +1,102 @@
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>-Kosong-
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>Oh, kamu melihat permintaanku
+dipapan pesan?<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_SAD>Tapi kamu tahukan ini sudah
+terlambat datang kesinikan?
+Mungkin lain kali saja, Ok?<PAGE>Maaf untuk memanggilmu
+kesini disaat kamu sibuk
+dengan urusanmu.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>Oh, kamu melihat permintaanku
+dipapan pesan!<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_SAD>Tapi saat ini sedang hujan,
+tanamannya tidak haus, dan
+tidak butuh disiram .<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY>Tapi kurasa, karena kamu
+sudah kesini lebih enaknya
+kuberi hadiah saja.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Oh, kamu melihat permintaanku
+dipapan pesan!
+Makasih!<PAGE>Kenapa menunggu, ayo ...!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Itu lahan kami.
+Luas bukan?<PAGE>Aku ingin kamu <RED>mengaliri</COLOR>nya
+untuk aku, tolong.<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL>Hari ini dari tahun ini te-
+rasa sangat dinginm jadi
+aku inginkan kakek aku<PAGE>libur sehari saja untuk
+beristirahat.<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY>Aku sangat senang disaat
+kamu datang untung membantu,
+walaupun kamu juga sibuk.<PAGE>Beritahu aku jika kamu
+sudah menyelesaikannya!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Itu lahan kami.
+Luas bukan?<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL>Aku ingin kamu <RED>memanen</COLOR>nya
+tanaman untukku, kumohon.<PAGE>Tanaman yang kamu panane
+akan <RED>secara otomatis ter-
+kirim ke gudang penyimpanan</COLOR>.<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL>Hari ini dari tahun ini te-
+rasa sangat dinginm jadi
+aku inginkan kakek aku<PAGE>libur sehari saja untuk
+beristirahat.<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY>Aku sangat senang disaat
+kamu datang untung membantu,
+walaupun kamu juga sibuk.<PAGE>Beritahu aku jika kamu
+sudah menyelesaikannya!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>-Kosong-
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>-Kosong-
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>-Kosong-
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>-Kosong-
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Apa kamu sudah menyelesaikan
+pekerjaannya?
+Itu bagus!<PAGE>Aku harus memberikanmu
+sebuah hadiah, ayo sini!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>Oh... Apakah kamu sudah
+menyelesaikan pekerjaannya?
+Itu bagus!<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_SAD>Tapi aku harapkan kamu
+bilangnya tadi agak sorean
+...<PAGE>Aku sudah khawatir apa
+sudah dikerjakan apa belom.<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL>Tapi aku tetap mem-
+berikan hadiah untukmu!
+Sini.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>Oh... Apakah kamu sudah
+menyelesaikan pekerjaannya?
+Itu bagus!<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_SAD>Tapi aku harapkan kamu mem-
+beritahuku secepat mungkin...<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY>Kalau tidak aku malah
+sudah tidur kamu baru
+datang! Hee-hee!<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL>Tapi aku tetap mem-
+berikan hadiah untukmu!
+Sini.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Oh... Apakah kamu sudah
+menyelesaikan pekerjaannya?
+Itu bagus!<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_SHY>Sayang saat ini lagi hujan!<PAGE>Maaf sudah merepotkanmu.<PAGE>Minimal aku berikanmu
+sebuah hadiah, untuk dibawa
+pulang.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>Aku tahu kamu melakukannya
+dengan baik! Itu sebuah ban-
+tuan yang besar!<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY>Ini hadiahmu. Ayo ambil
+dan bawa saja. Hee-hee!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>-Kosong-
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>-Kosong-
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Dan ini sedikit bonus karena 
+selesai dengan cepat.
+Itu sangat membantu!
+----------------------------|----------------------------------
+<FP_NONE>Kamu mendapatkan sebuah
+<VAR_1>!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Terima kasih banyak ya!
+Mungkin kedepannya aku
+bisa mengandalkanmu.
+----------------------------|----------------------------------
+<FP_NONE>Kamu telah menyelesaikan
+semua pekerjaan yang
+diminta!

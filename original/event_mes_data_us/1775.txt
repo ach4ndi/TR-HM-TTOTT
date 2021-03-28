@@ -1,0 +1,55 @@
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>Error!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>So you want to renovate?
+I've been waiting for this!<PAGE><FACE_POS_RIGHT><FACE_EILEEN><FACE_HAPPY>Now then, could I get the
+items I requested?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>Error!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>Error!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_EILEEN><FACE_HAPPY><FP_RIGHT>Thank you very much.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>Error!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Now the money.
+That's <VAR_0>G.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>Error!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>Error!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>Error!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>Error!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>Error!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_EILEEN><FACE_HAPPY><FP_RIGHT>Thanks for all your hard
+work! I've got it now.<PAGE><FACE_POS_RIGHT><FACE_EILEEN><FACE_NORMAL>Let's head to your farm.
+I'll do it in a jiffy!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Just wait one moment.
+It won't take long at all!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>Error!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>Error!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>I'm all done!
+It came out pretty well, if
+I do say so myself!<PAGE>I made you more beehives!
+Now you can make even
+more honey!<PAGE><FACE_POS_RIGHT><FACE_EILEEN><FACE_HAPPY>This is the <RED>final time</COLOR>
+I can add more beehives.<PAGE>I'm glad you've asked me
+to do all this work for
+you! Thanks!<PAGE>Well, the work's all done,
+so I'm going to head home.
+See you later!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>Error!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>Error!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>Error!</COLOR>

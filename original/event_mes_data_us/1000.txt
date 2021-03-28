@@ -1,0 +1,51 @@
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>Huh? What's up,
+<MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>Ah, yeah.
+My dad made that wooden
+horse.<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>Isn't it awesome?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>As a kid, I used to climb on
+that statue and pretend to
+ride. My dad would get mad.<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>My dad loves horses. He
+travels all over the world
+to find good horses.<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_SHY><FP_RIGHT>It's actually been a long
+time since I've heard from
+him...<PAGE>Knowing my dad, I'm sure
+he's doing just fine. But...
+I can't help worrying some.
+----------------------------|----------------------------------
+<CHOICE_AB> .......
+ I'm sure he's doing fine!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_SHY><FP_RIGHT>Whoa, what gives?
+Don't clam up on me.
+Now you're making me worry.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_SHY><FP_RIGHT>Uhh...If you're gonna be all
+withdrawn...
+I'm not into that.<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_SAD><FP_RIGHT>This is bumming me out.
+Sorry, you better go home.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>Yeah, you're right!
+I'm sure he's fine!<PAGE>And he'll come home with the
+best horse in the world
+someday soon.<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>Anyway, getting all worried
+about stuff isn't my style.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>You're really nice to talk
+to, <MYNAME>.<PAGE>When you smile and say he's
+fine...<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>I feel like, yeah, he must
+be fine. I'm totally
+reassured.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_SHOCK><FP_RIGHT>Um, so, like...
+What I'm trying to say is...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>I mean...
+It's like this, <MYNAME>!<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>Hayate really wants to see
+you again. So I hope you'll
+come by soon.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>Well, I'll see you later,
+<MYNAME>. And...thanks!

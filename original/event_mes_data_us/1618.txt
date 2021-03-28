@@ -1,0 +1,71 @@
+\u2137Talk about the request?
+<CHOICE_AB> Yes.
+ No.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_YUN><FACE_SAD><FP_RIGHT>My, my...
+Looks like you missed
+something.<PAGE><FACE_POS_RIGHT><FACE_YUN><FACE_NORMAL>I'm waiting, so please
+come back later, dearie.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_YUN><FACE_SAD><FP_RIGHT>Whatever's the matter?
+You've remembered an
+errand you have to do?<PAGE><FACE_POS_RIGHT><FACE_YUN><FACE_NORMAL>I'm waiting, so please
+come back later, dearie.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_YUN><FACE_NORMAL><FP_RIGHT>Now about that money...
+That's <VAR_0>G.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_YUN><FACE_NORMAL><FP_RIGHT>Bless your heart, you
+heard about my request!
+Thank you for coming
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_YUN><FACE_HAPPY><FP_RIGHT>Oh goodness, I knew you
+would do a fine job!
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_YUN><FACE_HAPPY><FP_RIGHT>Well, I'll be seeing you!
+Pass along word that it
+was a big, big help.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_YUN><FACE_NORMAL><FP_RIGHT><BLUE>
+MSG NOT APPEAR
+</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_YUN><FACE_NORMAL><FP_RIGHT>　
+\u20d0<RED>　　　　Dummy</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_YUN><FACE_NORMAL><FP_RIGHT>　
+\u20d0<RED>　　　　Dummy</COLOR>
+----------------------------|----------------------------------
+\u2137Talk about the request?
+<CHOICE_AB> Yes.
+ No.
+----------------------------|----------------------------------
+\u2137Decline reward item?
+<CHOICE_AB> Yes.
+ No.
+----------------------------|----------------------------------
+\u2137You got <VAR_0>G!
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_YUN><FACE_NORMAL><FP_RIGHT>　
+\u20d0<RED>　　　　Dummy</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_YUN><FACE_NORMAL><FP_RIGHT>　
+\u20d0<RED>　　　　Dummy</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_YUN><FACE_NORMAL><FP_RIGHT>　
+\u20d0<RED>　　　　Dummy</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_YUN><FACE_NORMAL><FP_RIGHT>　
+\u20d0<RED>　　　　Dummy</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_YUN><FACE_NORMAL><FP_RIGHT>　
+\u20d0<RED>　　　　Dummy</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_YUN><FACE_NORMAL><FP_RIGHT>　
+\u20d0<RED>　　　　Dummy</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_YUN><FACE_NORMAL><FP_RIGHT>　
+\u20d0<RED>　　　　Dummy</COLOR>

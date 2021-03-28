@@ -1,0 +1,345 @@
+<FACE_POS_LEFT><HIDE_NAME><FACE_INA><FACE_NORMAL><FP_LEFT><HIDE_FACE>Selamat pagi, <MYNAME>.
+Sepertinya aku ingin mampir
+bentar.
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>Pagi ini aku datang untuk
+memberitahukan seputar bebe-
+rapa informasi festival.
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT><RED>Festival Panen</COLOR> akan diadakan
+pada tanggal 25 pada bulan ini.<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>Dan temanya untuk bulan ini
+<RED>lobak putih</COLOR>.<PAGE>Jadi, jika kamu ingin ikut,
+kamu sebaiknya mempunyai 
+lobak yang siap pada tgl 25.<PAGE>Dan perlu diingatkan, kamu
+<RED>Tidak dapat memasukkan
+tanaman yang sudah layu</COLOR>!<PAGE>Jangan lupakan itu ya!
+titik.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT><RED>Festival Panen</COLOR> akan diadakan
+pada tanggal 25 pada bulan ini.<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>Dan temanya untuk bulan ini
+<RED>kentang</COLOR>.<PAGE>Jadi, jika kamu ingin ikut,
+kamu sebaiknya mempunyai 
+kentang yg siap pada tgl 25.<PAGE>Dan perlu diingatkan, kamu
+<RED>Tidak dapat memasukkan
+tanaman yang sudah layu</COLOR>!<PAGE>Jangan lupakan itu ya!
+titik.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT><RED>Festival Panen</COLOR> akan diadakan
+pada tanggal 25 pada bulan ini.<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>Dan temanya untuk bulan ini
+<RED>mentimun</COLOR>.<PAGE>Jadi, jika kamu ingin ikut,
+kamu sebaiknya mempunyai 
+mentimun yg siap pada tgl 25.<PAGE>Dan perlu diingatkan, kamu
+<RED>Tidak dapat memasukkan
+tanaman yang sudah layu</COLOR>!<PAGE>Jangan lupakan itu ya!
+titik.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT><RED>Festival Panen</COLOR> akan diadakan
+pada tanggal 25 pada bulan ini.<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>Dan temanya untuk bulan ini
+<RED>kubis</COLOR>.<PAGE>Jadi, jika kamu ingin ikut,
+kamu sebaiknya mempunyai 
+kubis yg siap pada tgl 25.<PAGE>Dan perlu diingatkan, kamu
+<RED>Tidak dapat memasukkan
+tanaman yang sudah layu</COLOR>!<PAGE>Jangan lupakan itu ya!
+titik.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT><RED>Festival Panen</COLOR> akan diadakan
+pada tanggal 25 pada bulan ini.<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>Dan temanya untuk bulan ini
+<RED>strawberi</COLOR>.<PAGE>Jadi, jika kamu ingin ikut,
+kamu sebaiknya mempunyai st-
+raberi yg siap pada tgl 25.<PAGE>Dan perlu diingatkan, kamu
+<RED>Tidak dapat memasukkan
+tanaman yang sudah layu</COLOR>!<PAGE>Jangan lupakan itu ya!
+titik.
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>Ah, itu benar! Aku akan 
+menjelaskan mengenai
+<RED>Festival Memasak</COLOR> kepadamu!<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>Empat kali sebulan, Konohana
+dan Bluebell akan bersaing
+untuk melihat siapakah yang<PAGE>terbaik dalam hal masak
+memasak.<PAGE>Tiap desa diwakil tiga warga
+nya, dan mereka memasak
+dengan tema yang sama.<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>Ini kesempatan bagus untuk
+menunjukkan taji Konohana
+kepada Bluebell!<PAGE>Jika kamu memiliki waktu
+luang, aku akan senang
+memasukkanmu kedalam tim<PAGE>Konohana diwaktu yang akan
+mendatang.<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>Tema untuk Festival 
+Memasak yang akan mendatang
+adalah <RED>salad</COLOR>.<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>Untuk mendapatkan nilai
+yang tinggi, kamu harus meng-<PAGE>gunakan <RED>bahan berkualitas
+tinggi</COLOR>!<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>Tapi ingatlah, <RED>kamu tidak
+bisa memakai makanan busuk</COLOR>!
+Jangan lupakan itu!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT><RED>Festival Memasak</COLOR> akan 
+diadakan pada tanggal 29 di-
+bulan ini.<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>Tema untuk festival yang 
+akan datang, yaitu
+<RED>makanan utama</COLOR>.<PAGE>Jika kamu ingin ikut kedalam
+tim Konohana, jangan lupakan
+untuk mempersiapkannya.<PAGE>Tapi ingatlah, <RED>kamu tidak
+bisa memakai makanan busuk</COLOR>!
+Jangan dilupakan!
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>Festival memasak ini sebuah
+kompetesi yang benar-benar
+penting buat warga Konohana.<PAGE>Jika kamu ingin ikutan,biar-
+kan aku memberikanmu bebe-
+rapa saran.<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>Untuk mendapatkan nilai ter-
+tinggi <RED>gunakan banyak bahan
+dengan kualitas tinggi!<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>Apakah kamu mengerti? Kita
+akan mengandalkanmu, jadi
+lakukan dengan terbaik!
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>Itu semuanya yang aku ingin
+katakan. Apakah kamu mende-
+ngarkan semuanya?<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>Jika kamu lupa, bisa melihat
+di <RED>kalendar</COLOR>.<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>Well, aku akan pergi ya.
+Sampai jumpa lagi.
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+<FACE_POS_LEFT><HIDE_NAME><FACE_RAHI><FACE_NORMAL><FP_LEFT><HIDE_FACE><MYNAME>,
+apa bisa minta waktumu
+sebentar?
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Barusan ibuku memberitahumu
+sesuatukan, tapi...<PAGE><RED>Festival Memasak</COLOR> ini
+sebuah acara yang sangat
+penting untuk Konohana dan<PAGE>Bluebell.
+Tentu saja, tujuan aslinya<PAGE>untuk adu skill memsak
+warga desa, tapi...<PAGE>Sebenarnya, kita inginkan
+kumpul bersama-sama didalam
+festival memasak.
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Dikarenakan kamu masih baru
+didesa ini, <MYNAME>, 
+Jika kamu ikut lombanya...<PAGE><FACE_POS_RIGHT><FACE_RAHI><FACE_HAPPY><FP_RIGHT>...mungkin merubah sesuatu.
+Karena itu aku bertanya
+kepadamu hari ini,...<PAGE><FACE_POS_RIGHT><FACE_RAHI><FACE_SAD><FP_RIGHT><MYNAME>, apa bisa
+kamu bekerja sama?
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RAHI><FACE_HAPPY><FP_RIGHT>Terima kasih banyak...!\u270a\u270a
+Aku percaya kepadamu!<PAGE><FACE_POS_RIGHT><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Oke kalau gitu, <MYNAME>,
+Kami akan mengandalkanmu!
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RAHI><FACE_NORMAL><FP_RIGHT>... maaf ya, atas mendadak
+masuk kerumahmu.<PAGE>Aku anaknya kepala desa
+Konohana, Ina. Nama aku
+<BLUE>Rahi</COLOR>.
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Mungkin kamu sudah tahu,tapi
+ibu aku dan Rutger benar-
+benar tidak akur<PAGE>Aku dengar masalah ini su-
+dah lama, lama bener.<PAGE>Tidak berarti aku setuju
+sepenuhnya dengan pendapat
+mama. Kalau dipikir-pikir<PAGE>Rutger itu orangnya baik
+kok.<PAGE><FACE_POS_RIGHT><FACE_RAHI><FACE_SAD><FP_RIGHT>Atau aku tidak mengerti
+permasalahannya, karena
+aku masih anak-anak,<PAGE>tapi, ...
+Tapi kulihat warga desa
+biasa-biasa saja.
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy

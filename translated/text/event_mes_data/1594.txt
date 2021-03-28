@@ -1,0 +1,69 @@
+<FP_NONE>Tanya tentang permintaan?
+<CHOICE_AB> Ya.
+ Tidak.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_SHY><FP_RIGHT>Huh? 
+Sepertinya kamu belum
+mempunyai semuanya.<PAGE>Apa kamu bisa kembali disaat
+mempunyai yang diminta?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_SHY><FP_RIGHT>Ada apa?
+Apa kamu mengingat sesuatu
+yang penting dilakukan?<PAGE><FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL>Aku akan menunggunya, jadi
+nanti datang kembalikan?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL><FP_RIGHT>Sekarang uangnya.
+Hanya <VAR_0>G.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL><FP_RIGHT>Aku dengar kamu akan
+Datang! Makasih! 
+Aku telah menunggunya.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL><FP_RIGHT>Aku tahu bahwa kamu dapat
+melakukannya!
+Terima kasih banyak!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>Aku akan melihatmu nanti!
+Terima kasih atas semua
+bantuanmu!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>Terima kasih telah membantu
+ku! Kamu merupakan bantuan
+terbesarku!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL><FP_RIGHT>　
+\u20d0<RED>　　　　Dummy</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL><FP_RIGHT>　
+\u20d0<RED>　　　Dummy</COLOR>
+----------------------------|----------------------------------
+<FP_NONE>Tanya tentang permintaan?
+<CHOICE_AB> Ya.
+ Tidak.
+----------------------------|----------------------------------
+<FP_NONE>Menolak hadiahnya?
+<CHOICE_AB> Ya.
+ Tidak.
+----------------------------|----------------------------------
+<FP_NONE>Kamu mendapatkan <VAR_0>G!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL><FP_RIGHT>　
+\u20d0<RED>　　　 Dummy</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL><FP_RIGHT>　
+\u20d0<RED>　　　 Dummy</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL><FP_RIGHT>　
+\u20d0<RED>　　　 Dummy</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL><FP_RIGHT>　
+\u20d0<RED>　　　 Dummy</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL><FP_RIGHT>　
+\u20d0<RED>　　　 Dummy</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL><FP_RIGHT>　
+\u20d0<RED>　　　 Dummy</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL><FP_RIGHT>　
+\u20d0<RED>　　　 Dummy</COLOR>

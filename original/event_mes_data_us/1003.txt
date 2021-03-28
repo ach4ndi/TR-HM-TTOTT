@@ -1,0 +1,42 @@
+<FACE_POS_RIGHT><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>And now let us begin...<PAGE>We are here today to witness
+the marriage of Kana and
+<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Kana...<PAGE>Do you take <MYNAME> to be
+your wife, to love and
+cherish her all your life?<PAGE><FACE_POS_LEFT><FACE_KANA><FACE_HAPPY><FP_LEFT>You bet I do!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NATHAN><FACE_NORMAL><FP_RIGHT><MYNAME>...<PAGE>Do you take Kana to be
+your husband, to love and
+cherish him all your life?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>In that case, I now
+pronounce you husband and
+wife!<PAGE><FACE_POS_RIGHT><FACE_NATHAN><FACE_HAPPY><FP_RIGHT>May the Harvest Goddess
+bless this happy couple!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_KANA><FACE_SHOCK><FP_LEFT><MYNAME>,
+I am totally going to make
+you happy, alright?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_SHOCK><FP_RIGHT>Today you and me get started
+on a new life together!<PAGE>That's heavy! So should we
+have special names for
+each other, being married?<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>What should I call you now?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT><MYNICKNAME>.
+That's what you want me to
+call you?
+----------------------------|----------------------------------
+<CHOICE_AB> Yes, Kana.
+ I changed my mind.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>Works for me!<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_SHOCK><FP_RIGHT>Our life is gonna be
+AWESOME, <MYNICKNAME>!!
+----------------------------|----------------------------------
+Our new life has started!
+We'll relax today and
+get back to work tomorrow!
+----------------------------|----------------------------------
+<CHOICE_AB> Save and go to bed.
+ Go to bed without saving.

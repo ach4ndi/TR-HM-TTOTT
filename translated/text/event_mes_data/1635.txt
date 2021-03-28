@@ -1,0 +1,867 @@
+<FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL><FP_RIGHT>Jadi kamu melihatnya di
+papan pesan?
+Terima kasih!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>Jadi kamu melihatnya di
+papan pesan?
+Terima kasih!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL><FP_RIGHT>Kamu! ya kamu!
+Aku sudah menunggu!
+Terima kasih banyak!<PAGE><FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY>Kamu tahukan gimana Cheryl
+mendapatkan apa yang dia
+inginkan! Aku berusaha<PAGE>memenuhi keinginan untuk
+dia, seorang adik
+yang manis!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL><FP_RIGHT>Oh, apa kamu kesini untuk
+apa yang permintaan yang
+aku pasang?<PAGE>Terima kasih!
+Aku pikir kamu akan
+melakukannya!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL><FP_RIGHT>Jadi kamu melihat dipapan
+pesan, maka...?
+Terima kasih banyak!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_NORMAL><FP_RIGHT>Kamu pastinya telah melihat
+nya dipapan pesan, maka.
+Terima kasih banyak!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_NORMAL><FP_RIGHT>Kamu pastinya telah melihat
+nya dipapan pesan, maka.
+Terima kasih banyak!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_NORMAL><FP_RIGHT>Oh!
+Aku sudah menungguinya!
+Terima kasih banyak!<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_HAPPY>Terima kasih banyak!
+Sekarang dia tidak akan
+memarahiku!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_NORMAL><FP_RIGHT>Kamu pastinya telah melihat
+nya dipapan pesan, maka.
+Terima kasih banyak!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_NORMAL><FP_RIGHT>Kamu pastinya telah melihat
+nya dipapan pesan, maka.
+Terima kasih banyak!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT>Kamu melihatnya di
+papan pesan?
+Makasih...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT>Kamu melihatnya di
+papan pesan?
+Makasih...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT>Kamu melihatnya di
+papan pesan?
+Makasih...<PAGE><FACE_POS_RIGHT><FACE_CAM><FACE_SHY>Sebagai tukang bunga, aku
+sangat malu untuk bertanya
+untuk sesuatu seperti ini...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT>Kamu melihatnya di
+papan pesan?
+Makasih...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT>Kamu pastinya telah melihat
+nya dipapan pesan, maka.
+Terima kasih.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>Oh, Jadi kamu melihatnya di
+papan pesan?<PAGE>Maaf untuk menanyakan
+sebuah permintaan aneh..
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>Oh, Jadi kamu melihatnya di
+papan pesan?
+Bagus! Terima kasih!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>Oh, Jadi kamu melihatnya di
+papan pesan?
+Bagus! Terima kasih!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>Oh, Jadi kamu melihatnya di
+papan pesan?<PAGE>Maaf untuk menanyakan
+sebuah permintaan aneh..
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>Kamu pastinya telah melihat
+nya dipapan pesan, maka.
+Terima kasih banyak!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>Kurasa...
+Jadi kamu akan untuk memenu-
+hi permintaanku, maka...?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>Kurasa...
+Jadi kamu akan untuk memenu-
+hi permintaanku, maka...?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>Kurasa...
+Jadi kamu akan untuk memenu-
+hi permintaanku, maka...?<PAGE><FACE_POS_RIGHT><FACE_MIKHAIL><FACE_HAPPY>Aku tahu dia akan senang!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>Kurasa...
+Jadi kamu akan untuk memenu-
+hi permintaanku, maka...?<PAGE><FACE_POS_RIGHT><FACE_MIKHAIL><FACE_HAPPY>Aku tahu mereka akan
+senang!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>Kamu pastinya telah melihat
+nya dipapan pesan, maka.
+Terima kasih banyak!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_NORMAL><FP_RIGHT>Kamu pastinya telah meli-
+hatnya dipapan pesan!
+Terima kasih!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_NORMAL><FP_RIGHT>Kamu pastinya telah meli-
+hatnya dipapan pesan!
+Terima kasih!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_NORMAL><FP_RIGHT>Kamu pastinya telah meli-
+hatnya dipapan pesan!
+Terima kasih!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_NORMAL><FP_RIGHT>Kamu pastinya telah meli-
+hatnya dipapan pesan!
+Terima kasih!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_NORMAL><FP_RIGHT>Kamu pastinya telah melihat
+nya dipapan pesan, maka.
+Terima kasih banyak!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_HAPPY><FP_RIGHT>Aku pikir kamu pastinya
+melihatnya dipapan pesan!
+Terima kasih!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_HAPPY><FP_RIGHT>Aku pikir kamu pastinya
+melihatnya dipapan pesan!
+Terima kasih!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_HAPPY><FP_RIGHT>Aku pikir kamu pastinya
+melihatnya dipapan pesan!
+Terima kasih!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_HAPPY><FP_RIGHT>Aku pikir kamu pastinya
+melihatnya dipapan pesan!
+Terima kasih!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>Kamu pastinya telah melihat
+nya dipapan pesan, maka.
+Terima kasih banyak!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>Jadi kamu melihatnya di
+papan pesan?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>Jadi kamu melihatnya di
+papan pesan?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>Jadi kamu melihatnya di
+papan pesan?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>Jadi kamu melihatnya di
+papan pesan?<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_SHY>Aku tahu ini agak menyedih
+kan! Tapi aku ingin memper-
+baikinya!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>Kamu pastinya telah melihat
+nya dipapan pesan, maka.
+Terima kasih banyak!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Kamu pastinya telah melihat
+papan pesannya, lalu?
+Terima kasih!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Kamu pastinya telah melihat
+papan pesannya, lalu?
+Terima kasih!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Kamu pastinya telah melihat
+papan pesannya, lalu?
+Terima kasih!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Kamu pastinya telah melihat
+papan pesannya, lalu?
+Terima kasih!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>Sebuah pesanan untukku?
+Terima kasih.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>Ah, akhirnya kamu melihat
+permintaan aku!
+Terima kasih! <PAGE>Aku sudah menunggunya
+berabad-abad lamanya!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>Ah, akhirnya kamu melihat
+permintaan aku!
+Terima kasih! <PAGE>Aku sudah menunggunya
+berabad-abad lamanya!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>Ah, akhirnya kamu melihat
+permintaan aku!
+Terima kasih! <PAGE>Aku sudah menunggunya
+berabad-abad lamanya!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>Ah, akhirnya kamu melihat
+permintaan aku!
+Terima kasih! <PAGE>Aku sudah menunggunya
+berabad-abad lamanya!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>Kamu pastinya telah melihat
+nya dipapan pesan, maka.
+Terima kasih banyak!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Ah, jadi kamu telah me-
+ngecek papan pesan...
+Terima kasih!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Ah, jadi kamu telah me-
+ngecek papan pesan...
+Terima kasih!<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_ANGRY>Sekarang ingat!, jangan beri-
+tahukan permintaan ini ke
+siapa-siapa!<PAGE>Ini adalah
+rahasia kita berdua,
+<MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Pastinya kamu sudah meli-
+hatnya dipapan pesan...
+Terima kasih!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Pastinya kamu sudah meli-
+hatnya dipapan pesan...
+Terima kasih!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Kamu pastinya telah melihat
+nya dipapan pesan, maka.
+Terima kasih banyak!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ROSE><FACE_NORMAL><FP_RIGHT>Kamu pastinya telah melihat
+nya dipapan pesan, maka.
+Terima kasih, sayang.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ROSE><FACE_NORMAL><FP_RIGHT>Kamu pastinya telah melihat
+nya dipapan pesan, maka.
+Terima kasih, sayang.<PAGE><FACE_POS_RIGHT><FACE_ROSE><FACE_ANGRY>Sekarang mari kita rahasia-
+kan permintaan ini hanya
+kita berdua, sayang.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ROSE><FACE_NORMAL><FP_RIGHT><BLUE>★★★★★★★★★★★★★★
+MSG Won't Appear
+★★★★★★★★★★★★★★</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ROSE><FACE_NORMAL><FP_RIGHT><BLUE>★★★★★★★★★★★★★★
+MSG Won't Appear
+★★★★★★★★★★★★★★</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ROSE><FACE_NORMAL><FP_RIGHT>Kamu pastinya telah melihat
+nya dipapan pesan, maka.
+Terima kasih banyak!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Jadi kamu melihat dipapan
+pesan?<PAGE>Maka ini merupakan
+bantuang yang besar
+buatku.
+Terima kasih!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL>Jadi kamu melihat dipapan
+pesan?<PAGE>Maka ini merupakan
+bantuang yang besar
+buatku.
+Terima kasih!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Jadi kamu melihat dipapan
+pesan?<PAGE>Maka ini merupakan
+bantuang yang besar
+buatku.
+Terima kasih!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Jadi kamu melihat dipapan
+pesan?<PAGE>Maka ini merupakan
+bantuang yang besar
+buatku.
+Terima kasih!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Kamu pastinya telah melihat
+nya dipapan pesan, maka.
+Terima kasih banyak!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Jadi kamu melihat permintaan
+ku? Akhirnya! Aku telah 
+menunggu terlalu lama.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Jadi kamu melihat permintaan
+ku? Akhirnya! Aku telah 
+menunggu terlalu lama.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Jadi kamu melihat permintaan
+ku? Akhirnya! Aku telah 
+menunggu terlalu lama.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CHERYL><FACE_ANGRY><FP_RIGHT>Akhirnya!
+Kenapa terlalu lama?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Kamu pastinya telah melihat
+nya dipapan pesan, maka.
+Terima kasih banyak!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Jadi kamu melihat permin-
+taanku dipapan pesan?
+Terima kasih banyak!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Jadi kamu melihat permin-
+taanku dipapan pesan?
+Terima kasih banyak!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Jadi kamu melihat permin-
+taanku dipapan pesan?
+Terima kasih banyak!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Jadi kamu melihat permin-
+taanku dipapan pesan?
+Terima kasih banyak!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Kamu pastinya telah melihat
+nya dipapan pesan, maka.
+Terima kasih banyak!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HOWARD><FACE_HAPPY><FP_RIGHT>Oh! Jadi kamu melihat pesan
+yang kupasang dipapan?
+Terima kasih buanyaaak!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HOWARD><FACE_HAPPY><FP_RIGHT>Oh! Jadi kamu melihat pesan
+yang kupasang dipapan?
+Terima kasih buanyaaak!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HOWARD><FACE_HAPPY><FP_RIGHT>Oh! Jadi kamu melihat pesan
+yang kupasang dipapan?
+Terima kasih buanyaaak!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HOWARD><FACE_HAPPY><FP_RIGHT>Oh! Jadi kamu melihat pesan
+yang kupasang dipapan?
+Terima kasih buanyaaak!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HOWARD><FACE_NORMAL><FP_RIGHT>Kamu pastinya telah melihat
+nya dipapan pesan, maka.
+Terima kasih banyak!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GRADY><FACE_HAPPY><FP_RIGHT>Ah, jadi kamu melihat per-
+mintaanku dipapan ya?
+Bagus! Terima kasih!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GRADY><FACE_HAPPY><FP_RIGHT>Ah, jadi kamu melihat per-
+mintaanku dipapan ya?
+Bagus! Terima kasih!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GRADY><FACE_HAPPY><FP_RIGHT>Ah, jadi kamu melihat per-
+mintaanku dipapan ya?
+Bagus! Terima kasih!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GRADY><FACE_HAPPY><FP_RIGHT>Ah, jadi kamu melihat per-
+mintaanku dipapan ya?
+Bagus! Terima kasih!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Kamu pastinya telah melihat
+nya dipapan pesan, maka.
+Terima kasih banyak!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NATHAN><FACE_HAPPY><FP_RIGHT>Ah, Jadi kamu melihatnya di
+papan pesan?<PAGE>Terima kasih atas kebaikanmu
+dan kedermawanmu.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NATHAN><FACE_HAPPY><FP_RIGHT>Ah, Jadi kamu melihatnya di
+papan pesan?<PAGE>Terima kasih atas kebaikanmu
+dan kedermawanmu.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NATHAN><FACE_HAPPY><FP_RIGHT>Ah, Jadi kamu melihatnya di
+papan pesan?<PAGE>Terima kasih atas kebaikanmu
+dan kedermawanmu.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NATHAN><FACE_HAPPY><FP_RIGHT>Ah, Jadi kamu melihatnya di
+papan pesan?<PAGE>Terima kasih atas kebaikanmu
+dan kedermawanmu.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Kamu pastinya telah melihat
+nya dipapan pesan, maka.
+Terima kasih banyak!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Kamu melihat permintaanku
+dipapan pesan?<PAGE>Oh,
+Terima kasih banyak!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Kamu melihat permintaanku
+dipapan pesan?<PAGE>Oh,
+Terima kasih banyak!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Kamu melihat permintaanku
+dipapan pesan?<PAGE>Oh,
+Terima kasih banyak!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Kamu melihat permintaanku
+dipapan pesan?<PAGE>Oh,
+Terima kasih banyak!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>Kamu pastinya telah melihat
+nya dipapan pesan, maka.
+Terima kasih banyak!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>Kamu melihatnya dipapan
+pesan? Maka, terima kasih.
+Ini membantu banget.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>Kamu melihatnya dipapan
+pesan? Maka, terima kasih.
+Ini membantu banget.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT><BLUE>★★★★★★★★★★★★★★
+Message Won't Appear
+★★★★★★★★★★★★★★</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT><BLUE>★★★★★★★★★★★★★★
+Message Won't Appear
+★★★★★★★★★★★★★★</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>Kamu pastinya telah melihat
+nya dipapan pesan, maka.
+Terima kasih banyak!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Jadi kamu melihatnya di
+papan pesan?
+Terima kasih banyak!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Jadi kamu melihatnya di
+papan pesan?
+Terima kasih banyak!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Jadi kamu melihatnya di
+papan pesan?
+Terima kasih banyak!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Jadi kamu melihatnya di
+papan pesan?
+Terima kasih banyak!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Kamu pastinya telah melihat
+nya dipapan pesan, maka.
+Terima kasih banyak!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_HAPPY><FP_RIGHT>Ah-ha!
+Jadi kamu telah melihatnya
+dipapan pesan!<PAGE>Terima kasih!
+Aku tahu, aku dapat
+mengandalkanmu, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_HAPPY><FP_RIGHT>Ah-ha!
+Jadi kamu telah melihatnya
+dipapan pesan!<PAGE>Terima kasih!
+Aku tahu, aku dapat
+mengandalkanmu, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_HAPPY><FP_RIGHT>Ah-ha!
+Jadi kamu telah melihatnya
+dipapan pesan!<PAGE>Terima kasih!
+Aku tahu, aku dapat
+mengandalkanmu, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_HAPPY><FP_RIGHT>Ah-ha!
+Jadi kamu telah melihatnya
+dipapan pesan!<PAGE>Terima kasih!
+Aku tahu, aku dapat
+mengandalkanmu, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Kamu pastinya telah melihat
+nya dipapan pesan, maka.
+Terima kasih banyak!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Jadi kamu melihatnya di
+papan pesan? Bagus!
+Terima kasih!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Jadi kamu melihatnya di
+papan pesan? Bagus!
+Terima kasih!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Jadi kamu melihatnya di
+papan pesan? Bagus!
+Terima kasih!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Jadi kamu melihatnya di
+papan pesan? Bagus!
+Terima kasih!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Kamu pastinya telah melihat
+nya dipapan pesan, maka.
+Terima kasih banyak!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Kamu telah melihatnya di
+papan pesan, ya?
+Heh, Terima kasih.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Kamu telah melihatnya di
+papan pesan, ya?
+Heh, Terima kasih.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Kamu telah melihatnya di
+papan pesan, ya?
+Heh, Terima kasih.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Kamu telah melihatnya di
+papan pesan, ya?
+Heh, Terima kasih.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Kamu pastinya telah melihat
+nya dipapan pesan, maka.
+Terima kasih banyak!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_YUN><FACE_HAPPY><FP_RIGHT>Oooh, kamu melihatnya di
+papan pesan...?
+Terima kasih banyak!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_YUN><FACE_HAPPY><FP_RIGHT>Oooh, kamu melihatnya di
+papan pesan...?
+Terima kasih banyak!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_YUN><FACE_HAPPY><FP_RIGHT>Oooh, kamu melihatnya di
+papan pesan...?
+Terima kasih banyak!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_YUN><FACE_HAPPY><FP_RIGHT>Oooh, kamu melihatnya di
+papan pesan...?
+Terima kasih banyak!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_YUN><FACE_NORMAL><FP_RIGHT>Kamu pastinya telah melihat
+nya dipapan pesan, maka.
+Terima kasih banyak!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_YING><FACE_HAPPY><FP_RIGHT>Jadi... kamu melihatnya di
+papan pesan...? Terima kasih
+banyak ya.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_YING><FACE_HAPPY><FP_RIGHT>Jadi... kamu melihatnya di
+papan pesan...? Terima kasih
+banyak ya.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_YING><FACE_HAPPY><FP_RIGHT>Jadi... kamu melihatnya di
+papan pesan...? Terima kasih
+banyak ya.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_YING><FACE_HAPPY><FP_RIGHT>Jadi... kamu melihatnya di
+papan pesan...? Terima kasih
+banyak ya.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_YING><FACE_NORMAL><FP_RIGHT>Kamu pastinya telah melihat
+nya dipapan pesan, maka.
+Terima kasih banyak!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_NORMAL><FP_RIGHT>Oh, permintaanku di papan
+permintaan, benarkan?<PAGE>Aku senang jika kamu memu-
+tuskan menerimanya!
+Terima kasih!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_NORMAL><FP_RIGHT>Oh, permintaanku di papan
+permintaan, benarkan?<PAGE>Aku senang jika kamu memu-
+tuskan menerimanya!
+Terima kasih!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_NORMAL><FP_RIGHT>Oh, permintaanku di papan
+permintaan, benarkan?<PAGE>Aku senang jika kamu memu-
+tuskan menerimanya!
+Terima kasih!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_NORMAL><FP_RIGHT>Oh, permintaanku di papan
+permintaan, benarkan?<PAGE>Aku senang jika kamu memu-
+tuskan menerimanya!
+Terima kasih!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_NORMAL><FP_RIGHT>Kamu pastinya telah melihat
+nya dipapan pesan, maka.
+Terima kasih banyak!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ah, <MYNAME>...
+Ternyata kamu disini.
+Seperti aku perkirakan...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ah, <MYNAME>...
+Ternyata kamu disini.
+Seperti aku perkirakan...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ah, <MYNAME>...
+Ternyata kamu disini.
+Seperti aku perkirakan...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ah, <MYNAME>...
+Ternyata kamu disini.
+Seperti aku perkirakan...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Kamu pastinya telah melihat
+nya dipapan pesan, maka.
+Terima kasih banyak!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Oh! Aku telah menunggumu!
+Ah ha ha!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Oh! Aku telah menunggumu!
+Ah ha ha!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Oh! Aku telah menunggumu!
+Ah ha ha!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Oh! Aku telah menunggumu!
+Ah ha ha!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Kamu pastinya telah melihat
+nya dipapan pesan, maka.
+Terima kasih banyak!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RAUL><FACE_HAPPY><FP_RIGHT>Oh! Aku telah menunggumu!
+Ah ha ha!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RAUL><FACE_HAPPY><FP_RIGHT>Oh! Aku telah menunggumu!
+Ah ha ha!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RAUL><FACE_HAPPY><FP_RIGHT>Oh! Aku telah menunggumu!
+Ah ha ha!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RAUL><FACE_HAPPY><FP_RIGHT>Oh! Aku telah menunggumu!
+Ah ha ha!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Kamu pastinya telah melihat
+nya dipapan pesan, maka.
+Terima kasih banyak!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ENRIQUE><FACE_HAPPY><FP_RIGHT>Oh! Aku telah menunggumu!
+Ah ha ha!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ENRIQUE><FACE_HAPPY><FP_RIGHT>Oh! Aku telah menunggumu!
+Ah ha ha!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ENRIQUE><FACE_HAPPY><FP_RIGHT>Oh! Aku telah menunggumu!
+Ah ha ha!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ENRIQUE><FACE_HAPPY><FP_RIGHT>Oh! Aku telah menunggumu!
+Ah ha ha!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>Kamu pastinya telah melihat
+nya dipapan pesan, maka.
+Terima kasih banyak!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_NORMAL><FP_RIGHT>Kamu pastinya telah melihat
+nya dipapan pesan, maka.
+Terima kasih banyak!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_NORMAL><FP_RIGHT>Kamu pastinya telah melihat
+nya dipapan pesan, maka.
+Terima kasih banyak!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_NORMAL><FP_RIGHT>Kamu pastinya telah melihat
+nya dipapan pesan, maka.
+Terima kasih banyak!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_NORMAL><FP_RIGHT>Kamu pastinya telah melihat
+nya dipapan pesan, maka.
+Terima kasih banyak!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_NORMAL><FP_RIGHT>Kamu pastinya telah melihat
+nya dipapan pesan, maka.
+Terima kasih banyak!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>Oh...<PAGE>Itu benar, aku yang memasa-
+ng sesuatu dipapan pesan...<PAGE>Jadi kamu menerima permin-
+taan aku, <MYNAME>?
+Terima kasih!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>Oh...<PAGE>Itu benar, aku yang memasa-
+ng sesuatu dipapan pesan...<PAGE>Jadi kamu menerima permin-
+taan aku, <MYNAME>?
+Terima kasih!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>Oh...<PAGE>Itu benar, aku yang memasa-
+ng sesuatu dipapan pesan...<PAGE>Jadi kamu menerima permin-
+taan aku, <MYNAME>?
+Terima kasih!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>Jadi kamu melihat permintaan
+ku di papan pesan...?
+Terima kasih!<PAGE>Ini telah ketubuhan mendadak
+Jadi aku tidak tahu apa
+yang akan aku lakukan!<PAGE>Aku sangat lega disaat, me-
+nemukan seseorang yang dapat
+membantu masalah ini...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>Kamu pastinya telah melihat
+nya dipapan pesan, maka.
+Terima kasih banyak!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KID><FACE_NORMAL><FP_RIGHT>Kamu pastinya telah melihat
+nya dipapan pesan, maka.
+Terima kasih banyak!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KID><FACE_NORMAL><FP_RIGHT>Kamu pastinya telah melihat
+nya dipapan pesan, maka.
+Terima kasih banyak!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KID><FACE_NORMAL><FP_RIGHT>Kamu pastinya telah melihat
+nya dipapan pesan, maka.
+Terima kasih banyak!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KID><FACE_NORMAL><FP_RIGHT>Kamu pastinya telah melihat
+nya dipapan pesan, maka.
+Terima kasih banyak!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KID><FACE_NORMAL><FP_RIGHT>Kamu pastinya telah melihat
+nya dipapan pesan, maka.
+Terima kasih banyak!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HERO><FACE_NORMAL><FP_RIGHT>Kamu pastinya telah melihat
+nya dipapan pesan, maka.
+Terima kasih banyak!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HERO><FACE_NORMAL><FP_RIGHT>Kamu pastinya telah melihat
+nya dipapan pesan, maka.
+Terima kasih banyak!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HERO><FACE_NORMAL><FP_RIGHT>Kamu pastinya telah melihat
+nya dipapan pesan, maka.
+Terima kasih banyak!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HERO><FACE_NORMAL><FP_RIGHT>Kamu pastinya telah melihat
+nya dipapan pesan, maka.
+Terima kasih banyak!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HERO><FACE_NORMAL><FP_RIGHT>Kamu pastinya telah melihat
+nya dipapan pesan, maka.
+Terima kasih banyak!
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fc8<FP_RIGHT>Kamu pastinya telah melihat
+papan pesannya, lalu?
+Terima kasih.
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fc8<FP_RIGHT>Kamu pastinya telah melihat
+papan pesannya, lalu?
+Terima kasih.
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fc8<FP_RIGHT>Kamu pastinya telah melihat
+papan pesannya, lalu?
+Terima kasih.
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fc8<FP_RIGHT>Kamu pastinya telah melihat
+papan pesannya, lalu?
+Terima kasih.
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fc8<FP_RIGHT>Kamu pastinya telah melihat
+nya dipapan pesan, maka.
+Terima kasih banyak!
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fc9<FP_RIGHT>Ooh!
+Jadi kamu akan mengabulkan
+permintaanku, lalu?<PAGE>Haha! Terima kasih! Kamu
+menggemaskan deh!<RED>❤</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fc9<FP_RIGHT>Ooh!
+Jadi kamu akan mengabulkan
+permintaanku, lalu?<PAGE>Haha! Terima kasih! Kamu
+menggemaskan deh!<RED>❤</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fc9<FP_RIGHT>Ooh!
+Jadi kamu akan mengabulkan
+permintaanku, lalu?<PAGE>Haha! Terima kasih! Kamu
+menggemaskan deh!<RED>❤</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fc9<FP_RIGHT>Ooh!
+Jadi kamu akan mengabulkan
+permintaanku, lalu?<PAGE>Haha! Terima kasih! Kamu
+menggemaskan deh!<RED>❤</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fc9<FP_RIGHT>Kamu pastinya telah melihat
+nya dipapan pesan, maka.
+Terima kasih banyak!
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fca<FP_RIGHT>Kamu pastinya telah melihat
+papan pesannya, lalu?
+Terima kasih!
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fca<FP_RIGHT>Kamu pastinya telah melihat
+papan pesannya, lalu?
+Terima kasih!
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fca<FP_RIGHT>Kamu pastinya telah melihat
+papan pesannya, lalu?
+Terima kasih!
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fca<FP_RIGHT>Kamu pastinya telah melihat
+papan pesannya, lalu?
+Terima kasih!
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fca<FP_RIGHT>Kamu pastinya telah melihat
+nya dipapan pesan, maka.
+Terima kasih banyak!
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fcb<FP_RIGHT>Kamu telah melihatnya
+dipapan pesan!
+Terima kasih!
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fcb<FP_RIGHT>Kamu telah melihatnya
+dipapan pesan!
+Terima kasih!
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fcb<FP_RIGHT>Kamu telah melihatnya
+dipapan pesan!
+Terima kasih!
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fcb<FP_RIGHT>Kamu telah melihatnya
+dipapan pesan!
+Terima kasih!
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fcb<FP_RIGHT>Kamu pastinya telah melihat
+nya dipapan pesan, maka.
+Terima kasih banyak!
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fcc<FP_RIGHT>Jadi kamu melihatnya dipapan
+pesan? Aku sudah menunggu
+nya loh!<PAGE>Ternyata kamu seorang baik
+hati dipundakmu, untuk
+seukuranmu. Kerja bagus!.
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fcc<FP_RIGHT>Jadi kamu melihatnya dipapan
+pesan? Aku sudah menunggu
+nya loh!<PAGE>Ternyata kamu seorang baik
+hati dipundakmu, untuk
+seukuranmu. Kerja bagus!.
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fcc<FP_RIGHT>Jadi kamu melihatnya dipapan
+pesan? Aku sudah menunggu
+nya loh!<PAGE>Ternyata kamu seorang baik
+hati dipundakmu, untuk
+seukuranmu. Kerja bagus!.
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fcc<FP_RIGHT>Jadi kamu melihatnya dipapan
+pesan? Aku sudah menunggu
+nya loh!<PAGE>Ternyata kamu seorang baik
+hati dipundakmu, untuk
+seukuranmu. Kerja bagus!.
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fcc<FP_RIGHT>Kamu pastinya telah melihat
+nya dipapan pesan, maka.
+Terima kasih banyak!
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fcd<FP_RIGHT>Jadi kamu melihat permintaan
+ku di papan pesan?<PAGE>Hmm...
+\u270aWell...
+Aku kira, Makasih.
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fcd<FP_RIGHT>Jadi kamu melihat permintaan
+ku di papan pesan?<PAGE>Hmm...
+\u270aWell...
+Aku kira, Makasih.
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fcd<FP_RIGHT>Jadi kamu melihat permintaan
+ku di papan pesan?<PAGE>Hmm...
+\u270aWell...
+Aku kira, Makasih.
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fcd<FP_RIGHT>Jadi kamu melihat permintaan
+ku di papan pesan?<PAGE>Hmm...
+\u270aWell...
+Aku kira, Makasih.
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fcd<FP_RIGHT>Kamu pastinya telah melihat
+nya dipapan pesan, maka.
+Terima kasih banyak!

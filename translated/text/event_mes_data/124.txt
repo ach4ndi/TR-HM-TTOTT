@@ -1,0 +1,646 @@
+<FACE_POS_CENTER><HIDE_NAME><FACE_YUN><FACE_NORMAL><FP_RIGHT>Oh, oh, kamu pastinya si
+<MYNAME>.<PAGE><FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Perkenalkan, namaku <BLUE>Yun</COLOR>.
+Aku menjalankan kedai teh
+rumahan ini.<PAGE>Jika kamu lapar, tolong
+kunjungi tokoku ya.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Cuacanya cukup buruk
+kemarin, jadi terpaksa aku
+menutup sementara tokonya.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Halo, sayang...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Halo, sayang...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Halo, sayang...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_HAPPY><FP_RIGHT>Wow peliharaan yang lucu!
+Itu sungguh imut!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_SAD><FP_RIGHT>Aku benar-benar minta maaf,
+tapi tolong jangan berikan
+peliharaan itu disekitar<PAGE>sini ya.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Halo, sayang...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_HAPPY><FP_RIGHT>Oh, sebuah Bulu Biru?
+Sungguh menggemaskan ya
+dirimu.<PAGE>Apa boleh tahu siapakah
+orangnya?<PAGE>Apakah itu pelangganku
+yang beruntung untuk
+memilikimu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Oh ho, maaf maaf,
+Tapi saat ini aku sedang
+sibuk.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Hadiah lainnya?
+Itu sudah terlalu banyak
+diberikan untuk hari ini.<PAGE>Aku tidak bisa menerimanya.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Halo, sayang...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Halo, sayang...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Oh ya, ada ini?
+Kamu itu sungguh aneh!
+Itu yang bisaku katakan!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_HAPPY><FP_RIGHT>Oh, untuk ulang tahunku?
+Kamu mengingatnya!<PAGE>Dan ini... <RED>nasi campur</COLOR>!
+Mmm, sungguh lezat.
+Aku sangat menikmatinya.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_HAPPY><FP_RIGHT>Kamu membuat sebuah
+<RED>nasi campur</COLOR> untukku?<PAGE>Ooh, dari baunyapun dibuat
+dengan rasa cinta!<PAGE>Dan ini lebih enak daripada
+buatanku!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Halo, sayang...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Halo, sayang...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_HAPPY><FP_RIGHT>Sebuah hadiah ulang tahun?
+Oh my gosh, ini ini ini!<PAGE>Sebuah hadiah yang diharap-
+kan! Makasih.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_HAPPY><FP_RIGHT>Oh, sebuah hadiah yang
+bagus! Terima kasih,
+sayang!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Sebuah hadiah ulang tahun
+seperti ini cocok untuk
+segala usia.<PAGE>Terima kasih.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Terima kasih, <MYNAME>.
+Betapa bagusnya ini!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_SAD><FP_RIGHT>Oh, hadiah ini...
+Kamu membuat hari ulang
+tahunku paling menyedihkan.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_SAD><FP_RIGHT>Oh, Terima kasih.
+Tapi kenapa kamu memberikan
+hadiah seperti ini?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_ANGRY><FP_RIGHT>Aku tidak menyukainya.
+Minimal Ying menyukainya,
+akan kuberikan kepadanya.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Halo, sayang...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Halo, sayang...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Didalam sebuah pernikahan,
+kamu butuh memikirkan
+kebutuhan satu sama lainnya.<PAGE>Jangan lupakan itu!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_SAD><FP_RIGHT>Apa saat ini anginnya sudah
+agak tenangkah?<PAGE>Ying sampai ketakutan
+seperti itu. Kuharap
+cuacanya akan membaik.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Sungguh banyak salju berte-
+baran diluar!<PAGE>Itu cukup bisa dibuat main
+oleh Ying, jadi dia bisa
+bersenang-senang.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_HAPPY><FP_RIGHT><MYNAME>, ini hal yang
+bagus untuk melihatmu
+sering berkunjung kesini.<PAGE>Terima kasih, sayang.<PAGE>Aku merasa seperti memiliki
+dua cucu yang selalu mene-
+maniku disini.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Suamiku wafat sudah lama.<PAGE>Disaat aku masih berkabung,
+semua warga desa selalu ber-
+samaku.<PAGE><FACE_POS_CENTER><FACE_YUN><FACE_HAPPY><FP_RIGHT>Aku ingin membayar semua
+apa yang mereka lakukan,
+jadi...<PAGE>Aku membuka sebuah kedai
+teh ini.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Ying itu rentan sakit.
+Jadi hal terbaik untuknya
+yaitu menghirup udara segar.<PAGE>Jadi orang tuanya menanya-
+kan kepadaku untuk menjaga-
+nya untuk sementara.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_HAPPY><FP_RIGHT>Aku membeli tanaman yang
+aku masak disini dari toko-
+nya Gombe.<PAGE>Kukatakan orang tua itu
+menanam sebuah tanaman yang
+sungguh segar loh.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Kamu tahukan tentang Ying?
+Dia itu cucuku. Anak yang
+sangat imut!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Bagiku tokoku itu amat
+berarti.<PAGE>Aku pikir ini juga berlaku
+untuk perkebunanmu,
+<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Maafkan aku, kedai teh
+pada hari ini sedang
+tutup.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Halo, sayang...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Halo, sayang...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Halo, sayang...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Halo, sayang...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Halo, sayang...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Halo, sayang...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Halo, sayang...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Halo, sayang...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Halo, sayang...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Halo, sayang...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Halo, sayang...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Halo, sayang...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Halo, sayang...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Halo, sayang...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Halo, sayang...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Halo, sayang...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Halo, sayang...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Halo, sayang...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Halo, sayang...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Halo, sayang...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Halo, sayang...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Halo, sayang...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Halo, sayang...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Halo, sayang...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Halo, sayang...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Halo, sayang...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Halo, sayang...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Halo, sayang...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Halo, sayang...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Halo, sayang...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Halo, sayang...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Halo, sayang...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Halo, sayang...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Halo, sayang...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Halo, sayang...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Halo, sayang...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Jadi itu untuk festivalnya?
+Semoga beruntung, sayang!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Halo, sayang...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Halo, sayang...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Kamu datang kesini untuk
+menunjukkan binatang peli-
+haraanmu? Wow.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_HAPPY><FP_RIGHT>Aku sering melihatnya di-
+sekitar kedai tehku.
+Dia memiliki wajah unyu!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_SAD><FP_RIGHT>Oh dewi! Jauhkan itu dari
+aku. Aku gak sanggup
+menahannya!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Well, kenapa itu ada disitu?
+Apakah kamu menemukannya?
+Wow.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Halo, sayang...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Halo, sayang...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Halo, sayang...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Halo, sayang...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Halo, sayang...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Halo, sayang...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Halo, sayang...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Halo, sayang...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Halo, sayang...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Halo, sayang...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Halo, sayang...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Halo, sayang...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_HAPPY><FP_RIGHT>Untukku? Terima kasih.
+Bau yang harum ya.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Halo, sayang...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Halo, sayang...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Halo, sayang...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Halo, sayang...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Halo, sayang...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Halo, sayang...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_HAPPY><FP_RIGHT>Untukku?
+Hal ini selalu membuatku
+penasaran apa sih isinya.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_HAPPY><FP_RIGHT>Disaat aku ingin seseorang
+untuk membicarakan sesuatu,
+aku selalu tahu apa yang<PAGE>ingin kukatakan kepadamu,
+sayang.<PAGE>Jika kamu membutuhkan
+bantuaku, aku akan
+senang untuk memberikannya.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Halo, sayang...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT><MYNAME>, kamu pastinya
+kelelahan setelah datang
+kesini dari tempat yang<PAGE>jauh. Tenangkan dirimu ya
+dan istirahat dulu disini.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Halo, sayang...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Halo, sayang...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Halo, sayang...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Hari-hari yang baik untuk
+bekerja! Aku akan senang
+jika semua orang memakan<PAGE>semua makanan yang dihidang-
+kannya!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Aku butuh memikirkan sebuah
+hidangan baru untuk daftar
+menu selanjutnya.<PAGE>Apa ya yang enak dan bagus
+...?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Oh tidakm lihat waktunya!
+Aku butuh mempersiapkan
+semuanya untuk besok.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Suamiku dan aku menggunakan
+tempat itu untuk berpacaran.<PAGE>Kayaknya tidak pernah
+berubah sama sekali ya.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Halo, sayang...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Halo, sayang...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Halo, sayang...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Halo, sayang...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Halo, sayang...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Halo, sayang...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Halo, sayang...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_HAPPY><FP_RIGHT>Aku sudah bermuka masam
+barusan dan ternyata masak-
+an kita yang menang!<PAGE>Terima kasih banyak ya
+atas sorakkannya!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_SAD><FP_RIGHT>Sayang, kita kalah.<PAGE>Dan kamu sudah datang untuk
+menyorakki kita juga...
+Sungguh disayangkan ya.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Apakah kamu akan ikut dalam
+festival memasak bersamaku?<PAGE>Kita akan menjadi sebuah
+tim yang hebat.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Halo, sayang...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Halo, sayang...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_SAD><FP_RIGHT>Oh, festival memasak itu...<PAGE>betapa disayangkan ya...
+Kedepannya hasilnya akan
+beda.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Halo, sayang...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Jangan bersedih kek gitu.
+Ayo kita lakukan lebih baik
+lagi kedepannya.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_HAPPY><FP_RIGHT>Ha ha!<PAGE>Sepertinya lebih baik mema-
+sak dengan bahan yang cukup
+untuk semua warga desa yang<PAGE>ada.
+Festival hari ini membuat
+mereka kelaparan soalnya!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_HAPPY><FP_RIGHT><MYNAME>,
+sebaiknya selanjutnya kamu
+ikutan juga ya!<PAGE>Aku akan mengandalkanmu.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Halo, sayang...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Ying sudah menyemangatimu,
+jadi bergembiralah!<PAGE>Kedepannya kamu akan
+memenangkannya kok.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Halo, sayang...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Halo, sayang...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Halo, sayang...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Halo, sayang...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Halo, sayang...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Halo, sayang...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Halo, sayang...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Halo, sayang...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Halo, sayang...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Halo, sayang...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Halo, sayang...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Halo, sayang...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Halo, sayang...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Halo, sayang...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Halo, sayang...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Halo, sayang...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Halo, sayang...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Halo, sayang...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Halo, sayang...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Halo, sayang...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Halo, sayang...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT><MYNAME>, kamu kelihatan-
+nya memperhatikan festival
+yang diadakan disini, hmm?<PAGE>Festival yang diadakan oleh
+kami itu selalu bagus loh.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Halo, sayang...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Halo, sayang...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Halo, sayang...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Halo, sayang...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Halo, sayang...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Halo, sayang...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Halo, sayang...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Halo, sayang...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Halo, sayang...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Halo, sayang...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Halo, sayang...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Halo, sayang...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Halo, sayang...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Halo, sayang...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Halo, sayang...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Halo, sayang...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Halo, sayang...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Halo, sayang...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Halo, sayang...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Selamat pagi,<MYNAME>.<PAGE>Saat ini aku sedang sibuk
+menyiapkan bahan-bahan
+untuk memasak.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Selamat pagi,
+<MYNAME>.<PAGE>Tampaknya aktifitas pertani-
+anmu sudah mulai sejak pagi
+hari ya, benarkan?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Selamat pagi.
+Apakah kamu merasa lapar?
+Aku juga.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Halo, Halo,
+<MYNAME>.<PAGE>Pekerjaan ini cukup melelah-
+kan untuk mempersiapkan
+seluruh bahan-bahan untuk<PAGE>kedai teh ini.<PAGE>Mungkin suatu saat akan
+membuka lowongan pekerja
+lepas untuk membantuku.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_HAPPY><FP_RIGHT><MYNAME>, sayang!
+Halo, Halo!<PAGE>Dapatkah kamu meluangkan
+waktumu untuk bermain
+dengan Ying?<PAGE>Kalau iya, itu sangat
+membantuku.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_HAPPY><FP_RIGHT>Halo, Halo!<PAGE><MYNAME>, apakah kamu
+menanam sebuah tanaman di-
+perkebunanmu, iyakan?<PAGE>Aku akan senang jika itu
+semua dijadikan bahan
+dimasakanku!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Selamat Malam, sayang.<PAGE>Sebaiknya aku beres-beres
+dapurku untuk siap diguna-
+kan keesok harinya.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Selamat Malam, sayang. 
+<PAGE>Jangan makan disaat larut
+malam atau kamu akan ber-
+mimpi sangat buruk!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_HAPPY><FP_RIGHT>Selamat Malam.<PAGE>Aku bernyanyi nina bobo di-
+saat Ying mau tidur dimalam
+hari.<PAGE>Itu membantunya untuk cepat
+tidur, karena sering kali
+Ying susah tidur pas malam.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Halo, sayang...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Halo, sayang...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Halo, sayang...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Apak kamu sedang lapar?<PAGE>Kamu bisa berbicara kepada-
+ku didepan konter untuk me-
+mesan makanan.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>My, Aku selalu sibuk!<PAGE>Walapun disaat tidak ada
+pelanggan yang datang, ada2
+saja yang perlu dibersihkan!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT><MYNAME>, jika kamu makan
+dengan tidak tepat, kamu
+akan kekurangan energi di-<PAGE>saat kamu sedang bekerja!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Maaf saat ini tokonya
+tutup.
+Maaf ya tutup.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Maaf saat ini tokonya
+tutup.
+Maaf ya tutup.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Maaf saat ini tokonya
+tutup.
+Maaf ya tutup.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>My, my, bagaimana keadaan-
+mu, sayang?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Rahi itu teman baiknya Ying
+yang selalu menghabiskan
+waktunya untuk bersama Ying.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Kepala desa Ina itu sungguh
+bagus dalam hal menjaga dan
+mengatur desa ini.<PAGE>Walaupun dia masih gadis,
+dia tampaknya suka mengatur-
+sesuatu. Cukup menggemaskan!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Halo, sayang...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Halo, sayang...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Halo, sayang...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Halo, sayang...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Halo, sayang...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Halo, sayang...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Halo, sayang...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Halo, sayang...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Halo, sayang...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_HAPPY><FP_RIGHT>Oh dewi, betapa menakjubkan-
+nya! Aku tidak pernah berpi-
+kiran bahwa kamu menang!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_HAPPY><FP_LEFT>Selamat!
+Masakkanmu sungguh menakjub-
+kan.<PAGE>Tampaknya aku bisa memperla-
+jari sesuatu yang baru dari
+kemampuanmu itu.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_HAPPY><FP_RIGHT>Dengan makanan sebagus itu,
+kamu dapat membuatku
+bangkrut!<PAGE>Hee hee! Oh, aku hanya
+bercanda kok, sayang. <PAGE>Aku tahu kamu tidak akan
+melakukannya.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_HAPPY><FP_RIGHT>Festivalnya sudah selesai.
+Apakah kamu menikmatinya,
+sayang?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_HAPPY><FP_RIGHT>Apakah festival tadi sungguh
+menggugahmu? Ya pastinya.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Semuanya, muda dan tua,
+ikut adil dalam festival
+kita di Konohana.<PAGE>Festival itu membawah kita
+semua berkumpul sebagai
+sebuah perkumpulan.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Tampaknya kamu menanam bebe-
+rapa tanaman yang enak,
+<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Aku penasaran bagaimana
+jika aku memasak sesuatu
+menggunakan tanamanmu itu?<PAGE>Aku ingin mencobanya jika
+itu memungkinkan.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_LEFT>Selamat!
+Itu sungguh keren!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>My, itu sungguh menyenang-
+kan!<PAGE>Ying tampaknya menikmatinya
+juga. Aku jadi lega membawa-
+nya juga.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Aku tidak pernah melihat
+Ying sebahagia seperti ini.
+Hee hee.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Festival itu selalu menjadi
+hal spesial untukku. Ying
+menyukainya juga.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Oh tidak, kamu tuh penuh
+dengan lumpur!
+Kamu harusnya bersihkan itu!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_LEFT>Selamat!
+Aku sih tidak kaget ya.<PAGE><FACE_POS_CENTER><FACE_YUN><FACE_HAPPY><FP_RIGHT>Aku ingin Ying juga ikutan,
+tapi dia tidak mau.<PAGE>Aku harap dia akan menjadi
+lebih kuat dan ikut adil
+juga...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_HAPPY><FP_LEFT>Selamat, <MYNAME>!
+Itu sungguh kemenangan yang
+meriah!<PAGE><FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Aku suka sekali jika ikut
+adil dalam festival ini,
+walaupun tidak menang.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Halo, sayang...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Halo, sayang...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Halo, sayang...

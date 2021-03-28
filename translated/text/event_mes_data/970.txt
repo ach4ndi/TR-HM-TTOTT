@@ -1,0 +1,70 @@
+<FACE_POS_LEFT><FACE_REINA><FACE_NORMAL><FP_LEFT><MYNAME>, tanaman itu
+yang kapan hari sedang sakit
+dan kurasa sekarang sudah<PAGE>membaik. Apakah kamu mau
+melihatnya bersamaku?<PAGE>ya sekarang lah! masa
+kemarin? wkwkwk
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_REINA><FACE_HAPPY><FP_LEFT>Aku pulang!<PAGE>Apa kamu sudah sedikit mem-
+baik kah wahai tanaman yang
+kutinggal kemarin?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_REINA><FACE_HAPPY><FP_LEFT>Kamu tampaknya lebih sekat!
+Lihat lihat tampak lurus
+dan hijau daunnya!<PAGE><FACE_POS_LEFT><FACE_REINA><FACE_NORMAL><FP_LEFT>.........
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_REINA><FACE_SHY><FP_LEFT>Ah, uh...Aku harus menjelas-
+kannya...<PAGE><FACE_POS_LEFT><FACE_REINA><FACE_SHOCK><FP_LEFT>Disaat kamu berbicara dengan
+tanaman, mereka akan tumbuh
+dengan baik.<PAGE>Semua yang aku pelajari,
+dan penelitihanku memper-
+lihatkan hasilnya!
+----------------------------|----------------------------------
+<CHOICE_AB> Keren pake banget!
+ Tampak Aneh!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_REINA><FACE_SHOCK><FP_LEFT>Kamu tidak berpikir ini
+agak aneh?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_REINA><FACE_SHY><FP_LEFT>Kebanyakan orang menertawa-
+kan aku disaat mereka meli-
+hatku sedang berbicara<PAGE>dengan tanaman...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_REINA><FACE_NORMAL><FP_LEFT>Tapi kamu tidak berpikir
+bahwa itu benar-benar aneh?<PAGE>Pastinya kamu sedikit merin-
+dingkan, merinding keanehan,
+<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_REINA><FACE_HAPPY><FP_LEFT>Ha ha ha!
+Tidak, aku tidak bermaksud
+konotasi buruk.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_REINA><FACE_HAPPY><FP_LEFT>Hei, aku punya sebuah ide.
+Datang kesana dan lihat
+bagaimana tanaman ini<PAGE>lakukan.<PAGE>Dibandingkan yang aku bawa
+kerumah, kamu bisakah lihat
+perbedaannya? apa ini lebih<PAGE>tampak senang?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_REINA><FACE_NORMAL><FP_LEFT>Tanaman itu mirip banget kek
+manusia dan binatang.<PAGE><FACE_POS_LEFT><FACE_REINA><FACE_HAPPY><FP_LEFT>Mereka butuh cinta dan per-
+hatian untuk menjadikan
+mereka tumbuh terbaiknya.<PAGE>Jadi aku mengecek semua
+tanamanku dan kuajak bicara
+semuanya tiap hari.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_REINA><FACE_NORMAL><FP_LEFT>Jika kamu suka, kamu dapat
+mampir dan cek bagimana
+orang ini melakukan ini
+lagi nanti.<PAGE>Jika kamu ajak bicara, ini
+mungkin semakin lebih cepat.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_REINA><FACE_SAD><FP_LEFT>Huh. Oke, aku juga ingin...
+tidak... tidak ingin diter-
+tawakan.<PAGE><FACE_POS_LEFT><FACE_REINA><FACE_ANGRY><FP_LEFT>Dan aku ingatkan kekamu,
+ini yang aku bicarakan me-
+ngenai penelitihanku.<PAGE>Disaat kamu mempunyai pen-
+dapat yang tidak mendasar
+itu.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_REINA><FACE_SAD><FP_LEFT>Aku tahu aku mengundangmu
+kemari hari ini, tapi aku
+pikir bahwa kamu harus<PAGE>pulang kerumah sekarang.

@@ -1,0 +1,82 @@
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>Isn't there a lovely
+breeze today?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_HIRO><FACE_NORMAL><FP_LEFT>Oh, Nori!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_HIRO><FACE_HAPPY><FP_LEFT>Thank you ever so much for
+loaning me the handkerchief
+the other day.<PAGE><FACE_POS_LEFT><FACE_HIRO><FACE_SAD><FP_LEFT>Alas, it acquired a stain
+that I could not remove.<PAGE>I will buy a new one for
+you. Please accept my
+apologies.<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Oh, it's fine!
+It was an old one anyway.
+Don't even worry about it!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_HIRO><FACE_SHOCK><FP_LEFT>Thank you ever so much.<PAGE><FACE_POS_LEFT><FACE_HIRO><FACE_HAPPY><FP_LEFT>Oh, pardon me for
+interrupting!
+I'll be on my way now.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_YING><FACE_NORMAL><FP_RIGHT>......<PAGE>My precious panda...
+He got a boo-boo...
+What am I gonna do?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_NORI><FACE_NORMAL><FP_LEFT>What's wrong, Ying?
+Did something bad happen
+to your panda?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_YING><FACE_NORMAL><FP_RIGHT>Um...uh...
+My p-panda g-got s-snagged
+on something and...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_NORI><FACE_SAD><FP_LEFT>Oh no!
+Your panda's leg is ripped,
+huh?<PAGE><FACE_POS_LEFT><FACE_NORI><FACE_NORMAL><FP_LEFT>Wait a second, Ying.
+I'll fix it for you.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_NORI><FACE_NORMAL><FP_LEFT>\u20d0Here goes!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_NORI><FACE_HAPPY><FP_LEFT>There you go! Good as new!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_YING><FACE_HAPPY><FP_RIGHT>Wowee!
+You fixed my panda's
+boo-boo!!<PAGE>Nori, you're super!
+Thanks...!<PAGE><FACE_POS_LEFT><FACE_NORI><FACE_HAPPY><FP_LEFT>Ha ha!
+No problem!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_YING><FACE_HAPPY><FP_RIGHT>Wait till my grandma sees
+this...!<PAGE><FACE_POS_LEFT><FACE_NORI><FACE_NORMAL><FP_LEFT>See you later, Ying!
+Now you be careful and watch
+where you're going!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_NORI><FACE_NORMAL><FP_LEFT>Sorry about that, <MYNAME>!
+----------------------------|----------------------------------
+<CHOICE_AB> You're so kind to others!
+ Way to ignore me!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_NORI><FACE_NORMAL><FP_LEFT>Oh no, it's no big deal.
+I just do what I can.<PAGE>I'm sure anyone else would
+do the same, really.<PAGE><FACE_POS_LEFT><FACE_NORI><FACE_HAPPY><FP_LEFT>I know you'd help someone in
+need, <MYNAME>.<PAGE>You can't run a good farm if
+you don't have a good heart.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_NORI><FACE_SHY><FP_LEFT>Whoops!
+Look at the time!<PAGE><FACE_POS_LEFT><FACE_NORI><FACE_SAD><FP_LEFT>Mako asked me to do an
+errand for him today!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_NORI><FACE_SAD><FP_LEFT>It seems I'm all in a
+whirl today!
+I'm really sorry.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_NORI><FACE_HAPPY><FP_LEFT>Thanks, <MYNAME>.
+You're so sweet.<PAGE><FACE_POS_LEFT><FACE_NORI><FACE_NORMAL><FP_LEFT>I've got to get going!
+Now you be careful on your
+way home, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_NORI><FACE_SAD><FP_LEFT>I'm really sorry!<PAGE><FACE_POS_LEFT><FACE_NORI><FACE_SHY><FP_LEFT>...But did you see the look
+on Ying's face?
+Didn't it break your heart?<PAGE>I couldn't just do nothing
+with her looking so sad.<PAGE><FACE_POS_LEFT><FACE_NORI><FACE_NORMAL><FP_LEFT>It's a shame I had to
+interrupt our chat,
+but I'm glad I did.<PAGE><FACE_POS_LEFT><FACE_NORI><FACE_SAD><FP_LEFT>Today's just not going well.
+Excuse me.
+I have to get going.

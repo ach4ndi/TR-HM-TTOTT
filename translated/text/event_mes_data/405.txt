@@ -1,0 +1,56 @@
+<FACE_POS_RIGHT><FACE_RAHI><FACE_HAPPY><FP_RIGHT>Pada hari seperti ini,
+rasanya enak kalau pergi
+keluar rumah!<PAGE>Maksud aku, ini tidak se-
+perti sering pergi waktu ke
+waktu... Hanya sesaat saja.<PAGE><FACE_POS_LEFT><FACE_YING><FACE_HAPPY><FP_LEFT>...Uh-huh...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_YING><FACE_HAPPY><FP_LEFT>Oh... Dokter Ayame...
+Halo...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_AYAME><FACE_HAPPY><FP_RIGHT>Well halo, kiddos.
+Rahi dan Ying, kamu kok
+akrab banget ya...<PAGE><FACE_POS_RIGHT><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Apakah hari ini kalian
+bermain apa?<PAGE><FACE_POS_LEFT><FACE_RAHI><FACE_NORMAL><FP_LEFT>Sejak cuaca hari ini sangat
+cerah, jadi kita akan ber-
+bicara diluar saja ya.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Kulihat kau, Dokter Ayame.
+Apa yang membawamu kesini?<PAGE><FACE_POS_LEFT><FACE_AYAME><FACE_HAPPY><FP_LEFT>Aku hanya... kebetulan me-
+lewati anak-anak ini dan 
+kulihat mereka sedang<PAGE>bersenang-senang, jadi aku
+berhenti sejenak dan ikutan
+main!<PAGE><FACE_POS_LEFT><FACE_AYAME><FACE_NORMAL><FP_LEFT>Karena kamu ada disini juga,
+kenapa tidak ikutan saja?<PAGE><FACE_POS_RIGHT><FACE_MAKO><FACE_HAPPY><FP_RIGHT>Aku... sangat senang untuk
+gabung. Aku juga jago ber-
+main dengan anak-anak!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Jadi permainan apa yang
+kita mainkan sekarang?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_RAHI><FACE_SAD><FP_LEFT>arghh!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MAKO><FACE_HAPPY><FP_RIGHT>Bwa-ha-ha-ha!<PAGE><FACE_POS_RIGHT><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Jadi permainannya petak
+umpet toh? 
+Ayo, aku disini!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RAHI><FACE_SAD><FP_RIGHT>Aku takut!<PAGE><FACE_POS_RIGHT><FACE_MAKO><FACE_HAPPY><FP_RIGHT>Aku akan menangkapmu,
+lalu gw ikat, dan buang
+ke sungai!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MAKO><FACE_HAPPY><FP_RIGHT>Ha ha ha ha 
+itu baru namanya senang-
+senang!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RAHI><FACE_SAD><FP_RIGHT>Aaaaiiiiiyyyyeeee!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Sepertinya Mako tidak menya-
+dari bahwa itu bakal mena-
+kuti Rahi!<PAGE><FACE_POS_LEFT><FACE_YING><FACE_NORMAL><FP_LEFT>...Uh-huh...<PAGE><FACE_POS_LEFT><FACE_YING><FACE_SAD><FP_LEFT>... Aku ingin berharap...
+untuk diam, lebih diam...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Apakah itu akan menarik?
+Well, kelihatannya aku
+akan pergi sekarang.<PAGE><FACE_POS_LEFT><FACE_YING><FACE_NORMAL><FP_LEFT>... Aku pikir aku akan 
+pergi juga...<PAGE><FACE_POS_RIGHT><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Ingat, jangan berlari-larian
+ya! dan jangan sampai kele-
+lahan!

@@ -1,0 +1,65 @@
+<FACE_POS_RIGHT><FACE_CHERYL><FACE_HAPPY><FP_RIGHT>Hi, <MYNAME>.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Still working hard on such
+a lovely day?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_HAPPY><FP_RIGHT>You're always working so
+hard, <MYNAME>.<PAGE>You should take a break
+and go for a walk from time
+to time like we do.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_HAPPY><FP_RIGHT>Why, good afternoon, Rutger.<PAGE><FACE_POS_RIGHT><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Hi!<PAGE><FACE_POS_LEFT><FACE_RUTGER><FACE_HAPPY><FP_LEFT>Ho ho ho. Good afternoon!
+You're looking well!<PAGE>It warms my heart to see
+how lively the village is
+these days.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_RUTGER><FACE_HAPPY><FP_LEFT>That's right. I want to
+show you something.<PAGE>I think this is a neat
+trick. Can't let the young
+folk have all the fun!<PAGE><FACE_POS_LEFT><FACE_RUTGER><FACE_NORMAL><FP_LEFT><MYNAME>, why don't
+you come stand next to me
+and help me out here?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_RUTGER><FACE_NORMAL><FP_LEFT>I want you to make sure
+there's nothing on my head.
+
+----------------------------|----------------------------------
+<CHOICE_AB> Nothing's there.
+ Let me look again.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_RUTGER><FACE_NORMAL><FP_LEFT>Now watch closely!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>What are you going to do?<PAGE><FACE_POS_LEFT><FACE_RUTGER><FACE_NORMAL><FP_LEFT>Watch and see.<PAGE><FACE_POS_LEFT><FACE_RUTGER><FACE_ANGRY><FP_LEFT>\u232dMmm...\u270a...\u270a...\u270a...\u270a\u232c
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Rutger!\u270a...\u270b
+<FACE_POS_RIGHT><FACE_CHERYL><FACE_HAPPY><FP_RIGHT>\u20d0That's amazing!
+How did you do it?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_RUTGER><FACE_NORMAL><FP_LEFT>Well, I'd hate for my secret
+to get out.<PAGE><FACE_POS_LEFT><FACE_RUTGER><FACE_HAPPY><FP_LEFT>I'll tell you what... If
+you're extra good, I'll tell
+you someday.<PAGE><FACE_POS_RIGHT><FACE_CHERYL><FACE_HAPPY><FP_RIGHT>Yay!♪
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_RUTGER><FACE_NORMAL><FP_LEFT>I'm glad people still find
+that trick so amusing.<PAGE><FACE_POS_LEFT><FACE_RUTGER><FACE_HAPPY><FP_LEFT>Now who should I do it to
+next?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Now wasn't that fun?
+What a nice mayor we have.<PAGE>See you later, <MYNAME>.
+Good luck with work!<PAGE><FACE_POS_RIGHT><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Bye, <MYNAME>!
+
+----------------------------|----------------------------------
+<CHOICE_AB> Again!
+ That was enough.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CHERYL><FACE_HAPPY><FP_RIGHT>I wanna see too!<PAGE><FACE_POS_LEFT><FACE_RUTGER><FACE_NORMAL><FP_LEFT>Well, alright, then.
+Now watch carefully.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_RUTGER><FACE_NORMAL><FP_LEFT>I'll do it once more today.
+But that's it.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_RUTGER><FACE_ANGRY><FP_LEFT>\u232dMmm...\u270a...\u270a..\u270a...\u270a\u232c
+----------------------------|----------------------------------
+<CHOICE_AB> Again! Again!
+ That was enough.

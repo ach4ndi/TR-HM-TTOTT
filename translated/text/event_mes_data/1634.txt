@@ -1,0 +1,71 @@
+<FP_NONE>Tanya tentang permintaan?
+<CHOICE_AB> Ya.
+ Tidak.
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fcd<FP_RIGHT>Hey. 
+Itu belum semuanya!<PAGE>Aku tidak tahu bahwa kamu
+sengaja atau lupa...<PAGE>Aku sibuk disini!
+Lain kali berikan semuanya
+ya!
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fcd<FP_RIGHT>Apa? Ada urusan yang lain
+lebih penting?<PAGE>Apa kamu tidak bisa menunda-
+nya?<PAGE>Aku sibuk juga!
+Lain kali selesaikan urusan
+mu dulu sebelum bertemu ya!
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fcd<FP_RIGHT>Sekarang uangnya.
+Hanya <VAR_0>G.
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fcd<FP_RIGHT><BLUE>
+MSG NOT APPEAR
+</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fcd<FP_RIGHT><BLUE>
+MSG NOT APPEAR
+</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fcd<FP_RIGHT><BLUE>
+MSG NOT APPEAR
+</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fcd<FP_RIGHT><BLUE>
+MSG NOT APPEAR
+</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fcd<FP_RIGHT>　
+\u20d0<RED>　　　　Dummy</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fcd<FP_RIGHT>　
+\u20d0<RED>　　　　Dummy</COLOR>
+----------------------------|----------------------------------
+<FP_NONE>Tanya tentang permintaan?
+<CHOICE_AB> Ya.
+ Tidak.
+----------------------------|----------------------------------
+<FP_NONE>Menolak hadiahnya?
+<CHOICE_AB> Ya.
+ Tidak.
+----------------------------|----------------------------------
+<FP_NONE>Kamu mendapatkan <VAR_0>G!
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fcd<FP_RIGHT>　
+\u20d0<RED>　　　 Dummy</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fcd<FP_RIGHT>　
+\u20d0<RED>　　　 Dummy</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fcd<FP_RIGHT>　
+\u20d0<RED>　　　 Dummy</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fcd<FP_RIGHT>　
+\u20d0<RED>　　　 Dummy</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fcd<FP_RIGHT>　
+\u20d0<RED>　　　 Dummy</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fcd<FP_RIGHT>　
+\u20d0<RED>　　　 Dummy</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fcd<FP_RIGHT>　
+\u20d0<RED>　　　 Dummy</COLOR>

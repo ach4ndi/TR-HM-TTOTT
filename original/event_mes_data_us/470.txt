@@ -1,0 +1,96 @@
+<FACE_POS_LEFT><HIDE_NAME><FACE_HGODDES><FACE_NORMAL><FP_LEFT><HIDE_FACE>Dum-Da-Da-DAA!
+Good morning,
+<MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><HIDE_NAME><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>How are you getting used to
+life here, <MYNAME>?
+I came to ask a favor.<PAGE><FACE_POS_RIGHT><HIDE_NAME><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>Huh? How do I know
+your name?<PAGE>I know just about everything
+important, silly.
+<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Let me introduce myself. I'm
+the <BLUE>Harvest Goddess</COLOR>!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>So, about that favor...
+<PAGE>You know that the mayors of
+Bluebell and Konohana don't
+get along, right?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_SAD><FP_RIGHT>It's not that they have any
+good reason to dislike each
+other...<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>I guess you could say it's
+a tradition.<PAGE>The mayors of the two
+villages have hated each
+other for generations...<PAGE>But it wasn't always that
+way.<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_SAD><FP_RIGHT>They used to get along so
+well...
+----------------------------|----------------------------------
+<FP_LEFT>What did you say!?
+Are you trying to insult
+my village's cooking!?<PAGE>You can take your idiotic
+opinion right back to
+Konohana!
+----------------------------|----------------------------------
+<FP_RIGHT>I'm not trying to insult
+Bluebell. I'm just saying
+our cooking is better!<PAGE>If you can't see that, then
+you're the one who's an
+idiot!
+----------------------------|----------------------------------
+M-Mayors, please calm down!
+
+----------------------------|----------------------------------
+\u20d1Shut up!
+You all just be quiet!
+----------------------------|----------------------------------
+<FP_RIGHT>Wh-What's that?
+<PAGE>Looks like we startled
+the bats!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_ANGRY><FP_RIGHT>Hey, you two! Keep it down!
+<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_SAD><FP_RIGHT>I'm not putting up with all
+this shouting! I need my
+beauty sleep, you know!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>If you two hate each other
+so much, I'll just close
+this tunnel!<PAGE>Now you won't have to see
+each other at all!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_ANGRY><FP_RIGHT>\u20d1Oomph!
+----------------------------|----------------------------------
+<FP_LEFT>Wh-What's happening!?
+Is it an earthquake?
+----------------------------|----------------------------------
+<FP_RIGHT>Y-Your yelling has angered
+the Harvest Goddess!
+
+----------------------------|----------------------------------
+<FP_LEFT>What!? You were yelling
+a lot louder than I was!
+
+----------------------------|----------------------------------
+This isn't the time to be
+arguing!
+<PAGE>We have to get out of here
+before it gets worse...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>And there you have it.
+I was so mad, I closed up
+the tunnel!<PAGE>But now I feel kind of bad
+about it.<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_SAD><FP_RIGHT>But it's a lot of work to
+put it all back like it was.
+\u270a\u270a<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>And that's why...<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>I want you to do it for me,
+<MYNAME>!<RED>❤</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>But if you just reopen the
+tunnel, they'll start
+fighting again.<PAGE>So get them to be friends
+first, okay?<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>4 times a month they hold a
+<RED>Cooking Festival</COLOR> on the top
+of the mountain.<PAGE>I think that would be
+your best bet.<PAGE>It's the only time the two
+villages get together.<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>If you can cook something
+delicious and help your
+village win, I'm sure...<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>that the Mayors will see how
+great both villages are and
+become friends!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>I'm counting on you!
+Toodles!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_HGODDES><FACE_NORMAL><FP_LEFT><HIDE_FACE>There used to be a tunnel
+connecting the two villages.<PAGE>People traveled between the
+villages all the time.<PAGE>But then the fighting
+started...

@@ -1,0 +1,43 @@
+<FACE_POS_RIGHT><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>And now let us begin...<PAGE>We are here today to witness
+the marriage of Dirk and
+<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Dirk...<PAGE>Do you take <MYNAME> to be
+your wife, to love and
+cherish her all your life?<PAGE><FACE_POS_LEFT><FACE_DIRK><FACE_HAPPY><FP_LEFT>I do.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NATHAN><FACE_NORMAL><FP_RIGHT><MYNAME>...<PAGE>Do you take Dirk to be
+your husband, to love and
+cherish him all your life?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>In that case, I now
+pronounce you husband and
+wife!<PAGE><FACE_POS_RIGHT><FACE_NATHAN><FACE_HAPPY><FP_RIGHT>May the Harvest Goddess
+bless this happy couple!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_DIRK><FACE_SHOCK><FP_LEFT><MYNAME>, I love you!
+And I'm going to make you
+very happy. Stick with me!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_SHOCK><FP_RIGHT>Today the two of us start a
+new life together!<PAGE><FACE_POS_RIGHT><FACE_DIRK><FACE_HAPPY><FP_RIGHT>So now that we're married,
+is there a nickname you
+want me to call you?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_NORMAL><FP_RIGHT><MYNICKNAME>.
+That's what you want me to
+call you?
+----------------------------|----------------------------------
+<CHOICE_AB> Yes, Dirk.
+ I changed my mind.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_HAPPY><FP_RIGHT>Okay!
+It's decided!<PAGE><FACE_POS_RIGHT><FACE_DIRK><FACE_SHOCK><FP_RIGHT>We're gonna have great times
+together, <MYNICKNAME>!
+----------------------------|----------------------------------
+Our new life has started!
+We'll take it easy today.
+Tomorrow it's back to work!
+----------------------------|----------------------------------
+<CHOICE_AB> Save and go to bed.
+ Go to bed without saving.

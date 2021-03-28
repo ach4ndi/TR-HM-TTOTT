@@ -1,0 +1,64 @@
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>Error!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>Oooh, you saw my super
+nifty request on the board?
+Great!<PAGE>Now then, let's make the
+trade, shall we?
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>Error!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>Error!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>Ooh, this is what I wanted!
+It's so fluff-fluff-FLUFFY!<PAGE>\u20d0I love it!<RED>❤</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>Error!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>Now the money.
+That's <VAR_0>G.
+<PAGE><FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY>So fluffy...<RED>❤</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>Error!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>Error!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>Error!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>Error!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>Error!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_ANGRY><FP_RIGHT>Oh. Ahem!<PAGE><FACE_POS_RIGHT><FACE_ULYSSA><FACE_NORMAL>So, uh, thanks, then!
+Good work.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>This is for you.
+I'd like to give it to
+you now, but...<PAGE><FACE_POS_RIGHT><FACE_ULYSSA><FACE_NORMAL>It's too big for you
+to carry...
+<PAGE><FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY>So I <RED>sent it to your house</COLOR>!
+So go look for it there.<PAGE>How about it?
+Bet you're satisfied now!
+----------------------------|----------------------------------
+\u2137You got a new cart, the <RED>UFO</COLOR>!
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>If you want to modify it,
+just take it to the
+shop like normal.<PAGE><FACE_POS_RIGHT><FACE_ULYSSA><FACE_NORMAL>What?
+Couldn't I do it?
+\u270a<FACE_POS_RIGHT><FACE_ULYSSA><FACE_ANGRY>O-Of course I could!<PAGE><FACE_POS_RIGHT><FACE_ULYSSA><FACE_SHY>The reason I don't is...
+W-Well, you know...<PAGE><FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY>I can't do everything! I've
+got to leave some work for
+everybody else.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>It's kind of interesting to 
+make carts again.
+I enjoyed myself!<PAGE><FACE_POS_RIGHT><FACE_ULYSSA><FACE_ANGRY>You'd better take
+care of it!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>Error!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>Error!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>Error!</COLOR>

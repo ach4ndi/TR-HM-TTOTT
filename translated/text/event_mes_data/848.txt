@@ -1,0 +1,149 @@
+<FACE_POS_LEFT><HIDE_NAME><FACE_RUTGER><FACE_NORMAL><FP_LEFT><HIDE_FACE>Selamat pagi, <MYNAME>.
+Aku harap kamu mengizin
+kan aku masuk.
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Aku datang kesini untuk
+memberitahukan informasi
+mengenai festival.
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Bulan ini hari ke 26 adalah
+<RED>Festival Binatang</COLOR>.<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Saat ini akan diadakan
+<RED>Festival domba</COLOR>.<PAGE>Pilih binatang yang diikut
+sertakan, pilih yang pera-
+watannya yang terbaik.<PAGE>Dan perhatikan juga, karena
+<RED>Tidak bisa memasukkan</COLOR> yang
+sedang hamil atau sakit.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Bulan ini hari ke 26 adalah
+<RED>Festival Binatang</COLOR>.<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Saat ini akan diadakan
+<RED>Festival alpaca</COLOR>.<PAGE>Pilih binatang yang diikut
+sertakan, pilih yang pera-
+watannya yang terbaik.<PAGE>Dan perhatikan juga, karena
+<RED>Tidak bisa memasukkan</COLOR> yang
+sedang hamil atau sakit.
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Dan pada tanggal 29, kita
+ada <RED>Festival Memasak</COLOR>.<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Dan temanya untuk bulan ini
+<RED>sup</COLOR>.<PAGE>Persiapkan jika kamu ingin
+mengikutinya!<PAGE>Tapi jangan lupakan kamu
+<RED>Tidak bisa memasukkan</COLOR> makan-
+an yang <RED>basi</COLOR>!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Dan pada tanggal 29, kita
+ada <RED>Festival Memasak</COLOR>.<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Dan temanya untuk bulan ini
+<RED>cemilan</COLOR>.<PAGE>Persiapkan jika kamu ingin
+mengikutinya!<PAGE>Tapi jangan lupakan kamu
+<RED>Tidak bisa memasukkan</COLOR> makan-
+an yang <RED>basi</COLOR>!
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Sekarang, apakah kamu bisa
+mengingat semua itu?<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Jika kamu lupa, bisa intip
+<RED>kalendar</COLOR>mu..<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Oke, aku akan kembali ke
+rumah sekarang. Semoga beruntung
+dengan pekerjaanmu!
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy

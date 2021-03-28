@@ -1,0 +1,58 @@
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>Error!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Oh ho...
+So you've got it all...
+Let's take a look here...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>Error!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>Error!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_SHENG><FACE_HAPPY><FP_RIGHT>Thanks for getting this!
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>Error!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_SHENG><FACE_NORMAL><FP_RIGHT>And now the money.
+That's <VAR_0>G.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>Error!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>Error!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>Error!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>Error!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>Error!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Fine work!
+Glad to see you saw the task
+through to the end...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_SHENG><FACE_HAPPY><FP_RIGHT>I know you'll use this well!
+Please accept it!
+
+----------------------------|----------------------------------
+\u2137You got a <RED>hammer!</COLOR>
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_SHENG><FACE_ANGRY><FP_RIGHT>Use it to break <RED>rocks</COLOR> into
+<RED>material stone</COLOR>!<PAGE>It can also flatten
+<RED>irrigation trenches
+in your fields</COLOR>!<PAGE><FACE_POS_RIGHT><FACE_SHENG><FACE_NORMAL>Well, as they say,
+seeing is believing...
+<PAGE>You should equip it and
+try it out! But don't use
+it on people or animals!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_SHENG><FACE_HAPPY><FP_RIGHT>At any rate, thanks for all
+your help! Hope I can
+count on you again!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>Error!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>Error!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>Error!</COLOR>

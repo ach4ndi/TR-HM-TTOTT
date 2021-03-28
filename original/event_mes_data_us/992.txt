@@ -1,0 +1,41 @@
+<FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT>Do you...like flowers?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT>I see...<PAGE>Rose takes care of these
+flowers, actually...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT>That's why they look so
+nice. Rose treats them
+with great care.<PAGE>I'm always impressed by how
+well-cared for the flowers
+in this village are.<PAGE>I actually left this village
+for a while...<PAGE>I traveled all over, and
+learned about different
+kinds of flowers.<PAGE>I saw so many flowers with
+so many different colors
+and fragrances...<PAGE>But no flowers make me feel
+the way the flowers in
+this village do...<PAGE>How about you, <MYNAME>?
+Do you like the flowers
+here?
+----------------------------|----------------------------------
+<CHOICE_AB> They're so beautiful...
+ They look delicious...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_HAPPY><FP_RIGHT>I'm glad you feel the same.<PAGE><FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT>The flowers here reflect
+the kindness of the
+villagers.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT>Oh, it's getting late.
+I should go now.<PAGE><FACE_POS_RIGHT><FACE_CAM><FACE_HAPPY><FP_RIGHT>I had a lot of fun today.
+Thanks. We should do
+this again sometime.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_SHY><FP_RIGHT>Um, do you eat flowers...?<PAGE><FACE_POS_RIGHT><FACE_CAM><FACE_SAD><FP_RIGHT>Well, there are such
+things as edible
+flowers...<PAGE><FACE_POS_RIGHT><FACE_CAM><FACE_SHY><FP_RIGHT>However, these flowers here
+aren't edible, so I wouldn't
+recommend eating them...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_SAD><FP_RIGHT>Anyway, I'm feeling a
+little tired, so I'm
+gonna go home.<PAGE><FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT>See you later.

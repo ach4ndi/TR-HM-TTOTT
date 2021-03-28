@@ -1,0 +1,175 @@
+<FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT>Today is the Music Festival!<PAGE><FACE_POS_LEFT><FACE_INA><FACE_HAPPY><FP_LEFT>Let's have a little music
+to enrich our lives!
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_INA><FACE_HAPPY><FP_LEFT>Now let me introduce our
+musicians!<PAGE>Mikhail is our violinist,
+and Helena is our pianist.
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_INA><FACE_HAPPY><FP_LEFT>Go for it, Mikhail!
+
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_MIKHAIL><FACE_HAPPY><FP_LEFT>Hello, everyone. Please
+listen and enjoy!
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_YUN><FACE_HAPPY><FP_RIGHT>This song is so relaxing...
+It's perfect for the season!<PAGE><FACE_POS_LEFT><FACE_SHENG><FACE_NORMAL><FP_LEFT>What!?
+That's it?
+It's over already!?<PAGE><FACE_POS_LEFT><FACE_SHENG><FACE_HAPPY><FP_LEFT>I was having such a good
+nap!<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_HAPPY><FP_RIGHT>Hm. Maybe we could use the
+soothing qualities of music
+at the clinic...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_NORI><FACE_HAPPY><FP_LEFT>What a bright, cheery song.
+It reminds me of spring.
+This is so much fun!<PAGE><FACE_POS_RIGHT><FACE_YING><FACE_HAPPY><FP_RIGHT>I love this song.
+It's so cheerful.<PAGE><FACE_POS_LEFT><FACE_RAHI><FACE_HAPPY><FP_LEFT>I like it too!
+It makes me want to go
+play outside.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MAKO><FACE_HAPPY><FP_RIGHT>Hmm, what a nice song...
+It almost feels like it was
+written just for me!<PAGE><FACE_POS_LEFT><FACE_INA><FACE_HAPPY><FP_LEFT>I like this song too.
+It's nice to relax with a
+song like this sometimes.<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_HAPPY><FP_RIGHT>I agree. Soothing music like
+this is the best for plants.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>I don't listen to music very
+often, but this is nice.<PAGE><FACE_POS_LEFT><FACE_SHENG><FACE_HAPPY><FP_LEFT>I'm used to the sound of
+animals, but these
+instruments sound real nice.<PAGE><FACE_POS_RIGHT><FACE_YUN><FACE_HAPPY><FP_RIGHT>What a nice song that was!
+I can't wait to hear more.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_YING><FACE_NORMAL><FP_RIGHT>That's so cool...
+I wish I could play...<PAGE><FACE_POS_LEFT><FACE_NORI><FACE_HAPPY><FP_LEFT>Ying, do you want to
+learn an instrument with
+me?<PAGE><FACE_POS_LEFT><FACE_RAHI><FACE_HAPPY><FP_LEFT>I-I want to do it too! Let's
+practice together, Ying!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_HAPPY><FP_RIGHT>The Music Festival is always
+so peaceful.<PAGE><FACE_POS_LEFT><FACE_HIRO><FACE_HAPPY><FP_LEFT>Music must have healing
+properties, don't you think?
+It's amazing.<PAGE><FACE_POS_RIGHT><FACE_YUN><FACE_HAPPY><FP_RIGHT>It's always so much fun.
+I hope they keep having this
+festival forever...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MAKO><FACE_HAPPY><FP_RIGHT>Hmm, what a nice song.
+All true scholars are also
+lovers of music, I think.<PAGE><FACE_POS_LEFT><FACE_INA><FACE_HAPPY><FP_LEFT>This is about the only
+chance we have to listen to
+music together.<PAGE>So I'd like to keep
+this festival going.<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>I hope you do. I know I
+enjoy it every year.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>I'm not cut out to just sit
+here and listen!
+I want to play something!<PAGE><FACE_POS_LEFT><FACE_HIRO><FACE_HAPPY><FP_LEFT>Good idea.
+We should play something
+together next year.<PAGE><FACE_POS_LEFT><FACE_SHENG><FACE_HAPPY><FP_LEFT>Somehow I don't think either
+of you would be any good
+at music...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_INA><FACE_HAPPY><FP_LEFT>What wonderful music.
+I'd say this year's festival
+was a real success...<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_HAPPY><FP_RIGHT>I'm excited to find out what
+music we'll hear next year.<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>I can't wait that long!
+Forget next year, let's do
+this again next month!
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_INA><FACE_HAPPY><FP_LEFT>That was just splendid!
+What wonderful music!<PAGE><FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT>Thank you very much for
+playing for us, Mikhail.<PAGE><FACE_POS_LEFT><FACE_INA><FACE_HAPPY><FP_LEFT>Let's have another round of
+applause for Mikhail!
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy

@@ -1,0 +1,60 @@
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT><MYNAME>...
+Aku ada sesuatu yang ingin
+kusampaikan kepadamu.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>Bulu biru ini...
+Kamu tahukan kegunaan bulu
+ini, tahukan?<PAGE>Itu artinya aku akan ber-
+samamu selamanya.<PAGE>Biasanya membicarakan menge-
+nai Hayate, ayahku atau hal
+yang lainnya...<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_SHY><FP_RIGHT>Tapi ini seperti...
+Bagaimana ya cara mengatakan-
+nya ya...?<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_SHOCK><FP_RIGHT>...\u270a\u270aAku...\u270a\u270a
+jatuh cinta kepadamu.<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_SHY><FP_RIGHT>Disaat aku menyadarinya,
+aku berpikir kamu bukan
+lagi seperti halnya sama<PAGE>oranglain...
+Aku sudah agak mengubah
+gaya bahasaku..., tapi...<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>Itu bukan gayaku, kamu
+tahukan? <PAGE>Jadi disini dan
+sekarang aku ingin menga-
+takannya.<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT><MYNAME>,
+Aku jatuh cinta sama kamu.
+Apa kamu mau menikahiku?
+----------------------------|----------------------------------
+<CHOICE_AB> Yup! Kuterima!
+ Mungkin kupikirkan lagi...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>Serius!? Beneran?<PAGE>Kamu tidak mempermainkan
+perasaanku, benarkan?
+Ini beneran ya, bener?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>\u20d0Yeah!!
+Aku benar-benar senang!!<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>Whoa, Aku tidak tahu
+apa yang aku kulakukan se-
+karang...<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_SAD><FP_RIGHT>Aku tidak cukup tidur
+malam kemarin, jika kamu
+ingin tahu.<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>Aku jarang begitu loh...<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_SHOCK><FP_RIGHT>Tapi disaat ini mengenai
+kamu, itu semua sangat ber-
+harga.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_SHOCK><FP_RIGHT>Whoa, Tadi aku bicara
+apa ya !? <PAGE>Oke, dicek, kita
+kapan mengadakan upacara
+pernikahannya!<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>Sepertinya kamu sudah mem-
+persiapkannya dan juga aku!<PAGE>Jadi gimana kalau satu
+minggu dari sekarang?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>Oke, maka sudah ditentukan!<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>Aku dengar-dengar pengantin
+itu sangat sibuk, karena
+banyak yang harus dipersiap-<PAGE>kan dihari pernikahannya.
+Jadi kamu harus menyelesai-
+kan pekerjaanmu sebelum<PAGE>harinya tiba, oke?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_SAD><FP_RIGHT>Apakah kamu memikirkan itu?<PAGE>Waduh, maaf. Mungkin ini
+membuatmu memikirkannya...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>Aku akan pulang kerumah
+dan sambil ngemil makanan.
+Aku benar-benar minta<PAGE>maaf mengenai hal tadi
+barusan...
+Sampai jumpa, <MYNAME>.

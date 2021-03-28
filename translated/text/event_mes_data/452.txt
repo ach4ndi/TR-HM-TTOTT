@@ -1,0 +1,19 @@
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Teloletlolet! Kamu sudah
+mempunyai semua koleksi
+baju! Selamat!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>Kamu pastinya sangat suka
+dengan penampilan yang
+bagus,<MYNAME>!<PAGE>Apa yang kamu sukai apa
+yang kamu pakai sekarang?<PAGE>Itu sepertinya terlihat
+bagus untuk mu!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>Tapi aku yakin pakaian yang
+terlihat keren untuk kamu...
+Coba aja!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>btw, kamu seharusnya sadar
+bahwa beberapa pakaian ada
+yang memberikan efek khusus.<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>Well, selamat mencoba
+untuk mencoba semua 
+pakaian yang ada!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><HIDE_NAME><FACE_HGODDES><FACE_NORMAL><FP_LEFT><HIDE_FACE>Teloletlolet! Kamu sudah
+mempunyai semua pakaian
+sekarang! Selamat!<PAGE>btw, kamu seharusnya sudah
+mengetahui aku kan?<PAGE>Aku akan memberitahumu jika
+kamu bisa menemukan aku!<PAGE>well, selamat mencobanya!

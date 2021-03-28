@@ -1,0 +1,34 @@
+<FACE_POS_RIGHT><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>The air is so clear
+and pure around this
+spring.<PAGE>The chirp of crickets, the
+song of birds... Listen
+to nature's symphony.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MIKHAIL><FACE_HAPPY><FP_RIGHT>This would be a wonderful
+spot for some violin music,
+don't you think?
+----------------------------|----------------------------------
+<CHOICE_AB> Would you please play?
+ You don't have to play.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MIKHAIL><FACE_HAPPY><FP_RIGHT>I wouldn't deny the request
+of a lovely lady like
+yourself.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MIKHAIL><FACE_HAPPY><FP_RIGHT>Ah, the air has a unique
+quality here. It gives my
+violin a richer sound.<PAGE><FACE_POS_RIGHT><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>Did you enjoy hearing
+me play?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MIKHAIL><FACE_HAPPY><FP_RIGHT>Wonderful. I hoped you
+would.<PAGE><FACE_POS_RIGHT><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>Anyway, the hour is growing
+late. Perhaps we should
+call it a day.<PAGE>I quite enjoyed spending
+time with you, though. We
+should do this again soon.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MIKHAIL><FACE_SAD><FP_RIGHT>So you don't want to hear
+me play? Is that what you're
+saying?<PAGE>That...saddens me deeply.<PAGE><FACE_POS_RIGHT><FACE_MIKHAIL><FACE_SHY><FP_RIGHT>Have you no appreciation
+for music at all?<PAGE><FACE_POS_RIGHT><FACE_MIKHAIL><FACE_SAD><FP_RIGHT>Well, I should go.<PAGE>Perhaps someday you'll be
+able to understand my music.

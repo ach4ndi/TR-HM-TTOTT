@@ -1,0 +1,65 @@
+<FACE_POS_LEFT><FACE_ULYSSA><FACE_SHY><FP_LEFT>Arrgh...
+Ini ini TIDAK akan berhasil
+...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ULYSSA><FACE_SHY><FP_LEFT>Aku dah SEMAAAALAAAMAAAN
+bekerja dalam eksperiment
+alchemy ini!<PAGE>Tapi ini hanya... hanya...
+gak sesuai harapan.
+Gak BERHASIL!<PAGE>Secara teorinya, formulanya
+benar dan cara memasukkannya
+benar...<PAGE><FACE_POS_LEFT><FACE_ULYSSA><FACE_ANGRY><FP_LEFT>ARRRRGGGGGHHHHHHHH!!
+Kenapa aku tidak bisa me-
+lakukannya untuk satu hal<PAGE>ini!?!?
+----------------------------|----------------------------------
+<CHOICE_AB> Mungkin perhitunganmu itu?
+ Ayo kalahkan aku!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ULYSSA><FACE_ANGRY><FP_LEFT>PHOOEY!!
+Aku ini, aku ini alchemist
+terhebat sepanjang zaman!<PAGE>Aku sudah belajar alchemy
+sudah sangat lama sebelum
+kamu lahir!<PAGE>Apa kamu berpikir aku mela-
+kukan sebuah kesalahan
+dasar seperti pengukuran<PAGE>yang salah? terlalu fokus
+satu hal dan melupakan
+perhitungan yang akurat?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ULYSSA><FACE_HAPPY><FP_LEFT>Hmmph. Benar juga.
+kenapa tidak?<PAGE>Jika kamu bilang seperti
+itu, aku pikir aku harus
+mengukurnya ulang!<PAGE>Kamu kamu tunggu disini ya!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ULYSSA><FACE_NORMAL><FP_LEFT>Aku tidak mempercayahinya...
+\u270a\u270a...\u270a\u270a...\u270a\u270a<FACE_POS_LEFT><FACE_ULYSSA><FACE_ANGRY><FP_LEFT>TERNYATA AKU SALAH
+MENGUKURNYA!!
+OH MY MY!!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ULYSSA><FACE_NORMAL><FP_LEFT>T-Tapi semua orang dapat me-
+lakukan sebuah kesalahan,
+benar... BENARKAN???<PAGE>Tapi...<MYNAME>...<PAGE><FACE_POS_LEFT><FACE_ULYSSA><FACE_HAPPY><FP_LEFT>Bagaimana bisa kamu tahu
+bahwa aku salah memperhi-
+tungkannya?<PAGE>Aku pastinya udah meremeh-
+kanmu!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ULYSSA><FACE_NORMAL><FP_LEFT>Mulai dari sekarang, kamu
+bukanlah hanya korban uji
+cobaku, tapi asistenku,<PAGE>membantuku!
+bantu bantu bantu!<PAGE>Aku tahu kamu akan melaku-
+kannya dengan baik,
+<MYNAME>!<RED>❤</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ULYSSA><FACE_SHY><FP_LEFT>Itu sama sekali tidak
+membantu!!<PAGE><FACE_POS_LEFT><FACE_ULYSSA><FACE_NORMAL><FP_LEFT>Pastinya ini bukan dari
+kesalahan bahan-bahan yang
+aku pakai...<PAGE><FACE_POS_LEFT><FACE_ULYSSA><FACE_ANGRY><FP_LEFT>GrrrrrrrRRRR...!!!
+AAPAA YANG SALAH!?!?
+AKU TIDAK BISA MENERKANYA!!!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ULYSSA><FACE_SHY><FP_LEFT><MYNAME>, Aku telah menya-
+dari bahwa kamu itu cukup
+membantuku dengan tatapan<PAGE>matamu yang sungguh tajam
+itu, yang masih belia itu...<PAGE><FACE_POS_LEFT><FACE_ULYSSA><FACE_SAD><FP_LEFT>Awwww....<PAGE>Aku sebenarnya agak gengsi
+jika ingin menerima sebuah
+saran dari seseorang...<PAGE><FACE_POS_LEFT><FACE_ULYSSA><FACE_NORMAL><FP_LEFT>Okey-dokey, <MYNAME>...
+Kamu bisa pulang kerumah.

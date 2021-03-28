@@ -1,0 +1,510 @@
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Ha ha!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Weather...scary...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Ha ha!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Ha ha!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Hee hee!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_HAPPY><FP_RIGHT>Ha ha!
+Cute!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_ANGRY><FP_RIGHT>Don't like it!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Hee hee!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_HAPPY><FP_RIGHT>So fluffy!
+Hee hee!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_ANGRY><FP_RIGHT>No! Don't want now!
+
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>No! Can't take another!
+
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Hee hee!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Hee hee!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>No. Not mine.
+
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_HAPPY><FP_RIGHT>Oooh, <RED>pudding</COLOR>!!
+Love you!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_HAPPY><FP_RIGHT>Hee hee! <RED>Pudding</COLOR>!
+Pudding!
+Thanks!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Hee hee!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Hee hee!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_HAPPY><FP_RIGHT>Ooh! Birthday!
+Thanks!
+Hee hee!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_HAPPY><FP_RIGHT>Thaaank you!
+Yay!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>A present?
+Thanks!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Thank you!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_SAD><FP_RIGHT>I don't want it!
+Eww...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_SAD><FP_RIGHT>Nooo!
+Don't want it!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_ANGRY><FP_RIGHT>Waaah!
+You're mean, \u2338!
+Waaaah!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Hee hee!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Hee hee!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_HAPPY><FP_RIGHT>I love \u2338,
+and \u2338 loves me!
+
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_HAPPY><FP_RIGHT>Oooh, so windy!
+
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_HAPPY><FP_RIGHT>It's all white!
+Snow! Snow!
+Hee hee!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_HAPPY><FP_RIGHT>I love \u2338.
+I love everyone!<RED>❤</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_HAPPY><FP_RIGHT>Let's play lots,
+\u2338!
+
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Hee hee. \u2338,
+play with me!
+
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Lift me up, \u2338!
+
+
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>\u2338, pick me up!
+Pick me up!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>\u2338, give me a
+piggy back ride!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_SAD><FP_RIGHT>\u2338...
+...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Hee hee!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Hee hee!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Hee hee!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Hee hee!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Hee hee!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Hee hee!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Hee hee!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Hee hee!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Hee hee!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Hee hee!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Hee hee!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Hee hee!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Hee hee!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Hee hee!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Hee hee!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Hee hee!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Hee hee!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Hee hee!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Hee hee!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Hee hee!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Hee hee!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Hee hee!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Hee hee!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Hee hee!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Hee hee!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Hee hee!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Hee hee!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Hee hee!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Hee hee!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Hee hee!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Hee hee!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Hee hee!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Hee hee!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Hee hee!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Hee hee!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Hee hee!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>???
+What's that?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Hee hee!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Hee hee!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>I wanna pet it!
+Hee hee!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Oooh, it's nice!
+
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_SAD><FP_RIGHT>...
+Don't like...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>What's that?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Hee hee!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Hee hee!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Hee hee!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Hee hee!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Hee hee!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Hee hee!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Hee hee!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Hee hee!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Hee hee!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Hee hee!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Hee hee!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Hee hee!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_HAPPY><FP_RIGHT>So pretty!
+A flower! A flower!
+Thank you!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Hee hee!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Hee hee!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Hee hee!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Hee hee!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Hee hee!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Hee hee!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_HAPPY><FP_RIGHT>I wanna unwrap it!
+Hee hee.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_HAPPY><FP_RIGHT>I love you, \u2338!
+Pick me up!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Hee hee!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Hee hee!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Hee hee!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Hee hee!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Hee hee!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Hee hee!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Hee hee!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Hee hee!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Hee hee!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Hee hee!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Hee hee!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Hee hee!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Hee hee!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Hee hee!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Hee hee!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Hee hee!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_HAPPY><FP_RIGHT>We won! We won!
+Hee hee!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_SAD><FP_RIGHT>We lost...
+Waaaah.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>???
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Hee hee!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Hee hee!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_SAD><FP_RIGHT>Waaah.
+You lost?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Hee hee!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_SAD><FP_RIGHT>Boo....
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_HAPPY><FP_RIGHT>Festival, festival!
+Hee hee!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>No festival?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Hee hee!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Awww...
+Are you okay?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Hee hee!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Hee hee!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Hee hee!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KID><FACE_HAPPY><FP_RIGHT>Yay, \u2338!
+Happy birthday!<RED>❤</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Hee hee!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KID><FACE_HAPPY><FP_RIGHT>Mom, Dad.
+Happy Birthday!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Hee hee!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KID><FACE_HAPPY><FP_RIGHT>A birthday!
+Yay!<RED>❤</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Hee hee!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Hee hee!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Hee hee!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KID><FACE_HAPPY><FP_RIGHT>Thank you, Mom, Dad!!
+I love you!<RED>❤</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Hee hee!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KID><FACE_HAPPY><FP_RIGHT>Mom and Dad love
+each other!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Hee hee!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Hee hee!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Hee hee!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Hee hee!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Hee hee!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Hee hee!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Hee hee!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Hee hee!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Hee hee!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Hee hee!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Hee hee!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Hee hee!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Hee hee!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Hee hee!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Hee hee!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Hee hee!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Hee hee!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Hee hee!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Hee hee!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Hee hee!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Hee hee!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Hee hee!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Hee hee!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Hee hee!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Hee hee!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Hee hee!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Hee hee!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_SAD><FP_RIGHT>Morning, \u2338!
+I'm sleepy.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Morning, \u2338!<PAGE>Work today?
+Bye bye!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>\u2338, good morning!
+Play with me!<PAGE>You have to work?
+Boo...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>\u2338,
+you have to work?
+Come play soon!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_SAD><FP_RIGHT>I wanna go outside!
+I can't?
+Boo...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>\u2338!
+You're home!
+Time to play?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_SAD><FP_RIGHT>\u2338, you're home!
+Yawn...
+I'm sleepy.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_SAD><FP_RIGHT>\u2338,
+I'm sleepy...
+It's bedtime?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_SAD><FP_RIGHT>I'm sleepy!
+Yawn...
+
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Hee hee!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Hee hee!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Hee hee!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Hee hee!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Hee hee!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Hee hee!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Hee hee!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Hee hee!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Hee hee!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>\u2338!
+Pick me up!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>\u2338!
+Pick me up!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>\u2338!
+Pick me up!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Hee hee!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Hee hee!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Hee hee!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Hee hee!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Hee hee!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Hee hee!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Hee hee!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Hee hee!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Hee hee!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Is it yummy?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_HAPPY><FP_RIGHT>Wow, \u2338!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_HAPPY><FP_RIGHT>\u2338! Good job!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Is it over?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>No festival?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Boo...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Yay, \u2338!
+Good job!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_HAPPY><FP_RIGHT>Yay! Good job!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Yay! Good job!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Yawn...
+I'm sleepy.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>\u2338, pick me up!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>\u2338,
+you're home!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_HAPPY><FP_RIGHT>Yay, \u2338!
+Good job!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Did you win, \u2338?
+
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_HAPPY><FP_RIGHT>Congratulations!
+Good job!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_HAPPY><FP_RIGHT>Congratulations!
+Good job!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_HAPPY><FP_RIGHT>\u2338, congratulations!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Did you win, \u2338?

@@ -1,0 +1,90 @@
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>ERROR!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_SHENG><FACE_NORMAL><FP_RIGHT>So you came, eh?
+I knew you would.<PAGE>I know why you're here, too,
+<MYNAME>.
+To upgrade your tools, eh?<PAGE>Need me to explain how it
+works?<PAGE><CHOICE_AB> Yes
+ No
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_SHENG><FACE_NORMAL><FP_RIGHT>There are three tools
+you can upgrade:<PAGE>the watering can, sickle,
+and hoe.
+<PAGE>When you upgrade any of
+them, they'll work better!<PAGE>For example, if you upgrade
+your hoe...<PAGE><FACE_POS_RIGHT><FACE_SHENG><FACE_HAPPY>...you can till a wider area
+with each swing of the hoe!
+How about that, eh?<PAGE><FACE_POS_RIGHT><FACE_SHENG><FACE_NORMAL>You can try it out later.<PAGE>Well...
+Which tool do you want to
+upgrade?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_SHENG><FACE_HAPPY><FP_RIGHT>Of course, a sharp youngster
+like you doesn't need to
+have it explained!<PAGE><FACE_POS_RIGHT><FACE_SHENG><FACE_NORMAL>Well...
+Which tool do you want to
+upgrade?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_SHENG><FACE_ANGRY><FP_RIGHT>\u20d0Yee-haw!
+<PAGE>I'll give you the request
+you need for that!
+
+----------------------------|----------------------------------
+\u2137You got the request for the
+<RED><VAR_0></COLOR> upgrade!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>ERROR!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>ERROR!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>ERROR!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>ERROR!</COLOR>
+----------------------------|----------------------------------
+\u2137<CHOICE_AB> <VAR_0>
+ <VAR_1>
+----------------------------|----------------------------------
+\u2137<CHOICE_ABC> <VAR_0>
+ <VAR_1>
+ <VAR_2>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>ERROR!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>ERROR!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>ERROR!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>ERROR!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>ERROR!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>ERROR!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>ERROR!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>ERROR!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Hmph.
+Right now you can only
+upgrade your <RED>hoe</COLOR>.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Hmph.
+Right now you can only
+upgrade your <RED>watering can</COLOR>.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Hmph.
+Right now you can only
+upgrade your <RED>sickle</COLOR>.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>ERROR!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>ERROR!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>ERROR!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>ERROR!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>ERROR!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>ERROR!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>ERROR!</COLOR>

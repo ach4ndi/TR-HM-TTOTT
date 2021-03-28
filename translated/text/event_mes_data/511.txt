@@ -1,0 +1,85 @@
+<FACE_POS_LEFT><HIDE_NAME><FACE_YUN><FACE_NORMAL><FP_LEFT><HIDE_FACE>Hi sayang, <MYNAME>,
+apakah kamu sudah bangun?
+eh jangan tidur lagi ya.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><HIDE_NAME><FACE_YUN><FACE_NORMAL><FP_RIGHT>Aku senang bertemu denganmu!<PAGE>Tapi maafkan aku juga kare-
+na sudah membangunkanmu se-
+pagi ini dihari ini.<PAGE><FACE_POS_RIGHT><FACE_YUN><FACE_HAPPY><FP_RIGHT>Nama aku <BLUE>Yun</COLOR>.<PAGE>Aku menjalankan sebuah toko
+bernama "Rumah teh Yun" di
+desa Konohana ini.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_YUN><FACE_HAPPY><FP_RIGHT>Tapi akhiri basa basinya...<PAGE>Aku datang kemari untuk
+memberikan sebuah hadiah
+peralatan dapur!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_YUN><FACE_NORMAL><FP_RIGHT>Maafkan aku untuk membangun-
+kanmu sepagi ini, tapi ada
+sebuah hadiah peralatan<PAGE>dapur dari aku untukmu!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_YUN><FACE_HAPPY><FP_RIGHT>Ayo pergi kedapurmu.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_YUN><FACE_NORMAL><FP_LEFT>Ini adalah sebuah <RED>panci</COLOR>!<PAGE>Ada banyak resep yang dapat
+dimasak dengan menggunakan
+panci loh!<PAGE>Gunakan ini akan membuatmu
+dapat bisa lebih banyak
+resep yang bisa dimasak!<PAGE><FACE_POS_LEFT><FACE_YUN><FACE_HAPPY><FP_LEFT>Gunakan dengan bijak ya!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_YUN><FACE_NORMAL><FP_LEFT>Sekarang, apakah kamu tahu
+bagaimana memperlajari
+sebuah resep, <MYNAME>?
+----------------------------|----------------------------------
+<CHOICE_AB> Beritahu aku!
+ Aku sudah tahu, makasih.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_YUN><FACE_HAPPY><FP_LEFT>Oh, oh, oke. Maka aku akan
+menjelaskan ini kepadamu.<PAGE><FACE_POS_LEFT><FACE_YUN><FACE_NORMAL><FP_LEFT>Ada dua cara kamu memperla-
+jari sebuah resep.<PAGE>Pertama yaitu membaca sebuah
+buku masak dan mengikuti
+instruksinya.<PAGE><FACE_POS_LEFT><FACE_YUN><FACE_HAPPY><FP_LEFT>Jika kamu membuat masakan
+itu dengan benar, kamu akan
+memperlajari resep itu!<PAGE><FACE_POS_LEFT><FACE_YUN><FACE_NORMAL><FP_LEFT>Kedua yaitu memikirkan se-
+buah resep setelah kamu
+mendapatkan <RED>inspirasi</COLOR>!<PAGE>Jika kamu memasak banyak
+hidangan, terkadang kamu
+akan mempunyai sebuah ide<PAGE>sebuah masakan baru yang
+ingin dicoba!<PAGE><FACE_POS_LEFT><FACE_YUN><FACE_HAPPY><FP_LEFT>Walaupun itu kamu memasak
+resep yang sama, kamu se-
+harusnya membuatnya satu<PAGE>persatu!
+Itulah caranya untuk men-
+dapatkan sebuah inspirasi!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_YUN><FACE_NORMAL><FP_LEFT>Jadi, itulah bagaimana kamu
+memperlajari sebuah resep!
+Apakah kamu sudah mengerti?
+----------------------------|----------------------------------
+<CHOICE_AB> Ya, mengerti!
+ Jelaskan lagi donk.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_YUN><FACE_NORMAL><FP_LEFT>Okelah, persiapkan hatimu
+ya! Mari aku jelaskan lagi!<PAGE><FACE_POS_LEFT><FACE_YUN><FACE_NORMAL><FP_LEFT>Ada dua cara kamu memperla-
+jari sebuah resep.<PAGE>Pertama yaitu membaca sebuah
+buku masak dan mengikuti
+instruksinya.<PAGE><FACE_POS_LEFT><FACE_YUN><FACE_HAPPY><FP_LEFT>Jika kamu membuat masakan
+itu dengan benar, kamu akan
+memperlajari resep itu!<PAGE><FACE_POS_LEFT><FACE_YUN><FACE_NORMAL><FP_LEFT>Kedua yaitu memikirkan se-
+buah resep setelah kamu
+mendapatkan <RED>inspirasi</COLOR>!<PAGE>Jika kamu memasak banyak
+hidangan, terkadang kamu
+akan mempunyai sebuah ide<PAGE>sebuah masakan baru yang
+ingin dicoba!<PAGE><FACE_POS_LEFT><FACE_YUN><FACE_HAPPY><FP_LEFT>Walaupun itu kamu memasak
+resep yang sama, kamu se-
+harusnya membuatnya satu<PAGE>persatu!
+Itulah caranya untuk men-
+dapatkan sebuah inspirasi!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_YUN><FACE_HAPPY><FP_LEFT>Kenapa, tentu saja itu kamu,
+<MYNAME>!<PAGE><FACE_POS_LEFT><FACE_YUN><FACE_NORMAL><FP_LEFT>Kamu juga dapat mendapatkan
+sebuah <RED>penggorengan</COLOR> dan
+<RED>rak bumbu</COLOR>!<PAGE>Aku akan menaruhkan sebuah
+informasi itu dipapan per-
+mintaan disaat itu kamu<PAGE>dapat memilikinya!<PAGE><FACE_POS_LEFT><FACE_YUN><FACE_HAPPY><FP_LEFT>Oh, kamu harus memakai pan-
+ci itu dengan memasak resep
+yang mudah...<PAGE>..., bagaimana kalau mema-
+sak <RED>telur resbus</COLOR>?<PAGE><FACE_POS_LEFT><FACE_YUN><FACE_NORMAL><FP_LEFT>Kelihatannya waktunya su-
+dah bisa menunggu lagi!<PAGE>Datang dan kunjungi aku
+ya di rumah teh Yun ya!

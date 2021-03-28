@@ -1,0 +1,128 @@
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL>Welcome to Jessica's
+Livestock!
+\u2390
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><CHOICE_ABC> Buy animals.
+ Sell/Impregnate animals.
+ Never mind.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_SAD>I don't have any animals
+for sale today. Sorry.
+Come by another time.\u2390
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_SAD>We don't have any animals
+ready for sale today.
+Sorry...\u2390
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL>Okay, then.
+Come by any time.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL>Sorry, you're short on cash.
+Come back when you have
+more money.\u2390
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL>Looks like you don't have
+anywhere to put them. I
+can't sell them to you.\u2390
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL>Oh? Changed your mind?
+You want a different
+animal?\u2390
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL>Is <RED><VAR_0>G</COLOR> OK?
+<CHOICE_AB> Yes.
+ Never mind.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_HAPPY>What do you want
+to name it?\u2390
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL>Is <RED><VAR_0></COLOR> OK?
+<CHOICE_AB> Yes!
+ No!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL>You've never had this animal
+before, right?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL>Want me to explain its care?
+<CHOICE_AB> I already know.
+ Yes, please.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_SAD>You don't have any animals
+that can get pregnant.\u2390
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_HAPPY>Thank you!
+Take good care of it!\u2390
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL>You can't sell that one
+because it's pregnant at
+the moment.\u2390
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL>Huh?
+Changed your mind?
+Okay. Anything else, then?\u2390
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL>That'll be <RED><VAR_0>G</COLOR>.
+<CHOICE_AB> Sell.
+ Never mind.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL>Thank you very much.
+Need anything else?\u2390
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><CHOICE_ABC> Get animal pregnant.
+ Sell animal.
+ Never mind.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL>It's too young to get
+pregnant. Sorry...\u2390
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_SAD>Sorry, but sick animals
+can't get pregnant.\u2390
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_SAD>How are your animals
+doing? I hope you're
+taking good care of them.\u2390
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL>You don't have space
+for a new animal.\u2390
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_SAD>I can't get two animals
+pregnant at the same time.\u2390
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL>Oh? You changed your mind?
+Do you need anything else?\u2390
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL>What animal would you like?\u2390
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL>That'll be <RED><VAR_0>G</COLOR>.
+<CHOICE_AB> Get her pregnant.
+ Never mind.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_HAPPY>Okay, then. Let me keep her
+for a while!\u2390
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL>Looks like your bag is full.<PAGE>I can't give you the tools
+for the animal. Come back
+when you have more space.\u2390
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_SAD>She seems to be sick.
+I recommend you bring her in
+when she's not sick.\u2390
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_SAD>Are you taking good care of
+of it? Come back again when
+you brush it.\u2390
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_HAPPY>I'll show you how to take
+care of alpacas.<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_HAPPY>Well, it's actually just
+like how you take care of
+sheep.<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_HAPPY>On a sunny day, bring them
+outside to graze. On a
+rainy day, feed them fodder.<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL>You can shear them to get
+<RED>alpaca wool</COLOR> from
+the day you have them.<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_HAPPY>The better your relationship
+with your alpacas, the
+better their wool will be.<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL>Talk to them every day to
+build your friendship with
+them.<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL>That's pretty much all
+you need to know about
+alpacas.\u2390

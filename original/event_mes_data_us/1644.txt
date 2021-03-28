@@ -1,0 +1,708 @@
+<FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>Thanks.
+You've been a big help.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>Thanks.
+You've been a big help.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>Thanks so much for all
+your help!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>Thanks so much for all
+your help!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>Thanks a lot.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_HAPPY><FP_RIGHT>This was a big help.
+Thanks very much.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_NORMAL><FP_RIGHT>This was a big help.
+Thanks very much.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_HAPPY><FP_RIGHT>This was a big help.
+Thanks very much.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_HAPPY><FP_RIGHT>This was a big help.
+Thanks very much.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_HAPPY><FP_RIGHT>Thanks a lot.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_HAPPY><FP_RIGHT>Thanks for all your help.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT>Thanks for all your help.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_HAPPY><FP_RIGHT>Thanks for all your help.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_HAPPY><FP_RIGHT>Thanks for your help.
+I know this'll be a hit.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_HAPPY><FP_RIGHT>Thanks a lot.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>Thanks!
+You're a lifesaver!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>Thanks!
+You're a lifesaver!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>Thanks!
+You're a lifesaver!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>Thanks!
+You're a lifesaver!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>Thanks a lot.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MIKHAIL><FACE_HAPPY><FP_RIGHT>Thanks for all your help!
+<PAGE><FACE_POS_RIGHT><FACE_MIKHAIL><FACE_NORMAL>How can I describe just
+how thankful I am?<PAGE><FACE_POS_RIGHT><FACE_MIKHAIL><FACE_SAD>If only you could here
+the sound of my heart...
+<PAGE>you could hear just how
+thankful I am...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MIKHAIL><FACE_HAPPY><FP_RIGHT>Thanks for all your help!
+<PAGE><FACE_POS_RIGHT><FACE_MIKHAIL><FACE_NORMAL>I lack the words to express
+the depth of my gratitude.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MIKHAIL><FACE_HAPPY><FP_RIGHT>Thanks for all your help!
+<PAGE><FACE_POS_RIGHT><FACE_MIKHAIL><FACE_NORMAL>I lack the words to express
+the depth of my gratitude.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MIKHAIL><FACE_HAPPY><FP_RIGHT>Thanks for all your help!
+<PAGE><FACE_POS_RIGHT><FACE_MIKHAIL><FACE_NORMAL>I lack the words to express
+the depth of my gratitude.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MIKHAIL><FACE_HAPPY><FP_RIGHT>You have my utmost
+thanks!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_HAPPY><FP_RIGHT>Thanks so much
+for your help!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_HAPPY><FP_RIGHT>Thanks so much
+for your help!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_HAPPY><FP_RIGHT>Thanks so much
+for your help!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_HAPPY><FP_RIGHT>Thanks so much
+for your help!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_HAPPY><FP_RIGHT>Thanks so much!
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>Why, thank you kindly!
+I knew I could count on
+you, now!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_HAPPY><FP_RIGHT>Why, thank you kindly!
+I knew I could count on
+you, now!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_HAPPY><FP_RIGHT>Why, thank you kindly!
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_HAPPY><FP_RIGHT>Why, thank you kindly!
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_HAPPY><FP_RIGHT>Thanks a lot.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_HAPPY><FP_RIGHT>That was really helpful.
+Thanks...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_SHOCK><FP_RIGHT>That was really helpful.
+Thanks...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_HAPPY><FP_RIGHT>Great work.
+Thanks.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_SHY><FP_RIGHT>Y-You were a big help.
+Thanks.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_HAPPY><FP_RIGHT>Thanks a lot.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>I'm sure my grandfather
+will love this.
+Thank you so much.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Thanks so much.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>Thanks so much.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>Thanks so much.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Thanks a lot.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>Thanks!
+It's just what I needed!
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>Thanks!
+It's just what I needed!
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>It's just what I needed!
+Thanks!
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>It's just what I needed!
+Thanks!
+<PAGE>Hee hee.
+So FLUFFY!<RED>❤</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>Thanks sooooo much.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Thank you!
+You've been a real help!
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Thank you!
+You've been a real help!
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Thank you!
+You've been a real help!
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Thank you!
+You've been a real help!
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Thanks a lot.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ROSE><FACE_HAPPY><FP_RIGHT>I knew I could count on you
+to do a lovely job,
+dear...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ROSE><FACE_HAPPY><FP_RIGHT>Thank you very much, dear.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ROSE><FACE_HAPPY><FP_RIGHT><BLUE>★★★★★★★★★★★★★★
+Message Won't Appear!
+★★★★★★★★★★★★★★</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ROSE><FACE_HAPPY><FP_RIGHT><BLUE>★★★★★★★★★★★★★★
+Message Won't Appear!
+★★★★★★★★★★★★★★</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ROSE><FACE_HAPPY><FP_RIGHT>Thank you very much.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_HAPPY><FP_RIGHT>Thanks a lot.
+You've been a real help.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_HAPPY><FP_RIGHT>Thanks a lot.
+You've been a real help.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_HAPPY><FP_RIGHT>Thanks a lot.
+You've been a real help.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_HAPPY><FP_RIGHT>Thanks a lot.
+You've been a real help.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_HAPPY><FP_RIGHT>Thanks a lot.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CHERYL><FACE_HAPPY><FP_RIGHT>Thanks for helping me!
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CHERYL><FACE_HAPPY><FP_RIGHT>Thanks for helping me!
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CHERYL><FACE_HAPPY><FP_RIGHT>Thanks for helping me!
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CHERYL><FACE_HAPPY><FP_RIGHT>Thanks for helping me!
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CHERYL><FACE_HAPPY><FP_RIGHT>Thanks a lot.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_EILEEN><FACE_HAPPY><FP_RIGHT>You've been a big help!
+Thanks!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_EILEEN><FACE_HAPPY><FP_RIGHT>You've been a big help!
+Thanks!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_EILEEN><FACE_HAPPY>Thanks a lot, <MYNAME>!
+You really helped me
+out here!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_EILEEN><FACE_HAPPY><FP_RIGHT>You've been a big help!
+Thanks!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_EILEEN><FACE_HAPPY><FP_RIGHT>Thanks a lot.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HOWARD><FACE_HAPPY><FP_RIGHT>Thank you soooo much,
+<MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HOWARD><FACE_HAPPY><FP_RIGHT>Oh ho!<RED>❤</COLOR> Thanks!
+You've been a big help,
+<MYNAME>!<PAGE>This is just what
+I needed!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HOWARD><FACE_HAPPY><FP_RIGHT>Thanks for this!
+It'll help a lot!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HOWARD><FACE_HAPPY><FP_RIGHT>Good work, <MYNAME>!
+I knew I could count on you!
+You're such a sweetheart!<RED>❤</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HOWARD><FACE_HAPPY><FP_RIGHT>Thanks soooo much!
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GRADY><FACE_HAPPY><FP_RIGHT>You're a lifesaver!
+Thank you!
+Thank you!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GRADY><FACE_HAPPY><FP_RIGHT>Thanks a lot!
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GRADY><FACE_HAPPY><FP_RIGHT>Thanks!
+This was a big help!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GRADY><FACE_HAPPY><FP_RIGHT>Thanks!
+This was a big help!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GRADY><FACE_HAPPY><FP_RIGHT>Thanks a lot.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NATHAN><FACE_HAPPY><FP_RIGHT>I'm sure the Harvest
+Goddess knows of your
+good deeds...<PAGE>May she bless you!
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NATHAN><FACE_HAPPY><FP_RIGHT>I'm sure the Harvest
+Goddess knows of your
+good deeds...<PAGE>May she bless you!
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NATHAN><FACE_HAPPY><FP_RIGHT>Thank you so much for
+granting my selfish
+wish, <MYNAME>...<PAGE>I'm so grateful!
+May the Harvest Goddess
+bless you!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NATHAN><FACE_HAPPY><FP_RIGHT>I'm sure the Harvest
+Goddess knows of your
+good deeds...<PAGE>May she grant
+you happiness...
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NATHAN><FACE_HAPPY><FP_RIGHT>Thanks a lot.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>I'm sure the Harvest
+Goddess knows of your
+good deeds...<PAGE>May she grant
+you happiness...
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>I'm sure the Harvest
+Goddess knows of your
+good deeds...<PAGE>May she grant
+you happiness...
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>I'm sure the Harvest
+Goddess knows of your
+good deeds...<PAGE>May she grant
+you happiness...
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>I'm sure the Harvest
+Goddess knows of your
+good deeds...<PAGE>May she grant
+you happiness...
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Thanks a lot.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>Thank you.
+You've been a big help.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>Thank you.
+You've been a big help.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT><BLUE>★★★★★★★★★★★★★★
+Message Won't Appear!
+★★★★★★★★★★★★★★</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT><BLUE>★★★★★★★★★★★★★★
+Message Won't Appear!
+★★★★★★★★★★★★★★</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>Thanks a lot.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RAHI><FACE_HAPPY><FP_RIGHT>Thanks for all your help.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RAHI><FACE_HAPPY><FP_RIGHT>Thanks for all your help.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Th-Thanks a lot!
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Th-Thanks a lot!
+<PAGE><FACE_POS_RIGHT><FACE_RAHI><FACE_ANGRY>Please don't smirk!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RAHI><FACE_HAPPY><FP_RIGHT>Thanks a lot.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_HAPPY><FP_RIGHT>Thank you!
+You're a lifesaver!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_HAPPY><FP_RIGHT>Thanks, <MYNAME>!
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_HAPPY><FP_RIGHT>Thanks a lot!
+You're a lifesaver!
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_HAPPY><FP_RIGHT>Thanks a lot!
+You're a lifesaver!
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_HAPPY><FP_RIGHT>Thanks a lot.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MAKO><FACE_HAPPY><FP_RIGHT>This was a big help.
+Thanks.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MAKO><FACE_HAPPY><FP_RIGHT>Hmm!
+Great job!
+Really great job!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MAKO><FACE_HAPPY><FP_RIGHT>This was a big help.
+Thanks.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MAKO><FACE_HAPPY><FP_RIGHT>This was a big help.
+Thanks.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MAKO><FACE_HAPPY><FP_RIGHT>Thanks a lot.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_AYAME><FACE_HAPPY><FP_RIGHT>You know your stuff!
+I'm impressed!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_AYAME><FACE_HAPPY><FP_RIGHT>You know your stuff!
+I'm impressed!<PAGE>This will really speed up
+my research...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_AYAME><FACE_HAPPY><FP_RIGHT>You know your stuff!
+I'm impressed!<PAGE>This will really speed up
+my research...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_AYAME><FACE_HAPPY><FP_RIGHT>You know your stuff!
+I'm impressed!<PAGE>This will really speed up
+my research...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_AYAME><FACE_HAPPY><FP_RIGHT>Thanks a lot.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_YUN><FACE_HAPPY><FP_RIGHT>Thank you!
+I knew I could count on you.
+You've been such a help!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_YUN><FACE_HAPPY><FP_RIGHT>Thank you!
+I knew I could count on you.
+You've been such a help!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_YUN><FACE_HAPPY><FP_RIGHT>You've been such a help!
+I'm very satisfied!
+This is just perfect!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_YUN><FACE_HAPPY><FP_RIGHT>You've been such a help!
+I'm very satisfied!
+This is just perfect!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_YUN><FACE_HAPPY><FP_RIGHT>Thanks a lot.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_YING><FACE_HAPPY><FP_RIGHT>Thanks so much.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_YING><FACE_HAPPY><FP_RIGHT>Wow, <MYNAME>...
+You did great.
+Thanks!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_YING><FACE_HAPPY><FP_RIGHT>Thanks so much.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_YING><FACE_HAPPY><FP_RIGHT>Thanks so much.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_YING><FACE_HAPPY><FP_RIGHT>Thanks a lot.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_HAPPY><FP_RIGHT>This is great!
+Thank you!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_HAPPY><FP_RIGHT>Thanks for your help!
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_HAPPY><FP_RIGHT>Thanks for your help!
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_HAPPY><FP_RIGHT>Thanks for your help!
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_HAPPY><FP_RIGHT>Thanks a lot.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_SHENG><FACE_HAPPY><FP_RIGHT>This was a real help!
+Thanks!
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_SHENG><FACE_HAPPY><FP_RIGHT>This was a real help!
+Thanks!
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_SHENG><FACE_HAPPY><FP_RIGHT>This was a real help!
+Thanks!
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_SHENG><FACE_HAPPY><FP_RIGHT>This was a real help!
+Thanks!
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_SHENG><FACE_HAPPY><FP_RIGHT>Thanks a lot.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIEGO><FACE_HAPPY><FP_RIGHT>Thanks a lot!
+Hope I can count
+on you again!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIEGO><FACE_HAPPY><FP_RIGHT>Thanks a lot!
+Hope I can count
+on you again!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIEGO><FACE_HAPPY><FP_RIGHT>Thanks a lot!
+Hope I can count
+on you again!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIEGO><FACE_HAPPY><FP_RIGHT>Thanks a lot!
+Hope I can count
+on you again!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIEGO><FACE_HAPPY><FP_RIGHT>Thanks a lot.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RAUL><FACE_HAPPY><FP_RIGHT>Thanks a lot!
+Hope I can count
+on you again!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RAUL><FACE_HAPPY><FP_RIGHT>Great work, <MYNAME>!
+This is just what I need!
+Ho ho ho!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RAUL><FACE_HAPPY><FP_RIGHT>Thanks a lot!
+Hope I can count
+on you again!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RAUL><FACE_HAPPY><FP_RIGHT>Thanks a lot!
+Hope I can count
+on you again!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RAUL><FACE_HAPPY><FP_RIGHT>Thanks a lot.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ENRIQUE><FACE_HAPPY><FP_RIGHT>Thanks a lot!
+Hope I can count
+on you again!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ENRIQUE><FACE_HAPPY><FP_RIGHT>Thanks a lot!
+Hope I can count
+on you again!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ENRIQUE><FACE_HAPPY><FP_RIGHT>Thanks a lot!
+Hope I can count
+on you again!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ENRIQUE><FACE_HAPPY><FP_RIGHT>Thanks a lot!
+Hope I can count
+on you again!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ENRIQUE><FACE_HAPPY><FP_RIGHT>Thanks a lot.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_HAPPY><FP_RIGHT>Thanks a lot.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_HAPPY><FP_RIGHT>Thanks a lot.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_HAPPY><FP_RIGHT>Thanks a lot.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_HAPPY><FP_RIGHT>Thanks a lot.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_HAPPY><FP_RIGHT>Thanks a lot.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Thanks!
+You've been a big help!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Thanks!
+You've been a big help!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Thanks!
+You've been a big help!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Thanks!
+You've been a big help!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Thanks a lot.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KID><FACE_NORMAL><FP_RIGHT>Thanks a lot.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KID><FACE_NORMAL><FP_RIGHT>Thanks a lot.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KID><FACE_NORMAL><FP_RIGHT>Thanks a lot.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KID><FACE_NORMAL><FP_RIGHT>Thanks a lot.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KID><FACE_NORMAL><FP_RIGHT>Thanks a lot.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HERO><FACE_NORMAL><FP_RIGHT>Thanks a lot.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HERO><FACE_NORMAL><FP_RIGHT>Thanks a lot.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HERO><FACE_NORMAL><FP_RIGHT>Thanks a lot.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HERO><FACE_NORMAL><FP_RIGHT>Thanks a lot.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HERO><FACE_NORMAL><FP_RIGHT>Thanks a lot.
+
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fc8<FP_RIGHT>Thanks.
+I'll savor it...
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fc8<FP_RIGHT>Thanks!
+This will make my
+family happy.
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fc8<FP_RIGHT>Thanks.
+I'll savor this.
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fc8<FP_RIGHT>Thanks.
+This is a big help.
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fc8<FP_RIGHT>Thanks a lot.
+
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fc9<FP_RIGHT>Heh.
+Thanks!<RED>❤</COLOR>
+You're so helpful.
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fc9<FP_RIGHT>Heh.
+Thanks!<RED>❤</COLOR>
+You're so helpful.
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fc9<FP_RIGHT>Heh.
+Thanks!<RED>❤</COLOR>
+You're so helpful.
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fc9<FP_RIGHT>Heh.
+Thanks!<RED>❤</COLOR>
+You're so helpful.
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fc9<FP_RIGHT>Thanks a lot.
+
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fca<FP_RIGHT>Thanks.
+I'll treasure it.
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fca<FP_RIGHT>Thanks.
+I'll use it well.
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fca<FP_RIGHT>Thanks.
+This was a big help.
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fca<FP_RIGHT>Thanks.
+This was a big help.
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fca<FP_RIGHT>Thanks a lot.
+
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fcb<FP_RIGHT>Thanks.
+I'll treasure it.
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fcb<FP_RIGHT>Thanks.
+I'll use it well.
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fcb<FP_RIGHT>Thanks.
+I'll take good care
+of it.
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fcb<FP_RIGHT>Thanks.
+You really helped me out.
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fcb<FP_RIGHT>Thanks a lot.
+
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fcc<FP_RIGHT>Thanks a lot!
+
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fcc<FP_RIGHT>Thanks for this!
+I still think mine is better
+than yours, though!
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fcc<FP_RIGHT>Well, thanks anyway!
+<PAGE>D-Don't smirk at
+me like that!
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fcc<FP_RIGHT>Well, thanks anyway!
+<PAGE>D-Don't smirk at
+me like that!
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fcc<FP_RIGHT>Thanks a lot.
+
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fcd<FP_RIGHT>Oh!<PAGE>...*cough*<PAGE>This is so much better
+than what I expected.
+<PAGE>I suppose I owe you my
+thanks.
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fcd<FP_RIGHT>I got it.
+Thanks.
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fcd<FP_RIGHT>But...
+I guess I do need to
+get my name out more...<PAGE>Thanks for this, anyway.
+
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fcd<FP_RIGHT>Oh!<PAGE>...\u270b*cough*<PAGE>Thanks, I guess.
+
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fcd<FP_RIGHT>Thanks a lot.

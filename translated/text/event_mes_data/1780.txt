@@ -1,0 +1,61 @@
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>-Kosong-
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Apa kamu melihat papan
+pesan? Aku sudah
+menunggumu!<PAGE><FACE_POS_RIGHT><FACE_EILEEN><FACE_HAPPY>Apakah kamu sudah
+mempunyai semua material
+untuk aku?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>-Kosong-
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>-Kosong-
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_EILEEN><FACE_HAPPY><FP_RIGHT>Bagus! Makasih!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>-Kosong-
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Sekarang untuk uangnya.
+Semuanya, <VAR_0>G.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>-Kosong-
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>-Kosong-
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>-Kosong-
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>-Kosong-
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>-Kosong-
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_EILEEN><FACE_HAPPY><FP_RIGHT>Kamu memberikan semuanya
+yang aku butuhkan untuk
+perluasannya! Bagus sekali!<PAGE><FACE_POS_RIGHT><FACE_EILEEN><FACE_NORMAL>Ayo sekarang pergi!
+Aku akan langsung 
+mengerjakannya.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Sekarang kamu hanya menunggu
+disini... Aku akan menyele-
+saikannya dengan kilat!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>-Kosong-
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>-Kosong-
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Semuanya sudah selesai!
+Dan pekerjaan yang baik,
+jika aku mengatakannya!<PAGE>Ternyata batu itu sangat
+mudah dihancurkan.<PAGE><FACE_POS_RIGHT><FACE_EILEEN><FACE_SAD>Tapi terowongannya keli-
+hatan lebih dalam yang
+aku perkirakan...<PAGE>Sepertinya masih <RED>lama</COLOR>.
+sebelum kamu bisa menembus
+semua hal disitu.<PAGE><FACE_POS_RIGHT><FACE_EILEEN><FACE_NORMAL>Datang keaku lagi disaat
+kamu ingin menggalinya
+lebih dalam.<PAGE><FACE_POS_RIGHT><FACE_EILEEN><FACE_HAPPY>Pekerjaan aku disini sudah
+selesai semuanya, jadi aku
+akan pulang. Sampai jumpa.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>-Kosong-
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>-Kosong-
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>-Kosong-

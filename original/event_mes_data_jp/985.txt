@@ -1,0 +1,45 @@
+<FACE_POS_RIGHT><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>それでは、これより…<PAGE>新郎アーシュと、
+新婦<MYNAME>の結婚式を
+行います。
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>…新郎アーシュ。<PAGE>あなたは、<MYNAME>を
+一生愛し、明るく幸せな家庭を
+築く事を誓いますか？<PAGE><FACE_POS_LEFT><FACE_ASH><FACE_HAPPY><FP_LEFT>はい、誓います。
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>…新婦<MYNAME>。<PAGE>あなたはアーシュを
+一生愛し、明るく幸せな家庭を
+築く事を誓いますか？
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>それでは、今ここに
+新しい夫婦が生まれた事を
+認めましょう！<PAGE><FACE_POS_RIGHT><FACE_NATHAN><FACE_HAPPY><FP_RIGHT>この幸福な２人に、
+女神さまの祝福が
+あらんことを！
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ASH><FACE_SHOCK><FP_LEFT><MYNAME>。
+オレ、キミが大好きだよ。
+絶対幸せにするからね。
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_SHOCK><FP_RIGHT>今日から、オレ達２人の
+新しい生活がはじまるんだね。<PAGE>そうだ。せっかくだから、
+お互いの呼び方を、
+変えてみようよ。<PAGE><FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>オレの事は、アーシュで。
+<MYNAME>は、
+何て呼んでほしい？
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL><FP_RIGHT><MYNICKNAME>。
+これでいいの？
+----------------------------|----------------------------------
+<CHOICE_AB> いいよ
+ もう１回考えなおす
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>じゃあ、
+これで決まりだね。<PAGE><FACE_POS_RIGHT><FACE_ASH><FACE_SHOCK><FP_RIGHT>これから、よろしく。
+…<MYNICKNAME>。
+----------------------------|----------------------------------
+さあ、新生活のスタートだ！
+今日はゆっくり休んで、
+明日からまた頑張ろう♪
+----------------------------|----------------------------------
+<CHOICE_AB> セーブして寝る
+ セーブしないで寝る

@@ -1,0 +1,28 @@
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_SHY><FP_RIGHT>If my memory serves me, that
+<RED>blue feather</COLOR> means...
+m-m-marriage...!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_SHOCK><FP_RIGHT>Aaaiiiiiyyyyyeeee!!
+Are you serious!?<PAGE>E-Even though I'm way, way,
+WAAAAYYYYY older than you?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_SHOCK><FP_RIGHT>Oooh-wooh...
+That doesn't bug you,
+<MYNAME>?<PAGE>I guess you're not the kind
+of guy who'd have a problem
+with that, are you?<PAGE>That's what I like about
+you, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>Okey-dokey, then!!!
+I accept your proposal!<PAGE>I ask just one thing...\u270a\u270a
+That you make me very, very,
+VERY, very, very happy!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>Oooh, we better pick our
+wedding day! Let's do it in
+about one week!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>Yep, that's what we'll do!<PAGE>You'll be busy all day on
+our wedding day.<PAGE>You won't have time to do
+any work or chores. So get
+it all done the day before!

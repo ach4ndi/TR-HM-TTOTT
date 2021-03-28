@@ -1,0 +1,42 @@
+<FACE_POS_LEFT><FACE_JESSICA><FACE_HAPPY><FP_LEFT>La la la♪
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Ash!
+Cheryl!
+Makanannya sudah siap!
+----------------------------|----------------------------------
+Okay!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_CHERYL><FACE_NORMAL><FP_LEFT>Bu! Apa yang kita makan
+nanti malam?<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Kita mempunyai masakan re-
+busan untuk malam nanti.
+Masih banyak kok, ayo makan!<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_HAPPY><FP_RIGHT>Dan aku membuatkanmu 
+makanan favoritmu juga.<PAGE><FACE_POS_LEFT><FACE_CHERYL><FACE_HAPPY><FP_LEFT>Yey!<RED>❤</COLOR><PAGE><FACE_POS_LEFT><FACE_CHERYL><FACE_NORMAL><FP_LEFT>Aku akan membantumu membawa
+kan sesuatu!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ASH><FACE_NORMAL><FP_LEFT>Keliatannya ibu sedang
+senang hari ini.
+Apa yang terjadi?<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Oh, kamu penasaran?
+kepo banget.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_HAPPY><FP_RIGHT>Disaat aku ke kafe hari
+ini, dan Howard bilang ke
+aku sesuatu.<PAGE>Dia bilang keaku bahwa
+aku hari ini lebih keliha-
+tan cantik dari biasanya!<RED>❤</COLOR><PAGE>Itulah yang membuat aku
+senang!<PAGE><FACE_POS_LEFT><FACE_ASH><FACE_SHY><FP_LEFT>Dia hanya bersikap sopan
+saja kelihatannya.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_HAPPY><FP_RIGHT>Apa tadi itu, Ash?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ASH><FACE_SHY><FP_LEFT>Aku tidak mengatakan
+apa-apa!<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Itu... yang aku
+pikirkan saat ini.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_CHERYL><FACE_HAPPY><FP_LEFT>Bu, kamu benar-benar
+cantik kok.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_HAPPY><FP_RIGHT>Benar-benar manis jika kamu
+yang katakan. Kamu mengeta-
+hui ibumu dengan baik,Cheryl.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Ayo dimakan.

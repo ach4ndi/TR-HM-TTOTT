@@ -1,0 +1,60 @@
+<FACE_POS_LEFT><FACE_GEORGIA><FACE_HAPPY><FP_LEFT>Ini dia kesayanganku yang
+imut sekali, Dakota!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_GEORGIA><FACE_NORMAL><FP_LEFT>Dia lahir disaat aku berumur
+5 tahun.<PAGE>Dan Aku sudah mengendarainya
+semenjak itu!<PAGE><FACE_POS_LEFT><FACE_GEORGIA><FACE_HAPPY><FP_LEFT>Aku sudah menganggap dia
+menjadi sahabatku yang aku
+punya.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_GEORGIA><FACE_ANGRY><FP_LEFT>Kana yang sembrono dari
+Konohana itu tak dapat me-
+megang ikatan untuk kita!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_GEORGIA><FACE_SAD><FP_LEFT>Oh, maaf. Aku sedikit panas
+disaat mengenai orang itu.<PAGE><FACE_POS_LEFT><FACE_GEORGIA><FACE_ANGRY><FP_LEFT>Dia juga menjalankan usaha
+peternakan diKonohana.<PAGE>Kita ini sudah menjadi
+saingan. Kita selalu adu
+argumen mengenai kuda<PAGE>Hari-hari sebelumnya dia
+berkata bahwa kudanya itu
+lebih imut ketimbang Dakota!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_GEORGIA><FACE_ANGRY><FP_LEFT>Sekarang aku tahu bahwa ada
+kuda yang seimut Dakotaku
+didunia yang luas ini!<PAGE><FACE_POS_LEFT><FACE_GEORGIA><FACE_HAPPY><FP_LEFT>Apakah ini benar,
+Dakota?
+----------------------------|----------------------------------
+<CHOICE_AB> Siapa yang peduli?
+ Dia benar-benar imut.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_GEORGIA><FACE_NORMAL><FP_LEFT>Sekarang Apa?
+Tadi kamu bicara sesuatu?
+Aku tak dapat... Heeeeiii!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_GEORGIA><FACE_SHY><FP_LEFT>Dakota!
+Ada apa denganmu!?
+Sekarang hentikan itu ya!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_GEORGIA><FACE_SHY><FP_LEFT>Sekarang kenapa kamu menjadi
+seliar ini?
+Tenanglah.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_GEORGIA><FACE_SHY><FP_LEFT>Oh, maafkan aku. Aku tidak
+bisa membayangkan apa yang
+dia pikirkan. Aku akan mem-<PAGE>bawanya kembali kedalam
+kandang.<PAGE><FACE_POS_LEFT><FACE_GEORGIA><FACE_NORMAL><FP_LEFT>Sampai jumpa lagi, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_GEORGIA><FACE_NORMAL><FP_LEFT>Oh! Dakota?<PAGE>Kenapa, tampaknya dia benar-
+benar senang melihatmu,
+<MYNAME>.<PAGE><FACE_POS_LEFT><FACE_GEORGIA><FACE_HAPPY><FP_LEFT>Kamu ternyata benar-benar
+membuat binatang disekitar-
+mu menjadi senang.<PAGE>Aku pikir inilah yang di-
+butuhkan oleh seorang
+petani.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_GEORGIA><FACE_NORMAL><FP_LEFT>Aku pastinya sangat senang
+telah mengundangmu kesini,
+<MYNAME>.<PAGE>Aku harap kamu akan datang
+lagi kesini dan bertemu
+dengan Dakota lagi nanti.<PAGE>Aku tahu bahwa dia akan
+senang!

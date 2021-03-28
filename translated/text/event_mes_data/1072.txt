@@ -1,0 +1,386 @@
+<FACE_POS_LEFT><FACE_KID><FACE_NORMAL><FP_LEFT><HIDE_FACE>Ada apa ini?
+Apakah perutmu sakit?
+Atau kepalamu? huh?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_KID><FACE_NORMAL><FP_LEFT><HIDE_FACE>Ada yang salah?
+Apa kamu baik-baik saja?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_KID><FACE_NORMAL><FP_LEFT><HIDE_FACE>Ada yang salah? Apa kamu
+sakit kepala? Ayo duduk
+dan beristirahat.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ASH><FACE_SAD><FP_LEFT>Kepalaku sakit.
+Aku pikir aku akan jatuh
+sakit demam nih...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_HIRO><FACE_SAD><FP_LEFT>Pusing kepala gue ...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_CAM><FACE_SAD><FP_LEFT>Oooh...kepalaku.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_KANA><FACE_SAD><FP_LEFT>Man, kepalaku pusing
+sekali seakan-akan ini akan
+mencekikku saja.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_MIKHAIL><FACE_SAD><FP_LEFT>Entah kenapa kalau ada suara
+,ini membuat kepalaku sakit
+...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_LANEY><FACE_SAD><FP_LEFT>Aku sekarang ini agak
+sakit kepala.
+cenut cenut...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_GEORGIA><FACE_SAD><FP_LEFT>Kepalaku bagaikan tempat
+yang ramai sekali...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_REINA><FACE_SAD><FP_LEFT>Pusing...
+Kepala gw encok-encok
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_NORI><FACE_SAD><FP_LEFT>Kepalaku terasa lebih berat.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ULYSSA><FACE_SAD><FP_LEFT>Oww, kepalaku
+sakit...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ALISA><FACE_SAD><FP_LEFT>Oh tidak, kepalaku benar-
+benar sakit...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_DIRK><FACE_SAD><FP_LEFT>Ooh, kepalaku terasa berat
+sekali ini...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ASH><FACE_SAD><FP_LEFT>Jangan menghawatirkanku,
+<MYNICKNAME>. Aku akan
+baik-baik saja kok.<PAGE>Aku tahu bagaimana kamu
+sibuk bekerja. Hanya...<PAGE>Tidak, lupakan saja.
+Kamu harus menyelesaikannya
+dulu.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_HIRO><FACE_SAD><FP_LEFT>Maaf ya, <MYNICKNAME>.
+Jangan mengkhawatirkanku...<PAGE>Aku tahu kamu itu sibuk,
+dan bagaimana kamu menyukai
+pekerjaanmu itu.<PAGE>Kamu harus melakukannya.
+Selamat menikmati hari
+harimu ya.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_CAM><FACE_SAD><FP_LEFT>Oh, <MYNICKNAME>...
+Apa? Biarkan saja aku
+seperti ini aja.<PAGE>Aku gak apa apa kok.
+Aku tahu kamu pastinya
+banyak pekerjaan yang ingin<PAGE>dilakukan, jadi kamu
+harus melakukannya sampai
+selesai.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_KANA><FACE_SAD><FP_LEFT>Jangan mengkhawatirkanku ya,
+<MYNICKNAME>.<PAGE>Ini hanya aku terlalu
+banyak pikiran akhir-
+akhir ini...<PAGE>Ayo lanjutkan pekerjaanmu...
+Aku... aku akan
+baik-baik saja.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_MIKHAIL><FACE_SAD><FP_LEFT><MYNICKNAME>...<PAGE>Maaf ya, tapi apa bisakah
+kamu tinggalkan aku sendiri-
+an saat ini saja?<PAGE>Aku tidak ingin kamu tetap
+ada disini...<PAGE>Aku tahu bahwa kamu itu
+sibuk jadi kamu harus
+menyelesaikan pekerjaanmu.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_LANEY><FACE_SAD><FP_LEFT>Oh, <MYNICKNAME>...
+Jangan mengkhawatirkanku ya.<PAGE>Kamu pastinya banyak peker-
+jaan yang harus diselesaikan
+iyakan? lanjutkan ya...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_GEORGIA><FACE_SAD><FP_LEFT><MYNICKNAME>...
+Saat ini, kamu tidak usah
+terlalu memikirkanku ya.<PAGE>Kamu pastinya banyak peker-
+jaan yang harus diselesaikan!
+Jadi kerjakan sana...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_REINA><FACE_SAD><FP_LEFT>...<MYNICKNAME>...
+Jangan mengkhawatirkanku
+ya...<PAGE>Kamu bekerja saja sana...
+Beneran, aku akan baik
+baik saja...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_NORI><FACE_SAD><FP_LEFT><MYNICKNAME>...
+Kamu tidak usah mengkhawatir-
+kan aku ya.<PAGE>Pekerjaanmu itu lebih penting
+daripada hal sepeleh ini.
+Aku akan baik-baik saja kok.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ULYSSA><FACE_SAD><FP_LEFT><MYNICKNAME>...
+Semua ini adalah kesalahan
+KAMU...<PAGE>Aku terlalu memikirkan ter-
+lalu berat disaat bersamamu
+...<PAGE><FACE_POS_LEFT><FACE_ULYSSA><FACE_ANGRY><FP_LEFT>Aku tahu kamu pastinya men-
+cintai pekerjaanmu, jadi
+kenapa tidak kamu bekerja<PAGE>aja sana?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ALISA><FACE_NORMAL><FP_LEFT><MYNICKNAME>...
+Oh tidak, ini tidak apa-apa
+aku baik-baik saja kok.<PAGE>Kamu pastinya lebih mengkha-
+watirkan hal yang lebih
+penting daripada aku...<PAGE><FACE_POS_LEFT><FACE_ALISA><FACE_SAD><FP_LEFT>Tolong bekerja sana aja
+dulu. Aku merasa tidak
+enak membuatmu khawatir<PAGE>seperti ini ...
+maaf...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_DIRK><FACE_SAD><FP_LEFT>...<MYNICKNAME>...
+Aku baik-baik saja.
+Lupakan akua ya.<PAGE>Kamu pastinya banyak peker-
+jaan yang harus dikerjakan.
+Aku tahu bagaimana sesibuk-<PAGE>nya kamu. Aku harap jika
+ada waktu...<PAGE>Uh... lupakan saja. sekarang
+apa bisa pergi?
+----------------------------|----------------------------------
+<CHOICE_AB> Aku akan menemanimu.
+ Oke kalau gitu, dadah!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ASH><FACE_SHY><FP_LEFT>Tapi bagaimana dengan
+pekerjaanmu itu?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_HIRO><FACE_SHY><FP_LEFT>T--apii...
+Gimana dengan pekerjaanmu
+itu?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_CAM><FACE_SHY><FP_LEFT>Tapi...
+Kamukan ada pekerjaan yang
+harus didahulukan? iya kan?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_KANA><FACE_SHY><FP_LEFT>Kamukan masih ada pekerjaan
+yang ...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_MIKHAIL><FACE_SHY><FP_LEFT>Tapi kan... kamu ada
+pekerjaan yang harus di
+selesaikan dulu kan?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_LANEY><FACE_SHY><FP_LEFT>Tapiiii bagaimana dengan
+pekerjaanmu itu?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_GEORGIA><FACE_SHY><FP_LEFT>Tapi...
+kamu kan ada pekerjaan
+yang... uhhh...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_REINA><FACE_SHY><FP_LEFT>Tapi... pekerjaanmu...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_NORI><FACE_SHY><FP_LEFT>Tapi kamu ada pekerjaan
+yang harus ...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ULYSSA><FACE_SHY><FP_LEFT>Apa kamu ada pekerjaan?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ALISA><FACE_SAD><FP_LEFT>Ta-ta-piii kamu kan ada
+pekerjaan yang harus di
+selesaikan dulu kan?!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_DIRK><FACE_SAD><FP_LEFT>Tapi...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ASH><FACE_SHOCK><FP_LEFT>Makasih, <MYNICKNAME>. Ini
+artinya kamu benar-benar
+... itu yang membuatku<PAGE>senang hehehe.<PAGE><FACE_POS_LEFT><FACE_ASH><FACE_HAPPY><FP_LEFT>Tapi aku sebenarnya merasa
+lebih baik. Aku yakin ini
+akan baik-baik saja kok.<PAGE>Sekarang biarkan aku ber-
+jalan denganmu ke pintu,
+oke? ayolah :v ...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_HIRO><FACE_SHOCK><FP_LEFT>Terima kasih!
+Tapi tawaranmu ini dah
+cukup kok...<PAGE><FACE_POS_LEFT><FACE_HIRO><FACE_HAPPY><FP_LEFT>Aku sekarang merasa lebih
+baik kok, jadi aku yakin
+aku akan baik-baik saja.<PAGE>Aku akan mendampingimu sam-
+pai pintu ya. hehe...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_CAM><FACE_SHOCK><FP_LEFT>Makasih.<PAGE>Ini sangat berarti buatku
+bahwa kamu masih menyisahkan
+waktu untuk bersama dirumah.<PAGE><FACE_POS_LEFT><FACE_CAM><FACE_HAPPY><FP_LEFT>Tapi saat ini aku merasakan
+lebih baik. hehe. Biarkan
+aku melihatmu keluar ya.=
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_KANA><FACE_SHOCK><FP_LEFT>M-Makasih yaaa! 
+Aku sangat sungguh senang
+jika kamu menawarkan itu...<PAGE><FACE_POS_LEFT><FACE_KANA><FACE_HAPPY><FP_LEFT>Cinta kamu sudah meringankan
+demamku saat ini!
+hehehe<PAGE>Aku akan mengantarmu
+didepan pintu, oke?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_MIKHAIL><FACE_SHOCK><FP_LEFT>Makasih, <MYNICKNAME>.
+Aku sungguh senang mende-
+ngarkan kamu berkata itu.<PAGE><FACE_POS_LEFT><FACE_MIKHAIL><FACE_HAPPY><FP_LEFT>Ini sudah cukup, ini aku
+hanya penasaran apakah 
+pekerjaanmu itu lebih<PAGE>penting daripada aku?<PAGE>Sekaranag aku merasa
+lebih baikan hehehe.<PAGE>Kamu itu adalah obat terbaik
+rasa kangen aku. Aku akan
+mengantarmu sampai didepan<PAGE>pintu ya...
+hehehehe...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_LANEY><FACE_SHOCK><FP_LEFT>Makasih, <MYNICKNAME>.
+Tapi aku saat ini benar-
+benar senang bahwa kamu<PAGE>menawarkan itu kepada
+aku...
+...<PAGE><FACE_POS_LEFT><FACE_LANEY><FACE_HAPPY><FP_LEFT>Aku akan baik-baik saja.
+Aku sebenarnya merasakan
+lebih baik...<PAGE>Biarkan aku mengantarkanmu
+sampai dipintu depan ya.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_GEORGIA><FACE_SHOCK><FP_LEFT>Th-Terima kasih banyak.
+Itu benar-benar manis dimana
+kamu menawarkan itu...<PAGE><FACE_POS_LEFT><FACE_GEORGIA><FACE_HAPPY><FP_LEFT>Tapi aku merasakan agak
+mendingan sekarang. Aku
+yakin aku akan baik dan<PAGE>kurasa hujan akan datang,
+sepertinya...<PAGE>Sekarang, biarkan aku melihat
+mu keluar ya...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_REINA><FACE_SHOCK><FP_LEFT>Terima kasih, <MYNICKNAME>.
+Ini benar benar weee yang
+kamu tawarkan itu...<PAGE><FACE_POS_LEFT><FACE_REINA><FACE_HAPPY><FP_LEFT>Tapi aku merasakan baikan
+sekarang.<PAGE>Aku akan okelah.
+Ayo, aku akan mengantarkan
+mu keluar :v
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_NORI><FACE_SHOCK><FP_LEFT>Terima kasih, <MYNICKNAME>.
+Aku benar-benar senang 
+kalau kamu menawarkan itu..<PAGE><FACE_POS_LEFT><FACE_NORI><FACE_HAPPY><FP_LEFT>Tapi aku akan baik-baik kok.
+Dan aku merasakan lebih
+baik saat ini.<PAGE>Aku akan mengantarmu sampai
+depan pinta ya. ayo gak
+papa :v
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ULYSSA><FACE_SHOCK><FP_LEFT>Makasih, <MYNICKNAME>!
+Kamu pastinya benar-benar
+mengkhawatirkan aku ya...<PAGE><FACE_POS_LEFT><FACE_ULYSSA><FACE_NORMAL><FP_LEFT>Maafkan aku aku sudah ber-
+kata seperti itu barusan...<PAGE>Aku harusnya tidak langsung
+berpikiran aneh-aneh kayak
+gitu...<PAGE><FACE_POS_LEFT><FACE_ULYSSA><FACE_HAPPY><FP_LEFT>Tiba-tiba saat ini keadaan
+ku lebih baik! Aku ingin
+melihatmu keluar hari ini!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ALISA><FACE_SHOCK><FP_LEFT>Terima kasih banyak, <MYNICKNAME>!
+Tapi ini sudah cukup buatku,
+yang kamu tawarkan itu.<PAGE><FACE_POS_LEFT><FACE_ALISA><FACE_HAPPY><FP_LEFT>Aku merasa baikan sekarang,
+jadi uh... apa bisa kuantar
+sampai didepan pintu?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_DIRK><FACE_SHOCK><FP_LEFT>Makasih, <MYNICKNAME>!<PAGE>Tapi, ini sudah cukup jika
+kamu sekali-kali tetap
+tinggal dirumah, buatku...<PAGE><FACE_POS_LEFT><FACE_DIRK><FACE_HAPPY><FP_LEFT>Aku tiba-tiba merasa baik-
+an. Aku akan melihatmu
+pegri bekerja, <MYNICKNAME>.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_KID><FACE_HAPPY><FP_LEFT>Yay, kamu merasa baikan!<RED>❤</COLOR>
+<PAGE>Aku ingin melihat \u2338
+keluar juga!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_KID><FACE_HAPPY><FP_LEFT>Aku ingin melihat 
+\u2338 keluar juga!!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_KID><FACE_HAPPY><FP_LEFT>Aku juga ingin melihat
+\u2338 keluar juga!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ASH><FACE_NORMAL><FP_LEFT>Semoga hari ini adalah
+hari baikmu,
+<MYNICKNAME>.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_HIRO><FACE_NORMAL><FP_LEFT>Selamat jalan ya, 
+<MYNICKNAME>. Semoga be-
+runtung dengan pekerjaanmu!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_CAM><FACE_NORMAL><FP_LEFT>Semoga hari-harimu menyenang-
+kan ya, <MYNICKNAME>.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_KANA><FACE_NORMAL><FP_LEFT>Selamat pergi, <MYNICKNAME>.
+Semoga hari-harimu menyenang-
+kan ya!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_MIKHAIL><FACE_NORMAL><FP_LEFT>Semoga menyenangkan ya hari
+ini, <MYNICKNAME>.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_LANEY><FACE_NORMAL><FP_LEFT>Semoga menyenangkan ya hari
+ini, <MYNICKNAME>.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_GEORGIA><FACE_NORMAL><FP_LEFT>Semoga menyenangkan ya hari
+ini, <MYNICKNAME>.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_REINA><FACE_NORMAL><FP_LEFT>Semoga menyenangkan ya hari
+ini, <MYNICKNAME>.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_NORI><FACE_NORMAL><FP_LEFT>Semoga menyenangkan ya hari
+ini, <MYNICKNAME>.
+Jaga baik-baik ya!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ULYSSA><FACE_NORMAL><FP_LEFT>Semoga menyenangkan ya hari
+ini, <MYNICKNAME>.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ALISA><FACE_NORMAL><FP_LEFT>Semoga menyenangkan ya hari
+ini, <MYNICKNAME>.
+Jaga baik-baik dirimu ya!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_DIRK><FACE_NORMAL><FP_LEFT>Semoga menyenangkan ya hari
+ini, <MYNICKNAME>.
+Jaga baik-baik ya!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_LANEY><FACE_NORMAL><FP_LEFT>Oh, tunggu sebentar.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_GEORGIA><FACE_NORMAL><FP_LEFT>Oh! Tunggu tunggu!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_REINA><FACE_NORMAL><FP_LEFT>Oh, tunggu sebentar ya.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_NORI><FACE_NORMAL><FP_LEFT>Oh! He! Tunggu!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ULYSSA><FACE_NORMAL><FP_LEFT>Ooh!!
+Tunggu disitu ya!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ALISA><FACE_NORMAL><FP_LEFT>Oh!
+Satu menit lagi, tolong!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_LANEY><FACE_SHOCK><FP_LEFT>Semoga hari-harimu itu
+menyenangkan...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_GEORGIA><FACE_SHOCK><FP_LEFT>Semoga hari-harimu itu
+menyenangkan...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_REINA><FACE_SHOCK><FP_LEFT>Semoga hari-harimu itu
+menyenangkan...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_NORI><FACE_SHOCK><FP_LEFT>Semoga hari-harimu itu
+menyenangkan...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ULYSSA><FACE_SHOCK><FP_LEFT>Semoga hari-harimu itu
+menyenangkan...
+sekarang...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ALISA><FACE_SHOCK><FP_LEFT>Semoga hari-harimu itu
+menyenangkan...
+Iya kan?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ASH><FACE_SAD><FP_LEFT>Oke, maka. dadah...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_HIRO><FACE_SAD><FP_LEFT>Oke baiklah. dadah...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_CAM><FACE_SAD><FP_LEFT>dadah...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_KANA><FACE_SAD><FP_LEFT>Oke, pergi sana, ...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_MIKHAIL><FACE_SAD><FP_LEFT>Oke. dadah, ...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_LANEY><FACE_SAD><FP_LEFT>Oh. eh, dadah, ...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_GEORGIA><FACE_SAD><FP_LEFT>Oke kalau begitu, maka. 
+Dadaaaaah...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_REINA><FACE_SAD><FP_LEFT>Oke. Dadah, maka...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_NORI><FACE_SAD><FP_LEFT>Okelah kalau begitu. 
+Dadah...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ULYSSA><FACE_SAD><FP_LEFT>...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ALISA><FACE_SAD><FP_LEFT>Oke.
+Sampai jumpa lagi...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_DIRK><FACE_SAD><FP_LEFT>Oke...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_KID><FACE_ANGRY><FP_LEFT>Boo!
+Apa maksudmu itu,
+\u2338!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_KID><FACE_ANGRY><FP_LEFT>\u2338, apaaaaa!
+Kamu minumal tinggal seben-
+tar untuk hari ini...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_KID><FACE_ANGRY><FP_LEFT>\u2338, kecewa...

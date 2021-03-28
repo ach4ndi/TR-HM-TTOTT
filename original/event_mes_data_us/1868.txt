@@ -1,0 +1,111 @@
+\u2137Talk about the request?
+<CHOICE_AB> Yes.
+ No.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_NORMAL><FP_RIGHT>Welcome, <MYNAME>! Nice
+to see you here!<PAGE>Since you're new in town,
+I had an idea...<PAGE>I should give you some
+advice about the
+mountain!<PAGE>I don't go up there as often
+as I used to, but when I was
+younger, I went there a lot!<PAGE>Do you want some advice on
+how to make the most of your
+trips to the mountain?
+----------------------------|----------------------------------
+\u2137<CHOICE_AB> Please tell me!
+ No thanks.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_HAPPY><FP_RIGHT>You would? Great! Let me
+explain, then.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_NORMAL><FP_RIGHT>And that's about it. Do you
+want to hear it again?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_NORMAL><FP_RIGHT>Walk around and search the
+mountain on your own!<PAGE><FACE_POS_RIGHT><FACE_LANEY><FACE_HAPPY>If you look closely, you can
+find pretty flowers blooming
+in surprising places!<PAGE><FACE_POS_RIGHT><FACE_LANEY><FACE_NORMAL>I hope you can find the
+items in my <RED>request</COLOR> for me!<PAGE><FACE_POS_RIGHT><FACE_LANEY><FACE_HAPPY>Good luck!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_NORMAL><FP_RIGHT>Hello.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_NORMAL><FP_RIGHT>Hello.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_NORMAL><FP_RIGHT>Hello.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_NORMAL><FP_RIGHT>Hello.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_HAPPY><FP_RIGHT>Ah, you were able to find
+what I was looking for!
+Let me check it out!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_HAPPY><FP_RIGHT>Yes, this is it! Nice work!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_NORMAL><FP_RIGHT>Besides these herbs, I bet
+you found a lot of other
+things too, right?<PAGE>Bamboo shoots sprout during
+this season, along with
+mushrooms and chestnuts.<PAGE><FACE_POS_RIGHT><FACE_LANEY><FACE_HAPPY>There are many <RED>cooking
+ingredients</COLOR> out there, so
+try to find them all!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_NORMAL><FP_RIGHT>Here's your reward
+for fulfilling my
+request!<PAGE>Just select your reward from
+the <RED>Reward Screen</COLOR>!<PAGE>Then, move it to your <RED>bag</COLOR>!
+It's a piece of cake!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_NORMAL><FP_RIGHT>See that lavender?
+I gathered it during
+the winter!<PAGE>Doesn't it smell nice? And
+you can use it for cooking,
+too!<PAGE>You can use the <RED>lavender</COLOR>
+and the <RED>herbs I requested</COLOR> in
+cooking!<PAGE>They make a very nice
+<RED>herb salad</COLOR>! Try making
+it!<PAGE><FACE_POS_RIGHT><FACE_LANEY><FACE_HAPPY>I know working on the
+farm is hard work, so
+do your best!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_NORMAL><FP_RIGHT>Hello.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_NORMAL><FP_RIGHT>Hello.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_NORMAL><FP_RIGHT>Hello.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_NORMAL><FP_RIGHT>Hello.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_NORMAL><FP_RIGHT>Hello.
+----------------------------|----------------------------------
+\u2137All right! Let me explain,
+then!
+----------------------------|----------------------------------
+\u2137Do you know how to pick up
+an item lying on the ground?
+Just press the <RED>A button</COLOR>.<PAGE>That also works to pick up
+items lying on the ground
+on the mountain.
+----------------------------|----------------------------------
+\u2137There are lots of items
+on the mountain!<PAGE>Remember, some items
+are edible, and some
+aren't!<PAGE>Anyway, it's a lot of fun to
+go out looking for things
+there!
+----------------------------|----------------------------------
+\u2137You can find flowers and
+nuts in places like
+these!<PAGE>If you think something might
+be there, search!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_NORMAL><FP_RIGHT>Hello.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_NORMAL><FP_RIGHT>Hello.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_NORMAL><FP_RIGHT>Hello.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_NORMAL><FP_RIGHT>Hello.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_NORMAL><FP_RIGHT>Hello.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_NORMAL><FP_RIGHT>Hello.

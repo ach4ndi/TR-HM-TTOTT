@@ -1,0 +1,64 @@
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>Kesalahan!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Jadi, kamu ingin renovasi?
+Aku sudah menunggu untuk
+kamu memintanya!<PAGE><FACE_POS_RIGHT><FACE_EILEEN><FACE_HAPPY>Jadi, sekarang aku minta
+beberapa barang yang sedang
+aku cari.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>Kesalahan!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>Kesalahan!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_EILEEN><FACE_HAPPY><FP_RIGHT>Terima kasih banyak.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>Kesalahan!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Sekarang uangnya,
+sebesar <VAR_0>G.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>Kesalahan!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>Kesalahan!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>Kesalahan!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>Kesalahan!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>Kesalahan!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_EILEEN><FACE_HAPPY><FP_RIGHT>Terima kasih atas kerja
+kerasmu! Aku sudah menerima
+nya sekarang.<PAGE><FACE_POS_RIGHT><FACE_EILEEN><FACE_NORMAL>Ayo pergi kekebunmu, aku
+akan melakukannya dalam
+sekejap!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Tunggu sebentar ya.
+Ini tidak akan memakan waktu
+yang lama kok!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>Kesalahan!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>Kesalahan!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Aku sudah menyelesaikannya!
+Kelihatannya hasilnya bagus.<PAGE>Aku membuatmu beberapa 
+sarang lebah! Sekarang kamu
+bisa <RED>memelihara lebah</COLOR>.<PAGE>Taruh sarang madu kedalam
+sarang lebah dan kamu akan
+mendapatkan <RED>madu</COLOR>!<PAGE>Lebah membuat madu dari
+bunga dan pohon...<PAGE>Seperti menanam bunga
+<RED>rose pink</COLOR> dan <RED>pohon buah</COLOR>
+disekitarnya?<PAGE>Aku yakin kamu akan menda-
+patkan <RED>madu super</COLOR> jika
+kamu melakukannya!<PAGE><FACE_POS_RIGHT><FACE_EILEEN><FACE_HAPPY>Kamu akan mengeceknya sendiri!
+Kamu bisa langsung mengguna-
+kannya juga.<PAGE><FACE_POS_RIGHT><FACE_EILEEN><FACE_HAPPY>Well, semua pekerjaan sudah
+selesai, aku akan pulang
+ke rumah, sampai jumpa lagi!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>★ＥＲＲＯＲ\ufffd?★</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>★ＥＲＲＯＲ\ufffd?★</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>★ＥＲＲＯＲ\ufffd?★</COLOR>

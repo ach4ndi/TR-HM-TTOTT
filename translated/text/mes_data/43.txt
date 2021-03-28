@@ -1,0 +1,735 @@
+<SHOW_INSTANT></COLOR>Tidak dapat terhubung ke
+Nintendo WFC. Lebih lanjut,
+bica baca intruksi dari
+buku panduan, atau kunjungi
+: support.nintendo.com.
+Kode error: <VAR_0>
+----------------------------|----------------------------------
+<SHOW_INSTANT></COLOR><SHOW_INSTANT></COLOR>Tidak dapat terhubung
+karena jalur penghubungnya
+padat atau tidak ada. Mohon
+mencobanya lagi.
+Kode error: <VAR_0>
+----------------------------|----------------------------------
+<SHOW_INSTANT></COLOR>ID Nintendo ini telah di
+hapus, karena sudah tidak
+aktif lagi. Untuk bantuan,
+bisa kunjungi support.
+nintendo.com. 
+Kode error: 20108
+----------------------------|----------------------------------
+<SHOW_INSTANT></COLOR>Layanan Nintendo WFC untuk
+software ini telah tidak di
+lanjutkan lagi. kunjungi
+support.nintendo.com untuk
+informasi lebih lanjut.
+Kode error: 20110
+----------------------------|----------------------------------
+<SHOW_INSTANT></COLOR>Akses pointnya sedang sibuk.
+Tidak dapat berkomunikasi,
+mohon dicoba lagi. Untuk
+bantuan kunjungi :
+support.nintendo.com.
+Kode error: <VAR_0>
+----------------------------|----------------------------------
+<SHOW_INSTANT></COLOR>Tidak ada akses point diseki
+tar, mohon dicoba lagi jika
+sudah didekat akses point.
+Untuk bantuan, kunjungi :
+support.nintendo.com.
+Kode error: <VAR_0>
+----------------------------|----------------------------------
+<SHOW_INSTANT></COLOR>Tidak ada akses point diseki
+tar, mohon dicek pengaturan
+koneksi sekali lagi. Untuk
+bantuan :
+    support.nintendo.com
+Kode error: <VAR_0>
+----------------------------|----------------------------------
+<SHOW_INSTANT></COLOR>Akses point tidak didukung,
+mohon dicek pengaturan konek
+sinya lagi. Untuk bantuan :
+support.nintendo.com.
+Kode error: 51103
+----------------------------|----------------------------------
+<SHOW_INSTANT></COLOR>Tidak dapat mengoneksi ke
+Nintendo WFC. Cek pengaturan
+koneksi kamu dan coba lagi.
+Untuk bantuan, kunjungi :
+support.nintendo.com.
+Kode error: <VAR_0>
+----------------------------|----------------------------------
+<SHOW_INSTANT></COLOR>Tidak ada respon. Kedua
+user telah terputus atau
+telah dihapus dari
+friend roster.
+Kode error: 80430
+----------------------------|----------------------------------
+<SHOW_INSTANT></COLOR>Komunikasi gagal.
+Untuk bantuan kunjungi :
+support.nintendo.com.
+Kode error: <VAR_0>
+----------------------------|----------------------------------
+<SHOW_INSTANT></COLOR>Komunikasi gagal.
+Untuk bantuan kunjungi :
+support.nintendo.com.
+Kode error: <VAR_0>
+----------------------------|----------------------------------
+<SHOW_INSTANT></COLOR>Download gagal. untuk
+bantuan, kunjungi :
+support.nintendo.com.
+Kode error: <VAR_0>
+----------------------------|----------------------------------
+<SHOW_INSTANT></COLOR>Koneksi nintendo Wi-Fi tidak
+dapat digunakan karena ter
+dapat gangguan terjadi.
+Matikan mesin dan coba lagi.
+Kode error: <VAR_0>
+----------------------------|----------------------------------
+<SHOW_INSTANT></COLOR>Informasi pengguna Wi-Fi
+kamu telah terhapus. Cek
+lagi pengaturan koneksimu.
+Koneksi pengaturan Wi-Fi.
+----------------------------|----------------------------------
+<SHOW_INSTANT></COLOR>Ngoneksi ke jaringan
+Nintendo Wi-Fi?
+
+----------------------------|----------------------------------
+\u232e</COLOR>Koneksi Nintendo Wi-Fi
+menganggap kartu game dan
+sistem kamu sebagai satu
+set. Simpen informasi ini ke
+kartu gamemu dan ngonek ke
+Nintendo WFC?
+----------------------------|----------------------------------
+<SHOW_INSTANT></COLOR>Informasi Pengguna Wifi
+untuk sistem ini telah ter
+simpan ke kartu game kamu.
+Dari sekarang, bisa menggu
+nakannya untuk ngonek ke
+koneksi Nintendo Wi-Fi.
+----------------------------|----------------------------------
+<SHOW_INSTANT></COLOR>Tidak dapat ngonek koneksi
+Nintendo Wi-Fi karena Info
+pengguna Wi-Fi dari sistem
+dan kartu game tidak cocok.
+----------------------------|----------------------------------
+<SHOW_INSTANT></COLOR>Update informasi Wi-Fi
+pengguna yg tersimpan di
+kartu gamemu? Disaat kamu
+mengupdatenya, data yang se
+belumnya akan terhapus.
+----------------------------|----------------------------------
+<SHOW_INSTANT></COLOR>Koneksi ke Nintendo Wi-Fi
+untuk mengupdate Informasi
+pengguna?
+----------------------------|----------------------------------
+<SHOW_INSTANT></COLOR>Ngonek ke Nintendo Wi-Fi.
+Mohon tunggu dulu.
+----------------------------|----------------------------------
+<SHOW_INSTANT></COLOR>Kamu tidak dapat menggunakan
+Nintendo WFC dengan nama
+<MYNAME>. Mohon gantu nama
+sebutanmu!
+----------------------------|----------------------------------
+<SHOW_INSTANT></COLOR>Setuju untuk memutuskan
+sambungan dari Nintendo
+Wi-Fi?
+----------------------------|----------------------------------
+<SHOW_INSTANT></COLOR>Memutuskan koneksi dari
+Nintendo Wi-Fi.
+
+Disconnecting from
+Nintendo Wi-Fi Connection.
+----------------------------|----------------------------------
+<SHOW_INSTANT></COLOR>Telah memutuskan koneksi 
+Nintendo Wi-Fi.
+----------------------------|----------------------------------
+<SHOW_INSTANT></COLOR>Bagaimana cara kamu bermain?<INPUT_KEYPAD>
+----------------------------|----------------------------------
+<SHOW_INSTANT></COLOR>Bermain permainan secara
+lokal dengan beberapa
+<RED>teman disekitar</COLOR>.<INPUT_KEYPAD>
+----------------------------|----------------------------------
+<SHOW_INSTANT></COLOR>Permainan antar teman yang
+jauh di jaringan Nintendo
+Wi-Fi</COLOR>.<INPUT_KEYPAD>
+----------------------------|----------------------------------
+<SHOW_INSTANT></COLOR>Lihat friend code kamu, dan
+daftarkan kode temanmu di
+daftar friend roster.<INPUT_KEYPAD>
+----------------------------|----------------------------------
+<SHOW_INSTANT></COLOR>Kembali ke Layar Awal.<INPUT_KEYPAD>
+----------------------------|----------------------------------
+<SHOW_INSTANT></COLOR>Pilih siapapun jadi host
+sebuah permainan di kebunmu
+atau kunjungi kebun temanmu.<INPUT_KEYPAD>
+----------------------------|----------------------------------
+<SHOW_INSTANT></COLOR>Host sebuah game di kebunmu.
+Sampai 3 temanmu yang
+bergabung.<INPUT_KEYPAD>
+----------------------------|----------------------------------
+<SHOW_INSTANT></COLOR>Gabung ke teman yang jadi
+host dalam permainan di
+kebunnya.<INPUT_KEYPAD>
+----------------------------|----------------------------------
+<SHOW_INSTANT></COLOR>Kamu harus menyimpan data
+sekarang, lanjutkan
+penyimpanan data?
+----------------------------|----------------------------------
+<SHOW_INSTANT></COLOR>Menyimpan...
+Mohon jangan matikan mesin
+atau melepaskan kartu game.
+----------------------------|----------------------------------
+<SHOW_INSTANT></COLOR>Gagal mengakses data. Mohon
+matikan mesin, mencabut
+kartu game, dan memasukan
+kembali kartu game.
+----------------------------|----------------------------------
+<SHOW_INSTANT></COLOR>Sebelum mode multiplayer,
+secara otomatis permainan
+akan tersimpan. Mohon jangan
+matikan power selama perma-
+inan atau korup datamu.
+----------------------------|----------------------------------
+<SHOW_INSTANT></COLOR>Sambungkan koneksi 
+DS Wireless?
+----------------------------|----------------------------------
+<SHOW_INSTANT></COLOR>Pilih "memulai permainan"
+disaat semua temanmu telah
+bergabung.
+----------------------------|----------------------------------
+<SHOW_INSTANT></COLOR>Menunggu untuk host memulai
+permainannya.
+----------------------------|----------------------------------
+<SHOW_INSTANT></COLOR>Memulai permainannya.
+Mohon ditunggu.
+----------------------------|----------------------------------
+<SHOW_INSTANT></COLOR>Komunikasi terganggu.
+----------------------------|----------------------------------
+<SHOW_INSTANT></COLOR>Dibatalkan?
+Semua koneksi temanmu
+akan diputuskan.
+----------------------------|----------------------------------
+<SHOW_INSTANT></COLOR>Kamu membutuhkan friend code
+untuk menggunakan Nintendo
+WFC. Dapatkan kodenya?
+----------------------------|----------------------------------
+<SHOW_INSTANT></COLOR>Kamu tidak memiliki friend
+code siapapun di friend ros-
+termu. Mohon daftarkan mini-
+mal satu teman didaftarmu.
+----------------------------|----------------------------------
+<SHOW_INSTANT></COLOR>Jika friend codenya mau di
+ganti. Temanmu harus mendaf
+tarkan kode barumu juga.
+----------------------------|----------------------------------
+<SHOW_INSTANT></COLOR>Host sebuah permainan di
+kebunmu. Sampai 3 teman
+yang bisa diajak gabung.<INPUT_KEYPAD>
+----------------------------|----------------------------------
+<SHOW_INSTANT></COLOR>Gabung ke host teman di
+kebun mereka.<INPUT_KEYPAD>
+----------------------------|----------------------------------
+<SHOW_INSTANT></COLOR>Hapus informasi untuk
+<VAR_1>?
+----------------------------|----------------------------------
+<SHOW_INSTANT></COLOR>Masukan friend code.
+----------------------------|----------------------------------
+<SHOW_INSTANT></COLOR>Masukan nama teman.
+----------------------------|----------------------------------
+<SHOW_INSTANT></COLOR>Masukan nama kebun 
+temanmu.
+----------------------------|----------------------------------
+<SHOW_INSTANT></COLOR>Apa ini friend codemu.
+----------------------------|----------------------------------
+<SHOW_INSTANT></COLOR>Friend Codenya tidak 
+cocok.
+----------------------------|----------------------------------
+<SHOW_INSTANT></COLOR>Friend codenya sudah
+terdaftar.
+----------------------------|----------------------------------
+<SHOW_INSTANT></COLOR><VAR_0> mau tidur!
+----------------------------|----------------------------------
+\u232c</COLOR>Disaat kamu tertidur, kamu
+akan terbangun besok pagi.<PAGE>Jadi mau tidur sekarang?
+<CHOICE_AB> Tidur.
+ Tidak tidur.
+----------------------------|----------------------------------
+<SHOW_INSTANT></COLOR>Semua orang mau tidur.
+Simpan Permainan.
+Mohon Tunggu.
+----------------------------|----------------------------------
+<SHOW_INSTANT></COLOR>Menunggu semua pemain untuk
+keluar dari permainan...
+----------------------------|----------------------------------
+<SHOW_INSTANT></COLOR>Permainan Tersimpan.
+----------------------------|----------------------------------
+<SHOW_INSTANT></COLOR>Melanjutkan permainan ini
+di mode multiplayer?
+----------------------------|----------------------------------
+<SHOW_INSTANT></COLOR>Apa akan memutuskan koneksi
+dari Nintendo Wi-Fi?
+----------------------------|----------------------------------
+<SHOW_INSTANT></COLOR>Putuskan mode multiplayer
+pada permainan ini? yakin?
+----------------------------|----------------------------------
+<SHOW_INSTANT></COLOR>Mohon tunggu sebentar untuk
+memutuskan yang ingin lanjut
+atau keluar.
+----------------------------|----------------------------------
+<SHOW_INSTANT></COLOR>Host memilih untuk
+<RED>mengakhiri permainan</COLOR>.
+----------------------------|----------------------------------
+<SHOW_INSTANT></COLOR>Pilih host untuk
+<RED>melanjutkan permainan</COLOR>.
+----------------------------|----------------------------------
+<SHOW_INSTANT></COLOR>Dilanjutkan besok ...
+----------------------------|----------------------------------
+<SHOW_INSTANT></COLOR>Mengakhiri permainan.
+Mohon tunggu...
+----------------------------|----------------------------------
+<SHOW_INSTANT></COLOR>Disini tidak ada data untuk
+dibaca...
+----------------------------|----------------------------------
+<SHOW_INSTANT></COLOR>Pilih sampai 3 item untuk
+dijual kepada temanmu di
+meja di bazaar.
+----------------------------|----------------------------------
+<SHOW_INSTANT></COLOR>Kamu tidak memilih
+barang apapun untuk dijual
+di bazaar.
+----------------------------|----------------------------------
+<SHOW_INSTANT></COLOR>Lanjutkan saja?
+Kamu tidak memiliki sesuatu
+untuk dijual saat bazaar.
+----------------------------|----------------------------------
+\u232e</COLOR>AAAAAAAAAAAAAAAAAAAA
+----------------------------|----------------------------------
+\u232e</COLOR>Jual apapun dengan harga
+normal?
+----------------------------|----------------------------------
+\u232e</COLOR>Jual dengan 50% harga!
+----------------------------|----------------------------------
+\u232e</COLOR>Kamu tidak memilih barang
+yang akan dijual. lanjutkan?
+----------------------------|----------------------------------
+<SHOW_INSTANT></COLOR>Kembali ke menu sebelumnya.<INPUT_KEYPAD>
+----------------------------|----------------------------------
+<VAR_15> mau tidur.
+----------------------------|----------------------------------
+<SHOW_INSTANT></COLOR>Akhiri permainan karena
+semua orang keluar.
+----------------------------|----------------------------------
+Koneksi Nintendo Wi-Fi
+----------------------------|----------------------------------
+usahakan data pada kartu
+----------------------------|----------------------------------
+permainan dan sistem sama.
+----------------------------|----------------------------------
+Simpan informasi pengaturan
+----------------------------|----------------------------------
+sistem dan kartu permainan
+----------------------------|----------------------------------
+dan sambungkan
+----------------------------|----------------------------------
+ke Nintendo WFC?
+----------------------------|----------------------------------
+Update pengguna Wi-Fi
+----------------------------|----------------------------------
+Informasi telah tersimpan di
+----------------------------|----------------------------------
+Kartu permainan? disaat kamu
+----------------------------|----------------------------------
+mengupdate info Wi-Fimu,
+----------------------------|----------------------------------
+kamu akan kehilangan semua
+----------------------------|----------------------------------
+data yang digunakan untuk
+----------------------------|----------------------------------
+menyambungkan Nintendo Wi-Fi
+----------------------------|----------------------------------
+<SHOW_INSTANT></COLOR>Simpan Informasi Wi-fi peng
+guna untuk sistem ini ke 
+kartu permainan. Mohon ja-
+ngan matikan mesin atau men
+cabut kartu.
+----------------------------|----------------------------------
+Komunikasi terganggu.
+
+----------------------------|----------------------------------
+Tidak ada respon.
+----------------------------|----------------------------------
+pemain siapapun telah
+----------------------------|----------------------------------
+terputus atau kamu telah
+----------------------------|----------------------------------
+dihapus dari friends
+----------------------------|----------------------------------
+roster temanmu.
+----------------------------|----------------------------------
+
+----------------------------|----------------------------------
+Kode error: 80430
+----------------------------|----------------------------------
+Atau Nintendo WFC sedang
+----------------------------|----------------------------------
+mengalami trafik tinggi
+----------------------------|----------------------------------
+atau layanannya sedang
+----------------------------|----------------------------------
+terganggu. Mohon ulangi
+----------------------------|----------------------------------
+lagi nanti. Untuk bantuan
+----------------------------|----------------------------------
+: support.nintendo.com.
+----------------------------|----------------------------------
+Kode error: <VAR_0>
+----------------------------|----------------------------------
+<SHOW_INSTANT></COLOR>Menyambungkan ke Nintendo
+Wi-Fi...
+Mohon tunggu sebentar...
+*Tekan tombol B untuk
+membatalkannya.
+----------------------------|----------------------------------
+Kembali ke menu awal?
+<CHOICE_AB> Ya
+ Tidak
+----------------------------|----------------------------------
+Kamu tidak mengoleksi uang
+dari waktu sebelumnya saat
+menghost. Mohon kunjungi
+lahan mode multiplayer se
+belum memulai host lagi.
+----------------------------|----------------------------------
+Memulai komunikasi DS 
+Wireless... Selama mode
+multiplayer, sistem akan
+menyimpan data secara oto-
+matis, mohon jangan matikan
+mesin selama terkoneksi.
+----------------------------|----------------------------------
+Atur biasa masuk.
+----------------------------|----------------------------------
+Melebihi batas maksimal.
+----------------------------|----------------------------------
+Harga masuknya adalah
+<VAR_0>G.
+Apa oke?
+----------------------------|----------------------------------
+Telah siap untuk memasuki
+kebun. Mohon tunggu.
+----------------------------|----------------------------------
+Memulai Nintendo WFC...
+Selama mode multiplayer,
+permainan akan rutin di
+simpan. Mohon jangan matikan
+mesin selama mode multipla-
+yer, atau datamu korup.
+----------------------------|----------------------------------
+Kamu akan berkomunikasi dgn
+seseorang yang tidak dikenal
+melalui Nintendo WFC.
+Apakah diperbolehkan?
+----------------------------|----------------------------------
+Friend Roster
+----------------------------|----------------------------------
+Pilih Kebun.
+----------------------------|----------------------------------
+Pendaftaran teman penuh.
+----------------------------|----------------------------------
+Kembali ke rumah?
+<CHOICE_AB> Ya
+ Tidak
+----------------------------|----------------------------------
+Menunggu untuk teman lainnya
+Mohon tunggu.
+----------------------------|----------------------------------
+Tersimpan.
+Memutuskan Komunikasi
+DS Wireless...
+----------------------------|----------------------------------
+Tersimpan.
+Memutuskan Komunikasi
+Nintendo Wi-Fi...
+----------------------------|----------------------------------
+Kamu telah terputus dari
+komunikasi DS Wireless.
+Mohon matikan mesin DSmu.
+----------------------------|----------------------------------
+Kamu telah terputus dari
+komunikasi Nintendo Wi-Fi.
+Mohon matikan mesin DSmu.
+----------------------------|----------------------------------
+Kamu telah memanen banyak!
+----------------------------|----------------------------------
+Saatnya pulang.
+----------------------------|----------------------------------
+Kembali ke menu sebelumnya?
+----------------------------|----------------------------------
+Kamu tidak memiliki cukup...
+Uang
+　　　<VAR_0>G
+----------------------------|----------------------------------
+Tidak memiliki ruang di tas
+mu. Kamu membutuhkan minimal
+12 ruang kosong.
+----------------------------|----------------------------------
+Memasuki kebun
+Apa oke?
+----------------------------|----------------------------------
+Menyiapkan untuk memasuki
+kebun. Mohon Tunggu.
+----------------------------|----------------------------------
+Disini tidak ada tanaman yg
+siap untuk dipanen. Mohon
+ngonek lagi setelah merawat
+beberapa tanaman di lahan
+mode multiplayer.
+----------------------------|----------------------------------
+Kembali ke menu sebelumnya?
+----------------------------|----------------------------------
+Mencari sebuah lahan.
+Mohon Tunggu.
+----------------------------|----------------------------------
+DummyMessage
+*MES_139
+----------------------------|----------------------------------
+\u232e</COLOR>Koneksi Nintendo Wi-Fi
+
+----------------------------|----------------------------------
+Kartu permainan dan sistem
+
+----------------------------|----------------------------------
+dianggap satu bagian.
+
+----------------------------|----------------------------------
+Simpan informasi user data
+
+----------------------------|----------------------------------
+dari sistem ke kartu
+
+----------------------------|----------------------------------
+Permainan dan konek
+
+----------------------------|----------------------------------
+ke Nintendo WFC?
+----------------------------|----------------------------------
+\u232e</COLOR>Koneksi Nintendo Wi-Fi
+menganggap kartu permainanmu
+dan sistem sebagai satu ke-
+satuan. Simpan Informasi
+user sistem ii ke kartu
+permainan dan mengoneksi ke
+to Nintendo WFC?
+----------------------------|----------------------------------
+\u232e</COLOR>Koneksi Nintendo Wi-Fi
+menganggap kartu permainanmu
+dan sistem sebagai satu ke-
+satuan. Simpan Informasi
+user sistem ii ke kartu
+permainan dan mengoneksi ke
+to Nintendo WFC?
+----------------------------|----------------------------------
+\u232e</COLOR>Koneksi Nintendo Wi-Fi
+menganggap kartu permainanmu
+dan sistem sebagai satu ke-
+satuan. Simpan Informasi
+user sistem ii ke kartu
+permainan dan mengoneksi ke
+to Nintendo WFC?
+----------------------------|----------------------------------
+<SHOW_INSTANT></COLOR>Update Wi-Fi Pemain
+
+----------------------------|----------------------------------
+Informasi telah tersimpan di
+
+----------------------------|----------------------------------
+kartu permainan? disaat kamu
+
+----------------------------|----------------------------------
+mengupdate info user Wi-Fi,
+
+----------------------------|----------------------------------
+kamu akan kehilangan data yg
+
+----------------------------|----------------------------------
+telah digunakan untuk mengo
+
+----------------------------|----------------------------------
+neksi ke Nintendo Wi-Fi.
+----------------------------|----------------------------------
+<SHOW_INSTANT></COLOR>Update Informasi Pengguna
+Wi-fi di kartu permainan?
+Disaat kamu mengupdate infor
+masinya, kamu akan kehilang-
+an yang telah digunakan ke
+koneksi Nintendo Wi-Fi
+sebelumnya.
+----------------------------|----------------------------------
+<SHOW_INSTANT></COLOR>Update Informasi Pengguna
+Wi-fi di kartu permainan?
+Disaat kamu mengupdate infor
+masinya, kamu akan kehilang-
+an yang telah digunakan ke
+koneksi Nintendo Wi-Fi
+sebelumnya.
+----------------------------|----------------------------------
+<SHOW_INSTANT></COLOR>Update Informasi Pengguna
+Wi-fi di kartu permainan?
+Disaat kamu mengupdate infor
+masinya, kamu akan kehilang-
+an yang telah digunakan ke
+koneksi Nintendo Wi-Fi
+sebelumnya.
+----------------------------|----------------------------------
+Memulai koneksi DS Wireless
+
+----------------------------|----------------------------------
+Selama mode multiplayer,
+
+----------------------------|----------------------------------
+penyimapan permainan akan
+
+----------------------------|----------------------------------
+tersimpan otomatis. Mohon
+
+----------------------------|----------------------------------
+jangan matikan mesin selama
+
+----------------------------|----------------------------------
+mode multiplayer, atau akan
+
+----------------------------|----------------------------------
+korup datamu.
+----------------------------|----------------------------------
+Memulai Koneksi DS Wireless
+Sebelum ke multiplayer, data
+penyimpanan otomatis tersim
+pan. Jadi mohon jangan mati-
+kan power sebelum mulai,
+atau data kamu korup.
+----------------------------|----------------------------------
+Memulai Koneksi DS Wireless
+Sebelum ke multiplayer, data
+penyimpanan otomatis tersim
+pan. Jadi mohon jangan mati-
+kan power sebelum mulai,
+atau data kamu korup.
+----------------------------|----------------------------------
+Memulai Koneksi DS Wireless
+Sebelum ke multiplayer, data
+penyimpanan otomatis tersim
+pan. Jadi mohon jangan mati-
+kan power sebelum mulai,
+atau data kamu korup.
+----------------------------|----------------------------------
+Memulai Nintendo WFC...
+
+----------------------------|----------------------------------
+Sebelum ke mode multiplayer, 
+
+----------------------------|----------------------------------
+data kamu otomatis tersimpan
+
+----------------------------|----------------------------------
+Jadi, mohon jangan matikan
+
+----------------------------|----------------------------------
+power sebelum memulainya,
+----------------------------|----------------------------------
+atau data kamu akan
+
+----------------------------|----------------------------------
+korup.
+----------------------------|----------------------------------
+Memulai Nintendo WFC...
+Sebelum ke multiplayer, data
+akan otomatis menyimpan.
+Jadi jangan matikan power
+sebelum mode tersebut mulai,
+atau data kamu akan korup.
+----------------------------|----------------------------------
+Memulai Nintendo WFC...
+Sebelum ke multiplayer, data
+akan otomatis menyimpan.
+Jadi jangan matikan power
+sebelum mode tersebut mulai,
+atau data kamu akan korup.
+----------------------------|----------------------------------
+Memulai Nintendo WFC...
+Sebelum ke multiplayer, data
+akan otomatis menyimpan.
+Jadi jangan matikan power
+sebelum mode tersebut mulai,
+atau data kamu akan korup.
+----------------------------|----------------------------------
+Pilih Musim.
+----------------------------|----------------------------------
+Bermain sama teman lewat
+Nintendo WFC.
+----------------------------|----------------------------------
+Bermain dgn seseorang tidak
+dikenal lewat Nintendo WFC.
+----------------------------|----------------------------------
+Pilih mode
+----------------------------|----------------------------------
+Kembali ke menu sebelumnya.
+----------------------------|----------------------------------
+Disini tidak ada friend code
+Kamu membutuhkan lebih dari
+satu friend code untuk ber
+main di Nintendo WFC.
+----------------------------|----------------------------------
+
+----------------------------|----------------------------------
+
+----------------------------|----------------------------------
+
+----------------------------|----------------------------------
+
+----------------------------|----------------------------------
+<VAR_0>G
+----------------------------|----------------------------------
+<VAR_1>
+----------------------------|----------------------------------
+<VAR_0>G
+----------------------------|----------------------------------
+<VAR_2>
+----------------------------|----------------------------------
+Kandang <VAR_3>
+----------------------------|----------------------------------
+Informasi Anggota Wifimu
+----------------------------|----------------------------------
+telah terhapus.
+----------------------------|----------------------------------
+Cek pengaturan koneksi kamu
+----------------------------|----------------------------------
+dengan koneksi
+----------------------------|----------------------------------
+Settingan Nintendo Wi-Fi
+----------------------------|----------------------------------
+.
+----------------------------|----------------------------------
+Oke, putuskan koneksi dari
+Nintendo Wi-Fi?
+----------------------------|----------------------------------
+Friend code kamu
+<VAR_0><VAR_1><VAR_2>.
+----------------------------|----------------------------------
+Putuskan koneksi dari
+komunikasi DS Wireless?
+----------------------------|----------------------------------
+</COLOR>Tidak Cocok koneksinya
+----------------------------|----------------------------------
+dalam jangkauan. Cek
+----------------------------|----------------------------------
+settingan koneksi dan coba
+----------------------------|----------------------------------
+lagi. Untuk masalah,kunjungi
+----------------------------|----------------------------------
+support.nintendo.com.
+----------------------------|----------------------------------
+Kode error: 51103
+----------------------------|----------------------------------
+Ngonek ke host

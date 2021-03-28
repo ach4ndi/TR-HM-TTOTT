@@ -1,0 +1,64 @@
+<FACE_POS_LEFT><FACE_HGODDES><FACE_HAPPY><FP_LEFT>Dum-Da-Da-DAA!<PAGE>Congratulations on your
+marriage!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_SHY><FP_RIGHT>Wh-Wh-Wh-WHO IN THE WORLD
+ARE YOU!?!?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_HGODDES><FACE_NORMAL><FP_LEFT>Hmmm? You don't know about
+me? How unfortunate!<PAGE><FACE_POS_LEFT><FACE_HGODDES><FACE_HAPPY><FP_LEFT>I am the splendiferous
+Harvest Goddess!<PAGE>You two getting married with
+nobody else to attend is too
+sad! So I came to help!<PAGE><FACE_POS_LEFT><FACE_HGODDES><FACE_NORMAL><FP_LEFT>No need for formalities!
+Just step right up!<PAGE>Let's get this wedding
+started!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_SHY><FP_RIGHT>Uh... Okay...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_HGODDES><FACE_NORMAL><FP_LEFT>You're up first,
+<MYNAME>!<PAGE>Will you love her as long as
+you live and give her a
+happy home?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_HGODDES><FACE_NORMAL><FP_LEFT>And now you!<PAGE>Will you love <MYNAME> as
+long as you live and give
+him a happy home?<PAGE><FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>Yes, yes, yes, YESSSSS!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_HGODDES><FACE_HAPPY><FP_LEFT>Then in the name of, er,
+myself, I pronounce you
+husband and wife!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_SHOCK><FP_RIGHT><MYNAME>...
+I'm so, so, so, so,
+SOOOOOOOO happy!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_HGODDES><FACE_NORMAL><FP_LEFT>Here's a little something
+from your favorite goddess
+to congratulate you.<PAGE><FACE_POS_LEFT><FACE_HGODDES><FACE_HAPPY><FP_LEFT>Take this!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_SHOCK><FP_RIGHT>Now the two of us are
+starting a new life
+together. To-GE-ther!<PAGE>Shouldn't we have special
+lovey-dovey names to call
+each other?<PAGE><FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>As for me...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>From now on, call me...\u270a\u270a
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_SHOCK><FP_RIGHT><BLUE>Ulyssa</COLOR>!
+Yes, ooh yes, call me that!<PAGE>What should I call you,
+<MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT><MYNICKNAME>?
+Is that what you want?
+----------------------------|----------------------------------
+<CHOICE_AB> That's the one.
+ Let me reconsider.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>Okey-dokey, it's all
+settled, then!♪<PAGE><FACE_POS_RIGHT><FACE_ULYSSA><FACE_SHOCK><FP_RIGHT>Take good care of me...
+<MYNICKNAME>...<RED>❤</COLOR>
+----------------------------|----------------------------------
+It's the start of our new
+life! We'll enjoy this day
+and get to work tomorrow!
+----------------------------|----------------------------------
+<CHOICE_AB> Go to bed and save.
+ Go to bed without saving.

@@ -1,0 +1,47 @@
+<FACE_POS_RIGHT><FACE_NATHAN><FACE_NORMAL>Dan mari kita mulai...<PAGE>Kita hari ini menghadiri
+pernikahan Mikhail dan
+<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NATHAN><FACE_NORMAL>Mikhail...<PAGE>Apa kamu akan menjadikan 
+<MYNAME> sebagai istrimu,<PAGE>untuk dicintai dan menya-
+nyangi dia seumur hidupmu?<PAGE><FACE_POS_LEFT><FACE_MIKHAIL><FACE_HAPPY>Aku lakukan.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NATHAN><FACE_NORMAL><MYNAME>...<PAGE>Apakah kamu akan menjadikan
+Mikhail menjadi suamimu,<PAGE>untuk dicintai dan menyanya-
+ngi dia seumur hidupmu?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NATHAN><FACE_NORMAL>Kalau begitu, aku akan me-
+ngumumkan kamu sebagai
+suami dan istri!<PAGE><FACE_POS_RIGHT><FACE_NATHAN><FACE_HAPPY><FP_RIGHT>Semoga dewi panen memberkati
+pasangan ini!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_MIKHAIL><FACE_SHOCK><MYNAME>, Aku mencintai
+mu! Aku akan memberikanmu
+kebahagiaan, dan kamu akan<PAGE>menjadi renungan aku
+selamanya!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MIKHAIL><FACE_SHOCK>Hari ini kita memainkan
+catatan pertama dari kehidup
+an kita sebagai duet!<PAGE><FACE_POS_RIGHT><FACE_MIKHAIL><FACE_HAPPY>Jadi sekarang kita akan me-
+nikah, apa nama panggilan
+buat mu?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MIKHAIL><FACE_NORMAL><MYNICKNAME>.
+Apa itu yang kamu ingin di
+panggil?
+----------------------------|----------------------------------
+<CHOICE_AB> Ya, Mikhail.
+ Aku urungkan niat...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MIKHAIL><FACE_HAPPY>Jadi maka, sudah
+ditentukan!<PAGE><FACE_POS_RIGHT><FACE_MIKHAIL><FACE_SHOCK>Kita akan membuat lagi yang
+indah bersama-sama,
+<MYNICKNAME>.
+----------------------------|----------------------------------
+Kehidupan baru kita sudah di
+mulai! Kita akan beristira-
+hat hari ini, dan kembali
+bekerja lagi besok hari!
+----------------------------|----------------------------------
+<CHOICE_AB> Save and go to bed.
+ Go to bed without saving.

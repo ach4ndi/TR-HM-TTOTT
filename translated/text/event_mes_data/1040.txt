@@ -1,0 +1,76 @@
+<FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL><FP_RIGHT>Ada sesuatu yang ingin ku-
+berikan kepadamu...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL><FP_RIGHT>Aku dan kamu sudah lama ber-
+jalan berduaan ke tempat-
+tempat yang disekitar desa<PAGE>ini... dan banyak hal yang
+pernah dibicarakan...<PAGE><FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>Setiap aku melihatmu,
+kamu memberikan inspirasi
+kepadaku. Dan itu hal yang<PAGE>paling WAH menurutku.<PAGE><FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL><FP_RIGHT>Dan uh, semakin banyak wak-
+tu untukmu, 
+<MYNAME>...<PAGE>Semakin spesial bagiku...<PAGE>Ini artinya...\u270a\u270a...\u270a\u270a
+Aku mencintai kamu.<PAGE>Bukan sebagai seorang
+teman. Aku jatuh cinta
+sama kamu.<PAGE><FACE_POS_RIGHT><FACE_ASH><FACE_SHOCK><FP_RIGHT>Akankah kamu mau kunikahi,
+<MYNAME>?
+----------------------------|----------------------------------
+<CHOICE_AB> Yee! Aku senang!
+ Ini terlalu cepat...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>Uh kamu menerimanya !?
+Aku sungguh senang ini!<PAGE><FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL><FP_RIGHT>Aku tidak tahu apa yang
+harus kulakukan dengan diri
+ku sendiri jika kamu menga-<PAGE>takan tidak ...<PAGE><FACE_POS_RIGHT><FACE_ASH><FACE_SHOCK><FP_RIGHT>Aku sungguh lega bahwa
+perasaanku ini sama dengan
+perasaanmu juga...<PAGE><FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>Maka dari itu, aku uh
+memberitahukan mamaku dan
+Cheryl?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_JESSICA><FACE_HAPPY><FP_LEFT>Wah sungguh luar biasa !
+Ash dan kamu, hmm?
+Selamat ya!<PAGE><FACE_POS_RIGHT><FACE_CHERYL><FACE_SAD><FP_RIGHT>Apaaa!?
+Kamu akan segera menikah !?
+Dan membiarkan aku jones...<PAGE><FACE_POS_RIGHT><FACE_CHERYL><FACE_ANGRY><FP_RIGHT>Aku tidak ingin kamu
+...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_JESSICA><FACE_NORMAL><FP_LEFT>Tenanglah Cherly, janganlah
+egois...<PAGE>Kamu seharusnya memberi se-
+lamat kepada kakakmu.<PAGE><FACE_POS_RIGHT><FACE_CHERYL><FACE_SAD><FP_RIGHT>Hmph!<PAGE><FACE_POS_LEFT><FACE_JESSICA><FACE_HAPPY><FP_LEFT>Disaat mereka sudah menikah,
+<MYNAME> akan menjadi
+kakakmu juga.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ka...kaka...kakakku?<PAGE><MYNAME> akan menjadi
+kakakku?<PAGE><FACE_POS_LEFT><FACE_JESSICA><FACE_HAPPY><FP_LEFT>Ya itu benar! Dan
+dia dapat bermain denganmu
+kapan saja dia ada waktu.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CHERYL><FACE_HAPPY><FP_RIGHT>Well...oke!
+Kupikir kamu bisa menikahi
+Ash, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_JESSICA><FACE_NORMAL><FP_LEFT>Jadi?
+Kapan acara pernikahannya
+dilaksanakan?<PAGE><FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>Kita barusan mau membicara-
+kannya...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_JESSICA><FACE_HAPPY><FP_LEFT>Oh oke oke. Maka lebih
+baik kita mempersiapkan
+perlengkapannya dulu.!<PAGE><FACE_POS_LEFT><FACE_JESSICA><FACE_NORMAL><FP_LEFT>Kamu bakalan sibuk seharian
+dihari pernikahanmu,
+<MYNAME>.<PAGE>Jadi kamu harus menye-
+lesaikan semua pekerjaanmu
+sebelum harinya tiba.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_JESSICA><FACE_NORMAL><FP_LEFT>Ash, Aku tahu kamu akan mem-
+bahagiakan <MYNAME>!
+Jangan kebalikannya ya!<PAGE><FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>Tentu saja, ma.<PAGE><FACE_POS_RIGHT><FACE_CHERYL><FACE_HAPPY><FP_RIGHT>Setelah kamu menikah,
+kamu akan bermain denganku
+ya, oke? sering sering loh!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL><FP_RIGHT>Oh, well, Oke.
+Maaf membuatmu... uh tiba-
+tiba seperti ini...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL><FP_RIGHT>Aku akan pulang kerumah
+kalau gitu...
+Sampai jumpa, <MYNAME>.

@@ -1,0 +1,43 @@
+<FACE_POS_RIGHT><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>We are gathered here today
+to witness the marriage of
+Ash and <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Ash...<PAGE>Do you take <MYNAME>
+as your wife, to
+love forever?<PAGE><FACE_POS_LEFT><FACE_ASH><FACE_HAPPY><FP_LEFT>I do.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NATHAN><FACE_NORMAL><FP_RIGHT><MYNAME>...<PAGE>Do you take Ash
+as your husband, to
+love forever?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Then I now pronounce
+you husband and wife!<PAGE><FACE_POS_RIGHT><FACE_NATHAN><FACE_HAPPY><FP_RIGHT>May the Harvest Goddess
+smile upon your union!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ASH><FACE_SHOCK><FP_LEFT>I love you, <MYNAME>.
+I promise I'll make
+you happy.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_SHOCK><FP_RIGHT>Today we begin our
+new life together.<PAGE>Oh yeah, since we're
+married, do you want me to
+call you by a nickname?<PAGE><FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>What should I call you?
+
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL><FP_RIGHT><MYNICKNAME>?
+You're sure?
+----------------------------|----------------------------------
+<CHOICE_AB> Yeah.
+ Maybe something else.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>Sounds good.
+<PAGE><FACE_POS_RIGHT><FACE_ASH><FACE_SHOCK><FP_RIGHT>I'm so happy right now,
+<MYNICKNAME>...
+----------------------------|----------------------------------
+Now let's start our new
+life together!
+
+----------------------------|----------------------------------
+<CHOICE_AB> Go to bed and save.
+ Go to bed without saving.

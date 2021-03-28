@@ -1,0 +1,123 @@
+<FACE_POS_LEFT><FACE_CHERYL><FACE_SAD><FP_LEFT>Waaa!!!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL><FP_RIGHT>Cheryl?<PAGE><FACE_POS_RIGHT><FACE_ASH><FACE_SHY><FP_RIGHT>What happened?
+Did you fall down?
+Was someone teasing you?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_CHERYL><FACE_SAD><FP_LEFT>No...*sniff*... It's...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_CHERYL><FACE_ANGRY><FP_LEFT>You're always with
+<MYNAME> now!!
+<PAGE>You like <MYNAME>
+more than me!<PAGE>You...<PAGE>You...\u270b
+<FACE_POS_LEFT><FACE_CHERYL><FACE_SAD><FP_LEFT>\u20d0YOU'RE A BAD BROTHER!!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_SHY><FP_RIGHT>Cheryl!?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_SHY><FP_RIGHT>Sorry, <MYNAME>.
+Something's up with
+Cheryl...<PAGE>I need to go after her!
+----------------------------|----------------------------------
+<CHOICE_AB> I'll come with you.
+ I'll wait here.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>Thanks, <MYNAME>!<PAGE>Let's go!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_SAD><FP_RIGHT>We lost her...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL><FP_RIGHT>I'll look around here.
+<PAGE>Could you look for her
+on the mountain path?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CHERYL><FACE_SAD><FP_RIGHT>......
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CHERYL><FACE_ANGRY><FP_RIGHT>Wh-What?
+What do you want?<PAGE><FACE_POS_RIGHT><FACE_CHERYL><FACE_SAD><FP_RIGHT>Where's Ash? HE was supposed
+to find me!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CHERYL><FACE_SAD><FP_RIGHT>I hate you, <MYNAME>!
+He's my brother,
+not yours!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CHERYL><FACE_ANGRY><FP_RIGHT>Stay away from me!
+I hate you!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CHERYL><FACE_SAD><FP_RIGHT>Ahh!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ASH><FACE_SAD><FP_LEFT>That was close.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CHERYL><FACE_SAD><FP_RIGHT>Um...I...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ASH><FACE_ANGRY><FP_LEFT>Cheryl, how could
+you do that?<PAGE><FACE_POS_LEFT><FACE_ASH><FACE_SAD><FP_LEFT>You know it's not
+right to push people.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ASH><FACE_NORMAL><FP_LEFT>Cheryl?<PAGE><FACE_POS_RIGHT><FACE_CHERYL><FACE_SAD><FP_RIGHT>I'm so lonely...
+<PAGE><FACE_POS_RIGHT><FACE_CHERYL><FACE_ANGRY><FP_RIGHT>You always play with
+<MYNAME> now!
+<PAGE>I wanna play with you too!
+<PAGE><FACE_POS_RIGHT><FACE_CHERYL><FACE_SAD><FP_RIGHT>I w-want you to want to
+play with me, too!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CHERYL><FACE_SAD><FP_RIGHT>I didn't mean to be mean
+to <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CHERYL><FACE_SAD><FP_RIGHT>Waa... I'm sorry,
+<MYNAME>!
+I'm sorry!!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ASH><FACE_SAD><FP_LEFT>I didn't mean to ignore you,
+Cheryl.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CHERYL><FACE_SAD><FP_RIGHT>Wha?<PAGE><FACE_POS_LEFT><FACE_ASH><FACE_NORMAL><FP_LEFT>Huh? You want to play
+with Cheryl too, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Will you play with me?
+And Ash too?
+Can we all play together?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CHERYL><FACE_SAD><FP_RIGHT>B-But I was so mean to you,
+<MYNAME>...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>You're really willing to
+forgive me? Wow! You're
+kind of a pushover!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>But yeah, let's all play
+together soon!<PAGE><FACE_POS_RIGHT><FACE_CHERYL><FACE_ANGRY><FP_RIGHT>Promise! Promise that
+we will, okay?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CHERYL><FACE_HAPPY><FP_RIGHT>Yay!<PAGE><FACE_POS_RIGHT><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Okay, Ash. I'll see you
+at home.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ASH><FACE_HAPPY><FP_LEFT>Wow. Looks like Cheryl
+finally warmed up to you!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ASH><FACE_NORMAL><FP_LEFT>You're incredible.<PAGE>I wouldn't have known
+how to handle that.<PAGE><FACE_POS_LEFT><FACE_ASH><FACE_SHOCK><FP_LEFT>Thanks, <MYNAME>.
+I'm so glad you were here.
+
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ASH><FACE_HAPPY><FP_LEFT>Heh heh.
+I'll walk you home.
+Let's go, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL><FP_RIGHT>Okay.
+I'll be back as soon as
+I find her.<PAGE>Sorry, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ASH><FACE_NORMAL><FP_LEFT>Sorry to keep you waiting.
+We sorted through things.<PAGE>Cheryl was mad that I
+was spending so much time
+with you.<PAGE><FACE_POS_LEFT><FACE_ASH><FACE_SAD><FP_LEFT>I feel terrible about making
+her feel so neglected.<PAGE><FACE_POS_LEFT><FACE_ASH><FACE_NORMAL><FP_LEFT>I'm going to try and spend
+a little more time with
+Cheryl from now on.<PAGE><FACE_POS_LEFT><FACE_ASH><FACE_HAPPY><FP_LEFT>She's still so young,
+and she's the only sister
+I've got.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ASH><FACE_NORMAL><FP_LEFT>Well, I'm gonna go home.
+Sorry things were so crazy
+today. See you later.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CHERYL><FACE_HAPPY><FP_RIGHT>Nyah nyah!

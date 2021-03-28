@@ -1,0 +1,139 @@
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Telolelolet! Kamu telah
+menangkap 15 ikan dengan
+tangan! Selamat!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>Kamu itu barusan memulainya
+loh, jadi kamu masih banyak
+yang harus dicapai!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Lanjutkan usaha kerasmu
+itu!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Telolelolet! Kamu telah
+menangkap 50 ikan dengan
+tangan! Selamat!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>Ini tampaknya kamu sudah
+menguasai sedikit teknik
+memancing dengan tangan!<PAGE>Itu sangat bagus! bagus!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Lanjutkan usaha kerasmu
+itu!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Telolelolet! Kamu telah
+menangkap 100 ikan dengan
+tangan! Selamat!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>Apakah kamu tahu bahwa ada
+barang yang hanya bisa di-
+dapatkan melalui memancing<PAGE>dengan tangan?<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Lanjutkan usaha kerasmu
+itu!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Telolelolet! Kamu telah
+menangkap 150 ikan dengan
+tangan! Selamat!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>Wow! Aku terkejut bahwa
+kamu sudah menangkap banyak
+ikan!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Lanjutkan usaha kerasmu
+itu!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Telolelolet! Kamu telah
+menangkap 300 ikan dengan
+tangan! Selamat!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>Apakah kamu tahu bahwa ada
+beberapa ikan yang jarang
+ditemukan disaat kamu<PAGE>menangkap ikan dengan
+tangan?<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Lanjutkan usaha kerasmu
+itu!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Telolelolet! Kamu telah
+menangkap 500 ikan dengan
+tangan! Selamat!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>Kamu benar-benar sudah
+sangat bagus! Kamu harus
+mencoba menangkap ikan<PAGE>dengan tangan disaat hujan
+atau sedang badai!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Lanjutkan usaha kerasmu
+itu!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Telolelolet! Kamu telah
+menangkap 750 ikan dengan
+tangan! Selamat!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>Kamu sudah sangat mahir da-
+lam menangkap ikan dengan
+tangan! Aku sunggu senang!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Lanjutkan usaha kerasmu
+itu!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Telolelolet! Kamu telah
+menangkap 1,000 ikan dengan
+tangan! Selamat!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>Aku tidak mempercayahi beta-
+pa cepat tanganmu itu ber-
+gerak! Kamu seperti elang!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Lanjutkan usaha kerasmu
+itu!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Telolelolet!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Kamu telah menangkap 1,500 
+ikan dengan tangan! Selamat!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>Wow, kamu benar-benar sangat
+mengakjubkan! Aku tidak
+pernah melihat seseorang<PAGE>sebagus kamu dalam hal me-
+mancing ikan dengan tangan!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>Kamu pastinya menjadi yang
+terbaik sedunia!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Lanjutkan usaha kerasmu
+itu!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Telolelolet!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><HIDE_NAME><FACE_HGODDES><FACE_NORMAL><FP_LEFT><HIDE_FACE>Telolelolet! Kamu telah
+menangkap 15 ikan dengan
+tangan! Selamat!<PAGE>btw, apakah kamu sudah
+mengetahui siapa aku?<PAGE>Aku akan memberitahukanmu
+jika kamu dapat menemukan
+aku!<PAGE>Lanjutkan usaha kerasmu
+itu!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><HIDE_NAME><FACE_HGODDES><FACE_NORMAL><FP_LEFT><HIDE_FACE>Telolelolet! Kamu telah
+menangkap 50 ikan dengan
+tangan! Selamat!<PAGE>btw, apakah kamu sudah
+mengetahui siapa aku?<PAGE>Aku akan memberitahukanmu
+jika kamu dapat menemukan
+aku!<PAGE>Lanjutkan usaha kerasmu
+itu!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><HIDE_NAME><FACE_HGODDES><FACE_NORMAL><FP_LEFT><HIDE_FACE>Telolelolet! Kamu telah
+menangkap 100 ikan dengan
+tangan! Selamat!<PAGE>btw, apakah kamu sudah
+mengetahui siapa aku?<PAGE>Aku akan memberitahukanmu
+jika kamu dapat menemukan
+aku!<PAGE>Lanjutkan usaha kerasmu
+itu!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><HIDE_NAME><FACE_HGODDES><FACE_NORMAL><FP_LEFT><HIDE_FACE>Telolelolet! Kamu telah
+menangkap 150 ikan dengan
+tangan! Selamat!<PAGE>btw, apakah kamu sudah
+mengetahui siapa aku?<PAGE>Aku akan memberitahukanmu
+jika kamu dapat menemukan
+aku!<PAGE>Lanjutkan usaha kerasmu
+itu!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><HIDE_NAME><FACE_HGODDES><FACE_NORMAL><FP_LEFT><HIDE_FACE>Telolelolet! Kamu telah
+menangkap 300 ikan dengan
+tangan! Selamat!<PAGE>btw, apakah kamu sudah
+mengetahui siapa aku?<PAGE>Aku akan memberitahukanmu
+jika kamu dapat menemukan
+aku!<PAGE>Lanjutkan usaha kerasmu
+itu!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><HIDE_NAME><FACE_HGODDES><FACE_NORMAL><FP_LEFT><HIDE_FACE>Telolelolet! Kamu telah
+menangkap 500 ikan dengan
+tangan! Selamat!<PAGE>btw, apakah kamu sudah
+mengetahui siapa aku?<PAGE>Aku akan memberitahukanmu
+jika kamu dapat menemukan
+aku!<PAGE>Lanjutkan usaha kerasmu
+itu!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><HIDE_NAME><FACE_HGODDES><FACE_NORMAL><FP_LEFT><HIDE_FACE>Telolelolet! Kamu telah
+menangkap 750 ikan dengan
+tangan! Selamat!<PAGE>btw, apakah kamu sudah
+mengetahui siapa aku?<PAGE>Aku akan memberitahukanmu
+jika kamu dapat menemukan
+aku!<PAGE>Lanjutkan usaha kerasmu
+itu!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><HIDE_NAME><FACE_HGODDES><FACE_NORMAL><FP_LEFT><HIDE_FACE>Telolelolet! Kamu telah
+menangkap 1,000 ikan dengan
+tangan! Selamat!<PAGE>btw, apakah kamu sudah
+mengetahui siapa aku?<PAGE>Apakah kamu ingin tahu?<PAGE>Aku akan memberitahukanmu
+siapa aku ini, jika kamu
+dapat menemukanku!<PAGE>Semoga beruntung!
+Sampai jumpa lagi!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><HIDE_NAME><FACE_HGODDES><FACE_NORMAL><FP_LEFT><HIDE_FACE>Telolelolet! Kamu telah
+menangkap 1,500 ikan dengan
+tangan! Selamat!<PAGE>btw, apakah ini saatnya
+kamu mengetahui siapa aku?<PAGE>Aku pikir akan menampakkan
+diriku didepan kolam untuk
+ditemukan...<PAGE>Lanjutkan usaha kerasmu
+itu!

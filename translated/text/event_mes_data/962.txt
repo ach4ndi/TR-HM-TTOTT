@@ -1,0 +1,47 @@
+<FACE_POS_RIGHT><FACE_LANEY><FACE_NORMAL><FP_RIGHT>Hey, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_NORMAL><FP_RIGHT>Apa kamu pernah mendengar 
+cerita tentang patung ini?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_NORMAL><FP_RIGHT>Waktu dulu patung ini
+terbuat dari semen dan batu
+bata.<PAGE><FACE_POS_RIGHT><FACE_LANEY><FACE_SHY><FP_RIGHT>Namun patung ini sangat
+lucu, BTW Kepala Desa pernah 
+tampak seperti psikopat dan<PAGE>ketakutan gitu.<PAGE>Jika ada yang coret-coret 
+patung ini, setelah itu dia 
+berteriak.<PAGE><FACE_POS_RIGHT><FACE_LANEY><FACE_HAPPY><FP_RIGHT>Aneh juga yak si 
+Kepala Desa tuh :v
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_NORMAL><FP_RIGHT>Aku rasa dia sangat men-
+cintai desa ini hingga tak
+rela jika ada yang<PAGE>melakukan hal itu. 
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_NORMAL><FP_RIGHT>Kamu bisa merasakannya ke-
+tika melihat patungnya.<PAGE><FACE_POS_RIGHT><FACE_LANEY><FACE_HAPPY><FP_RIGHT>Semua orang sangat menyukai
+patung ini. 
+spesial gitu deh.<PAGE>Ya itu simbol dari semua
+orang yang cinta desa ini.<PAGE>Hey, <MYNAME>.
+kamu suka tinggal disini?
+----------------------------|----------------------------------
+<CHOICE_AB> Ya! Aku sangat suka!
+ Au ah gelap...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_HAPPY><FP_RIGHT>Aku senang kamu menyukainya.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_NORMAL><FP_RIGHT>Aku gabisa membayangkan 
+kalo tinggal di tempat
+lain.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_SHOCK><FP_RIGHT>Aku yakin kamu juga akan 
+menyukai desa ini :)
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_NORMAL><FP_RIGHT>Asw udah telat nih!
+Eh sory :v ga sengaja 
+nyebut asw.<PAGE><FACE_POS_RIGHT><FACE_LANEY><FACE_HAPPY><FP_RIGHT>Hari ini aku sangat senang,
+Kapan kapan lagi ya..
+Bye!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_SHY><FP_RIGHT>Jadi gitu? lu Asw.
+Kamu gelapkan, mungkin..<PAGE><FACE_POS_RIGHT><FACE_LANEY><FACE_SAD><FP_RIGHT>Udah ah, gw
+mao balik dulu.
+Bye!

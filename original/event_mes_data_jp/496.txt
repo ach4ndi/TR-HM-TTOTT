@@ -1,0 +1,4 @@
+<FACE_POS_LEFT><HIDE_NAME><FACE_RUTGER><FACE_NORMAL><FP_LEFT><HIDE_FACE>おはよう、<MYNAME>くん。
+おじゃまするぞ。
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>調子はどうじゃ？

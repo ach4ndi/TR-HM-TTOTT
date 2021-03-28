@@ -1,0 +1,75 @@
+<FACE_POS_LEFT><HIDE_NAME><FACE_RUTGER><FACE_NORMAL><FP_LEFT><HIDE_FACE>Selamat pagi, <MYNAME>.
+Apa boleh aku masuk?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Apakah kamu senang tinggal
+disini? Apakah Bluebell
+itu benar-benar wooow gitu?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Hehehe, Disini aku datang
+kemari hari ini untuk mem-
+beritahumu tentang pindah.<PAGE>Aku tahu bahwa kamu tidak
+memiliki keinginan untuk
+meninggalkan Bluebell,<PAGE>Tapi aku akan tetap men-
+jelaskan hal ini kepadamu!<PAGE>Apakah kamu tahu untuk
+pindah, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Oke aku akan jelaskan!<PAGE>Kamu dapat pindah ke <BLUE>Konohana</COLOR>
+diantara tanggal <RED>23 sampai 30
+dimusim apapun</COLOR>.<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Jika kamu ingin pindah,
+kamu akan mulai tinggal diantara
+Konohana ditanggal itu.<PAGE>Tinggal datang aja ke balai
+desa ditanggal <RED>23 sampai 30
+dimusim apapun</COLOR><PAGE>jika kamu ingin pindah.<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Balai desa itu bangunan
+yang paling besar didesaloh,
+jadi mudah untuk ditemukan!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Dummy
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Kamu tetap dapat menggunakan
+lahan disini walaupun kamu
+sudah pindah ke Konohana.<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_SAD><FP_RIGHT>Tapi kandang disana itu
+lebih kecil daripada disini
+...<PAGE>Jadi jika kamu memiliki ba-
+nyak binatang ternak, kamu
+tidak dapat membawa semuanya.<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Aku akan meminta seorang
+temanku untuk mengurusinya
+untukmu.<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Itulah, kamu tidak usah
+khawatir kondisi kesehatan
+hewan ternakmu.<PAGE>Tapi kami tidak dapat mem-
+berikanmu kepadamu sampai
+kamu kembali ke Bluebell.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_SAD><FP_RIGHT>Ini akan memakan waktu se-
+harian untuk mempersiapkan
+segalanya siap.<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Jadi pastikan selesaikan
+semuanya sebelum hari-hari
+nya berakhir.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Nah, itulah informasi semua
+hal yang perlu diketahui
+mengenai perpindahan...<PAGE>Apa kamu ingin kujelaskan
+lagi?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Oke oke, aku akan menjelas-
+kannya lagi.<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Kamu dapat pindah ke <BLUE>Konohana</COLOR>
+diantara tanggal <RED>23 sampai 30
+dimusim apapun</COLOR>.<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Jika kamu ingin pindah,
+kamu akan mulai tinggal diantara
+Konohana ditanggal itu.<PAGE>Tinggal datang aja ke balai
+desa ditanggal <RED>23 sampai 30
+dimusim apapun</COLOR><PAGE>jika kamu ingin pindah.<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Balai desa itu bangunan
+yang paling besar didesaloh,
+jadi mudah untuk ditemukan!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Jadi datang saja kebalai
+desa jika kamu ingin pindah.<PAGE>Sebenarnya, balai desa saat
+ini masih belum buka hari
+ini, jadi datang besok ya...<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Tentu saja, desa kita ini
+benar-benar menakjubkan,
+jadi aku yakin kamu akan<PAGE>tinggal disini!
+----------------------------|----------------------------------
+<CHOICE_AB> Tidak, tidak.
+ Ya.
+----------------------------|----------------------------------
+<CHOICE_AB> Tolong jelasken.
+ Dah paham, oke oke.

@@ -1,0 +1,312 @@
+<FACE_POS_LEFT><FACE_AYAME><FACE_NORMAL><FP_LEFT><HIDE_FACE>You've gone into labor?
+All right, I'll head
+right over!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_HIRO><FACE_ANGRY><FP_LEFT>Leave this part to me.
+You just wait here.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_SAD><FP_RIGHT>Will they be okay? I'm a
+little worried...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_SAD><FP_RIGHT>Will they be all right? I
+feel in my heart that they
+will be...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_SAD><FP_RIGHT>Man, I wish there was
+something I could
+do!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MIKHAIL><FACE_SAD><FP_RIGHT>Both my wife and child
+are strong. They will
+be fine.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_SAD><FP_RIGHT>Oh, man, I wish there was
+something I could do! I'm
+so worried!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_AYAME><FACE_NORMAL><FP_LEFT><HIDE_FACE>Hang in there just a little
+longer! The baby is about
+to be born! Stay strong!
+----------------------------|----------------------------------
+Waaah!
+Waaah!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_AYAME><FACE_HAPPY><FP_RIGHT>You have a healthy baby! You
+did a wonderful job!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_HAPPY><FP_RIGHT>Congratulations! It's an
+adorable baby boy!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_HAPPY><FP_RIGHT>Congratulations! It's an
+adorable baby girl!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_SHOCK><FP_RIGHT>So this is our baby...
+It's so cute! It looks
+just like you!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_SHOCK><FP_RIGHT>So this is...our baby...
+It's adorable...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_SHOCK><FP_RIGHT>Whoa, so this is our baby!
+I'm so stoked right now!
+I can't believe it!<PAGE>It's so cute, too! Must take
+after you, heh!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MIKHAIL><FACE_SHOCK><FP_RIGHT>So this is our baby...
+It looks like a little
+angel...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_SHOCK><FP_RIGHT>Wow, so this is our baby...
+It's so cute!<PAGE>I know our child will have a
+bright future!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>Well, we need to name it
+now, don't we?<PAGE>If you don't mind, I was
+thinking of the name
+<RED><VAR_0></COLOR>...<PAGE>Well, what do you think?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_HAPPY><FP_RIGHT>So, have you thought of any
+names, <MYNICKNAME>?<PAGE>I was thinking that
+<RED><VAR_0></COLOR> might
+be a good name...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>Oh, that's right! We need
+to pick a name!<PAGE>How about something like
+<RED><VAR_0></COLOR>? Thinkthat'd work?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MIKHAIL><FACE_HAPPY><FP_RIGHT>Have you thought about a
+name yet?<PAGE>There's actually a name
+that I've always wanted
+to use...<PAGE>...<RED><VAR_0></COLOR>. Don't you
+think that's a nice name?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_HAPPY><FP_RIGHT>All right! Let's pick a
+really good name!<PAGE>I really like <RED><VAR_0></COLOR>.
+What do you think about that
+name, <MYNICKNAME>?
+----------------------------|----------------------------------
+<CHOICE_AB> I like it!
+ How about something else?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>Great! Let's go with that,
+then!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_HAPPY><FP_RIGHT>I'm glad you like it,
+too...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>Nice! Glad you like it!
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MIKHAIL><FACE_HAPPY><FP_RIGHT>Good. I am glad you like it,
+too.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_HAPPY><FP_RIGHT>Great! I'm glad you like it!
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>Hey there, <VAR_0>!
+I'm your father!<PAGE><FACE_POS_RIGHT><FACE_ASH><FACE_SHOCK><FP_RIGHT>Me and your mother are
+really happy you're
+here...<PAGE><FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>We're going to be to looking
+after you now, OK?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_HAPPY><FP_RIGHT>Hello, <VAR_0>...
+I'm your daddy...<PAGE><FACE_POS_RIGHT><FACE_CAM><FACE_SHOCK><FP_RIGHT>Your mommy and I are so
+happy that you're
+here...<PAGE><FACE_POS_RIGHT><FACE_CAM><FACE_HAPPY><FP_RIGHT>We're going to do our best
+to be really great
+parents...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>What's up, <VAR_0>?
+I'm your dad!<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_SHOCK><FP_RIGHT>Your mom and I are so stoked
+to finally see you!<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>We're gonna have a blast
+together! I promise!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MIKHAIL><FACE_HAPPY><FP_RIGHT>Hello there, <VAR_0>.
+It's me, your father.<PAGE><FACE_POS_RIGHT><FACE_MIKHAIL><FACE_SHOCK><FP_RIGHT>I'm happy that you look
+so nice and healthy.<PAGE><FACE_POS_RIGHT><FACE_MIKHAIL><FACE_HAPPY><FP_RIGHT>Your mother and I are really
+excited to find out what
+you're going to be like.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_HAPPY><FP_RIGHT>Hey, <VAR_0>! It's me,
+your dad!<PAGE><FACE_POS_RIGHT><FACE_DIRK><FACE_SHOCK><FP_RIGHT>I feel so lucky to have met
+your mom, and now to have
+met you!<PAGE><FACE_POS_RIGHT><FACE_DIRK><FACE_HAPPY><FP_RIGHT>Your mom and I can't wait
+to watch you grow up!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL><FP_RIGHT>Hmm... Well, I do have a few
+other names I've been
+thinking of...<PAGE>Hopefully you'll like one
+of the other names!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT>Another name? Let's see...
+I actually have a few I've
+been thinking of...<PAGE>Why don't you chose which
+one you like best?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>Well, I do have a few other
+sweet names I've been
+thinking of!<PAGE>Take your pick!
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>Hmm... Well, I made a list
+of a few names I like...<PAGE>Maybe you could chose one
+of those...?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_NORMAL><FP_RIGHT>Well, I thought of some
+other names, so maybe
+you'll like one of these!
+----------------------------|----------------------------------
+<CHOICE_ABC> Jason
+ Alex
+ More names.
+----------------------------|----------------------------------
+<CHOICE_ABC> Steve
+ Hans
+ More names.
+----------------------------|----------------------------------
+<CHOICE_ABC> Robert
+ Shin
+ More names.
+----------------------------|----------------------------------
+<CHOICE_ABC> Kenji
+ Jet
+ More names.
+----------------------------|----------------------------------
+<CHOICE_ABC> Tony
+ Geordi
+ More names.
+----------------------------|----------------------------------
+<CHOICE_AB> Hm, nothing sticks out.
+ View names again.
+----------------------------|----------------------------------
+<CHOICE_ABC> Amelia
+ Tess
+ More names.
+----------------------------|----------------------------------
+<CHOICE_ABC> Carly
+ Mariko
+ More names.
+----------------------------|----------------------------------
+<CHOICE_ABC> Noelle
+ Kimi
+ More names.
+----------------------------|----------------------------------
+<CHOICE_ABC> Molly
+ Klara
+ More names.
+----------------------------|----------------------------------
+<CHOICE_ABC> Serena
+ Ling
+ More names.
+----------------------------|----------------------------------
+<CHOICE_AB> Hm, nothing sticks out.
+ View names again.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL><FP_RIGHT>So you like <RED><VAR_0></COLOR>?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT>So you like <RED><VAR_0></COLOR>?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>You ya like <RED><VAR_0></COLOR>?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>So you like <RED><VAR_0></COLOR>?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_NORMAL><FP_RIGHT>So you like <RED><VAR_0></COLOR>?
+----------------------------|----------------------------------
+<CHOICE_AB> Yeah!
+ Maybe something else.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT><VAR_0>? That's a
+good name. Yeah, I like
+that, too.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_HAPPY><FP_RIGHT><VAR_0>? Yeah, that's
+a good name...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT><VAR_0>? Sweet! Yeah,
+let's go with that!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MIKHAIL><FACE_HAPPY><FP_RIGHT><VAR_0>...
+That's perfect!
+What a nice name!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_HAPPY><FP_RIGHT><VAR_0>? That's a
+great name! Yeah,
+let's go with that!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL><FP_RIGHT>Well, what name do you
+like, <MYNICKNAME>?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT>I can't think of anything
+else... What name would
+you like, <MYNICKNAME>?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>Hmm... Well, do you have
+any sweet names in mind,
+<MYNICKNAME>?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>I see... Do you have any
+names in mind, then?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_NORMAL><FP_RIGHT>Hmm... Well, do you have
+any names you like,
+<MYNICKNAME>?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL><FP_RIGHT>So you like \u2337?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT>So you like \u2337?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>So ya like \u2337?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>So you like \u2337?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_NORMAL><FP_RIGHT>So you like \u2337?
+----------------------------|----------------------------------
+<CHOICE_AB> Yeah!
+ Maybe something else.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>\u2337? That's a
+nice name! I like it!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_HAPPY><FP_RIGHT>\u2337... I like it...
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>\u2337? That's a
+sweet name! I like it!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MIKHAIL><FACE_HAPPY><FP_RIGHT>\u2337? What a
+lovely name... I
+quite like it!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_HAPPY><FP_RIGHT>\u2337? That's a great
+name! I like it a lot!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>Hey there, \u2337!
+I'm your father!<PAGE><FACE_POS_RIGHT><FACE_ASH><FACE_SHOCK><FP_RIGHT>Me and your mother are
+really happy you're
+here...<PAGE><FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>We're going to be to looking
+after you now, OK?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_HAPPY><FP_RIGHT>Hello, \u2337...
+I'm your daddy...<PAGE><FACE_POS_RIGHT><FACE_CAM><FACE_SHOCK><FP_RIGHT>Your mommy and I are so
+happy that you're
+here...<PAGE><FACE_POS_RIGHT><FACE_CAM><FACE_HAPPY><FP_RIGHT>We're going to do our best
+to be really great
+parents...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>What's up, \u2337?
+I'm your dad!<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_SHOCK><FP_RIGHT>Your mom and I are so stoked
+to finally see you!<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>We're gonna have a blast
+together! I promise!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MIKHAIL><FACE_HAPPY><FP_RIGHT>Hello there, \u2337.
+It's me, your father.<PAGE><FACE_POS_RIGHT><FACE_MIKHAIL><FACE_SHOCK><FP_RIGHT>I'm happy that you look
+so nice and healthy.<PAGE><FACE_POS_RIGHT><FACE_MIKHAIL><FACE_HAPPY><FP_RIGHT>Your mom and I are really
+excited to find out what
+you're going to be like.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_HAPPY><FP_RIGHT>Hey, \u2337! It's me,
+your dad!<PAGE><FACE_POS_RIGHT><FACE_DIRK><FACE_SHOCK><FP_RIGHT>I feel so lucky to have met
+your mom, and now to have
+met you!<PAGE><FACE_POS_RIGHT><FACE_DIRK><FACE_HAPPY><FP_RIGHT>Your mom and I can't wait
+to watch you grow up!

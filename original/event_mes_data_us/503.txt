@@ -1,0 +1,59 @@
+<FACE_POS_LEFT><HIDE_NAME><FACE_INA><FACE_NORMAL><FP_LEFT><HIDE_FACE>Good morning, <MYNAME>.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>How do you like it here?
+Isn't Konohana wonderful?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>Now, I'm sure you have no
+desire to leave our fine
+town...<PAGE>...But I've come here today
+to tell you about moving.<PAGE>Do you know how to move,
+<MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>Well, let me explain, then!<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>You can move to <BLUE>Bluebell</COLOR>
+between the <RED>23rd and 30th
+of any season</COLOR>.<PAGE>If you decide to move,
+you'll start living in
+Bluebell from that day on.<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>Just go to Town Hall on the
+<RED>23rd to the 30th of any
+season</COLOR> if you want to move.<PAGE>Town Hall is the biggest
+building in town, so it
+should be easy to find.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>これを出すとは流石だな！
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_HAPPY>これを出すとは流石だな！
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_SAD><FP_RIGHT>It'll take about a day to
+get everything ready to
+move.<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>So make sure to tie up
+any loose ends the day
+before.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>Well, that's basically all
+you need to know about
+moving...<PAGE>Do you want to hear the
+explanation again?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>All right, let me explain it
+again.<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>You can move to <BLUE>Bluebell</COLOR>
+between the <RED>23rd and 30th
+of any season</COLOR>.<PAGE>If you decide to move,
+you'll start living in
+Bluebell from that day on.<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>Just go to Town Hall on the
+<RED>23rd to the 30th of any
+season</COLOR> if you want to move.<PAGE>Town Hall is the biggest
+building in town, so you
+can't miss it!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>I see. Well, if you want
+to move, just come
+to Town Hall.<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>Of course, our village is
+much better, so I'm sure
+you'll stay here anyway!
+----------------------------|----------------------------------
+<CHOICE_AB> No, I don't.
+ Yes, I do.
+----------------------------|----------------------------------
+<CHOICE_AB> Please explain again.
+ That's OK, I got it!

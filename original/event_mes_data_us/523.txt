@@ -1,0 +1,114 @@
+<FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT>How are you doing,
+<MYNAME>?<PAGE>I have something to give to
+you.<PAGE>Before that, let me
+introduce you to <BLUE>Kana</COLOR>. He
+runs the stable.<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>I've heard lots about you.
+Nice to meet ya!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_INA><FACE_SAD><FP_LEFT>Well, you know your horse
+was injured in that fall.
+<PAGE>On top of that, your
+cart got broken.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>What's the name of your
+horse?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT><MYHORSENAME>? That's
+a great name!<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>Do you want me to teach you
+how to take care of your
+<RED>horse</COLOR> and <RED>cart</COLOR>?
+----------------------------|----------------------------------
+<CHOICE_AB> Yes, please.
+ No thanks.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>OK, then. If you ever have
+any problem with your cart,
+you can always ask me!<PAGE><FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT>Oh, by the way, let me give
+you a piece of advice.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>Cool! I enjoy teaching
+people about horses and
+carts.<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>First of all, I'll show you
+how to ride a horse.<PAGE>Press the <RED>A Button</COLOR> to
+get on your horse.<PAGE>Press the <RED>B Button</COLOR> to
+get off the horse.<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>Easy, yeah?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>Now let me tell you about
+your cart.<PAGE>Today I brought it here, but
+it's usually parked to the
+<RED>left of your house</COLOR>.<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>Your cart can carry lots
+more stuff than you can fit
+in your bag alone!<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>If you want to see the items
+in the cart, stand next to
+it and press the <RED>A Button</COLOR>.<PAGE>Then the bottom screen will
+look like this:
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>When your bag is full, use
+your cart to store items.<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>Perishable items like crops
+and milk will actually last
+longer in your cart.<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>The cart works the same as
+your bag.<PAGE>Use the <RED>+Control Pad</COLOR> to
+move the cursor, and press
+the <RED>A Button</COLOR> to select.<PAGE>Press the <RED>B Button</COLOR>
+when you're done.
+Try it out!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>That's about it for my
+explanation of the cart.<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>You can take the cart just
+about anywhere. It should be
+a big help!<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>But to take it off your
+farm, you'll need to <RED>hitch</COLOR>
+it to your horse.<PAGE>For that, get on your horse,
+stand next to the cart,
+and press the <RED>R Button</COLOR>.<PAGE>To unhitch them, park the
+cart back in its spot and
+press the <RED>R Button</COLOR>.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>Do you have any questions?
+
+----------------------------|----------------------------------
+<CHOICE_AB> I got it. Thanks.
+ Once again, please.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>Okay. Listen closely.
+<PAGE>Press the <RED>A Button</COLOR> to
+ride your horse.<PAGE>When you want to get off,
+press the <RED>B Button</COLOR>.<PAGE>To hitch the cart to your
+horse, get on your horse,<PAGE>stand next to the cart, and
+press the <RED>R Button</COLOR>.<PAGE>To unhitch them, park the
+cart back in its spot and
+press the <RED>R Button</COLOR>.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_INA><FACE_HAPPY><FP_LEFT>Your horse should be okay
+now!<PAGE>It looks like it made a
+full recovery.
+<PAGE><FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT>And I was able to get you
+a new cart.
+<PAGE><FACE_POS_LEFT><FACE_INA><FACE_HAPPY><FP_LEFT>Use it well!
+
+----------------------------|----------------------------------
+<BLUE><MYHORSENAME></COLOR>? You're sure?<PAGE><CHOICE_AB> Yes
+ No
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT>Sometimes you'll find
+yourself with lots of items
+to deliver to people.<PAGE><FACE_POS_LEFT><FACE_INA><FACE_HAPPY><FP_LEFT>That's when the cart really
+comes in handy!
+<PAGE><FACE_POS_LEFT><FACE_INA><FACE_SAD><FP_LEFT>Be careful, though.<PAGE>If you leave your cart
+behind, you won't be able to
+access any items left in it.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT>Well, that's all.
+Good luck, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT>How are you doing,
+<MYNAME>?<PAGE>I have something to give to
+you.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>If you want to see the items
+in the cart, stand next to
+it and press the <RED>A Button</COLOR>.<PAGE>Use the <RED>+Control Pad</COLOR> to
+move the cursor, and press
+the <RED>A Button</COLOR> to select.<PAGE>Press the <RED>B Button</COLOR>
+when you're done.

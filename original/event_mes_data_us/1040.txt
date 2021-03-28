@@ -1,0 +1,73 @@
+<FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL><FP_RIGHT>There's something I want
+to give you...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL><FP_RIGHT>You and I have been hanging
+out a lot, going places,
+and talking about things...<PAGE><FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>Every time I see you, you
+inspire me to be my best.<PAGE><FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL><FP_RIGHT>And uh, the more time
+I've spent with you,
+<MYNAME>...<PAGE>The more special that time
+has felt to me...
+<PAGE>What I mean is...\u270a\u270a...\u270a\u270a
+I love you.<PAGE>Not just as a friend. I'm
+in love with you.<PAGE><FACE_POS_RIGHT><FACE_ASH><FACE_SHOCK><FP_RIGHT>Will you marry me,
+<MYNAME>?
+----------------------------|----------------------------------
+<CHOICE_AB> I'm so happy! Yes!
+ It's too soon.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>You will!?
+I'm so glad!<PAGE><FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL><FP_RIGHT>I don't know what I would
+have done with myself if
+you'd said no.<PAGE><FACE_POS_RIGHT><FACE_ASH><FACE_SHOCK><FP_RIGHT>I'm so glad you feel the
+same way...
+<PAGE><FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>Okay then, so can I go
+tell my mom and
+Cheryl?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_JESSICA><FACE_HAPPY><FP_LEFT>Well, isn't that wonderful?
+Ash and you, hmm?
+Congratulations!<PAGE><FACE_POS_RIGHT><FACE_CHERYL><FACE_SAD><FP_RIGHT>What!?
+You're getting married!?
+<PAGE><FACE_POS_RIGHT><FACE_CHERYL><FACE_ANGRY><FP_RIGHT>I don't want you to!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_JESSICA><FACE_NORMAL><FP_LEFT>Now Cheryl, don't be
+selfish...<PAGE>You need to congratulate
+your brother.<PAGE><FACE_POS_RIGHT><FACE_CHERYL><FACE_SAD><FP_RIGHT>Hmph!<PAGE><FACE_POS_LEFT><FACE_JESSICA><FACE_HAPPY><FP_LEFT>Once they're married,
+<MYNAME> will be your
+big sister.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>My big sister?<PAGE><MYNAME> will become my
+big sister?<PAGE><FACE_POS_LEFT><FACE_JESSICA><FACE_HAPPY><FP_LEFT>That's right! And then
+she can play with you all
+the time.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CHERYL><FACE_HAPPY><FP_RIGHT>Well...okay!
+I guess you can marry Ash,
+<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_JESSICA><FACE_NORMAL><FP_LEFT>So?
+When's the wedding?<PAGE><FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>We were just talking about
+having it a week from now.
+
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_JESSICA><FACE_HAPPY><FP_LEFT>Oh, I see. Well then, we'd
+better start getting things
+ready!<PAGE><FACE_POS_LEFT><FACE_JESSICA><FACE_NORMAL><FP_LEFT>You'll be busy the day
+of your wedding, <MYNAME>.<PAGE>So you should finish up all
+your work the day before.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_JESSICA><FACE_NORMAL><FP_LEFT>Ash, I know you'll make
+<MYNAME> very happy!
+<PAGE><FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>Of course I will, Mom.<PAGE><FACE_POS_RIGHT><FACE_CHERYL><FACE_HAPPY><FP_RIGHT>After you're married,
+you have to play with
+me a lot, okay?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL><FP_RIGHT>Oh, well, okay.
+Sorry for bringing it up
+so suddenly like that...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL><FP_RIGHT>I'm going to head
+home, then...
+See you, <MYNAME>.

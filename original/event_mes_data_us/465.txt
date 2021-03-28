@@ -1,0 +1,154 @@
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Dum-Da-Da-DAA! You've
+given me an offering!
+Congratulations!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>But remember! Once you've
+thrown an offering in, you
+can't get it back!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Well, bring me lots and lots
+more offerings!
+Toodles!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Dum-Da-Da-DAA! You've given
+me a bunch of offerings now!
+Congratulations!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>This is your 30th offering,
+so I'm going to give you a
+tip!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>I hid 6 "Wonderfuls" all
+around the mountain! Try
+to find them all!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>Make sure you have 5 in your
+bag, then hold the last one
+in your hands!<PAGE>Something wonderful will
+happen!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>I know you can do it,
+<MYNAME>! Well, good luck!
+Toodles!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Dum-Da-Da-DAA! You've given
+me even more offerings now!
+Congratulations!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>This is your 115th offering!
+Thanks for giving me so
+many!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Well, bring me lots and lots
+more offerings!
+Toodles!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Dum-Da-Da-DAA! You've given
+me a bunch more offerings
+now! Congratulations!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>This is your 215th offering!
+Thanks for giving me so
+many!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Well, bring me lots and lots
+more offerings!
+Toodles!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Dum-Da-Da-DAA! You've
+given me 315 offerings!
+Congratulations!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>You've given me so many\u270a...\u270a
+Here, as a reward, let me
+give you another tip!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>Out of the 6 Wonderfuls, 2
+can be found when you fish
+with your pole.<PAGE>And 2 of them can be found
+when you're hand fishing.<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Oh, and it's easier to find
+them when the weather's bad!
+Toodles!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Dum-Da-Da-DAA! You've
+given me 415 offerings!
+Congratulations!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>You're so kind to me,
+<MYNAME>! Thanks for all
+of your offerings!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Well, bring me lots and lots
+more offerings!
+Toodles!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Dum-Da-Da-DAA! You've
+given me 515 offerings!
+Congratulations!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>Thank you so much! Keep
+giving me more, and you
+might get a reward!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Well, bring me lots and lots
+more offerings!
+Toodles!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Dum-Da-Da-DAA! Wow! You're
+amazing, <MYNAME>!
+Congratulations!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>You've given me 715
+offerings now! You must
+like me a lot!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Well, bring me lots and lots
+more offerings!
+Toodles!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Dum-Da-Da-DAA! Wow! Thanks
+for all of the offerings!
+Congratulations!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>You've given me 1015
+offerings!<PAGE>Since you've given me so
+many, let me tell you a
+secret!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>You might already know this,
+but my favorite offering is
+strawberries!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>What's that? You already
+knew that? Oh well...<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>I guess your reward for all
+these offerings is a smile!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Well, bring me lots and lots
+more offerings!
+Toodles!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Dum-Da-Da-DAA!
+
+----------------------------|----------------------------------
+<FACE_POS_LEFT><HIDE_NAME><FACE_HGODDES><FACE_NORMAL><FP_LEFT><HIDE_FACE>Dum-Da-Da-DAA! You've
+given me an offering!
+Congratulations!<PAGE>But remember! Once you've
+thrown an offering in, you
+can't get it back!<PAGE>By the way, have you figured
+out who I am?<PAGE>I'll tell you if you
+can find me!<PAGE>Well, keep up the good work!
+Toodles!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><HIDE_NAME><FACE_HGODDES><FACE_NORMAL><FP_LEFT><HIDE_FACE>Dum-Da-Da-DAA! You've
+given me 30 offerings!
+Congratulations!<PAGE>By the way, have you figured
+out who I am yet?<PAGE>I'll tell you if you
+can find me!<PAGE>Well, keep up the good work!
+Toodles!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><HIDE_NAME><FACE_HGODDES><FACE_NORMAL><FP_LEFT><HIDE_FACE>Dum-Da-Da-DAA! You've
+given me 115 offerings!
+Congratulations!<PAGE>By the way, have you figured
+out who I am yet?<PAGE>I'll tell you if you
+can find me!<PAGE>Well, keep up the good work!
+Toodles!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><HIDE_NAME><FACE_HGODDES><FACE_NORMAL><FP_LEFT><HIDE_FACE>Dum-Da-Da-DAA! You've
+given me 215 offerings!
+Congratulations!<PAGE>By the way, have you figured
+out who I am yet?<PAGE>I'll tell you if you
+can find me!<PAGE>Well, keep up the good work!
+Toodles!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><HIDE_NAME><FACE_HGODDES><FACE_NORMAL><FP_LEFT><HIDE_FACE>Dum-Da-Da-DAA! You've
+given me 315 offerings!
+Congratulations!<PAGE>By the way, have you figured
+out who I am yet?<PAGE>I'll tell you if you
+can find me!<PAGE>Well, keep up the good work!
+Toodles!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><HIDE_NAME><FACE_HGODDES><FACE_NORMAL><FP_LEFT><HIDE_FACE>Dum-Da-Da-DAA! You've
+given me 415 offerings!
+Congratulations!<PAGE>By the way, have you figured
+out who I am yet?<PAGE>I'll tell you if you
+can find me!<PAGE>Well, keep up the good work!
+Toodles!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><HIDE_NAME><FACE_HGODDES><FACE_NORMAL><FP_LEFT><HIDE_FACE>Dum-Da-Da-DAA! You've
+given me 515 offerings!
+Congratulations!<PAGE>By the way, have you figured
+out who I am yet?<PAGE>I'll tell you if you
+can find me!<PAGE>Well, keep up the good work!
+Toodles!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><HIDE_NAME><FACE_HGODDES><FACE_NORMAL><FP_LEFT><HIDE_FACE>Dum-Da-Da-DAA! You've
+given me 715 offerings!
+Congratulations!<PAGE>By the way, have you figured
+out who I am yet?<PAGE>I'll tell you if you
+can find me!<PAGE>Well, keep up the good work!
+Toodles!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><HIDE_NAME><FACE_HGODDES><FACE_NORMAL><FP_LEFT><HIDE_FACE>Dum-Da-Da-DAA! You've
+given me 1015 offerings!
+Congratulations!<PAGE>By the way, isn't it about
+time you found out who I
+am...?<PAGE>I guess I'll have to appear
+right in front of you for
+you to figure it out...<PAGE>Well, keep up the good work!
+Toodles!

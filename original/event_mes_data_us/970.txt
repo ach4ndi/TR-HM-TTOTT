@@ -1,0 +1,62 @@
+<FACE_POS_LEFT><FACE_REINA><FACE_NORMAL><FP_LEFT>By the way, <MYNAME>, that
+plant that was sick the
+other day is doing better.<PAGE>Would you like to come by
+and see it today?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_REINA><FACE_HAPPY><FP_LEFT>I'm home!
+Have you been a good little
+plant while I was gone?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_REINA><FACE_HAPPY><FP_LEFT>You're looking much
+healthier! Look how firm and
+green your leaves are!<PAGE><FACE_POS_LEFT><FACE_REINA><FACE_NORMAL><FP_LEFT>.........
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_REINA><FACE_SHY><FP_LEFT>Ah, uh...I should explain...<PAGE><FACE_POS_LEFT><FACE_REINA><FACE_SHOCK><FP_LEFT>When you talk to plants,
+they grow better.
+All the research shows it!
+----------------------------|----------------------------------
+<CHOICE_AB> That's fantastic!
+ How weird!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_REINA><FACE_SHOCK><FP_LEFT>You don't think it's
+strange?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_REINA><FACE_SHY><FP_LEFT>Most people laugh at me
+when they find out I talk to
+plants...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_REINA><FACE_NORMAL><FP_LEFT>But you really don't think
+it's weird at all?<PAGE>You must be a little weird
+yourself, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_REINA><FACE_HAPPY><FP_LEFT>Ha ha ha!
+No, I don't mean in a bad
+way.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_REINA><FACE_HAPPY><FP_LEFT>Hey, I've got an idea. Come
+over here and take a look at
+how this plant's doing.<PAGE>Compared to when I brought
+it home, can't you tell how
+much happier it looks?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_REINA><FACE_NORMAL><FP_LEFT>Plants are a lot like
+people and animals.
+<PAGE><FACE_POS_LEFT><FACE_REINA><FACE_HAPPY><FP_LEFT>They need love and attention
+to be their best.<PAGE>So I check up on all of my
+plants and talk to them
+every day.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_REINA><FACE_NORMAL><FP_LEFT>If you'd like, you can stop
+by and check up on how this
+guy is doing again later.<PAGE>If you talk to it too, it
+might get better faster!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_REINA><FACE_SAD><FP_LEFT>Huh. Well, I'm used to being
+laughed at.<PAGE><FACE_POS_LEFT><FACE_REINA><FACE_ANGRY><FP_LEFT>And I'll remind you that
+what I'm saying is supported
+by research.<PAGE>While YOU have no basis for
+YOUR opinion.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_REINA><FACE_SAD><FP_LEFT>I know I invited you over
+today, but I think that you
+should go home now.

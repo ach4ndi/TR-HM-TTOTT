@@ -1,0 +1,50 @@
+<FACE_POS_LEFT><FACE_YUN><FACE_NORMAL><FP_LEFT>Ying sayang, sekarang lihat
+itu yang panjang, ramping..
+itu disebut bambu.<PAGE>Kita hampir sering makan
+rembung, tapi disaat itu
+menjadi besar, maka<PAGE>terlihat seperti ini!
+Ayo lihat lebih dekat,
+Ying...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_YING><FACE_NORMAL><FP_LEFT>Ini panda..!<PAGE>Dan ini lebih besar dari
+panda...!<PAGE><FACE_POS_RIGHT><FACE_SHENG><FACE_HAPPY><FP_RIGHT>Oh, itu kamu, Ying!
+Bagaimana keadaanmu, nak?<PAGE><FACE_POS_LEFT><FACE_YING><FACE_NORMAL><FP_LEFT>Um...baik-baik saja...<PAGE>Disana ada yang lebih besar
+daripada panda bersamamu!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Kamu benar nak!<PAGE>Yang disini yang beneran,
+panda hidup, Ying!<PAGE><FACE_POS_RIGHT><FACE_SHENG><FACE_HAPPY><FP_RIGHT>Lihat! pandangi wajahnya!
+Wajahnya sangat imut!<PAGE><FACE_POS_LEFT><FACE_YING><FACE_HAPPY><FP_LEFT>Yeah... Itu memang sangat
+imut!<PAGE>Pandaku memang imut, tapi
+yang aslinya juga tapi
+lebih imut, imut juga!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Aku pikir kamu makin lama
+makin mirip aku, nak...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_YUN><FACE_NORMAL><FP_LEFT><HIDE_FACE>Ying, sayang! 
+Waktunya untuk pulang
+kerumah!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_YING><FACE_NORMAL><FP_LEFT>Um...
+Nenekku memanggilku...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_YING><FACE_HAPPY><FP_LEFT>Nantinya kita akan berjumpa
+lagi kan... oke?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_YUN><FACE_NORMAL><FP_RIGHT>Wadew disini sangat berbaha-
+ya, banyak hewan liar dise-
+kitar sini, jadi kamu<PAGE>seharusnya jangan berkelia-
+ran kemana mana!<PAGE><FACE_POS_LEFT><FACE_YING><FACE_NORMAL><FP_LEFT>...\u270a...\u270a...\u270am..maaf...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_YUN><FACE_NORMAL><FP_LEFT>Akhirnya! Aku menemukan be-
+berapa rembung! Aku akan me
+masaknya untuk makan malam!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_YUN><FACE_NORMAL><FP_LEFT>Oh, sepertinya buruk, tidak
+menemukan rembung.<PAGE>Apa ya aku buat 
+nanti malam?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Kelihatannya aku juga harus
+pulang kerumah juga!<PAGE><FACE_POS_RIGHT><FACE_SHENG><FACE_HAPPY><FP_RIGHT>Jangan khawatir! Aku akan
+bermain denganmu kedepannya
+disaat aku ada waktu!

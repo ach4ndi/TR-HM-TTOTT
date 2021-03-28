@@ -1,0 +1,78 @@
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Telolelolet! Kamu sudah
+memanen 100
+<VAR_0>! Selamat!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>Ini masih permulaan loh!<PAGE>Tetap merawat tanaman itu
+jadi kamu bisa memanennya
+lebih banyak!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Lanjutkan usaha kerasmu
+itu!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Telolelolet! Kamu sudah
+memanen 1,000 
+<VAR_0>! Selamat!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>Kamu benar-benar serius me-
+manennya!<PAGE>Jangan lupakan siram tana-
+mannya! Tiap hari ya!
+bukan tiap tahun...<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Lanjutkan usaha kerasmu
+itu!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Telolelolet! Kamu sudah
+memanen 10,000 
+<VAR_0>! Selamat!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>Kamu benar-benar mengetahui
+bagaimana untuk merawat
+tanaman!<PAGE>Apakah kamu sudah mencoba
+dengan lahan irigasi itu?<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Lanjutkan usaha kerasmu
+itu!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Telolelolet! Kamu sudah
+memanen 50,000 
+<VAR_0>! Selamat!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>Aku tidak percaya, kamu dah
+memanen sangat banyak!<PAGE>Kamu benar-benar petani
+yang hebat!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Lanjutkan usaha kerasmu
+itu!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Telolelolet! Kamu sudah
+memanen 100,000 
+<VAR_0>! Selamat!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>Merawat tanaman itu pasti-
+nya pekerjaan yang melelah-
+kan!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>Ini pastinya merasakan lega
+disaat semua hasil kerja
+kerasmu itu terbayarkan!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Lanjutkan usaha kerasmu
+itu!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><HIDE_NAME><FACE_HGODDES><FACE_NORMAL><FP_LEFT><HIDE_FACE>Telolelolet! Kamu sudah
+memanen 100 
+<VAR_0>! Selamat!<PAGE>btw, apakah kamu sudah
+mengetahui siapa aku?<PAGE>Aku akan memberitahukanmu
+jika kamu dapat menemukan
+aku!<PAGE>Lanjutkan usaha kerasmu
+itu!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><HIDE_NAME><FACE_HGODDES><FACE_NORMAL><FP_LEFT><HIDE_FACE>Telolelolet! Kamu sudah
+memanen 1,000 
+<VAR_0>! Selamat!<PAGE>btw, apakah kamu sudah
+mengetahui siapa aku?<PAGE>Aku akan memberitahukanmu
+jika kamu dapat menemukan
+aku!<PAGE>Lanjutkan usaha kerasmu
+itu!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><HIDE_NAME><FACE_HGODDES><FACE_NORMAL><FP_LEFT><HIDE_FACE>Telolelolet! Kamu sudah
+memanen 10,000 
+<VAR_0>! Selamat!<PAGE>btw, apakah kamu sudah
+mengetahui siapa aku?<PAGE>Aku akan memberitahukanmu
+jika kamu dapat menemukan
+aku!<PAGE>Lanjutkan usaha kerasmu
+itu!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><HIDE_NAME><FACE_HGODDES><FACE_NORMAL><FP_LEFT><HIDE_FACE>Telolelolet! Kamu sudah
+memanen 50,000 
+<VAR_0>! Selamat!<PAGE>btw, apakah kamu sudah
+mengetahui siapa aku?<PAGE>Aku akan memberitahukanmu
+jika kamu dapat menemukan
+aku!<PAGE>Lanjutkan usaha kerasmu
+itu!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><HIDE_NAME><FACE_HGODDES><FACE_NORMAL><FP_LEFT><HIDE_FACE>Telolelolet! Kamu sudah
+memanen 100,000 
+<VAR_0>! Selamat!<PAGE>btw, apakah ini saatnya
+kamu mengetahui siapa aku?<PAGE>Aku pikir akan menampakkan
+diriku didepan kolam untuk
+ditemukan...<PAGE>Lanjutkan usaha kerasmu
+itu!

@@ -1,0 +1,139 @@
+<FACE_POS_LEFT><FACE_AYAME><FACE_NORMAL><FP_LEFT><HIDE_FACE>She's about to give birth?
+Okay, understood.
+I'm on my way!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_AYAME><FACE_ANGRY><FP_LEFT>Let's get right to work! You
+get hot water and towels
+ready!<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_ANGRY><FP_RIGHT>Y-Yes, immediately!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_NORMAL><FP_RIGHT>I brought them, Dr. Ayame.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_AYAME><FACE_NORMAL><FP_LEFT>Thank you.
+\u270a\u270a...\u270aHiro!<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_ANGRY><FP_RIGHT>...!
+Y-Yes, Doctor?<PAGE><FACE_POS_LEFT><FACE_AYAME><FACE_NORMAL><FP_LEFT>Starting right now, as a
+doctor, and a husband...<PAGE>Your responsibility is to
+care for and support
+<MYNAME>.<PAGE><FACE_POS_LEFT><FACE_AYAME><FACE_ANGRY><FP_LEFT>Are you ready?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_ANGRY><FP_RIGHT>I'm ready!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_AYAME><FACE_HAPPY><FP_LEFT>Good!<PAGE><FACE_POS_LEFT><FACE_AYAME><FACE_NORMAL><FP_LEFT>In that case, let's begin.<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_NORMAL><FP_RIGHT>Yes, Doctor!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_NORMAL><FP_RIGHT>I'll be right here with you,
+<MYNICKNAME>...
+Be of good courage!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_HIRO><FACE_NORMAL><FP_LEFT><HIDE_FACE><MYNICKNAME>, the baby will
+be born any moment now!
+Persevere a bit longer!<PAGE><FACE_POS_LEFT><FACE_HIRO><FACE_NORMAL><FP_LEFT><HIDE_FACE>Here, take my hand!
+Everything will be fine!
+----------------------------|----------------------------------
+Waaah!
+Waaah!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_AYAME><FACE_HAPPY><FP_RIGHT>You have a healthy baby! You
+did a wonderful job!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_HAPPY><FP_RIGHT><MYNICKNAME>! it's an
+adorable baby boy!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_HAPPY><FP_RIGHT><MYNICKNAME>! it's an
+adorable baby girl!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_HAPPY><FP_RIGHT>It may seem abrupt, but we
+must name our child now!<PAGE>There is a name I have been
+considering for a long time.<PAGE>It's <RED><VAR_0></COLOR>!
+How does that strike you?
+----------------------------|----------------------------------
+<CHOICE_AB> I like it!
+ How about something else?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_HAPPY><FP_RIGHT>Splendid! It's settled,
+then!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_HAPPY><FP_RIGHT>Hello, <VAR_0>!
+I'm your daddy!<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_SHOCK><FP_RIGHT>Your mommy and I are joyful
+beyond words at your birth!<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_HAPPY><FP_RIGHT>Your mommy and I will care
+for you as you grow up! Be
+healthy and strong, <VAR_0>!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_NORMAL><FP_RIGHT>Another name...? Hmm...<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_SHOCK><FP_RIGHT>In fact, I considered a
+great many names... I got
+rather carried away.<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_NORMAL><FP_RIGHT>I hope that one of them is
+to your liking...
+----------------------------|----------------------------------
+<CHOICE_ABC> Jason
+ Alex
+ More names.
+----------------------------|----------------------------------
+<CHOICE_ABC> Steve
+ Hans
+ More names.
+----------------------------|----------------------------------
+<CHOICE_ABC> Robert
+ Shin
+ More names.
+----------------------------|----------------------------------
+<CHOICE_ABC> Kenji
+ Jet
+ More names.
+----------------------------|----------------------------------
+<CHOICE_ABC> Tony
+ Geordi
+ More names.
+----------------------------|----------------------------------
+<CHOICE_AB> Hm, nothing sticks out.
+ View names again.
+----------------------------|----------------------------------
+<CHOICE_ABC> Amelia
+ Tess
+ More names.
+----------------------------|----------------------------------
+<CHOICE_ABC> Charlene
+ Mariko
+ More names.
+----------------------------|----------------------------------
+<CHOICE_ABC> Noelle
+ Kimi
+ More names.
+----------------------------|----------------------------------
+<CHOICE_ABC> Molly
+ Klara
+ More names.
+----------------------------|----------------------------------
+<CHOICE_ABC> Serena
+ Ling
+ More names.
+----------------------------|----------------------------------
+<CHOICE_AB> Hm, nothing sticks out.
+ View names again.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_NORMAL><FP_RIGHT>So the name <RED><VAR_0></COLOR>
+is satisfactory?
+----------------------------|----------------------------------
+<CHOICE_AB> Yeah!
+ Let me think it over again.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_HAPPY><FP_RIGHT><VAR_0>... Yes, I think
+that's a fine name!
+It's settled!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_NORMAL><FP_RIGHT>I see... In that case, what
+would you like to name our
+child?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_NORMAL><FP_RIGHT>So you want to name our
+child \u2337?
+----------------------------|----------------------------------
+<CHOICE_AB> Yeah!
+ Maybe something else.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_HAPPY><FP_RIGHT>\u2337... I think
+that's a great name! It's
+all settled, then!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_HAPPY><FP_RIGHT>Hello, \u2337!
+I'm your daddy!<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_SHOCK><FP_RIGHT>Your mommy and I are joyful
+beyond words at your birth!<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_HAPPY><FP_RIGHT>Your mommy and I will care
+for you as you grow up! Be
+healthy and strong, \u2337!

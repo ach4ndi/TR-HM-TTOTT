@@ -1,0 +1,43 @@
+<FACE_POS_RIGHT><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>And now let us begin...<PAGE>We are here today to witness
+the marriage of Hiro and
+<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Hiro...<PAGE>Do you take <MYNAME> to be
+your wife, to love and
+cherish her all your life?<PAGE><FACE_POS_LEFT><FACE_HIRO><FACE_HAPPY><FP_LEFT>I do.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NATHAN><FACE_NORMAL><FP_RIGHT><MYNAME>...<PAGE>Do you take Hiro to be
+your husband, to love and
+cherish him all your life?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>In that case, I now
+pronounce you husband and
+wife!<PAGE><FACE_POS_RIGHT><FACE_NATHAN><FACE_HAPPY><FP_RIGHT>May the Harvest Goddess
+bless this happy couple!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_HIRO><FACE_SHOCK><FP_LEFT><MYNAME>, I shall not fail
+to make you happy! Let us
+cherish each other forever!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_SHOCK><FP_RIGHT>Today the two of us embark
+on a new life together!<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_HAPPY><FP_RIGHT>So now that we're married,
+is there a nickname by which
+you'd like me to call you?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_NORMAL><FP_RIGHT><MYNICKNAME>.
+That is your preference?
+----------------------------|----------------------------------
+<CHOICE_AB> Yes, Hiro.
+ I changed my mind.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_HAPPY><FP_RIGHT>Splendid!
+The decision is made!<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_SHOCK><FP_RIGHT>I joyfully anticipate our
+many years together...
+...<MYNICKNAME>.
+----------------------------|----------------------------------
+Our new life has started!
+We'll take it easy today.
+Tomorrow it's back to work!
+----------------------------|----------------------------------
+<CHOICE_AB> Save and go to bed.
+ Go to bed without saving.

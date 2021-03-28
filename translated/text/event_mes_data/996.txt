@@ -1,0 +1,71 @@
+<FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT>Sebuah <RED>bulu biru</COLOR>...?
+K-kamu tahukan maksud kamu
+memberikan itu, benarkan?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_SHY><FP_RIGHT>M-Maaf saua sudah tidak mem-
+percayahi kamu...
+Ini hanya...<PAGE>Itu hanya kupikirkan aku
+tidak akan mendapatkan itu
+dari kamu...<PAGE><FACE_POS_RIGHT><FACE_CAM><FACE_SHOCK><FP_RIGHT>Kamu telah membuatku sangat
+gembira, <MYNAME>...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_HAPPY><FP_RIGHT>Bolehkan aku memberitahu
+Laney dan Howard?<PAGE><FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT>Jika aku tidak memberitahu-
+kan dua makhluk tersebut,<PAGE>aku tak bakal tahan cerita
+akhir dari tak bilang-bilang
+itu...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_HOWARD><FACE_HAPPY><FP_LEFT>Oh! Kamu akan menikah, CAM?!
+Ini benar benar sebuah
+kejutan!<PAGE><FACE_POS_LEFT><FACE_HOWARD><FACE_NORMAL><FP_LEFT>Aku berpikir bahwa kamu akan
+paling telat, dan disini
+kamu tiba tiba mendadak<PAGE>seperti ini!<PAGE><FACE_POS_LEFT><FACE_HOWARD><FACE_HAPPY><FP_LEFT>Tapi kenapa tidak bilang-
+bilang sebelumnya? Kamu
+tahu bagaimana aku me-<PAGE>nyukai semua gosip terkini!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_HOWARD><FACE_NORMAL><FP_LEFT>Tapi selain bercandaan
+barusan...<PAGE><FACE_POS_LEFT><FACE_HOWARD><FACE_HAPPY><FP_LEFT>Selamat ya, Cam dan
+<MYNAME>!<PAGE><FACE_POS_RIGHT><FACE_LANEY><FACE_HAPPY><FP_LEFT>Selamat, kalian berdua!
+Tapi, <MYNAME>...<PAGE><FACE_POS_RIGHT><FACE_LANEY><FACE_SHY><FP_RIGHT>...Aku tidak mempercayahi
+bahwa kamu tidak memberita-
+hukan aku mengenai hal ini!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_HAPPY><FP_RIGHT>Tee-Hee! Hanya bercanda!
+Selamat ya untuk kalian ber-
+dua ini!<PAGE><FACE_POS_RIGHT><FACE_LANEY><FACE_ANGRY><FP_RIGHT>Tapi jika kamu membuat
+<MYNAME> marah, kamu
+harus berhadapan denganku<PAGE>Cam!
+Harap diingat-ingat!<PAGE><FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT>Jangan khawatir seperti itu
+donk. Aku tidak akan per-
+nah membuat <MYNAME><PAGE>marah, Laney.<PAGE><FACE_POS_LEFT><FACE_HOWARD><FACE_HAPPY><FP_LEFT>Oh, romantis sekali!<PAGE>kalian berdua itu sangat
+mencintai! Ini sungguh
+menakjubkan?!<PAGE><FACE_POS_LEFT><FACE_HOWARD><FACE_NORMAL><FP_LEFT>Jadi, kalau gitu kapan
+pernikahannya diadakan?<PAGE><FACE_POS_RIGHT><FACE_CAM><FACE_HAPPY><FP_RIGHT>Kita sudah berdiskusi hal
+ini... mungkin satu minggu
+dari sekarang.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_HOWARD><FACE_HAPPY><FP_LEFT>Seminggu?! Oke, kamu sebaik-
+nya memulai segera!<PAGE>Kamu akan benar-benar sibuk
+seharian disaat pernikahan-
+nya diadakan, <MYNAME>!<PAGE>Jadi pastikan selesaikan
+semua pekerjaan diperkebun-
+anmu sebelum hari pernikah-<PAGE>anmu, Ok?
+Oh! dan aku sudah memikir-
+kan pakaian yang akan ku-<PAGE>pakai pada acara yang
+menggembirakan ini!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_HAPPY><FP_RIGHT>Yah! Pernikahan ini bukan
+diadakan selama seminggu
+penuh loh!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_HOWARD><FACE_NORMAL><FP_LEFT>Dasar! Kamu pastinya bisa
+mempersiapkan rencana lebih
+awal juga!<PAGE>Begitu juga, aku mencintai
+Cam seperti anakku sendiri!<PAGE><FACE_POS_LEFT><FACE_HOWARD><FACE_HAPPY><FP_LEFT>Ini hanyalah natural jika
+Aku gembira karena pernika-
+han anakku!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_HOWARD><FACE_NORMAL><FP_LEFT>Selamat ya! kalian berdua!<PAGE><FACE_POS_LEFT><FACE_HOWARD><FACE_HAPPY><FP_LEFT>Dan jika Cam membuatmu mena-
+ngis, datang langsung kepada
+ku, dan kubuat cam menangis<PAGE>juga, sayang! mari menangis
+bersama-sama.

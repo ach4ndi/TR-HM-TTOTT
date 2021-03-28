@@ -1,0 +1,5 @@
+<FACE_POS_LEFT><HIDE_NAME><FACE_RUTGER><FACE_NORMAL><FP_LEFT><HIDE_FACE>Selamat pagi, <MYNAME>.
+Apa bisa masuk kedalam?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Bagaimana yang kamu lakukan
+hari ini?

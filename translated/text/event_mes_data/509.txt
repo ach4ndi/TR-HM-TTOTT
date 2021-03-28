@@ -1,0 +1,47 @@
+<FACE_POS_LEFT><HIDE_NAME><FACE_INA><FACE_NORMAL><FP_LEFT><HIDE_FACE>Selamat pagi, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>Maaf kalau sudha membangun-
+kanmu sepagi ini dihari ini.<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>Hari ini adalah musim panas
+pertamamu didesa ini.<PAGE>Dan musim panas yang arti-
+nya... memancing.<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>Itulah kenapa aky ingin mem-
+berikanmu ini.<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>Sebuah <RED>alat pancingan</COLOR>.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>Aku tidak dapat menampilkan
+ini kepadamu.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>Aku tidak dapat menampilkan
+ini kepadamu.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>Sekarang, apakah kamu tahu
+cara menggunakan alat
+pancingan?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>Sepertinya aku harus menje-
+laskan kepadamu.<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>Kamu dapat memancing diber-
+bagai tempat <RED>mancing</COLOR> around here.<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>Kamu dapat mencari
+tempatnya...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>Aku tidak dapat menampilkan
+ini kepadamu.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>...di pegunungan!<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>Tinggal berdiri ditempat me-
+mancingnya dengan alat pan-
+cing, lalu tekan<PAGE><RED>Tombol A</COLOR> untuk melempar
+umpannya!<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>Ikan akan mendekati dan se-
+makin dekat dengan umpanmu
+...<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>...Dan maka mereka akan
+mengigitnya!<PAGE>Disaat itu terjadi, tekan
+<RED>Tombol A</COLOR> secepat
+mungkin yang kamu bisa!<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>Jenis ikan yang kamu dapat-
+kan itu bervariasi tergan-
+tung <RED>musim dan lokasi</COLOR>.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>Dan itulah cara bagaimana
+kamu memancing. Apakah kamu
+sudah mengerti?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>Aku harap kamu senang dalam
+hal memancing ya!
+----------------------------|----------------------------------
+<CHOICE_AB> Tidak.
+ Uh... Iyain aja deh.

@@ -1,0 +1,50 @@
+<FACE_POS_RIGHT><FACE_HIRO><FACE_NORMAL><FP_RIGHT>Oh, <MYNAME>!
+Is this a blue feather?<PAGE>Is this...your reply to my
+proposal from previously?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_NORMAL><FP_RIGHT>Ah-ha...<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_HAPPY><FP_RIGHT>I-I'm elated!
+Overjoyed! Ecstatic!<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_NORMAL><FP_RIGHT>I thought all was lost.
+So many times I was ready to
+give up hope, but clung on.<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_HAPPY><FP_RIGHT>I'm so glad I persevered!<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_SHOCK><FP_RIGHT>Oh, <MYNAME>,
+thank you ever so much for
+choosing me!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_HAPPY><FP_RIGHT>I will make you happy!
+Unfailingly, I will!
+So stay by my side forever.<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_SHOCK><FP_RIGHT>...\u270a\u270a...\u270a\u270aI love you,
+<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_HAPPY><FP_RIGHT>Shall we go tell Dr. Ayame
+the good news?<PAGE>She's been so kind to me.
+I feel she should be the
+first to know.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_AYAME><FACE_HAPPY><FP_LEFT>My, my. Congratulations!
+I'm so happy for you both.
+<PAGE><FACE_POS_LEFT><FACE_AYAME><FACE_NORMAL><FP_LEFT>When will the wedding be?<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_NORMAL><FP_RIGHT>Oh, we haven't picked the
+exact date just yet.<PAGE><FACE_POS_LEFT><FACE_AYAME><FACE_HAPPY><FP_LEFT>But it ought to be soon.
+Say, a week or so from now?<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_SAD><FP_RIGHT>What? Why are you deciding
+our wedding date?
+<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_ANGRY><FP_RIGHT>We need to take our time
+and talk it over...<PAGE><FACE_POS_LEFT><FACE_AYAME><FACE_NORMAL><FP_LEFT>Ah, but <MYNAME> is a
+popular girl, you know!<PAGE><FACE_POS_LEFT><FACE_AYAME><FACE_HAPPY><FP_LEFT>You wouldn't want someone
+to slip in and steal her
+away.<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_NORMAL><FP_RIGHT>Oh! You're right!<PAGE><FACE_POS_LEFT><FACE_AYAME><FACE_NORMAL><FP_LEFT>...\u270a\u270aOh, I'm just kidding!<PAGE><FACE_POS_LEFT><FACE_AYAME><FACE_HAPPY><FP_LEFT><MYNAME> isn't the kind of
+girl who'd do that to you.<PAGE>I'm just pulling your leg.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_AYAME><FACE_NORMAL><FP_LEFT><MYNAME>, how do you feel
+about having the wedding in
+about a week?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_AYAME><FACE_HAPPY><FP_LEFT>Great!<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_NORMAL><FP_RIGHT>If it's acceptable to
+<MYNAME>, then I have no
+objection on my part.<PAGE><FACE_POS_LEFT><FACE_AYAME><FACE_HAPPY><FP_LEFT>It's settled, then! I'll
+help <MYNAME> do her hair
+and makeup that day.<PAGE><FACE_POS_LEFT><FACE_AYAME><FACE_NORMAL><FP_LEFT>On the wedding day, you'll
+be busy all day long...<PAGE>So be sure to finish your
+work and chores the day
+before, right?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_SHOCK><FP_RIGHT>It all seems so sudden...
+But I'm very much looking
+forward to it!

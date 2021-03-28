@@ -1,0 +1,56 @@
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>I love it here down by the
+river.<PAGE>The sound of water, the
+fresh scent of greenery...<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Whenever I need to calm
+down or I'm feeling blue,
+this is where I come.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_SHY><FP_RIGHT>Oh, you can't imagine me
+losing my calm, huh...?<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>Well, of course I do.<PAGE>A lot of people think I'm so
+even-tempered, but nobody
+is calm all the time.<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_SHY><FP_RIGHT>A lot of times I get really
+nervous that I'll let people
+down.<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_SAD><FP_RIGHT>Especially when they need
+something difficult from me.
+<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>And sometimes I panic when
+I'm in too much of a rush to
+get everything done.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>And would you believe, as
+a kid I was never calm!
+I was a little wildcat!<PAGE>The river certainly wasn't a
+place for me to be calm in
+those days!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>It was a place to play and
+throw rocks and be wild!
+<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>When I was trying to catch
+fish, I'd dive right in
+after them!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Ha ha!
+Is it that surprising?
+----------------------------|----------------------------------
+<CHOICE_AB> You're not who I thought.
+ A new side to you. Neat!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_SHY><FP_RIGHT>Really? Sorry about that.<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_ANGRY><FP_RIGHT>But this responsible person
+you think of me as...<PAGE>Isn't that just an image you
+came up with on your own?<PAGE>It's a drag when somebody
+forces their image on you.<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_SAD><FP_RIGHT>...Wow, I probably said
+too much there.<PAGE>I guess I'm going to call it
+a day. Bye!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_SHOCK><FP_RIGHT>Y-You really think so? I'm
+glad to hear you say that.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_SHOCK><FP_RIGHT>Oh, I know...<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>That's right!
+<MYNAME>, why don't you tell
+me about yourself!<PAGE>I'd love to know more about
+you.<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_SHOCK><FP_RIGHT>It's unfair that you know
+all about me and I don't
+know anything about you.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Ha ha!
+Why don't you come with me
+to Yun's Tea House?<PAGE>You can tell me all about
+yourself while we eat.<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>Let's go, <MYNAME>!

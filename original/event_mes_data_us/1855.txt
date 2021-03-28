@@ -1,0 +1,95 @@
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>★ＥＲＲＯＲ！★</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_SHENG><FACE_NORMAL><FP_RIGHT>You saw my request on the
+message board, eh?
+<PAGE>Fraid to say it's too late,
+though. I'll have you do it
+some other time, eh?<PAGE>Sorry you had to haul out
+here when you're busy on
+your own farm.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_SHENG><FACE_NORMAL><FP_RIGHT>You saw my request on the
+message board, eh?
+<PAGE><FACE_POS_RIGHT><FACE_SHENG><FACE_SAD>But since it rained, I don't
+need watering done any more.<PAGE><FACE_POS_RIGHT><FACE_SHENG><FACE_NORMAL>Still, you came all this
+way, so take a reward for
+your trouble, eh?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_SHENG><FACE_HAPPY><FP_RIGHT>You saw my request on the
+message board, eh?
+<PAGE>Time's a wastin'!
+Get to work lickety-split!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_SHENG><FACE_NORMAL><FP_RIGHT>These are my fields.
+Not much to look at, eh?<PAGE>I want you to <RED>water</COLOR>
+them for me, got that?<PAGE>Come tell me soon as you're
+finished.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_SHENG><FACE_NORMAL><FP_RIGHT>These are my fields.
+Not much to look at, eh?<PAGE>I want you to <RED>harvest</COLOR>
+them for me, got that?<PAGE>The crops you harvest will
+<RED>automatically be sent to
+my storage</COLOR>.<PAGE>Come tell me soon as you're
+finished.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>★ＥＲＲＯＲ！★</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>★ＥＲＲＯＲ！★</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>★ＥＲＲＯＲ！★</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>★ＥＲＲＯＲ！★</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_SHENG><FACE_HAPPY><FP_RIGHT>Job done, eh?
+Good for you.<PAGE>Now I better give you that
+reward.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Job done, eh?
+Good for you.<PAGE>But you were supposed to
+come tell me you were done
+before midnight, y'see...<PAGE><FACE_POS_RIGHT><FACE_SHENG><FACE_SAD>I was so doggone worried
+I couldn't sleep! Now I
+got bags under my eyes!<PAGE><FACE_POS_RIGHT><FACE_SHENG><FACE_NORMAL>But I better give you that
+reward anyway.
+Come with me.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Job done, eh?
+Good for you.<PAGE>But you were supposed to
+come tell me you were done
+a mite earlier.<PAGE>I'm about ready to hit the
+sack! Be more considerate!<PAGE><FACE_POS_RIGHT><FACE_SHENG><FACE_NORMAL>But I better give you that
+reward.
+Come with me.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_SHENG><FACE_HAPPY><FP_RIGHT>Job done, eh?
+Good for you.<PAGE><FACE_POS_RIGHT><FACE_SHENG><FACE_SAD>But I guess it started
+raining while you were on
+the job.<PAGE>Sorry I hauled you out here
+for nothing.<PAGE><FACE_POS_RIGHT><FACE_SHENG><FACE_NORMAL>Least I can do is give you
+this reward.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, that's a job well done.
+Can't say I'm surprised,
+knowing you, <MYNAME>.<PAGE>Here's your reward.
+Go on, take it.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>★ＥＲＲＯＲ！★</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>★ＥＲＲＯＲ！★</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_SHENG><FACE_HAPPY><FP_RIGHT>And here's a little bonus
+for finishing so quickly.
+Leaves me with time to walk!
+----------------------------|----------------------------------
+\u2137You received a
+<VAR_1>!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Good work.
+I'll ask for your
+help again sometime.
+----------------------------|----------------------------------
+\u2137You finished all the work
+you were asked to do!

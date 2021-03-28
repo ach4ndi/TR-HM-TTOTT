@@ -1,0 +1,71 @@
+\u2137おつかいの事を話しますか？
+<CHOICE_AB> はい
+ いいえ
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MIKHAIL><FACE_SAD><FP_RIGHT>…あれ？
+たりないみたいだね。<PAGE><FACE_POS_RIGHT><FACE_MIKHAIL><FACE_HAPPY>そんなに、
+あせらなくても大丈夫。<PAGE>キミが、オレのところに
+来てくれるというのなら
+オレはいくらでも待てるから。
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MIKHAIL><FACE_SHY><FP_RIGHT>あれ？　用事かい？<PAGE><FACE_POS_RIGHT><FACE_MIKHAIL><FACE_NORMAL>待っているから、
+またおいで。
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>あとはお金だね。
+<VAR_0>Ｇ
+確かに受け取ったよ。
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>話しは聞いてるよ。
+ありがとう。待ってたんだ。
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MIKHAIL><FACE_HAPPY><FP_RIGHT>確かに、受け取ったよ。<PAGE><FACE_POS_RIGHT><FACE_MIKHAIL><FACE_NORMAL>この感謝の気持ちを
+どうあらわせばいいかな。<PAGE><FACE_POS_RIGHT><FACE_MIKHAIL><FACE_SAD>心の音がそのままキミに
+伝わるのなら、オレの感謝の
+気持ち全てを伝えられるのに。
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MIKHAIL><FACE_HAPPY><FP_RIGHT>じゃあ、またね。
+助かったと
+伝えておいてくれるかな。
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT><BLUE>★★★★★★★★★★★★★★
+このＭＳＧは出ないはずよ！
+★★★★★★★★★★★★★★</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>　
+\u20d0<RED>　　　　★ＤＵＭＭＹ★</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>　
+\u20d0<RED>　　　　★ＤＵＭＭＹ★</COLOR>
+----------------------------|----------------------------------
+\u2137おつかいの事を話しますか？
+<CHOICE_AB> はい
+ いいえ
+----------------------------|----------------------------------
+\u2137お礼はじゅうぶん受け取った？
+<CHOICE_AB> はい
+ いいえ
+----------------------------|----------------------------------
+\u2137お礼の
+<VAR_0>Ｇを
+受け取った！
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>　
+\u20d0<RED>　　　　★ＤＵＭＭＹ★</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>　
+\u20d0<RED>　　　　★ＤＵＭＭＹ★</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>　
+\u20d0<RED>　　　　★ＤＵＭＭＹ★</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>　
+\u20d0<RED>　　　　★ＤＵＭＭＹ★</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>　
+\u20d0<RED>　　　　★ＤＵＭＭＹ★</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>　
+\u20d0<RED>　　　　★ＤＵＭＭＹ★</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>　
+\u20d0<RED>　　　　★ＤＵＭＭＹ★</COLOR>

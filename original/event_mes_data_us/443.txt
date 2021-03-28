@@ -1,0 +1,28 @@
+<FACE_POS_LEFT><FACE_LANEY><FACE_HAPPY><FP_LEFT>Ah... It's kind of nice to
+be alone once in a while...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><HIDE_NAME><FACE_CAM><FACE_NORMAL><FP_RIGHT><HIDE_FACE>Ah, there you are.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_LANEY><FACE_NORMAL><FP_LEFT>What is it, Cam?<PAGE><FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT>I stocked those flowers
+you said you wanted the
+other day.<PAGE>I just wanted to let you
+know.<PAGE><FACE_POS_LEFT><FACE_LANEY><FACE_HAPPY><FP_LEFT>Wow, you already bought them
+for me? That's great!<PAGE><FACE_POS_RIGHT><FACE_CAM><FACE_SHY><FP_RIGHT>Well... I mean, I'm not
+giving them to you for
+free or anything...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT>Anyway, they're in the shop,
+so pick them up whenever you
+want.<PAGE><FACE_POS_LEFT><FACE_LANEY><FACE_HAPPY><FP_LEFT>Sure thing!<PAGE><FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT>Also...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_SHY><FP_RIGHT>Um, never mind...<PAGE><FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT>Anyway, your dad will worry
+if you stay out too late.<PAGE><FACE_POS_LEFT><FACE_LANEY><FACE_HAPPY><FP_LEFT>Oh, it's OK. It's not like
+the house is far from here
+or anything.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_LANEY><FACE_SHOCK><FP_LEFT>My dad still worries about
+me, though... He just gets
+lonely, I think...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_LANEY><FACE_NORMAL><FP_LEFT>Well, I guess I should head
+home...

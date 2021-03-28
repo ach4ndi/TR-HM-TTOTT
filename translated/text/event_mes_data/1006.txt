@@ -1,0 +1,89 @@
+<FACE_POS_RIGHT><FACE_MIKHAIL><FACE_SHY><FP_RIGHT>......
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>Kedengarannya seperti waktu-
+nya ganti senarnya...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>Maafkan aku, <MYNAME>. 
+Betapa tidak hati-hatinya
+aku ini.<PAGE>Seorang violinist harus
+tidak membiarkan senarnya
+dalam keadaan buruk seperti<PAGE>itu.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>Violinku ada 4 senar ter-
+pasang. Aku menggunakan
+jari-jariku atau busurku<PAGE>biar bisa menggeseknya
+yang akan menghasilkan
+sebuah suara.<PAGE>Tapi setelah digunakan
+terus menerus, senar violin
+terdengar sumbang.<PAGE>Sebelum itu terjadi, senar
+baru harus dipasang dengan
+hati-hati ke violin...<PAGE><FACE_POS_RIGHT><FACE_MIKHAIL><FACE_SHY><FP_RIGHT>Dikarenakan akhir-akhir ini
+aku sibuk, maka jadinya
+aku benar-benar melupakan<PAGE>untuk mengatur kembali
+alat instrumentku!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>Oh, itu tidak ada yang perlu
+dikhawatirkan. Aku hanya
+perlu menggantinya dengan<PAGE>baru. Itu akan baik-baik
+saja seperti baru.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>Apakah kamu tahu bahwa
+violin bisa bertahan lama,
+digunakan dalam waktu yang<PAGE>lama? Jika kamu mengganti
+senarnya secara teratur,
+kamu dapat memainkan violin<PAGE>yang sama dalam waktu 100
+tahun loh!<PAGE>Violinku ini turun menurun
+dari intruksi yang menga-
+jariku. Dan violinnya<PAGE>sudah sangat lama umurnya.
+Karena violin ini sudah
+dipakai selama 90 tahun!
+----------------------------|----------------------------------
+<CHOICE_AB> Bisa berikan kepadaku?
+ Itu sebuah barang pusaka!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MIKHAIL><FACE_ANGRY><FP_RIGHT>Mungkin kamu harus memikir-
+kan pilihan sebuah kata
+lebih hati-hati, <MYNAME>.<PAGE><FACE_POS_RIGHT><FACE_MIKHAIL><FACE_SAD><FP_RIGHT>Aku sudah kehilangan kelu-
+argaku disaat aku masih
+kecil. Guruku menjadikanku<PAGE>sebagai anak angkat semen-
+jak itu. Ini sebuah
+kenang-kenang terakhir<PAGE>dair beliau.<PAGE><FACE_POS_RIGHT><FACE_MIKHAIL><FACE_ANGRY><FP_RIGHT>Jadi disaat kamu mengatakan
+"Berikan kepadaku" ini
+terasa kamu mengejek<PAGE>memoriku dan beliau.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MIKHAIL><FACE_SAD><FP_RIGHT>Izinkan aku pergi, saat ini
+aku tidak ingin berbicara
+denganmu tuk hari ini.<PAGE>Silahkan pulang sendiri
+sana.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MIKHAIL><FACE_HAPPY><FP_RIGHT>Ya, benar. Violin ini sangat
+berharga untukku.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>Aku sudah kehilangan orang
+tuaku disaat aku masih
+kecil. Guru violinku itu<PAGE>sudah kuanggap sebagai
+ayahku sendiri.
+Dia mengajariku mengenai<PAGE>betapa pentingnya musik itu.
+dan kehebatan dari sebuah
+violin.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MIKHAIL><FACE_HAPPY><FP_RIGHT>Aku terpesina melodi yang
+dia buat dengan instrumen
+itu.<PAGE><FACE_POS_RIGHT><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>Aku tidak akan pernah ber-
+temu seseorang yang bisa
+memainkan dengan suara<PAGE>seperti dia keluarkan itu.<PAGE><FACE_POS_RIGHT><FACE_MIKHAIL><FACE_HAPPY><FP_RIGHT>Violin ini benar-benar
+sangat berharga karena
+kenang-kenang sosok beliau.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>Maafkan aku, Ternyata aku
+dah agak miring disini.
+Ini sudah lama sekali aku<PAGE>membicarakan masa laluku
+selama ini.<PAGE><FACE_POS_RIGHT><FACE_MIKHAIL><FACE_HAPPY><FP_RIGHT>Ini pastinya dari suara
+lemah lembut kamu yang mem-
+buatku berbicara banyak...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>Hari ini kamu benar-benar
+membuatku rileks, makasih
+ya, <MYNAME>.<PAGE>Biarkan aku mengantarmu
+sampai kerumah sebelum
+malam tiba.

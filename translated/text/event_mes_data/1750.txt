@@ -1,0 +1,147 @@
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>-Kosong-
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Oh, aku senang kamu datang!
+Aku telah menunggumu dari
+tadi.<PAGE>Ayo kembali kebisnis kita...
+Apa kamu ingin memperluas
+kebunmu?<PAGE>Ada beberapa cara berbeda
+yang dapat kamu lakukan.<PAGE>Apa kamu inginkan aku
+untuk menjelaskannya?<PAGE><CHOICE_AB> Ya.
+ Tidak.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Ada beberapa cara untuk mem-
+perluas kebunmu.<PAGE>Dan banyaknya tipe perluasan
+yang dilakukan didua desa
+yang berbeda.<PAGE><FACE_POS_RIGHT><FACE_EILEEN><FACE_HAPPY>Contohnya, di <BLUE>Konohana</COLOR>...<PAGE>Orang-orang disana lebih
+fokus dalam bercocok tanam
+tanaman.<PAGE>Jadi memperluas lahanmu itu
+lebih banyak disana.<PAGE>Disini, desa <BLUE>Bluebell</COLOR>, 
+kita lebih terfokus dalam
+merawat hewan ternak.<PAGE>Jadi kamu dapat memperluas
+kapasitas untuk lebih banyak
+menampung binatang, dan<PAGE>membuat sarang lebah untuk
+mendapatkan madu.<PAGE><FACE_POS_RIGHT><FACE_EILEEN><FACE_NORMAL>Tapi ada <RED>ranking</COLOR> ditiap
+perluasannya.<PAGE>Semakin tinggi rankingnya
+semakin banyak material dan
+uang yang dibutuhkan.<PAGE><FACE_POS_RIGHT><FACE_EILEEN><FACE_HAPPY>Lebih baik kamu memulai
+dengan ranking C atau D
+dulu.<PAGE><FACE_POS_RIGHT><FACE_EILEEN><FACE_NORMAL>Jadi jenis perluasan apa
+yang ingin dilakukan?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_EILEEN><FACE_HAPPY><FP_RIGHT>Apa benar tidak perlu di-
+jelaskan? Oke, aku tahu
+bahwa kamu pintar!<PAGE>Jadi jenis perluasan apa
+yang ingin dilakukan?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_EILEEN><FACE_HAPPY><FP_RIGHT>Oke!
+Jadi dapatkan materialnya,
+dan kasih keaku.<PAGE>Disaat sudah terkumpul, aku
+akan dapat langsung menger-
+jakannya.
+----------------------------|----------------------------------
+<FP_NONE>Kamu telah memesankan :
+<RED><VAR_0></COLOR>!<PAGE><RED>Cek daftar permintaanmu</COLOR>.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>-Kosong-
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>-Kosong-
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>-Kosong-
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>-Kosong-
+----------------------------|----------------------------------
+<CHOICE_AB> <VAR_0>
+ <VAR_1>
+----------------------------|----------------------------------
+<FP_NONE><CHOICE_ABC> <VAR_0>
+ <VAR_1>
+ <VAR_2>
+----------------------------|----------------------------------
+<FP_NONE><CHOICE_ABC> <VAR_0>
+ <VAR_1>
+ Selanjutnya
+----------------------------|----------------------------------
+<FP_NONE><CHOICE_ABC> <VAR_0>
+ <VAR_1>
+ Kembali keawal.
+----------------------------|----------------------------------
+<FP_NONE><CHOICE_AB> <VAR_0>
+ Kembali keawal.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>-Kosong-
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>-Kosong-
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>-Kosong-
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>-Kosong-
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>-Kosong-
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Oh...! Sekarang yang bisa
+kamu lakukan hanyalah
+mengubah model rumahmu.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Oh...! Sekarang yang bisa
+kamu lakukan hanyalah
+memperluas lahanmu oke?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Oh...!
+Sekarang yang bisa kamu la-
+kukan hanyalah membangun<PAGE>Sebuah kolam ikan, oke?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Oh...!
+Sekarang yang bisa kamu la-
+kukan hanyalah membangun<PAGE>Sebuah sawah atau gudang.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Oh...!
+Sekarang yang bisa kamu la-
+kukan hanyalah membangun<PAGE>Sebuah alat asinan, oke?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Oh...!
+Sekarang yang bisa kamu la-
+kukan hanyalah membangun<PAGE>Sebuah sawah, oke?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>-Kosong-
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>-Kosong-
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>-Kosong-
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>-Kosong-
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Oh...! Sekarang yang bisa
+kamu lakukan hanyalah
+mengubah model rumahmu.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Oh...! Sekarang yang bisa
+kamu lakukan hanyalah
+memperluas lahanmu.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Oh...!
+Sekarang yang bisa kamu la-
+kukan hanyalah membangun<PAGE>Sebuah taman bermain
+untuk hewan peliharaan.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Oh...!
+Sekarang yang bisa kamu la-
+kukan hanyalah membangun<PAGE>Sebuah gudang pembuatan, oke?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Oh...!
+Sekarang yang bisa kamu la-
+kukan hanyalah membangun<PAGE>Sebuah alat pembuat
+minuman, oke?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Oh...! Sekarang yang bisa
+kamu lakukan hanyalah
+memperluas lahanmu oke?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Oh...! Sekarang yang bisa
+kamu lakukan hanyalah
+masukkan kesarang lebah,oke?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>-Kosong-
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>-Kosong-
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>-Kosong-

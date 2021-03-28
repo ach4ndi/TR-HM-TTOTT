@@ -1,0 +1,859 @@
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>Musim semi ini sungguh
+hangat dan merasa lebih
+hidup.<PAGE>Ini adalah anugrah dari
+dewi panen.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>Aku sangat menyukai musim
+semi ini.<PAGE>Bagaimana pekerjaanmu?
+lancarkah?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>Saat ini pohon sakura,
+bunganya sudah bermekaran.<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Aku yakin, saat ini mood
+dewi panen sedang dalam
+keadaan baik...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>Aku hanya menyukai
+musim semi.<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Betapa beruntungnya kita
+ini! Hawa dingin dari
+musim dingin sudah berlalu,<PAGE>dan kehangatan sudah menan-
+tikan kita!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>Ini benar-benar panas...<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Dewi panen tampaknya baik-
+baik saja dikolamnya yang
+sejuk itu...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>Diluar sana tampak cukup
+panas dan lembab...<PAGE>Bagaimana pekerjaanmu?
+Lancar?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>Diluar sana sungguh panas.<PAGE>Jaga baik-baik kondisi
+tubuhnya agar tidak
+kekuarangan cairan.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_SAD><FP_RIGHT>Akhir-akhir ini diluar sana
+sungguh panas.<PAGE>Apakah kamu pikir bahwa
+dewi saat ini moodnya
+sedang buruk?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>Ini adalah musim yang di-
+berkati.<PAGE>Aku pikir musim ini membuat
+moodnya dewi panen sedang
+bagus, iyakan?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>Sepertinya diluar sana
+sudah membaik.<PAGE>Bagaimana pekerjaanmu?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>Pagi dan malam semakin
+dingin sekarang...<PAGE>Kuharap hati-hati ya agar
+tidak kedinginan...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>Akhirnya musim gugurnya
+sudah tiba.<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Daun musim gugur didesa
+ini sungguh indahnya.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>Akhir-akhir ini semakin
+dingin hawanya...<PAGE>Bagaimana pekerjaanmu?
+Lancar?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>Diluar sana semakin dingin
+hawanya sekarang.<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Kuharap hati-hati ya agar
+tidak kedinginan...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_SAD><FP_RIGHT>Musim dingin ini bisa men-
+jadi sangat dingin ditahun
+ini...<PAGE>Aku yakin bahwa dingin ini
+adalah sebuah ujian yang
+diberikan kepada kita<PAGE>oleh dewi panen...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>Dan sekarang sudah memasuki
+musim dingin.<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Penampakan tumpukan salju
+dipegunungan ini sungguh
+menenangkan jiwa...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Aku pikir bahwa cuacanya
+bagus artinya dewi panen
+moodnya juga...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>Cuacanya tidak bisa di-
+predeksi dibeberapa hari
+ini.<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_SAD><FP_RIGHT>Aku penasaran aja, apakah
+moodnya dewi panen sedang
+buruk ya...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>Kondisi cuaca ini juga di-
+atur oleh dewi panen.<PAGE>Tapi, apapun cuacanya, kita
+harus bersyukur dan berteri-
+ma kasih kepadanya.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>Kondisi cuaca ini juga di-
+atur oleh dewi panen.<PAGE>Tapi, apapun cuacanya, kita
+harus bersyukur dan berteri-
+ma kasih kepadanya.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>Hari ini hujannya agak
+lebat.<PAGE>Aku penasaran jika dewi
+panennya sedang buruk mood-
+nya...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>Dihari penghujan ini, tanah
+nya sungguh becek dan licin.<PAGE>Hati hati ya!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>Hari ini sedang hujan.<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Aku harap hujan ini memberi-
+kan keberkahan sang dewi
+kepada kita.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>Hari ini sedang hujan.<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Aku harap hujan ini memberi-
+kan keberkahan sang dewi
+kepada kita.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>Hari ini sedang hujan
+lebat.<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Sebisanya kamu tidak basah
+kuyub. Dan juga jangan
+sampai sakit!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>Disaat saljunya meleleh,
+dunia ini akan diserbu
+dengan kehidupan baru.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Saljunya ini sungguh cantik.<PAGE>Dibeberapa hari yang lalu,
+aku melihat boneka salju
+yang sungguh menggemaskan<PAGE>didesa.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Saljunya ini sungguh cantik.<PAGE>Dibeberapa hari yang lalu,
+aku melihat boneka salju
+yang sungguh menggemaskan<PAGE>didesa.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ALISA><FACE_SAD><FP_LEFT>Disana ada sesuatu...
+Cukup tidak yakin mengenai
+tempat ini...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ALISA><FACE_SAD><FP_LEFT>U-Um...<PAGE>Ini sungguh baiknya kamu
+untuk mengundangku kesini,
+tapi...<PAGE>Apakah bisa kita pergi ke-
+tempat lainnya?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Ini cukup menyenangkan.
+Kuharap kamu mengajakku
+berbicara lagi nanti!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>Kalau gitu, sampai berjumpa
+lagi.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ALISA><FACE_SAD><FP_LEFT>Kupikir aku harus kembali.<PAGE>Sampai berjumpa lagi...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Hari ini cukup menyenang-
+kan.<PAGE>Aku harap kita memiliki
+waktu luang untuk berbicara
+seperti ini lagi, <MYNICKNAME>...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Untuk saat ini, aku senang.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Untuk saat ini, aku senang.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Untuk saat ini, aku senang.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Untuk saat ini, aku senang.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Untuk saat ini, aku senang.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Untuk saat ini, aku senang.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Untuk saat ini, aku senang.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Untuk saat ini, aku senang.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Untuk saat ini, aku senang.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Untuk saat ini, aku senang.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Untuk saat ini, aku senang.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Untuk saat ini, aku senang.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Untuk saat ini, aku senang.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Untuk saat ini, aku senang.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Untuk saat ini, aku senang.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Untuk saat ini, aku senang.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>Binatang itu sungguh hebat.<PAGE>Jika kamu memberikan kasih
+sayang kepada mereka, maka
+membalasnya.<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Aku akan bertaruh bahwa
+hewan ternakmu diperkebun-
+anmu akan bertambah.<PAGE>Aku percaya kepadamu, dan
+aku tahu bahwa kamu bisa
+menjadi seorang petani<PAGE>yang sangat hebat.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>Binatang itu sungguh hebat.<PAGE>Jika kamu memberikan kasih
+sayang kepada mereka, maka
+membalasnya.<PAGE>Apakah kamu berpikiran
+bahwa merawat lebih banyak
+hewan itu akan menjadikan-<PAGE>mu seorang petani yang
+lebih baik?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>Binatang itu sungguh hebat.<PAGE>Jika kamu memberikan kasih
+sayang kepada mereka, maka
+membalasnya.<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Kamu tahu bagaimana
+perasaan binatangmu itu.<PAGE>Ini benar-benar suatu yang
+luar biasa. Aku harap kamu
+tidak kehilangan kemampuan-<PAGE>mu itu.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>Aku mendengar bahwa
+kamu mengoleksi
+serangga...<PAGE>Sepertinya kamu harus lebih
+giat lagi untuk menemukan
+beberapa serangga lagi.<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Tapi kita semua pastinya
+memulainya dari awal kok.
+Semoga beruntung!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>Aku mendengar bahwa
+kamu mengoleksi
+serangga...<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Hee hee. Dengar-dengar bahwa
+kamu sudah memiliki koleksi
+yang cukup bagus.<PAGE>Ini menunjukkan bahwa kamu
+benar-benar serius untuk
+melakukannya.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>Aku mendengar bahwa
+kamu mengoleksi
+serangga...<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Oh! Aku kaget disaat meli-
+hat betapa banyaknya yang
+sudah kamu koleksi!<PAGE>Aku benar-benar terkesan!
+Kamu itu benar-benar
+bertipe orang yang rajin.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>Aku mendengar bahwa
+kamu mencatat rekor semua
+ikan yang kamu tangkap...<PAGE>...<PAGE>Sepertinya kamu baru memu-
+lainya lah. Masih banyak
+yang perlu kamu tangkap.<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Tapi kita semua pastinya
+memulainya dari awal kok.
+Semoga beruntung!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>Aku mendengar bahwa
+kamu mencatat rekor semua
+ikan yang kamu tangkap...<PAGE>...<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Hee hee. Aku mendengarkan
+bahwa koleksianmu itu
+cukup bagus.<PAGE>Ini menunjukkan bahwa kamu
+benar-benar serius untuk
+melakukannya.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>Aku mendengar bahwa
+kamu mencatat rekor semua
+ikan yang kamu tangkap...<PAGE>...<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Oh...Aku sungguh kaget
+bahwa sudah banyak sekali
+yang sudah kamu tangkap!<PAGE>Aku benar-benar terkesan!
+Kamu itu benar-benar
+bertipe orang yang rajin.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Dengar-dengar bahwa kamu
+memiliki talenta untuk mem-
+buat sebuah resep baru.<PAGE>Itu, itu sungguh luar biasa!<PAGE>Itu pastinya membutuhkan
+talenta dan kreativitas
+tingkat tinggi.<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>Oh, tampaknya kamu baru me-
+mulainya ya?<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Tapi kita semua pastinya
+memulainya dari awal kok.
+Semoga beruntung!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>Dengar-dengar bahwa kamu
+memiliki talenta untuk mem-
+buat sebuah resep baru.<PAGE>Itu, itu sungguh luar biasa!<PAGE>Itu pastinya membutuhkan
+talenta dan kreativitas
+tingkat tinggi.<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Hee hee.
+Tampaknya koleksi resepmu
+lumayan banyak juga ya.<PAGE>Ini membuktikan bahwa kamu
+itu benar-benar serius
+untuk melakukannya.<PAGE>Semoga beruntung ya.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>Dengar-dengar bahwa kamu
+memiliki talenta untuk mem-
+buat sebuah resep baru.<PAGE>Itu, itu sungguh luar biasa!<PAGE>Itu pastinya membutuhkan
+talenta dan kreativitas
+tingkat tinggi.<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Oh...Aku benar-benar kaget
+untuk melihat betapa banyak
+resep yang kamu dapatkan!<PAGE>Wow!
+Aku benar-benar terkesan!<PAGE>Kamu itu benar-benar
+bertipe orang yang rajin.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Untuk saat ini, aku senang.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Untuk saat ini, aku senang.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Untuk saat ini, aku senang.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Untuk saat ini, aku senang.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Untuk saat ini, aku senang.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Untuk saat ini, aku senang.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Untuk saat ini, aku senang.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Untuk saat ini, aku senang.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Untuk saat ini, aku senang.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Untuk saat ini, aku senang.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Untuk saat ini, aku senang.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Untuk saat ini, aku senang.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Untuk saat ini, aku senang.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Untuk saat ini, aku senang.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Untuk saat ini, aku senang.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Untuk saat ini, aku senang.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Untuk saat ini, aku senang.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Untuk saat ini, aku senang.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Untuk saat ini, aku senang.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Untuk saat ini, aku senang.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Untuk saat ini, aku senang.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Untuk saat ini, aku senang.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Untuk saat ini, aku senang.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Untuk saat ini, aku senang.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Untuk saat ini, aku senang.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Untuk saat ini, aku senang.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Untuk saat ini, aku senang.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Untuk saat ini, aku senang.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Untuk saat ini, aku senang.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Untuk saat ini, aku senang.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Untuk saat ini, aku senang.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Untuk saat ini, aku senang.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Untuk saat ini, aku senang.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Untuk saat ini, aku senang.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Untuk saat ini, aku senang.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Untuk saat ini, aku senang.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Untuk saat ini, aku senang.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Untuk saat ini, aku senang.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Bunga-bunga disini itu
+sungguh cantik.<PAGE>Aku merasakan kedamaian
+ditempat ini.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>Aku masih dalam masa pela-
+tihan, jadi Aku membutuhkan
+banyak hal yang perlu di-<PAGE>pelajari.<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Aku akan melakukannya se-
+baik aku bisa untuk mem-
+bantu semua orang!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_SAD><FP_RIGHT>Terkadang, aku terlalu fokus
+ke pelatihanku yang membuat
+aku tidak peka.<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>Aku ingin mencoba dan mem-
+perhatikan kondisi di-
+sekitar.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>Orang-orang didesa ini mem-
+buatku berpikir betapa
+luar biasanya keluarga itu.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>Dewi Panen sudah mem-
+berkati kita dengan kehidup-
+an yang tenang dan bahagia.<PAGE>Apakah itu hal yang
+luar biasa?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>Orang-orang didesa ini
+benar-benar dermawan.<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Aku benar-benar senang
+tinggal disini.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_SAD><FP_RIGHT>*ngantuk*...<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>Oh, permisi.<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_SAD><FP_RIGHT>Aku benar-benar capek di-
+saat aku bangun sepagi ini
+...<PAGE>Aku pikir ini sesuatu yang
+aku harus lakukan. Jangan
+tidur terlalu malam.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_SAD><FP_RIGHT>Terkadang, aku terlalu fokus
+ke pelatihanku yang membuat
+aku tidak peka.<PAGE>Beberapa hari yang lalu aku
+melihat seekor babi yang
+sedang menyerang rakun...<PAGE>Aku mencoba membantu rakun-
+nya, tapi itu cepat sekali
+menghilangnya...<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_SAD><FP_RIGHT>Aku benar-benar khawatir
+mengenai rakun itu, dan
+membuatku tidak bisa tidur.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>Orang orang desa ini mem-
+buatku mengerti betapa
+luar biasanya keluarga...<PAGE>Keluarganya Jessica itu
+benar-benar hidup!<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Mereka itu sungguh baik
+dan saling mencintai!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT><MYNAME>, apakah kamu
+sudah memberi persembahan
+kepada Dewi Panen?<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Karena, seharusnya kamu
+harus menunjukkan sebuah
+terima kasih kepadanya.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>Beberapa hari yang lalu,
+Eileen membenarkan pot
+bunga yang ada disini.<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Semua warga desa sudah
+bekerja sama untuk membuat
+pot bunga itu...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>Aku masih dalam masa
+pelatihan, jadi aku masih
+perlu banyak dipelajari.<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_SAD><FP_RIGHT>Tapi akhir-akhir ini aku
+sangat ingin memakai pakai-
+an yang imut...<PAGE>Aku tahu bahwa aku seharus-
+nya tidak memiliki keingin-
+an materialis seperti itu...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_SAD><FP_RIGHT>Terkadang, aku terlalu fokus
+ke pelatihanku yang membuat
+aku tidak peka.<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>Disaat aku bertemu Rutge di-
+beberapa waktu yang lalu,
+dan ada sesuatu yang ber-<PAGE>gerak ditopinya!
+Dan dia mengatakan tidak
+ada apa-apa ditopinya...<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_SAD><FP_RIGHT>Tapi aku tidak pernah ber-
+henti memikirkan itu sepan-
+jang pagi dan itu membuatku<PAGE>tidak dapat konsentrasi
+dalam pelatihanku...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>Orang orang desa ini mem-
+buatku mengerti betapa
+luar biasanya keluarga...<PAGE>Howard dan anaknya itu
+sungguh dekat ya...<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Aku melihat dia dan Laney
+sedang berjalan bersama-
+sama kemarin.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT><MYNAME>, tiap hari kamu
+bekerja dengan giat ya.<PAGE>Dewi Panen menyukai
+usaha kerasmu itu.<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Aku sangat yakin bahwa dia
+memperhatikan seluruh
+usahamu.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>Disaat aku datang kesini di-
+hari yang lalu, Cam sedang
+merawat bunganya.<PAGE>Dan sebelumnya, Laney menyi-
+rami bunganya.<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Pot bunga yang ada disini,
+penuh akan sentuhan kebaik-
+an para warga desa ini,...<PAGE>Itu sungguh luar biasa.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>Aku masih dalam masa
+pelatihan, jadi aku masih
+perlu banyak dipelajari.<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_SAD><FP_RIGHT>Tapi akhir-akhir ini aku
+merasakan keinginan yang
+amat terhadap coklat.<PAGE>Aku tahu bahwa aku seharus-
+nya tidak tergoda dengan
+hal duniawi seperti itu...<PAGE>Tapi pelatihan ini sungguh
+berat. Aku harus bertahan!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_SAD><FP_RIGHT>Terkadang, aku terlalu fokus
+ke pelatihanku yang membuat
+aku tidak peka.<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>Kemairn, disaat aku berada
+dipegunungan, Aku bertemu
+dengan seorang yang berbica-<PAGE>ra sendiri ditengah hutan.<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_SAD><FP_RIGHT>Mungkin sesuatu kejadian
+yang menyedikan yang menim-
+pahnya, karena tampaknya<PAGE>dia telah menangis.
+Dan dia langsung pergi,
+tapi...<PAGE>Aku benar-benar mengawatir-
+kannya, dan karena itu aku
+tidak bisa tidur...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>Orang orang desa ini mem-
+buatku mengerti betapa
+luar biasanya keluarga...<PAGE>Grady dan Georgia itu
+benar-benar sebuah keluarga
+pelawak.<PAGE>Beberapa hari yang lalu di-
+mana mereka melihat suatu
+kontes.<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Mereka mempersilahkan aku
+mengikutinya, tapi...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT><MYNAME>, apakah
+kamu mengetahui tentang
+Wonderful?<PAGE>Mereka mengatakan jika kamu
+mengumpulkan semua yang ber-
+jumlah 6 buah, kamu akan<PAGE>mendapatkan sebuah permin-
+taan yang langsung dikabul-
+kan.<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Wonderful itu pastinya
+benar-benar luar biasa...<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_SHOCK><FP_RIGHT>Oh...permisi.
+Maaf itu kedengarannya
+agak bodoh ya...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>Para warga desa disin ini
+benar-benar merawat dengan
+baik pot-pot bunganya.<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Hal ini membuatku senang
+untuk melihat betapa peduli
+mereka untuk merawatnya.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>Aku masih dalam masa
+pelatihan, jadi aku masih
+perlu banyak dipelajari.<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_SAD><FP_RIGHT>Tapi akhir-akhir ini, sema-
+kin susah untuk mengajakmu
+berbincang-bincang...<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_SHOCK><FP_RIGHT>Aku tahu bahwa aku tidak
+boleh merasakan hal itu...
+Pelatihan ini sungguh berat.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_SAD><FP_RIGHT>Terkadang, aku terlalu fokus
+ke pelatihanku yang membuat
+aku tidak peka.<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>Aku sudah menghabiskan
+waktku untuk memikirkan se-
+buah pembicaraan kepadamu<PAGE>dihari ini.<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Tapi sekarang aku sudah
+cukup senang, Aku melupakan
+apa yang aku ucapkan<PAGE>barusan.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>Orang orang desa ini mem-
+buatku mengerti betapa
+luar biasanya keluarga...<PAGE>Apakah kamu setuju?<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Hee hee.
+Aku senang aku memutuskan
+datang kedesa ini.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>Dewi Panen memberikan
+kita banyak hal yang hebat.<PAGE>Aku merasa beruntung untuk
+menerima semuanya itu.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>Apakah air mancurnya
+sungguh bagus?<PAGE>Cipratannya itu bisa mem-
+bersihkan jiwa.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT><MYNAME>, bagaimana
+dengan pekerjaanmu?<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Kamu tahukan bahwa aku se-
+lalu mendukungmu.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>Nathan itu orangnya baik.<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Aku benar-benar menghormati
+dia.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>Pertemanan itu sungguh yang
+baik.<PAGE>Berapa banyak orang yang
+kamu anggap sebagai teman
+dekat, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT><MYNAME>...<PAGE>Sesuatu hal dalam kehidupan
+kita ini pastinya memiliki
+suatu makna...<PAGE>Aku merasakan sepertinya
+kamu itu dilahirkan untuk
+sebuah alasan yang penting.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT><MYNAME>, Dewi Panen
+itu selalu mengawasi kita.<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Jadi dia melihat segalanya,
+walaupun lelucon yang ingin
+kamu lakukan itu.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>Tampaknya kamu selalu beker-
+ja dengan keras tiap hari,
+<MYNAME>.<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Semua usahamu itu membuatku
+juga ingin bekerja keras
+juga.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>Aku sudah melayani Dewi
+Panen dengan Nathan semen-
+jak aku masih kecil...<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Dan itu selalu membuatku
+cukup bahagia.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>Teman itu sungguh luar
+biasa.<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Semua warga desa yang ada
+disini benar-benar ramah.<PAGE>Itu membuatku selalu
+tersenyum.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT><MYNAME>...
+Segala hal dalam kehidupan
+kita ini memiliki makna.<PAGE>Aku pikir aku datang ke-
+desa ini untuk beberapa
+alasan.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT><MYNAME>, Dewi Panen
+mengetahui bahwa kamu sudah
+bekerja keras.<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Jadi ingatlah jika kamu itu
+tidak pernah sendirian di-
+setiap kondisi apapun.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT><MYNAME>, apakah kamu merasa
+bahwa hidup ini sudah ber-
+manfaat dalam kehidupanmu?<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Aku merasakan seperti,
+kehidupanku didesa ini
+sudah cukup buatku.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>Nathan mengatakan bahwa se-
+mua yang mempercayahi Dewi
+Panen, itu sebuah keluarga.<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Apakah keluarga itu
+sungguh luar biasa?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>Laney dan Georgia itu
+bertemanan.<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Dihari yang lalu, mereka
+memberikanku beberapa kue
+yang mereka panggang ber-<PAGE>sama. Dan aku benar-benar
+menikmatinya, karena rasanya
+sungguh enak.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT><MYNAME>...
+Segala hal dalam kehidupan
+kita ini memiliki makna.<PAGE>Disaat Nathan dan aku pergi
+ke sebuah pulau untuk memu-
+lai tinggal gereja disana.<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Aku tahu bahwa perjalanan
+itu sungguh bermakna.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT><MYNAME>, apakah kamu
+pernah bertemu dengan
+Dewi Panen? <PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Aku harap aku bisa bertemu
+dengannya.<PAGE>Pastinya dia itu sungguh
+bijaksana dan elegan...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT><MYNAME>, kamu itu selalu
+bekerja dengan keras.<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Jika kamu membutuhkan isti-
+rahat, kamu selalu dapat
+berkunjung kegereja.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>Nathan selalu bertanya
+kepada Dewi panen untuk mem-
+berikan kebahagiaan kepada<PAGE>semua hal yang ada didesa
+ini.<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Dan termasuk dirimu,
+Tentu saja, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>Ash dan Cam, berdua itu
+teman yang baik.<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Aku selalu melihat mereka
+berbincang-bincang dan
+tampaknya mereka menikmati-<PAGE>nya.
+Dengar-dengar mereka itu
+berteman sejak bayi!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT><MYNAME>...
+Segala hal dalam kehidupan
+kita ini memiliki makna.<PAGE>Aku sudah bertemu dengan
+Diego sebelum kita datang
+kedesa ini.<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Aku yakin ada suatu alasan
+membuat kita bertemu lagi
+didesa ini sekarang...<PAGE>Apakah ini jodoh?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>Disini aku merasa selalu
+tenang.<PAGE>Aku harap kita dapat datang
+kesini lagi.<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Hee hee. Kamu itu sungguh
+manis deh, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>Tidak ada satupun yang
+dapat hidup tanpa adanya
+orang lain.<PAGE>Diingat ya bahwa kamu tidak
+akan pernah sendirian.<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Aku selalu berharap kamu
+dapat hidup bahagia.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>Nathan mengatakan bahwa
+kebahagiaan itu datangnya
+itu berasal dari cinta.<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Sepanjang kamu mempunyai
+hati yang saling mencintai,
+kebahagiaan itu akan mudah<PAGE>ditemukan ketimbang sebuah
+kesedihan.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>Howard dan Grady mereka
+berdua itu teman yang baik.<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Disaat aku ada dialun-alun
+desa, dan aku mendengarkan
+ketawa mereka dari kafenya.<PAGE>Pastinya mereka sedang men-
+ceritakan cerita yang
+menarik!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT><MYNAME>...
+Segala hal dalam kehidupan
+kita ini memiliki makna.<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Aku yakin kita bertemu ini
+pastinya ada alasannya.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT><MYNAME>, apakah akhir-akhir
+ini ada sesuatu yang
+mengganggumu?<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Kamu tahukan bahwa kamu
+bisa berbicara kepadaku
+mengenai apapun itu.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Mari datang untuk mengucap-
+kan rasa terima kasih
+kepada dewi panen sama-sama,<PAGE><MYNAME>!<PAGE>Aku yakin dia akan member-
+katimu!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>Dewi Panen selalu
+memantau kita loh.<PAGE>Disaat aku memejamkan mata-
+ku dan mendengarkan secara
+sesakma...<PAGE>Aku hampir dapat mendengar-
+kan dewi berbicara kepadaku.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>Apakah kamu menyukai buku,
+<MYNAME>?<PAGE>Disaat aku masih kecil, aku
+selalu membaca buku digereja
+sepanjang waktu.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT><MYNAME>...<PAGE>Kamu itu sungguh...\u270b
+<FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>menarik.<PAGE>Aku benar-benar senang di-
+saat kita berdua berbincang-
+bincang.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_SAD><FP_RIGHT>Akhir-akhir ini kamu tampak
+lelah, <MYNAME>.<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>Tolong dijaga ya kesehatan
+mu dan jangan terlalu di-
+paksakan untuk bekerja.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Aku pikir orang yang percaya
+diri itu sungguh luar biasa.<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_SHOCK><FP_RIGHT>Aku bisa mengatakan bahwa
+kamu itu sangat percaya
+diri.<PAGE>Itu menunjukkan segala apa
+yang kamu lakukan.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>Kemarin malam, Dewi Panen
+berbicara kepadaku untuk
+membantu seseorang yang<PAGE>membutuhkan bantuan.<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_ANGRY><FP_RIGHT><MYNAME>, akhir-akhir ini
+apakah ada mengganggumu?<PAGE>Atau apakah kamu tahu
+siapa yang membutuhkan
+bantuan?<PAGE>Aku tidak bisa membiarkan
+pesan dewi panen menjadi
+sia-sia...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>Aku menyukai buku. Mereka
+dapat mengantarkanmu ke-
+suatu tempat dengan hanya<PAGE>membayangkannya.
+Disaat aku masih kecil,
+aku benar-benar mengingin-<PAGE>kan rumah kue jahe seperti
+yang kubaca itu.<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Tidak ada anak kecil yang
+kelaparan dirumah jahe itu!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT><MYNAME>...<PAGE>Kamu itu...\u270b
+<FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>seorang yang baik.<PAGE>Berbicara denganmu itu mem-
+buatku hatiku menjadi
+nyaman.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>Sangat mudah untuk marah
+kepada orang, tapi susah
+untuk memaafkannya.<PAGE><MYNAME>, apa yang kamu
+lakukan disaat kamu marah
+kepada seseorang?<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Menghela nafas panjang ini
+bisa membantumu dan mencoba
+sedikit mengalah.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT><MYNAME>,<PAGE>Aku pikir orang-orang yang
+memiliki tujuan itu sungguh
+hebat.<PAGE>Disaat aku melihat seseorang
+mencoba sebaik mungkin, aku
+ingin menyemangatinya...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>Kemarin malam, Dewi Panen
+bertanya kepadaku untuk
+membantu yang kelaparan itu.<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_ANGRY><FP_RIGHT><MYNAME>,
+apakah kamu lapar?<PAGE>Atau apakah kamu tahu
+orang yang sedang lapar?<PAGE>Aku tidak akan membiarkan
+pesan dewi panen ini menjadi
+sia-sia.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>Aku menyukai membaca buku.
+Karena bisa membawamu kemana
+saja jika membayangkannya.<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Aku suka membaca cerita
+mengenai tiga anak babi.<PAGE>Aku menyukai bahwa semua
+babi itu selamat dirumah
+batu bata.<PAGE>Mereka bahu-membahu
+seperti seharusnya yang
+dilakukan oleh saudara!<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_SAD><FP_RIGHT>Tapi...<PAGE>Apakah mereka dapat ber-
+teman dengan serigala?
+Tidak?<PAGE>Jika mereka teman, mungkin
+endingnya menjadi menarik,
+bukan?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT><MYNAME>...<PAGE>Kamu itu...\u270b
+<FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>seorang yang baik.<PAGE>Aku benar-benar menghargai
+dimana kamu masih memikir-
+kan orang lain.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT><MYNAME>, apakah kamu
+senang dengan dirimu
+sekarang?<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Ingat ya, untuk mencintai
+orang lain, kamu harus
+mencintai dirimu sendiri.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>Aku sungguh puas atas
+kehidupanku saat ini.<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Aku tahu bahwa Dewi Panen
+telah menyaranku kesini.<PAGE>Aku sungguh berterima kasih
+kepada semua orang yang
+pernah kutemui.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>Kemarin malam, Dewi Panen
+mengatakan aku untuk
+menikmati kehidupanku.<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_SAD><FP_RIGHT>Untuk...
+Menikmati...
+nya?<PAGE>M-Mungkin maksudnya agar
+tidak terlalu tegang gitu?<PAGE><MYNAME>, apakah kamu
+tahu maksudnya?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>Aku menyukai membaca buku.
+Karena bisa membawamu kemana
+saja jika membayangkannya.<PAGE>Buku apa yang kamu sukai
+disaat kamu kecil?<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Beritahu aku ya!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT><MYNAME>...<PAGE>Kamu itu...<PAGE>Um...\u270b
+<FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Kamu itu seorang yang
+luar biasa.<PAGE>Aku tahu bahwa kamu itu
+sangat dihormati disini.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>Semua orang akan disambut
+digereja.<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Tolong datang kapan saja ya.<PAGE>Pastinya Nathan akan sangat
+senang untuk bertemu dengan
+mu juga.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>Apakah disaat kamu bertemu
+denganmu merasakan suatu
+hal yang menyenangkan?<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Aku tahu bahwa aku senang
+disaat bertemu denganmu.<PAGE>Aku yakin dewi panenlah
+yang mempertemukan kita.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>Kemarin malam, Dewi Panen
+mengatakan kepadaku untuk
+lebih jujur kediriku<PAGE>sendiri.<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Jadi aku akan melakukan
+suatu hal yang aku ingin
+kan dihari ini.<PAGE>Terima kasih atas bersama
+denganku.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>Aku menyukai membaca buku.
+Karena bisa membawamu kemana
+saja jika membayangkannya.<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_SAD><FP_RIGHT>Aku ingin semua anak di-
+seluruh dunia meliaht
+betapa hebatnya membaca itu<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>Aku harap mereka kedepannya
+akan melakukan seperti apa
+yang aku lakukan ini.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_SHOCK><FP_RIGHT>...
+Um...<PAGE>Dengan persamamu, cukup
+menyangkan juga.<PAGE>Jika kamu ingin...\u270a\u270a<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Aku akan menyukainya jika
+kamu mau menjadi teman
+bicaraku, selamanya...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT><MYNICKNAME>, berapa lama
+ya semenjak pertama kali
+kita bertemu?<PAGE>Ingat untuk menepati janji
+mu kepadaku.<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Hee hee.
+Jangan katakan bahwa kamu
+melupakannya.<PAGE>Aku mempercayahimu,
+<MYNICKNAME>.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>Tiap hari kamu sudah bekerja
+dengan keras, <MYNICKNAME>.<PAGE>Tapi hati-hati untuk tidak
+memaksakan dirimu!<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Aku tidak menginginkan
+kamu menyakiti dirimu
+sendiri.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>...<PAGE>Aku bersyukur karena bisa
+hidup bersama dengan yang
+aku cintai ini dan semoga<PAGE>aku bisa begitu juga.<PAGE>Rasa bersyukurku terhadapmu
+bertambah besar tiap hari,
+dewi panen.<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Karena aku tahu bahwa aku
+memiliki dewi untuk berte-
+rima kasih atas kebahagiaan<PAGE>ini. Dan tentu saja aku
+mempunyaimu disisiku,
+<MYNICKNAME>.<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_SHOCK><FP_RIGHT><MYNICKNAME>, terima kasih
+banyak atas membuatku
+bahagia...

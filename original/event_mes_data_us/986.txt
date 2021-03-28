@@ -1,0 +1,22 @@
+<FACE_POS_RIGHT><HIDE_NAME><FACE_DIRK><FACE_HAPPY><FP_RIGHT>Yo! Don't think we've met!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_NORMAL><FP_RIGHT>I'm gonna be living in this
+village from now on. Name's
+<BLUE>Dirk</COLOR>.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_HAPPY><FP_RIGHT>And you're <MYNAME>, you
+said?<PAGE>Well, I look forward to
+getting to know you, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_NORMAL><FP_RIGHT>So my house is the one with
+the red roof right over
+there.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_NORMAL><FP_RIGHT>A lot of the time I'm not
+there because I'm out
+delivering mail.<PAGE>But drop by and hang out
+with me sometime!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_NORMAL><FP_RIGHT>Whoa!
+I better get going!<PAGE>We'll have to pick up our
+getting acquainted later.<PAGE><FACE_POS_RIGHT><FACE_DIRK><FACE_HAPPY><FP_RIGHT>See you around, <MYNAME>!

@@ -1,0 +1,178 @@
+000 Upgrade-Break Hoe
+001 Upgrade-Break WaterCan
+002 Upgrade-Break Sickle
+003 Upgrade-Hoe 1
+004 Upgrade-Hoe 2
+005 Upgrade-Hoe 3
+006 Upgrade-Hoe 4
+007 Upgrade-Hoe 5
+
+----------------------------|----------------------------------
+008 Upgrade-Hoe 6
+009 Upgrade-Watering Can 1
+010 Upgrade-Watering Can 2
+011 Upgrade-Watering Can 3
+012 Upgrade-Watering Can 4
+013 Upgrade-Watering Can 5
+014 Upgrade-Watering Can 6
+015 Upgrade-Sickle 1
+
+----------------------------|----------------------------------
+016 Upgrade-Sickle 2
+017 Upgrade-Sickle 3
+018 Upgrade-Sickle 4
+019 Upgrade-Sickle 5
+020 Upgrade-Sickle 6
+021 ×
+022 ×
+023 ×
+
+----------------------------|----------------------------------
+024 ×
+025 ×
+026 ×
+027 ×
+028 ×
+029 ×
+030 Expand-Konohana House
+031 Expand-Konohana Fields 1
+
+----------------------------|----------------------------------
+032 Expand-Konohana Fields 2
+033 Expand-Konohana Fields 3
+034 Expand-Konohana Fields 4
+035 Expand-Konohana Fields 5
+036 Expand-KonoFields6 Pond
+037 Expand-Konohana Paddy 1
+038 Expand-KonoPaddy2 WMill
+039 Expand-Konohana Paddy 3
+
+----------------------------|----------------------------------
+040 Expand-Konohana Paddy 4
+041 Expand-Konohana Paddy 5
+042 Expand-Bluebell House
+043 Expand-BlueGraze Area 1
+044 Expand-BlueGraze Area 2
+045 Expand-Blue Pet Playpen
+046 Expand-Bluebell Maker 1
+047 Expand-Bluebell Maker 2
+
+----------------------------|----------------------------------
+048 Expand-Bluebell Fields
+049 Expand-Bluebell Bee 1
+050 Expand-Bluebell Bee 2
+051 Expand-Bluebell Bee 3
+052 Expand-Bluebell Bee 4
+053 Expand-Bluebell Bee 5
+054 Expand-Bluebell Bee 6
+055 Expand-Hot Springs
+
+----------------------------|----------------------------------
+056 Expand-Tunnel Down
+057 Expand-Tunnel Up
+058 Expand-Tunnel 1
+059 Expand-Tunnel 2
+060 Expand-Tunnel 3
+061 Work-Gombe-SprWater S
+062 Work-Gombe-SprWater E
+063 Work-Gombe-SumWater S
+
+----------------------------|----------------------------------
+064 Work-Gombe-SumWater E
+065 Work-Gombe-Fall Water S
+066 Work-Gombe-Fall Water E
+067 Work-Nori-Winter Water S
+068 Work-Nori-Winter Water E
+069 Work-Gombe-SprHarvest S
+070 Work-Gombe-SprHarvest E
+071 Work-Gombe-SumHarvest S
+
+----------------------------|----------------------------------
+072 Work-Gombe-SumHarvest E
+073 Work-Gombe-FallHarvest S
+074 Work-Gombe-FallHarvest E
+075 Work-Nori-WinHarvest S
+076 Work-Nori-WinHarvest E
+077 Work-Ash-Spring Brush S
+078 Work-Ash-Spring Brush E
+079 Work-Ash-Summer Brush S
+
+----------------------------|----------------------------------
+080 Work-Ash-Summer Brush E
+081 Work-Jessica-FallBrush S
+082 Work-Jessica-FallBrush E
+083 Work-Cheryl-WinBrush S
+084 Work-Cheryl-WinBrush E
+085 Work-Ash-Spring Milk S
+086 Work-Ash-Spring Milk E
+087 Work-Ash-Summer Milk S
+
+----------------------------|----------------------------------
+088 Work-Ash-Summer Milk E
+089 Work-Jessica-Fall Milk S
+090 Work-Jessica-Fall Milk E
+091 Work-Cheryl-WinMilk S
+092 Work-Cheryl-WinMilk E
+093 Work-Sheng-SprWater S
+094 Work-Sheng-SprWater E
+095 Work-Sheng-SumWater S
+
+----------------------------|----------------------------------
+096 Work-Sheng-SumWater E
+097 Work-Sheng-Fall Water S
+098 Work-Sheng-Fall Water E
+099 Work-Sheng-WinWater S
+100 Work-Sheng-WinWater E
+101 Work-Sheng-SprHarvest S
+102 Work-Sheng-SprHarvest E
+103 Work-Sheng-SumHarvest S
+
+----------------------------|----------------------------------
+104 Work-Sheng-SumHarvest E
+105 Work-Sheng-FallHarvest S
+106 Work-Sheng-FallHarvest E
+107 Work-Sheng-WinHarvest S
+108 Work-Sheng-WinHarvest E
+109 Work-Dirk-Spring Water S
+110 Work-Dirk-Spring Water E
+111 Work-Dirk-Summer Water S
+
+----------------------------|----------------------------------
+112 Work-Dirk-Summer Water E
+113 Work-Dirk-Fall Water S
+114 Work-Dirk-Fall Water E
+115 Work-Dirk-Winter Water S
+116 Work-Dirk-Winter Water E
+117 Work-Dirk-SprHarvest S
+118 Work-Dirk-SprHarvest E
+119 Work-Dirk-SumHarvest S
+
+----------------------------|----------------------------------
+120 Work-Dirk-SumHarvest E
+121 Work-Dirk-Fall Harvest S
+122 Work-Dirk-Fall Harvest E
+123 Work-Dirk-WinHarvest S
+124 Work-Dirk-WinHarvest E
+125 Work-Mako-SprHarvest S
+126 Work-Mako-SprHarvest E
+127 Work-Mako-SumHarvest S
+
+----------------------------|----------------------------------
+128 Work-Mako-SumHarvest E
+129 Work-Mako-Fall Harvest S
+130 Work-Mako-Fall Harvest E
+131 Work-Mako-WinHarvest S
+132 Work-Mako-WinHarvest E
+133 ×
+134 ×
+135 ×
+
+----------------------------|----------------------------------
+136 ×
+137 ×
+138 ×
+139 ×
+140 ×
+141 ×
+142 ×
+143 ×

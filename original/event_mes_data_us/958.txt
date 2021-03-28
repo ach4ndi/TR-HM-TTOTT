@@ -1,0 +1,65 @@
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>Say now, <MYNAME>.<PAGE>There's something I've been
+wanting to ask you...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_SHY><FP_RIGHT>Um, you see now, well...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_SHY><FP_RIGHT>D'you think I'm strange?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_SAD><FP_RIGHT>You know...because of the
+way I talk?
+----------------------------|----------------------------------
+<CHOICE_AB> Yeah, it's really weird.
+ I think it's cute.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_SAD><FP_RIGHT>So you do...
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>You see, my dad and I
+haven't always lived here.<PAGE>We lived on a ranch way out
+west most of the time I was
+growing up.<PAGE><FACE_POS_RIGHT><FACE_GEORGIA><FACE_SHY><FP_RIGHT>I picked up my accent out
+there.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_SAD><FP_RIGHT>I know it sounds a mite
+strange here...
+<PAGE><FACE_POS_RIGHT><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>But I hope you'll just think
+of it as unique.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>That's all I wanted to
+say today. I'll be going
+now. Bye.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>What now?<PAGE><FACE_POS_RIGHT><FACE_GEORGIA><FACE_SHY><FP_RIGHT>\u20d0Wh-Wh-What did you
+just say?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_SHOCK><FP_RIGHT>Cute...? Really?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>You see, my dad and I
+haven't always lived here.<PAGE>We lived on a ranch way out
+west most of the time I was
+growing up.<PAGE><FACE_POS_RIGHT><FACE_GEORGIA><FACE_SHY><FP_RIGHT>I picked up my accent out
+there.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_SAD><FP_RIGHT>I know it sounds a mite
+strange here...<PAGE><FACE_POS_RIGHT><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>You've never said anything
+about how I speak...
+<PAGE>But I did wonder what
+you thought.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_SHOCK><FP_RIGHT>I never dreamed you'd say
+it was cute, though.
+<PAGE><FACE_POS_RIGHT><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>You sure know how to charm
+a lady.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_HAPPY><FP_RIGHT>I'm glad you don't have
+trouble understanding me.<PAGE><FACE_POS_RIGHT><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>You're one of my best
+friends, after all.<PAGE><FACE_POS_RIGHT><FACE_GEORGIA><FACE_SHOCK><FP_RIGHT>And I do want all my
+friends to understand me.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_SHOCK><FP_RIGHT>Oh, look at the time. I
+ought to head on home.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_HAPPY><FP_RIGHT>I know you're busy with your
+farm, but I hope I'll see
+you again soon.<PAGE><FACE_POS_RIGHT><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>Bye, now!

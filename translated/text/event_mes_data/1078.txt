@@ -1,0 +1,150 @@
+<FACE_POS_LEFT><FACE_AYAME><FACE_NORMAL><FP_LEFT><HIDE_FACE>Dia akan mau melahirkan?
+Oke, Aku mengerti.
+Aku akan kesana, oke?!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_AYAME><FACE_ANGRY><FP_LEFT>Ayo dimulai! Kamu siapkan
+air panas dan handuk ya!<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_ANGRY><FP_RIGHT>Y-yaaa, sesegra mungkin
+tante!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_NORMAL><FP_RIGHT>Aku sudah membawakannya,
+Dr. Ayame.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_AYAME><FACE_NORMAL><FP_LEFT>Terima kasih.
+\u270a\u270a...\u270aHiro!<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_ANGRY><FP_RIGHT>...!
+Y-Ya, Dokter?<PAGE><FACE_POS_LEFT><FACE_AYAME><FACE_NORMAL><FP_LEFT>Dimulai sekarang ya, sebagai
+dokter dan suami...<PAGE>Tanggung jawabmu itu untuk
+menjaga dan mensupport
+<MYNAME>.<PAGE><FACE_POS_LEFT><FACE_AYAME><FACE_ANGRY><FP_LEFT>Apa kamu dah siap?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_ANGRY><FP_RIGHT>Aku sudah siap!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_AYAME><FACE_HAPPY><FP_LEFT>Bagus!<PAGE><FACE_POS_LEFT><FACE_AYAME><FACE_NORMAL><FP_LEFT>Kalau gitu, ayo dimulai...<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_NORMAL><FP_RIGHT>Ya, Dokter!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_NORMAL><FP_RIGHT>Aku akan ada disini dengan
+kamu, <MYNICKNAME>...
+Jadi kuatkan dirimu!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_HIRO><FACE_NORMAL><FP_LEFT><HIDE_FACE><MYNICKNAME>, bayinya sebentar
+lagi akan lahir!
+Jadi harap bersabar...<PAGE>ini cobaan :v<PAGE><FACE_POS_LEFT><FACE_HIRO><FACE_NORMAL><FP_LEFT><HIDE_FACE>Ini, pegang tanganku!
+Semuanya akan baik-baik 
+saja!
+----------------------------|----------------------------------
+Waaah!
+Waaah!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_AYAME><FACE_HAPPY><FP_RIGHT>Kamu memiliki bayi sehat!
+Kamu pastinya dah berusaha
+dengan sekuat tenaga! bagus!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_HAPPY><FP_RIGHT><MYNICKNAME>! 
+ini bayi laki-laki yang
+menggemaskan!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_HAPPY><FP_RIGHT><MYNICKNAME>! 
+ini bayi perempuan yang
+menggemaskan!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_HAPPY><FP_RIGHT>Mungkin ini terlihat absurb,
+tapi kita harus menamai bayi
+kita sekarang!<PAGE>Oh ya aku ada beberapa
+nama yang sudah lama kupikir-
+kan...<PAGE>Yaitu <RED><VAR_0></COLOR>!
+Hm.. gimana menurutmu?
+----------------------------|----------------------------------
+<CHOICE_AB> Hm oke oke!
+ Ada yang lain?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_HAPPY><FP_RIGHT>Bagus! Sudah ditentukan,
+maka pakai nama itu!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_HAPPY><FP_RIGHT>Hallo, <VAR_0>!
+Ini ayahmu!
+Ciluk baaaa!<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_SHOCK><FP_RIGHT>Ibumu dan aku sangat senang
+disaat kamu sudah dilahirkan
+ini!<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_HAPPY><FP_RIGHT>Ibumu dan aku akan menjaga
+kamu sampai kamu tumbuh
+besar! Sehat dan kuat ya,<PAGE><VAR_0>!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_NORMAL><FP_RIGHT>Nama yang lainnya...? Hmm...<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_SHOCK><FP_RIGHT>Faktanya, aku ada banyak
+nama yang bagus... yang bisa
+kupikirkan saat ini.<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_NORMAL><FP_RIGHT>Aku harap salah satu di-
+antaranya ada yang kamu
+suka...
+----------------------------|----------------------------------
+<CHOICE_ABC> Moon
+ Ongsin
+ Lainnya ea.
+----------------------------|----------------------------------
+<CHOICE_ABC> Aoba
+ Jauhar
+ Lainnya ea.
+----------------------------|----------------------------------
+<CHOICE_ABC> EGi
+ Ibnu
+ Lainnya ea.
+----------------------------|----------------------------------
+<CHOICE_ABC> Kenji
+ Jet
+ Lainnya ea.
+----------------------------|----------------------------------
+<CHOICE_ABC> Tony
+ Geordi
+ Lainnya ea.
+----------------------------|----------------------------------
+<CHOICE_AB> Hm, tidak ada yg cocok.
+ Lihat namanya lagi.
+----------------------------|----------------------------------
+<CHOICE_ABC> Amelia
+ Tess
+ Lainnya ea.
+----------------------------|----------------------------------
+<CHOICE_ABC> Charlene
+ Mariko
+ Lainnya ea.
+----------------------------|----------------------------------
+<CHOICE_ABC> Noelle
+ Kimi
+ Lainnya ea.
+----------------------------|----------------------------------
+<CHOICE_ABC> Molly
+ Klara
+ Lainnya ea.
+----------------------------|----------------------------------
+<CHOICE_ABC> Serena
+ Ling
+ Lainnya ea.
+----------------------------|----------------------------------
+<CHOICE_AB> Hm, tidak ada yg cocok.
+ Lihat namanya lagi.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_NORMAL><FP_RIGHT>Jadi namanya, <RED><VAR_0></COLOR>
+ini cocok?
+----------------------------|----------------------------------
+<CHOICE_AB> Yeah!
+ Mari kupikirkan lagi itu...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_HAPPY><FP_RIGHT><VAR_0>... Ya, Aku
+pikir itu nama yang baik!
+Jadi sudah ditentukan!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_NORMAL><FP_RIGHT>Oh oke... nama apa yang kamu
+inginkan untuk anak kita
+ini?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_NORMAL><FP_RIGHT>Jadi kamu ingin anakmu ber-
+nama \u2337?
+----------------------------|----------------------------------
+<CHOICE_AB> Yeah!
+ Sesuatu yang lainnya...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_HAPPY><FP_RIGHT>\u2337... Aku pikir
+itu nama yang bagus!
+jadi semuanya dah diputuskan!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_HAPPY><FP_RIGHT>Haloo, \u2337!
+Ini ayahmu!<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_SHOCK><FP_RIGHT>Ibumu dan aku sangat senang
+sampai tak bisa berkata-kata
+ini di hari kelahiranmu!<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_HAPPY><FP_RIGHT>Ibumu dan aku akan menjaga
+mu sampai kamu tumbuh besar!<PAGE>Menjadi kuat dan sehat,
+\u2337!

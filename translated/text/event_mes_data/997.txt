@@ -1,0 +1,43 @@
+<FACE_POS_RIGHT><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Kita disini berkumpul untuk
+menghadiri pernikahan Cam
+dan <MYNAME> hari ini.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Cam...<PAGE>Apakah kamu menjadikan 
+<MYNAME> sebagai istrimu,
+untuk dicintai selamanya?<PAGE><FACE_POS_LEFT><FACE_CAM><FACE_HAPPY><FP_LEFT>Ya, aku terima.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NATHAN><FACE_NORMAL><FP_RIGHT><MYNAME>...<PAGE>Apa kamu akan menjadikan
+Cam sebagai suamimu, untuk
+dicintai semalanya?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Maka sekarang aku umumkan
+kamu sebagai suami dan
+istri!<PAGE><FACE_POS_RIGHT><FACE_NATHAN><FACE_HAPPY><FP_RIGHT>Semoga dewi panen memberkati
+mu!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_CAM><FACE_SHOCK><FP_LEFT>Kita akan sangat senang jika
+bersama-sama, <MYNAME>...　
+Aku janji...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_SHOCK><FP_RIGHT>Oke, hari ini kita memulai
+kehidupan baru kita ber-
+sama...<PAGE>Dikarenakan kitsa sudah
+menikah, apakah boleh aku
+menyebutmu dengan nama<PAGE>panggilan atau lainnya?<PAGE><FACE_POS_RIGHT><FACE_CAM><FACE_HAPPY><FP_RIGHT>Enaknya apa ya untuk
+memanggilmu, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT><MYNICKNAME>?
+Apa kamu yakin?
+----------------------------|----------------------------------
+<CHOICE_AB> Yeah!
+ Mungkin yang lainnya...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_HAPPY><FP_RIGHT>Oke... sudah ditentukan,
+Maka...<PAGE><FACE_POS_RIGHT><FACE_CAM><FACE_SHOCK><FP_RIGHT>Aku mencintaimu, <MYNICKNAME>...
+----------------------------|----------------------------------
+Hari yang menyenangkan!
+Besok, kita akan memulai
+kehidupan baru!
+----------------------------|----------------------------------
+<CHOICE_AB> Tidur, dan simpan.
+ Tidur saja.

@@ -1,0 +1,15 @@
+<SHOW_INSTANT>Masukkan namamu!
+Gunakan <RED>+Kontrol Pad</COLOR>
+dan tekan <RED>Tombol A</COLOR>.
+----------------------------|----------------------------------
+<SHOW_INSTANT>Nama "<MYNAME>" digunakan?
+<CHOICE_AB>　Ya, seperti itu.
+　Tidak, ganti lagi.
+
+----------------------------|----------------------------------
+<SHOW_INSTANT>Masukkan namamu!
+Gunakan <RED>+Kontrol Pad</COLOR>
+dan tekan <RED>Tombol A</COLOR>.
+----------------------------|----------------------------------
+<SHOW_INSTANT>Tidak memasukan inputan nama..
+<INPUT_KEYPAD>\u2329

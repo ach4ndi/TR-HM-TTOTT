@@ -1,0 +1,36 @@
+<FACE_POS_LEFT><FACE_JESSICA><FACE_HAPPY><FP_LEFT>La la la♪
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Ash!
+Cheryl!
+Dinner's ready!
+----------------------------|----------------------------------
+Okay!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_CHERYL><FACE_NORMAL><FP_LEFT>Mom! What're we having
+for dinner tonight?<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>We're having stew tonight.
+There's a lot to go around,
+so eat up!<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_HAPPY><FP_RIGHT>And I made your favorite
+for dessert tonight.<PAGE><FACE_POS_LEFT><FACE_CHERYL><FACE_HAPPY><FP_LEFT>Yay!<RED>❤</COLOR><PAGE><FACE_POS_LEFT><FACE_CHERYL><FACE_NORMAL><FP_LEFT>I'll help you carry
+things!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ASH><FACE_NORMAL><FP_LEFT>You're in a good mood
+today, Mom. What happened?<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Oh, you can tell?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_HAPPY><FP_RIGHT>I went to the caf today,
+and Howard told me something
+lovely.<PAGE>He told me I looked even
+more beautiful than usual!<RED>❤</COLOR>
+It made me so happy!<PAGE><FACE_POS_LEFT><FACE_ASH><FACE_SHY><FP_LEFT>He was just being polite.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_HAPPY><FP_RIGHT>What was that, Ash?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ASH><FACE_SHY><FP_LEFT>I didn't say a word!<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>That's what I thought.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_CHERYL><FACE_HAPPY><FP_LEFT>You really are
+beautiful, Mom.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_HAPPY><FP_RIGHT>Isn't that sweet of you?
+You know your mother
+so well, Cheryl.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Well let's eat, then.

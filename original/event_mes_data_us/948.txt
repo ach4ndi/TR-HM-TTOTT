@@ -1,0 +1,96 @@
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>Wow! I didn't know you
+felt that way about me,
+<MYNAME>.<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>That really means a lot to
+me. Thank you so much!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_SAD><FP_RIGHT>But...<PAGE>I've dedicated myself to the
+Harvest Goddess. And I'm
+still in training....
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>So I can't get married now.
+<PAGE>It makes me so happy to know
+you care for me, but...<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_SAD><FP_RIGHT>I can't return your feelings
+right now.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_HGODDES><FACE_HAPPY><FP_LEFT>Dum-Da-Da-DAA! It's me,
+the Harvest Goddess, a.k.a.
+The Goddess of Love!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>\u20d0H-Harvest Goddess!?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_HGODDES><FACE_HAPPY><FP_LEFT>That's right!
+<PAGE><FACE_POS_LEFT><FACE_HGODDES><FACE_NORMAL><FP_LEFT>Now, you over there.<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>Y-Yes?<PAGE><FACE_POS_LEFT><FACE_HGODDES><FACE_NORMAL><FP_LEFT>I just heard you say you
+can't get married because
+you're training to serve me?<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>Y-Yes?<PAGE><FACE_POS_LEFT><FACE_HGODDES><FACE_HAPPY><FP_LEFT>I don't care about that!
+Go on and get married!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>Huh?<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_SAD><FP_RIGHT>\u20d0What!?
+B-But I'm dedicated to serve
+you, Harvest Goddess....<PAGE><FACE_POS_LEFT><FACE_HGODDES><FACE_NORMAL><FP_LEFT>Just keep on bringing me
+those yummy strawberries.
+That's all I want.<PAGE><FACE_POS_LEFT><FACE_HGODDES><FACE_ANGRY><FP_LEFT>I never asked anyone to
+give up their chance at
+true love in my name!<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>T-True love!?<PAGE><FACE_POS_LEFT><FACE_HGODDES><FACE_NORMAL><FP_LEFT>That's right! You can't let
+it pass you by just because
+you're busy training!<PAGE>Human life is short! You've
+got to seize opportunities
+when they come! <PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>Y-Yes, Harvest Goddess.<PAGE><FACE_POS_LEFT><FACE_HGODDES><FACE_NORMAL><FP_LEFT>So if you love <MYNAME>, you'd
+better go for it!
+<PAGE><FACE_POS_LEFT><FACE_HGODDES><FACE_HAPPY><FP_LEFT>You got that?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>Y-Yes!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_HGODDES><FACE_NORMAL><FP_LEFT>Well then, good luck to you
+both! You make a super
+adorable couple!<PAGE>Toodles!
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Th-The Harvest Goddess came
+and spoke to us!<PAGE>That was incredible!
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_SAD><FP_RIGHT>Um, <MYNAME>?<PAGE>Could I ask you to pretend I
+didn't say any of that
+earlier?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>You know, about how I
+couldn't return your
+feelings?<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_SAD><FP_RIGHT>I think I might have been
+using my training as
+an excuse.<PAGE>You see, I lost my parents
+when I was young...<PAGE>And I've been afraid that if
+I love anyone else, I'll
+lose them, too.<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_SAD><FP_RIGHT>...<PAGE>But that was foolish. You
+can't love without the risk
+of loss.<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>I can't let fear stop me
+from loving others and
+living my life.<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>If you can forgive me for
+being so foolish, then I...
+...\u270b<FACE_POS_RIGHT><FACE_ALISA><FACE_SHOCK><FP_RIGHT>I accept!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_SHOCK><FP_RIGHT>Thank you, <MYNAME>!
+<PAGE>My heart is filled with
+happiness!
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Can we go tell Nathan,
+<MYNAME>?<PAGE>He's always been like
+a father to me.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_NATHAN><FACE_NORMAL><FP_LEFT>What? Alisa...getting
+married!?<PAGE>And with the blessings of
+the Harvest Goddess...<PAGE><FACE_POS_LEFT><FACE_NATHAN><FACE_HAPPY><FP_LEFT>How wonderful!<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Thank you, Nathan.
+<PAGE><FACE_POS_LEFT><FACE_NATHAN><FACE_NORMAL><FP_LEFT>When were you planning on
+having the ceremony?<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_SHOCK><FP_RIGHT><MYNAME> and I were talking
+about having it in a week.
+
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_NATHAN><FACE_HAPPY><FP_LEFT>I see.
+I'll look forward to it.<PAGE>I'll do whatever I can to
+make your special day
+perfect for you, Alisa.<PAGE><FACE_POS_LEFT><FACE_NATHAN><FACE_NORMAL><FP_LEFT><MYNAME>, you'll be very
+busy the day of the
+wedding. <PAGE>So you should get everything
+you need done the day
+before.<PAGE><FACE_POS_LEFT><FACE_NATHAN><FACE_HAPPY><FP_LEFT>And take good care of Alisa.
+She's very special.

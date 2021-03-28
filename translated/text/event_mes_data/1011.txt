@@ -1,0 +1,62 @@
+<FACE_POS_RIGHT><FACE_HIRO><FACE_NORMAL><FP_RIGHT>...Dan lalu dokter Ayame ber-
+kata, "Ini terlalu merepot-
+kan" dan dia mengambil<PAGE>semua dokumennya...<PAGE>Dan aku membalasnya,
+"Tidak, kamu seharusnya
+tidak melakukan itu!",<PAGE>tapi\u270a...tunggu,
+ini...?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_SAD><FP_RIGHT>Oh tidak! Aku kelupaan!
+Buku yang kupinjam dari
+balai desa harus dikembali-<PAGE>kan dihari ini!<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_SHY><FP_RIGHT>Aku hampir melupakannya!<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_SAD><FP_RIGHT>Oh, <MYNAME>, kamu
+memberi aku jalan. Karena
+itu hari ini aku harus...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_NORMAL><FP_RIGHT>Apa?
+Kamu akan ikut bersama
+denganku?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_NORMAL><FP_RIGHT>Tapi..Tapi kamu pastinya
+ada urusan yang harus di
+lakukan, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_HAPPY><FP_RIGHT>Terima kasih! Terima kasih
+banyak! Apa kamu yakin ini
+tidak masalah?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_NORMAL><FP_RIGHT>Maafkan aku untuk membuatmu
+menunggu.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_HAPPY><FP_RIGHT>Sepertinya kamu memeriksa
+buku itu ya. Apa kamu ingin
+membawa salah satunya?
+----------------------------|----------------------------------
+<CHOICE_AB> Pinjam buku medis.
+ Pinjam buku memasak.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_SAD><FP_RIGHT>Oh! Kamu kelihatannya ingin
+sekali untuk memperlajari-
+nya tanpa bantuan dari<PAGE>dokter ayame dan aku, hu?
+Pastinya ini harus memper-
+hatikan kesehatannya<PAGE>diri sendiri...
+Tapi aku harapkan kamu
+itu harus menyerahkan<PAGE>semua hal itu kepada kami.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_NORMAL><FP_RIGHT>Aku minta maaf untuk meng-
+habiskan waktumu dihari ini.
+Aku barusan ada urusan<PAGE>lainnya yang harus kulaku-
+kan, jadi aku akan tinggal
+ya.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_HAPPY><FP_RIGHT>Oh-oh, buku itu!<PAGE>Aku memakainya untuk diri-
+ku sendiri!<PAGE>Isi bukunya sangat detail!
+Disertakan gambar dan
+intruksi yang sangat mudah<PAGE>diikuti. Aku merekomenda-
+sikan kamu membacanya!<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_NORMAL><FP_RIGHT>Dan foto yang mempersiap-
+kan hidangan itu benar-
+benar menggiurkan.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_HAPPY><FP_RIGHT>Heh heh. Topik diskusi ini
+membuatku lapar.<PAGE>Aku pastinya akan pulang
+kerumah sekarang.<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_SHOCK><FP_RIGHT>Terima kasih banyak sudah
+mengajakku berbicara.<PAGE>Aku tak sabar menemui
+kamu lagi nanti!

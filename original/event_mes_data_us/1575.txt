@@ -1,0 +1,34 @@
+<FACE_POS_RIGHT><FACE_DIEGO><FACE_NORMAL>Welcome to Diego's General
+Store.\u2390
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIEGO><FACE_NORMAL><CHOICE_AB> View items.
+ Never mind.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIEGO><FACE_NORMAL>Oh, okay.
+Stop by any time.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIEGO><FACE_SAD>Looks like you don't have
+enough money... Come back
+when you've got more!\u2390
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIEGO><FACE_HAPPY>Thank you very much!
+This is great!\u2390
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIEGO><FACE_SAD>You can't fit anything in
+your bag. It's full.\u2390
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIEGO><FACE_NORMAL>Hm? You changed your mind?
+Need anything else?\u2390
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIEGO><FACE_NORMAL>That'll be <RED><VAR_0>G</COLOR>.
+<CHOICE_AB> Buy.
+ Never mind.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIEGO><FACE_NORMAL>That'll be <RED><VAR_1>G</COLOR>
+for each <VAR_0>!
+How many do you want?\u2390
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIEGO><FACE_SAD>Too bad.
+It's all sold out today.\u2390
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIEGO><FACE_NORMAL>No item left MSG

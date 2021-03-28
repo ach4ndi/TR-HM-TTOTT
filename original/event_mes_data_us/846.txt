@@ -1,0 +1,305 @@
+<FACE_POS_LEFT><HIDE_NAME><FACE_RUTGER><FACE_NORMAL><FP_LEFT><HIDE_FACE>Good morning, <MYNAME>.
+Hope you don't mind me
+coming on in.
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>I've come to give you some
+festival information.
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>This month on the 26th is
+the <RED>Animal Festival</COLOR>.<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>This time it'll be the
+<RED>Chicken Festival</COLOR>.<PAGE>Take extra care raising the
+animal you want to enter.<PAGE>And watch out, because you
+<RED>can't enter</COLOR> chickens
+that are sick or pregnant.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT><FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>This month on the 26th is
+the <RED>Animal Festival</COLOR>.<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>This time it'll be the
+<RED>Cow Festival</COLOR>.<PAGE>Take extra care raising the
+animal you want to enter.<PAGE>And watch out, because you
+<RED>can't enter</COLOR> animals
+that are sick or pregnant.
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Oh, that's right!
+I have to explain the
+<RED>Cooking Festival</COLOR>!<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>4 times a month, Bluebell
+and Konohana compete in a
+Cooking Festival.<PAGE>Three contestants from each
+village make a dish based on
+a chosen theme.<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>It's our chance to prove
+that Bluebell's cooking is
+better than Konohana's!<PAGE>If you can, I'd love you
+to enter as one of the
+contestants for our village.<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>By the way, the theme this
+time is <RED>salad</COLOR>.<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>To make a high-scoring dish,
+make one that uses many
+fresh ingredients.<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>But watch out, because you
+<RED>can't enter</COLOR> food
+that is <RED>rotten</COLOR>!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>And on the 29th, we have a
+<RED>Cooking Festival</COLOR>.<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>The theme this time is
+<RED>a main dish</COLOR>.<PAGE>Make sure to prepare if you
+want to enter!<PAGE>But don't forget that you
+<RED>can't enter</COLOR> food
+that is <RED>rotten</COLOR>!
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Our village's pride is on
+the line in the Cooking
+Festival.<PAGE>If you want to enter, let
+me give you some advice,
+<MYNAME>.<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>To make a high-scoring dish,
+make one that uses many
+fresh ingredients.
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Well now, do you think you
+can remember all that?<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>If you forget anything,
+just look at your <RED>calendar</COLOR>.<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Alright, I'll head home now.
+Good luck with your work!
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+<FACE_POS_LEFT><HIDE_NAME><FACE_ROSE><FACE_NORMAL><FP_LEFT><HIDE_FACE><MYNAME>, may I
+talk to you for a moment?
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ROSE><FACE_NORMAL><FP_RIGHT>I'm sure my husband just
+told you, but...<PAGE><RED>The Cooking Festival</COLOR>
+in an important event
+for Bluebell and Konohana.<PAGE>Most folks are just thinking
+about which village's
+cooking will win...<PAGE>But I hope that it can also
+be an opportunity for the
+mayors to become friends...
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ROSE><FACE_NORMAL><FP_RIGHT>I came to talk to you today
+because I hope that since
+you're new here...<PAGE><FACE_POS_RIGHT><FACE_ROSE><FACE_HAPPY><FP_RIGHT>...maybe something will
+change if you enter
+the Cooking Festival.<PAGE><FACE_POS_RIGHT><FACE_ROSE><FACE_SAD><FP_RIGHT><MYNAME>, could I ask
+for your help with this?
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ROSE><FACE_HAPPY><FP_RIGHT>Thank you, dear!\u270a\u270a
+I knew you'd say that!
+<PAGE><FACE_POS_RIGHT><FACE_ROSE><FACE_NORMAL><FP_RIGHT>I'm counting on you!
+
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ROSE><FACE_NORMAL><FP_RIGHT>Forgive me for the
+intrusion. I'm Rutger's
+wife, <BLUE>Rose</COLOR>.\u270e
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ROSE><FACE_SAD><FP_RIGHT>I'm sure you know that
+Rutger and Ina don't
+get along well, right?<PAGE>The mayors of our two
+villages have a long
+history of bad blood...<PAGE>But most of us villagers
+think that needs to change.
+
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy

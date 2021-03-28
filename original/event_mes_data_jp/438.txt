@@ -1,0 +1,15 @@
+<FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>リコリスさん、
+来てくれたんだ！<PAGE>
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_REINA><FACE_SHOCK><FP_LEFT>ぐ、偶然通りかかっただけだ。<PAGE><FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>偶然とか言いつつも、
+気にはなってたんでしょ。
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_REINA><FACE_HAPPY><FP_LEFT>そ、それにしても、珍しい木が
+生えているんだな。<PAGE><FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL><FP_RIGHT>？？？っていうんだ。
+＜木の特ちょう＞が
+？？？のとくちょうなんだ。<PAGE><FACE_POS_LEFT><FACE_REINA><FACE_NORMAL><FP_LEFT>大学にいた頃に、研究で
+勉強して知ってはいたんだが、
+見たことはなかったな。
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_REINA><FACE_HAPPY><FP_LEFT>他にも珍しい木が
+たくさんありそうだな。<PAGE><FACE_POS_LEFT><FACE_REINA>［FACE_NORMAL_ON］<FP_LEFT>またお邪魔させてもらう。

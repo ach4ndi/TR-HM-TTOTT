@@ -1,0 +1,80 @@
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>-Kosong-
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Kamu melihat permintaanku,
+huh?<PAGE>Tapi dah terlambat, 
+Jadi aku akan memintamu se-
+uatu dilain waktu saja,oke?<PAGE><FACE_POS_RIGHT><FACE_CHERYL><FACE_SAD>Maaf. Aku bertaruh kamu
+terlalu sibuk dengan hal-
+hal di kebunmu...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>-Kosong-
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CHERYL><FACE_HAPPY><FP_RIGHT>Apakah kamu melihatnya?
+Makasih!<PAGE>Well, ayolah!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>-Kosong-
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>-Kosong-
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CHERYL><FACE_HAPPY><FP_RIGHT>Ini adalah kebun kami!<PAGE>Heh heh. Apakah ini keren?<PAGE>Dari kesemuanya, kakakku
+adalah petani terhebat di
+seluruh dunia!<PAGE><FACE_POS_RIGHT><FACE_CHERYL><FACE_NORMAL>Aku inginkan kamu
+<RED>menggosok</COLOR>, oke?<PAGE><FACE_POS_RIGHT><FACE_CHERYL><FACE_HAPPY>Menggosok punggungku!<PAGE><FACE_POS_RIGHT><FACE_CHERYL><FACE_ANGRY>... bukan !<PAGE><FACE_POS_RIGHT><FACE_CHERYL><FACE_NORMAL>Gosoklah <RED>setiap binatang disini</COLOR>,
+oke, <MYNAME>?<PAGE>Beritahu aku jika sudah
+selesai!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CHERYL><FACE_HAPPY><FP_RIGHT>Ini adalah kebun kami!<PAGE>Heh heh. Apakah ini keren?<PAGE>Dari kesemuanya, kakakku
+adalah petani terhebat di
+seluruh dunia!<PAGE><FACE_POS_RIGHT><FACE_CHERYL><FACE_NORMAL>Aku inginkan kamu
+<RED>memerah susu sapi</COLOR>, oke?<PAGE>Disaat kamu mengambil susu-
+nya, secara otomatis tersim
+pan kedalam penyimpanan kami.<PAGE>Beritahu aku jika sudah
+selesai!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>-Kosong-
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>-Kosong-
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CHERYL><FACE_HAPPY><FP_RIGHT>Yay, semuanya sudah selesai!<PAGE>Ini hadiah untuk kamu!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CHERYL><FACE_HAPPY><FP_RIGHT>Oh, kamu sudah selesai!
+Kerja bagus!<PAGE><FACE_POS_RIGHT><FACE_CHERYL><FACE_ANGRY>Tapi seharusnya kamu beri-
+tahukan aku jika kamu
+menyelesaikan semuanya!<PAGE>Aku khwatir, aku tidak
+bisa tidur! Sekarang aku
+capek!<PAGE><FACE_POS_RIGHT><FACE_CHERYL><FACE_NORMAL>Oh ya. Aku tetap memberi-
+kanmu sebuah hadiah.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CHERYL><FACE_HAPPY><FP_RIGHT>Oh, kamu sudah selesai!
+Kerja bagus!<PAGE><FACE_POS_RIGHT><FACE_CHERYL><FACE_ANGRY>Tapi seharusnya kamu beri-
+tahukan aku jika kamu
+menyelesaikan semuanya!<PAGE>Hal apa yang membuatmu
+selama ini?<PAGE><FACE_POS_RIGHT><FACE_CHERYL><FACE_NORMAL>Oh ya. Aku tetap memberi-
+kanmu sebuah hadiah.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>-Kosong-
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CHERYL><FACE_HAPPY><FP_RIGHT>Tidak terlalu buruk. Kamu
+seorang petani yang bagus!<PAGE><FACE_POS_RIGHT><FACE_CHERYL><FACE_ANGRY>Walaupun tidak sebagus
+kakak aku!<PAGE><FACE_POS_RIGHT><FACE_CHERYL><FACE_NORMAL>Oh, aku ada hadiah nih
+buatmu. Ini dia!
+jreng... jreng...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>-Kosong-
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>-Kosong-
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CHERYL><FACE_HAPPY><FP_RIGHT>Dan ini tambahannya!
+Terima kasih atas menyelesai
+kannya dengan cepat!
+----------------------------|----------------------------------
+<FP_NONE>Kamu mendapatkan sebuah
+<VAR_1>!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Terima kasih telah membantu!
+Mungkin kamu bisa membantu
+kita lagi kedepannya!
+----------------------------|----------------------------------
+<FP_NONE>Kamu telah menyelesaikan
+semua pekerjaan yang
+diminta!

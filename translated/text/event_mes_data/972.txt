@@ -1,0 +1,35 @@
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>Apa kamu tahu... paham
+betul mengenai memberikan
+seseorang <RED>bulu biru?</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_HAPPY><FP_RIGHT>Kamu yakin? Oke kelihatannya
+well, maka...<PAGE>Aku menerimanya!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_HAPPY><FP_RIGHT>Hahahaha! Aku kira kamu
+akan tertahan olehku
+sekarang.<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_ANGRY><FP_RIGHT>Dengarkan, <MYNAME>.
+Aku hanya sekali saja
+memberitahumu tentang ini.<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_SHOCK><FP_RIGHT>Aku...\u270a\u270aAku...\u270a\u270a
+Mencintai kamu!<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_HAPPY><FP_RIGHT>Seperti, Aku bilang tadi.
+Sekarang, memberitahukan
+pamanku, Mako...<PAGE>Apa kamu ikut juga?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_MAKO><FACE_NORMAL><FP_LEFT>Reina?! Akan menikah?!<PAGE>Wow!<PAGE><FACE_POS_LEFT><FACE_MAKO><FACE_NORMAL><FP_LEFT>Reina... menikah...
+Sama... <MYNAME>...
+dalam pernikahan...<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_SHY><FP_RIGHT>Paman... Mako!
+Jangan mengulangi seperti
+itu!<PAGE><FACE_POS_LEFT><FACE_MAKO><FACE_HAPPY><FP_LEFT>Ahem, maaf ya.
+Itu sebuah kejutan! kejutan
+yang istimewa!<PAGE>Jadi kapan kalian akan
+menikah?<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_SHOCK><FP_RIGHT><MYNAME> dan aku putuskan satu
+minggu dari sekarang.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_MAKO><FACE_HAPPY><FP_LEFT>Bagus! Betapa menyenangkan!<PAGE><FACE_POS_LEFT><FACE_MAKO><FACE_NORMAL><FP_LEFT>Tapi aku akan memberitahumu
+<MYNAME>, aku dengat bahwa
+hari pernikahanmu akan sibuk<PAGE>seharian. Jadi kamu harus
+mempersiapkan dan menyelesai
+kan semua pekerjaanmu<PAGE>sebelum hari pernikahannya.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_MAKO><FACE_HAPPY><FP_LEFT><MYNAME>, kamu pastinya
+akan menjadi suami yang baik
+untuk keponakan aku Reina.

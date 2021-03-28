@@ -1,0 +1,34 @@
+<FACE_POS_LEFT><FACE_RAUL><FACE_HAPPY><FP_LEFT>Hari ini penjualan kita
+sangat laris manis seperti
+jualan kue manis saja!<PAGE><FACE_POS_RIGHT><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Ayo pertahankannya
+seperti ini untuk kedepannya!<PAGE><FACE_POS_RIGHT><FACE_ENRIQUE><FACE_HAPPY><FP_RIGHT>Aku tugaskan masalah
+binatang kekamu ya,
+Diego.<PAGE><FACE_POS_LEFT><FACE_RAUL><FACE_NORMAL><FP_LEFT>Itu sebuah rencana!<PAGE>Hei, apa kamu ingat akan
+selalu mengunci pintu,
+benarkan?<PAGE><FACE_POS_RIGHT><FACE_DIEGO><FACE_HAPPY><FP_RIGHT>Tentu saja!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ENRIQUE><FACE_SAD><FP_RIGHT>Tapi... aku memikirkan
+sesuatu yang aku lihat
+barusan!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_RAUL><FACE_ANGRY><FP_LEFT>Kamu tidak melihat sesuatu!<PAGE>Berapa banyak kalinya aku
+mengingatkan kamu?<PAGE><FACE_POS_RIGHT><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>Kedepannya aku akan berhati
+-hati!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Berapa lama kamu ada disitu,
+<MYNAME>?<PAGE>Ini sepertinya agak tidak
+sopan untuk mendengarkan
+pembicaraan oranglain!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Aku tahu kamu kesini untuk
+mengajak keluar bareng-
+bareng kan?<PAGE>Ini terlalu malam. Kamu
+seharusnya datang lebih
+cepat sebelumnya.<PAGE>Kamu sekarang seharusnya
+pulang kerumah untuk hari
+ini.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIEGO><FACE_HAPPY><FP_RIGHT>Kamu pastinya masih ingatkan
+, <MYNAME>?<PAGE>Jika kamu mau keluar,
+gunakan pintu depan, bukan
+pintu belakang!

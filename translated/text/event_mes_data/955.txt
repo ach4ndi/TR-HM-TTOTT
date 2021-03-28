@@ -1,0 +1,46 @@
+<FACE_POS_LEFT><FACE_NATHAN><FACE_NORMAL><FP_LEFT>Dan kita akan mulai...<PAGE>Kita disini akan mengadakan
+pernikahan antara <MYNAME> 
+dan Nori pada hari ini.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_NATHAN><FACE_NORMAL><FP_LEFT><MYNAME>...<PAGE>Apakah kamu menjadikan Nori
+sebagai istri, untuk dicin-
+tai dan melindunginya?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_NATHAN><FACE_NORMAL><FP_LEFT>Nori...<PAGE>Apakah kamu menjadikan
+<MYNAME> sebagai suamimu,
+untuk dicintai dan disayang<PAGE>seumur hidupmu?<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Aku terima.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_NATHAN><FACE_NORMAL><FP_LEFT>Karena itu, maka aku mengu-
+mumkan bahwa kamu akan men-
+jadi suami dan istri!<PAGE><FACE_POS_LEFT><FACE_NATHAN><FACE_HAPPY><FP_LEFT>Semoga Dewi panen memberkati
+kalian!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_SHOCK><FP_RIGHT><MYNAME>...
+Aku tahu aku akan menjadi
+sangat senang bersamamu!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_SHOCK><FP_RIGHT>Hari ini kita berdua akan
+memulai kehidupan baru ber-
+sama!<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Apa disini ada nama panggil-
+an yang spesial untuk memang
+gilmu sekarang?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT><MYNICKNAME>.
+Aku suka nama panggilannya,
+apa kamu yakin?
+----------------------------|----------------------------------
+<CHOICE_AB> Ya.
+ Ya, yang lainnya.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Tee-hee!
+Maka sudah diputuskan!<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_SHOCK><FP_RIGHT>Kehidupan nanti akan menye-
+nangkan... 
+<MYNICKNAME>!
+----------------------------|----------------------------------
+Kehidupan baru kita sudah
+dimulai! Kita akan lakukan
+dengan santai hari ini.<PAGE>Besok akan kembali bekerja
+pekerjaan masing-masing!
+----------------------------|----------------------------------
+<CHOICE_AB> Tidur dan simpan.
+ Tidur saja.

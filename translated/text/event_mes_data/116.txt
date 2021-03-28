@@ -1,0 +1,618 @@
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Halo! Sepertinya aku tidak
+pernah melihatmu sebelumnya.<PAGE>Perkenalkan aku <BLUE>Grady</COLOR>!
+Senang bertemu denganmu!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_SAD><FP_RIGHT>Cuaca kemarin itu sungguh
+buruk, benarkan?
+Itu membuat ternakku takut.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>. 
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_HAPPY><FP_RIGHT>Oh!
+Lihat ini yang hidup!
+Ha ha ha!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_ANGRY><FP_RIGHT>Maaf, aku tidak menyukai
+binatang ini. Tunjukkan itu
+kepada orang lain ya.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_HAPPY><FP_RIGHT>Bukankah ini sebuah Bulu
+Biru! Aku hampir tidak per-
+nah melihatnya akhir2 ini...<PAGE>Jadi kamu segera menikah?
+Uh siapakah yang beruntung?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Sekarang apa?
+Tidak, terima kasih.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Oh, hadiah lainnya?
+Tidak untuk hari ini,
+terima kasih.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Sekarang apa ini?
+Apa yang kamu dapatkan
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_HAPPY><FP_RIGHT>Ini benar-benar berat untuk
+menolaknya. Ini adalah
+favoritku!<PAGE>Sebuah hadiah yang sempurna
+untukku. Terima kasih!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Bau baunya...
+<RED>fondue tomat</COLOR>?
+Itu untukku?<PAGE><FACE_POS_CENTER><FACE_GRADY><FACE_HAPPY><FP_RIGHT>Bagaimana kamu mengetahui-
+nya? Ini adalah salah satu
+kesukaanku, makasih!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo,<MYNAME>
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo,<MYNAME>
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Jangan katakan ini sebuah
+hadiah ulang tahunku?<PAGE>Terima kasih banyak! Aku
+pikir bahwa anakku saja
+yang mengingatnya.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Terima kasih!
+Aku sangat menyukainya!
+Bagus bagus...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Oh, Sebuah hadiah ulang
+tahun?
+terima kasih banyak!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Terima kasih banyak!
+Aku akan menerimanya.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Sekarang apa ya ini?
+Untuk ulang tahunku?
+Ini hanya membuatku sedih.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_SAD><FP_RIGHT>Sekarang apa ini? Kamu sudah
+berusaha, tapi aku harap
+kamu pilih yang benar.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_SAD><FP_RIGHT>Untukku? Uh. Aku tidak dapat
+memakannya.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo,<MYNAME>
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Jadi, tinggal bersama anak
+sendiri, eh?<PAGE>Dia sudah membuatkan kue.
+Aku harap kamu sudah siap.<PAGE><FACE_POS_CENTER><FACE_GRADY><FACE_HAPPY><FP_RIGHT>Ha ha, jangan khawatir.
+Aku pasti kamu dapat
+menikmatinya.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_HAPPY><FP_RIGHT>Pastinya senang jika ada
+seseorang yang akan datang
+bertamu, benarkan?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Wah anginnya!
+Aku harap atap rumahnya
+baik-baik saja.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Aku tidak peduli dengan
+sedikitnya salju, tapi ini
+sudah terlalu banyak...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_HAPPY><FP_RIGHT>Apa kamu sudah mencoba per-
+lombaan balapan kuda?<PAGE>Kamu itu memiliki tangan
+yang dapat menyenangkan
+binatang, aku yakin kamu<PAGE>akan sangat menguasainya!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Aku tinggal disebelah barat
+dari desa ini.<PAGE><FACE_POS_CENTER><FACE_GRADY><FACE_HAPPY><FP_RIGHT>Dimana gaya bahasa georgia
+berasal.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Katanya Georgia aku sudah
+terlalu banyak makan, tapi
+pengembala itu sebuah<PAGE>pekerjaan yang berat!<PAGE><FACE_POS_CENTER><FACE_GRADY><FACE_HAPPY><FP_RIGHT>Aku tebak kamu dapat mena-
+han rasa laparmu itu, iya-
+kan? hehe
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Apakah aku terlihat agak
+gemuk?<PAGE>Aku lebih baik berolah-
+raga lagi, atau aku akan
+mendengarkan ocehannya.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Kudaku tampaknya tidak ramah
+untuk dikendarai beberapa
+hari yang lalu. Pastinya<PAGE>aku sudah memasang pelana
+yang terlalu berat...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Desa ini sebuah tempat yang
+bagus untuk kuda. Mereka
+tumbuh lebih kuat.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Apakah kamu menyukai,
+<MYNAME>? Kuda itu hebat,
+dan semua orang menyukainya.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo,<MYNAME>
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Sekarang ini, apakah kamu
+mau ikut dalam festivalnya?
+Semoga beruntung ya.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Tampaknya binatangmu itu
+sangat terawat ya.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Betapa lucunya!
+Biarkan aku untuk menyentuh
+nya.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_SAD><FP_RIGHT>Itu bukan yang aku sukai.
+Maaf.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Kamu tidak akan bisa meli-
+hatnya setiap hari. Seperti
+nya tidak mencoba untuk<PAGE>kabur darimu. Pastinya
+itu menyukaimu.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_HAPPY><FP_RIGHT>Oh, untukku?
+Kamu tidak usah melakukan-
+nya. Terima kasih banyak.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_HAPPY><FP_RIGHT>Ada apa disini?
+Pastinya sesuatu yang bagus!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_HAPPY><FP_RIGHT>Ini benar-benar menyenang-
+kan jika sudah bertemanan
+denganmu itu.<PAGE>Kamu itu teman terdekatku
+yang pernah kupunya,
+<MYNAME>!??
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Bagaimana penampilan desa
+ini? Tidak terlalu buruk
+kan?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_SAD><FP_RIGHT>Semua pekerjaan yang aku
+lakukan itu membuatku
+lapar!<PAGE>Sekarang enaknya makan apa
+ya?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hari ini adalah hari libur-
+ku. Aku akan menikmatinya.<PAGE>Kamu tahukan, semuanya
+kerja kerja kerja dan
+tidak ada waktu bermain...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_HAPPY><FP_RIGHT>Terima kasih atas support-
+nya! Aku pikir kamu sudah
+banyak membantu kami menang!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_ANGRY><FP_RIGHT>Apakah kamu benar-benar me-
+nyemangati? Lalu kenapa
+kita kalah ya?<PAGE><FACE_POS_CENTER><FACE_GRADY><FACE_SAD><FP_RIGHT>Aku tidak bermaksud seperti
+itu kepadamu. Maaf ya.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Kamu harus berkompetesi
+untuk kita di festival
+memasak selanjutnya.<PAGE>Maka kita mempunyai
+seorang untuk memberikan
+kejutan.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_ANGRY><FP_RIGHT>Kita akan menang difestival
+memasak kedepannya.
+Pastinya!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Itu hampir saja!
+Kedepannya harus beruntung!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_HAPPY><FP_RIGHT>Apa yang terjadi dihari
+ini? Kamu bakalan tidak
+tahu apa yang sedang ter-<PAGE>jadi pada sebuah festival.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_HAPPY><FP_RIGHT>Kamu tidak ikutan dihari
+ini?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Tampaknya butuh kerja keras
+sepertinya. Jangan membuat
+hal ini mematahkan semangat-<PAGE>mu. Kedepannya kamu akan
+menang kok. kalau niat.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Festivalnya ini benar-benar
+sesuatu. Lihat baik-baik
+ya.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hi, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hi, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hi, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hi, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hi, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hi, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hi, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hi, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hi, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hi, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hi, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hi, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hi, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hi, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hi, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hi, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hi, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hi, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hi, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Selamat pagi yang ada di-
+sana, <MYNAME>.<PAGE>Tampaknya kamu masih
+mengantuk ya?<PAGE><FACE_POS_CENTER><FACE_GRADY><FACE_HAPPY><FP_RIGHT>Jika kamu tidak berhati-
+hati, kamu mungkin akan
+terpleset loh.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Selamat pagi, <MYNAME>.
+Aku menyukai senam disaat
+pagi hari.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Selamat pagi, <MYNAME>!<PAGE>Apakah kamu sudah sarapan?
+Jangan memulai hari-harimu
+dengan perut yang kosong!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+Apa yang kamu ingin lakukan
+dihari ini?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_HAPPY><FP_RIGHT>Tampaknya kamu sedang
+sibuk, <MYNAME>.
+Itu bagus.<PAGE>Seorang petani harus selalu
+banyak yang dilakukan.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.<PAGE>Aku selalu cepat lelah di-
+waktu-waktu ini. Ak upikir
+aku akan tidur dulu.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Selamat malam, <MYNAME>.
+Apakah kamu itu bekerja
+sampai malam seperti ini?<PAGE>Jangan memaksakan diri ya.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Selamat malam, <MYNAME>.<PAGE>Apakah kamu tidak sedang
+bekerjakan sampai semalam
+ini? iya kan?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+Oh dewi, aku sungguh capek.
+Aku harus ngemil sesuatu.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Selamat datang!<PAGE>Ayo datang kedepan konter
+jika kamu membutuhkan
+sesuatu.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Saat ini aku sedang bekerja.
+Nanti saja ya.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_HAPPY><FP_RIGHT>Sedang belanja sesuatu?
+Disini sangat menyambutmu
+kok!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_HAPPY><FP_RIGHT>Waktunya makan!
+Apa yang aku makan duluan
+ya?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_SAD><FP_RIGHT>Anakku akan marah jika aku
+terlalu banyak makan...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Ini sungguh bagus, aku
+akan memakannya selama
+mungkin!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hmm...
+Hmm...
+Hmm...<PAGE>Apakah kamu pikir aku
+tampak kurusan dikit?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_HAPPY><FP_RIGHT>Mereka tampak ramping dan
+sehat. Aku sangat menyukai
+kuda.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hmm...
+Apakah kamu pikir aku harus
+mengurangi berat badan?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_HAPPY><FP_RIGHT>Kamu menang! Itu sungguh
+luar biasa!<PAGE>Dan itu tampak bagus...
+Apakah kamu mau membuatnya
+untukku seorang?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_HAPPY><FP_RIGHT>Kamu itu cukup baik untuk
+disebut sebagai koki
+profesional.<PAGE>Pastinya kamu bisa memulai
+bisnis restoran didesamu
+itu.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_HAPPY><FP_RIGHT>Apakah kamu mau memasak
+untukku? Aku pastinya akan
+senang untuk mencicipi<PAGE>masakkan enakmu itu.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_SAD><FP_RIGHT>Festivalnya sudah berakhir
+...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_HAPPY><FP_RIGHT>Jadi ini sudah selesai?
+Oke, aku tidak sabar untuk
+menantikan waktu lainnya.<PAGE>Bagimana menurutmu,
+<MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Festivalnya sudah berakhir,
+dan besok akan kembali ke
+aktifitas seperti biasanya!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Hullo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Man...
+Itu festival yang bagus.
+Aku benar-benar menikmatinya.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_HAPPY><FP_RIGHT>Festival hari ini harusnya
+kamu berbagi dengan seseo-
+rang yang spesial buatmu.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Tampaknya semakin malam.
+Tadi sudah cukup menyenang-
+kan difestivalnya.<PAGE>Aku hampir melupakan waktu
+yang sudah terlewat itu!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Ha ha. Selamat!<PAGE>Aku sungguh terkesan kepada-
+mu karena sudah menangkap
+sangat banyak.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Jadi kamu menang! Luar
+biasa! Ada sesuatu kompe-
+tisi yang sengit disaat ini.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_LEFT>Selamat atas kemenang-
+anmu!<PAGE>Pergi pulang kerumah.
+Kamu berhak untuk beristi-
+rahat.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_HAPPY><FP_RIGHT>Oh, <MYNAME>!<PAGE>Kamu memenangkan
+<VAR_2>!
+Itu sungguh luar biasa!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_HAPPY><FP_RIGHT>Festival binatang ini
+sangat terkenal.<PAGE>Jadi ini sebuah kebanggaan
+jika memenangkannya!
+Itulah sebuah kebanggaan.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GRADY><FACE_NORMAL><FP_LEFT>Selamat atas kemenanganmu!<PAGE>Aku tidak pernah berpikir
+bahwa kamu bisa melakukan-
+nya...<PAGE>Oh, um, lupakan apa yang
+aku katakan tadi.

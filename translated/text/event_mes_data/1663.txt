@@ -1,0 +1,56 @@
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>Kesalahan!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL><FP_RIGHT>Jadi kamu inginkan sebuah
+stethoscope?<PAGE>Apa bisa aku mendapatkan
+barangnya?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>Kesalahan!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>Kesalahan!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>Sudah didapat. Makasih.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>Kesalahan!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL><FP_RIGHT>Dan sekarang uangnya
+Sebesar <VAR_0>G.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>Kesalahan!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>Kesalahan!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>Kesalahan!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>Kesalahan!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>Kesalahan!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>Kerja bagus!
+Kamu melakukannya dengan
+baik!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL><FP_RIGHT>Aku tahu itu pastinya sulit
+,tapi kamu bisa melakukannya<PAGE><FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY>Aku merasakan baikkan seka-
+rang. Aku tahu kamu akan
+menggunakan ini juga.
+----------------------------|----------------------------------
+<FP_NONE>Kamu mendapatkan sebuah
+<RED>stethoscope</COLOR>!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>Gunakan ini untuk mengecek
+kondisi hewan ternakmu.<PAGE>Dan juga pada hewan pelihara-
+anmu, apa yang mereka pikir-
+kan.<PAGE>Binatang juga punya perasaan,
+jadi yakinkan kamu tidak mem-
+buatnya <RED>stress</COLOR>!<PAGE><FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL>Ayo dicoba dan kamu akan 
+melihat cara kerjanya!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>Terima kasih atas semua ker-
+ja kerasmu!
+Sampai ketemu lagi!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>Kesalahan!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>Kesalahan!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>Kesalahan!</COLOR>

@@ -1,0 +1,17 @@
+<FACE_POS_RIGHT><FACE_RAHI><FACE_NORMAL><FP_RIGHT>そんなとこで、何してるんだ？
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_YING><FACE_NORMAL><FP_LEFT>…ひなたぼっこだよ…。<PAGE>今日は天気が…いいからね。<PAGE><FACE_POS_RIGHT><FACE_RAHI><FACE_NORMAL><FP_RIGHT>そ、そうか。
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RAHI><FACE_HAPPY><FP_RIGHT>きょ…今日は
+時間があるから、いっしょに
+遊んでやってもいいぞ！<PAGE><FACE_POS_RIGHT><FACE_RAHI><FACE_ANGRY><FP_RIGHT>特別なんだからな！！<PAGE><FACE_POS_LEFT><FACE_YING><FACE_NORMAL><FP_LEFT>…いそがしいなら
+ムリしなくても…いいよ。
+１人でも…平気だもん…。<PAGE><FACE_POS_RIGHT><FACE_RAHI><FACE_SAD><FP_RIGHT>うっ…。
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_YING><FACE_NORMAL><FP_LEFT>…それじゃあ…、マオは
+部屋にもどるね…。
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RAHI><FACE_SAD><FP_RIGHT>もっとゆっくり、
+しゃべりたいのになぁ〜…。<PAGE>はぁ…。
+何でいっつもこう
+なっちゃうんだろう…。

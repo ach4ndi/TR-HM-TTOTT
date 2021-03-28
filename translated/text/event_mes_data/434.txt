@@ -1,0 +1,35 @@
+<FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Ternyata, merasa menyenang
+kan jika semuanya kelihatan<PAGE>bersih dan mengkilap seperti
+baru!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_NATHAN><FACE_HAPPY><FP_LEFT>Kamu bekerja dengan giat
+ya hari ini.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_NATHAN><FACE_NORMAL><FP_LEFT>Jiwa yang bersih selalu
+menjaga kebersian rumah, itu
+kata orang-orang sih.<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>Ya, Nathan.
+dan juga...
+<FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Aku hanya menyukai untuk
+bersih-bersih!<PAGE><FACE_POS_LEFT><FACE_NATHAN><FACE_NORMAL><FP_LEFT>Ruangannya terlihat bersih.
+Apa kamu bisa membersihkan
+patung 'Dewi panen'?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_NATHAN><FACE_HAPPY><FP_LEFT>Oh! Kamu benar-benar member-
+sihkan sampai kelihatan
+benar-benar bersih!<PAGE>Aku yakin dewin panen
+akan menyukainya!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Oh, betapa cantiknya dia!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_NATHAN><FACE_NORMAL><FP_LEFT>Ini semuanya karena kamu
+juga, terima kasih ya
+Alisa.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_NATHAN><FACE_HAPPY><FP_LEFT>Kesetiaanmu dan rasa 
+hormat kepada dewi panen 
+sudah diperlihatkan<PAGE>dari hasil kerja dan 
+usahamu<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>Oh, Aku hanya membersihkan
+nya sedikit kok...<PAGE><FACE_POS_LEFT><FACE_NATHAN><FACE_HAPPY><FP_LEFT>Tidak, kamu sudah melakukan
+pekerjaan yang baik!<PAGE><FACE_POS_LEFT><FACE_NATHAN><FACE_NORMAL><FP_LEFT>Sekarang mari kita berikan
+ucapan terima kasih kepada
+dewi panen.<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Iya iya, Nathan.

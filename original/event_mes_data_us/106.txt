@@ -1,0 +1,723 @@
+<FACE_POS_CENTER><HIDE_NAME><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>Now who are you?<PAGE><FACE_POS_CENTER><HIDE_NAME><FACE_GEORGIA><FACE_HAPPY><FP_RIGHT><MYNAME>?
+That's a real nice name.<PAGE><FACE_POS_CENTER><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>I'm <BLUE>Georgia</COLOR>.
+It's a pleasure to meet you.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>Goodness, that was some
+terrible weather yesterday!
+Hope your farm is okay.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>Well, how are you today?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>How's it going?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>How's it going?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GEORGIA><FACE_HAPPY><FP_RIGHT>What a sweet thing!
+I just love animals!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>I don't think it fancies
+me much.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>Well I...a blue feather!?
+For little old me?<PAGE><FACE_POS_CENTER><FACE_GEORGIA><FACE_SHOCK><FP_RIGHT>W-Well now, maybe we should
+go some where to talk this
+over properly...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>So that's a blue feather?<PAGE>I reckon it's got nothing
+to do with me, but whoever
+you give that to is lucky...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>Who's the present for?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GEORGIA><FACE_SHY><FP_RIGHT>Oh, another gift today?
+I simply couldn't...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>Why, what delicious-looking
+chocolate! For Harmony Day?<PAGE><FACE_POS_CENTER><FACE_GEORGIA><FACE_HAPPY><FP_RIGHT>So that's today...
+Well then, thank you kindly.
+
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>Why, is today Harmony Day?
+<PAGE><FACE_POS_CENTER><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>I see. And these are for me?
+But I'm not your wife...<PAGE><FACE_POS_CENTER><FACE_GEORGIA><FACE_HAPPY><FP_RIGHT>Well, if you say so, then
+thank you. I'll accept them.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>Not for me, thank you.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GEORGIA><FACE_HAPPY><FP_RIGHT>Goodness! What delicious
+<RED>fried rice</COLOR>!
+A birthday present for me?<PAGE>Why, thank you!
+I just love this!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GEORGIA><FACE_HAPPY><FP_RIGHT>Oh, why, I just love
+<RED>fried rice</COLOR>!<PAGE><FACE_POS_CENTER><FACE_GEORGIA><FACE_HAPPY><FP_RIGHT>Thank you!
+How thoughtful.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>How's it going?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>How's it going?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GEORGIA><FACE_HAPPY><FP_RIGHT>Thank you.
+I am so pleased you
+remembered my birthday.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>I just love this.
+And you got it for me?<PAGE><FACE_POS_CENTER><FACE_GEORGIA><FACE_HAPPY><FP_RIGHT>Thank you kindly!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>Oh, that's a present?
+I suppose it is my birthday.
+Sweet of you to remember!<PAGE><FACE_POS_CENTER><FACE_GEORGIA><FACE_HAPPY><FP_RIGHT>Thank you kindly!
+You're pretty nice...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>Why, is that for me?<PAGE><FACE_POS_CENTER><FACE_GEORGIA><FACE_HAPPY><FP_RIGHT>Thank you kindly.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>Oh, that's...a present?
+I suppose it is my birthday.
+But...<PAGE><FACE_POS_CENTER><FACE_GEORGIA><FACE_SHY><FP_RIGHT>I don't much care for this.
+Be more thoughtful next
+time.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GEORGIA><FACE_SHY><FP_RIGHT>Is that for me, now?<PAGE><FACE_POS_CENTER><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>I wish I could refuse it,
+but I suppose I can't...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GEORGIA><FACE_ANGRY><FP_RIGHT>I hate roasted eggplant.
+Didn't you know that?
+<PAGE><FACE_POS_CENTER><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>I'll take it since you've
+gone to the trouble, but
+be more careful next time.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>How's it going?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GEORGIA><FACE_HAPPY><FP_RIGHT>How's it going?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>How's married life?
+It seems like it would be
+a lot of fun...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GEORGIA><FACE_SHY><FP_RIGHT>You'd best stay in the house
+during a typhoon like this.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>This's some snow we're
+having. It's hard to get
+any work done.<PAGE><FACE_POS_CENTER><FACE_GEORGIA><FACE_HAPPY><FP_RIGHT>Maybe I'll go make
+a snowman... 
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>You know me so well,
+<MYNAME>.
+<PAGE>I hope you stay here in
+the village forever.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>Want to hear something neat?<PAGE>If you're close to your dog,
+it'll help herd your
+animals.<PAGE> Big dogs will help with
+cows, and small dogs will
+help with alpaca.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>Want to hear something neat?<PAGE>If you get close to your
+cat, it will help herd your
+chickens. It's true.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>Want to hear something neat?<PAGE>Your owl can carry you
+from the mountaintop to
+either of the villages.<PAGE>It's so handy.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>Brushing is important if you
+want to get along with your
+animals.<PAGE>Of course, you also need to
+feed them and let them out
+to play.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>All our animals are fit as
+a fiddle.<PAGE>And they're all so sweet. I
+hate to see them go, but
+you're welcome to buy one.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>You can rent horses here.
+Just make sure you take
+good care of them.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>How's it going?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GEORGIA><FACE_ANGRY><FP_RIGHT>Don't you have something
+to say to me?
+----------------------------|----------------------------------
+<CHOICE_AB> I'm sorry.
+ Not really.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>Well, since you apologize...<PAGE><FACE_POS_CENTER><FACE_GEORGIA><FACE_HAPPY><FP_RIGHT>Okay, I forgive you.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>Is that so?
+Goodbye, then.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>How's it going?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>My, what terrible weather
+we had yesterday. I'm so
+glad everyone was alright.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>How's it going?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>How's it going?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>How's it going?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>How's it going?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>Why, I didn't expect to get
+this now that we're married.<PAGE><FACE_POS_CENTER><FACE_GEORGIA><FACE_HAPPY><FP_RIGHT>You're such a romantic.
+Thank you!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>My, does this fried rice
+look tasty!
+It's a birthday present?<PAGE>I'm so glad you remembered.
+Thank you! I'm so lucky.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>Goodness...
+Is that for me?<PAGE><FACE_POS_CENTER><FACE_GEORGIA><FACE_HAPPY><FP_RIGHT>You remembered what I like.
+Thank you...
+
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>Hey, <MYNICKNAME>.
+Why don't we go for a walk
+together once in a while?
+----------------------------|----------------------------------
+<CHOICE_AB> Okay, let's go now.
+ Not today.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>If you don't feel like it,
+we can go another day...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>How's it going?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GEORGIA><FACE_SHY><FP_RIGHT>I hate roasted eggplant.
+Didn't you know that?<PAGE>And on my birthday...
+This is awful...
+But I guess I'll take it.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>Why, is this for me?<PAGE><FACE_POS_CENTER><FACE_GEORGIA><FACE_SHY><FP_RIGHT>But I hate roasted eggplant.
+You should really remember
+what foods your wife likes.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>I can't believe we're going
+to have a baby...
+
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>I'm going to be a mother
+soon...
+I hope I'll be a good one...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>You're going to be a father
+soon. I know you're going
+to be a great one.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GEORGIA><FACE_HAPPY><FP_RIGHT>I'm so happy to be with
+you every single day...
+
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>You always work so hard, but
+remember to take care of
+yourself, now.<PAGE>Don't forget to take
+a break when you need one.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>You should go to bed. You've
+got to get up early.<PAGE>Don't worry about me. I'll
+come to bed shortly...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>Shetland ponies are the
+hardest working horses.
+Then come thoroughbreds.<PAGE>Ponies are cute, but they
+aren't good workers.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>I'd love an owl for a pet.
+<PAGE>It would be amazing to be
+carried from the
+mountaintop.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>Now that we're married, it's
+important for us to share
+all the household tasks.<PAGE>Work always goes quicker
+with two people...
+
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT><MYNICKNAME>, are you
+satisfied with our marriage?<PAGE><FACE_POS_CENTER><FACE_GEORGIA><FACE_HAPPY><FP_RIGHT>I know I am. Sometimes I'm
+not sure about you, though.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>It's so boring sitting
+around the house all day.<PAGE>Is this how marriage is
+supposed to be?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>You've really changed since
+we got married...<PAGE><FACE_POS_CENTER><FACE_GEORGIA><FACE_SAD><FP_RIGHT>We never talk anymore...
+I'm so lonely.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GEORGIA><FACE_ANGRY><FP_RIGHT>You know why I'm mad, right?
+
+----------------------------|----------------------------------
+<CHOICE_AB> I'm sorry. Don't be mad.
+ No, why?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>Well, I suppose since you've
+apologized...
+I forgive you.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GEORGIA><FACE_SHY><FP_RIGHT>You jerk! I know you
+know why...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>Are you going to use that at
+the <VAR_0>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>How's it going?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>How's it going?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GEORGIA><FACE_HAPPY><FP_RIGHT>What a sweet face...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GEORGIA><FACE_HAPPY><FP_RIGHT>You ought to let this one
+go.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>What a sweet face...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>What a sweet face...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GEORGIA><FACE_HAPPY><FP_RIGHT>Why, you're looking mighty
+sharp today! Nice outfit!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>Are you free today?
+Maybe we could talk
+for a spell?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>Are you free?
+Want to go for a little
+walk with me?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>Are you free today?
+Maybe we could talk
+for a spell...
+----------------------------|----------------------------------
+<CHOICE_AB> Sure, I've got time.
+ I'm busy right now.
+----------------------------|----------------------------------
+<CHOICE_AB> Sure, I've got time.
+ I'm busy now.
+----------------------------|----------------------------------
+<CHOICE_AB> Yeah, okay.
+ Not right now.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>How's it going?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>How's it going?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GEORGIA><FACE_SHOCK><FP_RIGHT>Oh, never mind if you're
+busy, then...
+Maybe some other time.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GEORGIA><FACE_SHY><FP_RIGHT>Oh, okay...
+Maybe when you're free...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>Just let me know when
+you feel like hanging out.
+
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GEORGIA><FACE_HAPPY><FP_RIGHT>What a pretty flower.
+Oh, a present for Flower
+Day? Thank you.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GEORGIA><FACE_HAPPY><FP_RIGHT>What a pretty flower.
+Thank you, <MYNICKNAME>.
+You're the sweetest.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>Say now, <MYNAME>.
+About the Starry Night
+Festival tomorrow...<PAGE>Want to go with me?
+----------------------------|----------------------------------
+<CHOICE_AB> Yeah, sure.
+ No thanks.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GEORGIA><FACE_HAPPY><FP_RIGHT>Really?
+Thank you! I'm so happy!<PAGE>Well, I'll see you at 8 PM
+at Town Hall. I can't wait.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>Oh, I see.
+Never mind, then...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GEORGIA><FACE_HAPPY><FP_RIGHT>I can't wait for tomorrow's
+Starry Night Festival.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GEORGIA><FACE_HAPPY><FP_RIGHT>My, how pretty...
+I wonder what's inside?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>You're such a sweet girl.
+I'm always happy to talk
+with you.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>How's it going?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>I thought we might be able
+to talk for a spell...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GEORGIA><FACE_HAPPY><FP_RIGHT>I always play with the
+animals on my day off.<PAGE>Do you give your animals
+plenty of attention?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>Didn't I do well? I'm real
+good at catching fish. I bet
+I'll win next year, too.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>We're a little busy, but
+make yourself at home.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GEORGIA><FACE_HAPPY><FP_RIGHT>I thought I'd take a walk
+since it's my day off.<PAGE>But I couldn't stop
+wondering how the horses
+were doing.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>I thought I'd take a walk
+since it's my day off, but
+the weather's not so great.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>I come here every day to
+see to the horses.<PAGE>Aren't they sweet?
+I could look at them
+forever...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>Oh, where are you off to?
+
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>How's it going?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>How's it going?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>How's it going?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>How's it going?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>How's it going?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>How's it going?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>How's it going?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>You should enter the
+Cooking Festival for this
+village next time.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>Didn't I do well? I'm real
+good at catching fish. I bet
+I'll win next year, too.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GEORGIA><FACE_HAPPY><FP_RIGHT>The Cooking Festival was so
+much fun today!<PAGE>I hope you'll cook something
+to enter next time.
+I'm looking forward to it.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>How's it going?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>How's it going?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>I'm sorry about the Cooking
+Festival today.
+Better luck next time.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>How's it going?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>I'm sorry about today.
+But don't worry, there's
+always next year...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GEORGIA><FACE_HAPPY><FP_RIGHT>Today's the
+<VAR_0>.I can't wait...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>So I heard you didn't
+enter today's
+<VAR_0>.<PAGE>That's a shame.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>How's it going?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>I'm real sorry about today.
+I though your <VAR_2>
+was real fine...<PAGE>I'm sure you'll win next
+time.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>How's it going?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>How's it going?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_GEORGIA><FACE_HAPPY><FP_LEFT>Welcome home,
+<MYNICKNAME>!<PAGE>I worked really hard to cook
+a meal for your birthday.
+<PAGE><FACE_POS_LEFT><FACE_GEORGIA><FACE_NORMAL><FP_LEFT>Now come and sit down!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_HAPPY><FP_RIGHT>I think it came our real
+well.<PAGE><FACE_POS_RIGHT><FACE_GEORGIA><FACE_SHOCK><FP_RIGHT>I worked really hard on it.
+I hope you like it.
+<PAGE><FACE_POS_RIGHT><FACE_GEORGIA><FACE_HAPPY><FP_RIGHT>Happy birthday!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_GEORGIA><FACE_NORMAL><FP_LEFT>Welcome home,
+<MYNICKNAME>.<PAGE>It's our birthday today.
+
+<PAGE><FACE_POS_LEFT><FACE_GEORGIA><FACE_HAPPY><FP_LEFT>I worked really hard on this
+meal so we could celebrate.<PAGE>Come and sit yourself down.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_HAPPY><FP_RIGHT>I think it came out pretty
+well today.<PAGE><FACE_POS_RIGHT><FACE_GEORGIA><FACE_SHOCK><FP_RIGHT>I worked real hard on this
+so we could eat together.
+<PAGE><FACE_POS_RIGHT><FACE_GEORGIA><FACE_HAPPY><FP_RIGHT>Now let's eat before
+it gets cold...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_GEORGIA><FACE_HAPPY><FP_LEFT>Welcome home,
+<MYNICKNAME>.<PAGE>Today's my birthday!
+You remembered right?
+<PAGE><FACE_POS_LEFT><FACE_GEORGIA><FACE_NORMAL><FP_LEFT>Now come and sit on down!
+Let's celebrate!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_HAPPY><FP_RIGHT>Well?
+I worked real hard on it...<PAGE><FACE_POS_RIGHT><FACE_GEORGIA><FACE_SHOCK><FP_RIGHT>I was so looking forward
+to celebrating with you...
+<PAGE><FACE_POS_RIGHT><FACE_GEORGIA><FACE_HAPPY><FP_RIGHT>Now eat up!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_GEORGIA><FACE_HAPPY><FP_LEFT>Welcome home,
+<MYNICKNAME>.<PAGE>Did you remember today is
+\u2337's birthday?
+<PAGE><FACE_POS_LEFT><FACE_GEORGIA><FACE_NORMAL><FP_LEFT>Now come and sit on down!
+Let's all celebrate!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_HAPPY><FP_RIGHT>Look at our sweet darling.
+Before we know it, our child
+will be all grown up!<PAGE><FACE_POS_RIGHT><FACE_GEORGIA><FACE_SHOCK><FP_RIGHT>Let's do our best to raise
+\u2337 right!
+
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_GEORGIA><FACE_HAPPY><FP_LEFT>Welcome home,
+<MYNICKNAME>.<PAGE><FACE_POS_LEFT><FACE_GEORGIA><FACE_NORMAL><FP_LEFT>Today's \u2337's
+birthday!
+You remembered now, right?<PAGE><FACE_POS_LEFT><FACE_GEORGIA><FACE_HAPPY><FP_LEFT>Come on and sit yourself
+down! It's time to
+celebrate!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>I think my cooking has
+gotten a little better.<PAGE>I've got a good feeling
+about today's meal.<PAGE><FACE_POS_RIGHT><FACE_GEORGIA><FACE_HAPPY><FP_RIGHT>Now eat up, y'all!
+<PAGE>Happy birthday,
+\u2337.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_GEORGIA><FACE_HAPPY><FP_LEFT>Welcome home,
+<MYNICKNAME>!<PAGE><FACE_POS_LEFT><FACE_GEORGIA><FACE_NORMAL><FP_LEFT>I made us a nice meal here
+since it's our anniversary.
+<PAGE><FACE_POS_LEFT><FACE_GEORGIA><FACE_HAPPY><FP_LEFT>Now come and sit down!
+We have to celebrate!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>Why, I can't believe it's
+been so long since we got
+hitched...<PAGE><FACE_POS_RIGHT><FACE_GEORGIA><FACE_SHOCK><FP_RIGHT>I love you, <MYNICKNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>How's it going?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>How's it going?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>How's it going?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>How's it going?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>How's it going?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>How's it going?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>How's it going?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GEORGIA><FACE_HAPPY><FP_RIGHT>I'm so excited for the
+<VAR_0>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>How's it going?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>How's it going?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>How's it going?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>How's it going?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>How's it going?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>How's it going?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>How's it going?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>How's it going?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>How's it going?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>How's it going?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>How's it going?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>How's it going?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>How's it going?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>How's it going?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>How's it going?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>How's it going?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>How's it going?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>How's it going?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>How's it going?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GEORGIA><FACE_HAPPY><FP_RIGHT>Good morning, <MYNAME>!
+How are things today?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GEORGIA><FACE_HAPPY><FP_RIGHT>Morning!
+Good luck with work!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GEORGIA><FACE_HAPPY><FP_RIGHT>Morning!
+You always look fit as
+a fiddle...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>You look busy today,
+<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GEORGIA><FACE_HAPPY><FP_RIGHT>Howdy, <MYNAME>.
+What are you up to?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GEORGIA><FACE_HAPPY><FP_RIGHT>Hiya there, <MYNAME>.
+Good luck with work!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>Evening!
+You're working late...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>Evening there, <MYNAME>.
+Finish all your work today?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>Evening! Not still working,
+are you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GEORGIA><FACE_HAPPY><FP_RIGHT>So we'll be married soon...
+And then I'll be a wife...
+<PAGE><FACE_POS_CENTER><FACE_GEORGIA><FACE_SHOCK><FP_RIGHT>I feel so lucky!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>After we're married, my
+father will be on his own.
+I hope he's not too lonely.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GEORGIA><FACE_SHOCK><FP_RIGHT>When we get married,
+can I call you darling?
+
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>Talk to my father if you're
+looking to buy a pet.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>You can order something
+at the counter from my
+father.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>You can rent horses here.
+But you take good care of
+them, you hear?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>How's it going?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>How's it going?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>How's it going?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>I just love this village.
+
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>Do you like it here too?<PAGE>Why don't you stay for
+a spell?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>I just find it so
+relaxing here...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GEORGIA><FACE_HAPPY><FP_RIGHT>Good morning.
+You're looking well...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GEORGIA><FACE_HAPPY><FP_RIGHT>Good morning!
+I trust you slept well?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>Good morning, <MYNICKNAME>.
+Let's have a good day today!
+
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>Oh, <MYNICKNAME>.
+It's past noon...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT><MYNICKNAME>, what is it?
+It's after noon...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>Oh, <MYNICKNAME>.
+Are you not working today?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT><MYNICKNAME>, I can't believe
+it's already night time...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>Look at the time...
+The days just fly by...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>Why, we haven't spoken at
+all yet today. You must've
+been busy...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GEORGIA><FACE_HAPPY><FP_RIGHT>Good work at the Cooking
+Festival...<PAGE>Our village won because
+of you!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GEORGIA><FACE_HAPPY><FP_RIGHT>Congratulations, <MYNAME>.
+Your food looked mighty
+tasty...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GEORGIA><FACE_HAPPY><FP_RIGHT>I had so much fun at the
+Cooking Festival today...<PAGE>There are so many good cooks
+in this village.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>How's it going?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>How's it going?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>How's it going?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>Congratulations!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>Congratulations!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>Congratulations!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GEORGIA><FACE_HAPPY><FP_RIGHT>I had so much fun at the
+<VAR_0>
+today!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GEORGIA><FACE_HAPPY><FP_RIGHT>I had so much fun today!
+And tomorrow it's back to
+work...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>I just love it when we all
+get together like that...
+
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GEORGIA><FACE_HAPPY><FP_RIGHT>So you won the
+<VAR_0>?
+<PAGE>Congratulations!
+Good work there!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GEORGIA><FACE_HAPPY><FP_RIGHT>Congratulations!
+It's real impressive to win
+the Hand Fishing Contest!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>Good work today.
+I tried my hardest, but I
+couldn't beat you.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GEORGIA><FACE_HAPPY><FP_RIGHT>Congratulations!
+You sure raised a fine
+<VAR_2> there!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GEORGIA><FACE_HAPPY><FP_RIGHT>Congratulations on winning
+the Animal Festival!
+I'm impressed!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>It's quite a feat to
+win the Animal Festival
+in this village...

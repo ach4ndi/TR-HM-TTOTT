@@ -1,0 +1,843 @@
+<FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT>Pada tahun ini, bunga
+sakuranya bermekaran
+dengan sempurna.<PAGE><FACE_POS_LEFT><FACE_INA><FACE_HAPPY><FP_LEFT>Ayo pergi berpiknik dan
+nikmati keindahannya!<PAGE><FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT>Dan dikarenakan semuanya
+sudah membawa makanan, maka
+banyak makanan yang disantap!
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Ooh, salad yang enak!<PAGE><FACE_POS_LEFT><FACE_REINA><FACE_HAPPY><FP_LEFT>Ho-ooh, memang ini enak.
+Sayur-sayuran yang dipakai
+memang berkualitas tinggi.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT><MYNAME>, apakah sayurannya
+ini dipetik dari perkebunan-
+mu?<PAGE><FACE_POS_LEFT><FACE_INA><FACE_HAPPY><FP_LEFT>Karena sayurannya tanpa
+bumbu saja sudah enak dan
+segar!<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_HAPPY><FP_RIGHT>Lezat, dan banyak mengandung
+vitaminnya! Ini cocok untuk
+mencukupi nutrisimu.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_KANA><FACE_NORMAL><FP_LEFT>Ini cukup keren, bunga sakura
+bermerakan ini merupakan
+pemandangan yang bagus di<PAGE>tahun ini.<PAGE><FACE_POS_LEFT><FACE_KANA><FACE_HAPPY><FP_LEFT>Jantungmu bakal berdetak
+kencang jika berada dibawah
+pohon sakuranya!<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>Sekarang, Kana, kamu harus me-
+makan sayur-sayuran ya!<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Maksudku, <MYNAME> sudah mem-
+buat salad yang sangat enak
+loh!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_HAPPY><FP_RIGHT>Sayur-sayuran yang tumbuh di
+perkebunan <MYNAME>, memang enak.
+itu faktanya.<PAGE><FACE_POS_LEFT><FACE_INA><FACE_HAPPY><FP_LEFT>Jadi tidak diragukan lagi,
+kamu bisa mencicipinya dari
+hasil kerja kerasmu!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_HAPPY><FP_RIGHT>Bunga sakura memang menjadi
+sebuah pemendangan yang
+indah disaat bermekaran.<PAGE>Dimana dalam setahun hanya
+sekali ini saja bisa melihat
+pemandangan yang bagus ini.<PAGE><FACE_POS_LEFT><FACE_KANA><FACE_HAPPY><FP_LEFT>Dan juga cuacanya cocok
+untuk pergi berpiknik di
+bawah pohon sakura!
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_YING><FACE_HAPPY><FP_LEFT>Bunganya...
+...sangat cantik.<PAGE><FACE_POS_RIGHT><FACE_RAHI><FACE_HAPPY><FP_RIGHT>Memang cantik kok!
+Dan sangat cantik!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_GOMBE><FACE_NORMAL><FP_LEFT>nyam... nyam nyam!
+Sayuran yang <MYNAME>
+tanam..\u270a...<PAGE><FACE_POS_LEFT><FACE_GOMBE><FACE_HAPPY><FP_LEFT>Kesemuanya itu berasal dari
+hasil kerja kerasmu di
+kebunmu, hmmm?<PAGE><FACE_POS_RIGHT><FACE_YUN><FACE_HAPPY><FP_RIGHT>Dan, itu sama bagusnya
+dengan kualitas sayuranmu
+Gombe!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_AYAME><FACE_HAPPY><FP_RIGHT>Sayuran segar itu sangat
+bagus untuk kesehatanmu!
+Jadi makan! makan!<PAGE><FACE_POS_RIGHT><FACE_MAKO><FACE_HAPPY><FP_RIGHT>Please deh dokter Ayame,
+lihat dirimu juga, bantu
+dirimu sendiri!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_GOMBE><FACE_HAPPY><FP_LEFT>Ah, ditahun ini bunga
+sakuranya cantik bener!
+itu membuatku kelaparan!<PAGE><FACE_POS_RIGHT><FACE_AYAME><FACE_HAPPY><FP_RIGHT>Jangan mikir makan terus,
+Gombe! Inget umur!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_YUN><FACE_HAPPY><FP_LEFT>Makan, Ying, makan!
+Makan yang banyak sayur
+yang tumbuh di Konohana!<PAGE>Kamu akan sehat selalu
+nantinya!<PAGE><FACE_POS_RIGHT><FACE_YING><FACE_HAPPY><FP_RIGHT>Terima kasih, nek....
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_HAPPY><FP_RIGHT>Pada tahun ini, bunga
+sakuranya bermekaran
+dengan sempurna.<PAGE>Terlihat sangat mewah
+ini jadinya...<PAGE><FACE_POS_LEFT><FACE_KANA><FACE_HAPPY><FP_LEFT>Ini bukanlah musim semi
+jika tidak adanya acara
+piknik seperti ini!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_REINA><FACE_HAPPY><FP_LEFT>Sup ini sangat lezat.
+Apa <MYNAME> 
+yang membuatnya?<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Ooh, ini benar-benar lezat!
+<MYNAME>, kamu memang
+seorang pemasak yang handal!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Supnya terasa sangat enak.
+Ayo dicoba, coba aja.<PAGE><FACE_POS_LEFT><FACE_INA><FACE_HAPPY><FP_LEFT>Aku juga ingin mencobanya!
+Makasih ya, Nori!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_KANA><FACE_HAPPY><FP_LEFT>Makanan terasa lebih enak
+disaat berpiknik dibawah
+pohon sakura bermekaran!<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>Aku setujuh, tapi disaat kamu
+sedang makan, kamu akhirnya
+terlalu banyak makan.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_INA><FACE_HAPPY><FP_LEFT>Sungguh leganya bahwa piknik
+ini terlaksana tanpa ada
+halangan yang berarti!<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_HAPPY><FP_RIGHT>Ya. terima kasih dewi,
+saat ini tidak ada satupun
+tanda akan turun hujan!
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_YUN><FACE_HAPPY><FP_LEFT>owo, owo, supnya sepertinya
+berasa...
+Siapa yang buat ini?<PAGE><FACE_POS_RIGHT><FACE_AYAME><FACE_HAPPY><FP_RIGHT>Sangat lezat! Dan sakuranya
+memang menyenangkan. Dan
+kurasa pikniknya sukses!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_AYAME><FACE_HAPPY><FP_RIGHT>Ying, apa mau makan
+sup? Ini lezat loh!<PAGE><FACE_POS_LEFT><FACE_YING><FACE_HAPPY><FP_LEFT>Terima kasih...
+Dokter Ayame...
+kayak sales aja :v
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_GOMBE><FACE_HAPPY><FP_LEFT>Sakuranya bermekaran!
+Aku harap tahun ini 
+hasil panennya berlimpah, hmm!<PAGE><FACE_POS_RIGHT><FACE_RAHI><FACE_HAPPY><FP_RIGHT>Aku yakin hasil panenmu
+banyak, Gombe. Pastinya
+kamu selalu begitu kan?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MAKO><FACE_HAPPY><FP_RIGHT>Aku nyatakan sup ini
+sangat enak! Aku bakalan
+makan sup ini sepanjang<PAGE>hari, saat ini sampai
+malam ini.<PAGE><FACE_POS_LEFT><FACE_YUN><FACE_HAPPY><FP_LEFT>Hmm.. sepertinya Mako
+sangat menikmatinya!<PAGE>Sisakan buat yang lainnya
+ya.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RAHI><FACE_HAPPY><FP_RIGHT>Piknik dibawa pohon sakura
+ini menyenangkan ya!<PAGE>Apa kamu menikmati juga
+Ying?<PAGE><FACE_POS_LEFT><FACE_YING><FACE_HAPPY><FP_LEFT>Uh-huh...
+Memang bunga bermekaran itu
+indah dan makanannya juga...
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_REINA><FACE_HAPPY><FP_LEFT>Aku bersyukur bisa melihat
+bunga sakura bermekaran
+seperti ini ditahun ini.<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Apakah pemandangan ini benar-
+benar indah? Ditambah masakan
+<MYNAME> yang sangat enak!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_KANA><FACE_HAPPY><FP_LEFT>Bunga sakura memang keren,
+tapi buatku makanan adaah
+hal yang terpenting!<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_HAPPY><FP_RIGHT>Pastinya! Tanpa adanya
+makanan yang bisa dimakan,
+kesenangan melihat bunga<PAGE>saku belumlah lengkap!
+hehehe
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_INA><FACE_HAPPY><FP_LEFT>Masakan yang hebat, <MYNAME>!
+Makanannya sangat leezat!<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Ooh, benar juga!
+Seperti masakanku saja!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_HAPPY><FP_RIGHT>Makanannya memang lezat dan
+terlebih lagi banyak yang
+bisa dimakan!<PAGE>Makanan seperti ini, bakalan
+mengundang berbagai penyakit
+jika memakannya berlebihan...<PAGE><FACE_POS_LEFT><FACE_KANA><FACE_HAPPY><FP_LEFT>Jadi lalu apa kita lakukan,
+Hiro? Kamukan seorang dokter
+juga, apa bisa memberikan<PAGE>obat-obatan jika kita-kita
+sakit karena kebanyakan
+makan :v
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Betapa menyenangkan, dan
+beruntungnya hari ini
+cuacanya cerah.<PAGE><FACE_POS_LEFT><FACE_INA><FACE_HAPPY><FP_LEFT>Cuacanya tidak pernah meng-
+ganggu piknik kita!
+Sepertinya sesuai keinginanku!
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_GOMBE><FACE_HAPPY><FP_LEFT>... ... ... ... !
+Bunga sakura yang cantik
+dan makanan yg enak, hmm?<PAGE><FACE_POS_RIGHT><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Kue sebelum melihat bunga
+...<PAGE><FACE_POS_RIGHT><FACE_MAKO><FACE_HAPPY><FP_RIGHT>Kelihatan tidak ada
+masalah apa-apa kalau
+kulihat. hehehe
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RAHI><FACE_HAPPY><FP_RIGHT>Makanan ini sangat lezat.
+Ayo Ying, ayo coba.<PAGE><FACE_POS_LEFT><FACE_YING><FACE_HAPPY><FP_LEFT>......\u270a
+Mmm... sangat lezat.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_AYAME><FACE_HAPPY><FP_RIGHT>Ini memang lezat!
+Apakah kamu yang buat,
+Yun?<PAGE><FACE_POS_LEFT><FACE_YUN><FACE_HAPPY><FP_LEFT>Bukan...bukan aku.
+Tapi <MYNAME> yang buat,
+jika tidak salah...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_YUN><FACE_HAPPY><FP_LEFT>Apakah ini terasa enak, Ying?
+Ada banyak loh, sayang jadi
+makan sebanyak-banyaknya.<PAGE><FACE_POS_RIGHT><FACE_YING><FACE_HAPPY><FP_RIGHT>Uh-huh...
+Terima kasih...nek...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_GOMBE><FACE_HAPPY><FP_LEFT>Apakah kamu sedang makan,
+Rahi, hmmm?<PAGE>Seorang bocah laki-laki 
+harus makan banyak untuk
+tumbuh besar dan kuat.<PAGE><FACE_POS_RIGHT><FACE_RAHI><FACE_HAPPY><FP_RIGHT>Ya, aku akan memakan
+beberapanya, makasih.<PAGE>Itu terlihat bagus sampai-
+sampai tidak bisa berhenti
+memakannya!
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_KANA><FACE_HAPPY><FP_LEFT>Makanan terasa lebih enak
+jika disantap secara
+berpiknik dibawah pohon<PAGE>sakura seperti ini!<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_HAPPY><FP_RIGHT>Sangat enak ya!
+Aku takut kadar gula
+darahku naik...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>leeee...zaaaat!
+Aku memakannya sampai
+tidak tersisa seperti ini.<PAGE><FACE_POS_LEFT><FACE_REINA><FACE_HAPPY><FP_LEFT>Sama disini juga. Disaat
+aku melihat bunganya, aku
+terasa seperti diri sendiri<PAGE>yang tidak memikirkan
+sesuatu yang menggelikan.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_INA><FACE_HAPPY><FP_LEFT>Festival bunga sakura tahun
+ini berjalan sukses!<PAGE>Semua orang membawakan
+makanan yang lezat lezat!<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Sepertinya mekarnya bunga
+sakura menjadi iconic ya!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_HAPPY><FP_RIGHT>Bunga mekar memang menjadi
+pemandangan fenomenal, seperti
+dithailand kolam air hitam...<PAGE>dan juga makanannya sungguh
+menggugah selerah makanku.
+Seperti disurga... dunia :v<PAGE><FACE_POS_LEFT><FACE_REINA><FACE_HAPPY><FP_LEFT>Aku seharusnya berterima
+kasih kepada bunga sakuranya
+yang bisa membawa kita<PAGE>semua berkumpul bersama
+seperti ini. dan juga peman-
+dangan yang menyenangkan ini!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_INA><FACE_HAPPY><FP_LEFT>Whoo...\u270a
+Makanannya sunggu enak,<PAGE>sampai-sampai berapa banyak
+yang aku makan yang mele-
+bihi makanan sehari-hariku!<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Aku juga!
+Sekarang kita hanya butuh
+santai dan melihat bunganya.
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_AYAME><FACE_HAPPY><FP_RIGHT>Bunga yang cantik dan makanan
+yang enak! Itu ....
+semuanya...!<PAGE><FACE_POS_LEFT><FACE_YUN><FACE_HAPPY><FP_LEFT>Sepertinya semua orang me-
+miliki waktu masa-masa
+muda yang indah.<PAGE>Aku senang jika kita
+mewujudkannya!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_GOMBE><FACE_HAPPY><FP_LEFT>nyam... nyam... nyam...
+Siapa yang memiliki waktu
+untuk menyiapkan makanan ini?<PAGE><FACE_POS_RIGHT><FACE_MAKO><FACE_HAPPY><FP_RIGHT>Sifat rakusmu itu yang perlu
+dipertanyakan. Seperti seorang
+yang 50 tahun lebih muda...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_YUN><FACE_HAPPY><FP_LEFT>Apakah makanan ini enak, 
+Ying? tidak perlu memandang
+nya saja.<PAGE><FACE_POS_RIGHT><FACE_YING><FACE_HAPPY><FP_RIGHT>Uh-uh...
+Jangan khawatir...
+...nek.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RAHI><FACE_HAPPY><FP_RIGHT>Makanan ini terasa super!
+Aku akan memakannya
+sepanjang hari!<PAGE><FACE_POS_LEFT><FACE_GOMBE><FACE_HAPPY><FP_LEFT>Ah, anak ini tipe yang
+"lebih banyak memakan sebelum
+memandang"!<PAGE>Jangan dihabisin sendirian!
+Orang tua ini juga ingin
+makan!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_AYAME><FACE_HAPPY><FP_RIGHT>Ayo makan, Mako.
+Makanannya benar-benar
+lezat loooh.<PAGE><FACE_POS_RIGHT><FACE_MAKO><FACE_HAPPY><FP_RIGHT>Ho ho ho ho, jangan diingat-
+kan juga aku memakannya
+juga kok dokter :v
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Ooh, so sweeet!<PAGE>Apa lebih baik jika bunga-
+bunga tersebut bermekaran
+sepanjang tahun saja?<PAGE>Sepertinya boleh juga untuk
+memintahnya kepada dewi!<PAGE><FACE_POS_LEFT><FACE_REINA><FACE_HAPPY><FP_LEFT>Pastinya itu pasti keren.
+Tapi... apa tidak bosen ya?<PAGE>Aku malah kepengen mekar-
+nya agak lebih lama gitu.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_KANA><FACE_HAPPY><FP_LEFT>Untuk piknik bunga sakura,
+pastinya kamu memiliki
+kue kue manis!<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_HAPPY><FP_RIGHT>Sepertinya itu enak dimakan!
+Aku pastinya memakannya.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_INA><FACE_HAPPY><FP_LEFT>Setiap tahunnya, orang-orang
+membawa banyak sekali
+makanan.<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_HAPPY><FP_RIGHT>Dari kesemuanya itu,
+makanan yang manis seperti
+kue bola Yun yang terbaik.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_HAPPY><FP_RIGHT>Mekarnya bunga sakura itu
+sungguh indah ya, apa kamu
+setuju?<PAGE>Aku tidak pernah lelah
+untuk memandangnya.<PAGE><FACE_POS_LEFT><FACE_KANA><FACE_NORMAL><FP_LEFT>Apa kamu tidak memakannya,
+Reina? Jika kamu melamun
+makanan yang ada akan habis!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Mekarnya bunga sakura pada
+tahun ini bener-bener
+menyenangkan!<PAGE>Aku pastikan tahun ini
+akan menjadi tahun yang
+hebat!<PAGE><FACE_POS_LEFT><FACE_INA><FACE_HAPPY><FP_LEFT>Jika kamu mengatakan itu,
+akan menjadi terhebat!<PAGE>Karena warga desa ini
+semuanya hebat-hebat!
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RAHI><FACE_HAPPY><FP_RIGHT>Wow, makanannya benar-
+benar terasa sangat-sangat
+lezat!<PAGE><FACE_POS_RIGHT><FACE_YING><FACE_HAPPY><FP_RIGHT>Manis dan kenyal.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_YUN><FACE_HAPPY><FP_LEFT>Sepertinya orang-orang kurang
+piknik nih, dilihat-lihat
+semuanya bergembira!<PAGE><FACE_POS_RIGHT><FACE_MAKO><FACE_HAPPY><FP_RIGHT>Itu semuanya karena makanan
+yang kamu buat. Siapa sih
+yang tidak mau menerimanya?<PAGE>hehehe
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_GOMBE><FACE_HAPPY><FP_LEFT>Ah, bunga mekar tahun ini,
+sungguh menawan! Tapi tidak
+semenawan dokter Ayame, hmm?<PAGE><FACE_POS_RIGHT><FACE_AYAME><FACE_HAPPY><FP_RIGHT>Tee-hee...\u270a
+Gombe, jangan ngeGombel ya!!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_AYAME><FACE_HAPPY><FP_RIGHT>Lihat itu yang warna-warni!
+Apakah kamu suka dengan
+bunga sakura, Ying?<PAGE><FACE_POS_LEFT><FACE_YING><FACE_HAPPY><FP_LEFT>Uh-huh...
+sungguh ....
+...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_GOMBE><FACE_HAPPY><FP_LEFT>Ah, Mako! Tolong mengalahlah
+kepada orang tua ini untuk
+makanan itu, hmmm?<PAGE><FACE_POS_RIGHT><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Kamu pastinya menyukainya
+kan? Mau berapa banyak sih?
+:v
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_HAPPY><FP_RIGHT>Bukankah ini menyenangkan?<PAGE>Ini benar-benar nyaman untuk
+pergi berpiknik diruangan
+terbuka! <PAGE><FACE_POS_LEFT><FACE_KANA><FACE_HAPPY><FP_LEFT>Oh ya bener, btw, apa
+kamu bisa mengisi ulang
+minuman ini untukku?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_INA><FACE_HAPPY><FP_LEFT>Aku harapkan semua warga
+desa Konoha na, akan berkem-
+bang seperti bunga sakura di<PAGE>tahun ini.
+banzaii!<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Pastinya tahulah kan mereka
+pasti akan melakukannya!<PAGE>Karena bunga sakura pada
+festival ini menjadi
+sebuah inspirasi!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_REINA><FACE_HAPPY><FP_LEFT>Begitu cantiknya...
+Tanaman ternyata cantik juga
+...<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_HAPPY><FP_RIGHT>Reina, ketertarikanmu ter-
+hadap tanaman ini sungguh
+luar biasa!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>oouu, Kana, biarkan aku 
+yang mengisikan minuman
+untukmu!<PAGE><FACE_POS_LEFT><FACE_KANA><FACE_HAPPY><FP_LEFT>Bagus! Nori, kamu selalu 
+tampak keren disaat 
+membantu orang-orang.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_REINA><FACE_SHOCK><FP_LEFT>Whew...\u270a
+Aku jadi ngantuk, kalau
+memandangnya terus-terusan!<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>Apa kamu baik-baik saja,
+Reina? Apa kamu ingin
+tidur disini?<PAGE><FACE_POS_LEFT><FACE_REINA><FACE_HAPPY><FP_LEFT>Tidak tidak! Aku baik-
+baik saja kok!<PAGE>Aku hanya tidak ingin
+melewati moment untuk
+melihatnya.
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MAKO><FACE_HAPPY><FP_RIGHT>Huraaaaah!<PAGE>Meminum teh dibawa pohon
+sakura yang lagi bermekaran,
+ini sungguh, sesuatu....<PAGE><FACE_POS_LEFT><FACE_GOMBE><FACE_HAPPY><FP_LEFT>Ya, ah, ya ya ya!
+Ada semangkok lainnya
+untukku, hmm?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Jangan terlalu banyak, Gombe!
+Kamu bukanlah ayam dengan
+sepatu jepit!<PAGE><FACE_POS_LEFT><FACE_GOMBE><FACE_HAPPY><FP_LEFT>Heeey! Aku baik-baik saja
+tante! Jika aku puyengan
+kesana kesini, kamu pasti<PAGE>nya bisa memperbaiki
+orang tua ini untuk
+berdiri tante.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RAHI><FACE_HAPPY><FP_RIGHT>Ini, Ying.
+Ini minuman untuk diminum.<PAGE><FACE_POS_LEFT><FACE_YING><FACE_HAPPY><FP_LEFT>Makasih, Rahi...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_YUN><FACE_HAPPY><FP_LEFT>Ini sepertinya minuman teh
+yang sama disepanjang waktu,<PAGE>Tapi ini terasa lebih nikmat
+disaat kita berpiknik!<PAGE><FACE_POS_RIGHT><FACE_AYAME><FACE_HAPPY><FP_RIGHT>Itu sebuah sihir difestival
+bunga sakura, pastinya kamu
+berkesimpulan seperti itu.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_YING><FACE_NORMAL><FP_RIGHT>Nenek...
+Apa aku bisa minta teh
+untuk diminum?<PAGE><FACE_POS_LEFT><FACE_YUN><FACE_HAPPY><FP_LEFT>Tunggu sebentar, sayang...\u270a
+ini dia...
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_KANA><FACE_HAPPY><FP_LEFT>Berpiknik dibawah pohon
+sakura, terasa aku mengam-
+bang diudara! Keren!<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_SHY><FP_RIGHT>Dan biarkan seperti itu,
+Kana!<PAGE>Aku agak tidak suka
+kalau kejadian insiden yang
+lalu terulang lagi...<PAGE><FACE_POS_LEFT><FACE_KANA><FACE_NORMAL><FP_LEFT>Huh?
+Apa yang aku lakukan, bro?<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_SHY><FP_RIGHT>Piknik yang lalu, kamu tiba-
+tiba mondar-mandir dan
+pergi begitu saja!<PAGE><FACE_POS_LEFT><FACE_KANA><FACE_NORMAL><FP_LEFT>Apa yang kamu bicarakan sih?
+suer gak mudeng...<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_ANGRY><FP_RIGHT>Serius!?<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_SHY><FP_RIGHT>Kana, apa kamu melupakan
+kejadian dihari itu?<PAGE><FACE_POS_LEFT><FACE_KANA><FACE_SHY><FP_LEFT>Uh...<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_SHY><FP_RIGHT>Itu membuat Hiro trauma
+loh.<PAGE>Kana, kamu tiba-tiba 
+kelayapan dan menunggangi
+Hayate menuju ke hutan...<PAGE>Hiro mencarimu loh, kesana-
+kesini.<PAGE><FACE_POS_LEFT><FACE_KANA><FACE_SHY><FP_LEFT>ow, apakah itu kejadiannya?
+Whoo, maaf ya Hiro.<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_NORMAL><FP_RIGHT>Diingat-ingat ya,
+jangan diulangi lagi,apalagi
+sudah kumaafkan.<PAGE><FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT>Jadi jaga sikapmu pada tahun
+ini ya Kana. Belajarlah dari
+kesalahanmu sendiri.<PAGE><FACE_POS_LEFT><FACE_KANA><FACE_SHY><FP_LEFT>Oke oke...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_ANGRY><FP_RIGHT>Dihari yang lalu, aku meli-
+hat seseorang lagi melakukan
+sesuatu hal buruk.<PAGE><FACE_POS_LEFT><FACE_KANA><FACE_NORMAL><FP_LEFT>Apa yang terjadi?
+Kenapa kamu beritahukan
+sekarang?<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_ANGRY><FP_RIGHT>Itu disaat aku memandangi
+bunga bermekaran.<PAGE>Dihari itu disaat aku meli-
+hat seseorang yang ingin
+mematahkan ranting pohonnya.<PAGE><FACE_POS_LEFT><FACE_NORI><FACE_SHY><FP_LEFT>Tepat dihadapanmu?
+Apa yang dia tuju?<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_ANGRY><FP_RIGHT>Aku berteriak kedia,
+pastinya sekencang-
+kencangnya!<PAGE>Apa dia tahu betapa berhar-
+ganya tanaman hidup itu?<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_SAD><FP_RIGHT>Itu membuatku sedih dan
+kesal...<PAGE><FACE_POS_LEFT><FACE_HIRO><FACE_ANGRY><FP_LEFT>Aku pikir itu seseorang
+yang tidak paham betapa
+indahnya dari pohon sakura...<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>Aku sudah menjelaskan kedia.
+Dia akhirnya akan menghargai
+ke pohon mulai hari itu.<PAGE><FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT>Sepertinya kamu sudah menu-
+larkan pemikiranmu kepada
+dia. Keren!<PAGE>Aku yakin dia dah mendapat-
+kan pesan berharga darimu.<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>Aku harap begitu...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Masih ingat disaat festival
+pohon sakura dimana kakek
+gombe lagi joget aneh itu?<PAGE><FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT>Benarkah? Gombe?
+Jogetnya seperti apa?<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_SHY><FP_RIGHT>Dia membungkus kepalanya
+dengan handuk, dan menaruh
+sesuatu dihidungnya...<PAGE>Dan bergaya ala monyet
+sambil berkeliling pohon.<PAGE><FACE_POS_LEFT><FACE_KANA><FACE_HAPPY><FP_LEFT>BWA-HA-HA-HA-HA-HA!
+Apa yang dipikirkan ya?<PAGE><FACE_POS_LEFT><FACE_REINA><FACE_HAPPY><FP_LEFT>Aku pikir itu bukanlah se-
+buah tari atau joget yang
+kuketahui...<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>Aku bertanya kepadanya
+joget apa itu dan dia
+menjawabnya ...<PAGE>"Tarian tradisional, hmm!"<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_HAPPY><FP_RIGHT>Ha-ha-ha-ha-ha-ha!
+Kamu serius? serius? 
+Gw ketawa terbahak-bahaknih!<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Tapi aku tidak dapat mener-
+tawakan kakekku sendiri!
+Aku penasaran mengenai itu.<PAGE><FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT>Sebenarnya, Aku mengetahui-
+nya, itu sebuah tarian yang
+turun menurun di Konohana.<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>Jadi dia berbicara yang se-
+benarnya ya?<PAGE><FACE_POS_LEFT><FACE_INA><FACE_HAPPY><FP_LEFT>Aku diberitahukan bahwa
+tidak seorang tahu tarian
+itu. Sebagai kepala desa,<PAGE>yang seharusnya tahu akan
+hal itu. Jadi aku bertanya
+kepada Gombe untuk mengajari<PAGE>tarian itu.<PAGE><FACE_POS_LEFT><FACE_KANA><FACE_SHY><FP_LEFT>TIDAK! Apa bercanda, yeah?
+Rahi bakalan menangis jika
+dia melihatmu melakukannya..
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_KANA><FACE_NORMAL><FP_LEFT>Jadi kesepakatan apa kamu
+dengan Sheng? Padahal dia
+tidak pernah datang ke<PAGE>festival pohon sakura
+bermekaran ini.<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_NORMAL><FP_RIGHT>Kenapa, kamu memang benar
+sih! Sebenarnya dia tahu
+mengenai piknik...<PAGE><FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT>Aku membicarakan kepadanya
+kemarin. Tapi dia akan ber-
+pinik dengan pandanya.<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Ooh, melihat bunga sakura
+bersama panda ...!? itu
+sungguh luar biasa.<PAGE><FACE_POS_LEFT><FACE_KANA><FACE_SHY><FP_LEFT>Sesuatu hal Sheng dengan
+panda itu benar-benar ber
+lebihan, benarkan?<PAGE>Tapi menghargai seseorang
+yang disukainya itu komit-
+men masing-masing juga sih.<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>Aku pikir tanaman lebih
+imut ketimbang panda...<PAGE><FACE_POS_LEFT><FACE_KANA><FACE_NORMAL><FP_LEFT>Huh?
+Apa yang kamu bicarakan?<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_SHOCK><FP_RIGHT>Tidak-tidak apa-apa.<PAGE><FACE_POS_LEFT><FACE_KANA><FACE_SHY><FP_LEFT>Kenapa kamu tersipu malu
+seperti itu? Kamu aneh nih
+Reina.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>Dulu, aku pernah sakit
+panas pas banget diharinya
+untuk berpiknik <PAGE>dan tidur seharian.<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_HAPPY><FP_RIGHT>Jika aku ingat-ingat itu,
+aku membawakan sesuatu
+dari berpiknik kekamu.<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_SHY><FP_RIGHT>Aku sungguh senang disaat
+kamu melakukan hal itu!<PAGE>Aku khawatir bahwa semua
+orang melupakan aku.<PAGE><FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT>Setiap warga desa itu
+spesial dan tidak ada
+satupun yang terlupakan.<PAGE>Jadi jangan khawatir
+mengenai hal itu.<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Aku pikir kamu benar, aku
+hanya seorang anak kecil,
+jadi aku khawatir juga.<PAGE>Setelah Hiro datang, jadi
+semuanya lihat apa yang
+aku lakukan...<PAGE>Aku sunggu senang jadi
+aku menangis tersedu-sedu!<PAGE><FACE_POS_LEFT><FACE_KANA><FACE_NORMAL><FP_LEFT>Oh yee, Aku masih mengi-
+ngat hal itu. Semua orang
+mengawatirkan kamu, karena<PAGE>kamu sedang sakit.<PAGE><FACE_POS_LEFT><FACE_REINA><FACE_NORMAL><FP_LEFT>Jika hal itu terjadi lagi,
+aku akan datang untuk me-
+lihat kamu juga.<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Terima kasih! Ini membuatku
+bangga aku tinggal di
+Konohana!
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_YUN><FACE_HAPPY><FP_RIGHT>Ow, apakah bunga sakura itu
+sungguh cantik? Aku senang
+aku dapat membuat suatu<PAGE>makanan untuk acara berpik-
+nik ini!<PAGE><FACE_POS_LEFT><FACE_GOMBE><FACE_HAPPY><FP_LEFT>Roti buat tiga warna buatan
+Yun adalah yang terbaik!<PAGE>Aku bakalan memakannya
+semua, sampai 100 biji
+SERATUS BIJI!<PAGE><FACE_POS_RIGHT><FACE_MAKO><FACE_HAPPY><FP_RIGHT>Kamu pastinya tahu gimana
+membungkusnya untuk seorang
+orang tua ini kan!<PAGE><FACE_POS_RIGHT><FACE_AYAME><FACE_NORMAL><FP_RIGHT>G-Gombe!
+Jangan makan terlalu cepat!
+Itu tidak bagus buat elo!<PAGE><FACE_POS_RIGHT><FACE_YING><FACE_HAPPY><FP_RIGHT>Wow...dia makan...dengan
+kecepatan sepeda montornya
+rosi ...<PAGE><FACE_POS_RIGHT><FACE_RAHI><FACE_ANGRY><FP_RIGHT>Aku tidak biarkan Gombe
+memakan sendirian!<PAGE><FACE_POS_RIGHT><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Sepertinya kamu makan
+sambil berdiri, Rahi!<PAGE><FACE_POS_LEFT><FACE_GOMBE><FACE_NORMAL><FP_LEFT>Hmph, dia seorang anak muda!
+Pastinya tidak dapat menga-
+ahkan aku dalam makan<PAGE>memakan hmmm! Ah, ayo lihat
+secepat apa aku makan!
+*Munch* *Munch* *Munch*!!<PAGE><FACE_POS_RIGHT><FACE_RAHI><FACE_ANGRY><FP_RIGHT>Aku bisa memakannya juga!
+Lihat aku, Ying!
+*Munch* *Munch* *Munch*!!<PAGE><FACE_POS_RIGHT><FACE_YING><FACE_NORMAL><FP_RIGHT>Rahi...juga bisa makan se-
+cepat Gombe juga...<PAGE><FACE_POS_RIGHT><FACE_AYAME><FACE_HAPPY><FP_RIGHT>Sudah SUDAH! itu dah cukup!
+kalian berdua !<PAGE><FACE_POS_RIGHT><FACE_RAHI><FACE_ANGRY><FP_RIGHT>Aww...kita tidak tahu siapa
+yang menjadi pemenangnya...<PAGE><FACE_POS_LEFT><FACE_GOMBE><FACE_ANGRY><FP_LEFT>Itu benar, hmm!
+Belum ada yang menang!<PAGE><FACE_POS_RIGHT><FACE_AYAME><FACE_ANGRY><FP_RIGHT>Kalian berdua berhenti atau
+aku bakalan marah!<PAGE><FACE_POS_RIGHT><FACE_AYAME><FACE_HAPPY><FP_RIGHT>Oke, bro?<PAGE><FACE_POS_RIGHT><FACE_RAHI><FACE_SAD><FP_RIGHT>O-Okay!<PAGE><FACE_POS_LEFT><FACE_GOMBE><FACE_SAD><FP_LEFT>Ah, ya, ya...<PAGE><FACE_POS_RIGHT><FACE_YING><FACE_SAD><FP_RIGHT>Dokter Ayame...
+disaat dia marah...
+kayak pocong...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_AYAME><FACE_SAD><FP_RIGHT>Ini waktu yang sibuk ditahun
+ini dimana orang-orang makan
+terlalu banyak. <PAGE>dan jadinya mereka sakit.<PAGE><FACE_POS_RIGHT><FACE_YUN><FACE_NORMAL><FP_RIGHT>Oh dewi, mereka terlalu ba-
+nyak berpesta ditahun ini,
+jadi apa yang kamu lakukan?<PAGE><FACE_POS_RIGHT><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Itu benar, tapi disaat
+orang-orang datang keklinik
+aku<PAGE>mereka selalu beralasan.<PAGE>"Apa yang kamu lakukan?," 
+mereka menjawab, 
+"Masih bisa makan lagi!"<PAGE>Tapi aku tidak membiarkan
+mereka makan lagi!<PAGE><FACE_POS_RIGHT><FACE_MAKO><FACE_ANGRY><FP_RIGHT>Dokter Ayame, kamu bisa-
+bisanya berbicara seperti
+itu!? MASALAH!<PAGE><FACE_POS_RIGHT><FACE_YING><FACE_NORMAL><FP_RIGHT>Uh-oh...Mako marah...
+Ada yang salahkah?<PAGE><FACE_POS_RIGHT><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Itu hanya masalah orang
+dewasa, Ying. Ayo jangan
+ikut-ikutan...<PAGE><FACE_POS_LEFT><FACE_GOMBE><FACE_HAPPY><FP_LEFT>Ah, Mako...
+Jangan terlalu dipaksakan,
+hmm?<PAGE>Dokter Ayame itu cantik,
+seorang wanita cantik.<PAGE>Aku dapat melihatnya kok,
+kamu ingin memilikinya,
+oh eh yes yes.<PAGE><FACE_POS_RIGHT><FACE_MAKO><FACE_ANGRY><FP_RIGHT>Itu...itu bukan aku itu...<PAGE><FACE_POS_RIGHT><FACE_AYAME><FACE_HAPPY><FP_RIGHT>Aku tidak membutuhkan hal
+seperti memanggilku cantik,
+Gombel, makasih, titik!<PAGE>Sudah cukup rayuanmu!
+Tee-hee.<PAGE><FACE_POS_LEFT><FACE_GOMBE><FACE_HAPPY><FP_LEFT>Ah, but itu benar kok.
+Apa benarkan Mako, hmm?<PAGE><FACE_POS_RIGHT><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Er, ya. tentu saja Ayame
+itu seorang wanita cantik.<PAGE><FACE_POS_RIGHT><FACE_AYAME><FACE_HAPPY><FP_RIGHT>Tee-hee! Makasih, Mako!
+Makasih.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_YING><FACE_NORMAL><FP_RIGHT>Tuan Mako...
+apa bisa aku minta roti
+bulatnya?<PAGE><FACE_POS_RIGHT><FACE_MAKO><FACE_HAPPY><FP_RIGHT>Ya, aku akan ambilkan satu
+biji buatmu. ini dia.<PAGE><FACE_POS_RIGHT><FACE_YING><FACE_NORMAL><FP_RIGHT>.........
+.........
+.........<PAGE><FACE_POS_RIGHT><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Ada yang salah?
+Ayolah, terima saja. Tadi
+kamu memintanya kan?<PAGE><FACE_POS_RIGHT><FACE_YING><FACE_SAD><FP_RIGHT>...Eeep...
+Teralu seram...<PAGE><FACE_POS_RIGHT><FACE_MAKO><FACE_ANGRY><FP_RIGHT>A---apa!?!?
+Apa yang menakutkan?
+Aku memang begini...<PAGE><FACE_POS_RIGHT><FACE_YING><FACE_SAD><FP_RIGHT>Nenek...
+Mako itu menyeramkan...<PAGE><FACE_POS_RIGHT><FACE_YUN><FACE_NORMAL><FP_RIGHT>My my, apa kamu takut?
+Kasihan.
+ini kuenya Ying.<PAGE><FACE_POS_RIGHT><FACE_YING><FACE_HAPPY><FP_RIGHT>Mmm...
+Nyam nyam...<PAGE><FACE_POS_LEFT><FACE_GOMBE><FACE_HAPPY><FP_LEFT>Ah, sekarang dia tersenyum!
+Bagus... bagus.<PAGE><FACE_POS_LEFT><FACE_GOMBE><FACE_ANGRY><FP_LEFT>Ah, Mako.
+Wajahmu memang ngerih 
+banget!<PAGE><FACE_POS_RIGHT><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Ada yang salah kah? aku
+tersenyum biasa kok.<PAGE>Aku tidak mencoba menakuti
+seorang gadis kecil kok!<PAGE><FACE_POS_RIGHT><FACE_RAHI><FACE_ANGRY><FP_RIGHT>Coba senyum lagi deh!<PAGE><FACE_POS_RIGHT><FACE_MAKO><FACE_HAPPY><FP_RIGHT>Er, seperti ini?<PAGE><FACE_POS_RIGHT><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Ah-ha, nah itu masalahnya!
+Sungguh ajaib Ying tidak
+menangis lagi!<PAGE><FACE_POS_RIGHT><FACE_MAKO><FACE_SAD><FP_RIGHT>Dokter Ayame...
+Kok bisanya kamu berkata
+seperti itu...<PAGE><FACE_POS_RIGHT><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Kamu membutuhkan latihan
+tersenyum mako!<PAGE>Sebuah senyuman normal,
+bukan senyuman mak lampir
+kayak itu!<PAGE><FACE_POS_RIGHT><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Jika kamu mengatakan
+itu...
+oke...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Sekarang itu terlihat enak!
+Dibawah pohon sakura,
+ada hidangan besar ini.<PAGE>Semuanya menjadi baik disaat
+seseorang membuatkan makanan!<PAGE><FACE_POS_RIGHT><FACE_YUN><FACE_NORMAL><FP_RIGHT>Tapi dokter Ayame, kenapa
+kamu tidak memasaknya?<PAGE>Sepertinya kamu terlihat
+selalu makan dikedai aku
+sepanjang waktu ini.<PAGE><FACE_POS_RIGHT><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Seperti yang terlihat,
+sebenarnya aku bisa masak.
+Kecuali...<PAGE><FACE_POS_RIGHT><FACE_YUN><FACE_NORMAL><FP_RIGHT>Kecuali? huh?<PAGE><FACE_POS_RIGHT><FACE_AYAME><FACE_HAPPY><FP_RIGHT>Aku hanya tidak suka untuk
+membersihkannya, cukup
+memalukan untuk dikatakan...<PAGE><FACE_POS_RIGHT><FACE_YUN><FACE_NORMAL><FP_RIGHT>Oh dewi.<PAGE><FACE_POS_RIGHT><FACE_YING><FACE_NORMAL><FP_RIGHT>Aku membantu nenekku
+dengan... membersihkan sisa
+sisa makanannya...<PAGE><FACE_POS_RIGHT><FACE_AYAME><FACE_HAPPY><FP_RIGHT>Wow sungguh baik sekali,
+Ying! Aku harus belajar
+dari kamu, tapi tidak...<PAGE><FACE_POS_LEFT><FACE_GOMBE><FACE_NORMAL><FP_LEFT>Siapa yang menikahi dokter
+Ayame akan menjadi sebuah
+tantangan ini!<PAGE><FACE_POS_RIGHT><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Aku tebak, dia pastinya
+pandai mencari seorang
+laki-laki yang cekatan<PAGE>dalam membersihkan rumah.<PAGE><FACE_POS_RIGHT><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Ah-ha!
+itu point yang bagus!<PAGE><FACE_POS_RIGHT><FACE_AYAME><FACE_HAPPY><FP_RIGHT>Mungkin, tapi aku bukan
+dalam toko berjodohan
+loh :v<PAGE>Aku tinggal di Konohana,
+aku tidak membutuhkan
+seorang suami.<PAGE><FACE_POS_RIGHT><FACE_MAKO><FACE_SAD><FP_RIGHT>Huh!?
+Apa itu beneran tah ...?<PAGE><FACE_POS_RIGHT><FACE_YUN><FACE_NORMAL><FP_RIGHT>apa ada yang salah, Mako?<PAGE><FACE_POS_RIGHT><FACE_MAKO><FACE_SAD><FP_RIGHT>... tidak ...
+tidak ada ...
+Argh...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Well, Ying, aku pikir lebih
+baik aku membawakan makanan
+untukmu...<PAGE><FACE_POS_RIGHT><FACE_YING><FACE_SAD><FP_RIGHT>Huh? 
+Kamu...tidak usah.<PAGE>Aku bisa...melakukannya kok
+maaf...<PAGE><FACE_POS_RIGHT><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Uh......<PAGE><FACE_POS_RIGHT><FACE_YUN><FACE_HAPPY><FP_RIGHT>Oh Dewi!
+Ayo bawakan sesuatu nak,
+untuk Ying!<PAGE><FACE_POS_RIGHT><FACE_YING><FACE_NORMAL><FP_RIGHT>Tapi......
+Apa kamu tidak keberatan,
+Rahi?<PAGE><FACE_POS_RIGHT><FACE_RAHI><FACE_HAPPY><FP_RIGHT>YA!
+Aku akan membawakan apa
+yang kamu inginkan!<PAGE>Lalu apa yang kamu
+inginkan?<PAGE><FACE_POS_RIGHT><FACE_YING><FACE_HAPPY><FP_RIGHT>Um......
+Biarkan aku pikir dulu...
+Apa ya...?<PAGE><FACE_POS_LEFT><FACE_GOMBE><FACE_HAPPY><FP_LEFT>Ah, gadis yang imut
+dan lucu!<PAGE>Tapi Rahi, Aku dapat
+membaca pikirannya
+seperti buku saja, hmm?<PAGE>Seperti ayahnya ya,
+kalau dilihat-lihat.<PAGE><FACE_POS_RIGHT><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Benarkah?
+Ayo katakan lagi Gombe!<PAGE><FACE_POS_RIGHT><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Aku juga ingin tahu juga.<PAGE><FACE_POS_LEFT><FACE_GOMBE><FACE_HAPPY><FP_LEFT>Ah, kamu juga, hmm?<PAGE><FACE_POS_LEFT><FACE_GOMBE><FACE_SAD><FP_LEFT>..........
+Ah, lebih baik jangan.<PAGE><FACE_POS_RIGHT><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Kenapa tidak jadi mengatakan-
+nya? Gombe.<PAGE><FACE_POS_LEFT><FACE_GOMBE><FACE_SAD><FP_LEFT>Tuh lihat si Yun sudah
+masang wajah seramnya
+disana...<PAGE>Satu hal lagi orang tua
+ini tidak ingin Yun
+marah!<PAGE><FACE_POS_RIGHT><FACE_YUN><FACE_ANGRY><FP_RIGHT>Ayo lihat sekarang, apa
+ini tempatnya untuk mem-
+bicarakannya?<PAGE><FACE_POS_LEFT><FACE_GOMBE><FACE_SAD><FP_LEFT>Maaf, ah, maaf.<PAGE><FACE_POS_RIGHT><FACE_AYAME><FACE_SAD><FP_RIGHT>maafkan aku juga...
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>Well, kelihatannya saatnya
+kita pulang. Agak mengecewa-
+kan sih kalau pikniknya<PAGE>sudah selesai. Mau gimana
+lagi, harus membersihkannya
+agar lokasinya bersih lagi.
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT>Apa yang dilakukan oleh
+Rahi dan yang lainnya disana?<PAGE>Aku harap lagi bersenang-
+senang...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>Apa yang dilakukan oleh
+kakek dan yang lainnya
+disitu?<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_SHY><FP_RIGHT>Aku harap mereka tidak ter-
+lalu banyak makan yang mem-
+buat perutnya membuncit.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_KANA><FACE_NORMAL><FP_LEFT>Jadi apakah seseorang akan
+berpiknik ditempat yang
+lainnya?
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy

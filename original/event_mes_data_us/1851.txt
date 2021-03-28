@@ -1,0 +1,96 @@
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>★ERROR!★</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>Oh, you saw my request on
+the message board?<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_SAD>But look how late it is!
+We'll do it some other
+time, OK?<PAGE>Sorry to call you out here
+when you're busy on your own
+farm.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>Oh, you saw my request on
+the message board!<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_SAD>But since it rained, the
+plants perked up and don't
+need watering anymore.<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY>But you came all this way,
+so please accept a reward.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Oh, you saw my request on
+the message board!
+Thanks!<PAGE>Why don't we get started
+right away?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>These are the fields.
+Impressive, aren't
+they?<PAGE>I'd like you to <RED>water</COLOR>
+them for me, please.<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL>It's really cold this time
+of year, so I want to give
+my grandpa a day off.<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY>I'm so glad you came to
+help, even though you're
+busy on your own farm.<PAGE>Let me know when you're
+finished.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>These are the fields.
+Impressive, aren't
+they?<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL>I'd like you to <RED>harvest</COLOR>
+the crops for me, please.<PAGE>The crops you harvest will
+<RED>automatically be sent to
+our storage</COLOR>.<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL>It's really cold this time
+of year, so I want to give
+my grandpa a day off.<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY>I'm so glad you came to
+help, even though you're
+busy on your own farm.<PAGE>Let me know when you're
+finished.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>★ERROR!★</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>★ERROR!★</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>★ERROR!★</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>★ERROR!★</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>You're done with the job?
+That's great!<PAGE>I should give you a reward.
+Come on!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>Oh... You're done with the
+job? That's great!<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_SAD>But I wish you'd let me know
+a little sooner...<PAGE>I was worried about whether
+you'd gotten it done or not.<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL>I'll still give you a
+reward, though, so
+come with me.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>Oh... You're done with the
+job? That's great!<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_SAD>But I wish you'd let me know
+a little sooner...<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY>Any later and I would have
+been asleep already!
+Hee-hee!<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL>I'll still give you a
+reward, though, so
+come with me.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Oh... You're done with the
+job? That's great!<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_SHY>But it started raining in
+the meantime...<PAGE>I'm sorry I had you come
+all the way out here.<PAGE>At least let me give you
+a reward to take home.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>I knew you'd do a great job!
+It was a big help!<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY>Here's your reward. Go ahead
+and take it. Hee-hee!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>★ERROR!★</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>★ERROR!★</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>And here's a little bonus
+for finishing so quickly.
+That was a big help!
+----------------------------|----------------------------------
+\u2137You received a
+<VAR_1>!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Thank you very much!
+I might ask you for your
+help again sometime.
+----------------------------|----------------------------------
+\u2137You finished all the work
+you were asked to do!

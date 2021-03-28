@@ -1,0 +1,746 @@
+<FACE_POS_CENTER><HIDE_NAME><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Sepertinya aku tidak pernah
+bertemu denganmu sebelumnya.<PAGE>Hm namamu...
+<MYNAME>?<PAGE><FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Aku <BLUE>Raul</COLOR>.
+Senang berkenalan denganmu :v
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Kemarin itu badai yang benar
+benar terbutuk...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Apa yang bisa aku lakukan
+untuk kamu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Apa yang bisa aku lakukan
+untuk kamu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Apa yang bisa aku lakukan
+untuk kamu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_HAPPY><FP_RIGHT>Wow!
+Lucunya!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_SAD><FP_RIGHT>Aku... agak sedikit takut...
+Aku benar-benar tidak suka
+itu...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Apa yang bisa aku lakukan
+untuk kamu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_HAPPY><FP_RIGHT>Oh. Aku pernah mencoba mem-
+berikan itu kepada gadis
+yang kusukai.<PAGE><FACE_POS_CENTER><FACE_RAUL><FACE_SAD><FP_RIGHT>... Aku tidak mau membica-
+rakan mengenai hal ini...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Tidak, terima kasih...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Aku tidak bisa menerima
+hadiah lainnya untuk hari
+ini. Ini terlalu banyak.<PAGE>Makasih, tapi tidak,
+terima kasih.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Apa yang bisa aku lakukan
+untuk kamu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Apa yang bisa aku lakukan
+untuk kamu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Hey, jangan berikan itu!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_HAPPY><FP_RIGHT>Hey, Sebuah hadiah ulang tahun!
+Kamu mengingatnya!<PAGE>Dan ini <RED>Kroket</COLOR>! 
+Favoritku! Ini mengingatkan-
+ku sosok ibuku.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_HAPPY><FP_RIGHT><RED>Kroket</COLOR>!!!
+<RED>Kroket</COLOR>!!!
+<RED>Kroket</COLOR>!!!<PAGE>Oops, Sepertinya aku
+berlebihan...
+Tapi terima kasih banyak!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Apa yang bisa aku lakukan
+untuk kamu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Apa yang bisa aku lakukan
+untuk kamu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_HAPPY><FP_RIGHT>Hey, Sebuah hadiah ulang tahun!
+Kamu mengingatnya!<PAGE><FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Jangan beritahukan Diego dan
+Enrique mengenai hal ini.<PAGE>Aku tidak ingin mereka
+merasa iri.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_HAPPY><FP_RIGHT>Woohoo!
+Hadiah yang bagus!
+Terima kasih banyak!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Terima kasih untuk hadiah
+ulang tahunnya.<PAGE>Orang tuaku selalu memberi-
+kan aku dan saudaraku yang
+sama untuk ulang tahun kami.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Makasih, <MYNAME>.
+Hadiah yang bagus.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_SAD><FP_RIGHT>Hu? Apa kamu mau mengerjahi
+aku atau sesuatu?<PAGE>Aku sudah berharap mendapat
+kan hadiah yang lebih baik
+untuk ulang tahun ku :(
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_ANGRY><FP_RIGHT>Apakah Enrique dan Diego
+memberitahukan kamu untuk
+memberikan ini kepada aku?<PAGE>Tuh mereka selalu mencoba
+untuk mengerjain aku aja.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_ANGRY><FP_RIGHT><RED>Logam sampah</COLOR>...?!
+Ini adalah hadiah yang ter-
+buruk yang pernah kuterima!<PAGE>Kenapa kamu memberikannya?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Apa yang bisa aku lakukan
+untuk kamu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Apa yang bisa aku lakukan
+untuk kamu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Kalau sudah menikah itu akan
+menjadi hal yang bagus dan
+sudah sah secara hukum...<PAGE>Oh, Marion, Aku penasaran
+yang sedang kamu lakukan
+saat ini...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Aku takutnya topi aku yang
+keren ini hilang terhempas
+hembusan angin di cuaca<PAGE>seperti anjing mengonggong
+seperti ini!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Tidak seorangpun yang membuka
+tokonya disaat cuaca seperti
+ini! Sungguh mengerikan!<PAGE>Seperti muka elo!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_HAPPY><FP_RIGHT>Aku dan aku adalah teman
+terbaik!<PAGE>Tapi aku masih tidak mem-
+berikanmu sebuah diskon di
+toko.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_HAPPY><FP_RIGHT>Akhir-akhir ini kamu sering
+mengajak aku keluar bersama-
+sama, <MYNAME>.<PAGE>Pastinya kamu pikir bahwa
+aku seorang yang keren.
+Jadi aku orang yang keren!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Aku telah berkelana hampir
+diseluruh dunia untuk mene-
+mukan apa yang bisa dijual<PAGE>ditokoku. Aku telah melihat
+banyak hal yang keren!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Kamu pastinya mempunyai ren-
+cana yang bagus untuk berbis-
+nis.<PAGE>Jika tidak, maka bisnismu
+bagaikan panda dimakan oleh
+sheng.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Aku berpikiran untuk memper
+luas bisnisku setiap saat.<PAGE>Kamu pastinya harus tetap
+berinovasi jika ingin
+bertahan diliku-liku kehi-<PAGE>dupan ini!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Diego adalah kakak tertua,
+dan Enrique adalah yang ter-
+muda.<PAGE>Beberapa orang berkata bahwa
+kita bertiga itu mirip, tapi
+kita memiliki sifat yang ber-<PAGE>beda.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Bagaimana keadaan kebunmu?<PAGE>Dikota yang sebelumnya yang
+pernah kutinggali, aku
+ada seorang teman yang menjadi<PAGE>seorang petani yang hebat
+sambil jualan di bazzar.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Apa yang bisa aku lakukan
+untuk kamu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Apa yang bisa aku lakukan
+untuk kamu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Apa yang bisa aku lakukan
+untuk kamu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Apa yang bisa aku lakukan
+untuk kamu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Apa yang bisa aku lakukan
+untuk kamu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Apa yang bisa aku lakukan
+untuk kamu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Apa yang bisa aku lakukan
+untuk kamu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Apa yang bisa aku lakukan
+untuk kamu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Apa yang bisa aku lakukan
+untuk kamu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Apa yang bisa aku lakukan
+untuk kamu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Apa yang bisa aku lakukan
+untuk kamu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Apa yang bisa aku lakukan
+untuk kamu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Apa yang bisa aku lakukan
+untuk kamu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Apa yang bisa aku lakukan
+untuk kamu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Apa yang bisa aku lakukan
+untuk kamu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Apa yang bisa aku lakukan
+untuk kamu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Apa yang bisa aku lakukan
+untuk kamu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Apa yang bisa aku lakukan
+untuk kamu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Apa yang bisa aku lakukan
+untuk kamu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Apa yang bisa aku lakukan
+untuk kamu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Apa yang bisa aku lakukan
+untuk kamu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Apa yang bisa aku lakukan
+untuk kamu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Apa yang bisa aku lakukan
+untuk kamu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Apa yang bisa aku lakukan
+untuk kamu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Apa yang bisa aku lakukan
+untuk kamu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Apa yang bisa aku lakukan
+untuk kamu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Apa yang bisa aku lakukan
+untuk kamu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Apa yang bisa aku lakukan
+untuk kamu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Apa yang bisa aku lakukan
+untuk kamu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Apa yang bisa aku lakukan
+untuk kamu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Apa yang bisa aku lakukan
+untuk kamu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Apa yang bisa aku lakukan
+untuk kamu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Apa yang bisa aku lakukan
+untuk kamu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Apa yang bisa aku lakukan
+untuk kamu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Apa yang bisa aku lakukan
+untuk kamu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Apa yang bisa aku lakukan
+untuk kamu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Apa yang bisa aku lakukan
+untuk kamu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Apa yang bisa aku lakukan
+untuk kamu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Apa yang bisa aku lakukan
+untuk kamu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Tidak menarik.
+SUNGGUH TIDAK MENARIK!
+bye!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_HAPPY><FP_RIGHT>Hei, ini benar-benar lucu!
+Aku jarang melihat binatang
+seperti ini.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_ANGRY><FP_RIGHT>Yikes! A...aku tidak
+suka binatang ini. Bawa pergi
+yang jauh, kumohon.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Lebih baik kamu biarkan
+itu hidup bebas dengan mele-
+paskannya.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Apa yang bisa aku lakukan
+untuk kamu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Apa yang bisa aku lakukan
+untuk kamu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Apa yang bisa aku lakukan
+untuk kamu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Apa yang bisa aku lakukan
+untuk kamu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Apa yang bisa aku lakukan
+untuk kamu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Apa yang bisa aku lakukan
+untuk kamu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Apa yang bisa aku lakukan
+untuk kamu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Apa yang bisa aku lakukan
+untuk kamu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Apa yang bisa aku lakukan
+untuk kamu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Apa yang bisa aku lakukan
+untuk kamu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Apa yang bisa aku lakukan
+untuk kamu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Apa yang bisa aku lakukan
+untuk kamu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_HAPPY><FP_RIGHT>Untukku?
+Bagus!
+Makasih.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Apa yang bisa aku lakukan
+untuk kamu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Apa yang bisa aku lakukan
+untuk kamu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Apa yang bisa aku lakukan
+untuk kamu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Apa yang bisa aku lakukan
+untuk kamu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Apa yang bisa aku lakukan
+untuk kamu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Apa yang bisa aku lakukan
+untuk kamu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Ooh, sebuah hadiah yang
+misteri! keren!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_HAPPY><FP_RIGHT>Aku berterima kasih atas
+pertemanan ini, 
+<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Apa yang bisa aku lakukan
+untuk kamu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Bagaimana keadaannya Diego?
+Dia lebih baik tidak membica-
+rakan tentang hal pribadiku.<PAGE>Jika benar, Aku akan datang
+mencekiknya sampai duitnya
+habis!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Diego terkadang bisa menjadi
+seorang penipu. Jadi hati-
+hati jika ada urusan ber-<PAGE>bisnis dengan dia. Kamu
+pastinya bisa mempercayahi
+aku 100 % karena aku<PAGE>orangnya jujur.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Apa yang bisa aku lakukan
+untuk kamu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Apa yang bisa aku lakukan
+untuk kamu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Sepertinya aku akan mengun-
+jungi Diego sekarang.<PAGE>Sudah lamas aku tak berjum-
+pa dengannya.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Jika kamu menemukan sesuatu
+yang berharga, beritahukan
+aku ya.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Udara disini sungguh segar
+sekali. Aku penasaran apa-
+kah bisa menjualnya...<PAGE>Kudengar-dengar ada yang men-
+jualnya dalam tabung berisi-
+kan oksigen...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Semua hal disini benar-benar
+berbeda.<PAGE>Mungkin aku dapat mencari
+sesuatu yang bisa dijual
+dengan harga yang tinggi di<PAGE>tokoku.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Phew. Aku beristirahat
+dulu ...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Sepertinya aku akan kembali
+kedesa besok. Pelangganku
+sudah menungguku pulang.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Sepertinya aku akan kembali
+kedesa besok. Pelangganku
+sudah menungguku pulang.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Jika aku mengisi sebuah
+botol dengan air dari
+kolam itu, pastinya aku<PAGE>bisa menjualnya dengan
+harga yang pantas.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Udara disini benar-benar ber-
+sih dan menyehatkan.<PAGE>Disayangkan kamu tidak 
+dapat menjualnya...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Phew. Akhirnya sampai
+dirumah. Melewati pegunungan
+memang melelahkan ya.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Apa yang bisa aku lakukan
+untuk kamu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Apa yang bisa aku lakukan
+untuk kamu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Apa yang bisa aku lakukan
+untuk kamu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Apa yang bisa aku lakukan
+untuk kamu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Apa yang bisa aku lakukan
+untuk kamu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Apa yang bisa aku lakukan
+untuk kamu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Apa yang bisa aku lakukan
+untuk kamu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Apa yang bisa aku lakukan
+untuk kamu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Apa yang bisa aku lakukan
+untuk kamu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Apa yang bisa aku lakukan
+untuk kamu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Apa yang bisa aku lakukan
+untuk kamu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Apa yang bisa aku lakukan
+untuk kamu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Apa yang bisa aku lakukan
+untuk kamu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Apa yang bisa aku lakukan
+untuk kamu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Apa yang bisa aku lakukan
+untuk kamu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Apa yang bisa aku lakukan
+untuk kamu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Apa yang bisa aku lakukan
+untuk kamu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Apa yang bisa aku lakukan
+untuk kamu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Apa yang bisa aku lakukan
+untuk kamu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Apa yang bisa aku lakukan
+untuk kamu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Apa yang bisa aku lakukan
+untuk kamu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Apa yang bisa aku lakukan
+untuk kamu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Apa yang bisa aku lakukan
+untuk kamu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Apa yang bisa aku lakukan
+untuk kamu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Apa yang bisa aku lakukan
+untuk kamu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Apa yang bisa aku lakukan
+untuk kamu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Apa yang bisa aku lakukan
+untuk kamu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Apa yang bisa aku lakukan
+untuk kamu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Apa yang bisa aku lakukan
+untuk kamu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Apa yang bisa aku lakukan
+untuk kamu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Apa yang bisa aku lakukan
+untuk kamu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Apa yang bisa aku lakukan
+untuk kamu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Apa yang bisa aku lakukan
+untuk kamu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Apa yang bisa aku lakukan
+untuk kamu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Apa yang bisa aku lakukan
+untuk kamu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Apa yang bisa aku lakukan
+untuk kamu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Apa yang bisa aku lakukan
+untuk kamu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Apa yang bisa aku lakukan
+untuk kamu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Apa yang bisa aku lakukan
+untuk kamu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Apa yang bisa aku lakukan
+untuk kamu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Apa yang bisa aku lakukan
+untuk kamu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Apa yang bisa aku lakukan
+untuk kamu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Apa yang bisa aku lakukan
+untuk kamu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Apa yang bisa aku lakukan
+untuk kamu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Apa yang bisa aku lakukan
+untuk kamu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Apa yang bisa aku lakukan
+untuk kamu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Apa yang bisa aku lakukan
+untuk kamu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Apa yang bisa aku lakukan
+untuk kamu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Apa yang bisa aku lakukan
+untuk kamu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Apa yang bisa aku lakukan
+untuk kamu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Apa yang bisa aku lakukan
+untuk kamu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Apa yang bisa aku lakukan
+untuk kamu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Apa yang bisa aku lakukan
+untuk kamu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Apa yang bisa aku lakukan
+untuk kamu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Selamat pagi!
+Aku Raul!<PAGE>Kumohon jangan keliru dengan
+saudaraku!<PAGE>Aku benci disaat orang-
+orang responnya seperti itu!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Selamat pagi, <MYNAME>!
+Aku rajin bangun pagi.
+Bersama matahariku tersayang.<PAGE>Praise the sun!
+Praise!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Selamat pagi, <MYNAME>.
+Apakah kamu menyukai pakaian
+ku?<PAGE>Aku pikir ini agak kebesar-
+an, tapi pelangganku seper-
+tinya tidak mempermasalahkan.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_HAPPY><FP_RIGHT>Hi, <MYNAME>.
+Apa yang sedang kamu lakukan?<PAGE>Aku sudah melakukan dengan
+baik. Sampai aku seperti
+sedang menari!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Hi. 
+Aku merasa tidak enak
+badan. Mungkin aku makan<PAGE>makanan yang tidak enak
+atau sesuatu yang buruk.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Hi, <MYNAME>.
+Apa yang sedang kamu lakukan?<PAGE>Aku? Aku dah melakukannya
+dengan baik! 
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Selamat Malam.<PAGE>Hm, sepertinya sudah lama
+aku tidak pernah memainkan
+gitar.<PAGE>Kamu harus mendengarkan
+aku memainkannya jika
+sempat. Aku cukup ahli kok.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Hi, <MYNAME>...
+Matahari tenggelam selalu
+membuatku sedikit sedih.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Selamat Malam, <MYNAME>.
+...
+......<PAGE>Oh, maaf. Aku agak
+ngeblank barusan.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Apa yang bisa aku lakukan
+untuk kamu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Apa yang bisa aku lakukan
+untuk kamu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Apa yang bisa aku lakukan
+untuk kamu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Aku tidak dapat berkonsen-
+trasi jika ada kamu disini.
+Ini buruk untuk berbisnis.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Uno, dos, tres...
+...<PAGE>Aku kehilangan perhitungan
+ku tadi karena kamu mengajak
+aku berbicara. Aku akan<PAGE>berbicara denganmu nanti
+setelah uang sudah dihitung
+dengan teliti.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Jika kamu ingin membeli se-
+suatu, pergi ke konter depan.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Apa yang bisa aku lakukan
+untuk kamu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Apa yang bisa aku lakukan
+untuk kamu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Apa yang bisa aku lakukan
+untuk kamu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Aku dan saudaraku sekarang
+sudah semakin akrab.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_SAD><FP_RIGHT>Enrique selalu menjadi pa-
+ling terpintar. Dia tidak
+pernah bermasalah sejak<PAGE>kita masih kecil.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Kondisi ditokoku lebih buruk
+ketimbang toko saudaraku.
+Tidak bagus!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Apa yang bisa aku lakukan
+untuk kamu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Apa yang bisa aku lakukan
+untuk kamu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Apa yang bisa aku lakukan
+untuk kamu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Apa yang bisa aku lakukan
+untuk kamu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Apa yang bisa aku lakukan
+untuk kamu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Apa yang bisa aku lakukan
+untuk kamu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Apa yang bisa aku lakukan
+untuk kamu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Apa yang bisa aku lakukan
+untuk kamu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Apa yang bisa aku lakukan
+untuk kamu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Aku dan saudaraku sekarang
+sudah semakin akrab.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Apa yang bisa aku lakukan
+untuk kamu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Apa yang bisa aku lakukan
+untuk kamu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Aku dan saudaraku sekarang
+sudah semakin akrab.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Apa yang bisa aku lakukan
+untuk kamu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Apa yang bisa aku lakukan
+untuk kamu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Aku dan saudaraku sekarang
+sudah semakin akrab.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Apa yang bisa aku lakukan
+untuk kamu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Apa yang bisa aku lakukan
+untuk kamu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Aku dan saudaraku sekarang
+sudah semakin akrab.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Apa yang bisa aku lakukan
+untuk kamu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Apa yang bisa aku lakukan
+untuk kamu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Aku dan saudaraku sekarang
+sudah semakin akrab.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Apa yang bisa aku lakukan
+untuk kamu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Apa yang bisa aku lakukan
+untuk kamu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Aku dan saudaraku sekarang
+sudah semakin akrab.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Apa yang bisa aku lakukan
+untuk kamu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Apa yang bisa aku lakukan
+untuk kamu?

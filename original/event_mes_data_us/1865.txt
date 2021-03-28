@@ -1,0 +1,106 @@
+\u2137Talk about the request?
+<CHOICE_AB> Yes
+ No
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hey, I'm glad you came,
+kiddo! I love people who
+do just what I tell them!<PAGE>Just like I promised, I'm
+going to teach you something
+well worth knowing!<PAGE><RED>How to make friends with the
+villagers</COLOR>! I bet you want to
+know, huh?
+----------------------------|----------------------------------
+\u2137<CHOICE_AB> Please tell me!
+ No thanks.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_AYAME><FACE_HAPPY><FP_RIGHT>No problem. Pay attention,
+kiddo.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_AYAME><FACE_NORMAL><FP_RIGHT>And that's how it works.
+Want to hear it again?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Really?<PAGE>Well, why don't you practice
+on me if you already know?<PAGE>Bring me what's in my
+<RED>request</COLOR> so I'll like
+you more!<PAGE><FACE_POS_RIGHT><FACE_AYAME><FACE_HAPPY>I'll be waiting!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hello, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hello, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hello, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hello, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_AYAME><FACE_HAPPY><FP_RIGHT>Great, you brought them!
+Thank you.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Nice job! You've got real
+potential!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_AYAME><FACE_NORMAL><FP_RIGHT>That wasn't too tough,
+was it?<PAGE>Since you did such a nice
+job, I'm going to tell you
+something useful!<PAGE>Did you know that you can
+<RED>give gifts to people</COLOR>?<PAGE>To give someone a gift, talk
+to them while <RED>holding</COLOR> what
+you want to give them.<PAGE><FACE_POS_RIGHT><FACE_AYAME><FACE_HAPPY>If the present is something
+they like, they'll be happy.<PAGE>You'll become closer
+friends, and <RED>they'll
+like you more</COLOR>.<PAGE><FACE_POS_RIGHT><FACE_AYAME><FACE_SAD>But if you give them
+something they hate...\u270a
+They'll like you less!<PAGE><FACE_POS_RIGHT><FACE_AYAME><FACE_NORMAL>Hmm? You're worried you'll
+give someone something they
+hate?\u270a\u270a<FACE_POS_RIGHT><FACE_AYAME><FACE_HAPPY> Don't worry, kiddo!<PAGE><FACE_POS_RIGHT><FACE_AYAME><FACE_HAPPY>Even if you don't give gifts
+to people, just talk to them
+to become better friends!<PAGE>If you talk to them every
+day, you'll learn the things
+they like and dislike.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Since you did such a great
+job, I have a reward for
+you!<PAGE>Just select your reward from
+the <RED>Reward Screen</COLOR>...<PAGE>...And move it to your <RED>bag</COLOR>!
+Isn't that easy?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_AYAME><FACE_HAPPY><FP_RIGHT>I know you're going to be
+great at this, kiddo! Do
+your best!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hello, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hello, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hello, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hello, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hello, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_AYAME><FACE_NORMAL><FP_RIGHT>To improve your friendship
+with people, just <RED>talk to
+them every day</COLOR>.<PAGE><FACE_POS_RIGHT><FACE_AYAME><FACE_HAPPY>People naturally become
+better friends with someone
+who talks to them every day!<PAGE><FACE_POS_RIGHT><FACE_AYAME><FACE_NORMAL>So, the fundamental rule of
+building friendships is:
+always greet when you meet!<PAGE>Fulfilling requests and
+taking part in village
+events are good, too.
+----------------------------|----------------------------------
+\u2137How about around here?
+----------------------------|----------------------------------
+\u2137How about around here?
+----------------------------|----------------------------------
+\u2137How about around here?
+----------------------------|----------------------------------
+\u2137How about around here?
+----------------------------|----------------------------------
+\u2137How about around here?
+----------------------------|----------------------------------
+\u2137How about around here?
+----------------------------|----------------------------------
+\u2137How about around here?
+----------------------------|----------------------------------
+\u2137How about around here?
+----------------------------|----------------------------------
+\u2137How about around here?

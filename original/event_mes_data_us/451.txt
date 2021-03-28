@@ -1,0 +1,158 @@
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Dum-Da-Da-DAA!
+You've learned 20 recipes!
+Congratulations!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>I now present you with the
+title of "Novice Cook"!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>There are still a lot of
+recipes left for you
+to learn, though!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Well, keep up the good work!
+Toodles!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Dum-Da-Da-DAA!
+You've learned 25 recipes!
+Congratulations!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>I now present you with the
+title of "Apprentice Cook"!
+<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>You've learned a few more
+recipes, but there's still
+a lot of them left to learn!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Well, keep up the good work!
+Toodles!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Dum-Da-Da-DAA!
+You've learned 35 recipes!
+Congratulations!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>I now present you with the
+title of "Experienced Cook"!
+<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>You've learned a bunch more
+recipes, but there's still
+a lot more of them to learn!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Well, keep up the good work!
+Toodles!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Dum-Da-Da-DAA!
+You've learned 50 recipes!
+Congratulations!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>I now present you with the
+title of "Sous Chef"!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>You'll be able to actually
+cook soon! But you still
+have much more to learn!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Well, keep up the good work!
+Toodles!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Dum-Da-Da-DAA!
+You've learned 80 recipes!
+Congratulations!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>I now present you with the
+title of "Head Chef"!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>That's quite a few! You can
+finally call what you do
+"cooking"!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Well, keep up the good work!
+Toodles!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Dum-Da-Da-DAA!
+You've learned 130 recipes!
+Congratulations!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>I now present you with the
+title of "Executive Chef"!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>Do you realize how good you
+are? You've gotten to be a
+pretty good cook!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Well, keep up the good work!
+Toodles!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Dum-Da-Da-DAA!
+You've learned 190 recipes!
+Congratulations!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>I now present you with the
+title of "Elite Chef"!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>Now that you know so many
+recipes, you can definitely
+call yourself a good cook!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Well, keep up the good work!
+Toodles!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Dum-Da-Da-DAA!
+You've learned 260 recipes!
+Congratulations!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>I now present you with the
+title of "Master Chef"!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>I'm impressed! You could
+probably teach each other
+people how to cook now!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Well, keep up the good work!
+Toodles!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Dum-Da-Da-DAA!<PAGE>You've learned every recipe
+there is to learn!
+Congratulations!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>You must really love cooking
+to learn all those recipes!
+Don't eat too much, though!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Maybe I'll even let you open
+your own restaurant!<PAGE>Just kidding...<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>Since you've worked so hard,
+I now present you with the
+title of "Legendary Chef"!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Well, have fun cooking!
+Toodles!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Dum-Da-Da-DAA!
+
+----------------------------|----------------------------------
+<FACE_POS_LEFT><HIDE_NAME><FACE_HGODDES><FACE_NORMAL><FP_LEFT><HIDE_FACE>Dum-Da-Da-DAA!
+You've learned 20 recipes!
+Congratulations!<PAGE>I now present you with the
+title of "Novice Cook"!<PAGE>By the way, have you figured
+out who I am?<PAGE>I'll tell you if you
+can find me!<PAGE>Well, keep up the good work!
+Toodles!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><HIDE_NAME><FACE_HGODDES><FACE_NORMAL><FP_LEFT><HIDE_FACE>Dum-Da-Da-DAA!
+You've learned 25 recipes!
+Congratulations!<PAGE>I now present you with the
+title of "Apprentice Cook"!
+<PAGE>By the way, have you figured
+out who I am yet?<PAGE>I'll tell you if you
+can find me!<PAGE>Well, keep up the good work!
+Toodles!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><HIDE_NAME><FACE_HGODDES><FACE_NORMAL><FP_LEFT><HIDE_FACE>Dum-Da-Da-DAA!
+You've learned 35 recipes!
+Congratulations!<PAGE>I now present you with the
+title of "Experienced Cook"!
+<PAGE>By the way, have you figured
+out who I am yet?<PAGE>I'll tell you if you
+can find me!<PAGE>Well, keep up the good work!
+Toodles!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><HIDE_NAME><FACE_HGODDES><FACE_NORMAL><FP_LEFT><HIDE_FACE>Dum-Da-Da-DAA!
+You've learned 50 recipes!
+Congratulations!<PAGE>I now present you with the
+title of "Sous Chef"!<PAGE>By the way, have you figured
+out who I am yet?<PAGE>I'll tell you if you
+can find me!<PAGE>Well, keep up the good work!
+Toodles!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><HIDE_NAME><FACE_HGODDES><FACE_NORMAL><FP_LEFT><HIDE_FACE>Dum-Da-Da-DAA!
+You've learned 80 recipes!
+Congratulations!<PAGE>I now present you with the
+title of "Head Chef"!<PAGE>By the way, have you figured
+out who I am yet?<PAGE>I'll tell you if you
+can find me!<PAGE>Well, keep up the good work!
+Toodles!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><HIDE_NAME><FACE_HGODDES><FACE_NORMAL><FP_LEFT><HIDE_FACE>Dum-Da-Da-DAA!
+You've learned 130 recipes!
+Congratulations!<PAGE>I now present you with the
+title of "Executive Chef"!<PAGE>By the way, have you figured
+out who I am yet?<PAGE>I'll tell you if you
+can find me!<PAGE>Well, keep up the good work!
+Toodles!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><HIDE_NAME><FACE_HGODDES><FACE_NORMAL><FP_LEFT><HIDE_FACE>Dum-Da-Da-DAA!
+You've learned 190 recipes!
+Congratulations!<PAGE>I now present you with the
+title of "Elite Chef"!<PAGE>By the way, have you figured
+out who I am yet?<PAGE>I'll tell you if you
+can find me!<PAGE>Well, keep up the good work!
+Toodles!
+
+----------------------------|----------------------------------
+<FACE_POS_LEFT><HIDE_NAME><FACE_HGODDES><FACE_NORMAL><FP_LEFT><HIDE_FACE>Dum-Da-Da-DAA!
+You've learned 260 recipes!
+Congratulations!<PAGE>I now present you with the
+title of "Master Chef"!
+<PAGE>By the way, have you figured
+out who I am yet?<PAGE>I'll tell you if you
+can find me!<PAGE>Well, keep up the good work!
+Toodles!
+
+----------------------------|----------------------------------
+<FACE_POS_LEFT><HIDE_NAME><FACE_HGODDES><FACE_NORMAL><FP_LEFT><HIDE_FACE>Dum-Da-Da-DAA!<PAGE>You've learned every recipe
+there is to learn!
+Congratulations!<PAGE>Since you've worked so hard,
+I now present you with the
+title of "Legendary Chef"!<PAGE>By the way, isn't it about
+time you found out who I
+am...?<PAGE>I guess I'll have to appear
+right in front of you for
+you to figure it out...<PAGE>Well, keep up the good work!
+Toodles!

@@ -1,0 +1,70 @@
+\u2137Talk about the request?
+<CHOICE_AB> Yes.
+ No.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MAKO><FACE_ANGRY><FP_RIGHT>But...but...
+It's not all here!<PAGE>As a farmer, you should hold
+yourself to high standards!<PAGE>Try again when it's ALL
+ready.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MAKO><FACE_ANGRY><FP_RIGHT>Arrggghh...
+What makes you drop out when
+the job's not done?<PAGE>I suppose a farmer's chores
+on the farm always come
+before other business.<PAGE>Once you've finished that,
+get back to this.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Now the money.
+That's <VAR_0>G.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Har! I heard you were coming
+and I awaited you. Thanks.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Ho-ha!
+There we have it!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MAKO><FACE_HAPPY><FP_RIGHT>Pass on my thanks!
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Now what?
+Well, get it done and then
+take care of this.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MAKO><FACE_NORMAL><FP_RIGHT>　
+\u20d0<RED>　　　　Dummy</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MAKO><FACE_NORMAL><FP_RIGHT>　
+\u20d0<RED>　　　　Dummy</COLOR>
+----------------------------|----------------------------------
+\u2137Talk about the request?
+<CHOICE_AB> Yes.
+ No.
+----------------------------|----------------------------------
+\u2137Decline reward item?
+<CHOICE_AB> Yes.
+ No.
+----------------------------|----------------------------------
+\u2137You got <VAR_0>G!
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MAKO><FACE_NORMAL><FP_RIGHT>　
+\u20d0<RED>　　　　Dummy</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MAKO><FACE_NORMAL><FP_RIGHT>　
+\u20d0<RED>　　　　Dummy</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MAKO><FACE_NORMAL><FP_RIGHT>　
+\u20d0<RED>　　　　Dummy</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MAKO><FACE_NORMAL><FP_RIGHT>　
+\u20d0<RED>　　　　Dummy</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MAKO><FACE_NORMAL><FP_RIGHT>　
+\u20d0<RED>　　　　Dummy</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MAKO><FACE_NORMAL><FP_RIGHT>　
+\u20d0<RED>　　　　Dummy</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MAKO><FACE_NORMAL><FP_RIGHT>　
+\u20d0<RED>　　　　Dummy</COLOR>

@@ -1,0 +1,141 @@
+<FACE_POS_RIGHT><FACE_KID><FACE_HAPPY><FP_RIGHT>\u2338!
+Hi!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ASH><FACE_NORMAL><FP_LEFT>Selamat datang,
+<MYNICKNAME>??<PAGE>Saat ini sedang hujan!
+Apa kamu kebasahan?
+yey
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_HIRO><FACE_NORMAL><FP_LEFT>Selamat datang kembali,
+<MYNICKNAME>.<PAGE>Kelihatannya kebasahan
+karena kehujanan ya...
+Apa benar?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_CAM><FACE_NORMAL><FP_LEFT>Selamat datang,
+<MYNICKNAME>.<PAGE>Kelihatannya hari ini penuh
+dengan air hujan. Apa kamu
+kebasahan?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_KANA><FACE_NORMAL><FP_LEFT>Selamat datang,
+<MYNICKNAME>!!<PAGE>Diluar cuacanya buruk,
+Apa kamu tidak apa-apa?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_MIKHAIL><FACE_NORMAL><FP_LEFT>Selamat datang,
+<MYNICKNAME>.<PAGE>Hujannya sangat lebat ya.
+Apa kamu tak apa-apa?
+Apa kamu kebasahan?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_LANEY><FACE_NORMAL><FP_LEFT>Selamat datang,
+<MYNICKNAME>.<PAGE>Saat ini hujan ...
+Apa kamu kehujanan,
+<MYNICKNAME>?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_GEORGIA><FACE_NORMAL><FP_LEFT>Selamat datang,
+<MYNICKNAME>.<PAGE>Saat ini hujan lebat diluar!
+Jujur aja aku khawatir
+kamu kenapa-kenapa...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_REINA><FACE_NORMAL><FP_LEFT>Selamat datang,
+<MYNICKNAME>.<PAGE>Saat ini sedang hujan,
+Kamu benar gak apa apa?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_NORI><FACE_NORMAL><FP_LEFT>Selamat datang,
+<MYNICKNAME>.<PAGE>Saat ini hujannya sangat
+lebat, aku sedikit mengkha-
+watirkanmu...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ULYSSA><FACE_NORMAL><FP_LEFT>Selamat datang,
+<MYNICKNAME>!<PAGE>Saat ini ada taburan air
+dimana-mana... apa kamu
+baik-baik saja?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_DIRK><FACE_SAD><FP_LEFT>Selamat datang,
+<MYNICKNAME>!<PAGE>Saat ini hujan...!
+Aku mengawatirkanmu, apa
+kamu baik-baik saja?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ASH><FACE_NORMAL><FP_LEFT>Oh, baguslah kalau gitu.
+Kamu seharusnya menghangat-
+kan diri dikamar mandi.<PAGE><FACE_POS_LEFT><FACE_ASH><FACE_HAPPY><FP_LEFT>Saat ini aku mau memandikan
+\u2337 ke kamar mandi.<PAGE>Kenapa tidak kalian berdua
+mandi bersama, <MYNICKNAME>?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_HIRO><FACE_NORMAL><FP_LEFT>Ah. Saat ini, kamu tidak ke-
+dinginan? kamu harus mandi
+di air hangat.<PAGE><FACE_POS_LEFT><FACE_HIRO><FACE_HAPPY><FP_LEFT>Oh ya aku berpikiran mau
+memandikan, \u2337 ...<PAGE>Apa kamu bisa mengajak
+\u2337 denganmu?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_CAM><FACE_NORMAL><FP_LEFT>Hmmm... kamu harus mandi
+air hangat ya untuk mengha-
+ngatkan tubuhmu.<PAGE><FACE_POS_LEFT><FACE_CAM><FACE_HAPPY><FP_LEFT>Jika kamu melakukannya, apa
+bisa ajak \u2337 bersama?<PAGE>Barusan aku ingin memandi-
+kan \u2337 kekamar mandi.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_KANA><FACE_NORMAL><FP_LEFT>Uh huh. Sekarang, kamu cepat
+cepat mandi air hangat atau
+kamu terkena flu loh.<PAGE><FACE_POS_LEFT><FACE_KANA><FACE_HAPPY><FP_LEFT>Oh, bawa sekalian \u2337
+denganmu...<PAGE>Tadinya aku berpikir untuk
+memandikannya... tapi Hayate
+juga perlu perawatan juga...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_MIKHAIL><FACE_NORMAL><FP_LEFT>Oke, kamu harus pergi untuk
+menghangatkan tubuhmu di
+kamar mandi.<PAGE><FACE_POS_LEFT><FACE_MIKHAIL><FACE_HAPPY><FP_LEFT>Dan sekalian ajak \u2337 
+denganmu.<PAGE>Barusan aku ingin memandi-
+lan \u2337.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_LANEY><FACE_NORMAL><FP_LEFT>Oke... kenapa sekarang kamu
+tidak pergi mandi air hangat
+untuk menghangatkan tubuhmu?<PAGE><FACE_POS_LEFT><FACE_LANEY><FACE_HAPPY><FP_LEFT>Oh, betul! Kamu ajak
+sekalian, \u2337 
+denganmu.<PAGE>Aku sudah memberitahukan
+\u2337 ini waktunya untuk
+mandi...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_GEORGIA><FACE_NORMAL><FP_LEFT>Well saat ini, aku tebak 
+kamu pastinya membutuhkan ke
+kamar mandi untuk menghangat-<PAGE>kan tubuhmu yang dingin itu
+dengan air panas kan! Agar
+kamu tidak jatuh sakit!<PAGE>Sebuah tragedi memilukan
+kalau kamu jatuh sakit...<PAGE><FACE_POS_LEFT><FACE_GEORGIA><FACE_HAPPY><FP_LEFT>Gimana jika kamu ajak
+\u2337 denganmu?<PAGE>Aku barusan mau memandikan
+\u2337.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_REINA><FACE_NORMAL><FP_LEFT>...
+Tapi kamu harus mandi di
+air panas sekarang.<PAGE>Kamu pastinya tidak ingin
+jatuh sakit demam kan?<PAGE><FACE_POS_LEFT><FACE_REINA><FACE_HAPPY><FP_LEFT>Oh, ajak \u2337 juga ya
+:3
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_NORI><FACE_NORMAL><FP_LEFT>Oh baguslah. Air hangatnya
+sudah siap, kenapa tidak
+kamu masuk kesana?<PAGE><FACE_POS_LEFT><FACE_NORI><FACE_HAPPY><FP_LEFT>Oh, bagaimana \u2337 
+mandi bersamamu?<PAGE>Aku barusan mau memandikan
+\u2337.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ULYSSA><FACE_NORMAL><FP_LEFT>Oke... tapi kita tidak ingin
+kamu demam dan sakit, kamu
+harus mandi air hangat<PAGE>sekarang.<PAGE><FACE_POS_LEFT><FACE_ULYSSA><FACE_HAPPY><FP_LEFT>Kenapa tidak sekalian ajak
+\u2337?<PAGE>Aku barusan berpikir untuk
+memandikan \u2337,
+karena ini waktu dia mandi.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_DIRK><FACE_NORMAL><FP_LEFT>Well, itu bagus. Tapi pergi
+lah mandi dengan air hangat!<PAGE><FACE_POS_LEFT><FACE_DIRK><FACE_HAPPY><FP_LEFT>Oh, apa mau ajak sekalian
+\u2337 untuk mandi
+bersama?<PAGE>Aku tadinya mau mengajaknya
+\u2337 untuk mandi...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KID><FACE_HAPPY><FP_RIGHT>Waktunya mandi!
+Aku akan mandi bersama
+dengan \u2338!<RED>❤</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KID><FACE_HAPPY><FP_RIGHT>Hee hee!
+itu..., \u2338!<PAGE>Eek!
+Hee hee hee!!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_KID><FACE_NORMAL><FP_LEFT>Bersiiih!?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_KID><FACE_HAPPY><FP_LEFT>Terima kasih karena
+mandi bersama \u2338!

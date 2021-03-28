@@ -1,0 +1,35 @@
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>Why, this must be a dream.
+You're giving me a
+<RED>blue feather</COLOR>?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_HAPPY><FP_RIGHT>I'm so happy.<PAGE><FACE_POS_RIGHT><FACE_GEORGIA><FACE_SHOCK><FP_RIGHT>I feel the same way about
+you, <MYNAME>...
+I accept, of course!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_HAPPY><FP_RIGHT>Well, I ought to go tell
+my father!
+<PAGE><FACE_POS_RIGHT><FACE_GEORGIA><FACE_SHOCK><FP_RIGHT>Will you come with me,
+<MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_GRADY><FACE_HAPPY><FP_LEFT>That's just wonderful,
+Georgia!<PAGE><FACE_POS_LEFT><FACE_GRADY><FACE_NORMAL><FP_LEFT>So my little girl is finally
+getting married...
+<PAGE>I'm happy, but also a little
+sad. The house will feel so
+empty now...<PAGE><FACE_POS_RIGHT><FACE_GEORGIA><FACE_HAPPY><FP_RIGHT>What are you talking about?<PAGE>I'm getting married, not
+moving to another country!
+I can come see you any time!<PAGE><FACE_POS_LEFT><FACE_GRADY><FACE_HAPPY><FP_LEFT>Oh, that's true.<PAGE>So when are you having the
+ceremony?<PAGE><FACE_POS_RIGHT><FACE_GEORGIA><FACE_SHOCK><FP_RIGHT>We're thinking of having it
+in a week.<PAGE>Right, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_GRADY><FACE_HAPPY><FP_LEFT>I see!
+That's exciting!<PAGE><FACE_POS_LEFT><FACE_GRADY><FACE_NORMAL><FP_LEFT>You'll be busy the day of
+the wedding, <MYNAME>.<PAGE>So you should get any work
+you have done the day
+before.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_GRADY><FACE_HAPPY><FP_LEFT>Take good care of my
+Georgia, <MYNAME>.
+<PAGE>Give her all your love. I 
+know she won't give you
+anything less.<PAGE><FACE_POS_RIGHT><FACE_GEORGIA><FACE_SHOCK><FP_RIGHT>Thank you, Dad.

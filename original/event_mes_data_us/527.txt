@@ -1,0 +1,48 @@
+<FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT><FP_LEFT>Howdy, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT>Hmm? What am I doing?
+I'm checking on the shipping
+bin.<PAGE><FACE_POS_LEFT><FACE_INA><FACE_HAPPY><FP_LEFT>Making sure the villagers
+can use it with confidence
+every day.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT><FP_LEFT>Oh, that's right!
+I haven't told you about the
+<RED>shipping bin</COLOR> yet!<PAGE>After you grow and harvest
+crops, you can <RED>eat</COLOR> them or
+<RED>cook</COLOR> with them...<PAGE><FACE_POS_LEFT><FACE_INA><FACE_HAPPY><FP_LEFT>Or you can use the shipping
+bin to <RED>ship them out and
+earn money</COLOR>!<PAGE><FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT>Want me to explain all about
+the shipping bin to you?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT>Alrighty.
+<PAGE>Go near the shipping bin and
+press the <RED>A Button</COLOR>.<PAGE>The shipping bin's contents
+will appear on the bottom
+screen.<PAGE><FACE_POS_LEFT><FACE_INA><FACE_HAPPY><FP_LEFT>Then you can put any
+items you want to ship
+into the shipping bin.<PAGE>Simple enough, right?<PAGE><FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT>One thing to keep in mind:<PAGE>once you put something in
+the shipping bin and close
+it, you can't get it back.<PAGE><FACE_POS_LEFT><FACE_INA><FACE_HAPPY><FP_LEFT>The money for your shipment
+is delivered to your house
+the next morning.<PAGE><FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT>You can use the shipping bin
+any time you want!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT>Huh? You're wondering if
+this is the only shipping
+bin, right?<PAGE>Well, I think there's one
+<BLUE>in Bluebell</COLOR>.
+<PAGE>You can also use that
+shipping bin if you want.<PAGE>When the villagers in
+Bluebell see delicious crops
+in their shipping bin...<PAGE><FACE_POS_LEFT><FACE_INA><FACE_HAPPY><FP_LEFT>...they'll be so jealous of
+Konohana!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT>I'm heading back to the
+town hall now.<PAGE>See you around.
+----------------------------|----------------------------------
+<CHOICE_AB> Yes, please explain.
+ No thanks.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_INA><FACE_HAPPY><FP_LEFT>In that case, I'll head back
+to the town hall.<PAGE>See you around.

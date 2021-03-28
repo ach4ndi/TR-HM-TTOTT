@@ -1,0 +1,124 @@
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Telolelolet! Kamu akhirnya mengoleksi
+semua 6 Wonderfuls!
+Selamat!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>Aku tahu bahwa kamu dapat
+melakukannya, <MYNAME>!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Sebagai hadiahnya, aku
+akan memberikan satu
+permintaan untukmu!
+----------------------------|----------------------------------
+<CHOICE_ABC> <VAR_0>
+ <VAR_1>
+ <VAR_2>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Itu sebuah permintaan cukup
+besar!<PAGE>Jika itu yang kamu inginkan
+...
+Yah!!!!!!!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>Ini dia!
+Semua sudah diatur!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Ini pastinya mengerjakan
+kegiatan perkebunan mem-
+buatmu kelelahan dan itu<PAGE>dilakukan setiap hari.
+Aku bisa membantumu juga
+loh!<PAGE>Yah!!!!!!!!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>Lihatkan? Kamu hanya membu-
+tuhkan hanya beberapa detik!<PAGE>Sekarang kamu akan dapat
+melakukan seberat-beratnya!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Ah! Oke, jadi kamu ingin
+lebih dekat dengan seseorang
+huh? Tee-hee!<PAGE>Oke oke, beritahu siapa
+yang ingin didekati?
+----------------------------|----------------------------------
+<CHOICE_ABC> Laney
+ Georgia
+ Selanjutnya.
+----------------------------|----------------------------------
+<CHOICE_ABC> Reina
+ Nori
+ Selanjutnya.
+----------------------------|----------------------------------
+<CHOICE_ABC> Reina
+ Nori
+ Lihat opsi lainnya.
+----------------------------|----------------------------------
+<CHOICE_ABC> Ulyssa
+ Alisa
+ Lihat opsi lainnya.
+----------------------------|----------------------------------
+<CHOICE_AB> Ulyssa
+ Lihat opsi lainnya.
+----------------------------|----------------------------------
+<CHOICE_AB> Alisa
+ Lihat opsi lainnya.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>Dah! Itu mudah, sangat!<PAGE>Sekarang dia akan lebuh me-
+nyukaimu! Kamu harus ber-
+bicara dengannya sekarang!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Ah! Oke, jadi kamu ingin
+lebih dekat dengan seseorang
+huh? Tee-hee!<PAGE>Oke oke, beritahu siapa
+yang ingin didekati?
+----------------------------|----------------------------------
+<CHOICE_ABC> Ash
+ Hiro
+ Selanjutnya.
+----------------------------|----------------------------------
+<CHOICE_ABC> Cam
+ Kana
+ Selanjutnya.
+----------------------------|----------------------------------
+<CHOICE_ABC> Cam
+ Kana
+ Lihat opsi lainnya.
+----------------------------|----------------------------------
+<CHOICE_ABC> Mikhail
+ Dirk
+ Lihat opsi lainnya.
+----------------------------|----------------------------------
+<CHOICE_AB> Mikhail
+ Lihat opsi lainnya.
+----------------------------|----------------------------------
+<CHOICE_AB> Dirk
+ Lihat opsi lainnya.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>Dah! Itu mudah, sangat!<PAGE>Sekarang dia akan lebuh me-
+nyukaimu! Kamu harus ber-
+bicara dengannya sekarang!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>\u232dLa\u270a laa♪\u270b La la laa\u270a laa♪\u270b
+La la laa\u270b laa laa♪\u270b<PAGE>Laa laa♪\u270b La la la\u270a laa♪\u270a\u270a
+La la\u270a laa♪\u232c
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>Apa ini yang kamu inginkan?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_HGODDES><FACE_HAPPY>Lihat dengan teliti!\u270b\u270b<PAGE><FACE_POS_CENTER><FACE_HGODDES><FACE_NORMAL>Apa ini yang kamu inginkan?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>Apa ini yang kamu inginkan?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Ooh, jadi ITU yang ingin di-
+dekati!Tee-hee!<PAGE>Maka serahkan kepadaku ya!
+Aku akan mempermudahkan
+untuk kamu!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>Kamu sepertinya ingin mela-
+mar ya?!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Di-ingat-ingat ya dia itu
+gadis yang sensitif, jadi
+jangan menyakiti perasaan-<PAGE>nya!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>Well, kamu sudah meminta
+sebuah permintaan, jadi
+aku menyembunyikan<PAGE>wonderfulnya lagi!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>Jika ada permintaan lain,
+maka kamu harus mencari
+wonderfulnya lagi!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Aku tahu ini akan sulit,
+tapi lakukan apa yang ter-
+baik dari kamu! Aku akan<PAGE>menunggunya!
+Tee-heee :p
+----------------------------|----------------------------------
+<CHOICE_ABC> Oracle
+ Alisa
+ Lihat opsi lainnya.
+----------------------------|----------------------------------
+<CHOICE_AB> Oracle
+ Lihat opsi lainnya.

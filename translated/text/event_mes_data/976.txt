@@ -1,0 +1,47 @@
+<FACE_POS_LEFT><FACE_ULYSSA><FACE_NORMAL><FP_LEFT>Jadi, inilah alasan mengapa
+kau kupanggil kemari...<PAGE>Aku mencipatakan sebuah
+ramuan baru untukmu!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ULYSSA><FACE_HAPPY><FP_LEFT>Dan Sekarang kau harus
+meminum,minum,minumnya
+sekarang, ayolah kelinci<PAGE>percobaan kecilku!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ULYSSA><FACE_SHY><FP_LEFT>Hmm? Kamu khawatir?<PAGE><FACE_POS_LEFT><FACE_ULYSSA><FACE_NORMAL><FP_LEFT>Dikarenakan kamu tidak
+pernah mengenai ramuan ini
+sebelumnya?<PAGE>Oke oke, Aku tahu kok!<PAGE>Karena kau selalu,
+selalu, selalu membantuku!<PAGE><FACE_POS_LEFT><FACE_ULYSSA><FACE_HAPPY><FP_LEFT>Aku harus berterima kasih.<PAGE>Jadiii...
+kamu itu hanya perlu minum
+ini dan kelelahanmu akan<PAGE>pergi.. 
+da.. da..
+----------------------------|----------------------------------
+<CHOICE_AB> Oke oke!
+ Kupikir Tidak...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ULYSSA><FACE_HAPPY><FP_LEFT>Oh yippee, Kau mau meminum-
+nya?! Minumlah ya!
+glup glup glup!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ULYSSA><FACE_HAPPY><FP_LEFT>Bagaimana?
+Apakah kau merasakan bim
+salabim di sekujur tubuhmu?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ULYSSA><FACE_HAPPY><FP_LEFT>Sekarang kau benar-benar
+terpana! Baguslah kalau
+begitu!<RED>❤</COLOR><PAGE><FACE_POS_LEFT><FACE_ULYSSA><FACE_SHOCK><FP_LEFT>Terlalu banyak berterima
+kasih membuatku malu!<PAGE><FACE_POS_LEFT><FACE_ULYSSA><FACE_NORMAL><FP_LEFT>Aku tidak ingat kapan ter-
+akhir kali ada orang yang
+berterima kasih padaku.<PAGE><FACE_POS_LEFT><FACE_ULYSSA><FACE_HAPPY><FP_LEFT>Baik! Itu perasaan yang baik!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ULYSSA><FACE_NORMAL><FP_LEFT>Aaaakkhhh, Sesedih ketika
+aku melihatmu pergi,
+Lihatlah betapa lamanya<PAGE>aku menahanmu disini!
+Pulanglah, kelinci
+percobaanku!<PAGE><FACE_POS_LEFT><FACE_ULYSSA><FACE_HAPPY><FP_LEFT>Datang kembali ya nanti!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ULYSSA><FACE_ANGRY><FP_LEFT>Keh-Ke-Kenapa kau tidak mau
+meminum ramuan yang kubuat
+!?!?<PAGE><FACE_POS_LEFT><FACE_ULYSSA><FACE_SHY><FP_LEFT>Jika kau tidak menerima
+barang indah yang kuberikan
+padamu...<PAGE><FACE_POS_LEFT><FACE_ULYSSA><FACE_SAD><FP_LEFT>.........<PAGE><FACE_POS_LEFT><FACE_ULYSSA><FACE_ANGRY><FP_LEFT>...Okelah, gapapa!!
+Silahkan kembali pulang!
+Hush! Hush! HUSH!!

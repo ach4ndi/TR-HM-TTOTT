@@ -1,0 +1,81 @@
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_SAD><FP_RIGHT>Oooohhhh... I'm THIRSTY!!!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_SHY><FP_RIGHT>Huh?
+Go to...a caf?!?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_SHY><FP_RIGHT>Wa-Wa-Wa-WAAAIIITTT!
+<MYNAME>!!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_SHY><FP_RIGHT>I-I don't even live in this
+village! I don't know the
+people here like you do!<PAGE>How can I suddenly show up
+in the village caf?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_LANEY><FACE_HAPPY><FP_LEFT>Oh, welcome, <MYNAME>.
+
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_LANEY><FACE_NORMAL><FP_LEFT>I see you've brought someone
+I haven't met before!
+Is she a younger cousin?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_LANEY><FACE_HAPPY><FP_LEFT>Oh, so she's a friend!
+
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_LANEY><FACE_HAPPY><FP_LEFT>Nice to meet you.
+I'm Laney.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>N-Nice to meet you...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_LANEY><FACE_HAPPY><FP_LEFT>Hee-hee, aren't you cute?
+Welcome to our caf!<PAGE><FACE_POS_RIGHT><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>O-Okay...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ULYSSA><FACE_SHY><FP_LEFT>Aiiiyeee...she thinks I'm
+younger than she is!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ULYSSA><FACE_NORMAL><FP_LEFT>Oh well, no biggie!<PAGE><FACE_POS_LEFT><FACE_ULYSSA><FACE_HAPPY><FP_LEFT>So this is the caf you like
+to come to?
+Seems like a nice place!<PAGE><FACE_POS_LEFT><FACE_ULYSSA><FACE_NORMAL><FP_LEFT>It's been a long, long, LONG
+time since I visited anyone
+else's home or shop...<PAGE>I've been so caught up in my
+alchemy research, I haven't
+had time to meet people.<PAGE>I wasn't sure how it would
+work out, suddenly coming
+here...<PAGE><FACE_POS_LEFT><FACE_ULYSSA><FACE_HAPPY><FP_LEFT>But I'm glad we did this!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ULYSSA><FACE_NORMAL><FP_LEFT>So, <MYNAME>...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ULYSSA><FACE_HAPPY><FP_LEFT>Will you take me out to lots
+and LOTS of places like this
+from now on?<PAGE>I want to start getting out
+and experiencing the world!
+----------------------------|----------------------------------
+<CHOICE_AB> Sure!
+ I don't know...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ULYSSA><FACE_HAPPY><FP_LEFT>Really!? Yay-hee!!
+I'm so hippity-HAPPY!!<RED>❤</COLOR><PAGE><MYNAME>, <MYNAME>, <MYNAME>...
+That's so YOU!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ULYSSA><FACE_NORMAL><FP_LEFT>I have to thank you somehow,
+<MYNAME>...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ULYSSA><FACE_NORMAL><FP_LEFT>If I hadn't met you, I'd
+still be all alone, just
+buried in my research.<PAGE><FACE_POS_LEFT><FACE_ULYSSA><FACE_SHY><FP_LEFT>I had totally forgotten
+the outside world and the
+fun of being with someone.<PAGE><FACE_POS_LEFT><FACE_ULYSSA><FACE_SAD><FP_LEFT>Now that I have you to talk
+to, I realize how much I was
+missing out on.<PAGE><FACE_POS_LEFT><FACE_ULYSSA><FACE_NORMAL><FP_LEFT>So you have to let me thank
+you one more time.<PAGE><FACE_POS_LEFT><FACE_ULYSSA><FACE_SHOCK><FP_LEFT>Thank you, thank you, THANK
+YOU, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ULYSSA><FACE_HAPPY><FP_LEFT>Okey-dokey!
+Time to go ho-o-ome,
+<MYNAME>!<PAGE><FACE_POS_LEFT><FACE_ULYSSA><FACE_SHOCK><FP_LEFT>You can have the special
+privilege of walking me
+back to my house today!<PAGE>I know you're grateful!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ULYSSA><FACE_ANGRY><FP_LEFT>WHHAAAATTT!?!
+You stingy little troll...!<PAGE>Phooey! Fine, then!
+I don't need you, <MYNAME>!
+I'm going home NOW!

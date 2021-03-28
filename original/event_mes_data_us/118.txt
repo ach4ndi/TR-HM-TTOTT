@@ -1,0 +1,754 @@
+<FACE_POS_CENTER><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Oh, <MYNAME>.
+Thank you so much for all
+your help the other day.<PAGE>I do hope we'll continue to
+be friends.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ALISA><FACE_SAD><FP_RIGHT>The Harvest Goddess made
+the storm yesterday to show
+us that she was angry.<PAGE>I wonder why?
+Oh, Harvest Goddess...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ALISA><FACE_NORMAL><FP_RIGHT>You're working again today?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ALISA><FACE_NORMAL><FP_RIGHT>You're working again today?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ALISA><FACE_NORMAL><FP_RIGHT>You're working again today?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ALISA><FACE_HAPPY><FP_RIGHT>How adorable.
+And so soft!
+Hee hee! It seems so happy.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ALISA><FACE_SAD><FP_RIGHT>Oh, Harvest Goddess,
+please forgive me
+for being so mean.<PAGE>I had unkind thoughts
+about this poor animal.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ALISA><FACE_NORMAL><FP_RIGHT>?
+??
+???<PAGE><FACE_POS_CENTER><FACE_ALISA><FACE_SAD><FP_RIGHT>\u20d1What!?!?
+Me?<PAGE><FACE_POS_CENTER><FACE_ALISA><FACE_NORMAL><FP_RIGHT>Please wait a moment.<PAGE>We mustn't discuss this
+here. Let's go somewhere
+else and talk.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ALISA><FACE_HAPPY><FP_RIGHT>So that's a blue feather...
+It joins couples in
+happiness.<PAGE>Whoever you give it to, I
+wish you the best of luck.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ALISA><FACE_SAD><FP_RIGHT>Oh, I couldn't accept that.
+I wouldn't feel right about
+it.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ALISA><FACE_NORMAL><FP_RIGHT>I couldn't accept another
+gift today. Greed corrupts
+the heart.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ALISA><FACE_HAPPY><FP_LEFT>Oh, today's Harmony Day!
+Thank you, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ALISA><FACE_HAPPY><FP_LEFT>Thank you, <MYNAME>.
+<PAGE><FACE_POS_LEFT><FACE_ALISA><FACE_NORMAL><FP_LEFT>Make sure you give one to
+your wife, too!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ALISA><FACE_NORMAL><FP_RIGHT>I'm sorry, but
+I can't accept this.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ALISA><FACE_SHOCK><FP_RIGHT>Oh, <MYNAME>, you remembered
+that today is my birthday!<PAGE>And you're giving me
+<RED>ice cream</COLOR>? You're 
+so sweet! Thank you!♪
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ALISA><FACE_HAPPY><FP_RIGHT><RED>Ice cream</COLOR>?
+For me?<PAGE>Oh, Harvest Goddess, how can
+I ever express my happiness?
+Thank you so much, <MYNAME>! 
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ALISA><FACE_NORMAL><FP_RIGHT>You're working again today?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ALISA><FACE_NORMAL><FP_RIGHT>You're working again today?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Oh, thank you so much!
+
+<PAGE><FACE_POS_CENTER><FACE_ALISA><FACE_SHOCK><FP_RIGHT>This is a wonderful birthday
+present!
+<PAGE><FACE_POS_CENTER><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Oh, Harvest Goddess, I'm
+so happy right now. 
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ALISA><FACE_HAPPY><FP_RIGHT>I'm quite impressed
+that you know what I like!
+Thank you.<PAGE>Oh, I must thank
+the Harvest Goddess as well.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ALISA><FACE_HAPPY><FP_RIGHT>A birthday present...?
+How nice!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ALISA><FACE_NORMAL><FP_RIGHT>Thank you. I accept your
+gift with gratitude.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ALISA><FACE_SAD><FP_RIGHT>Today's my birthday, but
+you've given me something
+that makes me sad.<PAGE>Harvest Goddess, is this
+some sort of test? If it is,
+I suppose I can bear it.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ALISA><FACE_SAD><FP_RIGHT>Oh what should I do?
+Harvest Goddess, is this
+terrible gift a test?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ALISA><FACE_SAD><FP_RIGHT>What a cruel gift, <MYNAME>!
+This is too much to bear!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ALISA><FACE_NORMAL><FP_RIGHT>You're working again today?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ALISA><FACE_NORMAL><FP_RIGHT>You're working again today?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ALISA><FACE_HAPPY><FP_RIGHT><MYNAME>, I can tell that
+marriage has changed you for
+the better.<PAGE>Truly, your union is blessed
+by the Harvest Goddess.
+
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ALISA><FACE_SAD><FP_RIGHT>The Harvest Goddess made
+this storm to show her
+anger.<PAGE>I hope she calms down soon.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ALISA><FACE_SAD><FP_RIGHT>The Goddess brings this snow
+to show her anger.
+I hope she calms down soon.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ALISA><FACE_HAPPY><FP_RIGHT>You are a valuable friend
+through thick and thin,
+<MYNAME>.<PAGE>I thank the Harvest Goddess
+that we met.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ALISA><FACE_HAPPY><FP_RIGHT>I'm so glad that I came to
+this village. It's filled
+with kind and caring souls.<PAGE>Truly, the Harvest Goddess
+has blessed this place.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ALISA><FACE_NORMAL><FP_RIGHT>It makes me so happy to see
+you in church so often.<PAGE>I'm glad you share my love
+for the Harvest Goddess.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ALISA><FACE_SAD><FP_RIGHT>I lost my parents when I
+was young. The church took
+me in after that.<PAGE>Ever since then, the church
+has been my family.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Nathan knows just how to
+explain the teaching of our
+Harvest Goddess.<PAGE>I really look up to him.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ALISA><FACE_NORMAL><FP_RIGHT>I'm still in training.
+Even cleaning up is part
+of my training.<PAGE>I've got to do a good job.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ALISA><FACE_NORMAL><FP_RIGHT>I help share the teachings
+of our Harvest Goddess with
+the people of this village.<PAGE><FACE_POS_CENTER><FACE_ALISA><FACE_HAPPY><FP_RIGHT>I just want everyone to be
+happy. Now let's give thanks
+together.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ALISA><FACE_NORMAL><FP_RIGHT>You're working again today?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ALISA><FACE_ANGRY><FP_RIGHT><MYNAME>, you're so mean!
+I'm telling the Harvest
+Goddess!
+----------------------------|----------------------------------
+<CHOICE_AB> I'm sorry.
+ I have nothing to say.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ALISA><FACE_NORMAL><FP_RIGHT>It's okay. As long as you
+understand, the Harvest
+Goddess will forgive you.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ALISA><FACE_ANGRY><FP_RIGHT>Is that so? That's a pity.
+Then I wash my hands of you!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ALISA><FACE_NORMAL><FP_RIGHT>You're working again today?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ALISA><FACE_SAD><FP_RIGHT>How fortunate that the storm
+wasn't too bad yesterday.
+Let us give thanks together.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ALISA><FACE_NORMAL><FP_RIGHT>You're working again today?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ALISA><FACE_NORMAL><FP_RIGHT>You're working again today?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ALISA><FACE_NORMAL><FP_RIGHT>You're working again today?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ALISA><FACE_NORMAL><FP_RIGHT>You're working again today?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ALISA><FACE_HAPPY><FP_RIGHT>A Harmony Day gift?
+Thank you so much,
+<MYNICKNAME>!<RED>❤</COLOR><PAGE><FACE_POS_CENTER><FACE_ALISA><FACE_SHOCK><FP_RIGHT>You're so kind.<PAGE>I'll have to get you
+something in return for the
+next Harmony Day.<RED>❤</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Could this be...a birthday
+present for me?<PAGE><FACE_POS_CENTER><FACE_ALISA><FACE_SHOCK><FP_RIGHT>I'm so happy!
+<RED>Ice Cream</COLOR>!<PAGE>Oh, it's so good!
+Thank you very much,
+<MYNICKNAME>!<RED>❤</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ALISA><FACE_HAPPY><FP_RIGHT>The Harvest Goddess came to
+me in a dream and told me
+today would be a good day.<PAGE>This must be what she meant.
+Thank you so much,
+<MYNICKNAME>!<RED>❤</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ALISA><FACE_NORMAL><FP_RIGHT><MYNICKNAME>, would you like to
+take a walk with me?
+----------------------------|----------------------------------
+<CHOICE_AB> Sure, let's go!
+ I'm busy today.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ALISA><FACE_SAD><FP_RIGHT>Oh, I see...
+What a pity...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ALISA><FACE_NORMAL><FP_RIGHT>You're working again today?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ALISA><FACE_NORMAL><FP_RIGHT>A birthday present? For me?<PAGE><FACE_POS_CENTER><FACE_ALISA><FACE_SAD><FP_RIGHT>But...don't you know I hate
+this?<PAGE>You're being mean on
+purpose, aren't you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ALISA><FACE_ANGRY><FP_RIGHT>You shouldn't give me a
+terrible thing like this!<PAGE>The Harvest Goddess doesn't
+appreciate you playing such
+a mean prank on your wife!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ALISA><FACE_NORMAL><FP_RIGHT>You're working again today?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ALISA><FACE_NORMAL><FP_RIGHT>You're working again today?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ALISA><FACE_NORMAL><FP_RIGHT>You're working again today?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ALISA><FACE_HAPPY><FP_RIGHT>A brand new day is here!
+Have a good day at work.<PAGE><FACE_POS_CENTER><FACE_ALISA><FACE_SHOCK><FP_RIGHT>But try and come home 
+as soon as you can.<RED>❤</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ALISA><FACE_HAPPY><FP_RIGHT>I'll ask the Harvest Goddess
+to make things go well 
+for you today, <MYNICKNAME>.<PAGE><FACE_POS_CENTER><FACE_ALISA><FACE_SHOCK><FP_RIGHT>May she let my love for you
+guard you like a shield.<RED>❤</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ALISA><FACE_NORMAL><FP_RIGHT>You should get to sleep.
+You've got an early morning.<PAGE><FACE_POS_CENTER><FACE_ALISA><FACE_HAPPY><FP_RIGHT>I'm going to go to bed soon.
+I have to get up early to
+give thanks.<PAGE><FACE_POS_CENTER><FACE_ALISA><FACE_SHOCK><FP_RIGHT>Of  course, I always
+give thanks for you,
+<MYNICKNAME>.<RED>❤</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ALISA><FACE_HAPPY><FP_RIGHT>It makes me so happy to be
+able to give thanks together
+with you.<PAGE>It's so nice being married.
+Hee hee.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ALISA><FACE_HAPPY><FP_RIGHT>I love cooking, so I'm happy
+to share my cooking with.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ALISA><FACE_NORMAL><FP_RIGHT>Nathan comes to see how
+I'm doing sometimes.<PAGE>I'm so glad to see he
+cares about me.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ALISA><FACE_NORMAL><FP_RIGHT>It's so much fun being
+married.<PAGE><FACE_POS_CENTER><FACE_ALISA><FACE_HAPPY><FP_RIGHT>I know the Harvest Goddess
+doesn't mind that I'm
+sharing my affections.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ALISA><FACE_SAD><FP_RIGHT>I may have romanticized
+marriage a little.<PAGE>It's not quite how I thought
+it would be.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ALISA><FACE_SAD><FP_RIGHT>Harvest Goddess...
+<MYNICKNAME> is
+so mean to me.<PAGE>He's so distant, even though
+we're married...
+
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ALISA><FACE_ANGRY><FP_RIGHT>I'm very angry with you.
+You know why!
+----------------------------|----------------------------------
+<CHOICE_AB> I'm so, so sorry...
+ What's your problem?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ALISA><FACE_NORMAL><FP_RIGHT>Well, as long as you
+apologize, I can find it in
+my heart to forgive you.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ALISA><FACE_SAD><FP_RIGHT>...
+*Sigh*...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ALISA><FACE_NORMAL><FP_RIGHT>Is that for the festival?
+How nice!
+
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ALISA><FACE_NORMAL><FP_RIGHT>You're working again today?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ALISA><FACE_NORMAL><FP_RIGHT>You're working again today?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ALISA><FACE_NORMAL><FP_RIGHT>What a cute pet!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Oh, how cute! What an
+adorable creature!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ALISA><FACE_ANGRY><FP_RIGHT>Eek!<PAGE><FACE_POS_CENTER><FACE_ALISA><FACE_SAD><FP_RIGHT>Please save me from this
+frightening creature,
+Harvest Goddess...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ALISA><FACE_NORMAL><FP_RIGHT>Oh, I saw that the other
+day. You should let the
+poor thing go.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ALISA><FACE_HAPPY><FP_RIGHT>You look sharp today!
+That's a nice outfit.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Do you have some time to
+talk, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ALISA><FACE_NORMAL><FP_RIGHT>Do you have time to
+talk now?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ALISA><FACE_NORMAL><FP_RIGHT>Can I talk to you for
+a little bit?
+----------------------------|----------------------------------
+<CHOICE_AB> Okay, let's talk.
+ I'm busy now.
+----------------------------|----------------------------------
+<CHOICE_AB> Sure.
+ Sorry.
+----------------------------|----------------------------------
+<CHOICE_AB> Okay.
+ I don't have time now.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ALISA><FACE_NORMAL><FP_RIGHT>You're working again today?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ALISA><FACE_NORMAL><FP_RIGHT>You're working again today?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ALISA><FACE_SAD><FP_RIGHT>If you're busy...
+Never mind, then.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ALISA><FACE_NORMAL><FP_RIGHT>Oh no, I'm the one who
+should be apologizing.
+
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ALISA><FACE_NORMAL><FP_RIGHT>I see. Please don't worry
+about it, then.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Oh, for me?
+What a pretty flower...<PAGE>Thank you.
+I'll treasure it.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ALISA><FACE_NORMAL><FP_RIGHT>For me?<FACE_POS_CENTER><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Oh, how wonderful!
+I'm so glad I married you,
+<MYNICKNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ALISA><FACE_NORMAL><FP_RIGHT>Would you like to go to
+the Starry Night Festival
+with me, <MYNAME>?
+----------------------------|----------------------------------
+<CHOICE_AB> Sure.
+ No thanks.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Really?
+Thank you so much!
+I can't wait!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ALISA><FACE_SAD><FP_RIGHT>I see...
+Alright, then...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Let's ask the Harvest
+Goddess for a clear sky
+tomorrow.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ALISA><FACE_NORMAL><FP_RIGHT>What is this?
+I'm going to open it now...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ALISA><FACE_HAPPY><FP_RIGHT>I've never had a close
+female friend like you
+before.<PAGE>I'm so thankful to the
+Harvest Goddess for your
+friendship...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ALISA><FACE_NORMAL><FP_RIGHT>You're working again today?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ALISA><FACE_NORMAL><FP_RIGHT>I'm going to spend
+the day honoring the
+Harvest Goddess...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ALISA><FACE_NORMAL><FP_RIGHT>I'll be giving thanks to
+the Harvest Goddess today.
+Would you like to join me?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ALISA><FACE_NORMAL><FP_RIGHT>You're working again today?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ALISA><FACE_NORMAL><FP_RIGHT>You're working again today?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ALISA><FACE_NORMAL><FP_RIGHT>What a nice village. It
+reminds me of another I
+lived in once...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ALISA><FACE_HAPPY><FP_RIGHT>The church in this village
+is very old.
+<PAGE>The villagers have really
+taken good care of it.
+How wonderful!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ALISA><FACE_NORMAL><FP_RIGHT>This mountain path isn't
+very easy, is it?
+This will be good training!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ALISA><FACE_NORMAL><FP_RIGHT>Harvest Goddess...
+Please keep us all happy
+and healthy...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ALISA><FACE_NORMAL><FP_RIGHT>I'm going to give thanks
+to the Harvest Goddess.
+I'll be back later!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ALISA><FACE_NORMAL><FP_RIGHT>You can really feel the
+Goddess' love when you're
+standing on the mountaintop.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ALISA><FACE_NORMAL><FP_RIGHT>Harvest Goddess...<PAGE>Please keep my beloved
+town healthy and happy.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Now it's off to the church
+to give thanks to the
+Harvest Goddess.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ALISA><FACE_NORMAL><FP_RIGHT>Let's head home now.
+I'm sorry this took so long.
+
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ALISA><FACE_NORMAL><FP_RIGHT>Are you working again today?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ALISA><FACE_NORMAL><FP_RIGHT>Are you working again today?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Thanks to your support and
+the Harvest Goddess,
+we won!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ALISA><FACE_SAD><FP_RIGHT>It's not your fault we lost.
+I wasn't thankful enough.
+
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ALISA><FACE_NORMAL><FP_RIGHT>The Harvest Goddess asks if
+you'll enter for our village
+next Cooking Festival.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ALISA><FACE_NORMAL><FP_RIGHT>Are you working again today?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ALISA><FACE_NORMAL><FP_RIGHT>Are you working again today?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ALISA><FACE_SAD><FP_RIGHT>I'll ask the Harvest Goddess
+to relieve your sorrow over
+losing the Cooking Festival.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ALISA><FACE_NORMAL><FP_RIGHT>Are you working again today?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ALISA><FACE_NORMAL><FP_RIGHT>I'm sorry you didn't win
+today. I'm sure you'll win
+next time.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ALISA><FACE_HAPPY><FP_RIGHT>So there's a festival today!
+How exciting!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ALISA><FACE_NORMAL><FP_RIGHT>I heard you didn't enter the
+festival today...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ALISA><FACE_NORMAL><FP_RIGHT>Are you working again today?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ALISA><FACE_NORMAL><FP_RIGHT>You seem disappointed.
+Are you alright?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ALISA><FACE_NORMAL><FP_RIGHT>Are you working again today?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ALISA><FACE_NORMAL><FP_RIGHT>Are you working again today?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ALISA><FACE_NORMAL><FP_LEFT>Welcome home, <MYNICKNAME>.
+How was work?<PAGE>I cooked something for your
+birthday today.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Hee hee. I may have gone a
+little overboard with the
+cooking.<PAGE>But I wanted to make it a
+special day, <MYNICKNAME>.
+<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_SHOCK><FP_RIGHT>Happy birthday!
+
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ALISA><FACE_NORMAL><FP_LEFT>Welcome home, <MYNICKNAME>.
+How was work?<PAGE>Today's our birthday!
+
+<PAGE><FACE_POS_LEFT><FACE_ALISA><FACE_HAPPY><FP_LEFT>I cooked us a special meal
+to celebrate.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Hee hee. I may have gone a
+little overboard with the
+cooking.<PAGE>But I wanted to make it a
+special day, <MYNICKNAME>.
+<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_SHOCK><FP_RIGHT>The fact that we were born
+on the same day must mean
+we were meant to be!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ALISA><FACE_NORMAL><FP_LEFT>Welcome home, <MYNICKNAME>.
+How was work?<PAGE>So, um, today's my birthday.
+
+<PAGE><FACE_POS_LEFT><FACE_ALISA><FACE_HAPPY><FP_LEFT>Hee hee. I made a meal so
+we could celebrate together.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>I was so excited to
+celebrate with you that I
+went a little overboard.<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_SHOCK><FP_RIGHT>I was just having so much
+fun cooking!
+<PAGE>I hope we can celebrate
+together again next year!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ALISA><FACE_NORMAL><FP_RIGHT>You're working again today?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ALISA><FACE_NORMAL><FP_RIGHT>You're working again today?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ALISA><FACE_NORMAL><FP_RIGHT>You're working again today?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ALISA><FACE_NORMAL><FP_RIGHT>You're working again today?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ALISA><FACE_HAPPY><FP_LEFT>Welcome home, <MYNICKNAME>.
+How was work?<PAGE><FACE_POS_LEFT><FACE_ALISA><FACE_SHOCK><FP_LEFT>Umm...today is, uh...
+our anniversary...<PAGE>I made a meal for us.
+Please come over here.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>It's thanks to the Harvest
+Goddess that we have this
+happy life together.<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>I want to always remember
+to give her my thanks on
+this special day.<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_SHOCK><FP_RIGHT>I love you, <MYNICKNAME>.
+
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ALISA><FACE_NORMAL><FP_RIGHT>You're working again today?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ALISA><FACE_NORMAL><FP_RIGHT>You're working again today?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ALISA><FACE_NORMAL><FP_RIGHT>You're working again today?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ALISA><FACE_NORMAL><FP_RIGHT>You're working again today?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ALISA><FACE_NORMAL><FP_RIGHT>You're working again today?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ALISA><FACE_NORMAL><FP_RIGHT>You're working again today?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ALISA><FACE_NORMAL><FP_RIGHT>You're working again today?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ALISA><FACE_NORMAL><FP_RIGHT>Hello, <MYNAME>.
+We're having  a festival in
+Bluebell Village today.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ALISA><FACE_NORMAL><FP_RIGHT>You're working again today?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ALISA><FACE_NORMAL><FP_RIGHT>You're working again today?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ALISA><FACE_NORMAL><FP_RIGHT>You're working again today?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ALISA><FACE_NORMAL><FP_RIGHT>You're working again today?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ALISA><FACE_NORMAL><FP_RIGHT>You're working again today?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ALISA><FACE_NORMAL><FP_RIGHT>You're working again today?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ALISA><FACE_NORMAL><FP_RIGHT>You're working again today?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ALISA><FACE_NORMAL><FP_RIGHT>You're working again today?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ALISA><FACE_NORMAL><FP_RIGHT>You're working again today?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ALISA><FACE_NORMAL><FP_RIGHT>You're working again today?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ALISA><FACE_NORMAL><FP_RIGHT>You're working again today?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ALISA><FACE_NORMAL><FP_RIGHT>You're working again today?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ALISA><FACE_NORMAL><FP_RIGHT>You're working again today?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ALISA><FACE_NORMAL><FP_RIGHT>You're working again today?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ALISA><FACE_NORMAL><FP_RIGHT>You're working again today?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ALISA><FACE_NORMAL><FP_RIGHT>You're working again today?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ALISA><FACE_NORMAL><FP_RIGHT>You're working again today?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ALISA><FACE_NORMAL><FP_RIGHT>You're working again today?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ALISA><FACE_NORMAL><FP_RIGHT>You're working again today?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ALISA><FACE_NORMAL><FP_RIGHT>Good morning, <MYNAME>.
+You're working again today?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ALISA><FACE_NORMAL><FP_RIGHT>Good morning, <MYNAME>!
+It's the start of another
+glorious day!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ALISA><FACE_NORMAL><FP_RIGHT>Good morning.<PAGE>Remember to give thanks to
+the Harvest Goddess
+every single day. 
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ALISA><FACE_NORMAL><FP_RIGHT>You always look so busy,
+<MYNAME>. Please don't
+forget to rest.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Good afternoon.
+I'm doing well today, thanks
+to the Harvest Goddess.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ALISA><FACE_HAPPY><FP_RIGHT>You run so fast, <MYNAME>.
+Do you exercise a lot?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ALISA><FACE_NORMAL><FP_RIGHT>Good afternoon, <MYNAME>.
+I can't believe the time!
+Today's gone by so quickly.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ALISA><FACE_HAPPY><FP_RIGHT>It's great how you always
+have so much energy in the
+evenings, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ALISA><FACE_NORMAL><FP_RIGHT>It's late!
+Shouldn't you be getting
+home soon?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ALISA><FACE_SAD><FP_RIGHT>I can't believe we're really
+getting married...
+I hope it all works out...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ALISA><FACE_NORMAL><FP_RIGHT>I never thought that I
+would get married...
+<PAGE><FACE_POS_CENTER><FACE_ALISA><FACE_HAPPY><FP_RIGHT>The Harvest Goddess has
+truly blessed me.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ALISA><FACE_NORMAL><FP_RIGHT>I hope Nathan will be
+alright on his own after I'm
+married...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ALISA><FACE_NORMAL><FP_RIGHT>You're working again today?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ALISA><FACE_NORMAL><FP_RIGHT>You're working again today?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ALISA><FACE_NORMAL><FP_RIGHT>You're working again today?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ALISA><FACE_NORMAL><FP_RIGHT>Everything looks so good!
+What should I have?
+
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ALISA><FACE_NORMAL><FP_RIGHT>Everything looks so good!
+What should I have?
+
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ALISA><FACE_NORMAL><FP_RIGHT>Everything looks so good!
+What should I have?
+
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ALISA><FACE_NORMAL><FP_RIGHT>I'm a little tired.
+I think I'll take a break.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ALISA><FACE_NORMAL><FP_RIGHT>This is a sacred place.
+Please be quiet.
+
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Everyone here is so nice.
+Hee hee.
+
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Good morning, <MYNICKNAME>.
+You look so cute when you're
+sleeping...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ALISA><FACE_NORMAL><FP_RIGHT>Good morning! I feel blessed
+that I get to wake up next
+to you.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ALISA><FACE_NORMAL><FP_RIGHT>Good morning.
+Remember to say good morning
+to the Harvest Goddess, too.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ALISA><FACE_NORMAL><FP_RIGHT>Noon already?
+I've got to go give thanks.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ALISA><FACE_NORMAL><FP_RIGHT>Are you having a good day?
+I know I am.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ALISA><FACE_NORMAL><FP_RIGHT><MYNICKNAME>? How's your
+work going?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ALISA><FACE_NORMAL><FP_RIGHT>It's so late!
+I've got to go give thanks.
+Would you like to join me?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ALISA><FACE_NORMAL><FP_RIGHT>Why have you been so quiet
+all day?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ALISA><FACE_SAD><FP_RIGHT>I know how hard you work.
+Don't forget to take a
+break sometimes.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ALISA><FACE_HAPPY><FP_RIGHT>I heard you won.
+That's wonderful!<PAGE>The Harvest Goddess must be
+pleased!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ALISA><FACE_HAPPY><FP_RIGHT>What did you make?
+Could you teach me?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ALISA><FACE_HAPPY><FP_RIGHT>How wonderful that you won.
+I'd love to try your dish.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ALISA><FACE_NORMAL><FP_RIGHT>So the festival is over...
+I wish I could have seen it.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Festivals always make me
+remember this village I used
+to live in...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ALISA><FACE_NORMAL><FP_RIGHT>The Harvest Goddess always
+looks forward to festivals.
+She watches over them.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ALISA><FACE_NORMAL><FP_RIGHT>You're working again today?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ALISA><FACE_NORMAL><FP_RIGHT>You're working again today?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ALISA><FACE_NORMAL><FP_RIGHT>You're working again today?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ALISA><FACE_NORMAL><FP_RIGHT>Since I'm in training, I'm
+not allowed to go to
+festivals. Was it fun?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ALISA><FACE_NORMAL><FP_RIGHT>You look like you enjoyed
+yourself. I can tell just
+how much fun the it all was.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Everyone looks so happy
+during a festival.
+It makes me happy too.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ALISA><FACE_NORMAL><FP_RIGHT>I heard you won.
+I knew you would!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ALISA><FACE_NORMAL><FP_RIGHT>Congratulations.
+May the Harvest Goddess
+bless you...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ALISA><FACE_NORMAL><FP_RIGHT>Congratulations.
+Everyone says you were
+wonderful.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ALISA><FACE_NORMAL><FP_RIGHT>An animal from your farm
+won? You must be a
+wonderful farmer!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Everyone is talking about
+how good you are at raising
+livestock, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ALISA><FACE_HAPPY><FP_RIGHT>I'd love to see your animals
+sometime. Especially the
+animal that won.

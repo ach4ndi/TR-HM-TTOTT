@@ -1,0 +1,162 @@
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Dum-Da-Da-DAA! You've made
+10 items in the Maker
+Shed! Congratulations!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>I now present you with the
+title of "Apprentice
+Crafter"!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>You still need a lot more
+experience, though, so keep
+on making things!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Well, keep up the good work!
+Toodles!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Dum-Da-Da-DAA! You've made
+30 items in the Maker
+Shed! Congratulations!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>I now present you with
+the title of "Novice
+Crafter"!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>Keep making more and more
+things, and you'll master
+the Maker Shed in no time!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Well, keep up the good work!
+Toodles!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Dum-Da-Da-DAA! You've made
+60 items in the Maker
+Shed! Congratulations!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>I now present you with the
+title of "Fine Crafter!"<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>I'd say you finally know how
+to use your Maker Shed!<PAGE>You're still just getting
+started, though!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Well, keep up the good work!
+Toodles!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Dum-Da-Da-DAA! You've made
+100 items in the Maker
+Shed! Congratulations!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>I now present you with
+the title of "Veteran
+Crafter"!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>You know how to use your
+Maker Shed pretty well
+now...<PAGE>But there are still a lot of
+items you haven't made yet!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Well, keep up the good work!
+Toodles!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Dum-Da-Da-DAA! You've made
+150 items in the Maker
+Shed! Congratulations!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>I now present you with the
+title of "Great Crafter"!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>You've made a lot of stuff!
+But I know you can make
+even more, <MYNAME>!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Well, keep up the good work!
+Toodles!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Dum-Da-Da-DAA! You've made
+210 items in the Maker
+Shed! Congratulations!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>I now present you with
+the title of "Expert
+Crafter"!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>You've really made a lot of
+items now! But don't get
+too complacent!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Well, keep up the good work!
+Toodles!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Dum-Da-Da-DAA! You've made
+280 items in the Maker
+Shed! Congratulations!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>I now present you with the
+title of "Hero Crafter"!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>You're an expert item maker
+now, <MYNAME>!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Well, keep up the good work!
+Toodles!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Dum-Da-Da-DAA! You've made
+360 items in the Maker
+Shed! Congratulations!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>I now present you with the
+title of "World-Class
+Crafter"!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>I'm just so impressed with
+all the things you can
+make, <MYNAME>!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Well, keep up the good work!
+Toodles!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Dum-Da-Da-DAA! You're
+incredible, <MYNAME>!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>You've made 450 items in the
+Maker Shed! Congratulations!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>I don't think there's anyone
+who knows how to use the
+Maker Shed like you do!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>I now present you with the
+title of "Legendary
+Crafter"!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>You're a master of item
+making, <MYNAME>! I'm
+really impressed!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Well, keep up the good work!
+Toodles!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Dum-Da-Da-DAA!
+
+----------------------------|----------------------------------
+<FACE_POS_LEFT><HIDE_NAME><FACE_HGODDES><FACE_NORMAL><FP_LEFT><HIDE_FACE>Dum-Da-Da-DAA! You've made
+10 items in the Maker
+Shed! Congratulations!<PAGE>I now present you with the
+title of "Apprentice
+Crafter"!<PAGE>By the way, have you figured
+out who I am?<PAGE>I'll tell you if you
+can find me!<PAGE>Well, keep up the good work!
+Toodles!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><HIDE_NAME><FACE_HGODDES><FACE_NORMAL><FP_LEFT><HIDE_FACE>Dum-Da-Da-DAA! You've made
+30 items in the Maker
+Shed! Congratulations!<PAGE>I now present you with
+the title of "Novice
+Crafter"!<PAGE>By the way, have you figured
+out who I am yet?<PAGE>I'll tell you if you
+can find me!<PAGE>Well, keep up the good work!
+Toodles!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><HIDE_NAME><FACE_HGODDES><FACE_NORMAL><FP_LEFT><HIDE_FACE>Dum-Da-Da-DAA! You've made
+60 items in the Maker
+Shed! Congratulations!<PAGE>I now present you with the
+title of "Fine Crafter!"<PAGE>By the way, have you figured
+out who I am yet?<PAGE>I'll tell you if you
+can find me!<PAGE>Well, keep up the good work!
+Toodles!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><HIDE_NAME><FACE_HGODDES><FACE_NORMAL><FP_LEFT><HIDE_FACE>Dum-Da-Da-DAA! You've made
+100 items in the Maker
+Shed! Congratulations!<PAGE>I now present you with
+the title of "Veteran
+Crafter"!<PAGE>By the way, have you figured
+out who I am yet?<PAGE>I'll tell you if you
+can find me!<PAGE>Well, keep up the good work!
+Toodles!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><HIDE_NAME><FACE_HGODDES><FACE_NORMAL><FP_LEFT><HIDE_FACE>Dum-Da-Da-DAA! You've made
+150 items in the Maker
+Shed! Congratulations!<PAGE>I now present you with the
+title of "Great Crafter"!<PAGE>By the way, have you figured
+out who I am yet?<PAGE>I'll tell you if you
+can find me!<PAGE>Well, keep up the good work!
+Toodles!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><HIDE_NAME><FACE_HGODDES><FACE_NORMAL><FP_LEFT><HIDE_FACE>Dum-Da-Da-DAA! You've made
+210 items in the Maker
+Shed! Congratulations!<PAGE>I now present you with
+the title of "Expert
+Crafter"!<PAGE>By the way, have you figured
+out who I am yet?<PAGE>I'll tell you if you
+can find me!<PAGE>Well, keep up the good work!
+Toodles!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><HIDE_NAME><FACE_HGODDES><FACE_NORMAL><FP_LEFT><HIDE_FACE>Dum-Da-Da-DAA! You've made
+280 items in the Maker
+Shed! Congratulations!<PAGE>I now present you with the
+title of "Hero Crafter"!<PAGE>By the way, have you figured
+out who I am yet?<PAGE>I'll tell you if you
+can find me!<PAGE>Well, keep up the good work!
+Toodles!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><HIDE_NAME><FACE_HGODDES><FACE_NORMAL><FP_LEFT><HIDE_FACE>Dum-Da-Da-DAA! You've made
+360 items in the Maker
+Shed! Congratulations!<PAGE>I now present you with the
+title of "World-Class
+Crafter"!<PAGE>By the way, have you figured
+out who I am yet?<PAGE>I'll tell you if you
+can find me!<PAGE>Well, keep up the good work!
+Toodles!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><HIDE_NAME><FACE_HGODDES><FACE_NORMAL><FP_LEFT><HIDE_FACE>Dum-Da-Da-DAA! You've made
+450 items in the Maker
+Shed! Congratulations!<PAGE>I now present you with the
+title of "Legendary
+Crafter"!<PAGE>By the way, isn't it about
+time you found out who I
+am...?<PAGE>I guess I'll have to appear
+right in front of you for
+you to figure it out...<PAGE>Well, keep up the good work!
+Toodles!

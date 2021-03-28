@@ -1,0 +1,274 @@
+\u232fPlease pick your character.
+<CHOICE_AB> Male
+ Female
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HERO><FACE_NORMAL>\u232fYou want a <RED>male</COLOR> character?
+<CHOICE_AB> Yes
+ No
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HERO><FACE_NORMAL>\u232fYou want a <RED>female</COLOR> character?
+<CHOICE_AB> Yes
+ No\u270ePlease enter the name of
+your character using the
++Control Pad and A Button
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HERO><FACE_NORMAL>Is the name <BLUE><MYNAME></COLOR>
+okay?<PAGE><CHOICE_AB> Yes
+ No
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HERO><FACE_NORMAL>Please pick your birthday.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HERO><FACE_NORMAL>You want your birthday to be
+<RED><VAR_0> <VAR_1>?</COLOR><PAGE><CHOICE_AB> Yes
+ No
+----------------------------|----------------------------------
+Please enter the name of
+your horse.
+----------------------------|----------------------------------
+You want to name your horse
+<BLUE><MYHORSENAME></COLOR>?<PAGE><CHOICE_AB> Yes
+ No
+----------------------------|----------------------------------
+Welcome to a mountain of
+lush green forests and
+abundant wildlife.<PAGE>Nestled at the foot of the
+mountain on each side are
+two distinctive villages.<PAGE>A young farmer with dreams
+of owning a farm has come
+here to make the dream real.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><HIDE_NAME><FACE_INA><FACE_NORMAL><FP_LEFT><HIDE_FACE>...Hey...
+Are you all right?
+----------------------------|----------------------------------
+...\u270a\u270a...\u270a\u270a...\u270a\u270aSomeone...
+is calling...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><HIDE_NAME><FACE_RUTGER><FACE_HAPPY><FP_LEFT>Well now...! Our friend has
+regained consciousness!
+Good, good!<PAGE><FACE_POS_RIGHT><HIDE_NAME><FACE_INA><FACE_NORMAL><FP_RIGHT>Are you hurt?
+It was quite a shock to find
+you lying there!<PAGE><FACE_POS_LEFT><HIDE_NAME><FACE_RUTGER><FACE_NORMAL><FP_LEFT>I don't suppose you could be
+young <MYNAME> who was
+going to come farm here?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><HIDE_NAME><FACE_INA><FACE_NORMAL><FP_RIGHT>Ah-ha...<PAGE>So while you were looking
+for a farm, you almost ran
+into an animal?<PAGE><FACE_POS_RIGHT><HIDE_NAME><FACE_INA><FACE_SAD><FP_RIGHT>You must be shaken up...<PAGE><FACE_POS_LEFT><HIDE_NAME><FACE_RUTGER><FACE_NORMAL><FP_LEFT>Looking for a farm, is it?
+So you want to be a farmer?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><HIDE_NAME><FACE_RUTGER><FACE_HAPPY><FP_LEFT>Ho ho, I knew it!<PAGE>I am the mayor of the
+village of <BLUE>Bluebell</COLOR>
+down the road to the left.<PAGE><FACE_POS_LEFT><FACE_RUTGER><FACE_HAPPY><FP_LEFT>My name is <BLUE>Rutger</COLOR>.
+Why not come to my village?
+You'd be very welcome!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><HIDE_NAME><FACE_INA><FACE_ANGRY><FP_RIGHT>Who do you think you are?!?
+If this young farmer lives
+anywhere, it'll be Konohana!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><HIDE_NAME><FACE_INA><FACE_SAD><FP_RIGHT>Ahem. Sorry to yell like
+that. But I'd hate for you
+to make a mistake.<PAGE><FACE_POS_RIGHT><HIDE_NAME><FACE_INA><FACE_NORMAL><FP_RIGHT>I'm the mayor of the village
+down the path to the right.
+It's called <BLUE>Konohana</COLOR>.<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>My name's <BLUE>Ina</COLOR>.
+I'm sure that Konohana would
+suit you better!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_RUTGER><FACE_ANGRY><FP_LEFT>And who do you think YOU
+are?!?<PAGE>Konohana? Better than my
+lovely village of Bluebell?
+Preposterous!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_RUTGER><FACE_ANGRY><FP_LEFT>Hmph.
+We're getting sidetracked
+here. Back to business.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>By the way, we haven't asked
+your name.<PAGE><FACE_POS_LEFT><FACE_RUTGER><FACE_NORMAL><FP_LEFT>That's right!
+What's your name, my young
+friend?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>Well, <MYNAME>, it's time for
+you to pick which village
+you want to live in.<PAGE><FACE_POS_LEFT><FACE_RUTGER><FACE_HAPPY><FP_LEFT>It certainly is!
+Before you do, let me tell
+you a little about Bluebell!
+----------------------------|----------------------------------
+<CHOICE_AB> Please tell me.
+ I already know.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_RUTGER><FACE_HAPPY><FP_LEFT>Of course!
+I'll tell you all about it.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_RUTGER><FACE_HAPPY><FP_LEFT>Doesn't that sound like a
+wonderful village? Farming
+means livestock, after all!<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_ANGRY><FP_RIGHT>Stop talking nonsense!
+Farming means crops.<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>And when it comes to crops,
+Konohana is tops!<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>Now it's my turn to tell
+you something about what
+Konohana is like.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_RUTGER><FACE_HAPPY><FP_LEFT>You do, eh?
+My village is famous!<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_SAD><FP_RIGHT>You wish, Rutger...<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>Anyway, should I tell you
+about Konohana now?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>Alrighty then, let me
+tell you about it.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>Nice place, isn't it?<PAGE>You won't find a better
+place for crops in
+all the world.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>Oh, you do! In that case, I
+can skip telling you!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_RUTGER><FACE_NORMAL><FP_LEFT>So, <MYNAME>, which village
+do you choose to live in?<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>Your choice will affect how
+your life is from now on. So
+pick the village you like.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_RUTGER><FACE_NORMAL><FP_LEFT>In Bluebell, our lives
+center on our livestock.<PAGE>Their glossy coats!
+Tails swaying in the breeze!
+Their soft eyes!<PAGE>Fresh milk, cheese, and
+eggs!<PAGE><FACE_POS_LEFT><FACE_RUTGER><FACE_HAPPY><FP_LEFT>In Bluebell, our animals are
+like lifelong companions!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_RUTGER><FACE_NORMAL><FP_LEFT>And our adorable animals
+aren't all!<PAGE>Flowers bloom everywhere,
+handsome brick houses stand
+along cobblestone streets...<PAGE><FACE_POS_LEFT><FACE_RUTGER><FACE_HAPPY><FP_LEFT>Bluebell is a storybook
+village full of romantic
+charm!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>Konohana is nestled among
+fields of crops.<PAGE>Tender vegetables!
+Sweet, scrumptious fruit!
+Golden waves of grain!<PAGE>Crops sprouting from ample
+fields in all seasons.<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>Raising crops is what life
+is all about!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>Along with our great crops,
+we have a village that's as
+pretty as can be!<PAGE>The buildings have tile and
+thatch roofs that really set
+them apart!<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>And colorful paper lanterns
+hanging from the eaves!
+That's Konohana for you!
+----------------------------|----------------------------------
+\u232fChoose your village:
+<CHOICE_AB> Bluebell
+ Konohana
+----------------------------|----------------------------------
+\u232fLive in <BLUE>Bluebell</COLOR>?
+<CHOICE_AB> Yes
+ No
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_RUTGER><FACE_HAPPY><FP_LEFT>Of course, of course!
+Farming means livestock!
+It was an obvious choice.<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_SAD><FP_RIGHT>Grrr...of all the...
+Now what's not to love
+about Konohana?!?<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>What's done is done.
+If you change your mind, you
+can move to Konohana.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Well now, <MYNAME>.
+It's time to go to Bluebell!<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>But before we go, you need
+to change out of those
+muddy clothes!<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>You're starting a new life,
+after all!
+Here, wear this.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>It's a <GREEN>Bluebell Outfit</COLOR>.<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Go ahead and put it on...
+Check the bottom screen.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>See that picture of yourself
+on the right side?<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Touch it and you get
+this screen!
+----------------------------|----------------------------------
+Highlight the outfit with
+the <RED>+Control Pad</COLOR> and select
+it by pressing the <RED>A Button</COLOR>.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Here's how you choose the
+outfit you'll wear!<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>With the <RED>+Control Pad</COLOR>, move
+the cursor over the outfit
+you want.<PAGE>Press the <RED>A Button</COLOR> to put
+it on!<PAGE>You can also touch the
+picture of the outfit
+you want to wear.<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Give it a try!
+Go ahead and change your
+outfit now!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>It looks good on you!
+Starting today, you are a
+resident of Bluebell!<PAGE>Now we're ready to go to
+Bluebell!
+----------------------------|----------------------------------
+\u232fLive in <BLUE>Konohana</COLOR>?
+<CHOICE_AB> Yes
+ No
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>I knew it! Who could
+resist such a beautiful,
+crop-friendly town?<PAGE><FACE_POS_LEFT><FACE_RUTGER><FACE_SAD><FP_LEFT>I don't understand...
+What's wrong with Bluebell?<PAGE><FACE_POS_LEFT><FACE_RUTGER><FACE_NORMAL><FP_LEFT>What a shame! If you ever
+change your mind, you're
+welcome in Bluebell!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>Alrighty then, let's get
+going to Konohana!<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>One thing we have to deal
+with before that, though, is
+your muddy clothes!<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>You wouldn't want to start
+your new life all caked in
+mud! Wear this instead.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>It's a <GREEN>Konohana Outfit</COLOR>.<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>Go ahead and put it on...
+Check the bottom screen.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>See that picture of yourself
+on the right side?<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>Touch it and you get
+this screen!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>Here's how you choose the
+outfit you'll wear!<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>With the <RED>+Control Pad</COLOR>, move
+the cursor over the outfit
+you want.<PAGE>Press the <RED>A Button</COLOR> to put
+it on!<PAGE>You can also touch the
+picture of the outfit
+you want to wear.<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>Give it a try!
+Go ahead and change your
+outfit now!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>Looks pretty good on you!
+Starting today, you are a
+resident of Konohana!<PAGE>Now we're ready to go to
+Konohana!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_RUTGER><FACE_NORMAL><FP_LEFT>Hmm? What is it?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_RUTGER><FACE_NORMAL><FP_LEFT>Oh, you noticed the tunnel,
+I see.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_RUTGER><FACE_NORMAL><FP_LEFT>It connects this village
+with Konohana...<PAGE>But it's blocked now and you
+can't go back and forth as
+they did in the old days.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_RUTGER><FACE_HAPPY><FP_LEFT>Time waits for no one!
+Don't just stand there.<PAGE>Your farm is this way.
+Come with me.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>Huh? What is it?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>Oh, so you noticed the
+tunnel.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>It connects this village
+with Bluebell...<PAGE>But it's blocked now and you
+can't go back and forth as
+they did in the old days.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>Get a move on! We're burning
+daylight here.<PAGE>Your farm's this way.
+Come on!

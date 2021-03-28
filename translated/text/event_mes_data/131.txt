@@ -1,0 +1,541 @@
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_NORMAL>Oh, wajah pendatang baru ya!
+Nama aku Pierre.
+Senang untuk bertemu denganmu
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_NORMAL>Apakah kebunmu selamat dari
+badai kemarin?
+Sungguh mengelegar ya!
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_HAPPY>Binatang peliharaan yang
+keren! Aku ingin memeliha-
+ranya satu seperti ini!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_NORMAL>Hm maaf aku tidak terlalu
+suka berdekatan dengan
+binatang peliharaan ini...
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_HAPPY>Berita yang bagus!
+<MYNAME>, hm yang indah
+menurutmu itu siapa?<PAGE>Apapun itu, aku yakin kamu
+akan memilihnya juga,
+<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_NORMAL>Ini untukku?
+Tidak, tidak masalah.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_NORMAL>Aku tak dapat menerima satu
+lagi... maaf!
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_NORMAL>Aku tidak bermaksud kasar
+ya, tapi bukankah kamu memer-
+lukan itu saat ini?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_HAPPY>FAVORITE MESSAGE (BIRTHDAY)
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_HAPPY>FAVORITE MESSAGE
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_NORMAL>LIKE MESSAGE (BIRTHDAY)
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_NORMAL>LIKE MESSAGE
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_NORMAL>AVERAGE MESSAGE (BIRTHDAY)
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_NORMAL>AVERAGE MESSAGE
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_NORMAL>DISLIKE MESSAGE (BIRTHDAY)
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_NORMAL>DISLIKE MESSAGE
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_NORMAL>HATE MESSAGE
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_HAPPY><MYNAME>, apa kamu menikmati
+kehidupan setelah menikah?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_NORMAL>Gimana bisa seseorang bisa
+tidur di angin sekencang 
+itu? Setahu aku aku tidak<PAGE>bisa tidur...
+kalau sekencang itu...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_HAPPY>Disaat aku zaman masih
+kecil dulu, aku menyukai
+salju besar seperti kemarin.<PAGE><FACE_POS_RIGHT><FACE_PIERRE><FACE_NORMAL>Tapi sekarang disaat aku
+sudah besar, aku pikir-pikir
+itu hal yang membuatku<PAGE>merinding.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_HAPPY>Aku berbicara dengan Rutger
+sepanjang waktu.<PAGE>Dia sangat senang jika kamu
+tinggal didesanya,
+<MYNAME>.<PAGE>Kamu harusnya bangga apa 
+perbuatan kamu yang sudah
+dilakukan itu.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_HAPPY>Rutger dan Rose sangat
+mengharapkanmu, <MYNAME>.<PAGE>Mereka hampir setiap saat
+disekitar rumahnya membicara-
+kan kamu loh.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_NORMAL><MYNAME>, ternyata kamu
+cukup menyenangkan jika di
+ajak berbincang-bincang.<PAGE>Aku selalu menikmati pembi-
+caraan mengenai kehidupan di
+sebuah perkebunan.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_NORMAL><MYNAME>, sepertinya kamu
+bersikap baik hati dengan
+orang orang dan semuanya me-<PAGE>nyukai perbuatanmu.<PAGE><FACE_POS_RIGHT><FACE_PIERRE><FACE_HAPPY>Ini membuatku senang untuk
+mengetahui orang lain ber-
+pikir baik tentang kamu.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_NORMAL>Apakah kehidupan yang kamu
+jalanani itu baik baik saja
+buat kamu?<PAGE>Jika kamu mengalami masalah,
+kamu bisa bertanya kepada
+aku sepanjang waktu.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_NORMAL>Sepertinya kesehatanmu lagi
+membara ya, dan itu yang
+menjadi hal terpenting.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_NORMAL>Bekerja di balai desa mung-
+kin kedengarannya membosan-
+kan, <PAGE>tapi ini cukup
+menyenangkan kok.
+----------------------------|----------------------------------
+
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_NORMAL>Ah-ha, cukup disini untuk
+festival hari ini, benarkan?
+Selmat berjuang!
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_NORMAL>AVERAGE PET MESSAGE
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_NORMAL>LIKE WILD ANIMAL MESSAGE
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_NORMAL>DISLIKE WILD ANIMAL MESSAGE
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_NORMAL>AVERAGE WILD ANIMAL MESSAGE
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_HAPPY>Betapa menyenangkan untuk
+bisa mendapatkan sebuah
+bunga yang indah itu!<PAGE>Merci beaucoup!
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_HAPPY>Oooh-la-la!
+Apa ini?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_HAPPY>Aku akan menunggu banyak
+pembicaraan yang cukup ber-
+sahabat ini denganmu.
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_NORMAL>Aku merasa damai disaat
+saat menghabiskan waktuku
+disini.<PAGE>ini balai desa, tapi ini
+rumahku juga.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_NORMAL>Aku membantu Rutger dan 
+Rose. Ini cukup menyenang-
+kan!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_NORMAL>Dan alasanmu datang kesini?
+Apa ada bisnis dengan
+Rutger?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_NORMAL>Sepertinya kamu terburu-buru.
+Slowww bang jangan kayak
+gitu....
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_NORMAL>OUTDOORS MESSAGE 1
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_NORMAL>OUTDOORS MESSAGE 2
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_NORMAL>OUTDOORS MESSAGE 3
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_NORMAL>OUTDOORS MESSAGE 4
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_NORMAL>OUTDOORS MESSAGE 5
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_NORMAL>OUTDOORS MESSAGE 6
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_NORMAL>OUTDOORS MESSAGE 7
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_NORMAL>OUTDOORS MESSAGE 8
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_NORMAL>OUTDOORS MESSAGE 9
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_NORMAL>OUTDOORS MESSAGE 10
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_NORMAL>OUTDOORS MESSAGE 11
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_NORMAL>INDIVIDUAL MESSAGE 1
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_NORMAL>INDIVIDUAL MESSAGE 2
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_NORMAL>INDIVIDUAL MESSAGE 3
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_NORMAL>Ah, cukup mengecewakan ya!
+Semoga kedepannya keberun-
+tunganmu lebih baik!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_HAPPY>Aku tidak dapat menunggunya
+saat ini disepanjang tahun
+ini.<PAGE>Aku penasaran bagaimana
+jadinya untuk saat ini?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_HAPPY>Kamu tidak ikutan?<PAGE>Uh kamu harus ikut dilain
+waktu ya. Disayangkan...
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_NORMAL>Dan aku benar-benar berpi-
+kiran kamu yang terbaik,
+<MYNAME>...<PAGE>Sepertinya keberuntunganmu
+masih kurang, kamu akan
+menang dilain waktu!
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_NORMAL>Ah, <MYNAME>.
+Semoga beruntung hari ini.
+Desa kita tak akan kalah.
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_NORMAL>Selamat pagi,
+<MYNAME>.<PAGE>Bekerja keras di pagi hari
+ini? Ayo semangat!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_NORMAL>Selamat pagi,
+<MYNAME>.<PAGE>Bagaimana keadaanmu
+pada hari ini?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_NORMAL>Selamat pagi.
+Apakah pagi hari ini sangat
+sibuk buatmu?<PAGE>Jangan memaksakan tubuhmu
+untuk melakukan pekerjaan
+yang berat!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_NORMAL>Hello,
+<MYNAME>.<PAGE>Kamu terlihat berse-
+mangat. Pertahankan!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_HAPPY><MYNAME>,
+hal yang disana.<PAGE>Apa sudah makan?
+Makanan yang segar itu
+baik untuk kamu!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_HAPPY>Hello.<PAGE>Kamu harus mengundangku ber-
+kunjung ke pertanianmu
+jika sempat.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_NORMAL>Selamat Malam,
+<MYNAME>.<PAGE>Ini sudah larut malam!
+Waktu benar-benar cepat
+berlalu!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_NORMAL><MYNAME>,
+Selamat Malam.<PAGE>Hm ada apa kamu kesini di
+waktu selarut ini?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_NORMAL>Selamat Malam.<PAGE>Diluar sudah sangat gelap,
+jadi hati-hati kalau berjalan
+ya!
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_NORMAL>SHOP OPEN MESSAGE 1
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_NORMAL>SHOP OPEN MESSAGE 2
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_NORMAL>SHOP OPEN MESSAGE 3
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_NORMAL>CAFE MESSAGE 1
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_NORMAL>CAFE MESSAGE 2
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_NORMAL>CAFE MESSAGE 3
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_NORMAL>OTHER INDOOR MESSAGE 1
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_NORMAL>OTHER INDOOR MESSAGE 2
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_NORMAL>OTHER INDOOR MESSAGE 3
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_HAPPY>Selamat,
+<MYNAME>!!!<PAGE>Pastinya makananmu paling
+terenak dari peserta lainnya!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_HAPPY>Selamat!<PAGE>Kamu akan menunjukan teknik
+memasakmu dilain waktu ya.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_HAPPY>Selamat,
+<MYNAME>!!!<PAGE>Hasil panenmu memang menjadi
+bahan masakan yang terbaik!<PAGE>Biarkan aku memakannya
+dilain waktu!
+hehehe
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_HAPPY>Cuaca hari ini benar-benar
+sempurna untuk festival!
+Cukup hangat segar!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_HAPPY>Apa kamu sudah menikmati
+kehidupanmu pada hari ini?<PAGE>Kalau dari muka kamu,
+sepertinya kamu jones :v
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_NORMAL>Ini selalu terjadi, merasakan
+kesedihan yang mendalam di
+saat festivalnya dah selesai.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_NORMAL>Dummy
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_NORMAL>Dummy
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_NORMAL>Dummy
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_NORMAL>Dummy
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_NORMAL>Dummy
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_NORMAL>Dummy
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_NORMAL>Dummy
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_NORMAL>Dummy
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_NORMAL>Dummy

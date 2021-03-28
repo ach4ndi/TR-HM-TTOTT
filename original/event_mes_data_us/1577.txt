@@ -1,0 +1,93 @@
+<FACE_POS_RIGHT><FACE_GRADY><FACE_NORMAL>Welcome to Grady's
+Animals. Take your time and
+look around!\u2390
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GRADY><FACE_NORMAL><CHOICE_ABC> I want to see carts.
+ I want to see animals.
+ Never mind.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GRADY><FACE_SAD>Would you please take a
+little better care of it?
+I feel sorry for the horse.\u2390
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GRADY><FACE_SAD>Everything is sold out
+today. Sorry about that.\u2390
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GRADY><FACE_NORMAL>Well, then. Come by some
+other time.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GRADY><FACE_NORMAL><CHOICE_ABC> Rent a horse.
+ Buy pets.
+ Never mind.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GRADY><FACE_NORMAL>Hm? Sorry.
+You don't have enough money.\u2390
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GRADY><FACE_NORMAL>Changed your mind?
+Okay. Anything else you
+need?\u2390
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GRADY><FACE_NORMAL>It'll be <RED><VAR_0>G</COLOR>, okay?
+<CHOICE_AB> Yes.
+ No.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GRADY><FACE_NORMAL>What would you like to call
+this one? Do you have a
+good name for it?\u2390
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GRADY><FACE_NORMAL><VAR_0>? You're sure?
+<CHOICE_AB> Yes.
+ No.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GRADY><FACE_HAPPY>Thank you.
+Take good care of it!\u2390
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GRADY><FACE_NORMAL>You changed your mind?
+Okay. Do you need anything
+else?\u2390
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GRADY><FACE_NORMAL>That'll be <RED><VAR_0>G</COLOR>.
+<CHOICE_AB> Buy.
+ Never mind.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GRADY><FACE_NORMAL>You can't keep any more of
+this kind of pet.\u2390
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GRADY><FACE_NORMAL>What would you like to call
+this one? Do you have a
+good name for it?\u2390
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GRADY><FACE_NORMAL><CHOICE_ABC> Buy cart.
+ Upgrade cart.
+ Never mind.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GRADY><FACE_NORMAL>That'll be <RED><VAR_0>G</COLOR>.
+<CHOICE_AB> Upgrade.
+ Never mind.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GRADY><FACE_NORMAL>It looks like you don't
+have a cart to upgrade. Do
+you need anything else?\u2390
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GRADY><FACE_NORMAL>Changed your mind?
+Okay. Need anything else?
+\u2390
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GRADY><FACE_NORMAL>I have a rare animal
+available today.\u2390
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GRADY><FACE_HAPPY>That's a great name!
+Now I'll tell you how to
+take care of an owl.<PAGE><FACE_POS_RIGHT><FACE_GRADY><FACE_NORMAL>You feed
+<RED>owl food</COLOR> to
+your owl.<PAGE>Just put the food on the
+ground, and...
+<PAGE><FACE_POS_RIGHT><FACE_GRADY><FACE_HAPPY>...your owl will come to you
+and eat it.<PAGE><FACE_POS_RIGHT><FACE_GRADY><FACE_NORMAL>You can buy Owl Food at
+Raul's or Diego's shop.<PAGE>That's pretty much all
+you need to know.<PAGE><FACE_POS_RIGHT><FACE_GRADY><FACE_HAPPY>Oh, one more thing.
+Train your owl, and...<PAGE><FACE_POS_RIGHT><FACE_GRADY><FACE_NORMAL>...it'll take you from the
+mountaintop down to either
+town.<PAGE><FACE_POS_RIGHT><FACE_GRADY><FACE_HAPPY>Pretty amazing, isn't it?
+I'm sure you'll get some
+good use out of that!\u2390

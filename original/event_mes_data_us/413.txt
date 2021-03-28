@@ -1,0 +1,32 @@
+<FACE_POS_LEFT><FACE_RUTGER><FACE_NORMAL><FP_LEFT>What nice weather
+we're having today.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_RUTGER><FACE_NORMAL><FP_LEFT>Oh, <MYNAME>.
+How's the farm?<PAGE>I hear things are
+going well.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_RUTGER><FACE_HAPPY><FP_LEFT>That's splendid.<PAGE>It warms my heart to see
+all these new people and
+animals in the village.<PAGE><FACE_POS_LEFT><FACE_RUTGER><FACE_NORMAL><FP_LEFT>So, <MYNAME>, have you
+heard about the meaning
+behind this statue?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_RUTGER><FACE_NORMAL><FP_LEFT>This statue represents
+our village, you see.<PAGE>Unlike Konohana Village,
+we focus on livestock.<PAGE>That's why our symbol
+is an animal.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_RUTGER><FACE_HAPPY><FP_LEFT>So have you figured out
+the major difference
+between our two villages?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_RUTGER><FACE_NORMAL><FP_LEFT>As I'm sure you know, we
+focus on raising livestock.<PAGE>That's why our symbol
+is an animal.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_RUTGER><FACE_HAPPY><FP_LEFT>I'm sure you've come to see
+the strengths and weaknesses
+of both villages.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_RUTGER><FACE_NORMAL><FP_LEFT>Anyway, I should be going.
+Bye, <MYNAME>.

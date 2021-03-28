@@ -1,0 +1,71 @@
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>How's work on the farm?
+Everything going fine?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Hey, that's great!<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>...Huh?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>Oh, you've got a tear in
+your shirt here. Hold still
+for a second...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>All done!
+How's that?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Oh, it was no problem!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>Do I always walk around
+with my sewing kit?<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Yes, I do!
+Well, not ALWAYS,
+but most of the time!<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>My sewing kit and my
+necklace are heirlooms from
+my grandmother.<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>My grandmother was really
+handy around the house.<PAGE>Sewing, cooking, you name
+it! My grandmother taught me
+everything I know!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_SAD><FP_RIGHT>I was so sad when
+she passed away.
+----------------------------|----------------------------------
+<CHOICE_AB> You really loved her...
+ That must've been tough.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Yes. Very, very much.<PAGE>But I still had my
+grandfather, so I wasn't
+alone.<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>Even though it was really
+hard on my grandfather to
+lose my grandmother...<PAGE>When I'd cry, he'd smile and
+say that grandma would want
+us to keep living happily.<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_SAD><FP_RIGHT>If it wasn't for my grandpa,
+I don't know how I would
+have gotten through that.<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>I hope there's something I
+can do to help him as much
+someday.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_SAD><FP_RIGHT>Um, sorry about that.
+It's not a very happy
+subject to talk about.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Thanks, <MYNAME>.
+<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>It's getting late, so we
+should be getting home.<PAGE>I really enjoyed talking to
+you today. Can I invite you
+out again?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Ha ha! Okay!
+Until next time, then!
+Bye!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>Tough?
+I don't know about that.<PAGE>I was just a kid
+It was sad, but I wouldn't
+say it was tough, exactly.<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_SAD><FP_RIGHT>It was definitely tough for
+my grandfather, though.<PAGE>After my grandmother passed
+away, he had no time to be
+sad while taking care of me.<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>So I want to be able to
+take care of him.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_SAD><FP_RIGHT>Um, sorry about that.
+It's not a very happy
+subject to talk about.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Thanks, <MYNAME>.<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>It's getting late, so we
+should be getting home.

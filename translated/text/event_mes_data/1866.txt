@@ -1,0 +1,139 @@
+<FP_NONE>Tanya tentang permintaan?
+<CHOICE_AB> Ya
+ Tidak
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>Jadi, kamu datang kemari
+untuk diajarkan mengenai
+cara <RED>menangkap serangga</COLOR>,<PAGE>apa benar?<PAGE><FACE_POS_RIGHT><FACE_GEORGIA><FACE_HAPPY>Apa kamu sudah tahu beberapa
+trik untuk <RED>menangkap 
+serangga</COLOR>?<PAGE>Apa kamu ingin kuberitahulan
+beberapa tips untukmu?
+----------------------------|----------------------------------
+<FP_NONE><CHOICE_AB> Tolong beritahuku!
+ Tidak makasih.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_HAPPY><FP_RIGHT>Kenapa?, tentu saja aku
+akan senang untuk memberi-
+tahukanmu kok!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>Dan itu semua trik yang
+perlu kamu ketahui, apakah
+masih belum paham?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_HAPPY><FP_RIGHT>Well, dikasus ini, aku me-
+masang <RED>permintaanku</COLOR> di
+papan untukmu!<PAGE><FACE_POS_RIGHT><FACE_GEORGIA><FACE_NORMAL>Tahan ya, tahan! Karena ini
+kamu masih pemula, aku
+akan memberikan petunjuknya<PAGE>oke?
+Sabar napa!!<PAGE>Serangga ada banyak warna
+jenisnya, tapi...<PAGE>Belalang yang aku minta ini
+berwarna <RED>coklat</COLOR>!
+Jika kamu kesusahan menemu-<PAGE>kannya, ingat-ingat
+warnanya!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_HAPPY><FP_RIGHT>Halo!
+Bagaimana kabarmu!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_HAPPY><FP_RIGHT>Halo!
+Bagaimana kabarmu!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_HAPPY><FP_RIGHT>Halo!
+Bagaimana kabarmu!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_HAPPY><FP_RIGHT>Halo!
+Bagaimana kabarmu!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>Wow, kamu melakukannya!
+Kamu menangkap dengan usaha-
+mu sendiri! Ayo kita lihat!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_HAPPY><FP_RIGHT>Kerja bagus! Kamu menangkap
+serangga yang kuminta!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_HAPPY><FP_RIGHT>my,my,my, sepertinya kamu
+seorang penangkap serangga
+yang handal, <MYNAME>!<PAGE>Aku pikir ini terlalu susah
+untukmu, karena kamu baru
+pertama ini menangkapnyakan?<PAGE>dan juga kamu warga baru di
+desa ini. Ternyata perkira-
+an aku salah!<PAGE>Namun, disana masih banyak
+jenis serangga yang bisa di
+cari, salah satunya aku<PAGE>dalam permintaanku!<PAGE><FACE_POS_RIGHT><FACE_GEORGIA><FACE_HAPPY>Hanya menjelajahi pegunung-
+an lebih sedikit dan aku
+pastikan kamu akan menemukan<PAGE>lebih banyak lagi!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>btw, kamu telah memenuhi
+permintaanku, jadi kamu ber-
+hak mendapatkan hadiah!<PAGE>Hanya pilih hadiah yang kamu
+mau pada <RED>Layar hadiah</COLOR>...<PAGE><FACE_POS_RIGHT><FACE_GEORGIA><FACE_HAPPY>...Dan pindahkan ke <RED>tas</COLOR>
+kamu! Mudahkan? hihihi
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_HAPPY><FP_RIGHT>Kamu melakukan pekerjaan
+yang mengagumkan,<MYNAME>!<PAGE><FACE_POS_RIGHT><FACE_GEORGIA><FACE_NORMAL>Aku yakin aku akan meminta
+bantuan dengan memasang se-
+banyak-banyaknya permintaan<PAGE><FACE_POS_RIGHT><FACE_GEORGIA><FACE_HAPPY><FP_RIGHT>ke papan permintaan kedepan-
+nya! hahaha!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_HAPPY><FP_RIGHT>Halo!
+Bagaimana kabarmu!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_HAPPY><FP_RIGHT>Halo!
+Bagaimana kabarmu!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_HAPPY><FP_RIGHT>Halo!
+Bagaimana kabarmu!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_HAPPY><FP_RIGHT>Halo!
+Bagaimana kabarmu!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_HAPPY><FP_RIGHT>Halo!
+Bagaimana kabarmu!
+----------------------------|----------------------------------
+<FP_NONE>Aku bilang ada triknya ini,
+tapi, benar-benar mudah kok!
+----------------------------|----------------------------------
+<FP_NONE>Disana! Kamu melihat serang-
+ga yang barusan muncul
+tidak?
+----------------------------|----------------------------------
+<FP_NONE>Yup! serangga selalu bersem-
+bunyi dibalik semak-semak
+rumput.<PAGE>Disaat kamu mendekatinya dan
+mengagetkannya, maka mereka
+akan lompat menjauh!<PAGE>Disaat kamu menemukan
+serangga, bersiap-siap men-
+dekatinya dan tangkap!\u270a<PAGE><RED>Tekan tombol A</COLOR>!
+Kamu akan menangkapnya!
+----------------------------|----------------------------------
+<FP_NONE>Tapi jika kamu gagal menang-
+kapnya dengan cepat, itu 
+mungkin akan menjauhimu!<PAGE>Hati hati!<PAGE>Jika gagal, jangan takut!
+Ini sebuah pegunungan yang
+luas!<PAGE>Jadi jika tetap melihat
+lebih dalam, kamu pastinya
+akan menemukan lebih banyak<PAGE>serangga bertebaran disana!
+----------------------------|----------------------------------
+<FP_NONE>Disaat kamu melangkai di-
+sekitar rerumputan seperti
+ini, serangga mungkin muncul
+----------------------------|----------------------------------
+<FP_NONE>Ingat, permintaanku ini
+adalah seekor
+<GREEN>Belalang tutul</COLOR>!
+----------------------------|----------------------------------
+<FP_NONE>Cara terbaik untuk mencari-
+nya untuk mencarinya diseki-
+tar disini!<PAGE>Tapi jika kamu melihat-lihat
+dan tidak menemukannya...
+Bisa berpindah tempat dengan<PAGE><RED>berpindah ke layar</COLOR>
+lainnya, lalu kembali, dan
+serangga akan nampak lagi!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_HAPPY><FP_RIGHT>Halo!
+Bagaimana kabarmu!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_HAPPY><FP_RIGHT>Halo!
+Bagaimana kabarmu!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_HAPPY><FP_RIGHT>Halo!
+Bagaimana kabarmu!

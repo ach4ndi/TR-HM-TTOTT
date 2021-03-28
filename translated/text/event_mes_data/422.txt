@@ -1,0 +1,72 @@
+<FACE_POS_RIGHT><FACE_CHERYL><FACE_HAPPY><FP_RIGHT>Hi, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Masih bekerja dihari yang
+menyenangkan seperti ini?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_HAPPY><FP_RIGHT>Kamu selalu bekerja dengan
+giat, <MYNAME>.<PAGE>Kamu harus melonggarkan
+waktu untuk istirahat dan
+jalan-jalan waktu ke waktu<PAGE>seperti kita lakukan sehari-
+hari ini.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_HAPPY><FP_RIGHT>Hi, Selamat sore, Rutger.<PAGE><FACE_POS_RIGHT><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Hi!<PAGE><FACE_POS_LEFT><FACE_RUTGER><FACE_HAPPY><FP_LEFT>Ho ho ho. Selamat sore!
+Kamu tampak sehat-sehat ya!<PAGE>Ini membuatku senang untuk
+melihat betapa hidupnya war-
+ga-warga disini.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_RUTGER><FACE_HAPPY><FP_LEFT>Oh benar juga. Aku ingin mem-
+perlihatkan kamu sesuatu.<PAGE>Aku pikir ini sebuah trik
+yang menarik. Tak kubiarkan
+orang-orang muda memiliki<PAGE>semua kesenangan yang ada!<PAGE><FACE_POS_LEFT><FACE_RUTGER><FACE_NORMAL><FP_LEFT><MYNAME>, kenapa tidak kamu
+datang berhadap disebelahku
+dan membantuku?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_RUTGER><FACE_NORMAL><FP_LEFT>Aku ingin memintamu untuk
+memastikan dikepalaku ini
+tidak ada apa-apa.
+----------------------------|----------------------------------
+<CHOICE_AB> Uhm, kosong. eh?
+ Kulihat lagi deh.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_RUTGER><FACE_NORMAL><FP_LEFT>Sekarang tonton dengan
+cermat!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Apa yang kamu lakukan
+selanjutnya?<PAGE><FACE_POS_LEFT><FACE_RUTGER><FACE_NORMAL><FP_LEFT>Lihat dan perhatikan ya.<PAGE><FACE_POS_LEFT><FACE_RUTGER><FACE_ANGRY><FP_LEFT>\u232dMmm...\u270a...\u270a...\u270a...\u270a\u232c
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Rutger!\u270a...\u270b
+<FACE_POS_RIGHT><FACE_CHERYL><FACE_HAPPY><FP_RIGHT>\u20d0Itu sungguh hebat!
+Bagaimana kamu melakukannya?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_RUTGER><FACE_NORMAL><FP_LEFT>Uh, aku tidak suka memberita-
+hukan rahasiaku.<PAGE><FACE_POS_LEFT><FACE_RUTGER><FACE_HAPPY><FP_LEFT>Aku akan memberitahukannya...
+Jika kamu sudah bagus hal
+itu... Mungkin kapan2 ya.<PAGE><FACE_POS_RIGHT><FACE_CHERYL><FACE_HAPPY><FP_RIGHT>Yay!♪
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_RUTGER><FACE_NORMAL><FP_LEFT>Aku lega bahwa orang-orang
+masih menyukai trik itu 
+masih bisa menghibur.<PAGE><FACE_POS_LEFT><FACE_RUTGER><FACE_HAPPY><FP_LEFT>Sekarang apa yang harus aku
+lakukan selanjutnya ya?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Apakah tadi menyenangkan?
+Kami bersyukur memiliki
+kepala desa sepertimu.<PAGE>Sampai jumpa lagi, <MYNAME>.
+Semoga beruntung dengan
+pekerjaanmu!<PAGE><FACE_POS_RIGHT><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Daaa daaah, <MYNAME>!
+----------------------------|----------------------------------
+<CHOICE_AB> Lagi!
+ Sudah itu cukup.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CHERYL><FACE_HAPPY><FP_RIGHT>Aku juga ingin melihatnya
+juga!<PAGE><FACE_POS_LEFT><FACE_RUTGER><FACE_NORMAL><FP_LEFT>Oke oke.
+Sekarang lihat dengan hati-
+hati ya.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_RUTGER><FACE_NORMAL><FP_LEFT>Aku akan melakukannya sekali
+lagi untuk hari ini.
+Tapi ya gitu...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_RUTGER><FACE_ANGRY><FP_LEFT>\u232dMmm...\u270a...\u270a..\u270a...\u270a\u232c
+----------------------------|----------------------------------
+<CHOICE_AB> Lagi! Lagi!
+ Sudah itu cukup.

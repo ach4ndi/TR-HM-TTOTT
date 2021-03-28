@@ -1,0 +1,38 @@
+<FACE_POS_RIGHT><FACE_NATHAN><FACE_HAPPY><FP_RIGHT>Ah, <MYNAME>! It's nice to
+see you around here!<PAGE>I'm offering my thanks to
+the Harvest Goddess!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>I come here every week to
+offer my gratitude.<PAGE>You see, a long time ago,
+when I was a treasure
+hunter, I fell quite ill.<PAGE>However, the Harvest Goddess
+appeared, and made me well
+again!<PAGE>That's what made me want to
+start teaching people about
+the Harvest Goddess.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NATHAN><FACE_HAPPY><FP_RIGHT>I'm so thankful to her!<PAGE>That's why I always leave an
+offering here before I go.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NATHAN><FACE_HAPPY><FP_RIGHT>Oh, Harvest Goddess!<PAGE>Does this please you?!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NATHAN><FACE_HAPPY><FP_RIGHT>Thank you, Harvest Goddess!<PAGE>Have a wonderful day!
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>You should give an offering,
+too, <MYNAME>! I'm sure some
+good will come your way!<PAGE>Well, I'll be going now.
+See you at church!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_HGODDES><FACE_HAPPY><FP_LEFT>Dum-Da-Da-DAA!
+Let's see... What's my
+offering today...?<PAGE><FACE_POS_LEFT><FACE_HGODDES><FACE_NORMAL><FP_LEFT>A turnip...?<PAGE>I would have liked something
+tastier, but I guess I like
+turnips well enough...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_HGODDES><FACE_HAPPY><FP_LEFT>Oh, did you bring me
+something too, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_HGODDES><FACE_NORMAL><FP_LEFT>Aww... That's too bad...<PAGE>Bring me something really
+good next time, okay?
+Toodles!

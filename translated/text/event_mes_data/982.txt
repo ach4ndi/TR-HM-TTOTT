@@ -1,0 +1,82 @@
+<FACE_POS_LEFT><FACE_ASH><FACE_NORMAL><FP_LEFT>Hei, apakah kamu mengingat
+anak domba yang kamu memban-
+tuku dihari yang lalu?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ASH><FACE_NORMAL><FP_LEFT>Semenjak kamu berbicara ke
+dia, dia sudah tidak menco-
+ba kabur lagi.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ASH><FACE_HAPPY><FP_LEFT>Hei, apakah kamu mau meli-
+hat keadaannya sekarang?<PAGE>Aku tahu Snow akan senang
+melihatmu!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ASH><FACE_HAPPY><FP_LEFT>Dia benar-benar menyukai
+kamu.
+----------------------------|----------------------------------
+<CHOICE_AB> Lindungi Snow.
+ Lihat apa yang terjadi.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ASH><FACE_SHY><FP_LEFT>Ada apa?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ASH><FACE_SHY><FP_LEFT>Aku pikir sapi itu barusan
+mau mencoba untuk berteman
+dengan Snow.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ASH><FACE_SAD><FP_LEFT>Aku tahu kamu sudah menjalin
+persahabatan dengan dia,
+tapi aku pikir kamu sudah<PAGE>teralu melindungi dia.<PAGE><FACE_POS_LEFT><FACE_ASH><FACE_NORMAL><FP_LEFT>Membantu itu tidak selalu
+tepat jika tidak melihat
+kondisinya terlebih dulu.<PAGE>Ini sangat penting membiar-
+kan dia menghadapi dengan
+dirinya sendiri.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ASH><FACE_HAPPY><FP_LEFT>Maaf. Itu sifat menjengkel-
+kan dari diriku.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ASH><FACE_NORMAL><FP_LEFT>Oh, kamu sudah disini agak
+lama. Kamu seharusnya
+pulang kerumah.<PAGE>Terima kasih atas kedatang-
+anmu hari ini..
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_CHERYL><FACE_SAD><FP_LEFT>......
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ASH><FACE_HAPPY><FP_LEFT>Kalian berdua tampak sangat
+dekat ya. Akur.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ASH><FACE_NORMAL><FP_LEFT>Aku pikir kamu tampaknya
+tipe seseorang yang memak-
+sakan dirinya untuk menolo-<PAGE>ng orang lain walupun itu
+tidak diminta.<PAGE><FACE_POS_LEFT><FACE_ASH><FACE_HAPPY><FP_LEFT>Tapi itu sungguh menakjubkan
+Kamu benar-benar tahu menge-
+nai binatang. Aku tidak se-<PAGE>harusnya mengawatirkannya.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ASH><FACE_NORMAL><FP_LEFT>Aku benar-benar berhutang
+berterima kasih kepadamu.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ASH><FACE_NORMAL><FP_LEFT>Untuk Snow, maksudku.
+Dia sudah lumayan berubah
+disaat kamu bertemu dia...<PAGE><FACE_POS_LEFT><FACE_ASH><FACE_HAPPY><FP_LEFT>Dia sekarang lebih akrab
+dengan lainnya.<PAGE><FACE_POS_LEFT><FACE_ASH><FACE_NORMAL><FP_LEFT>Tanpa bantuanmu, Snow akan
+menjadi binatang anak domba
+yang kesepian dan sedih.<PAGE><FACE_POS_LEFT><FACE_ASH><FACE_HAPPY><FP_LEFT>Jadi aku ingin mengatakan
+terima kasih.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ASH><FACE_NORMAL><FP_LEFT>Kamu selalu membuatku sadar
+bagaimana jaraknya untuk
+menjadi seorang peternak<PAGE>yang hebat.<PAGE><FACE_POS_LEFT><FACE_ASH><FACE_ANGRY><FP_LEFT>Mencoba untuk memandingkan
+denganmu itu sebuah
+motivasi yang bagus!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ASH><FACE_HAPPY><FP_LEFT>Aku pikir itu alasannya mem-
+buatku senang untuk mengha-
+biskan waktuku denganmu.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ASH><FACE_SHY><FP_LEFT>Oh tidak! Aku tidak sadar
+bahwa sudah lama berbicara-
+nya.<PAGE><FACE_POS_LEFT><FACE_ASH><FACE_HAPPY><FP_LEFT>Waktu itu sungguh cepat ber-
+lalu ya jika disaat aku ber-
+sama denganmu.<PAGE><FACE_POS_LEFT><FACE_ASH><FACE_NORMAL><FP_LEFT>Maaf untuk membuatmu telat
+pulangnya. Biarkan aku me-
+ngantarkanmu ya.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_CHERYL><FACE_SAD><FP_LEFT>......

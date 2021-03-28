@@ -1,0 +1,50 @@
+<FACE_POS_LEFT><FACE_RUTGER><FACE_NORMAL><FP_LEFT>Hey yang disana, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_RUTGER><FACE_NORMAL><FP_LEFT>Apa yang sedangku lakukan?
+Aku sedang memeriksa kotak
+penjualan!<PAGE><FACE_POS_LEFT><FACE_RUTGER><FACE_HAPPY><FP_LEFT>Aku ingin semuanya dapat
+menggunakannya.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_RUTGER><FACE_NORMAL><FP_LEFT>Oh, itu benar! Aku tidak
+pernah memberitahukanmu me-
+ngenai <RED>kotak pengiriman</COLOR>.<PAGE>Jika kamu mendapatkan barang
+atau produk seperti susu
+atau telur, kamu dapat<PAGE><RED>memakannya</COLOR> atau 
+<RED>memasaknya</COLOR> ...<PAGE><FACE_POS_LEFT><FACE_RUTGER><FACE_HAPPY><FP_LEFT>...atau kamu dapat <RED>menjual-
+nya untuk mendapatkan uang</COLOR>!<PAGE><FACE_POS_LEFT><FACE_RUTGER><FACE_NORMAL><FP_LEFT>Apakah kamu inginkan penje-
+lasan lebih detal mengenai
+kotak penjualan ini?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_RUTGER><FACE_NORMAL><FP_LEFT>OK! Maka biarkan aku men-
+jelaskannya!<PAGE>Dekati kotak penjualan itu
+dan tekan <RED>Tombol A</COLOR>.<PAGE>Konten kotak penjualan akan
+tampak pada layar bawah.<PAGE><FACE_POS_LEFT><FACE_RUTGER><FACE_HAPPY><FP_LEFT>Lalu geret susu atau barang
+lainnya yang ingin kau jual
+dikotak penjualan ini!<PAGE>Mudahkan?<PAGE><FACE_POS_LEFT><FACE_RUTGER><FACE_NORMAL><FP_LEFT>Satu hal lagi ya:<PAGE>disaat kamu menaruh sesuatu
+dikotak penjualan dan menu-
+tupnya, maka barang yang<PAGE>sudah ada didalamnya tidak
+bisa diambil lagi.<PAGE><FACE_POS_LEFT><FACE_RUTGER><FACE_HAPPY><FP_LEFT>Uang dari hasil penjualan
+itu akan dikirimkan kerumah-
+mu dikeesokan harinya.<PAGE><FACE_POS_LEFT><FACE_RUTGER><FACE_NORMAL><FP_LEFT>Jadi silahkan gunakan tiap
+hari, kapan saja kamu
+inginkan!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_RUTGER><FACE_NORMAL><FP_LEFT>Hmm? Ini hanya kotak
+penjualan, \u270akamu tanya?<PAGE>Tidak, ada satu lagi didesa
+<BLUE>Konohana</COLOR>.<PAGE>Sebenarnya, kamu bisa mema-
+kainya juga yang ada di
+Konohana...<PAGE>Disaat orang-orang yang ada
+diKonohana melihat susu
+segar dan telur di kotak<PAGE>penjualannya...<PAGE><FACE_POS_LEFT><FACE_RUTGER><FACE_HAPPY><FP_LEFT>..., mereka akan membelinya,
+tenang ada uangnya kok :v
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_RUTGER><FACE_NORMAL><FP_LEFT>Well, aku harus kembali ke
+balai desa sekarang...<PAGE>Sampai jumpa lagi,
+<MYNAME>!
+----------------------------|----------------------------------
+<CHOICE_AB> Ayolah, nanggung!
+ Gue dah tahu cuk. :v
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_RUTGER><FACE_HAPPY><FP_LEFT>Oke kalau gitu, akau akan
+kembali kebalai desa,...<PAGE>Sampai jumpa lagi,
+<MYNAME>!

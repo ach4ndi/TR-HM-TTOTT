@@ -1,0 +1,82 @@
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>-Kosong-
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Jadi kamu melihat permintaan
+ku dipapan pesan?<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_SAD>Tapi sayang sudah terlambat,
+jadi mungkin kedepannya aku
+akan memintamu dilain waktu.<PAGE>Maafkan aku ya, aku tahu
+kok kamu sibuk dengan kebun
+mu.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>-Kosong-
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_HAPPY><FP_RIGHT>Jadi kamu melihat permintaan
+ku dipapan pesan?
+Terima kasih!<PAGE>Ayo segera dimulai!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>-Kosong-
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>-Kosong-
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_HAPPY><FP_RIGHT>Ini kebun kami
+Baguskan? pastinya!<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL>Aku inginkan kamu <RED>menggosok</COLOR>
+binatangnya.<PAGE>Pastikan <RED>semuanya</COLOR>
+tergosok dengan baik!<PAGE>Bilang keaku jika kamu
+sudah menyelesaikannya.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_HAPPY><FP_RIGHT>Ini kebun kami
+Baguskan? pastinya!<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL>Aku inginkan kamu
+<RED>memeras susu sapi</COLOR>.<PAGE>Disaat kamu mengumpulkan
+susunya, secara otomatis
+semuanya tersimpan ditempat<PAGE>penyimpanan kami.<PAGE>Bilang keaku jika kamu
+sudah menyelesaikannya.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>-Kosong-
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>-Kosong-
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_HAPPY><FP_RIGHT>Jadi apakah semuanya sudah
+selesai? Makasih!<PAGE>Saatnya aku memberikanmu
+sebuah hadiah.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Jadi kamu sudah selesai ya?
+Kamu sudah sangat membantuku.<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_SAD>Jika saja kamu memberitahu-
+kan aku sebelum harinya
+sudah berakhir.<PAGE>Pastikan semuanya
+kedepannya secepatnya ya!?<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL>Saatnya aku memberikanmu
+sebuah hadiah.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Jadi kamu sudah selesai ya?
+Kamu sudah sangat membantuku.<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_SAD>Hanya saja jika kamu bisa
+lebih sedikit cepat memberi-
+tahukan keaku.<PAGE>Pastikan semuanya
+kedepannya secepatnya ya!?<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL>Saatnya aku memberikanmu
+sebuah hadiah.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>-Kosong-
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Kamu sudah menyelesaikannya!
+Seperti apa yang kuharapkan
+dari kamu!<PAGE>Well, Ini hadiahmu.
+Tolong diterima ya!
+Jangan malu gitu donk!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>-Kosong-
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>-Kosong-
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_HAPPY><FP_RIGHT>Dan ini ada hadiah lagi.
+Kamu benar-benar membantuku
+dengan cepat!
+----------------------------|----------------------------------
+<FP_NONE>Kamu mendapatkan sebuah
+<VAR_1>!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Ini sangat membantu.
+Mungkin apa bisa memintamu
+membantu aku lagi untuk<PAGE>kedepannya, dilain waktu
+akan mendatang?
+hihihihi
+----------------------------|----------------------------------
+<FP_NONE>Kamu telah menyelesaikan
+semua pekerjaan yang
+diminta!

@@ -1,0 +1,76 @@
+<FP_NONE>Tanya tentang permintaan?
+<CHOICE_AB> Ya.
+ Tidak.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_SAD><FP_RIGHT>Sekarang apa, hmm?
+Apa itu belum semuanya?<PAGE><FACE_POS_RIGHT><FACE_GOMBE><FACE_NORMAL>Hmpff! Aku tidak pernah
+menyangka dari semua orang
+membuatku kecewa...<PAGE>Ah, tapi apa yang bisa dila-
+kukan oleh orang tua seper-
+tiku, hmm?<PAGE>Aku akan menunggumu untuk
+mendapatkan semuanya di
+waktu kedepannya!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_ANGRY><FP_RIGHT>Hmm? Kamu mengingat sesuatu
+yang lebih penting daripada
+ini?<PAGE><FACE_POS_RIGHT><FACE_GOMBE><FACE_NORMAL>Hmpff! Aku tidak pernah
+menyangka dari semua orang
+membuatku kecewa...<PAGE>Ah, tapi apa yang bisa dila-
+kukan oleh orang tua seper-
+tiku, hmm?<PAGE>Aku akan menunggumu untuk
+mendapatkan semuanya di
+waktu kedepannya!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Sekarang uangnya.
+Hanya <VAR_0>G.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_HAPPY><FP_RIGHT>Ah, akhirnya kamu datang,
+hmm? Mereka bilang begitu.
+Sangat diterima!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_HAPPY><FP_RIGHT>Pemuda <MYNAME>, kamu
+menyelesaikan itu lagi!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_HAPPY><FP_RIGHT>Ah, selamat tinggal!
+Berikan salam terima kasihku
+ya, hmm?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Ah, terima kasih atas
+semua bantuanmu!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>　
+\u20d0<RED>　　　　Dummy</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>　
+\u20d0<RED>　　　　Dummy</COLOR>
+----------------------------|----------------------------------
+<FP_NONE>Tanya tentang permintaan?
+<CHOICE_AB> Ya.
+ Tidak.
+----------------------------|----------------------------------
+<FP_NONE>Menolak hadiahnya?
+<CHOICE_AB> Ya.
+ Tidak.
+----------------------------|----------------------------------
+<FP_NONE>Kamu mendapatkan <VAR_0>G!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>　
+\u20d0<RED>　　　　Dummy</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>　
+\u20d0<RED>　　　　Dummy</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>　
+\u20d0<RED>　　　　Dummy</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>　
+\u20d0<RED>　　　　Dummy</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>　
+\u20d0<RED>　　　　Dummy</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>　
+\u20d0<RED>　　　　Dummy</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>　
+\u20d0<RED>　　　　Dummy</COLOR>

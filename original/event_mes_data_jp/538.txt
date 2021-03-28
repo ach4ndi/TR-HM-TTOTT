@@ -1,0 +1,48 @@
+<FACE_POS_LEFT><FACE_KANA><FACE_HAPPY><FP_LEFT>おっ、<MYNAME>。
+丁度良かった！
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_KANA><FACE_NORMAL><FP_LEFT><MYNAME>にウマの種類や
+荷馬γの重さと改造についての
+話をするのを忘れててさ。<PAGE>もしかしたら
+知ってるかもしれないが…、
+説明しようか？
+----------------------------|----------------------------------
+<CHOICE_AB> お願いします！
+ 知ってるので説明はいいです
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_KANA><FACE_HAPPY><FP_LEFT>そっか。よし、任せてくれ。
+それじゃ、説明するぞ！<PAGE><FACE_POS_LEFT><FACE_KANA><FACE_NORMAL><FP_LEFT>まず、ウマは<RED>種類</COLOR>によって
+力が違うんだ！<PAGE>ウマの力が強いほど
+荷馬γをひく<RED>スピード</COLOR>が
+速くなるからな。<PAGE><FACE_POS_LEFT><FACE_KANA><FACE_HAPPY><FP_LEFT>もしウマを変えたくなったら
+うちの店で交換してやるぞ。
+いつでも来てみると良い。<PAGE><FACE_POS_LEFT><FACE_KANA><FACE_NORMAL><FP_LEFT>それから、荷馬γも
+種類ごとに<RED>重さ</COLOR>や
+ものの<RED>入る量</COLOR>に違いがある。<PAGE>今の荷馬γでも<RED>改造</COLOR>すれば、
+もっとたくさんのものを
+入れられるようになるぞ！<PAGE><FACE_POS_LEFT><FACE_KANA><FACE_HAPPY><FP_LEFT>荷馬γの改造も
+うちの店でやってるからな。
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_KANA><FACE_NORMAL><FP_LEFT>ウマと荷馬γについては
+こんなところだな。
+どうだ、わかったか？
+----------------------------|----------------------------------
+<CHOICE_AB> はい、バッチリです
+ もう一度聞かせてください
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_KANA><FACE_NORMAL><FP_LEFT>わかった。
+しっかり聞くんだぞ。<PAGE>まず、ウマは<RED>種類</COLOR>によって
+力が違うんだ！<PAGE>ウマの力が強いほど
+荷馬γをひく<RED>スピード</COLOR>が
+速くなるからな。<PAGE><FACE_POS_LEFT><FACE_KANA><FACE_HAPPY><FP_LEFT>もしウマを変えたくなったら
+うちの店で交換してやるぞ。
+いつでも来てみると良い。<PAGE><FACE_POS_LEFT><FACE_KANA><FACE_NORMAL><FP_LEFT>それから、荷馬γも
+種類ごとに<RED>重さ</COLOR>や
+ものの<RED>入る量</COLOR>に違いがある。<PAGE>今の荷馬γでも<RED>改造</COLOR>すれば、
+もっとたくさんのものを
+入れられるようになるぞ！<PAGE><FACE_POS_LEFT><FACE_KANA><FACE_HAPPY><FP_LEFT>荷馬γの改造も
+うちの店でやってるからな。
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_KANA><FACE_HAPPY><FP_LEFT>そうか。
+それじゃ、ゆっくり
+店の中でも見ていってくれ。

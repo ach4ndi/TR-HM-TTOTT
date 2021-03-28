@@ -1,0 +1,101 @@
+\u2137Talk about the request?
+<CHOICE_AB> Yes
+ No
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Oh, you saw my request on
+the message board?<PAGE>Let's get to it, then. I'm
+going to teach <RED>hand fishing</COLOR>
+to you, <MYNAME>!<PAGE>Did you know that you can
+<RED>catch fish with your hands</COLOR>
+in the shallows of rivers?<PAGE>The sense of accomplishment
+when you catch a fish with
+your hands is great!
+----------------------------|----------------------------------
+\u2137<CHOICE_AB> Please teach me!
+ I already know how.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GRADY><FACE_HAPPY><FP_RIGHT>Great! I'll explain it
+to you, then!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GRADY><FACE_NORMAL><FP_RIGHT>And that's basically how it
+works! Want to hear it
+again?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GRADY><FACE_HAPPY><FP_RIGHT>Great to hear! Now, go catch
+those fish in my <RED>request</COLOR>.<PAGE>I'll be waiting for you to
+bring them to me!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GRADY><FACE_HAPPY><FP_RIGHT>Hullo, myname!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GRADY><FACE_HAPPY><FP_RIGHT>Hullo, myname!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GRADY><FACE_HAPPY><FP_RIGHT>Hullo, myname!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GRADY><FACE_HAPPY><FP_RIGHT>Hullo, myname!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GRADY><FACE_HAPPY><FP_RIGHT>Oh, did you catch them?
+Can I see?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Perfect!<PAGE>What's that? They were
+slippery and hard to catch?
+<FACE_POS_RIGHT><FACE_GRADY><FACE_HAPPY>Ha ha! You get used to it!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GRADY><FACE_NORMAL><FP_RIGHT>You can <RED>eat and cook</COLOR> the
+fish you catch, you know.<PAGE><FACE_POS_RIGHT><FACE_GRADY><FACE_HAPPY>Try eating one if your
+Stamina is down. You'll
+get some back.<PAGE><FACE_POS_RIGHT><FACE_GRADY><FACE_SAD>Most small fish can't be
+used in cooking, though.<PAGE><FACE_POS_RIGHT><FACE_GRADY><FACE_HAPPY>You can cook some of them,
+though, as well as crabs,
+so give it a try!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Anyway, since you completed
+my request, I'll give
+you a reward!<PAGE>Just select your reward from
+the <RED>Reward Screen</COLOR>!<PAGE><FACE_POS_RIGHT><FACE_GRADY><FACE_HAPPY>Then just put it in your
+<RED>bag</COLOR>! It's really easy!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Well done!<PAGE>I can see I'm going to be
+sending more requests your
+way from now on!<PAGE><FACE_POS_RIGHT><FACE_GRADY><FACE_HAPPY>And I expect to see you come
+by my shop from time to
+time, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GRADY><FACE_HAPPY><FP_RIGHT>Hullo, myname!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GRADY><FACE_HAPPY><FP_RIGHT>Hullo, myname!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GRADY><FACE_HAPPY><FP_RIGHT>Hullo, myname!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GRADY><FACE_HAPPY><FP_RIGHT>Hullo, myname!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GRADY><FACE_HAPPY><FP_RIGHT>Hullo, myname!
+----------------------------|----------------------------------
+\u2137It's pretty straightforward,
+and I think you'll master it
+pretty quickly.
+----------------------------|----------------------------------
+\u2137There are a lot of river
+shallows like this where
+fish live.
+----------------------------|----------------------------------
+\u2137There! Did you see that fish
+just now?<PAGE>Once you spot one, it's
+pretty easy... Just get
+up close to it...<PAGE>...And \u270a<RED>press the A Button</COLOR> to
+catch the fish!
+----------------------------|----------------------------------
+\u2137If you dilly-dally, though,
+the fish will get away, so
+keep your eye on it!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GRADY><FACE_HAPPY><FP_RIGHT>Hullo, myname!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GRADY><FACE_HAPPY><FP_RIGHT>Hullo, myname!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GRADY><FACE_HAPPY><FP_RIGHT>Hullo, myname!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GRADY><FACE_HAPPY><FP_RIGHT>Hullo, myname!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GRADY><FACE_HAPPY><FP_RIGHT>Hullo, myname!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GRADY><FACE_HAPPY><FP_RIGHT>Hullo, myname!

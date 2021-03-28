@@ -1,0 +1,260 @@
+<FACE_POS_RIGHT><FACE_KID><FACE_HAPPY><FP_RIGHT>Selamat datang kerumah, \u2338!
+<PAGE>Apakah hari ini sibuk
+bekerja? Ayo ajak aku
+bermain!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KID><FACE_HAPPY><FP_RIGHT>Selamat datang kerumah, \u2338!
+<PAGE>Apa pekerjaannya sudah
+selesai semuanya? Apa kita
+bisa pergi bermain?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ASH><FACE_NORMAL><FP_LEFT>Aku tahu kamu barusan
+pulang, tapi \u2337 
+sudah meminta untuk bermain.<PAGE>Aku dah bilang tadi aku
+ikut, tapi \u2337
+ingin kamu ikutan juga.<PAGE>Apa kamu mau ikutan dengan
+kita?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_HIRO><FACE_NORMAL><FP_LEFT>\u2337 ingin kita untuk
+bermain bersama.<PAGE>Aku pikir itu ide yang
+bagus. Lalu pendapatmu
+apa?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_CAM><FACE_NORMAL><FP_LEFT>\u2337 telah meminta
+untuk bermain selama satu
+jam.<PAGE>Aku pikir itu akan bagus
+untuk kita lebih dekat
+dengan keluarga.<PAGE>Ape pendapatmu akan hal
+ini?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_KANA><FACE_NORMAL><FP_LEFT>\u2337 sudah sangat ber-
+semangat ingin bermain
+denganmu.<PAGE>Bagaimana? Aku pikir ini
+akan bagus untuk kita semua
+untuk bermain bersama!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_MIKHAIL><FACE_NORMAL><FP_LEFT>\u2337 telah menunggumu
+untuk bisa bermain denganmu
+...<PAGE>Aku pikir itu akan menjadi
+kita lebih dekat satu sama
+lain :3 dan juga bisa ber-<PAGE>main bersama-sama untuk
+menghilangkan penat kamu
+:3
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_LANEY><FACE_NORMAL><FP_LEFT>\u2337 telah menunggu kita
+untuk bisa bermain bersama.<PAGE>Aku pikir itu akan bagus
+jika bermain sebagai anggota
+keluarga.<PAGE>Uhm apa yang pikirkan
+tentang hal ini?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_GEORGIA><FACE_NORMAL><FP_LEFT>Oh dewi, \u2337 sudah
+sangat bersemangat ingin ber-
+main denganmu!<PAGE>Aku tebak ini akan seru!
+Apa pendapatmu, <MYNICKNAME>?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_REINA><FACE_NORMAL><FP_LEFT>\u2337 telah menunggumu
+untuk bermain bersama dengan
+kamu...<PAGE>Aku pikir itu akan bagus
+buat keluarga kita..
+Iyakan, <MYNICKNAME>?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_NORI><FACE_NORMAL><FP_LEFT>\u2337 telah menunggumu
+untuk kita semua bisa ber-
+main bersama.<PAGE>Aku pikir itu ide yang
+bagus, benarkan?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ULYSSA><FACE_NORMAL><FP_LEFT>\u2337 bertanya kepada kita
+semua untuk bermain bersama
+hari ini.<PAGE>Itu kedengaran ide yang
+bagus menurutku!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_DIRK><FACE_NORMAL><FP_LEFT>Hari ini \u2337 sudah
+membicarakan ini sepanjang
+hari, untuk bermain bersama.<PAGE>Tapi... Mungkin kita memenu-
+hi permintaan \u2337 ?
+Jadi pendapatmu apa?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KID><FACE_HAPPY><FP_RIGHT>Yay!! Yippy!
+\u2338, Aku menyukaimu!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KID><FACE_HAPPY><FP_RIGHT>Ooh, benarkah?
+\u2338, Aku menyukaimu!
+<RED>❤</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ASH><FACE_HAPPY><FP_LEFT>Itu baguskan,
+\u2337?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_HIRO><FACE_HAPPY><FP_LEFT>Apa ini keren,
+\u2337?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_CAM><FACE_HAPPY><FP_LEFT>Apa ini menyenangkan,
+\u2337?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_KANA><FACE_HAPPY><FP_LEFT>Bagus!
+\u2337, Ini bakalan penuh
+dengan kegembiraan!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_MIKHAIL><FACE_HAPPY><FP_LEFT>Apa ini ide yang bagus,
+\u2337?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_LANEY><FACE_HAPPY><FP_LEFT>Apa ini menyenangkan,
+\u2337?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_GEORGIA><FACE_HAPPY><FP_LEFT>Itu bagus, benarkan,
+\u2337?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_REINA><FACE_HAPPY><FP_LEFT>Ini menyenangkan,
+\u2337?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_NORI><FACE_HAPPY><FP_LEFT>Hee hee, ini akan
+menjadi hal yang menyenang-
+kan, \u2337.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ULYSSA><FACE_HAPPY><FP_LEFT>Apa ini bakalan super duper
+senang kah, \u2337?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_DIRK><FACE_HAPPY><FP_LEFT>Tidak kah ini bagus,
+\u2337?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KID><FACE_HAPPY><FP_RIGHT>Jadi kemana kita akan
+pergi?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KID><FACE_HAPPY><FP_RIGHT>\u2338, kemana kita pergi?
+Pegunungan? Sungai? Laut?
+Apa rumahnya Sheng?
+----------------------------|----------------------------------
+<CHOICE_AB> Pegunungan!
+ Sungai saja!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KID><FACE_HAPPY><FP_RIGHT>Yay, pegunungan!
+Apa disana ada rubah? apa
+bisa dibawah pulang?<PAGE>Hee hee! Ini akan
+menyenangkan! Ayo pergi!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KID><FACE_HAPPY><FP_RIGHT>Yay, pegunungan!
+Akan ada rubah disana?<PAGE>Aku ingin menjadikannya
+hewan peliharaan!<PAGE>Hee hee! Ini akan menyenangkan!
+Dapat kita pergi sekarang?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KID><FACE_HAPPY><FP_RIGHT>Pegunungan!
+Pegunungan! Disana ada
+banyak ruang, luas...!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KID><FACE_HAPPY><FP_RIGHT>Wow, sungguh luas!
+Dan sungguh hijaaau!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_KID><FACE_NORMAL><FP_LEFT>Ooh! itu dia rubahnya!
+Tangkap!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_KID><FACE_NORMAL><FP_LEFT>Oh, seekor rubah!
+Lihat ekornya ekornya!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_KID><FACE_NORMAL><FP_LEFT>Tunggu!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_KID><FACE_NORMAL><FP_LEFT>Tungguuu!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ASH><FACE_HAPPY><FP_LEFT>Sepertinya \u2337 lagi
+senang tuh! Aku senang jika
+kita kesini!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_HIRO><FACE_HAPPY><FP_LEFT>Sepertinya \u2337 lagi
+senang tuh! Aku senang jika
+kita kesini!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_CAM><FACE_HAPPY><FP_LEFT>Sepertinya \u2337 lagi
+senang tuh! Aku senang jika
+kita datang kesini!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_KANA><FACE_HAPPY><FP_LEFT>Sepertinya \u2337 lagi
+senang tuh! Aku senang jika
+kita bisa kesini!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_MIKHAIL><FACE_HAPPY><FP_LEFT>Sepertinya \u2337 lagi
+senang tuh! Aku senang jika
+kita bisa kesini!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_LANEY><FACE_HAPPY><FP_LEFT>Hee hee. 
+Sepertinya \u2337 lagi
+senang tuh!<PAGE>Aku senang jika
+kita kesini!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_GEORGIA><FACE_HAPPY><FP_LEFT>Sepertinya \u2337 lagi
+senang tuh!<PAGE>Aku sudah yakin ini akan 
+menjadi hal yang
+menyenangkan!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_REINA><FACE_HAPPY><FP_LEFT>\u2337, sepertinya dia
+lagi senang sekarang!
+Aku senang jika kita kesini!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_NORI><FACE_HAPPY><FP_LEFT>\u2337 benar-benar
+senang bermain. Aku legah
+kita datag kesini.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ULYSSA><FACE_HAPPY><FP_LEFT>\u2337 tampak ceria!
+Aku senang jika kita
+datang kesini!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_DIRK><FACE_HAPPY><FP_LEFT>\u2337 tampak senang!
+Ternyata ide ini memang
+bagus!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_KID><FACE_SAD><FP_LEFT>Waaah.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_KID><FACE_SAD><FP_LEFT>Awww.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KID><FACE_HAPPY><FP_RIGHT>Itu menyenangkan ..yah ..ma!
+Terima kasih!<PAGE>Ayo kita pulang kerumah
+sekarang! Aku sudah
+kelaparan!<PAGE>Tapi kapan-kapan kita
+lakukan ini lagi ya!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KID><FACE_HAPPY><FP_RIGHT>Itu benar-benar menyenangkan!
+Makasih, ma dan pa!<PAGE>Aku capek dari tadi berlari-
+an. Apa kita bisa pulang
+kerumah?<PAGE>Tapi kapan-kapan kita
+lakukan ini lagi ya!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KID><FACE_HAPPY><FP_RIGHT>Yay, sungainya!
+Apa ada ikan disana? Aku
+ingin menangkap banyak ikan!<PAGE>Hee hee!
+Ini akan menyenangkan!
+Ayo!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KID><FACE_HAPPY><FP_RIGHT>Yay, sungai!
+Apa ada ikan disana?
+Mereka tampak cantik!<PAGE>Hee hee! 
+Ini akan menyenangkan!
+Ayo kita pergi!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KID><FACE_HAPPY><FP_RIGHT>Sungai, sungai, sungai...!
+Airnya sungguh dingin!
+brfffqz!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KID><FACE_HAPPY><FP_RIGHT>Oooh! Airnya sungguh
+bersih!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KID><FACE_HAPPY><FP_RIGHT>Ooh!
+Lihat itu ada ikan besar!
+Apa kita dapat memakannya?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KID><FACE_HAPPY><FP_RIGHT>Oh, ada sesuatu yang ber-
+sinar disana!
+Apa ya itu??
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KID><FACE_HAPPY><FP_RIGHT>Kesini, ma yah!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KID><FACE_HAPPY><FP_RIGHT>Ma, Yah!
+datang kesini donk!
+Apa itu ya?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KID><FACE_HAPPY><FP_RIGHT>Itu cukup menyenangkan!
+Terima kasih sudah membawaku
+kesini, ma yah!<PAGE>Ayo pulang kerumah sekarang!
+Aku dah lapar nih!<PAGE>Tapi lakukan ini lagi ya!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KID><FACE_HAPPY><FP_RIGHT>Itu menyenangkan!
+Terima kasih sudah membawaku
+kesana, mama dan ayah!<PAGE>Aku capek sekarang.
+Apa kita bisa pulang 
+kerumah?<PAGE>Tapi lakukan ini lagi ya!

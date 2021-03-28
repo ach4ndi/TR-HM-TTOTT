@@ -1,0 +1,124 @@
+<FACE_POS_RIGHT><FACE_HIRO><FACE_NORMAL><FP_RIGHT>...<MYNAME>?<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_SHY><FP_RIGHT><MYNAME>?
+Apa yang terjadi?
+Kamu tampaknya bengong...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_SAD><FP_RIGHT>Aku dah memanggilmu ber-
+kali-kali, tapi kamu tidak
+segera membalasnya.<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_NORMAL><FP_RIGHT>Apa kamu merasa tidak
+sehat?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_NORMAL><FP_RIGHT>Bukan? Tapi...
+...kamu tampaknya pucat
+sekali...<PAGE>Mungkin karena kecapekan
+ya?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_SHY><FP_RIGHT>Apa kamu yakin?<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_ANGRY><FP_RIGHT>Jika kamu merasa tidak
+enak badan, kamu harus mem-
+beritahukan aku ya.<PAGE>Terkadang seseorang berpi-
+kiran bahwa dirinya baik-
+baik saja disaat mereka<PAGE>benar-benar membutuhkan
+perawatan medis.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_NORMAL><FP_RIGHT>Kamu masih bisa berbicara
+kan? Makasih Itu bagus
+kedengarannya.<PAGE>Ini sebagai pencegahannya,
+beristirahatlah sambil ke-
+rumahmu...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_NORMAL><FP_RIGHT><MYNAME>...?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_SHY><FP_RIGHT><MYNAME>!!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_SHY><FP_RIGHT><MYNAME>!?
+Tunggu disini ya,
+<MYNAME>!!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Tampaknya sih kelelahan.
+Kamu harus beristirahat yang
+cukup dan kamu akan baik-<PAGE>baik saja.
+Oke, Aku butuh mengecek
+pasien lainnya ya.<PAGE>Hiro, bantu dan perhatikan
+si <MYNAME> itu.<PAGE><FACE_POS_LEFT><FACE_HIRO><FACE_SAD><FP_LEFT>Ya. Pastinya...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_SAD><FP_RIGHT><MYNAME>...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_SHY><FP_RIGHT>Oh, tidak tidak tidak! 
+Tolong kembali ke tempat
+tidur dan ISTIRAHAT!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_SAD><FP_RIGHT><MYNAME>, kamu sudah
+memaksakan tubuhmu terlalu
+berat. <PAGE>Kelelahanmu akan ber-
+tambah parah loh.<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_SHY><FP_RIGHT>Kamu harus menghabiskan hari
+ini dengan beristirahat!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_SHY><FP_RIGHT>Kamu itu masih belum dikata-
+kan sembuh total.
+----------------------------|----------------------------------
+<CHOICE_AB> Maaf membuatmu khawatir.
+ Tidak usah marah gitu...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_SAD><FP_RIGHT>Khawatir?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_NORMAL><FP_RIGHT>...<MYNAME>, kamu itu
+selalu ada untukku, selalu
+mensupport aku.<PAGE>Aku sungguh senang jika
+akhirnya aku bisa memban-
+tumu.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_SAD><FP_RIGHT>Aku tahu bahwa aku masih
+berstatus asisten...<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_NORMAL><FP_RIGHT>Walaupun begitu, jika ada
+sesuatu--sesuatu...<PAGE>yang bisa kulakukan untuk
+kamu...<PAGE>Mohon panggil aku ya,
+kapan saja, dimana saja...<PAGE>Please call on me for
+assistance at any time.<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_ANGRY><FP_RIGHT>Jika kamu mengalami kesusah-
+an, maka jangan malu-malu
+beritahuku masalahnya.<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_HAPPY><FP_RIGHT>Aku akan sekuat tenaga
+untuk membantu kamu.
+entah apa masalahnya.<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_SHOCK><FP_RIGHT>Kamu lihatkan, Aku...
+Aku...
+Ya itu...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_SHOCK><FP_RIGHT>Aku C... Aku C...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_HAPPY><FP_RIGHT>...<PAGE>Aku sungguh senang
+menjadi teman terbaikmu,
+hehehe!!!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_HAPPY><FP_RIGHT>...\u270a...\u270a...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_SAD><FP_RIGHT>*Sigh*...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_ANGRY><FP_RIGHT>Tapi, <MYNAME>, apa kamu
+mengerti kenapa aku marah
+seperti itu?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_ANGRY><FP_RIGHT>Tidak, bagaimana kamu menger-
+ti hal itu?<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_SAD><FP_RIGHT>Maafkan semangat membaraku
+ini.<PAGE>Tapi kuharapkan kamu,
+<MYNAME>, jaga kesehatan-
+nya! lebih seirus!<PAGE>Jika kamu tidak percaya
+kepadaku, maka aku akan
+meminta Dokter Ayame untuk<PAGE>memperhatikanmu aja ya.
+Maka aku akan meninggalmu
+sejenak...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_AYAME><FACE_NORMAL><FP_RIGHT>My my, <MYNAME>, kamu
+tuh sedikit keras kepala,
+benarkan?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Kenapa kamu pikir hiro
+benar benar marah tadi?<PAGE>Itu karena dia selalu meng-
+khawatirkanmu, <MYNAME>.<PAGE>Dia temanmukan? Dia ingin
+kamu mau meminta bantuan
+dari dia, dan tidak hanya<PAGE>seorang dokter, tapi seo-
+rang teman juga.<PAGE><FACE_POS_RIGHT><FACE_AYAME><FACE_HAPPY><FP_RIGHT>Apa kamu sudah mengerti apa
+yang kujelaskan ini kepada
+kamu?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_AYAME><FACE_HAPPY><FP_RIGHT>Gaguusss!<PAGE><FACE_POS_RIGHT><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Maka, habiskan beberapa
+waktu untuk memikirkan pera-
+saan Hiro disaat kamu ber-<PAGE>istirahat disini.
+Aku akan kembali bekerja
+lagi. Jika kamu membutuhkan<PAGE>sesuatu panggil aku ya.
+Bye!

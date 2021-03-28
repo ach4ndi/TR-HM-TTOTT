@@ -1,0 +1,48 @@
+<FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT><FP_LEFT>Hi, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT>Hmm? Apa yang sedang aku
+lakukan? Aku mengecek kotak
+penjualan.<PAGE><FACE_POS_LEFT><FACE_INA><FACE_HAPPY><FP_LEFT>Aku pastikan warga desa
+dapat menggunakannya dengan
+tenang tiap hari.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT><FP_LEFT>Oh, itu benar!
+Saaya belum menjelaskanmu
+mengenai <RED>kotak penjualan</COLOR>!<PAGE>Setelah kamu menanam dan me-
+manen tanaman, kamu dapat
+<RED>makan</COLOR> atau <RED>masak</COLOR>...<PAGE><FACE_POS_LEFT><FACE_INA><FACE_HAPPY><FP_LEFT>Atau kamu dapat menggunakan
+kotak penjualan untuk <RED>di
+jual dan dapatkan uangnya</COLOR>!<PAGE><FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT>Apakah ingin aku jelaskan
+semua hal mengenai kotak
+penjualan kekamu itu?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT>Okeeee.<PAGE>Dekati kotak penjualan itu
+dan tekan <RED>Tombol A</COLOR>.<PAGE>Konten kotak penjualan akan
+tampak pada layar bawah.<PAGE><FACE_POS_LEFT><FACE_INA><FACE_HAPPY><FP_LEFT>Lalu geret susu atau barang
+lainnya yang ingin kau jual
+dikotak penjualan ini!<PAGE>Cukp mudahkan?<PAGE><FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT>Satu hal lagi ya:<PAGE>disaat kamu menaruh sesuatu
+dikotak penjualan dan menu-
+tupnya, maka barang yang<PAGE>sudah ada didalamnya tidak
+bisa diambil lagi.<PAGE><FACE_POS_LEFT><FACE_INA><FACE_HAPPY><FP_LEFT>Uang dari hasil penjualan
+itu akan dikirimkan kerumah-
+mu dikeesokan harinya.<PAGE><FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT>Jadi silahkan gunakan tiap
+hari, kapan saja kamu
+inginkan!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT>Huh? Kamu penasaran jika ha-
+nya kotak penjualan ini aja
+yang ada, benarkan?<PAGE>Wellm aku pikir ada satu
+di <BLUE>Bluebell</COLOR>.<PAGE>Kamu dapat juga menggunakan-
+nya jika kamu ingin.<PAGE>Disaat orang-orang yang ada
+di Bluebell melihat susu
+segar dan telur di kotak.<PAGE><FACE_POS_LEFT><FACE_INA><FACE_HAPPY><FP_LEFT>...mereka akan iri terhadap
+Konohana!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT>Aku akan kembali kebalai
+desa sekarang.<PAGE>Sampai jumpa lagi.
+----------------------------|----------------------------------
+<CHOICE_AB> Ya, jelaskan hehehe
+ Tidak, terima kasih.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_INA><FACE_HAPPY><FP_LEFT>Kalau gitu, aku akan kemba-
+li kebalai desa.<PAGE>Sampai jumpa lagi ya.

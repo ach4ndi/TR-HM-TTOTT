@@ -1,0 +1,738 @@
+<FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT>This year's cherry blossoms
+are in full bloom.<PAGE><FACE_POS_LEFT><FACE_INA><FACE_HAPPY><FP_LEFT>Let's go picnicking and
+enjoy the beautiful sight!<PAGE><FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT>And since everyone brought
+a dish, we'll have plenty
+of food to feast on!
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Ooh, what a delicious salad!<PAGE><FACE_POS_LEFT><FACE_REINA><FACE_HAPPY><FP_LEFT>True, it is delicious.
+The vegetables in it are
+of high quality.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT><MYNAME>, are the vegetables
+in this salad from your
+farm?<PAGE><FACE_POS_LEFT><FACE_INA><FACE_HAPPY><FP_LEFT>They're simply delicious!<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_HAPPY><FP_RIGHT>Delectable indeed.
+And full of vitamins!
+Splendid for one's health.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_KANA><FACE_NORMAL><FP_LEFT>It's awesome that the cherry
+blossoms look so good this
+year.<PAGE><FACE_POS_LEFT><FACE_KANA><FACE_HAPPY><FP_LEFT>Nothing beats chowing down
+under the cherry blossoms!<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>Now, Kana, you have to eat
+some veggies too!<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>I mean, <MYNAME> made such
+a delicious salad!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_HAPPY><FP_RIGHT>The vegetables that <MYNAME>
+grows are delicious, that
+is a fact.<PAGE><FACE_POS_LEFT><FACE_INA><FACE_HAPPY><FP_LEFT>No doubt about it! You can
+taste all the hard work
+that went into them!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_HAPPY><FP_RIGHT>The cherry blossoms are
+in splendid form once more
+this year.<PAGE><FACE_POS_LEFT><FACE_KANA><FACE_HAPPY><FP_LEFT>And the weather is awesome!
+For a picnic under the
+cherry blossoms, it's tops!
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_YING><FACE_HAPPY><FP_LEFT>The blossoms...
+...are so pretty.<PAGE><FACE_POS_RIGHT><FACE_RAHI><FACE_HAPPY><FP_RIGHT>They sure are!
+Super pretty!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_GOMBE><FACE_NORMAL><FP_LEFT>Yummy, ah, so yummy!
+The veggies that <MYNAME>
+grew...\u270a...<PAGE><FACE_POS_LEFT><FACE_GOMBE><FACE_HAPPY><FP_LEFT>They come from good work
+out in the fields, hmm?<PAGE><FACE_POS_RIGHT><FACE_YUN><FACE_HAPPY><FP_RIGHT>My, they're even as good
+as yours are, Gombe!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_AYAME><FACE_HAPPY><FP_RIGHT>Fresh veggies are good for
+your health!
+So eat up!<PAGE><FACE_POS_RIGHT><FACE_MAKO><FACE_HAPPY><FP_RIGHT>Please, Dr. Ayame, you help
+yourself first.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_GOMBE><FACE_HAPPY><FP_LEFT>Ah, this year's cherry
+blossoms are so pretty that
+they make me hungry!<PAGE><FACE_POS_RIGHT><FACE_AYAME><FACE_HAPPY><FP_RIGHT>Now don't overeat, Gombe!
+You're not as young as you
+used to be.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_YUN><FACE_HAPPY><FP_LEFT>Eat, Ying, eat!
+Eat lots of Konohana veggies
+and you will get better!<PAGE><FACE_POS_RIGHT><FACE_YING><FACE_HAPPY><FP_RIGHT>Thank you, Grandma...
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_HAPPY><FP_RIGHT>This year's cherry blossoms
+are in full bloom.
+They look gorgeous.<PAGE><FACE_POS_LEFT><FACE_KANA><FACE_HAPPY><FP_LEFT>Wouldn't be spring without a
+picnic! Gets me stoked!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_REINA><FACE_HAPPY><FP_LEFT>This soup is delicious.
+Did <MYNAME> make it?<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Ooh, it really is delicious!
+<MYNAME>, you're such a
+good cook!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>This soup tastes wonderful.
+Go ahead, have some.<PAGE><FACE_POS_LEFT><FACE_INA><FACE_HAPPY><FP_LEFT>I intend to!
+Thanks, Nori!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_KANA><FACE_HAPPY><FP_LEFT>Food just tastes better when
+picnicking under the cherry
+blossoms in full bloom.<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>I agree, but at the rate you
+are eating, you'll end up
+overstuffing yourself!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_INA><FACE_HAPPY><FP_LEFT>What a relief that the
+picnic is going off without
+a hitch.<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_HAPPY><FP_RIGHT>Yes. Thank goodness there's
+not even a sign of rain.
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_YUN><FACE_HAPPY><FP_LEFT>My my, this soup is tasty!
+Who made it?<PAGE><FACE_POS_RIGHT><FACE_AYAME><FACE_HAPPY><FP_RIGHT>No kidding, it's delicious!
+And the blossoms are lovely.
+This picnic is a success!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_AYAME><FACE_HAPPY><FP_RIGHT>Ying, are you going to have
+some soup?
+It's yummy!<PAGE><FACE_POS_LEFT><FACE_YING><FACE_HAPPY><FP_LEFT>Thank you...
+Dr. Ayame...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_GOMBE><FACE_HAPPY><FP_LEFT>Cherry blossoms in full
+bloom! I hope this year's
+harvest is so abundant, hmm!<PAGE><FACE_POS_RIGHT><FACE_RAHI><FACE_HAPPY><FP_RIGHT>I'm sure yours will be,
+Gombe. You'll have an
+abundant harvest as usual.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MAKO><FACE_HAPPY><FP_RIGHT>I declare this soup
+delicious! I could eat it
+all day long.<PAGE><FACE_POS_LEFT><FACE_YUN><FACE_HAPPY><FP_LEFT>Goodness, Mako, you do seem
+to be enjoying it!
+Here, have another serving!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RAHI><FACE_HAPPY><FP_RIGHT>Picnicking under the cherry
+blossoms is fun! Are you
+having fun, Ying?<PAGE><FACE_POS_LEFT><FACE_YING><FACE_HAPPY><FP_LEFT>Uh-huh...
+The blossoms are so pretty.
+And...the food is so good...
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_REINA><FACE_HAPPY><FP_LEFT>I'm glad to see the cherry
+blossoms blooming so
+vibrantly this year.<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Aren't they beautiful?
+Plus <MYNAME>'s cooking is
+delicious!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_KANA><FACE_HAPPY><FP_LEFT>The cherry blossoms are cool
+and all, but for me it's all
+about the food!<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_HAPPY><FP_RIGHT>Undoubtedly!
+Without delectable dining,
+half the fun would be gone.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_INA><FACE_HAPPY><FP_LEFT><MYNAME> is an excellent
+cook.
+The food is delicious!<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Ooh, you're right!
+It's as good as mine!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_HAPPY><FP_RIGHT>The food is indeed delicious
+as well as plentiful.<PAGE>With such a feast, one is
+tempted to overeat!<PAGE><FACE_POS_LEFT><FACE_KANA><FACE_HAPPY><FP_LEFT>So what if we do, Hiro?
+You're a doc, you can fix us
+up with the right medicine.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>How lovely.
+What good luck that it was
+sunny today.<PAGE><FACE_POS_LEFT><FACE_INA><FACE_HAPPY><FP_LEFT>The weather wouldn't dare
+to rain and ruin our picnic!
+It'd have to answer to me!
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_GOMBE><FACE_HAPPY><FP_LEFT>Yummy, ah, so yummy!
+Pretty cherry blossoms and
+yummy food, hmm?<PAGE><FACE_POS_RIGHT><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Dumplings before flowers...<PAGE><FACE_POS_RIGHT><FACE_MAKO><FACE_HAPPY><FP_RIGHT>I see nothing wrong with
+that.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RAHI><FACE_HAPPY><FP_RIGHT>My, this food is delicious.
+Have some, Ying.<PAGE><FACE_POS_LEFT><FACE_YING><FACE_HAPPY><FP_LEFT>......\u270a
+Mmm...it's super yummy.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_AYAME><FACE_HAPPY><FP_RIGHT>Now this is delicious!
+Did you make it, Yun?<PAGE><FACE_POS_LEFT><FACE_YUN><FACE_HAPPY><FP_LEFT>Goodness no, it wasn't me.
+<MYNAME> made it, if I'm
+not mistaken.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_YUN><FACE_HAPPY><FP_LEFT>Does it taste good, Ying?
+There's plenty, dearie, so
+eat as much as you like.<PAGE><FACE_POS_RIGHT><FACE_YING><FACE_HAPPY><FP_RIGHT>Uh-huh...
+Thanks...Grandma...
+
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_GOMBE><FACE_HAPPY><FP_LEFT>Are you eating, Rahi, hmm?
+A boy has to eat to grow big
+and strong.<PAGE><FACE_POS_RIGHT><FACE_RAHI><FACE_HAPPY><FP_RIGHT>Yes, I'll have some, thanks.
+It's so good I could just
+keep on eating it!
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_KANA><FACE_HAPPY><FP_LEFT>Food just tastes better when
+picnicking under the cherry
+blossoms!<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_HAPPY><FP_RIGHT>Very delicious indeed!
+I fear I will overeat...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Dee-licious!
+I'm eating as though I'm in
+a trance.<PAGE><FACE_POS_LEFT><FACE_REINA><FACE_HAPPY><FP_LEFT>Same here. While looking at
+the blossoms, I find myself
+munching without thinking.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_INA><FACE_HAPPY><FP_LEFT>This year's Cherry Blossom
+Festival is a big success.
+Everyone brought tasty food!<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>The blossoms are pretty as a
+picture!
+It's gonna be a great year!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_HAPPY><FP_RIGHT>The blossoms are indeed
+beautiful, and the food
+delectable. I'm in heaven!<PAGE><FACE_POS_LEFT><FACE_REINA><FACE_HAPPY><FP_LEFT>We should thank the cherry
+blossom trees for putting
+on another lovely show.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_INA><FACE_HAPPY><FP_LEFT>Whoo...\u270a
+The food was so good, I ate
+more than I should have!<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Me too!
+Now let's just relax and
+gaze at the cherry blossoms.
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_AYAME><FACE_HAPPY><FP_RIGHT>Pretty flowers and tasty
+food! That says it all!<PAGE><FACE_POS_LEFT><FACE_YUN><FACE_HAPPY><FP_LEFT>It looks like everyone is
+having a wonderful old time.
+I'm glad we made so much!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_GOMBE><FACE_HAPPY><FP_LEFT>Yummy, ah, so yummy!
+Who has time for flowers
+with such good food?<PAGE><FACE_POS_RIGHT><FACE_MAKO><FACE_HAPPY><FP_RIGHT>Your voracious appetite is
+a wonder to behold. Like a
+man 50 years younger...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_YUN><FACE_HAPPY><FP_LEFT>Is the food good, Ying?
+You don't have to wolf it
+down. Take your time.<PAGE><FACE_POS_RIGHT><FACE_YING><FACE_HAPPY><FP_RIGHT>Uh-huh...
+Don't worry...
+...grandma.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RAHI><FACE_HAPPY><FP_RIGHT>This food tastes super!
+I'm gonna keep on eating!<PAGE><FACE_POS_LEFT><FACE_GOMBE><FACE_HAPPY><FP_LEFT>Ah, the boy is a "dumplings
+before flowers" type! This
+old man will have more too!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_AYAME><FACE_HAPPY><FP_RIGHT>Have some, Mako.
+The food is absolutely
+delicious.<PAGE><FACE_POS_RIGHT><FACE_MAKO><FACE_HAPPY><FP_RIGHT>Ho-ho, don't mind if I do!
+You have my thanks, Dr.
+Ayame.
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Ooh, how lovely!
+Wouldn't it be nice if they
+stayed in bloom all year?<PAGE><FACE_POS_LEFT><FACE_REINA><FACE_HAPPY><FP_LEFT>Certainly.
+I always wish they would
+bloom just a little longer.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_KANA><FACE_HAPPY><FP_LEFT>For a cherry blossom picnic,
+you gotta have dumplings!<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_HAPPY><FP_RIGHT>Dumplings are indeed
+delectable! I adore them!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_INA><FACE_HAPPY><FP_LEFT>Every year, people bring
+a lot of desserts.<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_HAPPY><FP_RIGHT>After all, sweet foods taste
+splendid! Yun's dumplings,
+in particular.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_HAPPY><FP_RIGHT>The cherry blossoms are
+beautiful, don't you agree?
+I never tire of seeing them.<PAGE><FACE_POS_LEFT><FACE_KANA><FACE_NORMAL><FP_LEFT>Aren't you gonna chow down,
+Reina? While you're spacing
+out, the food will be gone!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>The cherry blossoms are
+lovely this year! I bet it
+will be a great year!<PAGE><FACE_POS_LEFT><FACE_INA><FACE_HAPPY><FP_LEFT>You said it, it's gonna be
+a great year! Because our
+village has great people!
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RAHI><FACE_HAPPY><FP_RIGHT>Wow, these desserts taste
+super delicious!<PAGE><FACE_POS_RIGHT><FACE_YING><FACE_HAPPY><FP_RIGHT>So sweet...
+...and yummy.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_YUN><FACE_HAPPY><FP_LEFT>My my, it seems as though
+everyone's having a great
+time at the picnic!<PAGE><FACE_POS_RIGHT><FACE_MAKO><FACE_HAPPY><FP_RIGHT>Thanks to the delicious
+food you made. Who wouldn't
+be delighted with that?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_GOMBE><FACE_HAPPY><FP_LEFT>Ah, this year's blossoms are
+pretty, so pretty! But not
+as pretty as Dr. Ayame, hmm?<PAGE><FACE_POS_RIGHT><FACE_AYAME><FACE_HAPPY><FP_RIGHT>Tee-hee...\u270a
+Gombe, you old sweet-talker!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_AYAME><FACE_HAPPY><FP_RIGHT>Now those are gorgeous!
+Do you like cherry blossoms,
+Ying?<PAGE><FACE_POS_LEFT><FACE_YING><FACE_HAPPY><FP_LEFT>Uh-huh...
+They're...so pretty...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_GOMBE><FACE_HAPPY><FP_LEFT>Ah, Mako! Pass an old man
+those dumplings, hmm?<PAGE><FACE_POS_RIGHT><FACE_MAKO><FACE_NORMAL><FP_RIGHT>You certainly do love these.
+How many are you planning to
+eat?
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_HAPPY><FP_RIGHT>Isn't this splendid?
+It's so nice to go out for
+a picnic in the open air!<PAGE><FACE_POS_LEFT><FACE_KANA><FACE_HAPPY><FP_LEFT>Oh yeah. And by the way,
+could you refill my drink?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_INA><FACE_HAPPY><FP_LEFT>I hope all the villagers of
+Konohana will flourish like
+this year's cherry blossoms!<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>You know they will!
+The cherry blossoms will
+inspire us!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_REINA><FACE_HAPPY><FP_LEFT>So beautiful.
+Plants are so beautiful...<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_HAPPY><FP_RIGHT>Reina, your affection for
+plants is extraordinary!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Ooh, Kana, let me refill
+your drink for you!<PAGE><FACE_POS_LEFT><FACE_KANA><FACE_HAPPY><FP_LEFT>Awesome, thanks!
+Nori, you're always so cool
+about doing stuff for folks.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_REINA><FACE_SHOCK><FP_LEFT>Whew...\u270a
+I'm so enchanted by the
+cherry blossoms, I'm dizzy!<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>Are you okay, Reina?
+Would you like to lie down?<PAGE><FACE_POS_LEFT><FACE_REINA><FACE_HAPPY><FP_LEFT>N-No! I'm fine!
+I just don't want to miss a
+moment of seeing them.
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MAKO><FACE_HAPPY><FP_RIGHT>Huzzah!
+Drinking tea under the
+cherry blossoms, it's bliss!<PAGE><FACE_POS_LEFT><FACE_GOMBE><FACE_HAPPY><FP_LEFT>Yes, ah, yes it is!
+Another cup for me, hmm?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Now don't overeat, Gombe!
+You're no spring chicken!<PAGE><FACE_POS_LEFT><FACE_GOMBE><FACE_HAPPY><FP_LEFT>Phooey! I'm fine! If I
+get a tummy ache, you'll
+fix this old man up, doc.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RAHI><FACE_HAPPY><FP_RIGHT>Here, Ying.
+Have something to drink.<PAGE><FACE_POS_LEFT><FACE_YING><FACE_HAPPY><FP_LEFT>Thanks, Rahi...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_YUN><FACE_HAPPY><FP_LEFT>It's the same old tea we
+drink all the time, but it
+tastes better at a picnic!<PAGE><FACE_POS_RIGHT><FACE_AYAME><FACE_HAPPY><FP_RIGHT>That's the magic of the
+cherry blossoms in bloom,
+I guess you'd say.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_YING><FACE_NORMAL><FP_RIGHT>Grandma...
+May I...have some tea?<PAGE><FACE_POS_LEFT><FACE_YUN><FACE_HAPPY><FP_LEFT>Just a moment, dearie...\u270a
+There you are.
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_KANA><FACE_HAPPY><FP_LEFT>Picnicking under the cherry
+blossoms, I feel like I'm
+floating! Awesome feeling.<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_SHY><FP_RIGHT>And let's leave it at that,
+Kana!<PAGE>I would hate to see a repeat
+of a certain incident...<PAGE><FACE_POS_LEFT><FACE_KANA><FACE_NORMAL><FP_LEFT>Huh?
+What did I do, bro?<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_SHY><FP_RIGHT>At a previous picnic, you
+got so carried away, you
+suddenly took off!<PAGE><FACE_POS_LEFT><FACE_KANA><FACE_NORMAL><FP_LEFT>What are you talking about?
+I've got no clue.<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_ANGRY><FP_RIGHT>Are you quite serious!?<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_SHY><FP_RIGHT>Kana, don't you remember
+what happened that day?<PAGE><FACE_POS_LEFT><FACE_KANA><FACE_SHY><FP_LEFT>Uh...<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_SHY><FP_RIGHT>It was a terrible experience
+for Hiro.<PAGE>Kana, you suddenly leaped on
+to Hayate and rode off to
+the mountain...<PAGE>Hiro was so concerned, and
+finally tracked you down.<PAGE><FACE_POS_LEFT><FACE_KANA><FACE_SHY><FP_LEFT>Man, that really happened?
+Whoa, my bad, Hiro.<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_NORMAL><FP_RIGHT>Put it out of your mind!
+All is forgiven.<PAGE><FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT>So try to keep control of
+yourself this year, Kana.
+Learn from your mistakes.<PAGE><FACE_POS_LEFT><FACE_KANA><FACE_SHY><FP_LEFT>Alright, I'll be careful...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_ANGRY><FP_RIGHT>The other day, I saw a guy
+up to no good.<PAGE><FACE_POS_LEFT><FACE_KANA><FACE_NORMAL><FP_LEFT>What happened?
+Why'd you bring it up now?<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_ANGRY><FP_RIGHT>It came to me while I was
+looking at the blossoms.<PAGE>The other day I saw a man
+trying to break off a branch
+of a cherry blossom tree.<PAGE><FACE_POS_LEFT><FACE_NORI><FACE_SHY><FP_LEFT>Right in front of you?
+What was he up to?<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_ANGRY><FP_RIGHT>I yelled at him, of course.<PAGE>Don't people like that know
+how precious living plants
+are?<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_SAD><FP_RIGHT>It made me mad and sad...<PAGE><FACE_POS_LEFT><FACE_HIRO><FACE_ANGRY><FP_LEFT>I suppose that such a fellow
+fails to appreciate the true
+beauty of cherry blossoms.<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>I explained it to him...
+He said he would respect
+the trees from now on.<PAGE><FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT>Sounds like you gave him a
+piece of your mind!
+I'm sure he got the message.<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>I hope so...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Remember that cherry blossom
+festival where grandfather
+Gombe did a silly dance?<PAGE><FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT>Really? Gombe?
+What kind of dance?<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_SHY><FP_RIGHT>He wrapped a towel around
+his head, put chopsticks in
+his nose...<PAGE>And capered around like a
+a monkey.<PAGE><FACE_POS_LEFT><FACE_KANA><FACE_HAPPY><FP_LEFT>BWA-HA-HA-HA-HA-HA!
+What got into the old guy?<PAGE><FACE_POS_LEFT><FACE_REINA><FACE_HAPPY><FP_LEFT>That doesn't sound like any
+dance I've heard of...<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>I asked him what that dance
+was...<PAGE>And he said,
+"A traditional dance, hmm!"
+in that way of his.<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_HAPPY><FP_RIGHT>Ha-ha-ha-ha-ha-ha!
+Are you quite serious? I'm
+laughing so hard it hurts!<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>But I can't laugh at my own
+grandfather!
+I wonder what it's about...<PAGE><FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT>Actually, I've heard of it.
+It's a dance that's been
+passed down in Konohana.<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>So he was telling the truth?<PAGE><FACE_POS_LEFT><FACE_INA><FACE_HAPPY><FP_LEFT>I was told that no one was
+left who knew the dance.
+As mayor, I need to know it.<PAGE>I'll have to ask Gombe to
+teach me the dance.<PAGE><FACE_POS_LEFT><FACE_KANA><FACE_SHY><FP_LEFT>No WAY! You're joking, yeah?
+Rahi would cry if he saw you
+doing that...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_KANA><FACE_NORMAL><FP_LEFT>So what's the deal with
+Sheng? He never comes to the
+cherry blossom festival.<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_NORMAL><FP_RIGHT>Why, you're quite right!
+Undoubtedly he knows about
+the picnic...<PAGE><FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT>I told him just yesterday.
+But he said he would picnic
+with his pandas.<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Ooh, looking at the cherry
+blossoms with pandas...!
+That would be amazing.<PAGE><FACE_POS_LEFT><FACE_KANA><FACE_SHY><FP_LEFT>Sheng's thing with pandas is
+totally hardcore, y'know.<PAGE>You gotta a respect the dude
+for being a hundred percent
+committed to his interests.<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>I think plants are cuter
+than pandas...<PAGE><FACE_POS_LEFT><FACE_KANA><FACE_NORMAL><FP_LEFT>Huh?
+Did you say something?<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_SHOCK><FP_RIGHT>N-No, nothing.<PAGE><FACE_POS_LEFT><FACE_KANA><FACE_SHY><FP_LEFT>Why are you blushing like
+that? You're a weird girl,
+Reina.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>A long time ago, I got a
+fever on the day of the
+picnic and slept in.<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_HAPPY><FP_RIGHT>I do recall that.
+I made you picnic delicacies
+and brought them to you.<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_SHY><FP_RIGHT>I was so happy when you did
+that!<PAGE>I was afraid that everybody
+had forgotten about me.<PAGE><FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT>Every villager is special
+and nobody gets forgotten.
+Never worry about that.<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>I guess you're right.
+I was just a kid, so I was
+worried.<PAGE>After Hiro came, so did all
+the villagers, to see how I
+was doing...<PAGE>I was so happy that I cried!<PAGE><FACE_POS_LEFT><FACE_KANA><FACE_NORMAL><FP_LEFT>Oh yeah, I remember that.
+Everybody was worried 'cause
+you were sick.<PAGE><FACE_POS_LEFT><FACE_REINA><FACE_NORMAL><FP_LEFT>If that ever happens again,
+I'll come see you too.<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Thank you!
+It makes me so glad that I
+live in Konohana!
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_YUN><FACE_HAPPY><FP_RIGHT>My, aren't the blossoms
+lovely? I'm glad I made my
+best food for the picnic!<PAGE><FACE_POS_LEFT><FACE_GOMBE><FACE_HAPPY><FP_LEFT>Yun's 3 color dumplings are
+the best, ah, the best!
+I could eat a hundred!<PAGE><FACE_POS_RIGHT><FACE_MAKO><FACE_HAPPY><FP_RIGHT>You certainly know how to
+pack them away for an old
+fellow!<PAGE><FACE_POS_RIGHT><FACE_AYAME><FACE_NORMAL><FP_RIGHT>G-Gombe!
+Don't eat so fast!
+It's not good for you!<PAGE><FACE_POS_RIGHT><FACE_YING><FACE_HAPPY><FP_RIGHT>Wow...he eats...super fast.<PAGE><FACE_POS_RIGHT><FACE_RAHI><FACE_ANGRY><FP_RIGHT>I'm not going to let Gombe
+out-eat me!<PAGE><FACE_POS_RIGHT><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Looks like you're no slouch
+with eating either, Rahi!<PAGE><FACE_POS_LEFT><FACE_GOMBE><FACE_NORMAL><FP_LEFT>Hmph, he's just a youngster!
+Can't beat ME at eating!<PAGE>Ah, watch how fast I go!
+*Munch* *Munch* *Munch*!!<PAGE><FACE_POS_RIGHT><FACE_RAHI><FACE_ANGRY><FP_RIGHT>I can gobble them up too!
+Watch me go, Ying!
+*Munch* *Munch* *Munch*!!<PAGE><FACE_POS_RIGHT><FACE_YING><FACE_NORMAL><FP_RIGHT>Rahi...eats super fast too.<PAGE><FACE_POS_RIGHT><FACE_AYAME><FACE_HAPPY><FP_RIGHT>Stop it now, STOP!
+That's enough, you two!<PAGE><FACE_POS_RIGHT><FACE_RAHI><FACE_ANGRY><FP_RIGHT>Aww...we don't know who the
+winner is yet...<PAGE><FACE_POS_LEFT><FACE_GOMBE><FACE_ANGRY><FP_LEFT>That's right, hmm!
+No winner yet, not yet!<PAGE><FACE_POS_RIGHT><FACE_AYAME><FACE_ANGRY><FP_RIGHT>You two behave yourselves
+or I'm going to get angry!<PAGE><FACE_POS_RIGHT><FACE_AYAME><FACE_HAPPY><FP_RIGHT>Okay, boys?<PAGE><FACE_POS_RIGHT><FACE_RAHI><FACE_SAD><FP_RIGHT>O-Okay!<PAGE><FACE_POS_LEFT><FACE_GOMBE><FACE_SAD><FP_LEFT>Ah, yes, yes...<PAGE><FACE_POS_RIGHT><FACE_YING><FACE_SAD><FP_RIGHT>Dr. Ayame...she's scary...
+when she gets mad...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_AYAME><FACE_SAD><FP_RIGHT>It's a troublesome time of
+year with people eating so
+much they get sick.<PAGE><FACE_POS_RIGHT><FACE_YUN><FACE_NORMAL><FP_RIGHT>Goodness, there ARE a lot
+of parties this time of
+year, so what can you do?<PAGE><FACE_POS_RIGHT><FACE_AYAME><FACE_NORMAL><FP_RIGHT>That's true, but when people
+are brought to my clinic,
+they always have an excuse.<PAGE>"What are you doing," they
+say, "I can still eat more!"<PAGE>But I don't let them get
+away with it!<PAGE><FACE_POS_RIGHT><FACE_MAKO><FACE_ANGRY><FP_RIGHT>Dr. Ayame, how dare you say
+such things!? An outrage!<PAGE><FACE_POS_RIGHT><FACE_YING><FACE_NORMAL><FP_RIGHT>Uh-oh...Mako is upset...
+What's wrong?<PAGE><FACE_POS_RIGHT><FACE_RAHI><FACE_NORMAL><FP_RIGHT>That's just grown-ups, Ying.
+Let's stay out of it.<PAGE><FACE_POS_LEFT><FACE_GOMBE><FACE_HAPPY><FP_LEFT>Ah, Mako...
+Don't get so worked up, hmm?<PAGE>Dr. Ayame is a beautiful
+woman, very beautiful.<PAGE>I can see why you want to
+win her over, ah yes.<PAGE><FACE_POS_RIGHT><FACE_MAKO><FACE_ANGRY><FP_RIGHT>It's...it's not that I...<PAGE><FACE_POS_RIGHT><FACE_AYAME><FACE_HAPPY><FP_RIGHT>I don't need YOU calling me
+beautiful, Gombe, thank you
+very much.<PAGE>Enough of your flattery!
+Tee-hee.<PAGE><FACE_POS_LEFT><FACE_GOMBE><FACE_HAPPY><FP_LEFT>Ah, but it's true.
+Isn't it Mako, hmm?<PAGE><FACE_POS_RIGHT><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Er, yes. Of course Ayame is
+a beautiful woman.<PAGE><FACE_POS_RIGHT><FACE_AYAME><FACE_HAPPY><FP_RIGHT>Tee-hee! Why, Mako!
+Thank you.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_YING><FACE_NORMAL><FP_RIGHT>Mr. Mako...
+may I have a dumpling?<PAGE><FACE_POS_RIGHT><FACE_MAKO><FACE_HAPPY><FP_RIGHT>Yes, I'll get one for you.
+Here's your dumpling.<PAGE><FACE_POS_RIGHT><FACE_YING><FACE_NORMAL><FP_RIGHT>.........
+.........
+.........<PAGE><FACE_POS_RIGHT><FACE_MAKO><FACE_NORMAL><FP_RIGHT>What's wrong?
+Go on, take it.
+Didn't you want a dumpling?<PAGE><FACE_POS_RIGHT><FACE_YING><FACE_SAD><FP_RIGHT>...Eeep...
+Scary...<PAGE><FACE_POS_RIGHT><FACE_MAKO><FACE_ANGRY><FP_RIGHT>Wh-What!?!?
+What's scary?
+I'm my usual self...<PAGE><FACE_POS_RIGHT><FACE_YING><FACE_SAD><FP_RIGHT>Grandma...
+Mako is scary...<PAGE><FACE_POS_RIGHT><FACE_YUN><FACE_NORMAL><FP_RIGHT>My my, you were scared?
+Poor little dear.
+Here's a dumpling.<PAGE><FACE_POS_RIGHT><FACE_YING><FACE_HAPPY><FP_RIGHT>Mmm...
+Yummy...<PAGE><FACE_POS_LEFT><FACE_GOMBE><FACE_HAPPY><FP_LEFT>Ah, now she's smiling!
+Good, hmm, that's good.<PAGE><FACE_POS_LEFT><FACE_GOMBE><FACE_ANGRY><FP_LEFT>Ah, Mako.
+Your face is just too scary!<PAGE><FACE_POS_RIGHT><FACE_MAKO><FACE_NORMAL><FP_RIGHT>All I did was smile as
+usual. I wasn't trying to
+scare the girl at all!<PAGE><FACE_POS_RIGHT><FACE_RAHI><FACE_ANGRY><FP_RIGHT>Try smiling again.<PAGE><FACE_POS_RIGHT><FACE_MAKO><FACE_HAPPY><FP_RIGHT>Er, like this?<PAGE><FACE_POS_RIGHT><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Ah-ha, there's the problem!
+It's a miracle Ying didn't
+burst out crying!<PAGE><FACE_POS_RIGHT><FACE_MAKO><FACE_SAD><FP_RIGHT>Dr. Ayame...
+How could you say that...<PAGE><FACE_POS_RIGHT><FACE_AYAME><FACE_NORMAL><FP_RIGHT>You need to practice your
+smile, Mako.
+A NORMAL smile.<PAGE><FACE_POS_RIGHT><FACE_MAKO><FACE_NORMAL><FP_RIGHT>If you say so...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Now these are delicious!
+Under the cherry blossoms,
+I have a bigger appetite.<PAGE>All the better when somebody
+else made the food!<PAGE><FACE_POS_RIGHT><FACE_YUN><FACE_NORMAL><FP_RIGHT>But Dr. Ayame, don't you
+cook?<PAGE>You do seem to eat at my tea
+house all the time.<PAGE><FACE_POS_RIGHT><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Despite how it may look, I
+actually CAN cook.
+Except...<PAGE><FACE_POS_RIGHT><FACE_YUN><FACE_NORMAL><FP_RIGHT>Except?<PAGE><FACE_POS_RIGHT><FACE_AYAME><FACE_HAPPY><FP_RIGHT>I just hate to clean up
+afterwards, I'm embarrassed
+to admit...<PAGE><FACE_POS_RIGHT><FACE_YUN><FACE_NORMAL><FP_RIGHT>My goodness.<PAGE><FACE_POS_RIGHT><FACE_YING><FACE_NORMAL><FP_RIGHT>I...help my grandma by...
+cleaning up the dishes...<PAGE><FACE_POS_RIGHT><FACE_AYAME><FACE_HAPPY><FP_RIGHT>What a good little girl you
+are, Ying! I should learn
+from you, but I won't.<PAGE><FACE_POS_LEFT><FACE_GOMBE><FACE_NORMAL><FP_LEFT>Whoever marries Dr. Ayame
+will have a challenge!<PAGE><FACE_POS_RIGHT><FACE_RAHI><FACE_NORMAL><FP_RIGHT>I guess she better find a
+man who's good at chores
+around the house.<PAGE><FACE_POS_RIGHT><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Ah-ha!
+That's a good point!<PAGE><FACE_POS_RIGHT><FACE_AYAME><FACE_HAPPY><FP_RIGHT>Maybe so, but I'm not in
+the marriage market.<PAGE>Living in Konohana, I don't
+need a husband.<PAGE><FACE_POS_RIGHT><FACE_MAKO><FACE_SAD><FP_RIGHT>Huh!?
+Do you really mean that...?<PAGE><FACE_POS_RIGHT><FACE_YUN><FACE_NORMAL><FP_RIGHT>My, my, whatever is the
+matter, Mako?<PAGE><FACE_POS_RIGHT><FACE_MAKO><FACE_SAD><FP_RIGHT>It's...it's nothing...
+Argh...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Well, Ying, I guess I better
+grab some food for you...<PAGE><FACE_POS_RIGHT><FACE_YING><FACE_SAD><FP_RIGHT>Huh? You...don't have to.
+I can...get it myself.
+Sorry...<PAGE><FACE_POS_RIGHT><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Uh......<PAGE><FACE_POS_RIGHT><FACE_YUN><FACE_HAPPY><FP_RIGHT>My goodness!
+Go ahead and take some for
+her, young man!<PAGE><FACE_POS_RIGHT><FACE_YING><FACE_NORMAL><FP_RIGHT>But......
+You don't mind, Rahi?<PAGE><FACE_POS_RIGHT><FACE_RAHI><FACE_HAPPY><FP_RIGHT>Sure!
+I'll get whatever you want!
+What do you want?<PAGE><FACE_POS_RIGHT><FACE_YING><FACE_HAPPY><FP_RIGHT>Um......
+Let's see...
+Which should I have...?<PAGE><FACE_POS_LEFT><FACE_GOMBE><FACE_HAPPY><FP_LEFT>Ah, what a sweet little 
+girl!<PAGE>But Rahi, I can read him
+like a book, hmm?<PAGE>Just like his father, that
+boy!<PAGE><FACE_POS_RIGHT><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Is he really?
+Tell me more!<PAGE><FACE_POS_RIGHT><FACE_MAKO><FACE_NORMAL><FP_RIGHT>I also want to hear this.<PAGE><FACE_POS_LEFT><FACE_GOMBE><FACE_HAPPY><FP_LEFT>Ah, you do, hmm?<PAGE><FACE_POS_LEFT><FACE_GOMBE><FACE_SAD><FP_LEFT>..........
+Ah, better not.<PAGE><FACE_POS_RIGHT><FACE_AYAME><FACE_NORMAL><FP_RIGHT>But why not?<PAGE><FACE_POS_LEFT><FACE_GOMBE><FACE_SAD><FP_LEFT>Yun is giving me her scary
+face from over there...<PAGE>One thing an old man won't
+do is make Yun angry!<PAGE><FACE_POS_RIGHT><FACE_YUN><FACE_ANGRY><FP_RIGHT>Now look here, is this the
+place for that kind of talk?<PAGE><FACE_POS_LEFT><FACE_GOMBE><FACE_SAD><FP_LEFT>Sorry, ah, sorry.<PAGE><FACE_POS_RIGHT><FACE_AYAME><FACE_SAD><FP_RIGHT>I-I'm sorry too...
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>Well, the time has come.
+It's a shame, but we have to
+wrap up the picnic now.
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT>What are Rahi and the others
+up to over there?
+Having a good time, I hope?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>What are my grandfather and
+the others up to over there?<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_SHY><FP_RIGHT>I hope they're not eating
+so much they give
+themselves tummy aches.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_KANA><FACE_NORMAL><FP_LEFT>So what's everybody else
+doing at the other picnic
+site?
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY

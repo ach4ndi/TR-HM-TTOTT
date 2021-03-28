@@ -1,0 +1,22 @@
+<FACE_POS_RIGHT><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>あら〜、<MYNAME>さ〜ん。\u270a\u270a
+えっ？　ここで何を
+しているかですか〜？？<PAGE><FACE_POS_RIGHT><FACE_EILEEN><FACE_HAPPY><FP_RIGHT>仕事に使う材料を
+集めに来たんですよ〜〜〜。
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>どうやって集めるかですか〜？
+この山道を登って
+取りに行くんです〜〜。<PAGE><RED>ジャンプ</COLOR>して飛び越える
+だけなので、簡単ですよ〜。<PAGE><FACE_POS_RIGHT><FACE_EILEEN><FACE_HAPPY><FP_RIGHT>木の実や花を探したい時や、
+浅い川に行きたい時に
+こうやって移動するんです〜。<PAGE><MYNAME>さんも、
+いろんなところを
+歩き回ってみてください〜〜。
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><HIDE_NAME><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>あら〜、どうしたんですか？<PAGE>へぇ〜、新しく牧場に来た
+<MYNAME>さんですか〜〜。<PAGE><FACE_POS_RIGHT><FACE_EILEEN><FACE_HAPPY><FP_RIGHT>わたしは大工の
+<BLUE>アイリン</COLOR>です〜。
+よろしくです〜。
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>はぁ、ここで何を
+しているかですか〜？<PAGE><FACE_POS_RIGHT><FACE_EILEEN><FACE_HAPPY><FP_RIGHT>仕事に使う材料を
+集めに来たんですよ〜〜〜。

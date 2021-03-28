@@ -1,0 +1,75 @@
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Dum-Da-Da-DAA!<PAGE>You just caught your 30th
+<VAR_0>!
+Congratulations!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>You've still got a ways to
+go, though!<PAGE>But if you keep looking, I'm
+sure you'll find lots of
+other critters!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Well, keep up the good work!
+Toodles!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Dum-Da-Da-DAA!<PAGE>You just caught your 100th
+<VAR_0>!
+Congratulations!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>You've gotten pretty good!<PAGE>Try looking in new places,
+or at different times, and
+you could find new critters!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Well, keep up the good work!
+Toodles!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Dum-Da-Da-DAA!<PAGE>You just caught your 300th
+<VAR_0>!
+Congratulations!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>Looks like you've gotten
+really good at catching the
+critter you want to catch!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Well, keep up the good work!
+Toodles!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Dum-Da-Da-DAA!<PAGE>You just caught your 500th
+<VAR_0>!
+Congratulations!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>Wow! You've caught a lot!
+You must really love
+catching critters!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Well, keep up the good work!
+Toodles!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Dum-Da-Da-DAA!<PAGE>You just caught your 1,000th
+<VAR_0>!
+Congratulations!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>You've caught so many...
+But how many is
+enough?!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>Well, as long as you enjoy
+it... I suppose that's the
+most important thing!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Well, have fun critter
+catching!
+Toodles!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><HIDE_NAME><FACE_HGODDES><FACE_NORMAL><FP_LEFT><HIDE_FACE>Dum-Da-Da-DAA! You
+just caught your 30th
+<VAR_0>!<PAGE>Congratulations!<PAGE>By the way, have you figured
+out who I am?<PAGE>I'll tell you if you
+can find me!<PAGE>Well, keep up the good work!
+Toodles!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><HIDE_NAME><FACE_HGODDES><FACE_NORMAL><FP_LEFT><HIDE_FACE>Dum-Da-Da-DAA! You
+just caught your 100th
+<VAR_0>!<PAGE>Congratulations!<PAGE>By the way, have you figured
+out who I am yet?<PAGE>I'll tell you if you
+can find me!<PAGE>Well, keep up the good work!
+Toodles!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><HIDE_NAME><FACE_HGODDES><FACE_NORMAL><FP_LEFT><HIDE_FACE>Dum-Da-Da-DAA! You
+just caught your 300th
+<VAR_0>!<PAGE>Congratulations!<PAGE>By the way, have you figured
+out who I am yet?<PAGE>I'll tell you if you
+can find me!<PAGE>Well, keep up the good work!
+Toodles!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><HIDE_NAME><FACE_HGODDES><FACE_NORMAL><FP_LEFT><HIDE_FACE>Dum-Da-Da-DAA! You
+just caught your 500th
+<VAR_0>!<PAGE>Congratulations!<PAGE>By the way, have you figured
+out who I am yet?<PAGE>I'll tell you if you
+can find me!<PAGE>Well, keep up the good work!
+Toodles!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><HIDE_NAME><FACE_HGODDES><FACE_NORMAL><FP_LEFT><HIDE_FACE>Dum-Da-Da-DAA! You
+just caught your 1,000th
+<VAR_0>!<PAGE>Congratulations!<PAGE>By the way, isn't it about
+time you found out who I
+am...?<PAGE>I guess I'll have to appear
+right in front of you for
+you to figure it out...<PAGE>Well, keep up the good work!
+Toodles!

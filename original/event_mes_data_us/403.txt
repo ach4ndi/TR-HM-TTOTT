@@ -1,0 +1,205 @@
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>Good luck to you in
+Bluebell, <MYNAME>.<PAGE>I've already informed Rutger
+of your move.<PAGE>If you ever want to come
+back here, you know you
+are always welcome.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_LANEY><FACE_NORMAL><FP_LEFT>Time to move already?
+Oh, there's so much to do!<PAGE><FACE_POS_LEFT><FACE_LANEY><FACE_HAPPY><FP_LEFT>I think I should stay here
+tonight to make sure
+everything's taken care of.<PAGE>I'll see you there tomorrow.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_GEORGIA><FACE_SHY><FP_LEFT>I wasn't expecting to
+move so soon...<PAGE><FACE_POS_LEFT><FACE_GEORGIA><FACE_NORMAL><FP_LEFT>Well, I've got to go tell
+all the neighbors!
+<PAGE>There's just so much to do
+that I can't go today. I'll
+meet you there tomorrow.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_REINA><FACE_NORMAL><FP_LEFT>I guess it's kind of fun
+to move. It'll be a nice
+change.<PAGE><FACE_POS_LEFT><FACE_REINA><FACE_HAPPY><FP_LEFT>I need some more time to
+say goodbye to the
+neighbors and clean up.<PAGE>I'll meet you there
+tomorrow.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_NORI><FACE_NORMAL><FP_LEFT>There's never enough time
+to take care of things when
+I move.<PAGE><FACE_POS_LEFT><FACE_NORI><FACE_HAPPY><FP_LEFT>Go ahead and
+start unpacking at the new
+house today.<PAGE>Don't worry about me.
+I'll catch up with
+you there tomorrow.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ULYSSA><FACE_NORMAL><FP_LEFT>Is it time to move
+already?<PAGE><FACE_POS_LEFT><FACE_ULYSSA><FACE_HAPPY><FP_LEFT>I need to pack up all my
+alchemy stuff!<PAGE>Why don't you head over
+there without me today?<PAGE>I'll meet you there tomorrow
+once I've got everything
+packed.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ALISA><FACE_NORMAL><FP_LEFT>Oh, a change in scenery does
+sound nice!<PAGE><FACE_POS_LEFT><FACE_ALISA><FACE_HAPPY><FP_LEFT>I should say my goodbyes
+here, though. It'll take
+a little while.<PAGE>I'll stay here one more day
+and meet you over there
+tomorrow.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ASH><FACE_NORMAL><FP_LEFT>Okay! Time to move to
+our new house!<PAGE><FACE_POS_LEFT><FACE_ASH><FACE_HAPPY><FP_LEFT>I've gotta say goodbye to
+all the neighbors. It may
+take me a while.<PAGE>I'll stay here tonight and
+meet up with you tomorrow.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_CAM><FACE_NORMAL><FP_LEFT>I'm sad to leave here, but
+happy to be moving to
+Bluebell.<PAGE><FACE_POS_LEFT><FACE_CAM><FACE_HAPPY><FP_LEFT>I'll go say goodbye to
+all the neighbors.<PAGE>It might take me a while.
+I'll meet up with you
+tomorrow.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_HIRO><FACE_SHY><FP_LEFT>We're moving today!<PAGE><FACE_POS_LEFT><FACE_HIRO><FACE_NORMAL><FP_LEFT>Okay, now I need to clean,
+and say goodbye to Ayame,
+and Nori, and...<PAGE>...I don't think I can do it
+all today. I'll meet you
+there tomorrow. 
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_KANA><FACE_NORMAL><FP_LEFT>I'm excited about moving
+to Bluebell.<PAGE><FACE_POS_LEFT><FACE_KANA><FACE_HAPPY><FP_LEFT>I gotta say goodbye to all
+the neighbors, though. Man,
+what'll Hiro do without me?<PAGE>It'll take a while. I'd
+better meet up with you
+tomorrow!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_MIKHAIL><FACE_NORMAL><FP_LEFT>Are you ready to move?<PAGE><FACE_POS_LEFT><FACE_MIKHAIL><FACE_HAPPY><FP_LEFT>Would you mind me staying
+here tonight?<PAGE>There's a song I want to
+finish in this house. I'll
+meet up with you tomorrow.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_DIRK><FACE_NORMAL><FP_LEFT>We're moving to Bluebell,
+huh? How exciting!
+<PAGE><FACE_POS_LEFT><FACE_DIRK><FACE_HAPPY><FP_LEFT>I want to take some time
+and make sure everything's
+packed up here.<PAGE>I'll meet up with you at the
+new place tomorrow.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_LANEY><FACE_NORMAL><FP_LEFT>Time to move already?
+Oh, there's so much to do!<PAGE><FACE_POS_LEFT><FACE_LANEY><FACE_HAPPY><FP_LEFT>I think I should stay here
+tonight to make sure
+everything's taken care of.<PAGE>\u2337 and I'll
+see you there tomorrow.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_GEORGIA><FACE_SHY><FP_LEFT>I wasn't expecting to
+move so soon...<PAGE><FACE_POS_LEFT><FACE_GEORGIA><FACE_NORMAL><FP_LEFT>Well, I've got to go tell
+all the neighbors!
+<PAGE>There's just so much to do
+that I can't go today.<PAGE>\u2337 and I'll
+meet you there tomorrow.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_REINA><FACE_NORMAL><FP_LEFT>I guess it's kind of fun
+to move. It'll be a nice
+change.<PAGE><FACE_POS_LEFT><FACE_REINA><FACE_HAPPY><FP_LEFT>I need some more time to
+say goodbye to the
+neighbors and clean up.<PAGE>\u2337 and I will
+meet you there tomorrow.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_NORI><FACE_NORMAL><FP_LEFT>There's never enough time
+to take care of things when
+I move.<PAGE><FACE_POS_LEFT><FACE_NORI><FACE_HAPPY><FP_LEFT>Go ahead and
+start unpacking at the new
+house today.<PAGE>Don't worry. \u2337 and I
+will catch up with you
+there tomorrow.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ULYSSA><FACE_NORMAL><FP_LEFT>Is it time to move
+already?<PAGE><FACE_POS_LEFT><FACE_ULYSSA><FACE_HAPPY><FP_LEFT>I need to pack up all my
+alchemy stuff!<PAGE>Why don't you head over
+there without me today?<PAGE>I'll meet you there tomorrow
+with \u2337 once I've
+got everything packed.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ALISA><FACE_NORMAL><FP_LEFT>Oh, a change in scenery does
+sound nice!<PAGE><FACE_POS_LEFT><FACE_ALISA><FACE_HAPPY><FP_LEFT>I should say my goodbyes
+here, though. It'll take
+a little while.<PAGE>I'll stay here one more day
+and meet you over there
+with \u2337 tomorrow.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ASH><FACE_NORMAL><FP_LEFT>Okay! Time to move to
+our new house!<PAGE><FACE_POS_LEFT><FACE_ASH><FACE_HAPPY><FP_LEFT>I'll go say goodbye to
+all the neighbors.
+It might take me a while.<PAGE>I'll stay here tonight and
+\u2337 and I'll meet
+you tomorrow.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_CAM><FACE_NORMAL><FP_LEFT>I'm sad to leave here, but
+excited about moving to
+Bluebell.<PAGE><FACE_POS_LEFT><FACE_CAM><FACE_HAPPY><FP_LEFT>I'll go say goodbye to
+everyone. I don't know how
+late I'll be.<PAGE>I'll head over there with
+\u2337 tomorrow.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_HIRO><FACE_SHY><FP_LEFT>We're moving today!<PAGE><FACE_POS_LEFT><FACE_HIRO><FACE_NORMAL><FP_LEFT>How exciting!<PAGE>Okay, now I need to clean,
+and say goodbye to Ayame,
+and Nori, and...<PAGE>...I don't think I can do it
+all today. I'll meet you
+there tomorrow with \u2337.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_KANA><FACE_NORMAL><FP_LEFT>I'm excited about moving
+to Bluebell!<PAGE><FACE_POS_LEFT><FACE_KANA><FACE_HAPPY><FP_LEFT>I gotta say goodbye to all
+the neighbors, though. Man,
+what'll Hiro do without me?<PAGE>It'll take a while. I'd
+better meet up with you
+tomorrow with \u2337!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_MIKHAIL><FACE_NORMAL><FP_LEFT>Are you ready to move?<PAGE><FACE_POS_LEFT><FACE_MIKHAIL><FACE_HAPPY><FP_LEFT>Would you mind me staying
+here tonight?<PAGE>There's a song I want to
+finish in this house.<PAGE>I'll meet up with you
+tomorrow with \u2337.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_DIRK><FACE_NORMAL><FP_LEFT>We're moving to Konohana,
+huh? How exciting!
+<PAGE><FACE_POS_LEFT><FACE_DIRK><FACE_HAPPY><FP_LEFT>I want to take some time
+and make sure everything's
+packed up here.<PAGE>I'll meet up with you at the
+new place tomorrow with
+\u2337.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KID><FACE_HAPPY><FP_RIGHT>Bye bye!<RED>❤</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KID><FACE_HAPPY><FP_RIGHT>See you tomorrow!
+This'll be super fun!
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KID><FACE_HAPPY><FP_RIGHT>See you tomorrow!
+This'll be super fun!
+
+----------------------------|----------------------------------
+Let's get going!
+----------------------------|----------------------------------
+Time to start making a
+new home in Bluebell!
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Welcome to Bluebell, <MYNAME>.
+You must be exhausted.
+<PAGE>Rest well tonight. I'll see
+you around tomorrow.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Oh, by the way, I have
+a little something for you
+as a welcome gift.<PAGE>It's a locally-made
+outfit for this town.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>When you want to change your
+outfit...<PAGE>touch the image of yourself
+on the bottom screen.<PAGE>Then select the outfit you
+want to wear.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Oh, and the animals you left
+here a while back are all
+returned to your farm.<PAGE>They must have missed you
+while you were away.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>That's about it. See you
+around.

@@ -1,0 +1,19 @@
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Telolelelelet! Selamat atas
+memiliki hewan peliharaan
+sampai batas maksimalnya!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>Apa kamu sangat menyukai 
+hewan peliharaanmu! Aku
+juga! Mereka lucu-lucu!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>Dari semuanya, apa yang
+paling disukai,
+<MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Aku menyukai kucing putih,
+Mereka kalem ... sangat
+kalem!!!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Well, jaga baik baik
+hewan peliharaanmu ya!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><HIDE_NAME><FACE_HGODDES><FACE_NORMAL><FP_LEFT><HIDE_FACE>Telolelelelet! Selamat atas
+memiliki hewan peliharaan
+sampai batas maksimalnya!<PAGE>btw, apa kamu sudah tahu
+siapa aku kan?<PAGE>Aku akan memberitahukanmu
+dimana bisa bertemu dengan
+aku dengan damai!<PAGE>Well, pertahankan usahamu!

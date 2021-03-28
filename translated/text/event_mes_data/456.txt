@@ -1,0 +1,145 @@
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Telolelolet! Kamu sudah me-
+mengendarai 1,000 langkah
+dengan kudamu! Selamat!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>Jangan lupakan untuk mema-
+sangkan kudamu dengan
+gerobak! Kamu dapat mengak-<PAGE>ses barang kamu dimana saja!<PAGE>Ini super nyamanloh!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Lanjutkan usaha kerasmu
+itu!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Telolelolet! Kamu sudah me-
+mengendarai 5,000 langkah
+dengan kudamu! Selamat!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>Itu benar-benar bagus, tapi
+kamu masih membutuhkan lebih
+lama untuk mengendarainya!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Lanjutkan usaha kerasmu
+itu!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Telolelolet! Kamu sudah me-
+mengendarai 10,000 langkah
+dengan kudamu! Selamat!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>Kamu benar-benar semakin
+dekat dengan kudamu!
+Pertahankan!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Lanjutkan usaha kerasmu
+itu!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Telolelolet! Kamu sudah me-
+mengendarai 50,000 langkah
+dengan kudamu! Selamat!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>Apa kamu sudah mencoba ber-
+bagai jenis gerobak?<PAGE>Cara terbaik untuk mendapat-
+kan gerobak yang efesien
+yaitu dengan membeli yang<PAGE>baru, lalu ditingkatkan
+kemampuannya!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Lanjutkan usaha kerasmu
+itu!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Telolelolet! Kamu sudah me-
+mengendarai 100,000 langkah
+dengan kudamu! Selamat!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>Apakah kamu sudah mencoba
+mengendarai kuda lainnya?<PAGE>Kamu harus! Tiap kuda memi-
+liki atribut yang berbeda!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Lanjutkan usaha kerasmu
+itu!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Telolelolet! Kamu sudah me-
+mengendarai 150,000 langkah
+dengan kudamu! Selamat!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>Semakin lama kamu semakin
+dekat dengan kudamu!
+Pertahankan!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Lanjutkan usaha kerasmu
+itu!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Telolelolet! Kamu sudah me-
+mengendarai 300,000 langkah
+dengan kudamu! Selamat!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>Wow! Aku tidak mempercayahi-
+nya gimana bagusnya kamu
+mengendarai kuda!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Lanjutkan usaha kerasmu
+itu!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Telolelolet! Kamu sudah me-
+mengendarai 500,000 langkah
+dengan kudamu! Selamat!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>Tampaknya kudamu senang
+untuk berkendara denganmu!<PAGE>Mengendarai kudamu itu
+sudah menjadi bagian kehi-
+dupanmukan? Itu bagus!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Lanjutkan usaha kerasmu
+itu!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Telolelolet! Kamu sudah me-
+mengendarai 1,000,000 langkah
+dengan kudamu! Selamat!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>Pastinya kamu benar-benar
+mencintai kudamu! Aku
+benar-benar terkesan!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>Aku tidak berpikir orang-
+orang mengerti kuda sebaik
+seperti kamu itu!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Kamu pastinya disebut mere-
+ka pembicara kuda...<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>Kamu itu benar benar se-
+orang yang ahli dalam 
+perkudaan!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Ingat ya harus merawat
+kudamu dengan cinta!
+bukan karena ada gerobak!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Telolelolet!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><HIDE_NAME><FACE_HGODDES><FACE_NORMAL><FP_LEFT><HIDE_FACE>Telolelolet! Kamu sudah me-
+mengendarai 1,000 langkah
+dengan kudamu! Selamat!<PAGE>btw, apakah kamu sudah
+mengetahui siapa aku?<PAGE>Aku akan memberitahukanmu
+jika kamu dapat menemukan
+aku!<PAGE>Lanjutkan usaha kerasmu
+itu!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><HIDE_NAME><FACE_HGODDES><FACE_NORMAL><FP_LEFT><HIDE_FACE>Telolelolet! Kamu sudah me-
+mengendarai 5,000 langkah
+dengan kudamu! Selamat!<PAGE>btw, apakah kamu sudah
+mengetahui siapa aku?<PAGE>Aku akan memberitahukanmu
+jika kamu dapat menemukan
+aku!<PAGE>Lanjutkan usaha kerasmu
+itu!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><HIDE_NAME><FACE_HGODDES><FACE_NORMAL><FP_LEFT><HIDE_FACE>Telolelolet! Kamu sudah me-
+mengendarai 10,000 langkah
+dengan kudamu! Selamat!<PAGE>btw, apakah kamu sudah
+mengetahui siapa aku?<PAGE>Aku akan memberitahukanmu
+jika kamu dapat menemukan
+aku!<PAGE>Lanjutkan usaha kerasmu
+itu!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><HIDE_NAME><FACE_HGODDES><FACE_NORMAL><FP_LEFT><HIDE_FACE>Telolelolet! Kamu sudah me-
+mengendarai 50,000 langkah
+dengan kudamu! Selamat!<PAGE>btw, apakah kamu sudah
+mengetahui siapa aku?<PAGE>Aku akan memberitahukanmu
+jika kamu dapat menemukan
+aku!<PAGE>Lanjutkan usaha kerasmu
+itu!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><HIDE_NAME><FACE_HGODDES><FACE_NORMAL><FP_LEFT><HIDE_FACE>Telolelolet! Kamu sudah me-
+mengendarai 100,000 langkah
+dengan kudamu! Selamat!<PAGE>btw, apakah kamu sudah
+mengetahui siapa aku?<PAGE>Aku akan memberitahukanmu
+jika kamu dapat menemukan
+aku!<PAGE>Lanjutkan usaha kerasmu
+itu!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><HIDE_NAME><FACE_HGODDES><FACE_NORMAL><FP_LEFT><HIDE_FACE>Telolelolet! Kamu sudah me-
+mengendarai 150,000 langkah
+dengan kudamu! Selamat!<PAGE>btw, apakah kamu sudah
+mengetahui siapa aku?<PAGE>Aku akan memberitahukanmu
+jika kamu dapat menemukan
+aku!<PAGE>Lanjutkan usaha kerasmu
+itu!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><HIDE_NAME><FACE_HGODDES><FACE_NORMAL><FP_LEFT><HIDE_FACE>Telolelolet! Kamu sudah me-
+mengendarai 300,000 langkah
+dengan kudamu! Selamat!<PAGE>btw, apakah kamu sudah
+mengetahui siapa aku?<PAGE>Aku akan memberitahukanmu
+jika kamu dapat menemukan
+aku!<PAGE>Lanjutkan usaha kerasmu
+itu!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><HIDE_NAME><FACE_HGODDES><FACE_NORMAL><FP_LEFT><HIDE_FACE>Telolelolet! Kamu sudah me-
+mengendarai 500,000 langkah
+dengan kudamu! Selamat!<PAGE>btw, apakah kamu sudah
+mengetahui siapa aku?<PAGE>Aku akan memberitahukanmu
+jika kamu dapat menemukan
+aku!<PAGE>Lanjutkan usaha kerasmu
+itu!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><HIDE_NAME><FACE_HGODDES><FACE_NORMAL><FP_LEFT><HIDE_FACE>Telolelolet! Kamu sudah me-
+mengendarai 1,000,000 langkah
+dengan kudamu! Selamat!<PAGE>btw, apakah ini saatnya
+kamu mengetahui siapa aku?<PAGE>Aku pikir akan menampakkan
+diriku didepan kolam untuk
+ditemukan...<PAGE>Lanjutkan usaha kerasmu
+itu!

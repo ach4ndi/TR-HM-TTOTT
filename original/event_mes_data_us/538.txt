@@ -1,0 +1,54 @@
+<FACE_POS_LEFT><FACE_KANA><FACE_HAPPY><FP_LEFT>Hey, <MYNAME>!
+Perfect timing!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_KANA><FACE_NORMAL><FP_LEFT>I got some useful info to
+tell you about horses
+and carts!<PAGE>Maybe you already know this
+info, though... Still want
+me to explain?
+----------------------------|----------------------------------
+<CHOICE_AB> Yes, please!
+ No thanks, I know already.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_KANA><FACE_HAPPY><FP_LEFT>Cool! Awright, lemme
+explain...<PAGE><FACE_POS_LEFT><FACE_KANA><FACE_NORMAL><FP_LEFT>First, there are different
+<RED>types</COLOR> of horses
+and carts.<PAGE>The kind of horse you have
+is called a "pony." It's
+the smallest type.<PAGE>There are horses stronger
+than ponies that can pull
+carts at higher <RED>speeds</COLOR>.<PAGE><FACE_POS_LEFT><FACE_KANA><FACE_HAPPY><FP_LEFT>If you want to change your
+horse, come to my shop and
+I'll get you a new one.<PAGE><FACE_POS_LEFT><FACE_KANA><FACE_NORMAL><FP_LEFT>Also, each type of cart has
+its own <RED>weight</COLOR> and <RED>load</COLOR>
+that it can carry.<PAGE>You can even <RED>modify</COLOR> the cart
+you have now so it can carry
+more stuff.<PAGE><FACE_POS_LEFT><FACE_KANA><FACE_HAPPY><FP_LEFT>You can have your cart
+modified at my shop!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_KANA><FACE_NORMAL><FP_LEFT>That about covers what you
+need to know about carts and
+horses. Think you got it?
+----------------------------|----------------------------------
+<CHOICE_AB> Yep, I got it!
+ Can you explain it again?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_KANA><FACE_NORMAL><FP_LEFT>You want me to explain it
+again? No prob!<PAGE>First, there are different
+<RED>types</COLOR> of horses
+and carts.<PAGE>The kind of horse you have
+is called a "pony." It's
+the smallest type.<PAGE>There are horses stronger
+than ponies that can pull
+carts at higher <RED>speeds</COLOR>.<PAGE><FACE_POS_LEFT><FACE_KANA><FACE_HAPPY><FP_LEFT>If you want to change your
+horse, come to my shop and
+I'll get you a new one.<PAGE><FACE_POS_LEFT><FACE_KANA><FACE_NORMAL><FP_LEFT>Also, each type of cart has
+its own <RED>weight</COLOR> and <RED>load</COLOR>
+that it can carry.<PAGE>You can even <RED>modify</COLOR> the cart
+you have now so it can carry
+more stuff.<PAGE><FACE_POS_LEFT><FACE_KANA><FACE_HAPPY><FP_LEFT>You can have your cart
+modified at my shop!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_KANA><FACE_HAPPY><FP_LEFT>Great! Feel free to have
+a look around my shop,
+then!

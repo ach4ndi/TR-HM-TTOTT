@@ -1,0 +1,27 @@
+<FACE_POS_RIGHT><FACE_HIRO><FACE_NORMAL><FP_RIGHT>Oh, hello there!
+What brings you here today?<PAGE><FACE_POS_LEFT><FACE_NORI><FACE_SAD><FP_LEFT>I have a little injury.<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_NORMAL><FP_RIGHT>Let me see.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_NORMAL><FP_RIGHT>A minor thing like this, I
+can treat myself.
+Please come this way.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_HAPPY><FP_RIGHT>That will fix you up nicely.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_NORI><FACE_NORMAL><FP_LEFT>Thanks!<PAGE><FACE_POS_LEFT><FACE_NORI><FACE_HAPPY><FP_LEFT>Hiro, you've gotten more
+skilled as a doctor!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_HAPPY><FP_RIGHT>I am most gratified to hear
+you say that.<PAGE><FACE_POS_LEFT><FACE_NORI><FACE_NORMAL><FP_LEFT>Next time I get hurt, I'll
+be sure to ask you to fix me
+up, Hiro!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_HAPPY><FP_RIGHT>I will not let down the
+trust you have placed in me.<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_NORMAL><FP_RIGHT>However, the most important
+thing is for you to avoid
+injuring yourself!<PAGE>Nori, you are such a capable
+and responsible person...<PAGE>Yet at times you do tend to
+be a bit reckless. Please
+exercise more caution.<PAGE><FACE_POS_LEFT><FACE_NORI><FACE_SHOCK><FP_LEFT>Ha ha! You would say that,
+Hiro!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_NORI><FACE_HAPPY><FP_LEFT>Well, I'll see you later.

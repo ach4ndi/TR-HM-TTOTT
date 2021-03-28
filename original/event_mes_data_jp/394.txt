@@ -1,0 +1,262 @@
+\u232f主人公を選んでください。
+<CHOICE_AB> 男の子
+ 女の子
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HERO><FACE_NORMAL>\u232f<RED>男の子</COLOR>でいいですか？
+<CHOICE_AB> はい
+ いいえ
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HERO><FACE_NORMAL>\u232f<RED>女の子</COLOR>でいいですか？
+<CHOICE_AB> はい
+ いいえ
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HERO><FACE_NORMAL><BLUE><MYNAME></COLOR>
+でいいですか？<PAGE><CHOICE_AB> はい
+ いいえ
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HERO><FACE_NORMAL>誕生日を入力してください。
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HERO><FACE_NORMAL><RED><VAR_0>の月</COLOR>、<RED><VAR_1>日生まれ</COLOR>
+でいいですか？<PAGE><CHOICE_AB> はい
+ いいえ
+----------------------------|----------------------------------
+ウマの名前を
+入力してください。
+----------------------------|----------------------------------
+<BLUE><MYHORSENAME></COLOR>で
+いいですか？<PAGE><CHOICE_AB> はい
+ いいえ
+----------------------------|----------------------------------
+ここは、動物達が
+たくさん住む
+自然豊かな緑あふれる山。<PAGE>その山の左右のふもとには、
+２つの村があり、違った
+雰囲気を持っています。<PAGE>牧場経営を夢見る若者は、
+そんな土地で牧場主になる
+夢を求め、やって来たのです。
+----------------------------|----------------------------------
+<FACE_POS_LEFT><HIDE_NAME><FACE_INA><FACE_NORMAL><FP_LEFT><HIDE_FACE>………キミ、……
+キミ、大丈夫かね？
+----------------------------|----------------------------------
+…\u270a\u270a…\u270a\u270a…\u270a\u270aだれかが
+自分を呼ぶ声が聞こえる。
+----------------------------|----------------------------------
+<FACE_POS_LEFT><HIDE_NAME><FACE_RUTGER><FACE_HAPPY><FP_LEFT>お、おぉ…！
+気がついたんじゃな！
+良かった良かった！<PAGE><FACE_POS_RIGHT><HIDE_NAME><FACE_INA><FACE_NORMAL><FP_RIGHT>ケガはないか？
+突然、人が倒れているから
+おどろいたよ。<PAGE><FACE_POS_LEFT><HIDE_NAME><FACE_RUTGER><FACE_NORMAL><FP_LEFT>もしかして、お前さんが牧場を
+探しに来たといううわさの
+<MYNAME>くんかのう？
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><HIDE_NAME><FACE_INA><FACE_NORMAL><FP_RIGHT>ふむふむ…。<PAGE>何、牧場ができる場所を
+探していたら
+動物にぶつかりそうになった？<PAGE><FACE_POS_RIGHT><HIDE_NAME><FACE_INA><FACE_SAD><FP_RIGHT>それは大変だったな…。<PAGE><FACE_POS_LEFT><HIDE_NAME><FACE_RUTGER><FACE_NORMAL><FP_LEFT>牧場を探していた
+という事は…、お前さん
+牧場経営がしたいのか？
+----------------------------|----------------------------------
+<FACE_POS_LEFT><HIDE_NAME><FACE_RUTGER><FACE_HAPPY><FP_LEFT>おお、やはりそうじゃったか！<PAGE>わしは、この左側の山道を
+くだったところにある
+<BLUE>ブルーベル村</COLOR>の村長…、<PAGE><FACE_POS_LEFT><FACE_RUTGER><FACE_HAPPY><FP_LEFT><BLUE>ルドガー</COLOR>じゃ。
+良かったらわしの村に来んか？
+歓迎（かんげい）するぞ！
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><HIDE_NAME><FACE_INA><FACE_ANGRY><FP_RIGHT>何を勝手な事を言っている！
+住むなら絶対に、このはな村が
+良いに決まっている！
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><HIDE_NAME><FACE_INA><FACE_SAD><FP_RIGHT>…ああ、声を荒げてすまない。<PAGE><FACE_POS_RIGHT><HIDE_NAME><FACE_INA><FACE_NORMAL><FP_RIGHT>あたしは、この右側の山道を
+くだったところにある
+<BLUE>このはな村</COLOR>の村長をしている、<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT><BLUE>イルサ</COLOR>だ。よろしく。
+キミには、あっちの村よりも
+このはな村が合うと思うぞ！
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_RUTGER><FACE_ANGRY><FP_LEFT>お前さんこそ、
+勝手な事を言うでないわ！<PAGE>このはな村なんぞに
+わしのブルーベル村は
+負けとらん！
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_RUTGER><FACE_ANGRY><FP_LEFT>…ふん。
+わしらが話したところで
+らちがあかんのう。
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>そういえばキミの名前を
+聞いていなかったな。<PAGE><FACE_POS_LEFT><FACE_RUTGER><FACE_NORMAL><FP_LEFT>そうじゃった！
+お前さん、名前は
+何と言うんじゃ？
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>ここはやはり、<MYNAME>に
+どちらの村に住むか、
+決めてもらうのが良いだろう。<PAGE><FACE_POS_LEFT><FACE_RUTGER><FACE_HAPPY><FP_LEFT>そうじゃな！　では、
+あらためてブルーベル村に
+ついて紹介をしようかのう？
+----------------------------|----------------------------------
+<CHOICE_AB> 教えてください
+ 知ってるのでいいです
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_RUTGER><FACE_HAPPY><FP_LEFT>うむ！
+では説明しよう。
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_RUTGER><FACE_HAPPY><FP_LEFT>どうじゃ？　いい村じゃろ？
+牧場といえば動物じゃ！
+ほかには考えられん！<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_ANGRY><FP_RIGHT>何を言っている！
+牧場といえば作物だろう！<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>そして作物といえば、
+このはな村だ！<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>…というわけで、
+このはな村について
+説明しようと思うんだが。
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_RUTGER><FACE_HAPPY><FP_LEFT>おお！　そうか！
+わしの村も有名になったのう♪<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_SAD><FP_RIGHT>何を言っているんだか…。<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>…さて、それじゃ
+このはな村の説明をしようか？
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>ああ、わかった。
+では説明しよう。
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>どうだ？
+いい村だろう？<PAGE>やはり、作物の
+魅力（みりょく）に
+かなうものはあるまい！
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>そうか！　それなら
+説明の必要はないな。
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_RUTGER><FACE_NORMAL><FP_LEFT>…さて、<MYNAME>くんは
+どちらの村に住むんじゃ？<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>これからの生活に
+関わる事だ。
+気にいった方を選ぶといい。
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_RUTGER><FACE_NORMAL><FP_LEFT>ブルーベル村は動物達と
+暮らす村じゃ。<PAGE>つやめく毛並み！
+風になびくしっぽ！
+うるんだ瞳！<PAGE>新鮮なミルクやチーズに
+とれたての卵！<PAGE><FACE_POS_LEFT><FACE_RUTGER><FACE_HAPPY><FP_LEFT>まさに、動物達は
+人生のパートナーじゃ！！
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_RUTGER><FACE_NORMAL><FP_LEFT>動物達もかわいいが
+それだけではないぞ。<PAGE>村中に咲く花々と、
+石だたみの先にある
+レンガ造りの建物…。<PAGE><FACE_POS_LEFT><FACE_RUTGER><FACE_HAPPY><FP_LEFT>ブルーベル村は
+ムードあふれる
+ロマンティックな村なのじゃ！
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>このはな村は作物に
+囲まれた村だ。<PAGE>みずみずしい野菜！
+あまい果実！
+かがやくいなほ！<PAGE>広大な畑に植える
+季節ごとの作物！<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>まさに、作物を育てる事は
+人生そのものだ！
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>作物もすばらしいが、
+町並みも負けてないぞ！<PAGE>かわらとかやぶきの屋根の
+個性的な建物。<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>屋根につるされた
+鮮やかなちょうちんは、
+このはな村だけのものだ！
+----------------------------|----------------------------------
+\u232fどちらの村にしますか？
+<CHOICE_AB> ブルーベル村
+ このはな村
+----------------------------|----------------------------------
+\u232f<BLUE>ブルーべル村</COLOR>でいいですか？
+<CHOICE_AB> はい
+ いいえ
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_RUTGER><FACE_HAPPY><FP_LEFT>そうじゃろそうじゃろ。
+牧場といえば動物じゃからの。
+当然の結果じゃ！<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_SAD><FP_RIGHT>く…そんな…、
+何が足りないんだ！？<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>…仕方あるまい。
+気が変わったらいつでも
+あたしの村に来るといい。
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>では、<MYNAME>くん。
+ブルーベル村へ
+行こうかのう。<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>…と、言いたいところじゃが
+その前にそのドロだらけの服を
+何とかせんといかんな。<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>せっかくの新生活の
+スタートじゃからのう。
+ほれ、この服を着ると良い。
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT><GREEN>ブルーベル村の服</COLOR>じゃ。<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>着替え方じゃが…
+まず、下画面を見るんじゃ。
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>右側に、自分の姿が
+うつっておるじゃろう？<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>その部分をタッチすると
+こうなるのじゃ！
+----------------------------|----------------------------------
+着替える服を<RED>十字ボタン</COLOR>で選び
+タッチまたは<RED>Ａボタン</COLOR>で
+決定してください。
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>これで、着たい服を選べるぞ！<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>着替えたい服に<RED>十字ボタン</COLOR>で
+カーソルを合わせて<RED>Ａボタン</COLOR>を押すと、着替えられるぞ！<PAGE>着替えたい服の絵を
+直接タッチしても
+着替えられるからな。<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>ほれ、ものは試しじゃ。
+さっそく着替えてみるのじゃ！
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>ふむ。なかなか似合っておる！
+これでお前さんも今日から
+ブルーベル村の住人じゃ。<PAGE>では、今度こそ
+ブルーベル村へ行くとしよう。
+----------------------------|----------------------------------
+\u232f<BLUE>このはな村</COLOR>でいいですか？
+<CHOICE_AB> はい
+ いいえ
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>当然の結果だな！
+作物の魅力が伝わって
+良かった！<PAGE><FACE_POS_LEFT><FACE_RUTGER><FACE_SAD><FP_LEFT>なぜじゃ…、
+何が足りなかったんじゃ！？<PAGE><FACE_POS_LEFT><FACE_RUTGER><FACE_NORMAL><FP_LEFT>残念じゃが、仕方ない。
+気が変わったらいつでも
+わしの村に来ると良いぞ！
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>さて、では
+このはな村に行こうか。<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>…と言いたいところだが。
+その前にそのドロだらけの服を
+何とかしないとな。<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>新生活の始まりにドロだらけ…
+というのも何だろう。
+よし、この服を着ると良い。
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT><GREEN>このはな村の服</COLOR>だ。<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>着替え方だが…
+まず、下画面を見てくれ。
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>右側に、自分の姿が
+うつっているだろう？<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>その部分をタッチすると
+こうなる！
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>これで、着たい服を選べるぞ！<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>着替えたい服に<RED>十字ボタン</COLOR>で
+カーソルを合わせて<RED>Ａボタン</COLOR>を押すと、着替えられるぞ！<PAGE>着替えたい服の絵を
+直接タッチしても
+着替えられるからな。<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>ものは試しだ！
+さっそく着替えてみなさい！
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>うん。似合うじゃないか。
+これでキミも今日から
+このはな村の住人だな。<PAGE>さぁ、今度こそ
+このはな村へ行こうか。
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_RUTGER><FACE_NORMAL><FP_LEFT>…ん？　どうかしたのか？
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_RUTGER><FACE_NORMAL><FP_LEFT>あぁ、あのトンネルが
+気になっておるのかのう？
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_RUTGER><FACE_NORMAL><FP_LEFT>これは、このはな村に
+つながっておってな…。<PAGE>今はふさがっておって通れんが
+大昔は村同士を行き来するのに
+使っておったらしい。
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_RUTGER><FACE_HAPPY><FP_LEFT>ほれ、道草しとると
+日が暮れてしまうぞい。<PAGE>お前さんの牧場はこっちじゃ。
+ついてきなさい。
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>…ん？　どうかしたのか？
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>あぁ、あのトンネルが
+気になるのか？
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>これは、ブルーベル村に
+つながっていてな…。<PAGE>今はふさがっていて通れないが
+大昔は村同士を行き来するのに
+使っていたらしい。
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>ほら、道草していると
+日が暮れてしまうぞ。<PAGE>キミの牧場はこっちだ。
+ついてきなさい。

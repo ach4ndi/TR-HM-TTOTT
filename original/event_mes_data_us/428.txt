@@ -1,0 +1,15 @@
+<FACE_POS_LEFT><HIDE_NAME><FACE_MIKHAIL><FACE_NORMAL><FP_LEFT><HIDE_FACE>Are you up, <MYNAME>?
+I'm coming in.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>I'm going to be away
+traveling this summer.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MIKHAIL><FACE_SHY><FP_RIGHT>I can't stand anyplace with
+hot weather.<PAGE>The heat and the buzzing of
+insects bother me... I
+can't concentrate.<PAGE><FACE_POS_RIGHT><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>So I must find a place with
+cool green shade and flowing
+water... My kind of place.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>I'll return in the fall.
+Until then, farewell.

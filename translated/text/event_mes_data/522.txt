@@ -1,0 +1,112 @@
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Apa kabar, <MYNAME>?<PAGE>Aku ada sesuatu yang ingin
+kuberikan kepadamu.<PAGE>Sebelum itu, mari kuperkenal-
+kanmu kepada <BLUE>Grady</COLOR>. Dia
+menjalankan usaha di kandang
+kuda.<PAGE><FACE_POS_LEFT><FACE_GRADY><FACE_NORMAL><FP_LEFT>Aku sudah banyak mendengar
+tentang kamu.
+Senang bertemu denganmu!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_SAD><FP_RIGHT>Ini mengenai kudamu yang
+sudah terluka karena ter-
+jatuh.<PAGE>Lebih penting dari itu,
+gerobakmu peyok.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_GRADY><FACE_NORMAL><FP_LEFT>Apa nama kudamu itu?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_GRADY><FACE_HAPPY><FP_LEFT><MYHORSENAME>? 
+Nama yang bagus!<PAGE><FACE_POS_LEFT><FACE_GRADY><FACE_NORMAL><FP_LEFT>Apakah kamu ingin ku-
+ajari untuk memelihara
+<RED>kuda</COLOR> dan <RED>gerobak</COLOR>mu?
+----------------------------|----------------------------------
+<CHOICE_AB> Ya, ayolah...
+ Tidak, terima kasih.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_GRADY><FACE_HAPPY><FP_LEFT>Oke kalau gitu. Jika kamu
+ada masalah dengan gerobak,
+kamu bisa bertanya kepadaku!<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Oh, iya, biarkan aku
+memberikanmu sebuah saran.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_GRADY><FACE_HAPPY><FP_LEFT>Bagus! Aku sangat senang
+untuk membantu!<PAGE><FACE_POS_LEFT><FACE_GRADY><FACE_NORMAL><FP_LEFT>Pertama, Aku menunjukkan
+kepadamu bagaimana cara
+mengendarai kuda.<PAGE>Tekan <RED>Tombol A</COLOR> 
+untuk menaiki kuda.<PAGE>Tekan <RED>Tombol B</COLOR>
+untuk menuruni kuda.<PAGE><FACE_POS_LEFT><FACE_GRADY><FACE_HAPPY><FP_LEFT>Mudahkan?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_GRADY><FACE_NORMAL><FP_LEFT>Sekarang biarkan aku mem-
+beritahu mengenai gerobakmu..<PAGE>Hari ini aku membawakannya
+disini, tapi biasanya di-
+pakirkan di <RED>Sebelah kiri </COLOR><PAGE><RED>rumahmu</COLOR>.<PAGE><FACE_POS_LEFT><FACE_GRADY><FACE_HAPPY><FP_LEFT>Gerobakmu dapat mengangkut
+banyak hal daripada tas
+mu itu!<PAGE><FACE_POS_LEFT><FACE_GRADY><FACE_NORMAL><FP_LEFT>Jika kamu ingin melihat apa
+isi gerobanyak, dekati
+sambol menekan <RED>Tombol A</COLOR>.<PAGE>Lalu dilayar bawah akan
+tampil seperti ini :
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_GRADY><FACE_NORMAL><FP_LEFT>Disaat tasmu penuh, guna-
+kan gerobakmu untuk menyim-
+pan barangmu itu.<PAGE><FACE_POS_LEFT><FACE_GRADY><FACE_HAPPY><FP_LEFT>Barang yang mudah basi
+seperti tanaman dan susu itu
+akan dapat bertahan lama<PAGE>didalam gerobakmu.<PAGE><FACE_POS_LEFT><FACE_GRADY><FACE_NORMAL><FP_LEFT>Cara kerja gerobak itu sama
+seperti tasmu itu.<PAGE>Gunakan <RED>+Control Pad</COLOR> untuk
+mengeser kursor, dan tekan
+<RED>Tombol A</COLOR> untuk memilih.<PAGE>Tekan <RED>Tombol B</COLOR>
+disaat kamu selesai.
+Cobalah sendiri ya!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_GRADY><FACE_NORMAL><FP_LEFT>Itu semua penjelasan untuk
+gerobak yang aku mengerti.<PAGE><FACE_POS_LEFT><FACE_GRADY><FACE_HAPPY><FP_LEFT>Kamu dapat membawa gerobak
+kemana saja loh. Itu akan
+menjadi bantuan terbesarmu!<PAGE><FACE_POS_LEFT><FACE_GRADY><FACE_NORMAL><FP_LEFT>Tapi untuk membawanya keluar
+dari perkebunanmu, kamu harus
+<RED>mengikatkan</COLOR> kekudamu.<PAGE>Untuk itu, dekati kudamu
+dan dekati ke gerobaknya,
+dan tekan <RED>Tombol R</COLOR>.<PAGE>Untuk melepaskannya, parkir
+gerobaknya ketempat asalnya
+dan tekan <RED>Tombol R</COLOR>.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_GRADY><FACE_NORMAL><FP_LEFT>Apa ada pertanyaan yang
+lainnya?
+jangan malu-malu gitu...
+----------------------------|----------------------------------
+<CHOICE_AB> Ok, gw paham, makasih.
+ Diulangi lagi donk.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_GRADY><FACE_NORMAL><FP_LEFT>Oke. Dengarkan baik-baik.<PAGE>Tekan <RED>Tombol A</COLOR> untuk
+mengendarai kudamu.<PAGE>Disaat kamu ingin menuruni-
+nya tekan <RED>Tombol B</COLOR>.<PAGE>Untuk mengikat dengan gerobak
+kekudamu, dekati kudamu,<PAGE>sambil berhadapan dengan
+gerobaknya dan tekan <RED>Tombol R</COLOR>.<PAGE>Untuk melepaskannya, parkir
+gerobaknya ketempat asalnya
+dan tekan <RED>Tombol R</COLOR>.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Kudamu akan baik-baik saja
+untuk sekarang!<PAGE>Tampaknya dia sudah sehat
+kembali!<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Dan aku bisa membawakan
+kamu sebuah gerobak baru.<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Gunakan dengan baik ya!
+Rawat dengan benar!
+----------------------------|----------------------------------
+<BLUE><MYHORSENAME></COLOR>? Apa kamu yakin?<PAGE><CHOICE_AB> Ya
+ Tidak
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Suatu saat kamu akan
+menemukan keadaan dimana
+barang antarannya sangat<PAGE>banyak untuk diantarkan
+kepada orang-orang.<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Itu akan membuat gerobak
+benar-benar berguna!
+Tapi hati-hati ya!<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_SAD><FP_RIGHT>Jika kamu meninggalkan gerobak
+mu.kamu tak dapat melihat
+barang yang ada digerobak!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Aku rasa itu sudah semuanya
+Semoga Beruntung, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Apa kabar, <MYNAME>?<PAGE>Aku ada sesuatu yang ingin
+kuberikan kepadamu.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_GRADY><FACE_NORMAL><FP_LEFT>Jika kamu ingin melihat apa
+isi gerobanyak, dekati
+sambol menekan <RED>Tombol A</COLOR>.<PAGE>Gunakan <RED>+Control Pad</COLOR> untuk
+mengeser kursor, dan tekan
+<RED>Tombol A</COLOR> untuk memilih.<PAGE>Tekan <RED>Tombol B</COLOR>
+disaat kamu sudah selesai.

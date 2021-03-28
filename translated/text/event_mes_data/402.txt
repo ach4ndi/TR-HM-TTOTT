@@ -1,0 +1,224 @@
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Selamat tinggal, <MYNAME>.
+Semoga beruntung di
+Konohana.<PAGE>Aku sudah memberitahukan
+kepada Ina bahwa kamu
+pindah kedesanya.<PAGE>Jika kamu ingin kembali,
+kamu tahukan, pastinya pada
+menerimamu dengan tangan<PAGE>terbuka.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_LANEY><FACE_NORMAL><FP_LEFT>Huh sudah mau pindah ya?
+Oh, ya! disini sangat banyak
+yang bisa dilakukan loh!<PAGE><FACE_POS_LEFT><FACE_LANEY><FACE_HAPPY><FP_LEFT>Aku pikir aku harus berjaga
+disini sampai malam untuk
+memastikan semuanya sukses.<PAGE>Aku akan menantikanmu di-
+sana besok. ehehehe.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_GEORGIA><FACE_SHY><FP_LEFT>Aku tidak mengirah bahwa
+kamu akan pindah secepat
+ini...<PAGE><FACE_POS_LEFT><FACE_GEORGIA><FACE_NORMAL><FP_LEFT>Uh, Aku akan memberitahukan
+kepada semua tetangga yang
+ada disini!<PAGE>Dikarenakan dihari ini su-
+dah terlalu banyak yang di-
+lakukan. Aku akan bertemu<PAGE>denganmu disana besok ya.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_REINA><FACE_NORMAL><FP_LEFT>Aku tebak ini sepertinya
+menyenangkan untuk pindah
+tempat. Ini akan terlihat<PAGE>bagus untuk pindah.<PAGE><FACE_POS_LEFT><FACE_REINA><FACE_HAPPY><FP_LEFT>Aku butuh waktu untuk me-
+ngucapkan sebuah kalimat
+perpisahan kepada para te-<PAGE>tangga dan membersihkan
+agar terlihat bersih disaat
+mau pindah.<PAGE>Aku akan bertemu denganmu
+disana besok ya.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_NORI><FACE_NORMAL><FP_LEFT>Kurasa tidak akan cukup
+waktu disaat aku pindah.<PAGE><FACE_POS_LEFT><FACE_NORI><FACE_HAPPY><FP_LEFT>Pergi duluan ya dan mulai-
+lah menatah barang-barang-
+nya dirumah baru untuk<PAGE>hari ini.<PAGE>Jangan menghawatirkan aku.
+Aku akan menyusulmu besok.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ULYSSA><FACE_NORMAL><FP_LEFT>Ini waktunya untuk pindah?
+beneran? WHAT?<PAGE><FACE_POS_LEFT><FACE_ULYSSA><FACE_HAPPY><FP_LEFT>Aku butuh waktu untuk me-
+ngemas barang-barang per-
+lengkapan alchemyku!<PAGE>Kenapa tidak kamu duluan
+aja kesana sekarang?<PAGE>Aku akan bertemu denganmu
+besok disaat aku sudah
+memastikan semua barang<PAGE>sudah aku kemas dan siap
+untuk dipindahkan.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ALISA><FACE_NORMAL><FP_LEFT>Oh, sebuah perubahan peman-
+dangan itu terdengar bagus!<PAGE><FACE_POS_LEFT><FACE_ALISA><FACE_HAPPY><FP_LEFT>Aku harus mengucapkan
+salam perpisahanku disini.
+Ini akan membutuhkan sedikit<PAGE>waktu. Jadi aku akan tinggal
+disini sehari dan akan ber-
+temu denganmu disana besok.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ASH><FACE_NORMAL><FP_LEFT>Oke! Waktunya untuk pindah
+kerumah baru kita!<PAGE><FACE_POS_LEFT><FACE_ASH><FACE_HAPPY><FP_LEFT>Aku akan mengucapkan salam
+perpisahan kepada semua
+tetangga. Mungkin ini membu-<PAGE>tihkan waktu cukup lama
+kurasa jadi aku akan tinggal
+disini semalaman dan akan<PAGE>bertemu denganmu besok ya.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_CAM><FACE_NORMAL><FP_LEFT>Aku sedih untuk pergi dari
+sini, tapi senang juga
+pindah ke Bluebell.<PAGE><FACE_POS_LEFT><FACE_CAM><FACE_HAPPY><FP_LEFT>Aku akan mengucapkan salam
+perpisahan sama tetangga
+kita. Mungkin ini membutuh-<PAGE>waktu cukup lama, jadi aku
+aku akan bertemu denganmu
+besok ya.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_HIRO><FACE_SHY><FP_LEFT>Hari ini kita akan pindah!<PAGE><FACE_POS_LEFT><FACE_HIRO><FACE_NORMAL><FP_LEFT>Oke, sekarang aku perlu mem-
+bersihkan semuanya dan me-
+ngucapkan salam perpisahan<PAGE>kepada Ayame dan Nori, dan
+... ... .. ..<PAGE>Aku tidak berpikir itu bisa
+dilakukan seharian. Maka
+aku akan bertemu denganmu<PAGE>disana besok ya. 
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_KANA><FACE_NORMAL><FP_LEFT>Aku sudah tidak sabar menge-
+nai perpindahan kita ke
+Bluebell ini.<PAGE><FACE_POS_LEFT><FACE_KANA><FACE_HAPPY><FP_LEFT>Aku akan mengatakan selamat
+tinggal dulu kepada semua
+tetangga kita.<PAGE>Uh, gimana ya nanti reaksi
+si Hiro terhadapku?
+hahaha<PAGE>Mungkin ini membutuhkan
+waktu. Aku sih lebih baik
+bertemu kamu disana<PAGE>besok aja ya.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_MIKHAIL><FACE_NORMAL><FP_LEFT>Apakah kamu sudah siap
+untuk pindah?<PAGE><FACE_POS_LEFT><FACE_MIKHAIL><FACE_HAPPY><FP_LEFT>Apakah boleh aku tinggal
+sehari disini?<PAGE>Ada sebuah lagu yang ingin
+ku selesaikan dulu dirumah
+ini. Aku akan bertemu<PAGE>denganmu disana besok.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_DIRK><FACE_NORMAL><FP_LEFT>Kita akan segear pindah ke
+Bluebell, huh? 
+Sudah tidak sabar!<PAGE><FACE_POS_LEFT><FACE_DIRK><FACE_HAPPY><FP_LEFT>Aku ingin meluangkan bebera-
+pa waktu dan memastikan se-
+mua barang sudah dirapikan.<PAGE>Aku akan bertemu denganmu
+ditempat baru besok.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_LANEY><FACE_NORMAL><FP_LEFT>Sudah waktunya pindah ya?<PAGE>Oi, aku ada urusan yang
+ingin aku selesaikan!<PAGE><FACE_POS_LEFT><FACE_LANEY><FACE_HAPPY><FP_LEFT>Aku pikir aku harus tinggal
+disini semalaman untuk me-
+mastikan semuanya sudah di-<PAGE>cek.<PAGE>\u2337 dan aku akan
+bejrumpa denganmu disana
+besok.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_GEORGIA><FACE_SHY><FP_LEFT>Aku tidak berpikiran akan
+pindah secepat ini...<PAGE><FACE_POS_LEFT><FACE_GEORGIA><FACE_NORMAL><FP_LEFT>Aku memastikan bisa memberi-
+tahukan seluruh tetangga
+kita!<PAGE>Masih banyak yang harus di-
+lakukan itu yang membuatku
+tidak bisa ikut denganmu<PAGE>dihari ini.<PAGE>\u2337 dan aku
+akan bertemu denganmu di-
+sana besok.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_REINA><FACE_NORMAL><FP_LEFT>Aku tebak ini sepertinya
+menyenangkan untuk pindah
+tempat. Ini akan terlihat<PAGE>bagus untuk pindah.<PAGE><FACE_POS_LEFT><FACE_REINA><FACE_HAPPY><FP_LEFT>Aku butuh waktu untuk me-
+ngucapkan sebuah kalimat
+perpisahan kepada para te-<PAGE>tangga dan membersihkan
+agar terlihat bersih disaat
+mau pindah.<PAGE>\u2337 dan aku akan bertemu
+denganmu disana besok ya.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_NORI><FACE_NORMAL><FP_LEFT>Kurasa tidak akan cukup
+waktu disaat aku pindah.<PAGE><FACE_POS_LEFT><FACE_NORI><FACE_HAPPY><FP_LEFT>Pergi duluan ya dan mulai-
+lah menatah barang-barang-
+nya dirumah baru untuk<PAGE>hari ini.<PAGE>Jangan khawatir. \u2337 dan
+aku akan menyusulmu
+besok.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ULYSSA><FACE_NORMAL><FP_LEFT>Ini waktunya untuk pindah?<PAGE><FACE_POS_LEFT><FACE_ULYSSA><FACE_HAPPY><FP_LEFT>Aku membutuhkan untuk ber
+kemas barang-barang alchemyku.<PAGE>Kenapa tidak akmu duluan saja
+kesana tanpa aku hari ini?<PAGE>Aku akan bertemu denganmu
+bersama \u2337 disaat aku
+sudah berkemas semua hal.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ALISA><FACE_NORMAL><FP_LEFT>Oh, sebuah perubahan peman-
+dangan itu terdengar bagus!<PAGE><FACE_POS_LEFT><FACE_ALISA><FACE_HAPPY><FP_LEFT>Aku harus mengucapkan
+salam perpisahanku disini.
+Ini akan membutuhkan waktu.<PAGE>Aku akan tinggal disini
+sehari dan akan bertemu
+denganmu bersama \u2337<PAGE>besok.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ASH><FACE_NORMAL><FP_LEFT>Oke! Waktunya untuk pindah
+kerumah yang baru!<PAGE><FACE_POS_LEFT><FACE_ASH><FACE_HAPPY><FP_LEFT>Aku akan mengucapkan salam
+perpisahan kepada semua
+tetangga kita.<PAGE>Ini mungkin memakan waktu
+yang cukup lama.<PAGE>Jadi aku akan tinggal di-
+sini semalam saja dan
+\u2337 dan aku akan ber-<PAGE>temu denganmu besok.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_CAM><FACE_NORMAL><FP_LEFT>Aku sedih untuk pindah dari
+sini, tapi aku tetap senang
+mengenai pindah ke Bluebell.<PAGE><FACE_POS_LEFT><FACE_CAM><FACE_HAPPY><FP_LEFT>Aku akan mengucapkan ucapan
+selamat tinggal kepada se-
+mua tetangga kita. Aku<PAGE>tidak tahu ini memakan
+waktu berapa, mungkin lama.<PAGE>jadi Kau akan kesana
+dengan \u2337 besok.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_HIRO><FACE_SHY><FP_LEFT>Kita pindah hari ini!<PAGE><FACE_POS_LEFT><FACE_HIRO><FACE_NORMAL><FP_LEFT>Betapa serunya ini!<PAGE>Oke, sekarang aku perlu
+membersihannya, dan akan
+mengucapkan salam perpisah-<PAGE>an kepada Ayame, Nori, dan
+...<PAGE>...Aku tidak berpikir itu
+bisa dilakukan dengan
+cepat. Jadi aku akan<PAGE>bertemu denganmu disana
+besok ya bersama \u2337.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_KANA><FACE_NORMAL><FP_LEFT>Aku sudah tak sabar untuk
+pindah ke Bluebell!<PAGE><FACE_POS_LEFT><FACE_KANA><FACE_HAPPY><FP_LEFT>Aku akan mengucapkan salam
+perpisahan kesemua tetangga.<PAGE>Men aku penasaran dengan
+hiro lakukan jika tanpa
+aku disekitarnya. aku tak<PAGE>bisa membayangkannya haha.
+Ini akan membutuhkan waktu,
+lebih baik aku bertemu<PAGE>denganmu disana bersama
+\u2337 besok!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_MIKHAIL><FACE_NORMAL><FP_LEFT>Apakah kamu sudah siap
+untuk pindah?<PAGE><FACE_POS_LEFT><FACE_MIKHAIL><FACE_HAPPY><FP_LEFT>Bolehkah aku tinggal disini
+semalaman?<PAGE>Ada sebuah lagu yang perlu
+diselesaikan dirumah ini.<PAGE>Aku akan bertemu denganmu
+bersama \u2337 besok.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_DIRK><FACE_NORMAL><FP_LEFT>Kita akan pindah ke Kono-
+hana, huh? GW dah gak sabar!<PAGE><FACE_POS_LEFT><FACE_DIRK><FACE_HAPPY><FP_LEFT>Aku ingin meluangkan waktu
+dan memastikan bawaan kita
+ini sudah siap.<PAGE>Aku akan bertemu denganmu
+ditempat baru kita besok
+bersama \u2337.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KID><FACE_HAPPY><FP_RIGHT>Daaaa Daaaa!<RED>❤</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KID><FACE_HAPPY><FP_RIGHT>Sampai jumpa besok!
+Ini akan menjadi sangat-
+sangat menyenangkan!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KID><FACE_HAPPY><FP_RIGHT>Sampai jumpa besok!
+Ini akan menjadi sangat-
+sangat menyenangkan!
+----------------------------|----------------------------------
+Waktunya untuk pergi!
+----------------------------|----------------------------------
+Waktunya untuk memulai kehi-
+dupan baru dirumah baru
+yang ada di Konohana!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>Selamat datang di Konohana,
+<MYNAME>!<PAGE>Aku senang bahwa kamu ada
+didesa kami. Kamu pastinya
+sudah capek buat hari ini.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>Oh, iya, aku ada sesuatu
+untuk kamu sebagai hadiah
+selamat datang kesini.<PAGE>Ini adalah baju yang dibuat
+didesa ini.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>Disaat kamu ingin mengganti
+bajumu...<PAGE>tekan gambar dirimu sendiri
+dilayar bawah.<PAGE>Lalu pilih baju yang ingin
+dipakai.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>Sampai jumpa lagi ya!
+Sekarang silahkan lanjutkan
+aktifitasmu!

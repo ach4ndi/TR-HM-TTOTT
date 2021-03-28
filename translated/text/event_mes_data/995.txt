@@ -1,0 +1,126 @@
+<FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT>... Kucing! Tapi, kenapa ada
+kucing disini?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT>Kamu ingin menolongnya?<PAGE><FACE_POS_RIGHT><FACE_CAM><FACE_SHY><FP_RIGHT>Heiii, tunggu!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_SHY><FP_RIGHT>Ternyata kucing itu memakai
+sebuah kalung...
+Sepertinya tersesat...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT>Semuanya akan baik-baik saja
+jangan menangis.<PAGE>Hey, apakah kamu akan mem-
+bantuku untuk menemukan
+pemiliknya, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_HAPPY><FP_RIGHT>Makasih!<PAGE>Pertama, mari kita bertanya
+yang ada disekitar, dan
+jika ada seseorang menge-<PAGE>tahui mengenai kucing ini.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ASH><FACE_NORMAL><FP_LEFT>Seekor kucing hilang?<PAGE><FACE_POS_LEFT><FACE_ASH><FACE_SHY><FP_LEFT>Hmm... Kurasa sepertinya me-
+lihat kucing itu disekitar
+disini sebelumnya...<PAGE><FACE_POS_LEFT><FACE_ASH><FACE_SAD><FP_LEFT>Maaf... Aku tidak mengingat-
+nya...<PAGE><FACE_POS_RIGHT><FACE_CAM><FACE_SAD><FP_RIGHT>Oke oke. Maaf kalau itu
+mengganggumu.<PAGE><FACE_POS_LEFT><FACE_ASH><FACE_NORMAL><FP_LEFT>Oh, tidak usah khawatir
+mengenai ini! Aku harap
+kalian bisa menemukan<PAGE>pemiliknya segera!<PAGE><FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT>Makasih...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT>Oke kalau gitu, ayo kita
+tanya orang lagi.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_GEORGIA><FACE_SHY><FP_LEFT>Aku pernah kenal kucing itu
+disekitar sini sebelumnya...<PAGE><FACE_POS_LEFT><FACE_GEORGIA><FACE_SAD><FP_LEFT>Tapi aku tidak dapat mengi-
+ngatnya dengan jelas di-
+mana...<PAGE><FACE_POS_LEFT><FACE_GEORGIA><FACE_NORMAL><FP_LEFT>Tapi aku sedikit ingat itu
+salah satu kucing yang di-
+beli oleh pelangganku di-<PAGE>toko keluarga kami.<PAGE><FACE_POS_RIGHT><FACE_CAM><FACE_SHY><FP_RIGHT>Benarkah...?<PAGE><FACE_POS_LEFT><FACE_GEORGIA><FACE_NORMAL><FP_LEFT>Aku merasa begitu sih. Aku
+akan memberitahukan kalian
+jika aku mengingat sesuatu<PAGE>yang lain...
+Aku benar-benar senang jika
+aku bisa membantu kalian.<PAGE>Jadi tinggal minta saja
+ya hehehe!<PAGE><FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT>Terima kasih banyak.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_SAD><FP_RIGHT>*sigh*... Ternyata pencari-
+annya tidak sesuai harapan
+...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_SHY><FP_RIGHT>...<PAGE><FACE_POS_RIGHT><FACE_CAM><FACE_SAD><FP_RIGHT>Apa yang akan terjadi kepada
+kucing ini jika kita tak
+dapat menemukan pemiliknya?
+----------------------------|----------------------------------
+<CHOICE_AB> Mari kembalikan keasal...
+ Jangan menyerah!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_ANGRY><FP_RIGHT>Menaruhnya kembali...?
+Maksudmu kembalikan ke-
+sungai gitu dimana kita<PAGE>menemukannya?
+Itu sungguh mengerihkan!
+Kamu benar-benar tak ber-<PAGE>perasaan?!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_ANGRY><FP_RIGHT>Lupakan saja.
+Aku akan mencari pemiliknya
+sendirian saja.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_HAPPY><FP_RIGHT>Ayo, bareng denganku...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_SAD><FP_RIGHT>Maaf aku sudah menerlibatkan
+kamu ini.<PAGE>Sampai jumpa.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_HAPPY><FP_RIGHT>Kamu benar...<PAGE><FACE_POS_RIGHT><FACE_CAM><FACE_SHOCK><FP_RIGHT>Kamu tahukan, disaat mende-
+ngarkan kamu mengatakan itu
+aku berpikir semuanya akan<PAGE>baik-baik saja.
+----------------------------|----------------------------------
+Nico! dimana ya, Nico!
+Dimanakah engkau berada...?
+----------------------------|----------------------------------
+Oh! itu kamu,
+Nico!<PAGE>Alhamdullilah!
+Kamu sudah membuatku
+khawatir!<PAGE>Kamu tiba-tiba mengejar
+seekor serangga dan tiba-
+tiba menghilang begitu saja!<PAGE>Aku sudah mencarimu kemana-
+mana!<PAGE>Uh, Aku sungguh senang
+bahwa kamu baik-baik saja!
+----------------------------|----------------------------------
+Apakah kalian yang sudah
+menemukan dia?<PAGE>Terima kasih banyak!
+Aku pemilik nico ini.
+----------------------------|----------------------------------
+Oh tidak! Jika kita tidak
+cepat-cepat, Nico dan aku
+akan merindukan jalan-jalan<PAGE>bersama disekitar balai
+desa!<PAGE>Aku ingin berterima kasih,
+tapi aku tidak mempunyai
+cukup waktu sekarang.<PAGE>Maaf ya...<PAGE><FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT>Oh tidak, jangan mengawatir-
+kannya. Kita sudah senang
+kok kita akhirnya bisa<PAGE>menemukan pemiliknya.
+----------------------------|----------------------------------
+Wiii, betapa baiknya kalian
+ini para pemuda-pemudi ini!
+Kami pamit dulu ya, maka<PAGE>aku harus pergi dulu.
+Ayo, Nico!
+----------------------------|----------------------------------
+Oh! Nico tampaknya ingin
+berterima kasih juga!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_SHOCK><FP_RIGHT>Oh, uh...
+Uh...sama-sama?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_SHY><FP_RIGHT>...\u270a\u270ahmmm, itu sedikit
+dari petulangan kita.<PAGE>Sepertinya semuanya berjalan
+dengan semestinya.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT>Bagaimanapun...<PAGE><FACE_POS_RIGHT><FACE_CAM><FACE_HAPPY><FP_RIGHT>Aku sungguh senang bahwa
+kamu itu bersama aku,
+<MYNAME>...<PAGE>Kamu berkata semuanya akan
+baik-baik saja, dan itu ...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_HAPPY><FP_RIGHT>Kamu itu selalu tampak po-
+sitif dan itu membuatku
+merasa hal yang sama.<PAGE><FACE_POS_RIGHT><FACE_CAM><FACE_SHOCK><FP_RIGHT>Terima kasih lagi ya,
+<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT>Kulihat ini semakin malam
+saja. Waktu memang benar-
+benar cepat berlalu disaat<PAGE>bersama dengan kamu...<PAGE><FACE_POS_RIGHT><FACE_CAM><FACE_HAPPY><FP_RIGHT>Aku akan mengantarkanmu
+pulang kerumah.
+Ayo, <MYNAME>...

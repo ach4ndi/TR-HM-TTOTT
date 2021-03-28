@@ -1,0 +1,667 @@
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Bagaimana keadaanmu hari
+ini?<PAGE>Saya <BLUE>Rutger.</COLOR> 
+Saya adalah kepala desa di-
+Bluebell ini.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Sepertinya kemarin sedang
+badai bukan?<PAGE>Kukira Howard sedang
+latihan paduan suara di-
+rumahnya...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Bagaimana kabarnya?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Bagaimana kabarnya?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Bagaimana kabarnya?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Gimana mengenai yang itu?<PAGE><FACE_POS_CENTER><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Sungguh hewan yang imut.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>A...ku benar-benar berpikir
+untuk jaga jarak dengan
+binatang itu.<PAGE>Aku hanya...
+tidak menyukainya...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Bagaimana kabarnya?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Kamu seharusnya memberikan
+bulu itu kepada seseorang
+yang kamu sayang.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Uh sekarang... sebuah
+hadiah ya? Hahaha<PAGE>Itulah baik dari dirimu
+tapi aku tidak bisa
+menerimanya.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Hmm, hadiah lainnya?
+Oh, Aku tidakdapat menerima
+lagi untuk hari ini.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Bagaimana kabarnya?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Bagaimana kabarnya?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Itu pastinya sesuatu yang
+harus kamu pegang.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Oh! <RED>Okara</COLOR>!
+Untuk ulang tahunku?<PAGE><FACE_POS_CENTER><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Ini... ini adalah favoritku!
+Terima kasih.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Oh! <RED>Okara</COLOR>!
+Untukku?<PAGE><FACE_POS_CENTER><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Ini... ini adalah faoritku!
+Terima kasih.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Bagaimana kabarnya?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Bagaimana kabarnya?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Oh, Sebuah hadiah
+ulang tahun?<PAGE><FACE_POS_CENTER><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Dan hadiah yang bagus juga.
+Kamu sungguh baik,
+<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Oh, untukku?
+Dan hadiah cukup bagus.
+Kamu sungguh baik.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Sebuah hadiah untukku?<PAGE><FACE_POS_CENTER><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Ternyata kamu mengetahui
+ulang tahunku ya...
+Ini sungguh bagus. itu aja.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Sebuah hadiah untukku?
+Oke, terima kasih banyak.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Maksudmu ini, ini adalah
+sebuah hadiah buatku?<PAGE>Aku sudah berharap sesuatu
+yang lebih baik daripada
+ini untuk ulang tahunku.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Apakah itu untukku?<PAGE>Aku tidak mengatakan untuk
+menolaknya, tapi akanku
+terima saja deh.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Apakah itu untukku? Aku hanya
+dapat berpikir ini hanyalah
+sebuah lelucon yang gak lucu. 
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Bagaimana kabarnya?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Bagaimana kabarnya?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Bagaimana keadaanmu setelah
+menikah, <MYNAME>?<PAGE><FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Aku tahu bahwa itu membutuh-
+kan adaptasi, tapi semuanya
+itu pasti ada istimewahnya.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Hari ini anginnya sungguh
+mematikan! Kenapa kamu masih
+ada diluar sana!?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Kamu seharusnya berada di-
+dalam rumah disaat badai
+salju seperti ini.<PAGE>Wah wah memang ya anak
+muda itu energinya sungguh
+luar biasa!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Aku tidak tahu bagaimana
+seperti apa jadinya desa
+ini kalau tanpa adanya<PAGE>dirimu, <MYNAME>.<PAGE><FACE_POS_CENTER><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Kamu itu sungguh seorang
+yang giat bekerja. Apakah
+kamu tahu, kamu itu mengi-<PAGE>ngatkan aku diriku sendiri.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Kamu itu sangat berpengaruh
+yang baik untuk desa ini,
+<MYNAME>.<PAGE>Kamu itu benar-benar
+mengurus pertanianmu dengan
+baik.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Disaat bertemu denganmu.
+<MYNAME>, itu hal yang
+sangat menyenangkan buatku.<PAGE>Dan aku tahu bahwa Rose
+senang bertemu denganmu
+juga, jadi kalau ada waktu<PAGE>kamu bisa mampir ketempatku
+kapan saja.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Bagaimana pekerjaannya,
+<MYNAME>?<PAGE>Aku tahu bahwa kamu itu
+sibuuuk sekali, tapi Rose
+akan senang kalau kamu<PAGE>datang untuk bertemu
+dengan kami.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Bagaimana keadaannya?<PAGE>Menjalankan sebuah pertanian
+itu merupakan pekerjaan
+yang benar-benar susah.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Bagaimana pertanianmu?
+Apakah kamu sudah mengatasi
+semua permasalahannya?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Menjadi seorang kepala desa
+itu tidak semudah seperti
+yang kamu bayangkan loh.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Bagaimana kabarnya?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Bagaimana kabarnya?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Bagaimana kabarnya?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Bagaimana kabarnya?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Bagaimana kabarnya?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Bagaimana kabarnya?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Bagaimana kabarnya?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Bagaimana kabarnya?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Bagaimana kabarnya?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Bagaimana kabarnya?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Bagaimana kabarnya?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Bagaimana kabarnya?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Bagaimana kabarnya?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Bagaimana kabarnya?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Bagaimana kabarnya?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Bagaimana kabarnya?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Bagaimana kabarnya?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Bagaimana kabarnya?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Bagaimana kabarnya?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Bagaimana kabarnya?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Bagaimana kabarnya?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Bagaimana kabarnya?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Bagaimana kabarnya?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Bagaimana kabarnya?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Bagaimana kabarnya?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Bagaimana kabarnya?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Bagaimana kabarnya?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Bagaimana kabarnya?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Bagaimana kabarnya?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Bagaimana kabarnya?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Bagaimana kabarnya?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Bagaimana kabarnya?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Bagaimana kabarnya?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Bagaimana kabarnya?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Bagaimana kabarnya?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Bagaimana kabarnya?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Hmmm...
+Sekarang, kamu pergi kemana
+dengan membawa itu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Bagaimana kabarnya?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Bagaimana kabarnya?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Apakah ini hewan peliharaan-
+mu? Hihi itu sungguh lucu.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Binatang yang menggemaskan.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Hei hei hei!<PAGE>Aku tidak tahu dimana kamu
+mendapatkannya, tapi jauhkan
+itu!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Itu semua merupakan hewan
+liar yang ada disekitar
+sini.<PAGE>Kita itu harus menjaga-
+nya.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Bagaimana kabarnya?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Bagaimana kabarnya?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Bagaimana kabarnya?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Bagaimana kabarnya?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Bagaimana kabarnya?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Bagaimana kabarnya?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Bagaimana kabarnya?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Bagaimana kabarnya?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Bagaimana kabarnya?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Bagaimana kabarnya?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Bagaimana kabarnya?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Bagaimana kabarnya?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Oh!Ya itu benar, hari ini
+adalah hari bunga!
+Makasih!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Bagaimana kabarnya?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Bagaimana kabarnya?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Bagaimana kabarnya?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Bagaimana kabarnya?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Bagaimana kabarnya?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Bagaimana kabarnya?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Sebuah hadiah untukku?<PAGE>Aku sungguh menyukai bahwa
+hadiahnya dibungkus dengan
+bentuk yang bagus!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Memperhatikan cara kerjamu
+seperti apa, itu mengingat-
+kanku diriku sendiri disaat<PAGE>masa-masa mudaku dulu.<PAGE>Bukan berarti aku memperlam-
+bat pergerakkanku dimasa
+tua seperti ini.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Bagaimana kabarnya?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Bagaimana keadaannya didesa
+Konohana?<PAGE>Aku masih berpikir bahwa
+desa ini lebih cocok dengan
+mu...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Apakah kamu sudah tidur
+dengan nyenyak?<PAGE>Balai desa ini bukanlah
+tempat yang buruk untuk
+ditinggali loh.<PAGE>Datang dan menetap disini
+kapanpun yang kamu inginkan.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Bagaimana kabarnya?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Bagaimana kabarnya?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Seorang kepala desa harus
+mengetahui apa yang terjadi
+didesa disetiap saat.<PAGE>Jika ada kesempatan, aku
+akan berkeliling disekitar.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Aku senang untuk berkeli-
+ling didesa ini disaat aku
+sedang libur.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Halo, <MYNAME>.
+Apakah kamu sedang berbelan-
+ja? Selamat bersenang-senang
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Bagaimana kabarnya?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Bagaimana kabarnya?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Bagaimana kabarnya?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Bagaimana kabarnya?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Bagaimana kabarnya?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Bagaimana kabarnya?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Bagaimana kabarnya?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Bagaimana kabarnya?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Bagaimana keadaanmu?<PAGE>Silahkan datang bertanya
+kepadaku kapan saja jika
+kamu membutuhkan bantuan.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Kamu harus ikutan difestival
+memasak selanjutnya.
+Aku tidak sabar untuk itu!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Apakah kamu menikmati festi-
+val memasak dihari ini?<PAGE>Kedepannya kamu harus ikut
+serta ya...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Bagaimana kabarnya?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Bagaimana kabarnya?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Itu sungguh disayangkan
+bahwa kamu tidak menang.
+Tapi tenang aja, karena<PAGE>selalu ada kesempatan
+buatmu untuk memenangkan
+diwaktu akan datang.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Bagaimana kabarnya?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Sungguh disayangkan, kamu
+tidak menang.<PAGE>Tapi kamu selalu dapat men-
+jadi lebih baik. Aku yakin
+kamu sudah belajar banyak.<PAGE>Semoga beruntung!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Hari ini ada event yang me-
+nyenangkan, tapi kamu
+datangnya terlalu cepat.<PAGE>Datang kembali dan bicara
+kepadaku disaat waktunya
+ya.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Kamu itu harus ikutan ya
+kedepannya. Aku mengandal-
+kanmu.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Bagaimana kabarnya?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Itu sungguh disayangkan,
+bahwa kamu tidak memenang-
+kannya. Tapi aktifitas per-<PAGE>tanianmu itu masih baru di-
+mulai. Aku tahu kamu akan
+lebih baik kedepannya.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Bagaimana kabarnya?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Bagaimana kabarnya?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Bagaimana kabarnya?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Bagaimana kabarnya?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Bagaimana kabarnya?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Bagaimana kabarnya?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Bagaimana kabarnya?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Bagaimana kabarnya?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Bagaimana kabarnya?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Bagaimana kabarnya?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Bagaimana kabarnya?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Bagaimana kabarnya?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Bagaimana kabarnya?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Bagaimana kabarnya?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Bagaimana kabarnya?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Bagaimana kabarnya?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Bagaimana kabarnya?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Bagaimana kabarnya?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Bagaimana kabarnya?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Yakin, <VAR_2>
+yang ingin kamu pilih?<PAGE><CHOICE_AB> Ya.
+ ...mungkin yang lain.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Maka, pilih binatang yang
+ingin kamu masukkan itu.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Halo, <MYNAME>.<PAGE>Hari ini adalah
+<VAR_0>.<PAGE>Aku benar-benar minta maaf,
+bahwa kamu tidak bisa me-
+ngikutinya.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Datang kepadaku disaat kamu
+sudah siap.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Dan sekarang saatnya memulai
+<VAR_0>.<PAGE>Apa yang ingin kamu
+lakukan?
+----------------------------|----------------------------------
+<CHOICE_ABC> Aku ikut!
+ Aku akan mendukung kalian!
+ Belum siap...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Sekarang...
+ayo dimulai!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Jadi aku ingin segera memu-
+lainya, tapi...<PAGE>Kamu tidak akan bisa melaku-
+kan sesuatu disaat kamu me-
+megangnya.<PAGE><FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Jadi taruh barangmu ketas,
+lalu kembali kesini. oke?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Jika kamu ingin ikut ber-
+kompetesi, bicara kepadaku
+sambil membawa barang yang<PAGE>ingin digunakan.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Jadi biarkan aku untuk me-
+lihat apa yang kamu bawa
+itu...<PAGE>Uhm, itu tidak segar lagi
+kelihatannya...<PAGE>Maaf. kamu harus memilih
+yang lebih agak segaran
+dikit ya.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Nah, sebelum kita memulai-
+nya, mari kita lihat isi
+tasmu itu.<PAGE>Hmm... sepertinya tasmu
+penuh.<PAGE>Mungkin kamu akan memenang-
+kan sebuah hadiah, jadi
+datang bicara kepadaku<PAGE>setelah kamu mengosongkan
+tasmu itu.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Oke, kamu itu dari desa
+lain kan?<PAGE>Seharusnya kamu berbicara
+kepada Ina, bukan ke aku.
+----------------------------|----------------------------------
+<CHOICE_AB> Mari mulai.
+ Tungguh dulu.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Kamu tidak bisa memasukkan
+<VAR_2>.
+Pilih yang lain ya.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Bagaimana kabarnya?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Hari ini adalah festival
+binatang, tapi kamu tidak
+bisa ikut dengan keadaan<PAGE>binatang ternakmu yang
+kamu punya.<PAGE>Maafkan aku, tapi kamu
+tidak dapat berkompetesi
+disaat ini.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Bagaimana kabarnya?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Bagaimana kabarnya?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Bagaimana kabarnya?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Bagaimana kabarnya?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Bagaimana kabarnya?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Bagaimana kabarnya?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Selamat pagi, <MYNAME>.
+Sepertinya kamu melakukan-
+nya dengan baik.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Selamat pagi, <MYNAME>.
+Apa rencanamu dihari ini?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Oh, Selamat pagi...
+Kamu mengagetkanku...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Hei yang disana, <MYNAME>.
+Bagaimana kabarmu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Halo.
+Bagaimana kabarmu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Oh, <MYNAME>.
+Bagaimana kabarmu dihari
+ini?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Selamat Malam.
+Ini sudah kemalaman.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Selamat Malam, <MYNAME>.
+Kamu masih bekerja dilarut
+malam seperti ini!?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Selamat Malam. Apakah
+sekarang ini saatnya tidur?<PAGE>Jika kamu tidur secepatnya,
+maka kamu akan bisa bangung
+pagi...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Bagaimana kabarnya?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Bagaimana kabarnya?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Bagaimana kabarnya?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Jika kamu ingin tinggal di-
+sini, gunakan buku tamu di-
+depan konternya ya.<PAGE>Jika ada sesuatu yang lain,
+tinggal bicara kepadaku di-
+depan konter.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Aku ini seorang kepala desa,
+tapi aku juga penjaga pengi-
+napan disini.<PAGE>Jika kamu ingin tinggal di-
+sini, gunakan buku tamu
+yang ada dikonter.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Jika kamu membutuhkan sesu-
+atu, tinggal datang kedepan
+konter untuk berbicara<PAGE>kepadaku.<PAGE>Jika kamu ingin tinggal di-
+sini, gunakan buku tamu
+yang ada dikonter.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Oh, <MYNAME>.
+Sedang beristirahat?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Makanan disini ini sungguh
+luar biasa. Ayo pesan se-
+suatu, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Howard itu agak aneh,
+tapi...<PAGE>Yang kutahu, dia itu seorang
+pemasak yang terhebat di-
+seluruh dunia loh.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Desa ini memiliki tradisi
+untuk merawat hewan
+ternak yang terbaik didunia.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Desa ini memiliki tradisi
+untuk merawat hewan
+ternak yang terbaik didunia.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Desa ini memiliki tradisi
+untuk merawat hewan
+ternak yang terbaik didunia.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Bagaimana kabarnya?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Bagaimana kabarnya?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Bagaimana kabarnya?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Bagaimana kabarnya?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Bagaimana kabarnya?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Bagaimana kabarnya?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Bagaimana kabarnya?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Bagaimana kabarnya?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Bagaimana kabarnya?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Aku sudah bersenang-senang
+tadi!<PAGE>Festival memasak hari ini,
+Kemenangan besar untuk
+Bluebell!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Festival memasak hari ini
+cukup menyenangkan.<PAGE>Ternyata ada banyak koki
+terbaik didesa kami.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Oh, <MYNAME>, jadi
+kamu datang kemari untuk
+merayakannya...<PAGE>Aku menyukainya disaat kita
+memenangkan festival
+memasaknya...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Oke, hari ini sungguh menye-
+nangkan!<PAGE><FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Tapi, besok harus kembali
+bekerja!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_HAPPY><FP_RIGHT><VAR_0>
+Hari ini sungguh luar biasa!<PAGE>Sebagai kepala desa, aku
+sangat senang untuk bertemu
+dengan semuanya yang sedang<PAGE>menikmati acaranya!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Apakah kamu bersenang-senang
+dihari ini, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_HAPPY><FP_LEFT>Selamat, <MYNAME>!
+Tanamanmu itu sungguh
+luar biasa!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Sekarang, selamat ya!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Sekarang, selamat ya!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Hmm, hari ini sungguh menye-
+nangkan!<PAGE><FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Tapi, besok harus bekerja
+kembali!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_HAPPY><FP_RIGHT><VAR_0>
+Hari ini sungguh luar biasa!<PAGE>Sebagai kepala desa, aku
+sangat senang untuk bertemu
+dengan semuanya yang sedang<PAGE>menikmati acaranya!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Apakah hari ini menyenang-
+kan? Aku senang jika me-
+lihat semuanya bersama-sama.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_HAPPY><FP_LEFT>Selamat!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_HAPPY><FP_LEFT>Selamat, <MYNAME>!<PAGE>Aku tidak pernah melihat
+seseorang yang memiliki
+banyak bakat sepertimu!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Kerja bagus, <MYNAME>!
+Tidak ada seorangpun yang
+bisa mengalahkanmu!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_LEFT>Selamat, <MYNAME>!
+<VAR_2>mu
+sungguh luar biasa!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_LEFT>Selamat!
+Sekarang ini kamu seorang
+petani sungguhan!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Semua kerja kerasmu sudah
+terbayarkan dihari ini!<PAGE>Pertahankan kerja baik-
+mu itu!

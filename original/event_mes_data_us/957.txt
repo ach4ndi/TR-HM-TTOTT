@@ -1,0 +1,56 @@
+<FACE_POS_LEFT><FACE_GEORGIA><FACE_HAPPY><FP_LEFT>This is my sweet darling,
+Dakota!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_GEORGIA><FACE_NORMAL><FP_LEFT>She was born when I was
+only 5 years old.
+<PAGE>And I've ridden her ever
+since!<PAGE><FACE_POS_LEFT><FACE_GEORGIA><FACE_HAPPY><FP_LEFT>I reckon she's the best
+friend I've got.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_GEORGIA><FACE_ANGRY><FP_LEFT>That fool Kana from Konohana
+can't hold a candle to us!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_GEORGIA><FACE_SAD><FP_LEFT>Oh, sorry. I get a little
+hot under the collar when
+it comes to that fella.<PAGE><FACE_POS_LEFT><FACE_GEORGIA><FACE_ANGRY><FP_LEFT>He runs the ranch over in
+Konohana.<PAGE>We've got a bit of a rivalry
+going. We're always arguing
+about our horses.<PAGE>Why, the other day, he
+said that his horse was
+cuter than Dakota!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_GEORGIA><FACE_ANGRY><FP_LEFT>Now I know there's no horse
+in the wide world as cute
+as my Dakota!<PAGE><FACE_POS_LEFT><FACE_GEORGIA><FACE_HAPPY><FP_LEFT>Isn't the right,
+Dakota?
+----------------------------|----------------------------------
+<CHOICE_AB> Who cares?
+ She really is cute.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_GEORGIA><FACE_NORMAL><FP_LEFT>What now?
+Did you say something?
+I couldn't...HEY!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_GEORGIA><FACE_SHY><FP_LEFT>Dakota!
+What's gotten into you!?
+Now stop that, y'hear?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_GEORGIA><FACE_SHY><FP_LEFT>Now why would you
+go wild like that?
+Calm down.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_GEORGIA><FACE_SHY><FP_LEFT>Oh, I'm sorry . I can't
+imagine what got into her.
+I'm going to put her inside.<PAGE><FACE_POS_LEFT><FACE_GEORGIA><FACE_NORMAL><FP_LEFT>See you later, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_GEORGIA><FACE_NORMAL><FP_LEFT>Oh! Dakota?
+<PAGE>Why, she's taken a real
+shine to you, <MYNAME>.
+<PAGE><FACE_POS_LEFT><FACE_GEORGIA><FACE_HAPPY><FP_LEFT>You've really got a way
+with animals.
+<PAGE>I guess that's to be
+expected for a farmer.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_GEORGIA><FACE_NORMAL><FP_LEFT>I surely am glad I invited
+you over, <MYNAME>.<PAGE>I hope you'll come and visit
+Dakota again soon.<PAGE>I know she'd like that!

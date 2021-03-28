@@ -1,0 +1,24 @@
+<FACE_POS_RIGHT><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Hi, <MYNAME>.\u270a\u270a
+Apa yang aku lakukan
+disini?<PAGE><FACE_POS_RIGHT><FACE_EILEEN><FACE_HAPPY><FP_RIGHT>Aku datang kesini untuk
+mencari beberapa material
+untuk pekerjaanku.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Aku mengambil material
+untuk digunakan untuk meman
+jat ke pegunungan.<PAGE>Aku hanya <RED>melompat</COLOR> 
+jika aku membutuhkan sesu-
+atu menghalangi jalan.<PAGE><FACE_POS_RIGHT><FACE_EILEEN><FACE_HAPPY><FP_RIGHT>Kamu seharusnya menjelajah
+pegunungan untuk mencari
+kacang, bunga atau barang<PAGE>lainnya. Disana juga ada
+sungai dimana kamu bisa
+menangkap ikan.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><HIDE_NAME><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Oh, gimana kabarmu?<PAGE>Ah, kamukan <MYNAME>, benarkan?<PAGE><FACE_POS_RIGHT><FACE_EILEEN><FACE_HAPPY><FP_RIGHT>Aku <BLUE>Eileen</COLOR>. Aku
+seorang pengerajin kayu,jadi
+senang bertemu denganmu!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Apa yang aku lakukan
+disini?<PAGE><FACE_POS_RIGHT><FACE_EILEEN><FACE_HAPPY><FP_RIGHT>Aku datang kemari untuk
+mengoleksi beberapa material
+untuk pekerjaan aku.

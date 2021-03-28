@@ -1,0 +1,337 @@
+<FACE_POS_LEFT><HIDE_NAME><FACE_INA><FACE_NORMAL><FP_LEFT><HIDE_FACE>Good morning, <MYNAME>.
+I thought I'd drop by.
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>I came by this morning to
+give you some festival info.
+
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>The <RED>Crop Festival</COLOR> will be
+held on the 25th of this
+month.<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>The theme this time is
+<RED>turnips</COLOR>.<PAGE>So, if you want to enter,
+you'd better have a turnip
+ready by the 25th.<PAGE>And remember, you <RED>can't
+enter rotten crops</COLOR>!
+Don't forget!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>The <RED>Crop Festival</COLOR> will be
+held on the 25th of this
+month.<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>The theme this time is
+<RED>potatoes</COLOR>.<PAGE>So, if you want to enter,
+you'd better have a potato
+ready by the 25th.<PAGE>And remember, you <RED>can't
+enter rotten crops</COLOR>!
+Don't forget!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>The <RED>Crop Festival</COLOR> will be
+held on the 25th of this
+month.<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>The theme this time is
+<RED>cucumbers</COLOR>.<PAGE>So, if you want to enter,
+you'd better have a cucumber
+ready by the 25th.<PAGE>And remember, you <RED>can't
+enter rotten crops</COLOR>!
+Don't forget!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>The <RED>Crop Festival</COLOR> will be
+held on the 25th of this
+month.<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>The theme this time is
+<RED>cabbages</COLOR>.<PAGE>So, if you want to enter,
+you'd better have a cabbage
+ready by the 25th.<PAGE>And remember, you <RED>can't
+enter rotten crops</COLOR>!
+Don't forget!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>The <RED>Crop Festival</COLOR> will be
+held on the 25th of this
+month.<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>The theme this time is
+<RED>strawberries</COLOR>.<PAGE>If you want to enter, you'd
+better have a strawberry
+ready by the 25th.<PAGE>And remember, you <RED>can't
+enter rotten crops</COLOR>!
+Don't forget!
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>Ah, that's right!
+I need to explain the
+<RED>Cooking Festival</COLOR> to you!<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>Four times a month, Konohana
+and Bluebell compete to see
+who has the best cooking.<PAGE>Each village has three
+representatives, and they
+all cook the same theme.<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>It's a great opportunity to
+show how superior Konohana
+is to Bluebell!<PAGE>If you can find the time, I
+would love for you to enter
+for Konohana some time.<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>The theme for the next
+Cooking Festival is
+<RED>salad</COLOR>.<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>To score highly, you should
+<RED>use a lot of high-quality
+ingredients</COLOR>!<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>But remember, <RED>you can't
+enter a rotten dish</COLOR>!
+Don't forget!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>The <RED>Cooking Festival</COLOR> will be
+held on the 29th of this
+month.<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>The theme for the upcoming
+Cooking Festival is
+<RED>main dishes</COLOR>.<PAGE>If you are going to enter
+for Konohana, don't forget
+to prepare.<PAGE>But remember, <RED>you can't
+enter a rotten dish</COLOR>!
+Don't forget!
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>The Cooking Festival is a
+very important competition
+for Konohana's citizens.<PAGE>If you plan to enter, let me
+give you some advice.<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>To score highly, you should
+<RED>use a lot of high-quality
+ingredients!<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>Do you understand? We're
+counting on you, so do
+your best!
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>That's all I have to say.
+Did you catch all that?<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>If you forget, just take a
+look at the <RED>calendar</COLOR>.<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>Well, I'll be on my way,
+then. See you later.
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+<FACE_POS_LEFT><HIDE_NAME><FACE_RAHI><FACE_NORMAL><FP_LEFT><HIDE_FACE><MYNAME>,
+do you have a moment?
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RAHI><FACE_NORMAL><FP_RIGHT>I think my mother told you
+already, but...<PAGE>The <RED>Cooking Festival</COLOR>
+is a very important event
+for Konohana and Bluebell.<PAGE>Of course, the real goal is
+to match up the villagers'
+cooking skills, but...<PAGE>Actually, we are hoping that
+the Cooking Festival will
+bring the villages together.
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Since you are new in town,
+<MYNAME>, if you entered the
+Cooking Festival...<PAGE><FACE_POS_RIGHT><FACE_RAHI><FACE_HAPPY><FP_RIGHT>...it might change things.
+That's why I came to talk to
+you today.<PAGE><FACE_POS_RIGHT><FACE_RAHI><FACE_SAD><FP_RIGHT><MYNAME>, can we count on
+your cooperation?
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RAHI><FACE_HAPPY><FP_RIGHT>Thanks a lot...!\u270a\u270a
+I believe in you!<PAGE><FACE_POS_RIGHT><FACE_RAHI><FACE_NORMAL><FP_RIGHT>All right then, <MYNAME>,
+we're counting on you!
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RAHI><FACE_NORMAL><FP_RIGHT>I'm sorry to barge in on
+you. I'm Ina's son.
+My name's <BLUE>Rahi</COLOR>.
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RAHI><FACE_NORMAL><FP_RIGHT>You may know this already,
+but my mother and Rutger
+really don't get along.<PAGE>I've heard that it's been
+that way for a long time.
+<PAGE>Not to say disagree with
+my mother, but I don't think
+Rutger is a bad person.<PAGE><FACE_POS_RIGHT><FACE_RAHI><FACE_SAD><FP_RIGHT>Maybe I don't understand
+since I'm just a kid,
+but even so...<PAGE>I don't see why the villages
+can't get along...
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY

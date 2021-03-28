@@ -1,0 +1,40 @@
+<FACE_POS_RIGHT><FACE_RAUL><FACE_NORMAL>Hallo! Selamat datang ke
+toko Raul.<INPUT_KEYPAD>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RAUL><FACE_NORMAL><CHOICE_AB> Lihat barangnya.
+ Lupakan.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RAUL><FACE_NORMAL>Oke! Jika ada waktu, bisa
+datang kesini kapan saja
+asal tokonya masih buka!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RAUL><FACE_SAD>Kamu tidak mempunyai cukup
+uang! Datang kembali kalau
+sudah menggeseknya!<INPUT_KEYPAD>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RAUL><FACE_HAPPY>Terima kasih banyak ya!
+Kamu membuat hariku ber
+bunga-bunga!<INPUT_KEYPAD>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RAUL><FACE_SAD>Oh? Tasmu penuh dengan 
+sarang laba-laba. Mohon 
+kosongkan dulu sblm membeli!<INPUT_KEYPAD>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RAUL><FACE_NORMAL>Oh?
+Apa kamu berubah pikiran?
+Apa ada yang lainnya?<INPUT_KEYPAD>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RAUL><FACE_NORMAL>Ini <RED><VAR_0>G</COLOR> OK?
+<CHOICE_AB> Beli.
+ Lupakan.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RAUL><FACE_HAPPY>Totalnya <RED><VAR_1>G</COLOR>
+untuk tiap
+<VAR_0>.<PAGE>Berapa banyak?<INPUT_KEYPAD>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RAUL><FACE_SAD>Disayangkan. Aku hanya
+menjual satu biji saja
+hari ini.<INPUT_KEYPAD>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RAUL><FACE_NORMAL>Maaf tidak ada barang
+yang tersisa.

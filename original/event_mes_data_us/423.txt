@@ -1,0 +1,23 @@
+<FACE_POS_LEFT><FACE_DIEGO><FACE_NORMAL><FP_LEFT>Good work today!<PAGE>How were things with you,
+Enrique?<PAGE><FACE_POS_RIGHT><FACE_ENRIQUE><FACE_HAPPY><FP_RIGHT>Just fine!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>What are you doing
+there, <MYNAME>?<PAGE><FACE_POS_RIGHT><FACE_ENRIQUE><FACE_ANGRY><FP_RIGHT>It's rude to listen in on
+people's conversations!<PAGE><FACE_POS_RIGHT><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>More importantly, how did
+you get in?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ENRIQUE><FACE_SAD><FP_RIGHT>The door wasn't locked?
+Oh no!
+I forgot to lock it again!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_DIEGO><FACE_ANGRY><FP_LEFT>What were you thinking?
+You can't keep forgetting
+to lock the door!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>How long are you going to
+stand there? It's late!
+You should get home.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Where are you going?<PAGE>You have to go out the
+front door, not the
+back door.

@@ -1,0 +1,730 @@
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>Spring's nice...
+At this time of year, I feel
+a sense of tranquility...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>Soon the harvest will be
+in full swing in the village
+of Konohana.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>This is the season when the
+cherry blossoms bloom.<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_HAPPY><FP_RIGHT>I always look forward to
+this time to year.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>This is the season when
+plants on the mountain
+burst into growth.<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_HAPPY><FP_RIGHT>It's lovely to go up on the
+mountain this time of year.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>It's hot every day...
+Watch out for heat
+exhaustion.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>This is the time of year
+when summer crops shoot up.<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_HAPPY><FP_RIGHT>You can even eat them raw,
+and they're still tasty!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>Another hot day!<PAGE>You should water your plants
+before the sun gets too
+high in the sky.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_SHY><FP_RIGHT>Sooooo HOT...!<PAGE>I feel like I'm wilting
+in this heat.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>Ah, fall is here.<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_HAPPY><FP_RIGHT>The leaves are so beautiful
+when they change color. It's
+interesting to study.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>It's the harvest season.
+<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_HAPPY><FP_RIGHT>Plants are so fascinating to
+observe in fall.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>The temperature swings a lot
+over the course of the day.<PAGE>Make sure you're dressing
+in layers.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_HAPPY><FP_RIGHT>The brisk, chilly air is
+refreshing.<PAGE>I imagine it makes it easier
+to do farm work, too.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>It's gotten very cold.<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_HAPPY><FP_RIGHT>I know you've got a lot of
+work to do, but do your
+best to stay warm.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_SHY><FP_RIGHT>It's so cold every day now.
+When it's this cold, it's
+an effort to get out of bed.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>It's freezing again today.<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_SHY><FP_RIGHT>Brr! I'm so cold!
+...\u270a\u270a...\u270a\u270a...\u270a\u270a\u20d0Achoo!!!!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_SAD><FP_RIGHT>Winter is a tough season for
+raising crops.<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_HAPPY><FP_RIGHT>I wish it were possible to
+grow more crops during the
+winter.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>Nice weather today!<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_HAPPY><FP_RIGHT>On clear days, I go up to
+the mountain to look for
+interesting plants.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_SHY><FP_RIGHT>Days and days of rain, or
+days and days of sun are
+both problems...<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>Everything in the right
+balance, that's what you
+want.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>The sun feels so good!<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_HAPPY><FP_RIGHT>Plants aren't the only life
+that thrives in sunlight.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>The starry sky on a clear
+night is so beautiful!<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_HAPPY><FP_RIGHT>The view from the top of the
+mountain is fantastic.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>It's really pouring today...<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_SHY><FP_RIGHT>Rain's good for plants, but
+not so much for people,
+I suppose.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>Sometimes rain is a
+blessing...<PAGE>But sometimes it can bring
+disaster...<PAGE>Mother nature has many
+faces.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_SHY><FP_RIGHT>It's not really true that
+all plants like rain.<PAGE>Some plants are sensitive to
+rain, and some to sun.<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>Each plant has its own
+unique needs.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_SHY><FP_RIGHT>The rain's really coming
+down. I hope we have clear
+weather tomorrow.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>Konohana looks so pretty
+under a blanket of snow.<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_HAPPY><FP_RIGHT>And it always looks a little
+different in each snowfall.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>As spring draws near, under
+the blanket of snow, plants
+are sending up sprouts...<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_HAPPY><FP_RIGHT>Plants are amazingly
+tough and tenacious.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_SHY><FP_RIGHT>Brr! It's cold!<PAGE>When I see all this snow,
+I wonder why people want to
+be outside!<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_SAD><FP_RIGHT>They're going to freeze!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_SHY><FP_RIGHT>The snow is really coming
+down today...<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_SAD><FP_RIGHT>Why does it have to snow
+THAT hard?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_REINA><FACE_SHY><FP_LEFT>I'm just not feeling right
+today...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_REINA><FACE_SHY><FP_LEFT>...!?...<PAGE>Did you just see some kind
+of dark shadow slip by?<PAGE>.........
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_HAPPY><FP_RIGHT>Today was a lot of fun!<PAGE>Ask me out again sometime.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>Okay, bye.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_REINA><FACE_SHY><FP_LEFT>*yawn* I'm feeling tired.
+I'm going home.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_HAPPY><FP_RIGHT>Today was really fun!<PAGE><MYNICKNAME>, you and I need
+to spend more time
+together like this.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_HAPPY><FP_RIGHT>You're a nice guy.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_HAPPY><FP_RIGHT>You're a nice guy.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_HAPPY><FP_RIGHT>You're a nice guy.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_HAPPY><FP_RIGHT>You're a nice guy.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_HAPPY><FP_RIGHT>You're a nice guy.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_HAPPY><FP_RIGHT>You're a nice guy.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_HAPPY><FP_RIGHT>You're a nice guy.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_HAPPY><FP_RIGHT>You're a nice guy.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_HAPPY><FP_RIGHT>You're a nice guy.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_HAPPY><FP_RIGHT>You're a nice guy.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_HAPPY><FP_RIGHT>You're a nice guy.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_HAPPY><FP_RIGHT>You're a nice guy.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_HAPPY><FP_RIGHT>You're a nice guy.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_HAPPY><FP_RIGHT>You're a nice guy.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_HAPPY><FP_RIGHT>You're a nice guy.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_HAPPY><FP_RIGHT>You're a nice guy.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>Animals are good to have.<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_HAPPY><FP_RIGHT>You should raise more
+animals, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>Animals are good to have.<PAGE>Seems like you have quite
+a few on your
+farm, <MYNAME>.<PAGE>I guess you've been learning
+a lot about them, haven't
+you?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>Animals are good to have.<PAGE>And you have a huge
+number of animals,
+<MYNAME>.<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_HAPPY><FP_RIGHT>Ha-ha! That's amazing!
+I'm pretty impressed.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>By the way, I heard that you
+collect bugs...<PAGE>.........<PAGE>Looks like you have a long
+way to go.<PAGE>You do know that different
+bugs come out at different
+seasons, don't you?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>By the way, I heard that you
+collect bugs and frogs...<PAGE>.........<PAGE>You've got quite a few.<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_HAPPY><FP_RIGHT>If you keep looking, I think
+you could add even more to
+your collection.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>By the way, I heard that you
+collect bugs and frogs...<PAGE>.........<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_HAPPY><FP_RIGHT>You've really collected a
+lot of them!<PAGE>I have to respect your
+passion as a collector.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_SHY><FP_RIGHT>I've heard that you keep a
+record of all the fish that
+you've caught...<PAGE>.........<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>Looks like you have a long
+way to go.<PAGE>Well, that's a relief...
+Err, nothing, just talking
+to myself.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>I've heard that you keep a
+record of all the fish that
+you've caught...<PAGE>.........<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_SHY><FP_RIGHT>D-Don't you think this is
+more than enough already?<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_SAD><FP_RIGHT>You've done great. I get it.
+That's plenty...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>I've heard that you keep a
+record of all the fish that
+you've caught...<PAGE>.........<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_SAD><FP_RIGHT>\u20d0Whaaaaaat!?!?<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_ANGRY><FP_RIGHT>You really took it way too
+far!<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_SAD><FP_RIGHT>Urk...enough! Yes, you're
+good at it, I get it!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>I heard that you're really
+talented at coming up with
+new recipes for cooking...<PAGE>.........<PAGE>Is that all you've got so
+far? Pfft. It's nothing to
+brag about, is it?<PAGE>You should use more
+ingredients to add variety
+to your cooking.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>I heard that you're really
+talented at coming up with
+new recipes for cooking...<PAGE>.........<PAGE>You've actually come up with
+more than I would have
+expected in your case.<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_HAPPY><FP_RIGHT>I figured your reputation
+was all talk...but I have
+to revise my hypothesis.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>I heard that you're really
+talented at coming up with
+new recipes for cooking...<PAGE>.........<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_HAPPY><FP_RIGHT>Wow! The number of recipes
+you've invented is amazing.
+I'm a little jealous.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_HAPPY><FP_RIGHT>You're a nice guy.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_HAPPY><FP_RIGHT>You're a nice guy.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_HAPPY><FP_RIGHT>You're a nice guy.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_HAPPY><FP_RIGHT>You're a nice guy.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_HAPPY><FP_RIGHT>You're a nice guy.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_HAPPY><FP_RIGHT>You're a nice guy.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_HAPPY><FP_RIGHT>You're a nice guy.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_HAPPY><FP_RIGHT>You're a nice guy.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_HAPPY><FP_RIGHT>You're a nice guy.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_HAPPY><FP_RIGHT>You're a nice guy.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_HAPPY><FP_RIGHT>You're a nice guy.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_HAPPY><FP_RIGHT>You're a nice guy.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_HAPPY><FP_RIGHT>You're a nice guy.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_HAPPY><FP_RIGHT>You're a nice guy.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_HAPPY><FP_RIGHT>You're a nice guy.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_HAPPY><FP_RIGHT>You're a nice guy.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_HAPPY><FP_RIGHT>You're a nice guy.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_HAPPY><FP_RIGHT>You're a nice guy.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_HAPPY><FP_RIGHT>You're a nice guy.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_HAPPY><FP_RIGHT>You're a nice guy.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_HAPPY><FP_RIGHT>You're a nice guy.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_HAPPY><FP_RIGHT>You're a nice guy.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_HAPPY><FP_RIGHT>You're a nice guy.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_HAPPY><FP_RIGHT>You're a nice guy.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_HAPPY><FP_RIGHT>You're a nice guy.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_HAPPY><FP_RIGHT>You're a nice guy.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_HAPPY><FP_RIGHT>You're a nice guy.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_HAPPY><FP_RIGHT>You're a nice guy.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_HAPPY><FP_RIGHT>You're a nice guy.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_HAPPY><FP_RIGHT>You're a nice guy.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_HAPPY><FP_RIGHT>You're a nice guy.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_HAPPY><FP_RIGHT>You're a nice guy.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_HAPPY><FP_RIGHT>You're a nice guy.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_HAPPY><FP_RIGHT>You're a nice guy.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_HAPPY><FP_RIGHT>You're a nice guy.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_HAPPY><FP_RIGHT>You're a nice guy.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_HAPPY><FP_RIGHT>You're a nice guy.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_HAPPY><FP_RIGHT>You're a nice guy.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>Plants have amazing
+abilities.<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_HAPPY><FP_RIGHT>If you're interested, you
+should come by my place
+sometime.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>Nori is great at making and
+fixing clothes.<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>She's the best seamstress
+in Konohana!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>Do you know about the
+message board in front of
+the town hall?<PAGE>Villagers who have a problem
+post requests for help
+on the message board.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_HAPPY><FP_RIGHT>This tree is nice and
+healthy.<PAGE>It's growing strong in the
+midst of our community.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>There are all kinds of
+festivals in Konohana.<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_HAPPY><FP_RIGHT>The Crop Festival is
+especially interesting.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>Plants have amazing
+abilities.<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_HAPPY><FP_RIGHT>They synthesize their own
+nutrients. Did you know
+that? Amazing, isn't it?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>Nori is good at everything!<PAGE>She helps everyone in the
+village with requests and
+tailoring...<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_HAPPY><FP_RIGHT>We couldn't get along
+without her!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>Have you checked the message
+board?<PAGE>All kinds of interesting
+requests have been posted
+there, so check it out.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>This tree is so full of
+vitality.<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_HAPPY><FP_RIGHT>Just like its people,
+Konohana's trees and plants
+are healthy and strong.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>Periodically, we have a Crop
+Festival here in Konohana.<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_HAPPY><FP_RIGHT>The type of crop changes
+from festival to festival.
+It's quite fun.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>I always feel at ease when
+I'm with plants.<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_HAPPY><FP_RIGHT>It's so satisfying to see a
+plant I've been tending
+grow.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>Nori is easygoing, but
+extremely capable.<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_HAPPY><FP_RIGHT>She is adored by everyone in
+Konohana.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>I put a request on the
+message board.
+You know what happened?<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_SHY><FP_RIGHT>The person who accepted the
+request was my uncle Mako...<PAGE>In that case, I could have
+just asked him when I saw
+him at home.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>This tree is full of life in
+every season of the year.
+<FACE_POS_RIGHT><FACE_REINA><FACE_HAPPY><FP_RIGHT>My sweet little tree-kins!<PAGE>Now you grow big and strong,
+do you hear me?<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>\u20d0......Uhh...<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_SHOCK><FP_RIGHT>You see, I was just...<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>F-Forget about it!
+It's nothing at all!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>Gombe is a formidable
+competitor at the Crop
+Festival.<PAGE>He is always among the top
+finishers.<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_HAPPY><FP_RIGHT>It's because he tends his
+fields properly every day.
+<PAGE>I respect his dedication to
+his crops.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>Many fruits contain large
+amounts of vitamin C.<PAGE>They help prevent you from
+catching colds.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>Recently Nori made an
+outfit for me.<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_SHOCK><FP_RIGHT>I'm not sure that it suits
+me, but...<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_HAPPY><FP_RIGHT>It's so cute that I fell in
+love with it!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>Mayor Ina is in charge of
+the message board.<PAGE>Even though she is always so
+busy, she gets it all done.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_ANGRY><FP_RIGHT><MYNAME>!<PAGE>.........<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_SHOCK><FP_RIGHT>How's my sw-...my sw-...<PAGE>Swee...swee...<PAGE>.........<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_SHY><FP_RIGHT>.........<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_SAD><FP_RIGHT>It's no good!<PAGE>Nori told me I should talk
+to people the way I talk to
+plants...<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_SHY><FP_RIGHT>People and plants are just
+too different.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>I asked Gombe what his
+secret to cultivating plants
+is.<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_ANGRY><FP_RIGHT>He says that he's got a
+special method, but he won't
+give his secret away.<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_SAD><FP_RIGHT>But I just want to know
+for my research...
+<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_SHY><FP_RIGHT>I'll wring the secret out
+of him one of these days!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>Vegetables are best eaten
+raw. Did you know that?<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_HAPPY><FP_RIGHT>A mixed salad containing a
+lot of different vegetables
+is especially delicious!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>When I first came to the
+village, Nori helped me out
+with all kinds of things.<PAGE>So I'd like to be able to
+help her out if she ever
+needs anything.<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_SHY><FP_RIGHT>I don't know if she feels
+the same way, but I wish
+that...that...<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_SHOCK><FP_RIGHT>She and I could be...be...<PAGE>...best friends.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>You're always such a big
+help to me.<PAGE>I feel like I should show
+you more appreciation.<PAGE>.........<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_SHOCK><FP_RIGHT>I...I...<PAGE>I want to thank you for
+always being there for
+me to talk with.<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_HAPPY><FP_RIGHT>If you ever need anything,
+please don't hesitate to
+ask me.<PAGE>Let's keep on supporting
+each other!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>Mayor Ina is in charge of
+the message board.<PAGE>Even though she is always so
+busy, she gets it all done.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>Konohana's Crop Festival is
+always a lot of fun.<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_HAPPY><FP_RIGHT>It's fantastic to see all
+the crops that the villagers
+have lovingly grown.<PAGE>You'll never find another
+festival with such succulent
+crops as these!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>I went to a university to
+do plant research.<PAGE>Right now, I'm staying at
+my uncle Mako's place.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>The mountain has a thriving
+ecosystem.<PAGE>I definitely prefer the
+mountains to the ocean.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>I'm so happy when I get to
+go up on the mountain and
+find plants.<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_HAPPY><FP_RIGHT>I could go every day and
+never get tired of it.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>I'm also studying medicinal
+herbs.<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_HAPPY><FP_RIGHT>There are many rare plants
+on the mountain. It's an
+excellent research site.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>We walk on the soil all the
+time without giving it a
+second thought, but...<PAGE>Soil that may look the same
+in fact varies in qualities
+from place to place.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>The orchard is a good place
+to study and grow plants.<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_SHY><FP_RIGHT>As a place for people to
+live, it's somewhat lacking.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT><MYNAME>, you always have so
+much energy. Do you exercise
+a lot? Is that it?<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_SHY><FP_RIGHT>I prefer studying to
+exercise, personally...<PAGE>I was never very good at
+sports or games.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>Mako is an expert in plants
+that bear fruit.<PAGE>If there's ever anything you
+don't understand, ask him.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>I'm also studying medicinal
+herbs.<PAGE>I often talk with Dr. Ayame
+about formulating remedies.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>Gombe has lots of seeds for
+lots of different crops.<PAGE>If there's anything you're
+thinking about growing, you
+should talk to him.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>I still have lots and lots
+of research that I want to
+do in this place.<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>I asked Mako to expand the
+orchard...<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_SHY><FP_RIGHT>Sounds like he doesn't have
+the desire or money...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>If you go on the mountain,
+you can find all kinds of
+animals.<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_HAPPY><FP_RIGHT>Foxes are nice, but I think
+raccoons are even cuter.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>When a plant I was growing
+sprouted up from a seed
+for the first time...<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_HAPPY><FP_RIGHT>I was ecstatic.<PAGE>I'll never forget that
+feeling.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_SHY><FP_RIGHT>Recently Dr. Ayame asked me
+to formulate a love potion
+for her.<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_SAD><FP_RIGHT>It certainly is an
+interesting research topic.<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_SHY><FP_RIGHT>But do you think...
+Dr. Ayame had...
+...someone in mind for it?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>This village always
+produces fine crops.<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_HAPPY><FP_RIGHT>It's because all the fields
+are so well tended. 
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>Mako looks like a scoundrel,
+but he's kind-hearted in
+actuality.<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_HAPPY><FP_RIGHT>I hope you two can get
+along well.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_HAPPY><FP_RIGHT>Each season has its flowers
+to enjoy.<PAGE>Nature has such abundant
+variety. I could never get
+tired of studying plants.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>Plants that bear fruit are
+very fragrant.<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_HAPPY><FP_RIGHT>It's a different kind of
+fragrance from other plants.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>The other day, Rahi asked
+me for a potion that would
+make him grow big.<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_SHY><FP_RIGHT>Rahi...<PAGE>Even if I could turn him
+into a giant of a man,
+what good would that do him?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>Sometimes you can't find
+seeds for the crops you want
+to grow at the store.<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_HAPPY><FP_RIGHT>Eventually they will get
+them in stock, so keep
+checking regularly.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_SHY><FP_RIGHT>Mako seems to be in ill
+health these days...<PAGE>He keeps falling sick and
+wanting to go to the clinic.<PAGE>It's so frustrating...!<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_ANGRY><FP_RIGHT>I'm always telling him,
+"Don't push yourself so
+hard!".
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>Even curry comes in many
+varieties.<PAGE>I was able to eat vegetable
+curry, but...<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_SHY><FP_RIGHT>Milk curry, I didn't really
+care for the taste of...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>When I was little, I was
+scared of Mako's face...it
+would make me cry...<PAGE>When that happened, Mako
+would bring me a peach,
+and I love peaches.<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_HAPPY><FP_RIGHT>I always remember that
+whenever I see a peach.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>The other day, Ying asked
+me...<PAGE>...to make her a potion
+that would enable her to
+speak with people better.<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_SHY><FP_RIGHT>I told her that if she wants
+to be able to speak better,
+she just needs to try.<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_SAD><FP_RIGHT>If a potion like that
+existed, I would want it
+too...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>There is a young man in
+Bluebell who sells flower
+seeds.<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_SHY><FP_RIGHT>I don't know much about
+that town, but...<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_HAPPY><FP_RIGHT>I'm curious. I'd like to
+go visit sometime.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>Mayor Ina and her boy are
+always so polite.<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_HAPPY><FP_RIGHT>No matter how busy they are,
+they always give me a
+friendly greeting.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>The women of Konohana are
+all so strong and bold.<PAGE>I'd like to learn from their
+strength.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>People in Konohana are all
+so kind.<PAGE>Not only that...<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_HAPPY><FP_RIGHT>They all have such unique
+personalities.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>Recently I've been doing
+experiments with pollen.<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_SHY><FP_RIGHT>It's been causing me to
+sneeze a lot.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT><MYNAME>...<PAGE>You're...\u270b
+<FACE_POS_RIGHT><FACE_REINA><FACE_HAPPY><FP_RIGHT>...an interesting guy.<PAGE>It's really fun to talk with
+you.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>Hiro is an apprentice doctor
+...and a real scatterbrain.<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_SHY><FP_RIGHT>The other day, I saw him
+running along with toast in
+his mouth for some reason.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>The other day, I saw Kana
+apologizing profusely to
+Mayor Ina.<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_SHY><FP_RIGHT>It seems what happened is...<PAGE>His dog stole her
+laundry...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>Kana really loves horses.<PAGE>The other day he was
+nuzzling one of his horses
+with his cheek...<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_SHY><FP_RIGHT>Well...I can't say I don't
+know what it's like to fuss
+over a favorite thing...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_SAD><FP_RIGHT>\u20d0...Achoo!!<PAGE>.........<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_SHY><FP_RIGHT>Sorry...I've been sneezing a
+lot recently.<PAGE>I wonder if it's related to
+my experiments with plants.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT><MYNAME>...<PAGE>You're...\u270b
+<FACE_POS_RIGHT><FACE_REINA><FACE_HAPPY><FP_RIGHT>...a good guy, aren't you?<PAGE>I get a warm feeling inside
+when I talk with you.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>Hiro and Kana are good
+friends, you know.<PAGE>Sometimes their relationship
+is almost like father and
+son...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>The other day, I saw Hiro
+apologizing profusely to
+Dr. Ayame.<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_SHY><FP_RIGHT>It seems what happened is
+he let her laundry get blown
+away by the wind...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>Ying really loves dolls.<PAGE>The other day I was watching
+her play with her dolls...<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_SHY><FP_RIGHT>Her dolls move extremely
+realistically.<PAGE>They almost seemed to be
+alive.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_SHY><FP_RIGHT>The other day...<PAGE>Dr. Ayame drank a potion
+that I made for an
+experiment...<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_SAD><FP_RIGHT>Then she started feeling
+really sick.
+I felt so bad for her.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_HAPPY><FP_RIGHT><MYNAME>...
+You're...<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_SHOCK><FP_RIGHT>Um...a nice guy, I think.
+You are considerate in so
+many ways. It's remarkable.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>Sheng is an accomplished
+craftsman.<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_SHY><FP_RIGHT>His outfit is so strange,
+though. Perhaps eccentricity
+and talent go hand in hand.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>The other day, I saw Sheng
+apologizing profusely to
+Yun.<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_SHY><FP_RIGHT>Seems like he didn't have
+enough money on him to pay
+for his meal...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>The other day, I saw Hiro
+and Rahi sumo wrestling.<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_HAPPY><FP_RIGHT>Rahi is always so reserved,
+but he was fired up for
+that!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_SAD><FP_RIGHT>Sorry...I've been sneezing a
+lot recently. I wonder if
+it's due to my experiments.<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_SHY><FP_RIGHT>I'm going to go ask Dr.
+Ayame to give me a checkup.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT><MYNAME>...<PAGE>You're...\u270b
+<FACE_POS_RIGHT><FACE_REINA><FACE_HAPPY><FP_RIGHT>a...a fantastic person.
+That's what I think.<PAGE>Now I know why everyone
+thinks the world of you.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>Nori and Gombe get along so
+well as a family...<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_HAPPY><FP_RIGHT>Seeing their close
+relationship is so
+heartwarming.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>The other day, I saw Nori
+furious with Gombe.<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_SHY><FP_RIGHT>Nori...<PAGE>She didn't raise her voice,
+but the anger was plain
+in her eyes.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>There's a violinist who
+sometimes visits Konohana,
+and he's a real character.<PAGE>The other day I went out
+into the orchard...<PAGE>He was babbling on about
+listening to the song of the
+trees, or some nonsense.<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_SHY><FP_RIGHT>Even I don't think that
+plants sing.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_SHY><FP_RIGHT>The other day...<PAGE>Mako ate a bamboo dumpling
+that I made as part of an
+experiment...<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_SAD><FP_RIGHT>After that, he started
+talking very strangely
+for an hour or so.<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_SHY><FP_RIGHT>Perhaps that rare variety of
+bamboo isn't meant for
+human consumption.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_SHOCK><FP_RIGHT>.........
+Um.........<PAGE>Wh-When I'm with you, I feel
+really comfortable.<PAGE>So, um...that is...
+if it's acceptable to you...<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_HAPPY><FP_RIGHT>I'd like to spend more time
+with you.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>How long has it been now
+since we first met?<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_SHOCK><FP_RIGHT>I think I've really grown
+as a person since then...<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_HAPPY><FP_RIGHT><MYNICKNAME>, I want to be by
+your side forever!<PAGE>Always be mine!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT><MYNICKNAME>!
+Work is important, but so is
+your health!<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_HAPPY><FP_RIGHT>Make sure you're not
+overworking yourself.
+<PAGE>Promise me!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT><MYNICKNAME>...<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_SHOCK><FP_RIGHT>Thank you for always being
+by my side...<PAGE>I'M...\u270b
+<FACE_POS_RIGHT><FACE_REINA><FACE_HAPPY><FP_RIGHT>...the happiest girl in the
+world!

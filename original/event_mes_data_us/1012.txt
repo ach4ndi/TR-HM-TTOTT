@@ -1,0 +1,82 @@
+<FACE_POS_LEFT><FACE_HIRO><FACE_HAPPY><FP_LEFT>Oh, these? These are my
+medical books.<PAGE><FACE_POS_LEFT><FACE_HIRO><FACE_NORMAL><FP_LEFT>I haven't yet learned the
+material in all of them.<PAGE>I've still got a long way to
+go in my studies!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_HIRO><FACE_HAPPY><FP_LEFT>Yes, it can be daunting!<PAGE>At first, I could barely
+understand anything written
+in these books.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_HIRO><FACE_NORMAL><FP_LEFT>Now I can read them thanks
+to my studies at the medical
+school in the city...<PAGE>But even as a child I would
+imitate my father by opening
+his medical books...<PAGE>I couldn't read them, but
+I would scribble in them!
+That made Father angry.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_HIRO><FACE_NORMAL><FP_LEFT>As a matter of fact, most of
+the books on this shelf
+belonged to my father.<PAGE><FACE_POS_LEFT><FACE_HIRO><FACE_HAPPY><FP_LEFT>My father was a doctor in
+the city.<PAGE><FACE_POS_LEFT><FACE_HIRO><FACE_NORMAL><FP_LEFT>Father became a doctor in
+order to help my mother,
+who was sickly from youth.<PAGE><FACE_POS_LEFT><FACE_HIRO><FACE_HAPPY><FP_LEFT>Wasn't that romantic of him?
+
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_HIRO><FACE_NORMAL><FP_LEFT>Ever since I was a child,
+I've respected what my
+father did...<PAGE>I made it my goal in life to
+become as fine a doctor
+as he was.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_HIRO><FACE_SAD><FP_LEFT>But it appears that I will
+never be the doctor that
+he was.<PAGE><FACE_POS_LEFT><FACE_HIRO><FACE_SHY><FP_LEFT>I've been making too many
+errors in my work lately...<PAGE><FACE_POS_LEFT><FACE_HIRO><FACE_SAD><FP_LEFT>I'll never amount to
+anything at this rate...
+----------------------------|----------------------------------
+<CHOICE_AB> Everyone makes mistakes.
+ Hard work will pay off.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_HIRO><FACE_SHY><FP_LEFT>Yes, that is true. It
+is too true...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_HIRO><FACE_NORMAL><FP_LEFT>A patient's life is in
+their doctor's hands.<PAGE><FACE_POS_LEFT><FACE_HIRO><FACE_ANGRY><FP_LEFT>A mistake can be the
+difference between
+life and death.<PAGE><FACE_POS_LEFT><FACE_HIRO><FACE_SAD><FP_LEFT>So I can't just shrug off
+mistakes.<PAGE>And if I become a doctor who
+makes more mistakes than
+most...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_HIRO><FACE_NORMAL><FP_LEFT>Oh, forgive me!
+This is not what I meant
+to discuss with you.<PAGE><FACE_POS_LEFT><FACE_HIRO><FACE_HAPPY><FP_LEFT>I shouldn't keep you too
+late. I'm sure you have
+things to do.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_HIRO><FACE_NORMAL><FP_LEFT>Yes. Maybe you have a
+point...<PAGE>"Nothing worth having was
+ever gotten easily," Father
+always said.<PAGE>He also said as a doctor's
+apprentice, he made mistakes
+and learned much from them.<PAGE><FACE_POS_LEFT><FACE_HIRO><FACE_HAPPY><FP_LEFT>If I keep trying, I can
+overcome these mistakes
+I've been making.<PAGE>I must not give up. I must
+not be dismayed. There is no
+time to waste on doubts!<PAGE>I can only overcome my
+mistakes through hard work
+and perseverance.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_HIRO><FACE_NORMAL><FP_LEFT><MYNAME>, you always know what
+to say to help me.<PAGE><FACE_POS_LEFT><FACE_HIRO><FACE_SHOCK><FP_LEFT>I hope that there will be an
+opportunity for me to return
+the favor sometime.<PAGE><FACE_POS_LEFT><FACE_HIRO><FACE_HAPPY><FP_LEFT>It would be my greatest
+pleasure to be able to
+help you, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_HIRO><FACE_NORMAL><FP_LEFT>Oh, forgive me!
+Look at the time!<PAGE><FACE_POS_LEFT><FACE_HIRO><FACE_HAPPY><FP_LEFT>When I am in your company,
+<MYNAME>, time seems to fly!<PAGE><FACE_POS_LEFT><FACE_HIRO><FACE_SHOCK><FP_LEFT>Well then, I must see you
+home before the hour grows
+too late. Let's go.

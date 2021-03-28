@@ -1,0 +1,340 @@
+<FACE_POS_LEFT><FACE_KID><FACE_NORMAL><FP_LEFT><HIDE_FACE>What is it?
+Does your tummy hurt?
+Or maybe your head?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_KID><FACE_NORMAL><FP_LEFT><HIDE_FACE>Wh-What's wrong?
+Are you okay?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_KID><FACE_NORMAL><FP_LEFT><HIDE_FACE>What's wrong? Do you
+have a headache? Lie down
+and rest.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ASH><FACE_SAD><FP_LEFT>My head hurts.
+I think I'm coming down
+with a cold...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_HIRO><FACE_SAD><FP_LEFT>My head rather hurts...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_CAM><FACE_SAD><FP_LEFT>Oooh...my head.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_KANA><FACE_SAD><FP_LEFT>Man, my head is killing me.
+
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_MIKHAIL><FACE_SAD><FP_LEFT>Every noise makes my
+head hurt...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_LANEY><FACE_SAD><FP_LEFT>I have a little bit of
+a headache...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_GEORGIA><FACE_SAD><FP_LEFT>My head is aching
+something fierce...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_REINA><FACE_SAD><FP_LEFT>My head hurts...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_NORI><FACE_SAD><FP_LEFT>My head feels really heavy.
+
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ULYSSA><FACE_SAD><FP_LEFT>Oww, my head hurts...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ALISA><FACE_SAD><FP_LEFT>Oh dear, my head
+really hurts...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_DIRK><FACE_SAD><FP_LEFT>Ooh, my head feels so heavy.
+
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ASH><FACE_SAD><FP_LEFT>Don't worry about me,
+<MYNICKNAME>. I'll be fine.<PAGE>I know how busy you
+are. Only...<PAGE>No, never mind.
+You should get going.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_HIRO><FACE_SAD><FP_LEFT>I'm sorry, <MYNICKNAME>.
+Don't you worry about me...
+<PAGE>I know how busy you are,
+and how much you love work.
+<PAGE>You should just go on.
+Have a good day.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_CAM><FACE_SAD><FP_LEFT>Oh, <MYNICKNAME>...
+What? Just leave me be.
+<PAGE>I'm fine. I know you've got
+a lot of work to do, so you
+should get going.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_KANA><FACE_SAD><FP_LEFT>Don't worry about me,
+<MYNICKNAME>.
+<PAGE>It's just all this thinking
+I've been doing lately.
+I'm not used to it...<PAGE>Go on and get to work.
+I'll...I'll be okay.
+
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_MIKHAIL><FACE_SAD><FP_LEFT><MYNICKNAME>...
+I'm sorry, but could you
+lave me alone right now?<PAGE>I don't want to keep you
+here...<PAGE>I know you're busy...
+So you should hurry you and
+go to work.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_LANEY><FACE_SAD><FP_LEFT>Oh, <MYNICKNAME>...
+Don't you worry about me.
+<PAGE>You've got a lot of work to
+do, don't you?
+You should get going...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_GEORGIA><FACE_SAD><FP_LEFT><MYNICKNAME>...
+Now, don't you mind me.
+<PAGE>You've got to get to work.
+I know just how busy you
+are. Get on, now...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_REINA><FACE_SAD><FP_LEFT>...<MYNICKNAME>...
+Don't worry about me...<PAGE>You just go to work...
+Really, I'll be fine...
+
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_NORI><FACE_SAD><FP_LEFT><MYNICKNAME>...
+You don't have to worry
+about me.<PAGE>Your work is much more
+important than a little
+cold. I'll be fine.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ULYSSA><FACE_SAD><FP_LEFT><MYNICKNAME>...
+This is all your fault...<PAGE>I'm always thinking too
+much when I'm with you...<PAGE><FACE_POS_LEFT><FACE_ULYSSA><FACE_ANGRY><FP_LEFT>I know how much you love
+your work, so why don't you
+just go work?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ALISA><FACE_NORMAL><FP_LEFT><MYNICKNAME>...
+Oh no, this is nothing.
+I'm fine.<PAGE>You've got more important
+things to worry about than
+me...<PAGE><FACE_POS_LEFT><FACE_ALISA><FACE_SAD><FP_LEFT>Please just go to work.
+I feel worse keeping you
+talking to me like this...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_DIRK><FACE_SAD><FP_LEFT>...<MYNICKNAME>...
+I'm fine.
+Never mind me.<PAGE>You've got work to do.
+<PAGE>I know how busy you are.
+I just wish sometimes...
+Never mind. Now get going.
+----------------------------|----------------------------------
+<CHOICE_AB> I'll stay with you.
+ Okay. See you later!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ASH><FACE_SHY><FP_LEFT>But what about your work?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_HIRO><FACE_SHY><FP_LEFT>B-But what about your work?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_CAM><FACE_SHY><FP_LEFT>But...
+Don't you have work?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_KANA><FACE_SHY><FP_LEFT>You have all that work...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_MIKHAIL><FACE_SHY><FP_LEFT>But don't you have work
+to do?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_LANEY><FACE_SHY><FP_LEFT>B-But what about your work?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_GEORGIA><FACE_SHY><FP_LEFT>But you have work...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_REINA><FACE_SHY><FP_LEFT>But...your work...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_NORI><FACE_SHY><FP_LEFT>But you have work...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ULYSSA><FACE_SHY><FP_LEFT>Don't you have to work?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ALISA><FACE_SAD><FP_LEFT>B-But you have work to do!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_DIRK><FACE_SAD><FP_LEFT>B-But you have work!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ASH><FACE_SHOCK><FP_LEFT>Thanks, <MYNICKNAME>. It means
+so much that you offered.
+That makes me happy.<PAGE><FACE_POS_LEFT><FACE_ASH><FACE_HAPPY><FP_LEFT>But I'm actually feeling
+a little better. I'm sure
+I'll be fine.<PAGE>Now let me walk you to the
+door, okay? Come on...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_HIRO><FACE_SHOCK><FP_LEFT>Thank you!
+But it's enough that you
+offered...<PAGE><FACE_POS_LEFT><FACE_HIRO><FACE_HAPPY><FP_LEFT>I'm feeling a lot better,
+so I'm sure I'll be fine.<PAGE>I'll walk you to the door.
+Come on...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_CAM><FACE_SHOCK><FP_LEFT>Thanks.
+I means a lot to me that you
+would offer to stay home.<PAGE><FACE_POS_LEFT><FACE_CAM><FACE_HAPPY><FP_LEFT>But I'm feeling a lot
+better, so I'll be fine.
+Just let me see you off.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_KANA><FACE_SHOCK><FP_LEFT>Th-Thanks a lot! I'm so
+glad you offered...<PAGE><FACE_POS_LEFT><FACE_KANA><FACE_HAPPY><FP_LEFT>Your love has gotten rid
+of my cold!
+<PAGE>I'll see you to the door,
+okay?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_MIKHAIL><FACE_SHOCK><FP_LEFT>Thanks, <MYNICKNAME>.
+I'm so happy to hear you
+say that.<PAGE><FACE_POS_LEFT><FACE_MIKHAIL><FACE_HAPPY><FP_LEFT>But it's enough just knowing
+that I'm more important
+to you than your work.<PAGE>I'm already feeling better.<PAGE>You're the best medicine
+there is. I'll see you to
+the door.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_LANEY><FACE_SHOCK><FP_LEFT>Thanks, <MYNICKNAME>.
+But I'm just happy you
+would offer to do that...<PAGE><FACE_POS_LEFT><FACE_LANEY><FACE_HAPPY><FP_LEFT>I'll be okay. I'm actually
+feeling a lot better...
+Let me see you to the door.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_GEORGIA><FACE_SHOCK><FP_LEFT>Th-Thank you kindly.
+That's real sweet of you
+to offer to do that...<PAGE><FACE_POS_LEFT><FACE_GEORGIA><FACE_HAPPY><FP_LEFT>But I feel a little better.
+I'm sure I'll be be right
+as rain soon enough.<PAGE>Now let me see you off...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_REINA><FACE_SHOCK><FP_LEFT>Thank you, <MYNICKNAME>.
+It's nice of you to offer.
+<PAGE><FACE_POS_LEFT><FACE_REINA><FACE_HAPPY><FP_LEFT>But I'm already feeling
+better. I'll be okay.
+Come on, I'll see you off.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_NORI><FACE_SHOCK><FP_LEFT>Thank you, <MYNICKNAME>.
+I'm really happy you'd
+offer to do that.<PAGE><FACE_POS_LEFT><FACE_NORI><FACE_HAPPY><FP_LEFT>But I'll be fine.
+I'm already feeling better.<PAGE>I'll walk you to the
+door today. Come on.
+
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ULYSSA><FACE_SHOCK><FP_LEFT>Thanks, <MYNICKNAME>!
+You must be really worried
+about me...<PAGE><FACE_POS_LEFT><FACE_ULYSSA><FACE_NORMAL><FP_LEFT>I'm sorry I was so
+suspicious before.<PAGE>I shouldn't have jumped to
+conclusions like that...<PAGE><FACE_POS_LEFT><FACE_ULYSSA><FACE_HAPPY><FP_LEFT>Suddenly I'm feeling a lot
+better! I want to see you
+to the door today!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ALISA><FACE_SHOCK><FP_LEFT>Thank you so much, <MYNICKNAME>!
+But it's really enough for
+me that you would offer.<PAGE><FACE_POS_LEFT><FACE_ALISA><FACE_HAPPY><FP_LEFT>I'm feeling a lot better,
+so uh...could I see you
+to the door?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_DIRK><FACE_SHOCK><FP_LEFT>Thanks, <MYNICKNAME>!
+But it's enough that you'd
+offer to stay home for me.<PAGE><FACE_POS_LEFT><FACE_DIRK><FACE_HAPPY><FP_LEFT>I'm suddenly feeling a lot
+better. I'll see you off
+to work, <MYNICKNAME>.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_KID><FACE_HAPPY><FP_LEFT>Yay, you feel better!<RED>❤</COLOR>
+<PAGE>I wanna see \u2338
+off too!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_KID><FACE_HAPPY><FP_LEFT>I wanna see \u2338
+off too!!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_KID><FACE_HAPPY><FP_LEFT>I wanna see \u2338
+off too!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ASH><FACE_NORMAL><FP_LEFT>Have a good day,
+<MYNICKNAME>.
+
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_HIRO><FACE_NORMAL><FP_LEFT>Have a good day, <MYNICKNAME>.
+Good luck with your work!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_CAM><FACE_NORMAL><FP_LEFT>Have a good day,
+<MYNICKNAME>.
+
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_KANA><FACE_NORMAL><FP_LEFT>Off you go, <MYNICKNAME>.
+Have a good day!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_MIKHAIL><FACE_NORMAL><FP_LEFT>Have a good day,
+<MYNICKNAME>.
+
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_LANEY><FACE_NORMAL><FP_LEFT>Have a good day,
+<MYNICKNAME>.
+
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_GEORGIA><FACE_NORMAL><FP_LEFT>Have a good day,
+<MYNICKNAME>.
+
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_REINA><FACE_NORMAL><FP_LEFT>Have a good day,
+<MYNICKNAME>.
+
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_NORI><FACE_NORMAL><FP_LEFT>Have a good day, <MYNICKNAME>.
+Take care!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ULYSSA><FACE_NORMAL><FP_LEFT>Have a good day,
+<MYNICKNAME>.
+
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ALISA><FACE_NORMAL><FP_LEFT>Have a good day, <MYNICKNAME>.
+Take care of yourself!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_DIRK><FACE_NORMAL><FP_LEFT>Have a good day, <MYNICKNAME>.
+Now take care!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_LANEY><FACE_NORMAL><FP_LEFT>Oh, wait a minute.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_GEORGIA><FACE_NORMAL><FP_LEFT>Oh! Hold on!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_REINA><FACE_NORMAL><FP_LEFT>Oh, hold on a sec.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_NORI><FACE_NORMAL><FP_LEFT>Oh! Wait!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ULYSSA><FACE_NORMAL><FP_LEFT>Ooh!!
+Wait right there!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ALISA><FACE_NORMAL><FP_LEFT>Oh!
+One minute, please!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_LANEY><FACE_SHOCK><FP_LEFT>Have a good day...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_GEORGIA><FACE_SHOCK><FP_LEFT>Have a good day...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_REINA><FACE_SHOCK><FP_LEFT>Have a good day...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_NORI><FACE_SHOCK><FP_LEFT>Have a good day...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ULYSSA><FACE_SHOCK><FP_LEFT>Have a good day, now...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ALISA><FACE_SHOCK><FP_LEFT>Have a good day, alright?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ASH><FACE_SAD><FP_LEFT>Okay, then. Bye...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_HIRO><FACE_SAD><FP_LEFT>Very well. Bye...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_CAM><FACE_SAD><FP_LEFT>Bye, then...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_KANA><FACE_SAD><FP_LEFT>Okay, off you go, then...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_MIKHAIL><FACE_SAD><FP_LEFT>Okay. Bye, then...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_LANEY><FACE_SAD><FP_LEFT>Oh. Well, bye, then...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_GEORGIA><FACE_SAD><FP_LEFT>Well alright, then. Bye...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_REINA><FACE_SAD><FP_LEFT>Okay. Bye, then...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_NORI><FACE_SAD><FP_LEFT>Alright. Bye...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ULYSSA><FACE_SAD><FP_LEFT>...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ALISA><FACE_SAD><FP_LEFT>Okay.
+See you later...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_DIRK><FACE_SAD><FP_LEFT>Okay...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_KID><FACE_ANGRY><FP_LEFT>Boo!
+You're mean, \u2338!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_KID><FACE_ANGRY><FP_LEFT>\u2338, you're so mean!
+You could at least stay
+home for today...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_KID><FACE_ANGRY><FP_LEFT>\u2338, you're so mean...

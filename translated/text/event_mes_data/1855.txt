@@ -1,0 +1,96 @@
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>★ＥＲＲＯＲ！★</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Kamu melihat permintaanku di
+papan pesan, eh?<PAGE>Aku agak gimana ya kalau 
+mengatakan bahwa kamu dah
+terlambat kesininya.<PAGE>Aku akan memintamu di
+waktu lainnya saja, eh?<PAGE>Maaf ya membuatmu kerepotan
+datang kesini, disaat kamu
+sedang sibuk-sibuknya.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Kamu melihat permintaanku di
+papan pesan, eh?<PAGE><FACE_POS_RIGHT><FACE_SHENG><FACE_SAD>Dikarenakan hari ini sedang
+hujan, jadi tidak butuh di
+sirami lagi.<PAGE><FACE_POS_RIGHT><FACE_SHENG><FACE_NORMAL>Tapi, karena kamu sudah
+datang kesini, maka ambil
+saja hadiah ini ya, eh?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_SHENG><FACE_HAPPY><FP_RIGHT>Kamu melihat permintaanku di
+papan pesan, eh?<PAGE>Waktu itu segalanya!
+Ayo langsung kerja!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ini adalah lahanku, mungkin
+tidak seluas milikmu, eh?<PAGE>Aku ingin kamu <RED>menyiram</COLOR>
+air untukku, ngertikan?<PAGE>Jika sudah selesai, bicara
+keaku.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ini adalah lahanku, mungkin
+tidak seluas milikmu, eh?<PAGE>Aku inginkan kamu <RED>memanen</COLOR>nya
+untukku, ngerti?<PAGE>Tanaman yang akan dipanen
+secara <RED>otomatis terkirim ke
+dalam penyimpananku</COLOR>.<PAGE>Jika sudah selesai, bicara
+keaku.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>★ＥＲＲＯＲ！★</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>★ＥＲＲＯＲ！★</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>★ＥＲＲＯＲ！★</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>★ＥＲＲＯＲ！★</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_SHENG><FACE_HAPPY><FP_RIGHT>Sudah selesai kerjanya, eh?
+Baguslah.<PAGE>Sekarang lebih baik aku
+memberikan hadiahnya.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Sudah selesai kerjanya, eh?
+Baguslah.<PAGE>Tapi kamu sekarang mau mem-
+beritahukan bahwa kamu su-
+dah menyelesaikannya sebe-<PAGE>lum malam hari, oke...<PAGE><FACE_POS_RIGHT><FACE_SHENG><FACE_SAD>Mungkin aku saking cemas
+menunggumu sampai-sampai
+aku tidak bisa tidur!<PAGE>Sekarang ada kantong panda
+dikelopak mataku!<PAGE><FACE_POS_RIGHT><FACE_SHENG><FACE_NORMAL>Tapi kelihatannya lebih
+baik aku memberikanmu
+sebuah hadiah. Ayo sini.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Sudah selesai kerjanya, eh?
+Baguslah.<PAGE>Tapi seharusnya kamu datang
+dan bilang keaku sebelum
+waktunya saat ini.<PAGE>Aku mau tidur loh sekarang,
+jadi lainkali perhatikan
+jamnya, eh?<PAGE><FACE_POS_RIGHT><FACE_SHENG><FACE_NORMAL>Tapi kelihatannya lebih
+baik aku memberikanmu
+sebuah hadiah. Ayo sini.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_SHENG><FACE_HAPPY><FP_RIGHT>Sudah selesai kerjanya, eh?
+Baguslah.<PAGE><FACE_POS_RIGHT><FACE_SHENG><FACE_SAD>Tapi aku kira saat ini
+sedang hujan disaat kamu
+mau mengerjakannya.<PAGE>Maafkan aku jika kamu
+sudah kesini.<PAGE><FACE_POS_RIGHT><FACE_SHENG><FACE_NORMAL>Minimal saat ini aku akan
+memberikan sebuah hadiah
+buatmu.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, pastinya kamu telah me-
+nyelesaikannya, aku sampai
+tidak kaget, pastinya kamu<PAGE>tahu kan, <MYNAME>.
+Ini hadiahmu.
+Silahkan ambil dan pergi.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>★ＥＲＲＯＲ！★</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>★ＥＲＲＯＲ！★</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_SHENG><FACE_HAPPY><FP_RIGHT>Dan ini sedikit bonus karena 
+selesai dengan cepat.<PAGE>Tinggalkan kepada aku,
+waktu akan berbicara nanti!
+----------------------------|----------------------------------
+<FP_NONE>Kamu mendapatkan sebuah
+<VAR_1>!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Kerja bagus.
+Aku akan meminta bantuanmu
+nanti ya, kapan-kapan.
+----------------------------|----------------------------------
+<FP_NONE>Kamu telah menyelesaikan
+semua pekerjaan yang
+diminta!

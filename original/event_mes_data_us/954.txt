@@ -1,0 +1,55 @@
+<FACE_POS_RIGHT><FACE_NORI><FACE_SHY><FP_RIGHT>Umm, <MYNAME>...?
+Does this feather mean what
+I think it means?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>I'm the one that you want?<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>I'm so happy...
+So, so happy!
+Thank you!<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_SHOCK><FP_RIGHT>I've been in love with you
+for a long time. I'm so glad
+you feel the same way!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Oh, <MYNAME>!
+We have to tell my grandpa
+the good news!<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_SHOCK><FP_RIGHT>You'll come with me to see
+him, won't you?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_GOMBE><FACE_NORMAL><FP_LEFT>Ah, what's that you say?<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>We're getting married!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_GOMBE><FACE_NORMAL><FP_LEFT>I haven't cleaned out my
+ears recently, hmm?<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_SAD><FP_RIGHT>Oh, Grandpa, you can hear me
+perfectly well!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_GOMBE><FACE_NORMAL><FP_LEFT>Can't hear a thing!
+How can an old man know what
+you young folks are up to?<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_SHY><FP_RIGHT>You CAN hear us!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_GOMBE><FACE_NORMAL><FP_LEFT>Hmmm...?<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_SAD><FP_RIGHT>Grandpa, aren't you going to
+congratulate us on our
+engagement?<PAGE><FACE_POS_LEFT><FACE_GOMBE><FACE_NORMAL><FP_LEFT>Ah, of course I will, hmmm?
+Of course.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_GOMBE><FACE_NORMAL><FP_LEFT>When you leave, Nori, this
+house will be lonely without
+you, hmm? So lonely...<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>Oh, Grandpa...<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>I'll be fine, though!
+Even after you two marry,
+you'll be near. Come visit.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_GOMBE><FACE_NORMAL><FP_LEFT>Ah, hmm. What should I
+say?<PAGE><FACE_POS_LEFT><FACE_GOMBE><FACE_HAPPY><FP_LEFT>All I can do is give you two
+young folks my blessing!!<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Thanks, Grandpa Gombe!<PAGE><FACE_POS_LEFT><FACE_GOMBE><FACE_NORMAL><FP_LEFT>Ah, when will you have the
+wedding, hmm?<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT><MYNAME> and I talked about
+having it a week or so from
+now.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_GOMBE><FACE_HAPPY><FP_LEFT>Ah, ahh.<PAGE><FACE_POS_LEFT><FACE_GOMBE><FACE_NORMAL><FP_LEFT>Listen, young <MYNAME>!
+You will be very busy on
+your wedding day, hmm?<PAGE>Don't you forget to do your
+work the day before.<PAGE>Follow an old man's advice,
+hmm?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_GOMBE><FACE_HAPPY><FP_LEFT><MYNAME>!
+Be a good husband to Nori.<PAGE>She's the only thing I have
+to remind me of my wife,
+hmm? My treasure!<PAGE>This old man wants her to be
+the happiest girl in the
+world!<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_SHOCK><FP_RIGHT>Grandpa...

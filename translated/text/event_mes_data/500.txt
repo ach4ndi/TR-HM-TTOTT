@@ -1,0 +1,417 @@
+<FACE_POS_LEFT><HIDE_NAME><FACE_RUTGER><FACE_NORMAL><FP_LEFT><HIDE_FACE>Selamat pagi, <MYNAME>.
+Apa bolehkah aku masuk?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Bagaimana kegiatan yang sedang
+kamu lakukan sekarang?<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Aku membawakanmu sebuah
+hadiah istimewah untukmu,
+<MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Aku membawakanmu sebuah
+hadiah istimewah untukmu,
+<MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Aku senang untuk melihatmu
+senang dengan yang aku bawa
+ini!<PAGE>Ayo sekarang ikut denganku
+ya!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_HAPPY><FP_RIGHT><HIDE_FACE>\u232dHey!\u20d1
+\u232cTidak usah berlarian
+begitu donk!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Biarkan aku memperkenalkan
+kepadamu kepada <BLUE>Jessica</COLOR>,
+<MYNAME>!<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Dia menjalankan sebuah pe-
+ternakan disini, ya di
+Bluebell, sepertimu!<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Keluarganya juga menjalan-
+kan sebuah usaha toko dima-
+na kamu bisa membeli sesua-<PAGE>tu untuk hewan ternakmu
+dikebun.<PAGE><FACE_POS_LEFT><FACE_JESSICA><FACE_NORMAL><FP_LEFT>Senang berjumpa denganmu,
+<MYNAME>!<PAGE><FACE_POS_LEFT><FACE_JESSICA><FACE_HAPPY><FP_LEFT>Datanglah ketoko kami jika
+kamu membutuhkan binatang
+ternak atau kamu ingin<PAGE>memberikan pakan kepada
+mereka.<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Mengenai pembicaraan
+binatang ternak...<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>...Aku ingin memberikanmu
+seekor sapi dan ayam seba-
+gai hadiah kepadamu!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Aku senang bahwa kamu
+senang menerimanya!<PAGE>Sekarang kamu perlu memberi-
+kan nama mereka!
+----------------------------|----------------------------------
+Mohon masukkan sebuah nama
+untuk sapimu.
+----------------------------|----------------------------------
+Mohon masukkan sebuah nama
+untuk ayammu.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Apakah kamu ingin memakai
+<RED><VAR_1></COLOR> untuk
+ayammu itu?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Bagus! Kedua nama itu
+terdengar nama yang bagus!<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Maka aku mempersilahkan
+Jessica untuk menjelaskan
+bagaimana merawat binatang<PAGE>ternak kepadamu.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_JESSICA><FACE_NORMAL><FP_LEFT>Jadi, <MYNAME>...<PAGE>Aku akan memulai untuk men-
+jelaskan bagaimana cara me-
+rawat binatang ternak yang<PAGE>barusan kamu terima itu.
+Apakah kamu sudah siap?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Ini adalah sebuah <RED>kandang</COLOR>.<PAGE>Dimana tempat tinggal para
+binatang ternakmu seperti
+sapi dan domba.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Well? Gimana?
+Apakah ini menakjubkan?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Maka aku ijinkan kamu untuk
+menjelaskan semua hal bagai-
+mana cara merawat binatang<PAGE>ternak itu!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Pertama, mari kujelaskan ba-
+gaimana mengembalakan sapi
+mu kererumputan...<PAGE>Jika kamu berdiri didekat
+sapimu dan cobalah dorong.<PAGE>Sapimu akan bergerak di-
+arah kamu dorong itu.<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_HAPPY><FP_RIGHT>Nah disana dimana kamu akan
+membawanya disaat kamu
+ingin mengembalakannya...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>...Yup tempatnya tepaThis
+berada disini.<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_HAPPY><FP_RIGHT>Kamu tidak perlu memberikan
+pakan kepada mereka disaat
+cuacanya cerah, karena<PAGE>mereka akan mencari makan
+sendiri disekitaran rerum-
+putan disana.<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Pastikan bawa kembali ke-
+kandang disaat diluar
+sudah malam ya.<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_ANGRY><FP_RIGHT>Satu hal lagi yang harus
+diperhatikan yaitu per-
+hatikan kondisi cuacanya.<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_SAD>Jangan biarkan mereka bera-
+da diluar disaat cuacanya
+buruk.<PAGE>Jika membiarkan mereka ke-
+hujanan, mereka akan
+stress.<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Cuaca terkadang cerah di-
+saat pagi hari, tapi di-
+siang hari bisa aja hujan.<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_HAPPY><FP_RIGHT>Disaat cuacanya begitu bu-
+ruk untuk membiarkan mereka
+keluar, beri makan mereka<PAGE>dengan <RED>rumput</COLOR>.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Bawalah rumput ini...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>...Da lemparlah kedalam
+tempat kotak makan ini.<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_HAPPY><FP_RIGHT>Lalu, binatangmu akan men-
+datangi dan memakannya!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Oh, dan jika kamu menaruh
+makanannya dalam <RED>tempat
+penyimpanan</COLOR>...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>...Kamu dapat mengeluarkan-
+nya dari dispenser yang ada
+disana!<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_HAPPY><FP_RIGHT>Aku menjual makanan ternak
+(rumput) ditokoku, jadi ka-
+pan-kapan beli beberapa ya!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_HAPPY><FP_RIGHT>Tapi pertama, aku akan mem-
+berimu beberapa sebagai se-
+buah hadiah untukmu!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Satu tas dari makanan ter-
+nak ini berisi 5 makanan
+ternak, jadi kamu dapat me-<PAGE>naruh makanan itu kedalam
+tempat makanan sebanyak 10
+biji.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Sekarang, biarkan aku membe-
+ritahumu bagaimana caranya
+menjaga hewanmu tetap sehat.<PAGE>Pertama, pastikan beri ma-
+kan hewan ternakmu sekali
+sehari.<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_ANGRY><FP_RIGHT>Dan jangan lupa ajak bicara
+kepada mereka, karena mere-
+ka juga butuh teman curhat!<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Jika kamu melupakan membe-
+rikan makan atau ajak bica-
+ra, maka mereka akan stress.<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_SAD>Jika mereka terlalu stress,
+maka mereka akan gila juga.
+dan akhirnya sakit.<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Jika satu dari binatangmu
+sakit, pastikan berikan
+<RED>Obat</COLOR> ke yang bersangkutan.<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_SAD>Jika kamu membiarkan mere-
+ka sakit, maka makin lama
+kelamaan makin sakit dan...<PAGE>mati.<PAGE>Pastinya kamu tidak mengi-
+nginkannya seperti itukan?<PAGE>jadi pastikan semua hewan
+ternakmu hidup bahagia dan
+panjang umur ya.<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Tapi diingat-ingat ya...<PAGE>Sampai jauhnya kamu mera-
+watnya, mereka tidak akan
+hidup selama-lamanya...<PAGE>Oh ya kamu juga mati nanti
+kalau ajal sudah menjemput
+:v
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Kamu dapat mendapatkan susu
+dari sapi dewasa yang sehat.<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_HAPPY><FP_RIGHT>Bertemanlah, itu akan membu-
+at kualitas susunya menjadi
+lebih baik!<PAGE>Itulah kenapa kamu harus
+pastikan merawat binatang
+tiap harinya!<PAGE>Sekarang, aku ada beberapa
+hal yang ingin kuberikan ke-
+padamu. Jadi biarkan aku<PAGE>memberikannya kepadamu ya
+sebelum aku lupa!
+Maklum dah tua...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_HAPPY><FP_RIGHT>Ini sebuah <RED>milker</COLOR>!<PAGE>Gunakan ini untuk memerah
+susu dari sapimu.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_HAPPY><FP_RIGHT>Ini adalah sebuah <RED>sikat</COLOR>!
+Gunakan ini untuk membersih-
+kan binatang ternak.<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Pastikan membersihkannya ti-
+ap hari, karena mereka akan
+sakit jika terlalu dekil.<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Dan juga, biarkan aku untuk
+menjelaskan sesuatu kepada
+mu ya...<PAGE>Di layar bagian kiri atas
+ada sebuah bar biru.<PAGE>Bar itu memberitahumu se-
+berapa banyaknya <RED>Stamina</COLOR>
+yang kamu punya saat itu.<PAGE>Disaat menggunakan sebuah
+alat, <RED>itu akan mengurangi
+staminamu</COLOR>.<PAGE>Kamu akan <RED>pingsan</COLOR> jika
+bar tersebut habis.<PAGE>Jika kamu pingsan, kamu
+<RED>akan tidak bisa bekerja
+dihari kamu pingsan itu</COLOR>,<PAGE>Jadi hati-hati ya.
+semoga sang dewi dapat me-
+nolongmu.<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_HAPPY><FP_RIGHT>Namun, kamu dapat mengem-
+balikan staminamu dengan
+memakan sesuatu.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Ini adalah kandang ayam.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_RUTGER><FACE_NORMAL><FP_LEFT>Kandang ayam ini cukup menak-
+jubkan juga, benar kan?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Ini ada beberapa dasar-dasar
+bagaimana cara merawat
+ayammu.<PAGE>Taruh ayammu diluar disaat
+cuacanya cerah, ini seperti
+halnya dengan sapimu.<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_HAPPY><FP_RIGHT>Jika kamu melakukannya, me-
+reka akan mencari makanan-
+nya sendiri!<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Tinggal bawa saja ayamu ke-
+tempat terpagar diluar.<PAGE>Ya disini tempatnya yang
+harus kamu taruh ayammu di-
+luar...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_HAPPY><FP_RIGHT>Ya disini tempatnya!<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Seperti halnya sapi, pasti-
+kan masukkan kembali ayammu
+kekandangnya disaat malam.<PAGE>Diingat-ingat ya! Jangan
+membiarkan mereka disaat
+cuacanya seburuk mantanmu!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Disaat cuacanya terlalu bu-
+ruk untuk membiarkan ayammu
+berada diluar, berikan saja<PAGE><RED>pakan ayam</COLOR>.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_HAPPY><FP_RIGHT><RED>Ditempat itu</COLOR> dimana
+pakan ayam itu disebarkan.<PAGE>Seperti halnya dengan makan-
+an sapi, jika kamu taruh
+pakan ayam di <RED>penyimpanan</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Seperti halnya dengan makan-
+an sapi, jika kamu taruh
+pakan ayam di <RED>penyimpanan</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_HAPPY><FP_RIGHT>...Kamu dapat mengeluarkan-
+nya dari dispenser yang ada
+disana!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_HAPPY><FP_RIGHT>Biarkan aku memberimu bebe-
+rapa pakan ayam untuk pem-
+bukaan perkebunanmu ya!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_HAPPY><FP_RIGHT>Satu tas pakan ayam berisi-
+kan 5 makanan.<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Itu artinya diwadah pakan
+ayamnya bisa menampung 10
+makanan.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_HAPPY><FP_RIGHT>Disaat ayammu masih sehat,
+mereka akan menghasilkan se-
+buah <RED>telur</COLOR>!<PAGE>Semakin dekat kedekatanmu
+dengan ayam, semakin bagus
+kualitas ayam yang didapat!<PAGE>Itulah kenapa pastikan se-
+lalu merawat dengan baik
+disetiap hewan ternakmu<PAGE>tiap hari tiap saat!
+dan itulah semua dasar-
+dasar merawat seekor ayam!<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_HAPPY><FP_RIGHT>Kamu juga harus memberikan
+ayammu sebuah <RED>treat</COLOR> untuk
+menjadikannya lebih dekat!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_HAPPY><FP_RIGHT>Ini ada beberapa <RED>treat</COLOR>.
+Berikan itu beberapa kepada
+binatangmu nanti.<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Kamu hanya dapat memberikan
+itu kepada hewan ternakmu
+<RED>hanya sekali sehari ya</COLOR>.<PAGE>Binatang menyukai beberapa
+jenis-jenis treat yang ber-
+beda, jadi cobain satu2 ya!<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_HAPPY><FP_RIGHT>Jika kamu memberikan treat
+yang disukai, mereka akan
+memberikan lebih banyak<PAGE>susu dan telur daripada
+biasanya mereka produksi!<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Dan itu semua dasar-dasar
+yang perlu kamu ketahui.
+mengenai merawat binatang!<PAGE><FACE_POS_LEFT><FACE_RUTGER><FACE_NORMAL><FP_LEFT>Itu cukup detail!
+Makasih, Jessica!<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_HAPPY><FP_RIGHT>Hahaha aku sunggu malu...
+hehehe
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_RUTGER><FACE_NORMAL><FP_LEFT>Maka dari itu, kami akan
+kembali...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Oh tidak! Aku melupakan se-
+suatu kepadamu yang penting
+itu!<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_HAPPY><FP_RIGHT>Disaat binatangmu sudah
+<RED>dewasa</COLOR>, mereka dapat
+<RED>memiliki bayi</COLOR>!<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Oh ya, binatang yang aku
+kasih kepadamu itu sudah
+dewasa.<PAGE>Mereka dapat memiliki bayi
+jika kamu inginkan.<PAGE>Jika kamu ingin binatangmu
+memiliki bayi, datang
+saja ketokoku.<PAGE>Aku akan <RED>membawanya dalam
+waktu 2 minggu.</COLOR><PAGE>Tapi ingat, hanya <RED>yang sehat</COLOR>
+yang bisa memiliki bayi!<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_HAPPY><FP_RIGHT>Dan juga mereka tidak akan
+kotor.<PAGE>Jadi pastikan sebelum ke-
+toko, bersihkan dulu ya.<PAGE><FACE_POS_LEFT><FACE_RUTGER><FACE_NORMAL><FP_LEFT>Dan itulah bagaimana kamu
+bisa memiliki bayi
+binatang!<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_HAPPY><FP_RIGHT>Aku akan kembali ketoko-
+ku sekarang!<PAGE>Kamu bakalan banyak yang
+harus dikerjakan!<PAGE>Semoga beruntung,
+<MYNAME>!
+----------------------------|----------------------------------
+<CHOICE_AB> Tolong jelasken.
+ Aku dah tahu.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_JESSICA><FACE_HAPPY><FP_LEFT>Serahkan kepadaku! Aku akan
+menjelaskan semuanya!<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Kedengarannya bagus!
+Mari kita menuju ke
+kandangnya!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_JESSICA><FACE_HAPPY><FP_LEFT>Baguslah!<PAGE><FACE_POS_LEFT><FACE_JESSICA><FACE_NORMAL><FP_LEFT>Biarkan aku memberikanmu
+appaun kebutuhan untuk mera-
+wat mereka kalau gitu!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_JESSICA><FACE_NORMAL><FP_LEFT>Ini ada beberapa <RED>fodder</COLOR>.
+Taruh kedalam penyimpananmu.
+Satu tas isinya 5 makanan.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_JESSICA><FACE_NORMAL><FP_LEFT>Ini ada sebuah <RED>pemerah</COLOR>.
+Gunakan ini untuk mendapat-
+kan susu dari sapimu!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_JESSICA><FACE_NORMAL><FP_LEFT>Ini ada sebuah <RED>sikat</COLOR>.
+Gunakan ini untuk membuat
+ternakmu selalu bersih.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_JESSICA><FACE_NORMAL><FP_LEFT>Ini ada beberapa <RED>makanan ayam</COLOR>.
+Taruh kedalam penyimpanan.
+Satu tas berisi 5 makanan.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_JESSICA><FACE_NORMAL><FP_LEFT>Ini ada beberapa <RED>treats</COLOR>.
+Binatang sangat suka itu
+loh.<PAGE><FACE_POS_LEFT><FACE_JESSICA><FACE_HAPPY><FP_LEFT>Dan itulah semua hal yang
+perlu kamu ketahui!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_HAPPY><FP_RIGHT>Disaat binatangmu sudah
+<RED>dewasa</COLOR>, mereka dapat
+<RED>memiliki bayi</COLOR>!<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Oh ya, binatang yang aku
+kasih kepadamu itu sudah
+dewasa.<PAGE>Mereka dapat memiliki bayi
+jika kamu inginkan.<PAGE>Jika kamu ingin binatangmu
+memiliki bayi, datang
+saja ketokoku.<PAGE>Aku akan <RED>membawanya dalam
+waktu 2 minggu.</COLOR><PAGE>Tapi ingat, hanya <RED>yang sehat</COLOR>
+yang bisa memiliki bayi!<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_HAPPY><FP_RIGHT>Dan juga mereka tidak akan
+kotor.<PAGE>Jadi pastikan sebelum ke-
+toko, bersihkan dulu ya.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Apakah nama ini, <RED><VAR_0></COLOR>.
+Ingin kamu gunakan untuk
+memanggil sapimu?
+----------------------------|----------------------------------
+<CHOICE_AB> Ya! Itu benar!
+ Uh aku berubah pikiran.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Dan itulah caranya kamu bisa
+mempunyai seekor bayi bina-
+tang!<PAGE><FACE_POS_LEFT><FACE_JESSICA><FACE_HAPPY><FP_LEFT>Oke, aku akan kembali ke
+tokoku sekarang!<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Terima kasih, jessica!
+Nanti tagihannya akan ku-
+kirim.<PAGE><FACE_POS_LEFT><FACE_JESSICA><FACE_NORMAL><FP_LEFT>Jangan diingatkan lagi ya!
+Aku masih inget kok :v<PAGE>Oh kamu bakalan banyak
+pekerjaan yang harus diker-
+jakan kedepannya!<PAGE>Semoga beruntung,
+<MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Maaf, sudah membuatmu menu-
+nggu.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_RUTGER><FACE_NORMAL><FP_LEFT>Ada satu hal lagi yang
+ingin aku beritahukan kepa-
+da kamu.<PAGE>Disaat kamu mendapatkan
+telur dan susu, kamu bisa
+<RED>makan atau memasaknya,</COLOR><PAGE>atau...<PAGE><FACE_POS_LEFT><FACE_RUTGER><FACE_HAPPY><FP_LEFT>Kamu dapat <RED>menjualnya
+dan mendapatkan uangnya</COLOR>!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_RUTGER><FACE_NORMAL><FP_LEFT>Sekarang mari kutunjukan di-
+mana tempan penjualannya be-
+rada. Ikuti aku ye..
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_RUTGER><FACE_NORMAL><FP_LEFT>Ini adalah <RED>Tempat Jual</COLOR>
+Desa Bluebell.<PAGE>Dekati disekitar Tempat
+Jual dan tekan <RED>Tombol A</COLOR> 
+dan layar Tempat Jual akan<PAGE>muncul dilayar bawah.<PAGE><FACE_POS_LEFT><FACE_RUTGER><FACE_HAPPY><FP_LEFT>Tinggal taruh susu atau ba-
+rang lainnya yang ingin di-
+jual.<PAGE>Apakah ini sangat mudah?<PAGE><FACE_POS_LEFT><FACE_RUTGER><FACE_NORMAL><FP_LEFT>Tapi awas, karena kamu ti-
+dak akan dapat mengambil
+kembali disaat kamu jual<PAGE>barangmu di Tempat Jual.<PAGE><FACE_POS_LEFT><FACE_RUTGER><FACE_HAPPY><FP_LEFT>Uang yang kamu dapatkan
+dari barang yang dijual
+akan dikirimkan kerumahmu<PAGE>keesok pagi harinya.<PAGE><FACE_POS_LEFT><FACE_RUTGER><FACE_NORMAL><FP_LEFT>Jadi gunakan Tempat Jual
+ini sesukamu!<PAGE>Kamu dapat menjual apapun
+yang kamu temukan dipegu-
+nungan disekitar sini.<PAGE>Kamu dapat mencari jenis
+apapun dipegunungan.<PAGE><FACE_POS_LEFT><FACE_RUTGER><FACE_HAPPY><FP_LEFT>Rembung, jamur shimeji,
+walnut, dan herbal...<PAGE>Pegunungan itu penuh
+dengan hal-hal yang
+mengenakkan!<PAGE>Kamu dapat menemukan ba-
+nyak barang, jadi kamu
+bisa membawa <RED>gerobakmu</COLOR><PAGE>disaat kamu kesana.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_RUTGER><FACE_NORMAL><FP_LEFT>Hmm? Apakah hanya disini aja
+Tempat Jual yang ada?
+Kamu tanya gitu?<PAGE>Eh... memang ini satu-satu-
+nya Tempat Jual di
+Desa Bluebell.<PAGE>Tapi aku inget ada satu
+lagi di <BLUE>Desa Konohana</COLOR>.<PAGE>Warga desa dari salah satu
+desa dapat menggunakannya.
+Jadi gunakan saja hehe.<PAGE>Aku pikir tepat disana di-
+saat kamu menuruni pegu-
+nungan.<PAGE>Aku yakin disaat para war-
+gra melihat susu dan telur
+diTempat Jual,<PAGE><FACE_POS_LEFT><FACE_RUTGER><FACE_HAPPY><FP_LEFT>Mereka akan mengambilnya
+dan memandang desa kita
+menghasilkan produk bagus!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_RUTGER><FACE_HAPPY><FP_LEFT>Dan itu semuanya yang membu-
+at permintaanku dari papan
+permintaan terpenuhi!<PAGE>Oh, dan aku telah memberi-
+kanmu sebuah hadiah kedalam
+tempat penyimpananmu.<PAGE><FACE_POS_LEFT><FACE_RUTGER><FACE_NORMAL><FP_LEFT>Aku akan menaruh permintaan
+lainnya dipapan, jadi coba-
+lah melihatnya ya.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_RUTGER><FACE_NORMAL><FP_LEFT>Jika kamu lupa mengenai
+permintaan itu, kamu bisa
+melihat di<RED>rak buku balai</COLOR><PAGE><RED>desa</COLOR>.<PAGE>Kamu dapat juga menemukan
+dimana rumah para warga
+desa terlihat.<PAGE>Itu sangat berguna jika
+kamu ingin mengetahui tem-
+pat tinggal para peminta<PAGE>bantuan.<PAGE>balai desa hari ini tutup,
+Jadi kamu bisa mengunjungi-
+nya besok ya.<PAGE>Oke, kalau gitu sampai
+jumpa lagi ya,
+<MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Dan itulah dasar-dasar ba-
+gaimana merawat sapimu.<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_HAPPY><FP_RIGHT>Mari aku jelaskan bagaimana
+cara merawat ayam ya
+selanjutnya!

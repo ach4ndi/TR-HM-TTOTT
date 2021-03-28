@@ -1,0 +1,725 @@
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>The warmth of spring feels
+so, so, SOOOO GOOD!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>Spring is nice!
+That warm, warm sun on
+your skin!<RED>❤</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>The cherry blossoms are
+almost in full bloom.<PAGE><FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>Time for picnicking!<PAGE>And dumplings!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>Eureka!!<PAGE><FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>I thought of a new
+experiment!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>Every day is so hot now!<PAGE><FACE_POS_RIGHT><FACE_ULYSSA><FACE_SAD><FP_RIGHT>I don't do well in the heat.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_SHY><FP_RIGHT>It's so hot...<PAGE><FACE_POS_RIGHT><FACE_ULYSSA><FACE_SAD><FP_RIGHT>I want to eat something
+cold and refreshing...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_ANGRY><FP_RIGHT>\u20d0IT'S TOO HOT!!!<PAGE><FACE_POS_RIGHT><FACE_ULYSSA><FACE_SHY><FP_RIGHT>I wish snow would fall in
+summer to cool things down.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>Long ago, I made a firework
+and launched it into the
+summer night sky!<PAGE><FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>WHOOOOOOOSSSSHHHH!!<PAGE>KA-BA-DA-BA-DA-DOOM!!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>Finally the heat has let
+up.<PAGE>Now I can fully concentrate
+on my experiments.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>The weather is much more
+comfortable these days.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_SAD><FP_RIGHT>\u20d0ACHOOO!!<PAGE>......<PAGE><FACE_POS_RIGHT><FACE_ULYSSA><FACE_SHY><FP_RIGHT>Ugh.
+Recently I've been getting
+chills morning and evening.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>The weather is much more
+comfortable these days.<PAGE>Oh, that's right!
+I need to get ready for my
+experiment!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_ANGRY><FP_RIGHT>It's cold.<PAGE><FACE_POS_RIGHT><FACE_ULYSSA><FACE_SHY><FP_RIGHT>So cold I feel like I'm
+gonna freeze to death.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>All this cold weather.<PAGE><FACE_POS_RIGHT><FACE_ULYSSA><FACE_SHY><FP_RIGHT>The hardest part is getting
+up in the morning.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>On cold days, I stay snug
+in my house doing
+experiments.<PAGE><FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>Could you come over and help
+me?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>It's really cold today.
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_SHY><FP_RIGHT>I don't do well in the cold.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>When the weather's nice,
+I feel like singing!<PAGE><FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>Okey-dokey!
+You have to sing along
+with me!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>I love nice days like this!<PAGE><FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>It makes me feel like my
+experiments will go well.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>The weather is so fickle
+these days.<PAGE><FACE_POS_RIGHT><FACE_ULYSSA><FACE_SHY><FP_RIGHT>Just when I think it's
+going to be sunny, it starts
+raining...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>Once, I tried to test
+whether you could climb
+on a rainbow!<PAGE><FACE_POS_RIGHT><FACE_ULYSSA><FACE_SHY><FP_RIGHT>Unfortunately, it ended in
+failure...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>It's pouring rain today.<PAGE><FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>I guess my rainmaking
+experiment yesterday worked!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>It's coming down in buckets!<PAGE><FACE_POS_RIGHT><FACE_ULYSSA><FACE_SHY><FP_RIGHT>I hate this soaking wet
+weather...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_SHY><FP_RIGHT>I hate how easy it is to
+slip on rainy days.<PAGE><FACE_POS_RIGHT><FACE_ULYSSA><FACE_ANGRY><FP_RIGHT>The other day, I slipped and
+fell down.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_SHY><FP_RIGHT>It's raining heavily...
+Rainy days make me want to
+just laze around at home.<PAGE><FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>Of course, I like lazing
+around on clear days, too.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>It's snow...SNOW!!<PAGE><FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>What a treat!<PAGE>Chilly-willy snow...!<PAGE>Okey-dokey!!
+You have to make a snowman
+with me!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_SHY><FP_RIGHT>There's not enough snow to
+make a snowman!<PAGE><FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>Let's make snow angels!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_SAD><FP_RIGHT>Definitely, definitely...<PAGE>I need to do an experiment
+to make it snow when the
+weather's hot...<PAGE><FACE_POS_RIGHT><FACE_ULYSSA><FACE_ANGRY><FP_RIGHT>It's a shame for the fun of
+playing in the snow to be
+limited to winter only!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>Snow's falling thick and
+fast.<PAGE><FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>If enough accumulates,
+we'll be able to make
+snowmen!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ULYSSA><FACE_SHY><FP_LEFT>.........<PAGE><FACE_POS_LEFT><FACE_ULYSSA><FACE_ANGRY><FP_LEFT>I don't like it here.
+Not one bit! Let's go
+someplace else.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ULYSSA><FACE_SHY><FP_LEFT>.........<PAGE><FACE_POS_LEFT><FACE_ULYSSA><FACE_ANGRY><FP_LEFT>It's too slippery here, so
+I don't like it...<PAGE>A long time ago, I fell down
+and spilled an experiment
+all over myself.<PAGE><FACE_POS_LEFT><FACE_ULYSSA><FACE_SAD><FP_LEFT>I don't like to be reminded
+of that incident...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>Today was a lot of fun!<PAGE>You have to talk to me
+again sometime.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>Time to go home.
+Be careful on your way.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ULYSSA><FACE_SHY><FP_LEFT>I'm going home for today.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>Today was so much fun, fun,
+FUN!!<PAGE>I can't wait to spend time
+with you again like this,
+<MYNICKNAME>!<RED>❤</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>It's FUN to be with you!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>It's FUN to be with you!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>It's FUN to be with you!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>It's FUN to be with you!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>It's FUN to be with you!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>It's FUN to be with you!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>It's FUN to be with you!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>It's FUN to be with you!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>It's FUN to be with you!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>It's FUN to be with you!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>It's FUN to be with you!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>It's FUN to be with you!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>It's FUN to be with you!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>It's FUN to be with you!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>It's FUN to be with you!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>It's FUN to be with you!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>I say animals are great!<PAGE><FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>You have to raise more
+animals!!<PAGE>Especially fluffy ones!
+More and more and MORE!!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>I say animals are great!<PAGE><FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>Your farm has lots of
+animals now.<PAGE>But still not ENOUGH!
+Get more and more and MORE
+fluffy-wuffy animals!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>I say animals are great!<PAGE>You're raising a whole BUNCH
+of animals on your farm!<PAGE><FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>You're the real deal animal
+lover!<PAGE><FACE_POS_RIGHT><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>How many fluffy-wuffy
+animals do you have in all?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>So you collect bugs and
+frogs?<PAGE>.........<PAGE><FACE_POS_RIGHT><FACE_ULYSSA><FACE_SHY><FP_LEFT>Hmmm.
+I don't know much about bugs
+and frogs.<PAGE><FACE_POS_RIGHT><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>When you learn more about
+them, tell me, too!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>So you collect bugs and
+frogs?<PAGE>.........<PAGE><FACE_POS_RIGHT><FACE_ULYSSA><FACE_SHY><FP_RIGHT>Hmmm.
+Looks like you've collected
+a bunch...<PAGE>...But I don't know much
+about those critters.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>So you collect bugs and
+frogs?<PAGE>.........<PAGE><FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>Woohoo! You have TONS of
+them!<PAGE>I don't know bugs and frogs,
+but I know you're doing a
+great job!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>So you keep track of all the
+fish you catch?<PAGE>.........<PAGE><FACE_POS_RIGHT><FACE_ULYSSA><FACE_SHY><FP_RIGHT>Hmmm.
+I don't know much about
+fish.<PAGE><FACE_POS_RIGHT><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>When you learn more about
+them, tell me, too!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>So you keep track of all the
+fish you catch?<PAGE>.........<PAGE><FACE_POS_RIGHT><FACE_ULYSSA><FACE_SHY><FP_RIGHT>Hmmm.
+Looks like you've collected
+a bunch...<PAGE>...But I don't know much
+about those things.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>So you keep track of all the
+fish you catch?<PAGE>.........<PAGE><FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>Woohoo! You have TONS of
+them!<PAGE>I don't know fish at all,
+but I know you're doing a
+great job!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>So you're supposed to be
+some kind of genius at
+making new recipes?<PAGE>.........<PAGE>It doesn't look like you've
+done much at all.<PAGE>Come up with some more and
+then show them to me.<PAGE>\u270b<FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>Ones that you've made...<RED>❤</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>So you're supposed to be
+some kind of genius at
+making new recipes?<PAGE>.........<PAGE><FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>Woohoo!
+Looks like you've come up
+with a lot!<PAGE><FACE_POS_RIGHT><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>If you have this many
+recipes, it means...<PAGE><FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>Whenever I'm hungry, I'll
+have you make something
+delicious for me!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>So you're supposed to be
+some kind of genius at
+making new recipes?<PAGE>.........<PAGE><FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>Woohoo!!
+Just look at all the recipes
+you've come up with!<PAGE>It's fabulous! Now I can
+have you make me my favorite
+foods any time I want!<RED>❤</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>It's FUN to be with you!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>It's FUN to be with you!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>It's FUN to be with you!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>It's FUN to be with you!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>It's FUN to be with you!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>It's FUN to be with you!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>It's FUN to be with you!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>It's FUN to be with you!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>It's FUN to be with you!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>It's FUN to be with you!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>It's FUN to be with you!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>It's FUN to be with you!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>It's FUN to be with you!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>It's FUN to be with you!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>It's FUN to be with you!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>It's FUN to be with you!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>It's FUN to be with you!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>It's FUN to be with you!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>It's FUN to be with you!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>It's FUN to be with you!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>It's FUN to be with you!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>It's FUN to be with you!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>It's FUN to be with you!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>It's FUN to be with you!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>It's FUN to be with you!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>It's FUN to be with you!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>It's FUN to be with you!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>It's FUN to be with you!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>It's FUN to be with you!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>It's FUN to be with you!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>It's FUN to be with you!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>It's FUN to be with you!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>It's FUN to be with you!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>It's FUN to be with you!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>It's FUN to be with you!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>It's FUN to be with you!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>It's FUN to be with you!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>It's FUN to be with you!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>It's fun to do experiments!<PAGE><FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>You have to come and attend
+my experiments sometime!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>This seems like a nice
+place.<PAGE><MYNAME>, what's your
+favorite place to go?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT><MYNAME>! <MYNAME>!
+Whenever you see me you have
+to greet me!!<PAGE><FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>And I'll greet you back if
+I'm not too busy.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>Recently I snuck into the
+village to get ingredients.<PAGE><FACE_POS_RIGHT><FACE_ULYSSA><FACE_SHY><FP_RIGHT>I just don't like being
+anywhere that people are
+around to see me.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT><MYNAME>, where oh where
+are you from?<PAGE>I'm from...\u270b
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>...it's a secret!<RED>❤</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>It's fun to do experiments!<PAGE>I just love the thrills and
+chills and spills!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>I just don't like being
+where people can see me...<PAGE><FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>But this is a nice place.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT><MYNAME>, when I talk
+with you, I have "Eureka!"
+moments.<PAGE><FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>Okey-dokey!
+Now it's your turn to
+compliment me!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>Recently I snuck into the
+village to get ingredients.<PAGE>Some muscle-bound guy gave
+me a dessert.<PAGE><FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>He seemed like a sharp guy.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT><MYNAME>, is there
+any girl out there you like?<PAGE><FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>I'm older and wiser than
+you, so you can come to me
+for advice about anything!<PAGE>Ahem!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>A long time ago, a kid asked
+me to turn his house into a
+dessert!<PAGE><FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>He was so happy that he ate
+it right up!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>This is a nice, quiet place.<PAGE><FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>I can come up with a lot
+of ideas for experiments
+here.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_SHY><FP_RIGHT><MYNAME>, you never throw
+things in the river, do you?<PAGE><FACE_POS_RIGHT><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>It might be fun to toss in
+some old, worn-out thing...<PAGE>But no matter how much you
+might enjoy tossing things
+in the river...<PAGE><FACE_POS_RIGHT><FACE_ULYSSA><FACE_SHY><FP_RIGHT>IT'S WRONG! There's never
+an excuse for polluting!
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>Recently, I snuck into the
+village to get ingredients.<PAGE><FACE_POS_RIGHT><FACE_ULYSSA><FACE_SHY><FP_RIGHT>And a girl with glasses
+patted me on the head for
+some reason...<PAGE><FACE_POS_RIGHT><FACE_ULYSSA><FACE_ANGRY><FP_RIGHT>GRRRRrrrrggghhh!!!
+She made a fool out of me!<PAGE>Why would she treat me
+like a child?
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT><MYNAME>, which of the two
+villages do you like better?<PAGE>Hmmm, well...<PAGE><FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>Of course you prefer the
+one you're living in now.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>A long time ago, a kid asked
+me to make the well produce
+juice!<PAGE>The kids loved it, and it
+was fun for me, but...<PAGE><FACE_POS_RIGHT><FACE_ULYSSA><FACE_SHY><FP_RIGHT>When I thought it over, the
+water supply becoming juice
+must have caused trouble.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT><MYNAME>, do you like
+this place?<PAGE><FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>I wanted to come here today
+too.<PAGE>So now I'm happy!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT><MYNAME>,
+I like presents!<PAGE>It makes me happy when
+somebody gives me something!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>Recently, I snuck into the
+village to get ingredients.<PAGE>For some reason, a guy with
+a mustache showed me a magic
+trick.<PAGE><FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>He made a pigeon fly out of
+a hat!<PAGE>It was a great trick.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT><MYNAME>,
+do you like me?<PAGE><FACE_POS_RIGHT><FACE_ULYSSA><FACE_SHY><FP_RIGHT>Hmmmm???<PAGE>Aren't you going to say
+anything?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_SHY><FP_RIGHT>A long time ago, I made a
+mistake in an experiment to
+multiply mushrooms...<PAGE>It blew up my house, but...<PAGE><FACE_POS_RIGHT><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>The accident happened to
+create steamed mushrooms!<PAGE><FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>The steamed mushrooms were
+absolutely delicious!<PAGE>It was a lesson that
+mistakes aren't always all
+bad!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>Whenever I come here, I
+think about old times.<PAGE><FACE_POS_RIGHT><FACE_ULYSSA><FACE_SAD><FP_RIGHT>I mean REALLY old times...
+No, don't worry about it...<PAGE><FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>Well, time to start a new
+experiment!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>How's your work going?<PAGE>It's nice that you're so
+diligent in your work, but
+come talk to me sometimes.<PAGE><FACE_POS_RIGHT><FACE_ULYSSA><FACE_SAD><FP_RIGHT>If you don't come around,
+I feel lonely.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>The village is a more fun
+place than I thought.<PAGE><FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>The villagers are very kind
+too.<PAGE>And you can get some really
+delicious food there!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_ANGRY><FP_RIGHT>I've taken a liking to you.<PAGE>I just can't help it!<PAGE><FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>So you're my first choice to
+experiment on!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>I'm an alchemist!<PAGE>If you want to make
+something, come to me!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>It's nice to get out and
+talk to people sometimes.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>Recently I've befriended
+lots of forest animals.<PAGE><FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>They seem to be very curious
+about my experiments.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>Recently, I snuck into the
+village for an experiment.<PAGE><FACE_POS_RIGHT><FACE_ULYSSA><FACE_SAD><FP_RIGHT>I don't like to go to small
+towns because I stand
+out...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT><MYNAME>, since you're here,
+you have to try the latest
+results of my alchemy.<PAGE><FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>Okey-dokey? Saying no is
+NOT an option!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>With alchemy, you have to
+have a feel for what
+you're making!<PAGE>Anyway...<PAGE><FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>Whatever I do with alchemy
+comes out tippy-tip-TOP!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>Being out in the fresh air
+gives me "Eureka!" moments
+for new things to make.<PAGE><FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>Ahhhhhh.......
+Woooooooo.....<PAGE>TA-DA!
+Eureka!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>Recently, I've befriended
+lots of forest animals.<PAGE>I feed them and they come
+to me happily.<PAGE><FACE_POS_RIGHT><FACE_ULYSSA><FACE_SHY><FP_RIGHT>Some animals I like, and
+some I don't...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>Recently, I snuck into the
+village for an experiment.<PAGE><FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>For some reason, this guy
+who looked like a bandit
+gave me some fruit.<PAGE>He looked like a pretty
+sharp guy.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT><MYNAME>, since you're here,
+you have to try the latest
+results of my alchemy.<PAGE><FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>When you feel tired, take
+this!<PAGE>My special recipe...
+<RED>stamina booster!</COLOR><PAGE>Drink up!
+Drinky drink up!<PAGE>Gulp, gulp, GULP it down!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>Unfortunately, my alchemy
+can't do the cleaning up...<PAGE><FACE_POS_RIGHT><FACE_ULYSSA><FACE_SHY><FP_RIGHT>I can make things, but I
+just hate cleaning...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT><MYNAME>, it's fun, fun, FUN
+to talk to you!<PAGE>How can you be such good
+company?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>Recently, I've befriended
+lots of forest animals.<PAGE><FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>When I pet them, they are
+so happy!<PAGE>Woohoo!
+And they're so cute!<RED>❤</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>Recently, I snuck into the
+village for an experiment.<PAGE><FACE_POS_RIGHT><FACE_ULYSSA><FACE_SHY><FP_RIGHT>A guy with a stethoscope
+thought I was a little lost
+girl...<PAGE><FACE_POS_RIGHT><FACE_ULYSSA><FACE_ANGRY><FP_RIGHT>Grrrrr!!
+He made a fool of me!
+<PAGE>He was more lost than I was!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT><MYNAME>, since you're here,
+you have to try the latest
+results of my alchemy.<PAGE><FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>If you don't want to get too
+tired, take this!<PAGE>My special recipe...
+<RED>stamina saver!</COLOR><PAGE>Okey-dokey!
+Gulp, gulp, GULP it down!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>In alchemy, there are
+various sub-specialties.<PAGE><FACE_POS_RIGHT><FACE_ULYSSA><FACE_SHY><FP_RIGHT>Even a great Oracle like
+myself struggles with the
+dark art of cleaning up!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>When I'm in a quiet place,
+I get ideas for new
+experiments.<PAGE>...?!<PAGE><FACE_POS_RIGHT><FACE_ULYSSA><FACE_ANGRY><FP_RIGHT>Eureka!<PAGE><FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>For my next experiment, I'll
+turn you into a mouse!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>Recently, I've befriended
+lots of forest animals.<PAGE><FACE_POS_RIGHT><FACE_ULYSSA><FACE_SHY><FP_RIGHT>The other day when I was
+walking on the mountain,
+they brought me a present!<PAGE><FACE_POS_RIGHT><FACE_ULYSSA><FACE_SHOCK><FP_RIGHT>I went ahead and accepted
+it...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>Recently, I snuck into the
+village for an experiment.<PAGE>For some reason, a girl
+there fixed the frayed hem
+on my skirt.<PAGE>Hmmm.<PAGE><FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>She did a good job, too!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT><MYNAME>, since you're here,
+you have to try the latest
+results of my alchemy.<PAGE><FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>When you want to catch fish
+easily, take this!<PAGE>My special recipe...
+<RED>angler's dream!</COLOR><PAGE>You'll catch 'em left and
+right!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_SHY><FP_RIGHT>Uuuggghhhhh....<PAGE>When an experiment goes
+wrong, I feel down in
+the dumps...<PAGE>I've made mistakes over and
+over and OVER recently!<PAGE><FACE_POS_RIGHT><FACE_ULYSSA><FACE_SAD><FP_RIGHT>What's wrong with me?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>This is a nice place.<PAGE>It's near my home, so I can
+come here whenever something
+is bothering me.<PAGE>I can just relax and enjoy
+the outdoors.<PAGE>You always choose well,
+<MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>The mountain animals are
+so cute!<PAGE>You have to spend some time
+getting to know them, too!<PAGE>They'll be so, so, SOOO
+happy!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>I find myself surprisingly
+attached to the village.<PAGE>And people in general are
+just so interesting.<PAGE><FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>I'm going to find something
+new to experiment on!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT><MYNAME>, since you're here,
+you have to try the latest
+results of my alchemy.<PAGE><FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>Take this and you'll make
+friends with the animals!<PAGE>My special recipe...
+<RED>wild animal friend!</COLOR><PAGE>This is a good one!
+I just KNOW it will work!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>Sometimes I run into weird
+people up on the mountain.<PAGE>The other day I saw a
+muscle-bound guy who was
+super sweet and friendly.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>In my place I have all the
+very best equipment for
+experiments!<PAGE><FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>What do you think?
+Very, very, VERY impressive,
+isn't it?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>Since you came all this way
+to my house, you have to be
+my experimental guinea pig!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>When you do experiments,
+mistakes will happen.<PAGE>If you give up just because
+of a mistake, you'll never
+make any progress.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT><MYNAME>, <MYNAME>, <MYNAME>!<PAGE>Yooouuuuu...\u270b
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>...are a really interesting
+person.<PAGE>You're a lot, lot, LOT of
+fun to talk to.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>Sometimes I run into weird
+people up on the mountain.<PAGE>The other day, I saw two
+men wearing the strangest,
+most colorful hats.<PAGE>They were hauling a big load
+in a cart.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_SHY><FP_RIGHT><MYNAME>, stay away from
+that pot over there!<PAGE><FACE_POS_RIGHT><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>I'm making a potion to
+turn people into frogs!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT><MYNAME>, this potion is
+a really good one!<PAGE><FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>It will make you grow so
+big, you could straddle the
+mountain!<PAGE>The effect lasts three
+minutes.
+Try it!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>When you do experiments,
+mistakes will happen.<PAGE><FACE_POS_RIGHT><FACE_ULYSSA><FACE_SHY><FP_RIGHT>The other day, I
+accidentally blew the roof
+off my house.<PAGE><FACE_POS_RIGHT><FACE_ULYSSA><FACE_SAD><FP_RIGHT>That's going to be a problem
+if it rains...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT><MYNAME>, <MYNAME>, <MYNAME>!<PAGE>Yooouuuuu...\u270b
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>...are a really GOOD
+person.<PAGE>You have to tell me more of
+your funny stories!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>Sometimes I run into weird
+people up on the mountain.<PAGE><FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>The other day, I aw a guy
+who looked like a pirate.<PAGE>With that eye patch, he was
+DEFINITELY a pirate!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>I like to relax at home.<PAGE><FACE_POS_RIGHT><FACE_ULYSSA><FACE_SHY><FP_RIGHT>What's that, <MYNAME>...?<PAGE>You want to help me with
+my experiments? Ss that it?<PAGE><FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>Woohoo!
+Okey-dokey, then!<PAGE>I will demonstrate the
+incredible genius of my
+experiments!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT><MYNAME>, these potions
+are really interesting!<PAGE><FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>The blue one turns you into
+an adult, and the red one
+turns you into a kid.<PAGE>How about it? You must be so
+curious! Try it!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT><MYNAME>, do you notice
+anything different about me?<PAGE>...<PAGE><FACE_POS_RIGHT><FACE_ULYSSA><FACE_SAD><FP_RIGHT>Hmmm. Shoot.<PAGE><FACE_POS_RIGHT><FACE_ULYSSA><FACE_SHY><FP_RIGHT>I took a potion to turn
+myself invisible, but I
+guess it didn't work.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT><MYNAME>, <MYNAME>, <MYNAME>!<PAGE>Yooouuuuu...\u270b
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>...are a really KIND
+person.<PAGE>I find you more and more and
+MORE interesting all the
+time!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>Sometimes I run into weird
+people up on the mountain.<PAGE>The other day, it was a
+funny-looking old man.<PAGE><FACE_POS_RIGHT><FACE_ULYSSA><FACE_SHY><FP_RIGHT>He was mumbling to
+himself...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT><MYNAME>, are you interested
+in that book?<PAGE><FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>Want to read it?<PAGE>The title is "Ladies' Man:
+How to Make the Girls Flock
+to You"...<PAGE>I don't think you need
+that, though...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT><MYNAME>, this potion is
+really amazing!<PAGE><FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>It will make you feel awful,
+but give you superpowers!<PAGE>You'll be able to do
+ANYTHING!! Superpowers!<PAGE>How about it? Do you want to
+have superpowers?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>I recently made a potion
+that enables animals to
+talk.<PAGE>I tested it out by giving
+some to a bunny rabbit...<PAGE><FACE_POS_RIGHT><FACE_ULYSSA><FACE_SAD><FP_RIGHT>He started croaking like an
+old man...<PAGE><FACE_POS_RIGHT><FACE_ULYSSA><FACE_SHY><FP_RIGHT>I need to improve the
+formula a little...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT><MYNAME>, <MYNAME>, <MYNAME>!<PAGE>Yooouuuuu...\u270b
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_ANGRY><FP_RIGHT>...don't think about me
+enough, do you?<PAGE>I think about you so much
+that I want to do
+experiments on you!<PAGE><FACE_POS_RIGHT><FACE_ULYSSA><FACE_SHOCK><FP_RIGHT>You need to think, think,
+THINK about MEEEE, too!<RED>❤</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>Sometimes I run into weird
+people up on the mountain.<PAGE>The other day...<PAGE>I saw a girl wearing a
+bandana.<PAGE><FACE_POS_RIGHT><FACE_ULYSSA><FACE_SHY><FP_RIGHT>She was smiling and talking
+to the plants!<PAGE><FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>There sure are a lot of
+eccentric people living
+around here!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_SHY><FP_RIGHT>Hmmm.<PAGE>I have lots of books on
+alchemy here in my house,
+but...<PAGE>There is still so much that
+I don't know!<PAGE><FACE_POS_RIGHT><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>You have to teach me about
+the stuff I don't know!<PAGE><FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>And you have to come see me
+doing my experiments!<RED>❤</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_SHOCK><FP_RIGHT>T-Try drinking this p-potion
+now.<PAGE><FACE_POS_RIGHT><FACE_ULYSSA><FACE_SHY><FP_RIGHT>It's g-good, so j-just drink
+it up!<PAGE>And after you drink it, you
+have to look right at me!<PAGE>Right at me, me, ME!!
+You HAVE to!!<PAGE><FACE_POS_RIGHT><FACE_ULYSSA><FACE_SHOCK><FP_RIGHT>...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>The other day, I developed a
+potion that lets you talk
+with cats.<PAGE><FACE_POS_RIGHT><FACE_ULYSSA><FACE_SHY><FP_RIGHT>I tried drinking it, but I
+don't know if it worked yet.<PAGE><FACE_POS_RIGHT><FACE_ULYSSA><FACE_SAD><FP_RIGHT>Maybe it was another
+failure...<PAGE>It's hard to make potions
+that allow you to talk with
+animals.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_SHOCK><FP_RIGHT>...<PAGE><FACE_POS_RIGHT><FACE_ULYSSA><FACE_SHY><FP_RIGHT>Wowwwee-wow, you're great,
+<MYNAME>!<PAGE>You're always making me want
+to say that!<PAGE><FACE_POS_RIGHT><FACE_ULYSSA><FACE_ANGRY><FP_RIGHT>I want to do more
+experiments with you!<PAGE>I want to talk more with
+you!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT><MYNICKNAME>, <MYNICKNAME>, <MYNICKNAME>!<PAGE>I need you for an
+experiment, <MYNICKNAME>!<PAGE>It'll be fine!
+It won't hurt a bit!<PAGE><FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>Okey-dokey!<RED>❤</COLOR><PAGE>Now I'm ready to do my
+popcorn-multiplying
+experiment!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT><MYNICKNAME>...<PAGE>Whenever I see your face,
+it perks me up, up, UP!<PAGE>It's like magic!<PAGE><FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>I'm going to figure out how
+you do it, so you'll be my
+guinea pig!<RED>❤</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT><MYNICKNAME>...<PAGE><FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>I always have so much fun
+being with you!<PAGE>I know we'll always, always,
+ALWAYS be together!<PAGE>Always...<PAGE><FACE_POS_RIGHT><FACE_ULYSSA><FACE_SAD><FP_RIGHT>...<PAGE><FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>Don't worry! I'll make it
+happen somehow!

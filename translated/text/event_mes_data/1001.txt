@@ -1,0 +1,87 @@
+<FACE_POS_LEFT><FACE_DIRK><FACE_NORMAL><FP_LEFT>Hei, Kana!
+Aku senang bisa menemui
+kamu!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_DIRK><FACE_NORMAL><FP_LEFT>Aku ada sebuah surat untuk
+kamu.<PAGE><FACE_POS_LEFT><FACE_DIRK><FACE_HAPPY><FP_LEFT>Ya ini dia!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_DIRK><FACE_HAPPY><FP_LEFT>Sampai jumpa lagi ya!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>Aku jarang mendapatkan se-
+buah surat. Aku penasaran
+siapa yang mengirimkannya...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>Ini dari ayahku...!!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>Mari kita lihat...
+Apa yang tertulis disini?
+----------------------------|----------------------------------
+"Halo anakku Kana, setelah
+berkeliling dunia, akhirnya
+aku menemukan tempat<PAGE>terbaik untuk semua kuda!
+Tapi ini membutuhkan sebuah
+environment khusus. Aku<PAGE>tidak bisa mendatangkannya
+kedesa. Aku sudah menyim-
+pannya dikota ibumu tinggal.<PAGE>Karena iklimnya paling ter-
+baik.<PAGE>...Sekarang, Aku sudah
+merindukanmu, anakku yang
+tersayang. Aku harap kamu<PAGE>dapat pindah ke desa yang
+aku tinggali.<PAGE>Kumohon penuhi permintaan
+ayahmu ini dan datang ke
+desa ini. Aku akan menung-<PAGE>gu responmu. Aku harap
+jawabannya "YA"<PAGE>Tertanda, ayahmu".
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_SHY><FP_RIGHT>Sepertinya dia inginkan aku
+meninggalkan Konohana dan
+pindah kekota ibuku berasal?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_SHY><FP_RIGHT>Ini ini...
+Aku harus bekerja disini.
+Aku tidak bisa...
+----------------------------|----------------------------------
+<CHOICE_AB> Ikuti kata hatimu.
+ Kamu harus pergi. 
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>Aku pikir kamu benar.
+Mengikuti kata hatiku, ye?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>Okay, Aku putuskan!
+Aku akan menetap di
+Konohana.<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>Aku merasa tidak enak kepa-
+da ayahku, tapi aku sangat
+senang tinggal didesa ini,<PAGE>dan Aku sudah hidup disini.<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_SHY><FP_RIGHT>Plus...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>...ada seseorang didesa ini
+yang aku tidak mau mening-
+galkannya.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_SHY><FP_RIGHT>Oh, nah!
+Uh... tidak ada. Lupakan
+saja ya.<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>... Aku merasa tidak enak
+terhadap ayahku, tapi aku
+tidak ingin meninggalkan<PAGE>desa ini juga.<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>Jadi, aku akan ada di
+sekitar, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_SHOCK><FP_RIGHT>Oh, hei.
+Kenapa tidak kamu datang
+dan melihat Hayate lagi<PAGE>di hari ini?<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>Dia akan senang jika berjum-
+pa denganmu. Dan juga,...<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_SHOCK><FP_RIGHT>Sa...Aku juga senang untuk
+menghabiskan waktuku dengan
+bersamamu.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_ANGRY><FP_RIGHT>Aku pikir kamu tidak ada
+rasa pekanya jika aku
+pindah kedesa lainnya.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_SAD><FP_RIGHT>Yeah, oke oke.<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_SHY><FP_RIGHT>Aku mengerti.
+Yeah aku putuskan.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>Aku akan tinggal di konohana.<PAGE>Aku merasa tidak enak untuk
+ayahku itu, tapi aku suka
+tinggal didesa ini, dan<PAGE>aku juga hidup disini.
+Plus...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>Aw, lupakan. Jangan ke ge-
+eran ya.<PAGE>Hari ini, sangat buruk.
+Aku akan pulang kerumah,
+ok?

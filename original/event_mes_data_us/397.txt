@@ -1,0 +1,214 @@
+<FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT>This is the place!
+Your new farm!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HERO><FACE_NORMAL>INVALID MESSAGE
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_INA><FACE_HAPPY><FP_LEFT>First you need to decide on
+a name for your farm.
+Pick any name you like!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT>So you want to call it
+<BLUE><MYFARMNAME> Farm</COLOR>? You're sure?
+----------------------------|----------------------------------
+<CHOICE_AB> Yes!
+ I changed my mind.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_INA><FACE_HAPPY><FP_LEFT>That's a good name!
+I'm sure it will be a great
+farm!<PAGE><FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT>Your house is just ahead.
+But first you should take a
+look around your farm!<PAGE><FACE_POS_LEFT><FACE_INA><FACE_HAPPY><FP_LEFT>Before that, let me tell you
+the basics of how to move
+around.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT>Use the <RED>+Control Pad</COLOR> to
+walk around.<PAGE><FACE_POS_LEFT><FACE_INA><FACE_HAPPY><FP_LEFT>Press the <RED>L Button</COLOR> to switch
+between running and walking.<PAGE><FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT>But be careful not to run
+into walls!<PAGE><FACE_POS_LEFT><FACE_INA><FACE_HAPPY><FP_LEFT>Now you know how to run and
+how to walk!<PAGE><FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT>You can also press
+<RED>the B Button</COLOR> to jump!<PAGE><FACE_POS_LEFT><FACE_INA><FACE_HAPPY><FP_LEFT>Now that you can move and
+jump, you can go take a good
+look around your farm!<PAGE><FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT>When you're done, come stand
+next to me and press the
+<RED>A Button</COLOR> to talk.<PAGE>Got it?
+
+----------------------------|----------------------------------
+<CHOICE_AB> I got it!
+ Please explain it again.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT>Great!
+I'll wait for you in front
+of the house.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_INA><FACE_HAPPY><FP_LEFT>Great! You were able to talk
+to me.<PAGE><FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT>When you want to talk to
+people or look at items,
+press the <RED>A Button</COLOR>.<PAGE><FACE_POS_LEFT><FACE_INA><FACE_HAPPY><FP_LEFT>I know! I'll give you some
+practice by sending you on a
+treasure hunt!<PAGE><FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT>Somewhere on this farm is a
+<GREEN>flower</COLOR>.<PAGE><FACE_POS_LEFT><FACE_INA><FACE_HAPPY><FP_LEFT>Find the <GREEN>flower</COLOR> and then
+press the <RED>A Button</COLOR> to pick
+it up!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT>Get close to something on
+the ground and press the
+<RED>A Button</COLOR> to pick it up.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_INA><FACE_HAPPY><FP_LEFT>That's the way!
+That's how you pick things
+up!<PAGE><FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT>Once you're holding an item,
+press the <RED>A Button</COLOR> again
+to throw it.<PAGE><FACE_POS_LEFT><FACE_INA><FACE_HAPPY><FP_LEFT>But don't do that with the
+valuable item you've just
+found!<PAGE><FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT>Press the <RED>Y Button</COLOR> to put
+the item you're holding
+into your bag...<PAGE><FACE_POS_LEFT><FACE_INA><FACE_HAPPY><FP_LEFT>It's a good idea to put what
+you've picked up in your bag
+before you lose it!<PAGE>Put that flower in your bag,
+then talk to me again!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT>Press the <RED>A Button</COLOR> to
+throw things.<PAGE>But not right now!
+Put what you're holding into
+your bag for now.<PAGE>Then talk to me again.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT>You need to put what you're
+holding into your bag.<PAGE>Press the <RED>Y Button</COLOR> to
+put what you're holding
+into your bag.<PAGE>Then talk to me again.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_INA><FACE_HAPPY><FP_LEFT>Looks like you put it in
+your bag just fine.<PAGE><FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT>To see what's in your bag,
+press the <RED>X Button</COLOR>.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT>Once you've opened your bag,
+there are many things you
+can do.<PAGE>Use the <RED>+Control Pad</COLOR> to move
+the cursor, and press
+the <RED>A Button</COLOR> to select.<PAGE>Select the white box on the
+lower right of the bottom
+screen to discard items.<PAGE><FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT>Press the <RED>B Button</COLOR> to close
+your bag when you're ready.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT>That's what you need to know
+about your bag.<PAGE>Now let me show you your
+house.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><HIDE_NAME><FACE_KANA><FACE_NORMAL><FP_LEFT><HIDE_FACE>Mayor Ina!
+Sorry to keep you waiting!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT>Ah!
+Just who I was waiting for!<PAGE><FACE_POS_RIGHT><HIDE_NAME><FACE_KANA><FACE_NORMAL><FP_RIGHT>Sorry 'bout that.
+I was running late.
+This is the new farmer, huh?<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>I'm <BLUE>Kana</COLOR>.
+Cool to meet you.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HERO><FACE_NORMAL>INVALID MESSAGE
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HERO><FACE_NORMAL>INVALID MESSAGE
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HERO><FACE_NORMAL>INVALID MESSAGE
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT>By the way, <MYNAME>, do you
+know how <RED>horses</COLOR> and
+<RED>carts</COLOR> work?<PAGE>I guess you do, but to be on
+the safe side, why don't we
+go over it now?
+----------------------------|----------------------------------
+<CHOICE_AB> Please explain it to me.
+ No thanks, I know it.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>Sure, if you say so.
+Take good care of this cart
+and don't break it, yeah?<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>Well, I'm outta here.
+Drop by my shop sometime.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HERO><FACE_NORMAL>INVALID MESSAGE
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>Cool, I'll explain
+everything you need to know
+about horses and carts.<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>First let me tell you how
+to get on a horse.<PAGE>Press the <RED>A Button</COLOR> to
+get on your horse.<PAGE>Press the <RED>B Button</COLOR> to
+get off the horse.<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>Simple, yeah?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>Now let me tell you about
+your cart.<PAGE>Today I brought it here, but
+it's usually parked to the
+<RED>left of your house</COLOR>.<PAGE>You can load all kinds of
+stuff onto your cart.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HERO><FACE_NORMAL>INVALID MESSAGE
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HERO><FACE_NORMAL>INVALID MESSAGE
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HERO><FACE_NORMAL>INVALID MESSAGE
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HERO><FACE_NORMAL>INVALID MESSAGE
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>To see what's in your cart,
+get up next to it and press
+the <RED>A Button</COLOR>.<PAGE>Then the bottom screen will
+look like this:
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>Stuff that won't fit in your
+bag, you can stick in your
+cart.<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>And perishable stuff like
+vegetables and milk will
+keep longer in the cart.<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>The cart works the same as
+your bag.<PAGE>Use the <RED>+Control Pad</COLOR> to
+move the cursor, and press
+the <RED>A Button</COLOR> to select.<PAGE>Press the <RED>B Button</COLOR>
+when you're done.
+Try it out!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>That's all the stuff you
+need to know about carts.<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>Carts can go all kinds of
+places, so this cart'll
+be a big help to you!<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>But to take it off your
+farm, you'll need to <RED>hitch</COLOR>
+it to your horse.<PAGE>For that, get on your horse,
+stand next to the cart,
+and press the <RED>R Button</COLOR>.<PAGE>To unhitch them, park the
+cart back in its spot and
+press the <RED>R Button</COLOR>.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>That's the whole deal with
+carts and horses.
+You got all that, yeah?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>This is your house!
+Live in it however you like.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>There's been a lot of info
+to take in today... I bet
+you're tired.<PAGE>Stand in front of your bed
+and push the <RED>A Button</COLOR> to
+sleep.<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>If you feel up to it, you
+can check the <RED>bookshelf</COLOR> and
+<RED>kitchen</COLOR> before sleeping.<PAGE>That does it for me. I'll
+be getting home.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT>This is Kana. His shop deals
+in horses and carts.<PAGE><FACE_POS_LEFT><FACE_INA><FACE_SAD><FP_LEFT>The cart you rode in on
+is broken and no longer
+useable...<PAGE><FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT>So I had Kana get you
+another cart to use as
+a replacement.<PAGE><FACE_POS_LEFT><FACE_INA><FACE_HAPPY><FP_LEFT>This cart is a present from
+me to you! Make good use of
+it!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>Now let me show you around
+the inside of your house.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>No prob.
+Listen up this time.<PAGE>Press the <RED>A Button</COLOR> to
+ride your horse.<PAGE>When you want to get off,
+press the<RED>B Button</COLOR>.<PAGE>To hitch the cart to your
+horse, get on your horse,<PAGE>stand next to the cart, and
+press the <RED>R Button</COLOR>.<PAGE>To unhitch them, park the
+cart back in its spot and
+press the <RED>R Button</COLOR>.
+----------------------------|----------------------------------
+<CHOICE_AB> Yes, I've got it.
+ Explain it to me again.

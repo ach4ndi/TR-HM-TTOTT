@@ -1,0 +1,33 @@
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>Oh my, tanaman ini...!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>Padahal 2 hari kemarin masih
+tahap tunas.<PAGE>Sekarang dengan sederhananya
+menjadi besar!
+Cukup menarik!<PAGE>Aku kira, maka disinilah
+tempat yang cocok buatnya?
+Atau mungkin...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>*sigh*
+Bagaimana ini begitu
+terlambat?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_SHY><FP_RIGHT>Maaf, <MYNAME>.<PAGE>Disaat aku lagi memikirkan
+untuk memperlajari tanaman,
+Aku kehilangan jejak apapun
+----------------------------|----------------------------------
+<CHOICE_AB> Tidak masalah, oke.
+ Itu bukan ide menyenangkan.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>Jadi aku menyadari bahwa
+kamu akan mengatakan itu.<PAGE>Jadi maafkan aku jika
+mengajakmu dalam masalah di
+hari ini.<PAGE>Tapi terima kasih, karena
+kamu aku membuat suatu
+penemuan yang menarik.<PAGE>... oke, aku pergi dulu ya.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_ANGRY><FP_RIGHT>Aku yakin, aku tidak
+melawak disini.<PAGE>Tapi jika kamu bosan,
+kenapa tidak kamu langsung
+pulang ke rumah saja?<PAGE>Itu yang akan aku lakukan..
+pulang ke rumah.<PAGE>Jadi selamat tinggal,
+So goodbye, <MYNAME>.

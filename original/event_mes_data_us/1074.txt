@@ -1,0 +1,88 @@
+<FACE_POS_LEFT><FACE_LANEY><FACE_SAD><FP_LEFT>That's strange...
+I don't feel very well.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_GEORGIA><FACE_SAD><FP_LEFT>Ooh goodness me.
+Could I be sick?
+I don't feel very good...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_REINA><FACE_SAD><FP_LEFT>Oh dear, I don't feel well
+at all...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_NORI><FACE_SAD><FP_LEFT>I wonder what's up.
+I'm not feeling well at all.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ULYSSA><FACE_SAD><FP_LEFT>Oh boy... I feel really
+sick. And weird...
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_AYAME><FACE_NORMAL><FP_RIGHT>You're not feeling well?
+You do look pale.
+Now let's take a look...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Oh my.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hope you two are ready for
+an exciting change in your
+life...<PAGE><FACE_POS_RIGHT><FACE_AYAME><FACE_HAPPY><FP_RIGHT>You're going to be parents!
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_AYAME><FACE_HAPPY><FP_RIGHT>Congratulations!
+You're going to have
+a baby!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_LANEY><FACE_NORMAL><FP_LEFT>A...baby?<PAGE><FACE_POS_LEFT><FACE_LANEY><FACE_HAPPY><FP_LEFT>Oh, <MYNICKNAME>.
+I'm so happy!<PAGE>I wonder if it'll be a boy
+or a girl. I'll be happy
+either way!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_GEORGIA><FACE_NORMAL><FP_LEFT>A baby?<PAGE><FACE_POS_LEFT><FACE_GEORGIA><FACE_HAPPY><FP_LEFT>Goodness me, isn't
+this exciting?
+We're having a baby!<PAGE><FACE_POS_LEFT><FACE_GEORGIA><FACE_SHOCK><FP_LEFT>I wonder what our baby
+will be like.
+
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_REINA><FACE_NORMAL><FP_LEFT>A-A baby?
+We're having a baby?<PAGE><FACE_POS_LEFT><FACE_REINA><FACE_HAPPY><FP_LEFT>How exciting!
+So we're going to be
+parents? Amazing...<PAGE><FACE_POS_LEFT><FACE_REINA><FACE_SHOCK><FP_LEFT>Who do you think it'll
+look more like?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_NORI><FACE_NORMAL><FP_LEFT>A baby for <MYNICKNAME>
+and I?<PAGE>It doesn't feel quite real
+yet, but...wow, a baby.
+<PAGE><FACE_POS_LEFT><FACE_NORI><FACE_SHOCK><FP_LEFT><MYNICKNAME>, I'm so happy.
+I can't wait to see what
+our child will look like.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ULYSSA><FACE_NORMAL><FP_LEFT>A baby?
+For <MYNICKNAME> and I?<PAGE><FACE_POS_LEFT><FACE_ULYSSA><FACE_HAPPY><FP_LEFT>R-Really?
+We're really having a baby?
+<PAGE>I wonder which of us it
+will look like.
+<PAGE><FACE_POS_LEFT><FACE_ULYSSA><FACE_SHOCK><FP_LEFT>This is so exciting!
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_AYAME><FACE_HAPPY><FP_RIGHT>Heh heh. Well then, I'll
+be off.<PAGE><FACE_POS_RIGHT><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Call me when the time comes.
+I'll come right over.
+
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_LANEY><FACE_HAPPY><FP_LEFT>Thank you.
+We'll see you later.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_GEORGIA><FACE_HAPPY><FP_LEFT>Thanks!
+We'll be seeing you later.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_REINA><FACE_HAPPY><FP_LEFT>Yes, thank you so much.
+We'll be seeing you.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_NORI><FACE_HAPPY><FP_LEFT>Thank you so very much.
+We'll see you later.
+Thank you for your help.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ULYSSA><FACE_HAPPY><FP_LEFT>Okay! Got it!
+Thank you.<RED>❤</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_AYAME><FACE_HAPPY><FP_RIGHT>You're very welcome. Don't
+work too hard, now.<PAGE><FACE_POS_RIGHT><FACE_AYAME><FACE_NORMAL><FP_RIGHT>And you, <MYNAME>! Take good
+care of your wife!

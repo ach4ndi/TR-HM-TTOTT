@@ -1,0 +1,80 @@
+<FACE_POS_LEFT><HIDE_NAME><FACE_YUN><FACE_NORMAL><FP_LEFT><HIDE_FACE><MYNAME>, dearie, are you
+up?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><HIDE_NAME><FACE_YUN><FACE_NORMAL><FP_RIGHT>How very nice to meet you!
+I'm sorry to barge in first
+thing in the morning.<PAGE><FACE_POS_RIGHT><FACE_YUN><FACE_HAPPY><FP_RIGHT>My name is <BLUE>Yun</COLOR>. I run
+the tea house here in
+Konohana.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_YUN><FACE_HAPPY><FP_RIGHT>But enough dilly-dallying...
+I came to bring you a
+housewarming present!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_YUN><FACE_NORMAL><FP_RIGHT>I'm sorry to barge in on you
+in the morning, but I have a
+housewarming gift for you!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_YUN><FACE_HAPPY><FP_RIGHT>Let's go over to the
+kitchen.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_YUN><FACE_NORMAL><FP_LEFT>This is a <RED>pot</COLOR>!<PAGE>There are a lot of recipes
+that you'll need a pot to
+make!<PAGE>Using this will let you cook
+more recipes, dearie!<PAGE><FACE_POS_LEFT><FACE_YUN><FACE_HAPPY><FP_LEFT>Use it well!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_YUN><FACE_NORMAL><FP_LEFT>Well now, do you know how to
+learn recipes, <MYNAME>?
+----------------------------|----------------------------------
+<CHOICE_AB> Tell me!
+ I already know.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_YUN><FACE_HAPPY><FP_LEFT>My my, I see. Then I'll
+explain it to you, dearie.<PAGE><FACE_POS_LEFT><FACE_YUN><FACE_NORMAL><FP_LEFT>There are two ways you can
+learn a recipe.<PAGE>The first is by reading a
+cookbook and following
+the instructions.<PAGE><FACE_POS_LEFT><FACE_YUN><FACE_HAPPY><FP_LEFT>If you make the dish
+correctly, you'll
+learn the recipe!<PAGE><FACE_POS_LEFT><FACE_YUN><FACE_NORMAL><FP_LEFT>The second is by thinking up
+a new recipe after you've
+been <RED>inspired</COLOR>!<PAGE>If you cook a lot of dishes,
+sometimes you'll think of
+a new recipe!<PAGE><FACE_POS_LEFT><FACE_YUN><FACE_HAPPY><FP_LEFT>Even when you want to make
+a lot of the same dish, you
+should make them one by one!<PAGE>That way, you'll have more
+opportunities to get
+inspired!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_YUN><FACE_NORMAL><FP_LEFT>So, that's how you learn
+recipes! Do you understand,
+dearie?
+----------------------------|----------------------------------
+<CHOICE_AB> Yep, I got it!
+ Explain it again.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_YUN><FACE_NORMAL><FP_LEFT>Well, bless your heart! Let
+me explain it again, then.<PAGE><FACE_POS_LEFT><FACE_YUN><FACE_NORMAL><FP_LEFT>There are two ways you can
+learn a recipe.<PAGE>The first is by reading a
+cookbook and following
+the instructions.<PAGE><FACE_POS_LEFT><FACE_YUN><FACE_HAPPY><FP_LEFT>If you make the dish
+correctly, you'll
+learn the recipe!<PAGE><FACE_POS_LEFT><FACE_YUN><FACE_NORMAL><FP_LEFT>The second is by thinking up
+a new recipe after you've
+been <RED>inspired</COLOR>!<PAGE>If you cook a lot of dishes,
+sometimes you'll think of
+a new recipe!<PAGE><FACE_POS_LEFT><FACE_YUN><FACE_HAPPY><FP_LEFT>Even when you want to make
+a lot of the same dish, you
+should make them one by one!<PAGE>That way, you'll have more
+opportunities to get
+inspired!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_YUN><FACE_HAPPY><FP_LEFT>Why, of course you do,
+<MYNAME>!<PAGE><FACE_POS_LEFT><FACE_YUN><FACE_NORMAL><FP_LEFT>You can also get a
+<RED>frying pan</COLOR> and a
+<RED>spice rack</COLOR>!<PAGE>I'll put up a notice on the
+message board when you can
+get those!<PAGE><FACE_POS_LEFT><FACE_YUN><FACE_HAPPY><FP_LEFT>Why, you should use your new
+pot to make a simple dish...
+How about a <RED>boiled egg</COLOR>?<PAGE><FACE_POS_LEFT><FACE_YUN><FACE_NORMAL><FP_LEFT>My my, it's time I was
+going! Come and see me at
+the tea house any time!

@@ -1,0 +1,38 @@
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>Kenapa? ini pastinya sebuah
+mimpi. Kamu memberikan aku
+sebuah <RED>bulu biru</COLOR>?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_HAPPY><FP_RIGHT>Aku sangat senang.<PAGE><FACE_POS_RIGHT><FACE_GEORGIA><FACE_SHOCK><FP_RIGHT>Aku merasakan hal yang sama
+mengenai kamu, <MYNAME>...
+Aku akan terima, tentunya!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_HAPPY><FP_RIGHT>Well, aku akan memberitahu-
+kan hal ini kepada ayah
+aku!<PAGE><FACE_POS_RIGHT><FACE_GEORGIA><FACE_SHOCK><FP_RIGHT>Apa kamu akan ikut juga,
+bersama aku, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_GRADY><FACE_HAPPY><FP_LEFT>Itu berita bagus, Georgia!<PAGE><FACE_POS_LEFT><FACE_GRADY><FACE_NORMAL><FP_LEFT>Jadi anak kesayanganku
+akhirnya akan segera
+menikah...<PAGE>Aku senang, tapi juga se-
+dikit sedih. Karena dirumah
+akan terasa kosong sekarang<PAGE><FACE_POS_RIGHT><FACE_GEORGIA><FACE_HAPPY><FP_RIGHT>Apa yang papa bicarakan?<PAGE>Aku akan menikah, bukan
+pindah ke negara lain atau
+pun galaxy lain papa!<PAGE>Jadi aku bisa kapan saja
+mampir ke rumah papa!<PAGE><FACE_POS_LEFT><FACE_GRADY><FACE_HAPPY><FP_LEFT>Oh, ya itu benar.<PAGE>Jadi kamu sudah mempersiap-
+kan acara pernikahannya?<PAGE><FACE_POS_RIGHT><FACE_GEORGIA><FACE_SHOCK><FP_RIGHT>Kami sedang memikirkannya
+dalam satu minggu ini.<PAGE>Benarkan, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_GRADY><FACE_HAPPY><FP_LEFT>Oke kalau gitu, kelihatannya
+sangat membuat aku 
+penasaran!<PAGE><FACE_POS_LEFT><FACE_GRADY><FACE_NORMAL><FP_LEFT>Kamu akan sangat sibuk di
+saat hari pernikahanmu,
+<MYNAME>.<PAGE>Jadi kamu akan segera mem-
+bereskan pekerjaanmu sebelum
+harinya tiba.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_GRADY><FACE_HAPPY><FP_LEFT>Jaga baik-baik ya, anakku
+Georgia, <MYNAME>.<PAGE>Berikan dia semua cintamu,
+jangan cuman dikurung dalam
+rumah ya!<PAGE>Aku tahu dia tidak akan
+memberikanmu sesuatu yang
+selain cinta.<PAGE><FACE_POS_RIGHT><FACE_GEORGIA><FACE_SHOCK><FP_RIGHT>Makasih, papa.

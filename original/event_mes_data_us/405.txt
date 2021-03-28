@@ -1,0 +1,42 @@
+<FACE_POS_RIGHT><FACE_RAHI><FACE_HAPPY><FP_RIGHT>On days like this, it feels
+great to be outside!<PAGE>I mean, it's not like I goof
+off all the time. Just a
+break once in a while.<PAGE><FACE_POS_LEFT><FACE_YING><FACE_HAPPY><FP_LEFT>...Uh-huh...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_YING><FACE_HAPPY><FP_LEFT>Oh... Dr. Ayame...Hello...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_AYAME><FACE_HAPPY><FP_RIGHT>Well hello, kiddos.
+Rahi and Ying, you always
+get along so well together.<PAGE><FACE_POS_RIGHT><FACE_AYAME><FACE_NORMAL><FP_RIGHT>What are you going to play
+today?<PAGE><FACE_POS_LEFT><FACE_RAHI><FACE_NORMAL><FP_LEFT>Since the weather's so nice,
+we're just talking outside.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Dr. Ayame, I see.
+What brings you here? <PAGE><FACE_POS_LEFT><FACE_AYAME><FACE_HAPPY><FP_LEFT>I was passing by and saw the
+children having such fun, so
+I stopped to join in!<PAGE><FACE_POS_LEFT><FACE_AYAME><FACE_NORMAL><FP_LEFT>Since you're here, why don't
+you join us too?<PAGE><FACE_POS_RIGHT><FACE_MAKO><FACE_HAPPY><FP_RIGHT>I...I'd be very happy to!
+I'm great at playing with
+children!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MAKO><FACE_NORMAL><FP_RIGHT>So what game are we playing?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_RAHI><FACE_SAD><FP_LEFT>Yikes!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MAKO><FACE_HAPPY><FP_RIGHT>Bwa-ha-ha-ha!<PAGE><FACE_POS_RIGHT><FACE_MAKO><FACE_NORMAL><FP_RIGHT>So the game is tag, is it?
+Here I go!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RAHI><FACE_SAD><FP_RIGHT>I'm s-scared!<PAGE><FACE_POS_RIGHT><FACE_MAKO><FACE_HAPPY><FP_RIGHT>I'll catch you!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MAKO><FACE_HAPPY><FP_RIGHT>Now we're having fun!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RAHI><FACE_SAD><FP_RIGHT>Aaaaiiiiiyyyyeeee!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Mako doesn't realize that
+he's scaring Rahi half
+to death!<PAGE><FACE_POS_LEFT><FACE_YING><FACE_NORMAL><FP_LEFT>...Uh-huh...<PAGE><FACE_POS_LEFT><FACE_YING><FACE_SAD><FP_LEFT>...I was...hoping for...more
+of a quiet chat...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_AYAME><FACE_NORMAL><FP_RIGHT>That would have been nice,
+huh? Well, I gotta go.<PAGE><FACE_POS_LEFT><FACE_YING><FACE_NORMAL><FP_LEFT>...I guess I'll go too...<PAGE><FACE_POS_RIGHT><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Sure. Remember not to run
+and tire yourself out.

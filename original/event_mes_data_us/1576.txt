@@ -1,0 +1,36 @@
+<FACE_POS_RIGHT><FACE_HOWARD><FACE_NORMAL>Welcome to Howard's Caf!<RED>❤</COLOR>
+\u2390
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HOWARD><FACE_NORMAL><CHOICE_AB> View menu.
+ Never mind.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HOWARD><FACE_NORMAL>That's too bad.
+Please come again.<RED>❤</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HOWARD><FACE_SAD>You're a little short on
+money. That's too bad.\u2390
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HOWARD><FACE_HAPPY>Thank you!<RED>❤</COLOR>
+I hope you like it!<RED>❤</COLOR>\u2390
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HOWARD><FACE_SAD>Oh, it looks like you
+don't have any more room
+in your bag...\u2390
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HOWARD><FACE_NORMAL>Oh? Did you change
+your mind? Do you
+want something else?\u2390
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HOWARD><FACE_NORMAL>Is <RED><VAR_0>G</COLOR> OK?
+<CHOICE_AB> Yes.
+ No thanks.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HOWARD><FACE_NORMAL>That'll be <RED><VAR_1>G</COLOR> for
+each <VAR_0>.
+How many would you like?\u2390
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HOWARD><FACE_SAD>I'm very sorry.
+Everything is sold out
+today...\u2390
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HOWARD><FACE_NORMAL>No item left MSG

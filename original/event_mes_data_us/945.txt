@@ -1,0 +1,60 @@
+<FACE_POS_LEFT><HIDE_NAME><FACE_ALISA><FACE_NORMAL><FP_LEFT><HIDE_FACE>*Sob*...*Gasp*
+H-Hello? Can anyone hear
+me?
+----------------------------|----------------------------------
+<CHOICE_AB> Go back.
+ See who it is.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><HIDE_NAME><FACE_ALISA><FACE_SAD><FP_LEFT>*Sob* *Sob*
+H-Hello?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><HIDE_NAME><FACE_ALISA><FACE_HAPPY><FP_LEFT>Oh, Harvest Goddess!
+You've sent someone
+to help me!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><HIDE_NAME><FACE_ALISA><FACE_NORMAL><FP_LEFT>Excuse me, do you know
+Nathan?
+
+----------------------------|----------------------------------
+<FACE_POS_LEFT><HIDE_NAME><FACE_ALISA><FACE_HAPPY><FP_LEFT>You do!?
+Thank goodness.<PAGE><FACE_POS_LEFT><FACE_ALISA><FACE_NORMAL><FP_LEFT>Oh, I haven't
+introduced myself yet.
+My name is <BLUE>Alisa</COLOR>.<PAGE>I came here to visit the
+Harvest Goddess Spring.<PAGE><FACE_POS_LEFT><FACE_ALISA><FACE_SAD><FP_LEFT>I'm embarrassed to say that
+I got lost...
+<PAGE>I couldn't even find the
+spring. Now I have no idea
+where I am.<PAGE>I've been wandering around
+this mountain in circles.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ALISA><FACE_NORMAL><FP_LEFT>So, well...I know we just
+met, but...
+<PAGE>Could you take me to
+Nathan's church?
+
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ALISA><FACE_HAPPY><FP_LEFT>Thank you so much!
+I'm so glad I ran into such
+a kind person!<PAGE>Truly, the Harvest Goddess
+must have lead you to me.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>This is Nathan's church.
+<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Thank you so much for
+bringing me back here.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>Oh! I haven't asked you
+your name yet!
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Oh, <MYNAME>?<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>You can usually find me
+here in the church.
+<PAGE>If you ever want to come
+give thanks, please stop by
+the church any time.<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>You're such a sweet,
+kind person. You'll always
+be welcome!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Again, thank you so much
+for all your help today!
+Take care.

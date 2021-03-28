@@ -1,0 +1,19 @@
+<FACE_POS_RIGHT><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Hi, <MYNAME>.\u270a\u270a
+What am I doing here?<PAGE><FACE_POS_RIGHT><FACE_EILEEN><FACE_HAPPY><FP_RIGHT>I came here to collect some
+materials for my work.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>I look for materials to
+use while I climb the
+mountain.<PAGE>I just <RED>jump</COLOR> if I need to get
+somewhere off the beaten
+path.<PAGE><FACE_POS_RIGHT><FACE_EILEEN><FACE_HAPPY><FP_RIGHT>You should explore the
+mountain to find nuts,
+flowers, and other items.<PAGE>There's also rivers where
+you can catch fish, too.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><HIDE_NAME><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Oh, who are you?<PAGE>Ah, you're <MYNAME>, right?<PAGE><FACE_POS_RIGHT><FACE_EILEEN><FACE_HAPPY><FP_RIGHT>I'm <BLUE>Eileen</COLOR>. I'm
+a carpenter. So pleased to
+meet you!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>What am I doing here?<PAGE><FACE_POS_RIGHT><FACE_EILEEN><FACE_HAPPY><FP_RIGHT>I came here to collect some
+materials for my work.

@@ -1,0 +1,132 @@
+<FP_NONE>Tanya tentang permintaan?
+<CHOICE_AB> Ya
+ Tidak
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Ah, kamu akhirnya datang!
+Jadi kamu ingin mengajarimu
+cara <RED>menangkap serangga</COLOR>, hmm?<PAGE><FACE_POS_RIGHT><FACE_GOMBE><FACE_HAPPY>Oke, kalau gitu! Orang tua
+ini akan mengajarimu semua
+hal yang dibutuhkan untuk<PAGE>mengetahui caranya!
+Gimana? Siap untuk memperla-
+jarinya?
+----------------------------|----------------------------------
+<FP_NONE><CHOICE_AB> Tolong ajari aku!
+ Tidak, terima kasih.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_HAPPY><FP_RIGHT>Oke oke, aku akan mengajari
+kamu, ayo dengarkan!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Dan begitu caranya kamu mena
+ngkap serangga! Ingin mende-
+ngarkan lagi?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_HAPPY><FP_RIGHT>Dalam kasus seperti itu,
+kamu harus mencoba menangkap
+serangga yang sesuai pada<PAGE><RED>permintaan</COLOR>!<PAGE><FACE_POS_RIGHT><FACE_GOMBE><FACE_NORMAL>Ah, tapi tunggu! Kamu masih
+baru dalam masalah ini,
+jadi aku akan memberikanmu<PAGE>sebiah petunjuk, hmm?
+Serangga, warnanya juga ber
+macam-macam, tetapi belalang<PAGE>dalam permintaan itu
+berwarna <RED>hijau</COLOR>!<PAGE>Jika kamu memiliki masalah,
+ingat-ingat ya petunjukku
+mengenai warnanya, oke?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Ah, halo,
+<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Ah, halo,
+<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Ah, halo,
+<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Ah, halo,
+<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Yooohooo! Kamu menangkap
+serangga itu, apa benar?
+Biarkan aku melihatnya...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_HAPPY><FP_RIGHT>Ah, itu yang dicari!
+Selamat!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_HAPPY><FP_RIGHT>Kamu memiliki kemampuannya,
+apakah betul, <MYNAME>?<PAGE><FACE_POS_RIGHT><FACE_GOMBE><FACE_NORMAL>btw, disana ada sangat
+banyak jenis dari serangga.<PAGE>salah satunya yang aku
+minta kamu mencarinya!<PAGE><FACE_POS_RIGHT><FACE_GOMBE><FACE_HAPPY>Beberapa serangga memang
+sangat susah ditangkap,
+Tapi\u270a Tangkap mereka!!!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Ah, kamu telah menyelesaikan
+permintaanku! Ini hadiahnya!<PAGE>Kamu bisa memilih hadiah apa
+di <RED>Layar hadiah</COLOR>!<PAGE><FACE_POS_RIGHT><FACE_GOMBE><FACE_HAPPY>Lalu taruh kedalam <RED>tas</COLOR>
+kamu! Mudah, kan? 
+seperti memakan makanan!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_HAPPY><FP_RIGHT>Ah, kamu melakukan dengan
+baik!<PAGE>Kalau begitu aku akan mema-
+sang sangat banyak perminta-
+an dipapan permintaan nanti!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Ah, halo,
+<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Ah, halo,
+<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Ah, halo,
+<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Ah, halo,
+<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Ah, halo,
+<MYNAME>.
+----------------------------|----------------------------------
+<FP_NONE>Ehem! Kelas penangkapan
+serangga ala Gombe, dimulai!
+----------------------------|----------------------------------
+<FP_NONE>Ah! Kamu melihatnya serangga
+itu muncul?
+----------------------------|----------------------------------
+<FP_NONE>Hampir semua serangga ber-
+sembunyi direrumputan.<PAGE>Disaat ada sesuatu yang
+mengagetkannya, mereka akan
+lompat keluar!<PAGE>Disaat kamu menemukan seekor
+serangga, mulai mendekatinya
+dan...<PAGE>BAM!\u270a
+<RED>Tekan tombol A</COLOR>!
+Kamu akan menangkapnya!
+----------------------------|----------------------------------
+<FP_NONE>Tapi jika kamu tidak menang-
+kapnya secara cepat, mereka
+akan kabur dari kamu!<PAGE>Jadi berhati-hati, dan
+tetap waspada!<PAGE>Tapi, jika mereka kabur
+dari kamu, jangan khawatir!<PAGE>Ini adalah sebuah pegunungan!
+Tetap lihat sana sini, dan
+kamu akan menemukannya lagi!
+----------------------------|----------------------------------
+<FP_NONE>Disaat kamu berjalan-jalan
+ditempat seperti berumput,
+kemungkinan mereka akan<PAGE>melompat keluar!
+----------------------------|----------------------------------
+<FP_NONE>Untuk saat ini, permintaanku
+cari seekor serangga bernama
+<GREEN>Belalang punggung</COLOR>...
+----------------------------|----------------------------------
+<FP_NONE>Berjalan disekitar disini
+adalah bagaimana kamu pasti
+nya menemukan mereka!<PAGE>Tetapi, jika kamu lihat-
+lihat, tapi tidak menemukan
+salah satunya...<PAGE>Bisa pindah ketempat lain
+lalu kembali ketempat semula
+dengan <RED>berpindah layar</COLOR>.<PAGE>Itu seharusnya muncul lagi!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Ah, halo,
+<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Ah, halo,
+<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Ah, halo,
+<MYNAME>.

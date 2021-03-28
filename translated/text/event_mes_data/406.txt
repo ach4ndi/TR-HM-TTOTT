@@ -1,0 +1,39 @@
+<FACE_POS_LEFT><FACE_REINA><FACE_HAPPY><FP_LEFT>Kamu sudah tumbuh besar dan
+kuat ya?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_REINA><FACE_HAPPY><FP_LEFT>Ini butuh kerja keras untuk
+menyirami kamu semua,
+apa kamu tahu itu?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_REINA><FACE_HAPPY><FP_LEFT>Jadi, Apa yang harus aku
+katakan kepada kalian
+semua hari ini?<PAGE>Aku ingin semuanya sehat
+selalu, jika kalian tahu :v
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_REINA><FACE_HAPPY><FP_LEFT>Kamu tahu, apapun yang aku
+katakan kepada kalian...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MAKO><FACE_ANGRY><FP_RIGHT>Ahem!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Apa kamu sedang berbicara
+kepada seseorang sekarang?<PAGE><FACE_POS_LEFT><FACE_REINA><FACE_SHY><FP_LEFT>W-Well, sebenarnya...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_REINA><FACE_ANGRY><FP_LEFT>Ini sebenarnya juga bagian
+dari penelitihanku! Ini
+tidak seperti mempunyai<PAGE>teman untuk diajak berbicara
+yang menyenangkan...<PAGE><FACE_POS_RIGHT><FACE_MAKO><FACE_SAD><FP_RIGHT>Pembicaraan menyenangkan
+ke...? Semangat untuk
+penelitihan itu oke, tapi...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_REINA><FACE_ANGRY><FP_LEFT>Yang aku tadi bilang, ini
+hanyalah bagian dari 
+penelitihan, barusan kan?<PAGE><FACE_POS_LEFT><FACE_REINA><FACE_SHY><FP_LEFT>..., mohon lupakan yang
+barusan...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MAKO><FACE_SAD><FP_RIGHT>Sepertinya kita ketemuan di
+waktu yang salah hari ini.<PAGE><FACE_POS_LEFT><FACE_KANA><FACE_NORMAL><FP_LEFT>Yeah, sepertinya benar. 
+Aku hanya ingin untuk
+mencari bahan makanan<PAGE>untuk kuda-kuda aku 
+dikandang...<PAGE><FACE_POS_LEFT><FACE_KANA><FACE_HAPPY><FP_LEFT>Sepertinya semua sudah
+mengerti. Jadi aku akan
+kembali diwaktu yang lain.<PAGE><FACE_POS_RIGHT><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Maafkan aku.

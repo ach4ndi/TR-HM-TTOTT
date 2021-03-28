@@ -1,0 +1,199 @@
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>Telolelolet!
+Selamat pagi,
+<MYNAME>!<PAGE>Aku ada sesuatu yang ingin
+kubicarakan denganmu!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Karena itulah aku akan mem-
+bawamu kekolamku diatas
+bukit pegunungan!<PAGE>\u20d0Nah kita pergi ya!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>Telolelolet!
+Selamat datang dikolamku
+yang indah ini!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>Oke oke, aku tahu bahwa ini
+sangat mendadak, tapi ada
+sesuatu yang inginku tanya-<PAGE>kan kepadamu!<PAGE><MYNAME>, apakah ...<PAGE>kamu mau membagikan tanaman
+yang kamu rawat itu kepada
+orang lain?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Nah, itu yang aku pikirkan!
+Aku tahu bahwa kamu bisa
+diandalkan!<PAGE>Ayo kesini, ikuti aku menu-
+ju kedalam kolam!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Jadi, gimana pendapatmu?
+Aku bertaruh bahwa kamu
+tidak mengirahnya!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Ini adalah <RED>Lahan ber-
+sama (Multiplayer)</COLOR>!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>Lahan bersama ini adalah
+lahan istimewah dimana kamu
+bisa menggunakannya dalam<PAGE>mode permainan multiplayer!<PAGE>Apa yang istimewahnya?
+Oke, <RED>kamu tidak dapat me-
+manen tanaman</COLOR> yang kamu<PAGE>tanam disini. Tapi kamu
+dapat <RED>mengundang teman</COLOR>
+kesini dan <RED>mereka dapat</COLOR><PAGE><RED>memanen tanaman yang kamu
+tanam disini</COLOR>!<PAGE>Ini adalah kesempatan emas
+untuk berbagi tanaman kepa-
+da orang lain!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Kupikir, ini adalah pembe-
+rianku kepadamu, sebuah
+hadiah lahan bersama!
+----------------------------|----------------------------------
+<CHOICE_AB> Makasih!
+ Uh tidak menginginkannya!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>lelele! Aku senang disaat
+kamu menyukainya!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>Oh ya, cara menumbuhkan ta-
+naman disini agak berbeda
+daripada biasanya...<PAGE>Ini agak berbeda dari lahan
+mu dikebun. Apakah kamu mau
+aku jelaskan?<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Aku dapat menjawab perta-
+nyaan apapun dari kamu!
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+<CHOICE_ABC> Kegiatan apa saja?
+ Cara menumbuhkan tanaman?
+ Selanjutnya.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>Proses tumbuhnya tanaman di
+lahan bersama ini agak ber-
+beda dari lahan biasa.<PAGE>Biasanya kamu membutuhkan
+sabit untuk memotong tana-
+man sebelum menanam.<PAGE>Karena disini tak akan ada
+rumput liar yang tumbuh.<PAGE>Dan juga tidak perlu
+khawatir mengenai musim
+yang ada disini.<PAGE>Jadi, sebelum kamu menabur
+bibit, kamu menggunakan
+alat <RED>Sun</COLOR> untuk me-<PAGE>milih musim yang diinginkan.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Ya <RED>Sun</COLOR> ada disana!<PAGE>Jika kamu ingin mengganti
+musimnya, <RED>ambil sun di
+musim itu darisana</COLOR>!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>Apakah masih ada yang ingin
+ditanyakan?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Maka, mari kujelaskan apa
+saja yang bisa kamu lakukan
+dimode Multiplayer.<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>Seperti yang aku bilang,
+kamu dapat mengundang teman
+untuk datang memanen tana-<PAGE>man yang kamu tanam itu...<PAGE>atau kamu berkunjung ke
+lahan temanmu untuk mengam-
+bil tanaman mereka tanam.<PAGE>Hal pertama yang dilakukan
+adalah mengundang mereka
+datang kekebunmu.<PAGE>Selanjutnya berapa banyak
+<RED>biaya masuk</COLOR> untuk datang
+kekebunmu.<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_SAD><FP_RIGHT>Pastikan biaya yang kamu
+pasang itu tidak terlalu
+mahal, atau tidak satupun<PAGE>yang akan datang berkunjung
+kekebunmu loh...<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>Oh, dan jika kamu ingin
+keluar selama mode Multi-
+player...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Well, semoga beruntung ya!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>Oh! Ya aku hampir melupakan-
+nya! Ini sangat penting!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Di-ingat-ingat ya untuk mem-
+berikanku persembahan yang
+banyak disaat mampir!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>Tinggal lempar pas didepan
+air kolam! Aku akan menang-
+kapnya!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Oh ya, aku sangat suka
+yang manis-manis, berry
+merah! dan aku akan<PAGE>menunggunya!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>...Ya disini! Jangan lupakan,
+ya!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>...Tinggal keluar lewat
+sana!<PAGE>Namun, koneksinya tidak akan
+terpustus sampai <RED>semua
+player keluar</COLOR>.<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Setiap orang memanen dengan
+caranya sendiri, jadi lebih
+bijaknya menunggunya seleai!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>Aku akan menyerahkan biaya
+masuk tadi kepadamu setelah
+kamu keluar dari mode multi-<PAGE>playernya!<PAGE>Jadi pilih <RED>Lanjut</COLOR> dari
+Menu Utama dan datang kem-
+bali kesini untuk mengam-<PAGE>bilnya!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_SAD><FP_RIGHT><RED>Kamu tidak dapat mengun-
+dang orang lagi</COLOR> ke mode
+Multiplayer sampai kamu<PAGE>mengambil biaya masuknya
+tadi.<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Oh, dan jika kamu sering
+menggunakan mode Multipla-
+yer, ada hadiahnya loh!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>Oh ya, apakah kamu mengairi-
+tanamanmu tiap hari,
+<MYNAME>?<PAGE>Tanaman yang normal akan la-
+yu jika tidak disiram tiap
+hari...<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>...Tapi tanaman disini ti-
+dak akan layu, walaupun ka-
+mu tidak menyiramnya!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>Namun, walaupun tidak akan
+layu, mereka tidak akan
+tumbuh jika tidak disiram!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Tapi jika kamu sibuk, itu
+artinya kamu tidak membutuh-
+kan menyiram tanaman disini!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>Kamu bebas untuk merawat
+tanaman disini sesuai de-
+ngan keinginanmu ya!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>Di mode Multiplayer, kamu
+dapat mengundang teman
+untuk memanen tanaman yang<PAGE>kamu rawat itu! Dan kamu
+dapat juga mendatangi lahan
+multiplayer mereka dan me-<PAGE>manen tanaman mereka juga!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>lelele! Apakah itu tampak
+menyenangkan?<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>Oh, sebelum aku membahas
+lebih lanjut, biarkan aku
+memberitahumu bagaimana ke<PAGE>mode Multiplayer...<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Pertama, pilih <RED>Multiplayer</COLOR>
+dari <RED>Menu Utama</COLOR>.<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>Ada dua cara untuk memain-
+kan mode Multiplayer.<PAGE>Untuk bermain dengan <RED>teman
+disekitarmu</COLOR>, pilih <RED>Local
+Wireless</COLOR>.<PAGE>Untuk bermain dengan <RED>yang
+dari jauh</COLOR>, pilih
+<RED>Nintendo WFC</COLOR>.<PAGE>Kamu akan membutuhkan <RED>koneksi
+nirkabel (internet)</COLOR> dan<PAGE>minimal memiliki satu 
+<RED>friend code</COLOR> untuk ber-
+main di <RED>Nintendo WFC</COLOR>.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>Pertama, ganti alat bernama
+Sun untuk mengganti musim
+yang kamu inginkan.<PAGE>Setelah itu, tinggal men-
+cangkuli lahan dan tabur
+bibitnya dan siram!<PAGE>Oh, kamu tidak dapat mena-
+nam <RED>gandum</COLOR>, <RED>sorgum</COLOR>, <RED>kedelai</COLOR>,
+atau menggunakan <RED>pupuk</COLOR>!<PAGE>Di-ingat-ingat ya!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Ah, aku butuh menunjukanmu
+dimana kamu mendapatkan air!
+Kamu dapat...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>...\u270a\u270a...\u270a\u270a...\u270a\u270a<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>lelele! Aku senang kamu me-
+nyukainya!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>..., kamu dapat menumbuhkan
+tanaman dilahan ini sedikit
+berbeda daripada biasanya..<PAGE>Ini cukup berbeda dari la-
+han biasa. Apakah kamu mau
+kujelaskan ini kepadamu?<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Aku dapat menjawabnya loh!
+Jadi tanyakan saja ya!
+----------------------------|----------------------------------
+<CHOICE_ABC> Jelaskan kode teman.
+ Sudah lah..
+ Kembali.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>Kamu membutuhkan sebuah
+<RED>friend code</COLOR> untuk
+menyambung ke Nintendo WFC.<PAGE>Friend Code ini adalah se-
+buah nomer untuk membedakan
+antara pemakai lainnya.<PAGE>Semua orang memilikinya
+loh!<PAGE>Kamu dapat memasukkan friend
+code milik temanmu langsung
+didaftar pertemananmu.<PAGE>Atau, disaat kamu menyam-
+bungkan ke orang-orang le-
+wat local wireless,<PAGE>friend code mereka akan
+otimatis masuk kedalam
+daftar temanmu.<PAGE>Tapi hanya untuk 30 teman
+pertama saja yang otomatis
+ditambahkan.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>Dan kurasa itu semua hal
+yang perlu kamu ketahui!<PAGE>Jadi sekarang biarkan aku
+memindahkanmu kembali ke-
+rumahmu, <MYNAME>!<PAGE>Aku akan mengantarkanmu
+kembali kerumahmu untuk
+saat ini...<PAGE>...Tapi kedepannya kamu
+harus jalan kaki pulang
+sendiri ya!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Well, Aku harap aku bisa
+melihatmu di lahan bersama
+ini!

@@ -1,0 +1,22 @@
+<FACE_POS_LEFT><FACE_CHERYL><FACE_ANGRY><FP_LEFT>Hey! Jangan lari seperti
+itu!<PAGE><FACE_POS_LEFT><FACE_CHERYL><FACE_SAD><FP_LEFT>Aww, sekarang
+aku basah kuyup -_-
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_CHERYL><FACE_SAD><FP_LEFT>Aku akan pulang kerumah
+jadi aku tidak akan sakit.
+Jangan lari lagi ya!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><HIDE_NAME><FACE_ASH><FACE_NORMAL><FP_LEFT><HIDE_FACE>Kamu disitu ya.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL><FP_RIGHT>Kamu seharusnya membawa 
+payung disaat hujan seperti
+dihari ini.<PAGE><FACE_POS_LEFT><FACE_CHERYL><FACE_HAPPY><FP_LEFT>Makasih, Ash!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL><FP_RIGHT>Kenapa kau lari keluar tanpa
+membawa payung seperti itu?<PAGE><FACE_POS_LEFT><FACE_CHERYL><FACE_NORMAL><FP_LEFT>Aww, kamu mengkhawatirkan
+aku?<PAGE><FACE_POS_LEFT><FACE_CHERYL><FACE_HAPPY><FP_LEFT>Aku selalu bisa
+mengandalkanmu kak!<PAGE>Kamu seorang kakak 
+yang terbaik yang 
+pernah aku miliki!<RED>❤</COLOR><PAGE><FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>Yeah, Oke.<PAGE><FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL><FP_RIGHT>Ayo pulang kerumah, ibu
+akan lebih khawatir
+jika masih diluar.<PAGE><FACE_POS_LEFT><FACE_CHERYL><FACE_NORMAL><FP_LEFT>Okay!♪

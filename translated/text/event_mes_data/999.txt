@@ -1,0 +1,61 @@
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>Biarkan aku mengenalkan kamu
+kepada kuda kesayanganku,
+Hayate!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>Aku juga harus memberitahu-
+kan bahwa Hayate dan aku
+itu benar benar dekat.<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>Tapi aku akan bertaruh
+bahwa kamu sudah mengetahui
+nya ya kan?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>Hayate dan aku sebenarnya
+tumbuh bersama-sama dan
+besar bersama-sama.<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_SHY><FP_RIGHT>Dia memberikan banyak masa-
+lah disaat anak-anak! Dia
+tidak mau ada yang mengen-<PAGE>darainya. (Hayate - betina)
+Tapi tentu saja, aku juga
+benar-benar keras kepala<PAGE>untuk tidak berhenti men-
+coba mengendarainya.
+Aku memberikan makanan de-<PAGE>ngan tangan tiap hari sam-
+pai dia mempercayahiku
+yang cukup untuk membiar-<PAGE>kan aku mengendarai dia.<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>Sejak itu, dia dan aku
+hampir selalu dapat ber-
+kendara keliling tempat.<PAGE>Dan sekarang dia sudah
+semakin tua, terkadang kaki
+dia sakit. Jadi aku tidak<PAGE>mau memaksakan dia akhir-
+akhir ini.
+----------------------------|----------------------------------
+<CHOICE_AB> Dia seperti keluarga aja...
+ Ayo balapan!
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>Yee, tepat sekali! Aku me-
+ngetahuinya sudah sangat
+lama daripada orang lain.<PAGE>Dia sudah menjadi bagian
+dari keluarga aku. Aku
+tidak bisa membayangkan<PAGE>tidak bisa hidup bersama-
+sama dengan dia.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>Apakah ini benar, Hayate?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>Haha, dah dah sudah!
+Berhenti!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>Hey, <MYNAME>, Aku
+senang dapat memperkenalkan
+mu kepada Hayate hari ini.<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>Sepertinya Hayate senang
+melihatmu juga.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>Aku harap kamu mampir ke-
+sini untuk melihat Hayate
+lagi.<PAGE>Terima kasih atas kedatadang-
+annya hari ini,
+<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_SAD><FP_RIGHT>Ayolah, <MYNAME>,
+Apa kamu tidak mendengarkan
+aku?<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_ANGRY><FP_RIGHT>Walaupun ini candaan, membi-
+carakan seperti ini tidaklah
+keren.<PAGE>Aku tahu bahwa aku yang me-
+mintamu datang kesini, tapi
+sekarang aku ingin kamu<PAGE>pergi sana. sekarang!

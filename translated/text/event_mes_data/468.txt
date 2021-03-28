@@ -1,0 +1,82 @@
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Telolelolet!<PAGE>Kamu barusan menangkap
+30 <VAR_0>!
+Selamat!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>Perjalananmu masih panjang!
+Jangan bangga dari hasil
+yang minim ini!<PAGE>Tapi jika kamu lebih jeli
+melihat disekitar, Aku
+yakin kamu akan menemukan<PAGE>lebih banyak serangga
+yang kamu cari!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Lanjutkan usaha kerasmu
+itu!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Telolelolet!<PAGE>Kamu barusan menangkap
+100 <VAR_0>!
+Selamat!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>Kamu semakin bagus saja
+dalam menangkap serangga!<PAGE>Cobalah cari ditempat yang
+lain atau beda waktu!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Lanjutkan usaha kerasmu
+itu!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Telolelolet!<PAGE>Kamu barusan menangkap
+300 <VAR_0>!
+Selamat!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>Sepertinya kamu sudah benar-
+benar menguasahi teknik
+menangkap serangganya...<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Lanjutkan usaha kerasmu
+itu!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Telolelolet!<PAGE>Kamu barusan menangkap
+500 <VAR_0>!
+Selamat!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>Wow! Ini tidak mungkin!
+Pastinya kamu menyukai
+menangkap serangga!<PAGE>Asalkan bukan dibuat sate
+ya! kalau iya minta donk
+:v<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Lanjutkan usaha kerasmu
+itu!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Telolelolet!<PAGE>Kamu barusan menangkap
+1,000 <VAR_0>!
+Selamat!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>Wiw benar-benar sangat ba-
+nyak.. Tapi apakah ini
+sudah cukup? atau kurang?!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>Kalau itu membuatmu bahagia,
+ya kupikir itu hal terpen-
+ting buatmu...<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Semoga menyenangkan dalam
+menangkap serangga!<PAGE>dirambutku ada kutu
+tolong ditangkap donk!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><HIDE_NAME><FACE_HGODDES><FACE_NORMAL><FP_LEFT><HIDE_FACE>Telolelolet! kamu barusan
+menangkap 30
+<VAR_0>!Selamat!<PAGE>btw, apakah kamu sudah
+mengetahui siapa aku?<PAGE>Aku akan memberitahukanmu
+jika kamu dapat menemukan
+aku!<PAGE>Lanjutkan usaha kerasmu
+itu!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><HIDE_NAME><FACE_HGODDES><FACE_NORMAL><FP_LEFT><HIDE_FACE>Telolelolet! kamu barusan
+menangkap 100
+<VAR_0>!Selamat!<PAGE>btw, apakah kamu sudah
+mengetahui siapa aku?<PAGE>Aku akan memberitahukanmu
+jika kamu dapat menemukan
+aku!<PAGE>Lanjutkan usaha kerasmu
+itu!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><HIDE_NAME><FACE_HGODDES><FACE_NORMAL><FP_LEFT><HIDE_FACE>Telolelolet! kamu barusan
+menangkap 300
+<VAR_0>!Selamat!<PAGE>btw, apakah kamu sudah
+mengetahui siapa aku?<PAGE>Aku akan memberitahukanmu
+jika kamu dapat menemukan
+aku!<PAGE>Lanjutkan usaha kerasmu
+itu!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><HIDE_NAME><FACE_HGODDES><FACE_NORMAL><FP_LEFT><HIDE_FACE>Telolelolet! kamu barusan
+menangkap 500
+<VAR_0>!Selamat!<PAGE>btw, apakah kamu sudah
+mengetahui siapa aku?<PAGE>Aku akan memberitahukanmu
+jika kamu dapat menemukan
+aku!<PAGE>Lanjutkan usaha kerasmu
+itu!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><HIDE_NAME><FACE_HGODDES><FACE_NORMAL><FP_LEFT><HIDE_FACE>Telolelolet! kamu barusan
+menangkap 1,000
+<VAR_0>!Selamat!<PAGE>btw, apakah ini saatnya
+kamu mengetahui siapa aku?<PAGE>Aku pikir akan menampakkan
+diriku didepan kolam untuk
+ditemukan...<PAGE>Lanjutkan usaha kerasmu
+itu!

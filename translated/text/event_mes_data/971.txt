@@ -1,0 +1,77 @@
+<FACE_POS_RIGHT><FACE_REINA><FACE_SHY><FP_RIGHT>Oh, maafkan aku.
+Aku agak melamun memikirkan
+sesuatu.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>Tak usah dirisaukan ya.
+Ini tidak apa apa.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>Hey, <MYNAME>...
+ada sesuatu yang ingin aku
+tanyakan kepadamu.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_SHY><FP_RIGHT>Kamu selalu mengatakan "ya"
+berkali-kali disaat aku
+memintamu bertemu denganku<PAGE>disuatu tempat...<PAGE>Apakah itu artinya kamu
+senang bersama denganku?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>Oh... begitu...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>Aku benar-benar susah menga-
+takan kepadamu, <MYNAME>,
+bahwa aku suka tanaman.<PAGE>Disaat aku sedang memperla-
+jari suatu tanaman, semua
+hal disekitarku seakan-akan<PAGE>menghilang tak berbekas.<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_SHY><FP_RIGHT>Beberapa orang berpikir
+bahwa itu membuatku susah
+untuk bergaul...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>Itu hampir sering, tapi tak
+masalah buatku. Orang-orang
+bisa berpikir apapun.<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_SAD><FP_RIGHT>Jika mereka tidak suka
+dengan siapa aku ini,
+aku tidak bisa melakukan<PAGE>apa-apa, itu terserah mere-
+ka asalkan tidak mengganggu.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>Dan aku sih baik-baik saja
+selalu sendiri sepanjang
+waktu.<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_SAD><FP_RIGHT>Tapi terkadang aku ingin
+orang-orang mendekatiku.
+Terutama...orang itu.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>Jadi, <MYNAME>...
+apa yang kamu pikirkan me-
+ngenai sosokku ini?
+----------------------------|----------------------------------
+<CHOICE_AB> Kamu itu serius banget.
+ Kamu imut deh~
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>Oh, oke.
+Jadi itu yang kamu pikirkan
+mengenai diriku?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_SHY><FP_RIGHT>Ah bagus kalau gitu.
+Serius, hu....?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_HAPPY><FP_RIGHT>Ah tak apa-apa. Aku hanya
+ingin mendengar pendapatmu
+saja kok. Lupakan aja ya.<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>Uh, tampaknya sudah malam.
+Kenapa kita tidak kembali?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_SHOCK><FP_RIGHT>Oh!?
+I-Imut...!?<PAGE>K-Kamu serius, <MYNAME>?
+A-Aku tak yakin akan ku-
+katakan ini...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_SHOCK><FP_RIGHT>Uh...um...Aku barusan inget
+ada urusan yang harus di-
+selesaikan. jadi aku pergi<PAGE>dulu ya.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_SAD><FP_RIGHT>\u20d0Waaaaahhhhh!?!?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_SAD><FP_RIGHT>Owwwwww!!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_SHOCK><FP_RIGHT>Ini semua salahmu karena
+sudah mengatakan hal yang
+menjijikan itu...<PAGE>Sekarang lihatlah aku...<PAGE>.........
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_ANGRY><FP_RIGHT>Jangan lihat aku, sampah!
+Aku akan pulang! Bye!

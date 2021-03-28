@@ -1,0 +1,21 @@
+<FACE_POS_LEFT><HIDE_NAME><FACE_MIKHAIL><FACE_NORMAL><FP_LEFT><HIDE_FACE>Apa kamu sudah siap, 
+<MYNAME>?
+Aku masuk ya.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>Untuk sementara ini aku
+pergi dari desa pada musim
+panas ini, karena aku ingin<PAGE>pergi untuk mencari tempat
+yang lebih dingin.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MIKHAIL><FACE_SHY><FP_RIGHT>Aku tidak tahan kalau hawa
+nya terlalu panas.<PAGE>Panas dan bisingnya serangga
+ini membuatku tidak kerasan
+dan tidak bisa berpikir.<PAGE><FACE_POS_RIGHT><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>Jadi aku harus mencari
+tempat yang lebih dingin
+dan adanya air yang<PAGE>mengalir, tempat yang 
+menenangkan pokoknya.
+Itu tempat favoritku.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>Aku akan kembali ke desa
+disaat musim gugur. Sampai
+jumpa lagi, dadah ya!

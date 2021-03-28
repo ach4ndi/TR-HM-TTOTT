@@ -1,0 +1,81 @@
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>Bukankah hari ini
+hari yang indah?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_HIRO><FACE_NORMAL><FP_LEFT>Oh, Nori!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_HIRO><FACE_HAPPY><FP_LEFT>makasih banyak telah mem-
+bantuku pas hari yang lain.<PAGE><FACE_POS_LEFT><FACE_HIRO><FACE_SAD><FP_LEFT>Tapi kayaknya ada yang
+salah.<PAGE>Aku akan membelinya nanti,
+maafin aku ya hehehe.<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Oh, iya gapapa!
+hmm gapapako gapapa.
+Jangan khawatir!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_HIRO><FACE_SHOCK><FP_LEFT>Makasih banyak ya.<PAGE><FACE_POS_LEFT><FACE_HIRO><FACE_HAPPY><FP_LEFT>Oh, maafin aku telah
+mengganggu!
+Bye!!.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_YING><FACE_NORMAL><FP_RIGHT>......<PAGE>Pandaku...
+huhu pandaku...
+gimana yaa?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_NORI><FACE_NORMAL><FP_LEFT>Ada apa, Ying?
+Ada yang salah dengan
+pandamu itu?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_YING><FACE_NORMAL><FP_RIGHT>Um...uh...
+hhhhh.. au ah gelap
+gelap gelap gelap...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_NORI><FACE_SAD><FP_LEFT>Oh tidak!
+Kaki pandamu robek, ...?<PAGE><FACE_POS_LEFT><FACE_NORI><FACE_NORMAL><FP_LEFT>Bentar ya, Ying.
+aku akan memperbaikinya.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_NORI><FACE_NORMAL><FP_LEFT>\u20d0ini dia!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_NORI><FACE_HAPPY><FP_LEFT>Ini dia eaaa!
+Tampak seperti barukan?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_YING><FACE_HAPPY><FP_RIGHT>Wowee!
+pandaku kembali normal
+boo-boo!!<PAGE>Nori, kamu pintar!
+Maacih...!<PAGE><FACE_POS_LEFT><FACE_NORI><FACE_HAPPY><FP_LEFT>Ha ha!
+Iya iya!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_YING><FACE_HAPPY><FP_RIGHT>Bentar aku akan
+menunjukannya ke nenek!<PAGE><FACE_POS_LEFT><FACE_NORI><FACE_NORMAL><FP_LEFT>Bye Bye, Ying!
+I love you eaaa
+bye!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_NORI><FACE_NORMAL><FP_LEFT>Maaf yaa, <MYNAME>!
+----------------------------|----------------------------------
+<CHOICE_AB> Kamu baik banget!
+ Anjing kacang!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_NORI><FACE_NORMAL><FP_LEFT>Oh tidak, itu biasa.
+Aku hanya melakukan.<PAGE>Apa yang harus aku lakukan.<PAGE><FACE_POS_LEFT><FACE_NORI><FACE_HAPPY><FP_LEFT>Aku tau kamu butuh itu,
+<MYNAME>.<PAGE>Tapi kamu gabisa ngejalanin
+pertanian tanpa hati yang
+baik.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_NORI><FACE_SHY><FP_LEFT>Whoops!
+Waktunya!<PAGE><FACE_POS_LEFT><FACE_NORI><FACE_SAD><FP_LEFT>Mako menyuruhku untuk
+membantunya!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_NORI><FACE_SAD><FP_LEFT>Maaf ya aku 
+harus pergi nih..
+maaf banget
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_NORI><FACE_HAPPY><FP_LEFT>BTW Terima kasih ya,
+<MYNAME>.
+Kamu sangat manis.<PAGE><FACE_POS_LEFT><FACE_NORI><FACE_NORMAL><FP_LEFT>Aku harus pergi!
+BTW Hati hatiya saat
+jalan pulang, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_NORI><FACE_SAD><FP_LEFT>Anjrit!<PAGE><FACE_POS_LEFT><FACE_NORI><FACE_SHOCK><FP_LEFT>...LU GITU AMAT SIH
+MASA GUA HARUS GITU?
+LU GAPUNYA HATI SIH?<PAGE>HHH.. GELAP NJIR
+kasian tau dia.<PAGE><FACE_POS_LEFT><FACE_NORI><FACE_NORMAL><FP_LEFT>Lu mah gapunya hati sih
+lu itu cowok murahan,
+gitu aja ngambek.<PAGE><FACE_POS_LEFT><FACE_NORI><FACE_SAD><FP_LEFT>Udah ah gw mao
+pulang aja. nyesel gw chat 
+bareng lu hari ini

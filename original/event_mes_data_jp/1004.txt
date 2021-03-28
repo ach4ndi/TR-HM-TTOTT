@@ -1,0 +1,34 @@
+<FACE_POS_RIGHT><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>この泉のそばは、
+空気がすごく
+すんでいる気がするよ。<PAGE>鳥や虫のなき声も
+とても落ち着いて、優しい
+雰囲気を出しているしね。
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MIKHAIL><FACE_HAPPY><FP_RIGHT>こういう場所で
+ヴァイオリンを弾いたら
+とても気持ち良いだろうね。
+----------------------------|----------------------------------
+<CHOICE_AB> 弾いてほしいな♪
+ 弾かなくて良いよ
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MIKHAIL><FACE_HAPPY><FP_RIGHT>かわいいキミに、
+そんな風にお願いされたら
+応えないわけにはいかないな。
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MIKHAIL><FACE_HAPPY><FP_RIGHT>うん、やっぱりほかのどこで
+弾くよりも、空気の震えが
+センサイで気持ち良いよ。<PAGE><FACE_POS_RIGHT><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>キミも、オレの音に
+満足してくれたかい？
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MIKHAIL><FACE_HAPPY><FP_RIGHT>そう。それは良かった。<PAGE><FACE_POS_RIGHT><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>さぁ、それじゃあ
+遅くならないうちに帰ろうか。<PAGE>今日は楽しかったよ。
+付き合ってくれてありがとう。
+じゃあね、<MYNAME>。
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MIKHAIL><FACE_SAD><FP_RIGHT>キミは、そんな風に言うほど
+オレのつむぐ音が、
+キライなのかい？<PAGE>それは……残念だな。<PAGE><FACE_POS_RIGHT><FACE_MIKHAIL><FACE_SHY><FP_RIGHT>いつか、キミにもオレの音が
+わかってもらえるようになれば
+良いんだけれどね。<PAGE><FACE_POS_RIGHT><FACE_MIKHAIL><FACE_SAD><FP_RIGHT>……それじゃあ
+オレはこれで帰るよ。<PAGE>今日は付き合ってくれて
+ありがとう。

@@ -1,0 +1,94 @@
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_HAPPY><FP_RIGHT>I've been working awfully
+hard on my cooking lately.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>Laney and I used to bake a
+lot when we were younger, so
+I'm a fair hand at baking.<PAGE><FACE_POS_RIGHT><FACE_GEORGIA><FACE_SHY><FP_RIGHT>I've never been much
+good at cooking anything
+else, though.<PAGE><FACE_POS_RIGHT><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>But I want to take another
+shot at cooking.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_SHOCK><FP_RIGHT>I'm sure I can get the hang
+of it!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_HAPPY><FP_RIGHT>Hey, I've got an idea!
+Let's have a picnic on the
+mountain!<PAGE>I'll make us some
+tasty rice balls!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_HAPPY><FP_RIGHT>Great! I'll go get started
+on 'em!<PAGE>Why don't you go wait for me
+on the mountain, <MYNAME>?
+I'll meet you when I'm done.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>Thanks for waiting!<PAGE>Do forgive me. I didn't
+think I would take so long.<PAGE><FACE_POS_RIGHT><FACE_GEORGIA><FACE_HAPPY><FP_RIGHT>Tada! Here they are!
+My extra special
+rice balls!<PAGE>Go ahead and try one!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_SHY><FP_RIGHT>H-How is it?
+----------------------------|----------------------------------
+<CHOICE_AB> Really good!
+ It tastes weird...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_HAPPY><FP_RIGHT>Why, I'm so glad!<PAGE>Well, I'm famished too!
+Let's eat!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_SAD><FP_RIGHT>Ugh!<PAGE><FACE_POS_RIGHT><FACE_GEORGIA><FACE_ANGRY><FP_RIGHT>\u20d1This is so sweet!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_SAD><FP_RIGHT>I'm so used to making sweet
+things, I added sugar
+without thinking.<PAGE><FACE_POS_RIGHT><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>How sweet of you to lie
+and tell me it was good!
+<PAGE><FACE_POS_RIGHT><FACE_GEORGIA><FACE_SAD><FP_RIGHT>I'm so sorry you had to eat
+that, though.
+<PAGE>Here I thought I could
+at least make rice balls...
+Guess I was wrong.<PAGE><FACE_POS_RIGHT><FACE_GEORGIA><FACE_SHY><FP_RIGHT>I'll never be any good at
+cooking.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_SAD><FP_RIGHT>You think I can get the hang
+of it? Well, that's kind of
+you.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>That's it!<PAGE><FACE_POS_RIGHT><FACE_GEORGIA><FACE_ANGRY><FP_RIGHT>No more focusing on nothing
+but animals! Starting today,
+I'm going to learn to cook!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>I'm gonna work really hard
+at it!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_SHOCK><FP_RIGHT>So...uh...I can cook you a
+special meal. Because...
+you're really special to me.<PAGE><FACE_POS_LEFT><HIDE_NAME><FACE_GRADY><FACE_NORMAL><FP_LEFT><HIDE_FACE>\u20d0Hellooo? Georgia?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_GRADY><FACE_HAPPY><FP_LEFT>There you are, Georgia!<PAGE><FACE_POS_LEFT><FACE_GRADY><FACE_NORMAL><FP_LEFT>There's a customer who
+wanted to take a look at the
+thoroughbred harnesses.<PAGE>And I wasn't sure where
+you put them.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_SAD><FP_RIGHT>Dad...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_SAD><FP_RIGHT>Dad, you...\u270b
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_ANGRY><FP_RIGHT>\u20d1IDIOT!!!!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_GRADY><FACE_NORMAL><FP_LEFT>What?
+Hey there, Georgia!<PAGE>The harness. Where are
+those harnesses?<PAGE>Georgia, where are
+you going?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_GRADY><FACE_SAD><FP_LEFT>What's going on with her?
+
+<PAGE><FACE_POS_LEFT><FACE_GRADY><FACE_NORMAL><FP_LEFT>I didn't interrupt anything,
+did I, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_GRADY><FACE_SAD><FP_LEFT>Hey!
+Georgia, wait!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_SHY><FP_RIGHT>Huh!?
+They're weird...?<PAGE><FACE_POS_RIGHT><FACE_GEORGIA><FACE_SAD><FP_RIGHT>That's not a very
+gentlemanly thing to say,
+even if you don't like them.<PAGE>I worked hard on those!
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_SAD><FP_RIGHT>...

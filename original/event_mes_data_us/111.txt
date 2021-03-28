@@ -1,0 +1,601 @@
+<FACE_POS_CENTER><FACE_ROSE><FACE_NORMAL><FP_RIGHT>Oh my, you must be new.
+I'm <BLUE>Rose</COLOR>.
+I'm so happy to meet you!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_SAD><FP_RIGHT>I do hope your farm was
+alright yesterday! Such
+dreadful weather!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_SAD><FP_RIGHT>Oh my, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_NORMAL><FP_RIGHT>Oh my, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_NORMAL><FP_RIGHT>Oh my, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_HAPPY><FP_RIGHT>Heh heh. What a sweetheart.
+I almost wish I could keep
+it myself.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_SAD><FP_RIGHT>I...I'm afraid I don't like
+it. I'm sorry, dear.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_NORMAL><FP_RIGHT>Oh my, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_HAPPY><FP_RIGHT>Oh my, how lovely!
+So who's the lucky person?<PAGE>Well, whoever it is, they'll
+be lucky to have you. I'm
+sure they'll say yes.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_NORMAL><FP_RIGHT>Oh my, is that for me?
+You shouldn't trouble
+yourself, dear.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_NORMAL><FP_RIGHT>I couldn't possibly carry
+another gift. I'm sorry.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_NORMAL><FP_RIGHT>Oh my, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_NORMAL><FP_RIGHT>Oh my, <MYNAME>
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_NORMAL><FP_RIGHT>Oh, I think you should hold
+onto that, dear.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_HAPPY><FP_RIGHT>What now? For me?
+Why it's<RED>miso eggplant!
+What a lovely birthday gift!<PAGE>Thank you so much, dear.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_HAPPY><FP_RIGHT>Oh, how marvelous! This is
+my absolute favorite. Thank
+you so much, dear.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_NORMAL><FP_RIGHT>Oh my, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_NORMAL><FP_RIGHT>Oh my, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_HAPPY><FP_RIGHT>A birthday present?
+And such a lovely gift for
+an old lady like me!<PAGE>Thank you, dear!
+
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_HAPPY><FP_RIGHT>Why, how lovely!
+What a nice gift.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_NORMAL><FP_RIGHT>Why, a present for me? How
+sweet of you to remember my
+birthday. Thank you!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_NORMAL><FP_RIGHT>My, is this for me?
+Thank you.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_NORMAL><FP_RIGHT>A birthday present? Well,
+it's the thought that
+counts, I suppose.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_SAD><FP_RIGHT>Of course it's the thought
+that counts, but...<PAGE>Oh no, nothing, dear...
+It's not important.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_SAD><FP_RIGHT>Th-This is so spicy...
+I can't eat spicy food.
+I'm sorry, dear...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_NORMAL><FP_RIGHT>Oh my, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_NORMAL><FP_RIGHT>Oh my, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_HAPPY><FP_RIGHT>How do you like being
+married, <MYNAME>?<PAGE>The two of you remind me of
+Rutger and I when
+we were young.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_NORMAL><FP_RIGHT>I do hope the wind won't
+keep me up tonight.<PAGE>The last typhoon we had was
+so loud, I couldn't sleep a
+wink!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_HAPPY><FP_RIGHT>I always loved big
+snowstorms as a girl.<PAGE><FACE_POS_CENTER><FACE_ROSE><FACE_NORMAL><FP_RIGHT>But these days the idea of
+shoveling all that snow
+makes my back ache...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_HAPPY><FP_RIGHT>You know, Rutger and I
+always talk about how glad
+we are you moved here.<PAGE>This town wouldn't be the
+same without you.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_HAPPY><FP_RIGHT>You know, my husband has
+really taken a shine to you,
+<MYNAME>.<PAGE>He's so glad that you're
+living here.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_NORMAL><FP_RIGHT>I have such great fun
+talking to you, dear.<PAGE>It's always a treat to hear
+about your farm.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_NORMAL><FP_RIGHT>All the neighbors are
+talking about how sweet you
+are, dear.<PAGE><FACE_POS_CENTER><FACE_ROSE><FACE_HAPPY><FP_RIGHT>It warms my heart to hear
+good things about you.
+
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_NORMAL><FP_RIGHT>How are things going, dear?
+You know you can always
+come talk to me.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_NORMAL><FP_RIGHT>You always look so hearty
+and healthy. You really do
+love farming, don't you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_NORMAL><FP_RIGHT>Working at the town hall may
+look dull to you, but you
+know, I have such fun!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_NORMAL><FP_RIGHT>Oh my, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_NORMAL><FP_RIGHT>Oh my, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_NORMAL><FP_RIGHT>Oh my, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_NORMAL><FP_RIGHT>Oh my, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_NORMAL><FP_RIGHT>Oh my, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_NORMAL><FP_RIGHT>Oh my, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_NORMAL><FP_RIGHT>Oh my, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_NORMAL><FP_RIGHT>Oh my, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_NORMAL><FP_RIGHT>Oh my, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_NORMAL><FP_RIGHT>Oh my, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_NORMAL><FP_RIGHT>Oh my, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_NORMAL><FP_RIGHT>Oh my, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_NORMAL><FP_RIGHT>Oh my, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_NORMAL><FP_RIGHT>Oh my, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_NORMAL><FP_RIGHT>Oh my, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_NORMAL><FP_RIGHT>Oh my, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_NORMAL><FP_RIGHT>Oh my, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_NORMAL><FP_RIGHT>Oh my, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_NORMAL><FP_RIGHT>Oh my, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_NORMAL><FP_RIGHT>Oh my, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_NORMAL><FP_RIGHT>Oh my, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_NORMAL><FP_RIGHT>Oh my, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_NORMAL><FP_RIGHT>Oh my, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_NORMAL><FP_RIGHT>Oh my, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_NORMAL><FP_RIGHT>Oh my, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_NORMAL><FP_RIGHT>Oh my, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_NORMAL><FP_RIGHT>Oh my, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_NORMAL><FP_RIGHT>Oh my, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_NORMAL><FP_RIGHT>Oh my, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_NORMAL><FP_RIGHT>Oh my, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_NORMAL><FP_RIGHT>Oh my, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_NORMAL><FP_RIGHT>Oh my, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_NORMAL><FP_RIGHT>Oh my, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_NORMAL><FP_RIGHT>Oh my, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_NORMAL><FP_RIGHT>Oh my, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_NORMAL><FP_RIGHT>Oh my, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_NORMAL><FP_RIGHT>Goodness, is that for the
+festival?
+Good luck, dear!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_NORMAL><FP_RIGHT>Oh my, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_NORMAL><FP_RIGHT>Oh my, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_NORMAL><FP_RIGHT>Goodness, how sweet!
+Is this your pet?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_HAPPY><FP_RIGHT>Where did you find it?
+What a sweet face!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_SAD><FP_RIGHT>Oh dear, it's not happy at
+all. You should let it go.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_NORMAL><FP_RIGHT>Goodness, did you catch it?
+You've got such a way with
+animals.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_NORMAL><FP_RIGHT>Oh my, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_NORMAL><FP_RIGHT>Oh my, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_NORMAL><FP_RIGHT>Oh my, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_NORMAL><FP_RIGHT>Oh my, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_NORMAL><FP_RIGHT>Oh my, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_NORMAL><FP_RIGHT>Oh my, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_NORMAL><FP_RIGHT>Oh my, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_NORMAL><FP_RIGHT>Oh my, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_NORMAL><FP_RIGHT>Oh my, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_NORMAL><FP_RIGHT>Oh my, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_NORMAL><FP_RIGHT>Oh my, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_NORMAL><FP_RIGHT>Oh my, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_HAPPY><FP_RIGHT>My, what a lovely flower.
+Thank you so much, dear.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_NORMAL><FP_RIGHT>Oh my, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_NORMAL><FP_RIGHT>Oh my, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_NORMAL><FP_RIGHT>Oh my, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_NORMAL><FP_RIGHT>Oh my, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_NORMAL><FP_RIGHT>Oh my, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_NORMAL><FP_RIGHT>Oh my, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_HAPPY><FP_RIGHT>Well goodness me.
+What could this be?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_HAPPY><FP_RIGHT>I do hope we can continue
+our little chats, dear.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_NORMAL><FP_RIGHT>Oh my, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_NORMAL><FP_RIGHT>Hello there, dear.
+Do you need to speak with
+Rutger?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_NORMAL><FP_RIGHT>Oh my, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_NORMAL><FP_RIGHT>Oh my, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_NORMAL><FP_RIGHT>Oh my, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_NORMAL><FP_RIGHT>Of course horses and
+carriages are handy, but it
+is nice to walk sometimes.<PAGE><FACE_POS_CENTER><FACE_ROSE><FACE_HAPPY><FP_RIGHT>You never know what might
+happen during your walk.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_HAPPY><FP_RIGHT>Isn't it just lovely?
+I'll never get tired of
+this view.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_NORMAL><FP_RIGHT>I do love the winter
+landscape here.
+Isn't it lovely?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_SAD><FP_RIGHT>Oh my, <MYNAME>.
+Don't you have an umbrella?<PAGE>We can't have that!
+You'll catch cold!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_NORMAL><FP_RIGHT>Oh my, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_NORMAL><FP_RIGHT>Oh my, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_NORMAL><FP_RIGHT>Oh my, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_NORMAL><FP_RIGHT>Oh my, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_NORMAL><FP_RIGHT>Oh my, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_NORMAL><FP_RIGHT>Oh my, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_NORMAL><FP_RIGHT>Oh my, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_HAPPY><FP_RIGHT>So our village won the
+Cooking Festival!<PAGE>It must be thanks to your
+support, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_NORMAL><FP_RIGHT>We lost today.
+And you were so supportive.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_HAPPY><FP_RIGHT>Did you enjoy yourself?
+I'm so glad, dear.
+Be sure to come again!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_NORMAL><FP_RIGHT>Oh my, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_NORMAL><FP_RIGHT>Oh my, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_NORMAL><FP_RIGHT>You had some bad luck, but
+you'll win next time, dear.
+
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_NORMAL><FP_RIGHT>Oh my, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_NORMAL><FP_RIGHT>That's just too bad.
+Maybe you'll have better
+luck next time.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_HAPPY><FP_RIGHT>I'm looking forward to the
+festival today. I wonder
+what it will be like?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_NORMAL><FP_RIGHT>Oh, didn't you enter, dear?<PAGE>That's a pity.
+Do enter next time!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_NORMAL><FP_RIGHT>Oh my, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_NORMAL><FP_RIGHT>Well, I certainly thought
+you were the best...<PAGE>You just had some bad luck.
+You'll win next time.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_NORMAL><FP_RIGHT>Oh my, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_NORMAL><FP_RIGHT>Oh my, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_NORMAL><FP_RIGHT>Oh my, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_NORMAL><FP_RIGHT>Oh my, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_NORMAL><FP_RIGHT>Oh my, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_NORMAL><FP_RIGHT>Oh my, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_NORMAL><FP_RIGHT>Oh my, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_NORMAL><FP_RIGHT>Oh my, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_NORMAL><FP_RIGHT>Oh my, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_NORMAL><FP_RIGHT>Oh my, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_NORMAL><FP_RIGHT>Oh my, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_NORMAL><FP_RIGHT>Oh my, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_NORMAL><FP_RIGHT>Oh my, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_NORMAL><FP_RIGHT>Oh my, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_NORMAL><FP_RIGHT>Oh my, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_NORMAL><FP_RIGHT>Oh my, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_NORMAL><FP_RIGHT>Oh my, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_NORMAL><FP_RIGHT>Oh my, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_NORMAL><FP_RIGHT>Oh my, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_NORMAL><FP_RIGHT>Oh my, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_NORMAL><FP_RIGHT>Oh my, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_HAPPY><FP_RIGHT>I'm so excited about today's
+festival.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_NORMAL><FP_RIGHT>Oh my, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_NORMAL><FP_RIGHT>Oh my, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_NORMAL><FP_RIGHT>Oh my, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_NORMAL><FP_RIGHT>Oh my, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_NORMAL><FP_RIGHT>Oh my, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_NORMAL><FP_RIGHT>Oh my, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_NORMAL><FP_RIGHT>Oh my, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_NORMAL><FP_RIGHT>Oh my, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_NORMAL><FP_RIGHT>Oh my, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_NORMAL><FP_RIGHT>Oh my, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_NORMAL><FP_RIGHT>Oh my, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_NORMAL><FP_RIGHT>Oh my, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_NORMAL><FP_RIGHT>Oh my, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_NORMAL><FP_RIGHT>Oh my, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_NORMAL><FP_RIGHT>Oh my, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_NORMAL><FP_RIGHT>Oh my, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_NORMAL><FP_RIGHT>Oh my, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_NORMAL><FP_RIGHT>Oh my, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_NORMAL><FP_RIGHT>Oh my, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_NORMAL><FP_RIGHT>Why, good morning,
+<MYNAME>.<PAGE>You're up early. Are you
+working? Have fun.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_NORMAL><FP_RIGHT>Good morning, <MYNAME>.
+How are things today?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_NORMAL><FP_RIGHT>Why, good morning.
+You're looking busy.
+Don't work too hard, dear!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_NORMAL><FP_RIGHT>Why, hello there, <MYNAME>.
+You're looking well.
+Have a good day, dear!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_HAPPY><FP_RIGHT>Hello there, <MYNAME>.
+<PAGE>Have you eaten yet?
+I always think food tastes
+better fresh from the farm.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_HAPPY><FP_RIGHT>Why, hello there.<PAGE>Do let me come by and
+visit your farm soon.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_NORMAL><FP_RIGHT>Why hello there,
+<MYNAME>.<PAGE>Oh my, look at the time.
+Time really flies by when
+you get older.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_NORMAL><FP_RIGHT>Good evening, <MYNAME>.
+What are you doing
+out so late?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_NORMAL><FP_RIGHT>Why, good evening.
+It's quite dark out, so
+do watch your step.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_NORMAL><FP_RIGHT>Oh my, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_NORMAL><FP_RIGHT>Oh my, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_NORMAL><FP_RIGHT>Oh my, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_NORMAL><FP_RIGHT>Did you need something from
+the town hall? Go speak to
+Rutger at the counter.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_NORMAL><FP_RIGHT>Did you need something from
+the town hall? Go speak to
+Rutger at the counter.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_NORMAL><FP_RIGHT>Did you need something from
+the town hall? Go speak to
+Rutger at the counter.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_NORMAL><FP_RIGHT>Just taking a little break.
+This place is lovely. The
+food is simply delicious.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_NORMAL><FP_RIGHT>Just taking a little break.
+This place is lovely. The
+food is simply delicious.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_NORMAL><FP_RIGHT>Just taking a little break.
+This place is lovely. The
+food is simply delicious.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_NORMAL><FP_RIGHT>Of course horses and
+carriages are handy, but it
+is nice to walk sometimes.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_NORMAL><FP_RIGHT>Oh my, fancy meeting you
+here, dear.
+
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_NORMAL><FP_RIGHT>Oh my, fancy meeting you
+here, dear.
+
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_NORMAL><FP_RIGHT>Oh my, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_NORMAL><FP_RIGHT>Oh my, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_NORMAL><FP_RIGHT>Oh my, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_NORMAL><FP_RIGHT>Oh my, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_NORMAL><FP_RIGHT>Oh my, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_NORMAL><FP_RIGHT>Oh my, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_NORMAL><FP_RIGHT>Oh my, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_NORMAL><FP_RIGHT>Oh my, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_NORMAL><FP_RIGHT>Oh my, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_HAPPY><FP_RIGHT>Congratulations, <MYNAME>!
+<PAGE>I must say, I did think
+yours looked the best.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_HAPPY><FP_RIGHT>Congratulations!
+Perhaps I could get the
+recipe from you some time?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_HAPPY><FP_RIGHT>Congratulations, <MYNAME>!
+<PAGE>It must have been the farm
+fresh ingredients.
+I'd love to try it sometime.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_HAPPY><FP_RIGHT>My, wasn't today a perfect
+day for a festival?
+It was so lovely and warm.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_HAPPY><FP_RIGHT>You certainly seemed to be
+enjoying yourself today.
+
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_NORMAL><FP_RIGHT>I do get a little sad when
+a festival is over.
+Rutger, too...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_HAPPY><FP_RIGHT>Congratulations,
+<MYNAME>.<PAGE>Your <VAR_4>
+was splendid.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_HAPPY><FP_RIGHT>Your hard work certainly
+paid off, <MYNAME>.
+
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_HAPPY><FP_RIGHT>Our farms can't be beat.
+Rutger was so pleased.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_HAPPY><FP_RIGHT>My, today was so wonderful.
+I may be too excited to
+sleep tonight.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_HAPPY><FP_RIGHT>I'd say the festival was a
+big success. I can't
+wait until next year.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_NORMAL><FP_RIGHT>Why, I enjoyed myself so
+much today, I felt like a
+little girl again.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_NORMAL><FP_RIGHT>You caught quite a lot!
+What's your secret?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_NORMAL><FP_RIGHT>This festival always reminds
+me of my girlhood. We were
+all so earnest then...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_NORMAL><FP_RIGHT>Rutger always did well in
+this festival. Of course,
+that was a long time ago...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_NORMAL><FP_RIGHT>Those animals are
+difficult to raise.<PAGE>It's quite a feat to raise
+one as splendid as yours.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_NORMAL><FP_RIGHT>We saw so many lovely
+animals in the festival
+today.<PAGE>But yours was by far the
+best, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ROSE><FACE_HAPPY><FP_RIGHT>Congratulations, dear!
+I knew your farm would
+win!

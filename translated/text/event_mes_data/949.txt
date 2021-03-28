@@ -1,0 +1,42 @@
+<FACE_POS_LEFT><FACE_NATHAN><FACE_NORMAL><FP_LEFT>Hari ini kita berkumpul di
+sini untuk menghadiri perni
+kahan <MYNAME> and Alisa.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_NATHAN><FACE_NORMAL><FP_LEFT><MYNAME>...<PAGE>Apa kamu menjadikan Alisa
+sebagai istrimu, untuk di
+cintai selamanya?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_NATHAN><FACE_NORMAL><FP_LEFT>Alisa...<PAGE>Apa kamu menjadikan
+<MYNAME> sebagai suamimu,
+untuk dicintai selamanya?<PAGE><FACE_POS_LEFT><FACE_ALISA><FACE_HAPPY><FP_LEFT>Aku terima.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_NATHAN><FACE_NORMAL><FP_LEFT>Maka aku umumkan sebagai
+suami dan istri!<PAGE><FACE_POS_LEFT><FACE_NATHAN><FACE_HAPPY><FP_LEFT>Semoga dewi panen tersenyum
+atas hubunganmu!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_SHOCK><FP_RIGHT>Aku mencintaimu, <MYNAME>. 
+Dengan segenap hati dengan
+penuh kesenangan.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_SHOCK><FP_RIGHT>Sekarang kita memulai kehi-
+dupan kita bersama.<PAGE>Aku harus memanggilmu nama
+panggilan apa yang sekarang
+kita sudah menikah.<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Seperti apa enaknya 
+memanggilmu, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT><MYNICKNAME>? 
+Apa kamu yakin?
+----------------------------|----------------------------------
+<CHOICE_AB> Yeah.
+ Mungkin lainnya....
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Okay!
+<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_SHOCK><FP_RIGHT>Aku mencintaimu, 
+<MYNICKNAME>.
+----------------------------|----------------------------------
+Betapa indahnya hari ini!
+Besok kita akan memulai
+kehidupan baru bersama!
+----------------------------|----------------------------------
+<CHOICE_AB> Tidur dan simpan.
+ Tidur saja.

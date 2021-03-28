@@ -1,0 +1,53 @@
+<FACE_POS_LEFT><HIDE_NAME><FACE_RUTGER><FACE_NORMAL><FP_LEFT><HIDE_FACE>Selamat pagi, <MYNAME>.
+Apakah aku boleh masuk?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Bagaimana keadaanmu?
+Apa lancar?<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Hari ini adalah hari dimana
+kamu pertama kali tinggal
+dimusim panas disini!<PAGE>Dan musim panas itu
+berarti...
+memancing!<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Ya itu kenapa aku datang
+kemari! Untuk memberikanmu
+ini!<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Ini adalah sebuah
+<RED>pancingan</COLOR>!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Aku datang kemari untuk mem-
+berikanmu ini!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Ini <RED>pancingan</COLOR>.
+Tolong diterima. 
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Apakah kamu tahu bagaimana
+cara menggunakan sebuah
+alat pancingan?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Oh oke! Mari kuajari!
+<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Kamu dapat menangkap ikan
+diberbagai <RED>tempat pancing</COLOR>
+disekitar sini.<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Kamu dapat menemukan tempat
+mancingnya...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Kita memancing dari tempat
+<RED>Memancing</COLOR>.<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Tempat memancingnya...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>...di pegunungan!<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Tinggal berdiri ditempat me-
+mancingnya dengan alat pan-
+cing, lalu tekan<PAGE><RED>Tombol A</COLOR> untuk melempar
+umpannya!<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Ikan akan mendekati dan se-
+makin dekat dengan umpanmu
+...<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>...Dan maka mereka akan
+mengigitnya!<PAGE>Disaat itu terjadi, tekan
+<RED>Tombol A</COLOR> secepat
+mungkin yang kamu bisa!<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Jenis ikan yang kamu dapat-
+kan itu bervariasi tergan-
+tung <RED>musim dan lokasi</COLOR>.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Dan itulah hal yang kamu
+harus ketahui mengenai meman-
+cing! Paham?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Maka gunakanlah alat pancing
+ini!
+----------------------------|----------------------------------
+<CHOICE_AB> Tidak.
+ Yep.

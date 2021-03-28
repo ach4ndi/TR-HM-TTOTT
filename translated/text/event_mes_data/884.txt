@@ -1,0 +1,105 @@
+<FACE_POS_LEFT><HIDE_NAME><FACE_RUTGER><FACE_NORMAL><FP_LEFT><HIDE_FACE>Selamat pagi, <MYNAME>.
+Apakah aku boleh masuk?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Akhirnya hari ini adalah
+hari festival memasak!
+Sudah datang harinya!<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Apakah kamu pertama kali me-
+ngikutinya, benarkan?<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Aku datang kemari untuk mem-
+berikan kamu sebuah bahan-
+bahan memasak yang kamu<PAGE>butuhkan utnuk membuat ma-
+kanan dengan tema hari ini:
+salad!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Akhirnya hari ini adalah
+hari festival memasak!
+Sudah datang harinya!<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Apakah kamu pertama kali me-
+ngikutinya dengan tema sup,
+benarkan?<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Aku datang kemari untuk mem-
+berikan kamu sebuah bahan-
+bahan memasak yang kamu<PAGE>butuhkan utnuk membuat
+sup!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Akhirnya hari ini adalah
+hari festival memasak!
+Sudah datang harinya!<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Apakah kamu pertama kali me-
+ngikutinya dengan tema ma-
+kanan pembuka, benarkan?<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Aku datang kemari untuk mem-
+berikan kamu sebuah bahan-
+bahan memasak yang kamu<PAGE>butuhkan utnuk membuat
+makanan pembuka!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Akhirnya hari ini adalah
+hari festival memasak!
+Sudah datang harinya!<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Apakah kamu pertama kali me-
+ngikutinya dengan tema ma-
+kanan penutup, benarkan?<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Aku datang kemari untuk mem-
+berikan kamu sebuah bahan-
+bahan memasak yang kamu<PAGE>butuhkan utnuk membuat
+makanan penutup!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Oh? Tasmu itu sudah kepenu-
+han! Jadi aku tidak bisa
+memberikan bahan-bahan ini
+kepadamu...<PAGE>Apakah kamu bisa menyedia-
+kan ruang kosong untuk
+<RED>2 barang</COLOR>?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Apakah kamu bisa menyedia-
+kan ruang kosong untuk
+<RED>2 barang</COLOR>?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Oke, sekarang biarkan aku
+memberikanmu bahan-bahan
+masakan itu!<PAGE>Eh jangan dimakan
+mentah ya!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Nah ini dia! <RED>Tomat</COLOR> dan <RED>minyak</COLOR>.<PAGE>Dengan kedua bahan itu, kamu
+dapat membuat sebuah <RED>salad
+Caprese</COLOR>!<PAGE>Kamu bisa membuatnya dengan
+<RED>Memilih bahan-bahan</COLOR>, dan
+memasaknya!<PAGE>Aku ingin kamu ikutan di
+festival memasak dengan
+salad Caprese!<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Aku mengandalkanmu!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Nah ini dia! <RED>Chamomile</COLOR> dan
+<RED>bawang</COLOR>!<PAGE>Jika kamu menggunakan
+chamomile dan bawang yang di
+masak memakai <RED>panci</COLOR>mu, maka<PAGE>Kamu dapat membuat
+<RED>sup herbal</COLOR>!<PAGE>Kamu bisa membuatnya dengan
+<RED>Memilih bahan-bahan</COLOR>, dan
+memasaknya!<PAGE>Aku ingin kamu ikutan di
+festival memasak hari ini
+dengan sup herbal!<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Aku mengandalkanmu!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Nah ini dia! <RED>Tepung</COLOR> dan <RED>minyak</COLOR>!<PAGE>Jika kamu menggunakan
+Tepung dan minyak yang di
+masak memakai <RED>panci</COLOR>mu,<PAGE>maka kamu dapat membuat
+<RED>spaghetti</COLOR>!<PAGE>Kamu bisa membuatnya dengan
+<RED>Memilih bahan-bahan</COLOR>, dan
+memasaknya!<PAGE>Aku ingin kamu ikutan di
+festival memasak hari ini
+dengan spaghetti!<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Aku mengandalkanmu!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Nah ini dia! <RED>Susu</COLOR> dan
+sebuah <RED>telur</COLOR>!<PAGE>Jika kamu menggunakan Susu
+dan telur yang dimasak mema-
+kai <RED>panci</COLOR>, kamu dapat
+membuat <RED>pudding</COLOR>!<PAGE>Kamu bisa membuatnya dengan
+<RED>Memilih bahan-bahan</COLOR>, dan
+memasaknya!<PAGE>Aku ingin kamu ikutan di
+festival memasak hari ini
+dengan pudding!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Kamu tampaknya sudah bisa
+memasak dengan baik
+sekarang, <MYNAME>!<PAGE>Jadi aku tidak akan memberi-
+kanmu bahan-bahan untuk 
+festival memasak lagi.<PAGE>Kamu saat ini sudah bisa
+mendapatkan bahan-bahan dari
+perkebunanmu itu.<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Tapi jangan khawatir! Aku
+tahu kamu dapat melakukan-
+nya!<PAGE>Jadi aku mengandalkanmu!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Sekarang, jangan bingung ya!
+Taruh barang yang kamu pe-
+gang itu, atau menyimpannya.

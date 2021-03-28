@@ -1,0 +1,23 @@
+<FACE_POS_RIGHT><FACE_GRADY><FACE_SAD><FP_RIGHT>Itu sakit tau!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GRADY><FACE_HAPPY><FP_RIGHT>Oh, <MYNAME>!
+Aku tidak tahu bahwa kamu
+ada disini.<PAGE><FACE_POS_RIGHT><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Sekarang, aku ingin hal
+ini tidak pernah kamu lihat.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Apakah kamu mempercayainya?<PAGE>Disini aku, mau mencoba
+membersihkannya, tapi dia<PAGE>tidak mau apa yang aku
+katakan.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GRADY><FACE_HAPPY><FP_RIGHT>Aku tidak memberikan
+makanan ke seekor binatang
+yang menghabiskan waktu itu<PAGE>dan bersandar dilantai
+setiap waktu...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GRADY><FACE_HAPPY><FP_RIGHT>Yakinkanlah kamu melatih
+binatang peliharaanmu juga
+ya.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Binatang peliharaan yang
+tidak terlatih ini membuat
+kehidupanmu lebih susah!

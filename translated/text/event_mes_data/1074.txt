@@ -1,0 +1,93 @@
+<FACE_POS_LEFT><FACE_LANEY><FACE_SAD><FP_LEFT>Itu aneh...
+Aku merasakan lelah dan
+lemas...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_GEORGIA><FACE_SAD><FP_LEFT>Ooh dewi, aku...
+Apa sakit?
+Aku merasakan tidak enak...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_REINA><FACE_SAD><FP_LEFT>Oh man, Aku merasakan
+tidak seperti biasanya...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_NORI><FACE_SAD><FP_LEFT>Aku penasaran ini ada apa.
+Aku merasa tidak enak badan
+saat ini...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ULYSSA><FACE_SAD><FP_LEFT>Oh boy... Aku merasakan
+sangat sakit. Dan aneh...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Apakah kamu merasa tidak
+sehat? Kamu tampak pucat.
+Sekarang kuperiksa ya...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Oh my.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Aku harap kalian bersiap
+untuk berita yang menggempar
+kan kehidupan kalian ini...<PAGE><FACE_POS_RIGHT><FACE_AYAME><FACE_HAPPY><FP_RIGHT>Kalian akan menjadi seorang
+orang tua, akan memilki
+keluarga kalian sendiri!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_AYAME><FACE_HAPPY><FP_LEFT>Selamat!
+Kalian akan memiliki
+seorang bayi!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_LANEY><FACE_NORMAL><FP_LEFT>B...Bayi bayi ...ayi?<PAGE><FACE_POS_LEFT><FACE_LANEY><FACE_HAPPY><FP_LEFT>Oh, <MYNICKNAME>.
+S..Aku sangat senang!<PAGE>Aku penasaran nanti cewek
+atao cowok ya? Entahlah ...
+aku tetap senang kok!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_GEORGIA><FACE_NORMAL><FP_LEFT>A baby?<PAGE><FACE_POS_LEFT><FACE_GEORGIA><FACE_HAPPY><FP_LEFT>Oh dewi, ini apakah ini
+menarik kah?
+Kita akan memilki bayi!<PAGE><FACE_POS_LEFT><FACE_GEORGIA><FACE_SHOCK><FP_LEFT>Aku penasaran nanti kita
+akan mendapatkan bayi
+seperti apa ya?<PAGE>Semoga aja tidak jones.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_REINA><FACE_NORMAL><FP_LEFT>Bayi?
+Kita akan memiliki bayi!?<PAGE>.............
+.............
+.............<PAGE><FACE_POS_LEFT><FACE_REINA><FACE_HAPPY><FP_LEFT>Menarik!
+Jadi kita akan menjadi
+orang tua nih? memilki<PAGE>keluarga sendiri?
+Keren...<PAGE><FACE_POS_LEFT><FACE_REINA><FACE_SHOCK><FP_LEFT>Seperti apa ya rupanya?
+hehehehe
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_NORI><FACE_NORMAL><FP_LEFT>Bayi untuk... <MYNICKNAME>
+dan aku?<PAGE>Ini seperti tidak nyata,
+tapi... wow, bayi?<PAGE><FACE_POS_LEFT><FACE_NORI><FACE_SHOCK><FP_LEFT><MYNICKNAME>, Aku sangat
+senang saat ini. Aku tidak
+sabar untuk menunggu seperti<PAGE>apa rupanya hehehe.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ULYSSA><FACE_NORMAL><FP_LEFT>Baaaayiiiii?
+Untuk <MYNICKNAME> dan Aku?<PAGE><FACE_POS_LEFT><FACE_ULYSSA><FACE_HAPPY><FP_LEFT>B-benarkah?
+Apa kita akan memiliki bayi?<PAGE>Aku penasaran seperti apa
+rupanya, apa seperti aku
+atau kamu?<PAGE><FACE_POS_LEFT><FACE_ULYSSA><FACE_SHOCK><FP_LEFT>Ini benar-benar
+menarik!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_AYAME><FACE_HAPPY><FP_RIGHT>Heh heh. Maka, Aku akan
+pergi dulu ya.<PAGE><FACE_POS_RIGHT><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Panggil aku disaat waktunya
+tiba. Aku akan langsung
+datang. sekejab! :v
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_LANEY><FACE_HAPPY><FP_LEFT>Terima kasih.
+Kita akan bertemu lagi nanti.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_GEORGIA><FACE_HAPPY><FP_LEFT>Makasih!
+Kita akan bertemu lagi nanti.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_REINA><FACE_HAPPY><FP_LEFT>Ya, terima kasih banyak.
+Kita akan bertemu lagi nanti.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_NORI><FACE_HAPPY><FP_LEFT>Terima kasih buanyak ya.
+Kita akan bertemu lagi nanti.
+Terima kasih atas bantuanmu.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ULYSSA><FACE_HAPPY><FP_LEFT>Oke! Oke!
+Terima kasih.<RED>❤</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_AYAME><FACE_HAPPY><FP_RIGHT>Iya iya, kuterima terima
+kasihnya tee-heee. Jangan
+bekerja terlalu keras ya!<PAGE><FACE_POS_RIGHT><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Dan kamu, <MYNAME>! 
+Jaga baik-baik istri lo!
+:v

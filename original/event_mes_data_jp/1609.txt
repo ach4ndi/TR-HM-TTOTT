@@ -1,0 +1,72 @@
+\u2137おつかいの事を話しますか？
+<CHOICE_AB> はい
+ いいえ
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HOWARD><FACE_SAD><FP_RIGHT>まあまあ！
+まだ品物が
+そろっていないようよ！！<PAGE><FACE_POS_RIGHT><FACE_HOWARD><FACE_NORMAL>待っているから
+また後でいらっしゃい<RED>❤</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HOWARD><FACE_NORMAL><FP_RIGHT>どうかした？
+何か用事を
+思い出したの？<PAGE><FACE_POS_RIGHT><FACE_HOWARD><FACE_HAPPY>待っているから
+また後でいらっしゃい<RED>❤</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HOWARD><FACE_NORMAL><FP_RIGHT>後はお金ね。
+<VAR_0>Ｇ、
+確かにもらったわ。
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HOWARD><FACE_HAPPY><FP_RIGHT>まあまあ！　いらっしゃい！
+話しは聞いているわ<RED>❤</COLOR>
+ありがとう。待ってたのよっ！
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HOWARD><FACE_HAPPY><FP_RIGHT>さすが<MYNAME>ちゃんね。
+いいお仕事をするわ。
+たしかに、いただいたわね！
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HOWARD><FACE_HAPPY><FP_RIGHT>じゃあ、バイバイ<RED>❤</COLOR>
+助かったって
+伝えてちょうだいね<RED>❤</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HOWARD><FACE_NORMAL><FP_RIGHT><BLUE>★★★★★★★★★★★★★★
+このＭＳＧは出ないはずよ！
+★★★★★★★★★★★★★★</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HOWARD><FACE_NORMAL><FP_RIGHT>　
+\u20d0<RED>　　　　★ＤＵＭＭＹ★</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HOWARD><FACE_NORMAL><FP_RIGHT>　
+\u20d0<RED>　　　　★ＤＵＭＭＹ★</COLOR>
+----------------------------|----------------------------------
+\u2137おつかいの事を話しますか？
+<CHOICE_AB> はい
+ いいえ
+----------------------------|----------------------------------
+\u2137お礼はじゅうぶん受け取った？
+<CHOICE_AB> はい
+ いいえ
+----------------------------|----------------------------------
+\u2137お礼の
+<VAR_0>Ｇを
+受け取った！
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HOWARD><FACE_NORMAL><FP_RIGHT>　
+\u20d0<RED>　　　　★ＤＵＭＭＹ★</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HOWARD><FACE_NORMAL><FP_RIGHT>　
+\u20d0<RED>　　　　★ＤＵＭＭＹ★</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HOWARD><FACE_NORMAL><FP_RIGHT>　
+\u20d0<RED>　　　　★ＤＵＭＭＹ★</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HOWARD><FACE_NORMAL><FP_RIGHT>　
+\u20d0<RED>　　　　★ＤＵＭＭＹ★</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HOWARD><FACE_NORMAL><FP_RIGHT>　
+\u20d0<RED>　　　　★ＤＵＭＭＹ★</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HOWARD><FACE_NORMAL><FP_RIGHT>　
+\u20d0<RED>　　　　★ＤＵＭＭＹ★</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HOWARD><FACE_NORMAL><FP_RIGHT>　
+\u20d0<RED>　　　　★ＤＵＭＭＹ★</COLOR>

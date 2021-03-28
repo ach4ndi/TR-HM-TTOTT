@@ -1,0 +1,40 @@
+<FACE_POS_LEFT><FACE_HIRO><FACE_SAD><FP_LEFT>Ini adalah tantangan terbe-
+rat menjadi seorang dokter..
+Aku keliru lagi hari ini...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_HIRO><FACE_NORMAL><FP_LEFT>Aku sangat menghormati
+ayahku, yang menjadi seorang
+dokter demi untuk ibuku.<PAGE><FACE_POS_LEFT><FACE_HIRO><FACE_SAD><FP_LEFT>Aku ingin menjadi seorang
+doktor seperti dia...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_NORMAL><FP_RIGHT>Ying... apa yang membuatmu
+kesini hari ini?<PAGE><FACE_POS_LEFT><FACE_YING><FACE_NORMAL><FP_LEFT>Aku...aku pikir kamu dapat
+menjadi seorang dokter yang
+hebat, Hiro...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_YING><FACE_NORMAL><FP_LEFT>Disaat... aku pergi kekota
+untuk bertemu dengan dokter
+dimana mengecek kondisiku<PAGE>disana...
+Dia sangat baik... dan dia
+seperti kamu...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_NORMAL><FP_RIGHT>Benarkah...?<PAGE><FACE_POS_LEFT><FACE_YING><FACE_HAPPY><FP_LEFT>Jadi, itu kenapa aku
+berpikir...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_YUN><FACE_NORMAL><FP_LEFT><HIDE_FACE>Ying, nak! 
+ini waktunya makan!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_YUN><FACE_NORMAL><FP_LEFT>Jadi disinilah kamu berada!
+Ini saatnya kamu untuk
+makan, nak! ayo kita pulang!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_HAPPY><FP_RIGHT>Kita harus berbicara lagi di
+waktu lainnya, Ying.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_SHY><FP_RIGHT>Dia seperti aku...?
+Mungkin itu ayah aku yang
+memeriksa Ying...?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_NORMAL><FP_RIGHT>Itu pasti dia...<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_HAPPY><FP_RIGHT>Well, aku tidak dapat
+menyerah sekarang!<PAGE>Aku harus merawat Ying
+seperti ayahku lakukan!

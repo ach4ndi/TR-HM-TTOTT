@@ -1,0 +1,69 @@
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>Gimana kerja di pertanian?
+Baik baik saja kan?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Hey, itu hebat!<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>...Huh?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>Oh, ada kotoran dibaju kamu.
+bentaran tunggu...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Selesai!
+Gimana tuh?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Oh, Nggak masalah kok!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>Maaf kalo aku gini
+emang sifatnya gini sih<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Emang bener ko!
+Nggak selalu sih
+tapi masih suka!<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>Aku selalu membersihkan
+Apa yang selalu kotor
+di rumahku.<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Nenekku juga
+sama sifatnya!.<PAGE>Bersih bersih, masak,
+dan yang lainnya! pokoknya
+sifatnya mirip sepertiku!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_SAD><FP_RIGHT>Aku sangat sedih
+ketika dia meninggal.
+----------------------------|----------------------------------
+<CHOICE_AB> Sabar beb...
+ Sungguh Terlalu.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Ya. udah sabar ko.<PAGE>Tapi aku masih punya
+Gomber.<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>Aku sangat sedih
+Kakekpun sangat frustasi
+gegara kehilangan nenek<PAGE>Ketika aku nangis
+dia tersenyum, ah
+pokonya terharu deh.<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_SAD><FP_RIGHT>Aku sangat sedih,
+Bisa dibilang Baper
+karena kejadian itu.<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Aku harap dia 
+tenang di alam sana
+Amin.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_SAD><FP_RIGHT>Eh, maaf ya jadi.
+baper kaya gini..
+hmmm.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Makasih, <MYNAME>.
+<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>BTW ini dah sore
+aku harus pulang.<PAGE>Aku bener bener enjoy
+saat ngobrol denganmu
+kapan kapan lagi ya?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Ha ha! Okay!
+Sampai nanti ya!
+Bye!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>Terlalu?
+Kok lu gitu.<PAGE>Ini bukan becanda
+goblok, ini asli
+kenyataan dih kamvret.<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_SAD><FP_RIGHT>Lu jahat sih, ga ngertiin
+perasaan gue dan kakek.<PAGE>Setelah nenek gue
+meninggal, dia sangat sedih
+lu malah bilang Sungguh Terlalu.<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>Apa apaan tuh
+anjenk.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_SAD><FP_RIGHT>Eh maaf yaa.
+lu juga sih yang mancing
+emosi.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Terima kasih, <MYNAME>.<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>Au ah GELAP
+BYE!!!.

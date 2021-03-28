@@ -1,0 +1,113 @@
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL>Welcome to Konohana Town
+Hall. How can I help you
+today?\u2390
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><CHOICE_ABC> I'd like to move.
+ I'd like a town tour.
+ Never mind.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_SAD>You can only apply between
+the 23rd and 30th. Come
+back again around then.\u2390
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL>If you want to change your
+cart, you can only do it at
+home.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL>OK. If you need any help
+from me, come by any time.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_HAPPY>OK. If you're interested in
+living in Konohana, we'd be
+happy to have you here!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><CHOICE_AB> I'd like a town tour.
+ Never mind.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL>Do you want to move?
+<CHOICE_AB> Yes.
+ No.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_SAD>You can't move while you're
+pregnant. I don't want you
+to get injured.\u2390
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_SAD>Isn't your wife pregnant?
+I don't want your wife to
+get injured. You can't move.\u2390
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_SAD>Isn't your animal pregnant
+at the moment? I'd recommend
+you wait until it's back.\u2390
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_SAD>The house in the other town
+hasn't been expanded. You
+can't move yet.<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL>If you expand the house in
+the other town, you can
+move. Do you want to expand?<PAGE>The expansion is <RED><VAR_0>G</COLOR>.
+<CHOICE_AB> Yes.
+ Not yet.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_SAD>The requests you have taken
+will all be canceled once
+you move.<PAGE>Is that okay?
+<CHOICE_AB> Sure!
+ No way!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_HAPPY>Let's get going now!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL>It's time to move!<PAGE>Are you ready?
+<CHOICE_AB> Yes, I am!
+ I changed my mind.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_HAPPY>You changed your mind?
+I'm relieved to hear that,
+actually. Anything else?\u2390
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL>There's not enough space
+for your animals in the
+house in the other town.<PAGE>Select <RED>the ones you want to
+take with you</COLOR>. The rest will
+be kept elsewhere.\u2390
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL>All the animals you left
+are now returned to the
+barn in the other town.\u2390
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_HAPPY>Did you change your mind?
+I'm happy to hear that!
+I'll see you around, then.\u2390
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL>OK. Would you please come　
+back here when you're
+ready?\u2390
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL>It'll be <RED><VAR_0>G</COLOR> for
+the move.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL>I'll need you to finish it
+before you move to the other
+town.\u2390
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_HAPPY>Great!!! Stay here as long
+as you want. You can always
+move next month.\u2390
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_SAD>It looks like you don't have
+enough money...<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL>You can always move next
+month.\u2390
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_SAD>Isn't your wedding scheduled
+soon? It's not a good
+time to move.\u2390
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_SAD>It looks like there's a
+request you haven't got a
+reward for yet.\u2390
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL>You just moved in, right?<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_HAPPY>Take your time and get to
+know the town!\u2390
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL>Huh? Are you quitting?
+<CHOICE_AB> Yes.
+ No.

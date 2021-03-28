@@ -1,0 +1,681 @@
+<FACE_POS_RIGHT><FACE_DIRK><FACE_NORMAL><FP_RIGHT>Man, spring is awesome!<PAGE><FACE_POS_RIGHT><FACE_DIRK><FACE_HAPPY><FP_RIGHT>The warm sun on your face...
+Can't beat it!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_NORMAL><FP_RIGHT>Man, spring is awesome!<PAGE><FACE_POS_RIGHT><FACE_DIRK><FACE_HAPPY><FP_RIGHT>Makes me wanna go take a
+nice, long hike.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_NORMAL><FP_RIGHT>The cherry blossoms are
+gonna be at their peak soon.<PAGE><FACE_POS_RIGHT><FACE_DIRK><FACE_HAPPY><FP_RIGHT>Want to go have a picnic
+under the cherry blossoms?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_NORMAL><FP_RIGHT>Now this is what I call
+SPRING!<PAGE><FACE_POS_RIGHT><FACE_DIRK><FACE_NORMAL><FP_RIGHT>The warm sun on your face
+is such a great feeling.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_NORMAL><FP_RIGHT>Man, it's been hot!<PAGE><FACE_POS_RIGHT><FACE_DIRK><FACE_HAPPY><FP_RIGHT>All this hot weather can
+wear you out! Be careful not
+to faint from heatstroke!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_SAD><FP_RIGHT>Another hot and humid day...<PAGE><FACE_POS_RIGHT><FACE_DIRK><FACE_HAPPY><FP_RIGHT>Makes me wanna eat something
+nice and cool.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_NORMAL><FP_RIGHT>Summer is such a windy time
+of year.<PAGE><FACE_POS_RIGHT><FACE_DIRK><FACE_SAD><FP_RIGHT>It can even blow your
+chickens away if your leave
+them outside, so watch out!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_HAPPY><FP_RIGHT>Summer is for camping!
+Sometimes you just have to
+get away from it all.<PAGE><FACE_POS_RIGHT><FACE_DIRK><FACE_SAD><FP_RIGHT>What? No, I'm not slacking
+off on work. I said
+SOMETIMES.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_NORMAL><FP_RIGHT>There's so much good stuff
+to eat during the fall.<PAGE><FACE_POS_RIGHT><FACE_DIRK><FACE_HAPPY><FP_RIGHT>Up on the mountain, signs of
+fall are all around.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_NORMAL><FP_RIGHT>The cooler weather sure is
+a nice break.<PAGE><FACE_POS_RIGHT><FACE_DIRK><FACE_HAPPY><FP_RIGHT>It will definitely make work
+easier.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_NORMAL><FP_RIGHT>The weather changes like
+crazy these days.<PAGE><FACE_POS_RIGHT><FACE_DIRK><FACE_HAPPY><FP_RIGHT>Mornings and evenings get
+chilly. Don't catch cold!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_NORMAL><FP_RIGHT>Man, fall is in full swing!<PAGE><FACE_POS_RIGHT><FACE_DIRK><FACE_SAD><FP_RIGHT>One thing I hate, though, is
+having to rake all those
+leaves.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_NORMAL><FP_RIGHT>This time of year, it's so
+still up on the mountain.<PAGE><FACE_POS_RIGHT><FACE_DIRK><FACE_SAD><FP_RIGHT>Feels kind of sad, honestly.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_NORMAL><FP_RIGHT>The weather's been so cold!<PAGE><FACE_POS_RIGHT><FACE_DIRK><FACE_HAPPY><FP_RIGHT>Dress warmly, or you'll
+catch a cold for sure!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_HAPPY><FP_RIGHT>Nothing beats eating nice,
+hot food this time of year.<PAGE>Best of all is cooking a
+stew with friends!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_NORMAL><FP_RIGHT>During the winter, you have
+to stay active and keep your
+metabolism up!<PAGE><FACE_POS_RIGHT><FACE_DIRK><FACE_NORMAL><FP_RIGHT>Easy for me, because
+the delivery business is
+physically demanding.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_HAPPY><FP_RIGHT>Good weather makes my job
+easier.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_NORMAL><FP_RIGHT>Recently the weather has
+been unpredictable in the
+afternoons...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_HAPPY><FP_RIGHT>When the weather's so nice,
+I feel like getting out and
+going somewhere!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_NORMAL><FP_RIGHT>Do you check the radio?
+It will tell you the day's
+weather.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_NORMAL><FP_RIGHT>It's raining hard today.<PAGE><FACE_POS_RIGHT><FACE_DIRK><FACE_SAD><FP_RIGHT>Rainy weather makes my job
+harder.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_NORMAL><FP_RIGHT>It's pouring rain.<PAGE><FACE_POS_RIGHT><FACE_DIRK><FACE_SAD><FP_RIGHT>At this rate, it's going to
+rain all day long.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_NORMAL><FP_RIGHT>The other day, I saw someone
+slip and fall in the rain
+up on the mountain.<PAGE><FACE_POS_RIGHT><FACE_DIRK><FACE_HAPPY><FP_RIGHT>It's easy to slip on rainy
+days. Watch your step.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_NORMAL><FP_RIGHT>The other day, I saw someone
+slip and fall in the rain
+up on the mountain.<PAGE><FACE_POS_RIGHT><FACE_DIRK><FACE_HAPPY><FP_RIGHT>It's easy to slip on rainy
+days. Watch your step.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_NORMAL><FP_RIGHT>I love snow!<PAGE><FACE_POS_RIGHT><FACE_DIRK><FACE_HAPPY><FP_RIGHT>I still remember the epic
+snowball fights I had as a
+kid.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_NORMAL><FP_RIGHT>It's snowing hard.<PAGE><FACE_POS_RIGHT><FACE_DIRK><FACE_HAPPY><FP_RIGHT>How do you like the idea of
+making a snowman with me?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_HAPPY><FP_RIGHT>I love snow!
+Playing in the snow is more
+fun than anything!<PAGE><FACE_POS_RIGHT><FACE_DIRK><FACE_SAD><FP_RIGHT>Although I wish the snow
+would let up when I'm making
+deliveries...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_HAPPY><FP_RIGHT>When I see snow, I want to
+get out my snowboard and
+have a blast!<PAGE>It feels great to slide
+right down from the top of
+the mountain.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_DIRK><FACE_SAD><FP_LEFT>There's something about this
+place...<PAGE>Doesn't it feel weird to
+you?<PAGE>Can we go somewhere else?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_DIRK><FACE_SAD><FP_LEFT>Let me be honest with you...<PAGE>I'd like to go someplace
+more fun... Can we do that?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_HAPPY><FP_RIGHT>Today was a lot of fun.
+Thanks!<PAGE>We should get together and
+talk again sometime!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_NORMAL><FP_RIGHT>Thanks for today!
+Let's do this again.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_DIRK><FACE_SAD><FP_LEFT>I'm going home.<PAGE>See you later...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_HAPPY><FP_RIGHT>Today was incredibly fun!<PAGE>We have to get together and
+talk like this again soon!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_SHOCK><FP_RIGHT><MYNAME>!<PAGE>There's something important
+I want to ask you...<PAGE>Will you go out with me?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_DIRK><FACE_HAPPY><FP_LEFT>Today was a lot of fun.
+Thanks!<PAGE>We should get together and
+talk again sometime!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_HAPPY><FP_RIGHT>I feel awesome right now!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_HAPPY><FP_RIGHT>I feel awesome right now!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_HAPPY><FP_RIGHT>I feel awesome right now!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_HAPPY><FP_RIGHT>I feel awesome right now!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_HAPPY><FP_RIGHT>I feel awesome right now!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_HAPPY><FP_RIGHT>I feel awesome right now!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_HAPPY><FP_RIGHT>I feel awesome right now!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_HAPPY><FP_RIGHT>I feel awesome right now!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_HAPPY><FP_RIGHT>I feel awesome right now!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_HAPPY><FP_RIGHT>I feel awesome right now!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_HAPPY><FP_RIGHT>I feel awesome right now!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_HAPPY><FP_RIGHT>I feel awesome right now!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_HAPPY><FP_RIGHT>I feel awesome right now!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_HAPPY><FP_RIGHT>I feel awesome right now!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_NORMAL><FP_RIGHT>Animals are great!<PAGE>Treat them right, and they
+will never let you down!<PAGE><FACE_POS_RIGHT><FACE_DIRK><FACE_HAPPY><FP_RIGHT>If you had more animals,
+I know you'd enjoy it!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_NORMAL><FP_RIGHT>Animals are great!<PAGE>Treat them right, and they
+will never let you down!<PAGE>Seems like you have more
+animals on your farm than
+you used to!<PAGE><FACE_POS_RIGHT><FACE_DIRK><FACE_HAPPY><FP_RIGHT>A person like you could
+easily manage to keep even
+more animals, though.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_NORMAL><FP_RIGHT>Animals are great!<PAGE>Treat them right, and they
+will never let you down!<PAGE><FACE_POS_RIGHT><FACE_DIRK><FACE_HAPPY><FP_RIGHT>And, man, you have a LOT
+of animals on your farm!<PAGE>You're really something!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_NORMAL><FP_RIGHT>By the way, I heard that you
+collect bugs and frogs...<PAGE>.........<PAGE>I guess you're just getting
+started.<PAGE>I think you can find
+different bugs and frogs at
+different spots and seasons.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_NORMAL><FP_RIGHT>By the way, I heard that you
+collect bugs and frogs...<PAGE>.........<PAGE>Hmm.
+That's a decent collection.<PAGE><FACE_POS_RIGHT><FACE_DIRK><FACE_HAPPY><FP_RIGHT>Keep looking, and I bet you
+can find even more.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_NORMAL><FP_RIGHT>By the way, I heard that you
+collect bugs and frogs...<PAGE>.........<PAGE><FACE_POS_RIGHT><FACE_DIRK><FACE_HAPPY><FP_RIGHT>Man!<PAGE>You've really collected a
+LOT of them!<PAGE>You are really something!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_NORMAL><FP_RIGHT>By the way, I heard that you
+keep records of all the fish
+that you've caught...<PAGE>.........<PAGE>I guess you're just getting
+started.<PAGE><FACE_POS_RIGHT><FACE_DIRK><FACE_NORMAL><FP_RIGHT>I know a person like you
+could catch a lot more fish
+than this! Go for it!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_NORMAL><FP_RIGHT>By the way, I heard that you
+keep records of all the fish
+that you've caught...<PAGE>.........<PAGE>Hmm.
+That's a decent collection.<PAGE><FACE_POS_RIGHT><FACE_DIRK><FACE_HAPPY><FP_RIGHT>But I'm sure you can manage
+even more! Go for it!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_NORMAL><FP_RIGHT>By the way, I heard that you
+keep records of all the fish
+that you've caught...<PAGE>.........<PAGE><FACE_POS_RIGHT><FACE_DIRK><FACE_HAPPY><FP_RIGHT>Man!<PAGE>You've really collected a
+LOT of them!
+You are really something!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_NORMAL><FP_RIGHT>So, I heard you're talented
+at creating new recipes.
+How many have you created?<PAGE>.........<PAGE>Huh?
+I guess you're just getting
+started.<PAGE><FACE_POS_RIGHT><FACE_DIRK><FACE_HAPPY><FP_RIGHT>Come on, you need to create
+a LOT more recipes.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_NORMAL><FP_RIGHT>So, I heard you're talented
+at creating new recipes.
+How many have you created?<PAGE>.........<PAGE>Hmm.
+You've come up with quite a
+few.<PAGE><FACE_POS_RIGHT><FACE_DIRK><FACE_HAPPY><FP_RIGHT>At this rate, I guess you'll
+have a lot of recipes
+eventually!<PAGE>Go for it!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_NORMAL><FP_RIGHT>So, I heard you're talented
+at creating new recipes.
+How many have you created?<PAGE>.........<PAGE><FACE_POS_RIGHT><FACE_DIRK><FACE_HAPPY><FP_RIGHT>Man!<PAGE>You've really come up with
+a lot of recipes!<PAGE>You must have a LOT of
+talent for cooking!
+Am I right?<PAGE>A farmer who's a master
+chef! Now that's cool.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_HAPPY><FP_RIGHT>I feel awesome right now!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_HAPPY><FP_RIGHT>I feel awesome right now!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_HAPPY><FP_RIGHT>I feel awesome right now!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_HAPPY><FP_RIGHT>I feel awesome right now!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_HAPPY><FP_RIGHT>I feel awesome right now!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_HAPPY><FP_RIGHT>I feel awesome right now!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_HAPPY><FP_RIGHT>I feel awesome right now!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_HAPPY><FP_RIGHT>I feel awesome right now!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_HAPPY><FP_RIGHT>I feel awesome right now!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_HAPPY><FP_RIGHT>I feel awesome right now!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_HAPPY><FP_RIGHT>I feel awesome right now!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_HAPPY><FP_RIGHT>I feel awesome right now!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_HAPPY><FP_RIGHT>I feel awesome right now!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_HAPPY><FP_RIGHT>I feel awesome right now!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_HAPPY><FP_RIGHT>I feel awesome right now!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_HAPPY><FP_RIGHT>I feel awesome right now!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_HAPPY><FP_RIGHT>I feel awesome right now!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_HAPPY><FP_RIGHT>I feel awesome right now!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_HAPPY><FP_RIGHT>I feel awesome right now!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_HAPPY><FP_RIGHT>I feel awesome right now!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_HAPPY><FP_RIGHT>I feel awesome right now!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_HAPPY><FP_RIGHT>I feel awesome right now!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_HAPPY><FP_RIGHT>I feel awesome right now!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_HAPPY><FP_RIGHT>I feel awesome right now!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_HAPPY><FP_RIGHT>I feel awesome right now!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_HAPPY><FP_RIGHT>I feel awesome right now!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_HAPPY><FP_RIGHT>I feel awesome right now!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_HAPPY><FP_RIGHT>I feel awesome right now!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_HAPPY><FP_RIGHT>I feel awesome right now!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_HAPPY><FP_RIGHT>I feel awesome right now!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_HAPPY><FP_RIGHT>I feel awesome right now!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_HAPPY><FP_RIGHT>I feel awesome right now!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_HAPPY><FP_RIGHT>I feel awesome right now!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_HAPPY><FP_RIGHT>I feel awesome right now!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_HAPPY><FP_RIGHT>I feel awesome right now!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_HAPPY><FP_RIGHT>I feel awesome right now!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_HAPPY><FP_RIGHT>I feel awesome right now!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_HAPPY><FP_RIGHT>I feel awesome right now!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_HAPPY><FP_RIGHT>The food here is awesome!<PAGE>I come here to eat a LOT!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_NORMAL><FP_RIGHT>I deliver letters in the
+next village over, too.<PAGE><FACE_POS_RIGHT><FACE_DIRK><FACE_HAPPY><FP_RIGHT>So I know almost everybody
+in both villages.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_NORMAL><FP_RIGHT>So what do you like to eat,
+<MYNAME>?<PAGE><FACE_POS_RIGHT><FACE_DIRK><FACE_HAPPY><FP_RIGHT>I'm in heaven when I get to
+eat my favorite foods.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_HAPPY><FP_RIGHT>I like the mountain.
+Lots of fun things to do
+there.<PAGE><MYNAME>, you should go up
+there and try some mountain
+sports too!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_NORMAL><FP_RIGHT><MYNAME>, you really work
+hard every day.<PAGE><FACE_POS_RIGHT><FACE_DIRK><FACE_HAPPY><FP_RIGHT>Is your work going well?
+I hope so, but don't overdo
+it.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_HAPPY><FP_RIGHT>Ying does such a good job of
+helping out Yun!<PAGE>When I was a kid, I wasn't
+nearly that well-behaved!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_NORMAL><FP_RIGHT>The other day, I went to
+Bluebell for a delivery.<PAGE><FACE_POS_RIGHT><FACE_DIRK><FACE_HAPPY><FP_RIGHT>Laney's place was full of
+flowers! She really loves
+flowers!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_NORMAL><FP_RIGHT>So are you one of those
+people who leaves their
+favorite thing for last?<PAGE><FACE_POS_RIGHT><FACE_DIRK><FACE_HAPPY><FP_RIGHT>Me, I eat it first!
+I just can't wait!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_NORMAL><FP_RIGHT><MYNAME>, do you like
+wild animals?<PAGE>The wild animals on the
+mountain are really cute!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_NORMAL><FP_RIGHT>How do you feel about living
+on your own, <MYNAME>?<PAGE><FACE_POS_RIGHT><FACE_DIRK><FACE_HAPPY><FP_RIGHT>At first it's tough, but
+when you get used to it,
+it's a lot of fun!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_NORMAL><FP_RIGHT>Seems like people
+come here a lot.<PAGE>Whenever I eat here, I see
+a lot of people.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_NORMAL><FP_RIGHT>The other day, I went to
+Bluebell for a delivery.
+Rutger is an active guy!<PAGE><FACE_POS_RIGHT><FACE_DIRK><FACE_HAPPY><FP_RIGHT>He's always showing me
+magic tricks.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_NORMAL><FP_RIGHT>I love getting presents!<PAGE><FACE_POS_RIGHT><FACE_DIRK><FACE_HAPPY><FP_RIGHT>I treat them seriously as
+the expression of the
+giver's feelings.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_NORMAL><FP_RIGHT><MYNAME>,
+do you like plants?<PAGE>All kinds of plants grow
+on the mountain.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_NORMAL><FP_RIGHT>Everyone is Konohana is
+so nice.<PAGE>They're always ready to
+give advice when you have
+a problem.<PAGE><FACE_POS_RIGHT><FACE_DIRK><FACE_HAPPY><FP_RIGHT>If you ever have a problem,
+you should talk to people!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_NORMAL><FP_RIGHT>The other day, I joined in
+a game with Rahi and Ying.<PAGE><FACE_POS_RIGHT><FACE_DIRK><FACE_HAPPY><FP_RIGHT>The two of them were having
+a really great time!<PAGE>Kids have so much energy to
+play. It's awesome.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_NORMAL><FP_RIGHT>Jessica who lives over in
+Bluebell is so nice.<PAGE><FACE_POS_RIGHT><FACE_DIRK><FACE_HAPPY><FP_RIGHT>She often gives me food when
+I deliver something to her
+place.<PAGE>And she even teaches me the
+recipes! What a nice lady!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_NORMAL><FP_RIGHT>What's your favorite food,
+<MYNAME>?<PAGE><FACE_POS_RIGHT><FACE_DIRK><FACE_HAPPY><FP_RIGHT>I'll make it for you
+sometime!<PAGE>I feel pretty confident in
+my cooking abilities!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_NORMAL><FP_RIGHT><MYNAME>, have you ever gone
+up to the top of the
+mountain?<PAGE><FACE_POS_RIGHT><FACE_DIRK><FACE_HAPPY><FP_RIGHT>On a clear day, the view
+from there is just
+incredible!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_NORMAL><FP_RIGHT><MYNAME>, how has work been
+for you recently?<PAGE><FACE_POS_RIGHT><FACE_DIRK><FACE_HAPPY><FP_RIGHT>I've gotten used to my job,
+and now I think it's
+awesome!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_NORMAL><FP_RIGHT>I think I'm a pretty good
+cook, but the food here is
+delicious!<PAGE><FACE_POS_RIGHT><FACE_DIRK><FACE_HAPPY><FP_RIGHT>They get the flavoring JUST
+right, and the portions are
+perfect too...<PAGE>Oh yeah, Yun is a real pro!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_NORMAL><FP_RIGHT>Ash, who lives over in
+Bluebell, is crazy about
+bugs and frogs.<PAGE>The other day, I went to his
+house and saw a book of all
+the world's insects he has.<PAGE><FACE_POS_RIGHT><FACE_DIRK><FACE_HAPPY><FP_RIGHT>He gets really excited
+talking about stuff like
+that!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_NORMAL><FP_RIGHT>The other day, I ate pizza
+at Jessica's house.<PAGE><FACE_POS_RIGHT><FACE_DIRK><FACE_HAPPY><FP_RIGHT>The cheese on top was all
+melted and tasted as
+delicious as you can get!<PAGE>I would love to eat that
+pizza again!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_NORMAL><FP_RIGHT><MYNAME>, do you like bugs
+and frogs?<PAGE><FACE_POS_RIGHT><FACE_DIRK><FACE_HAPPY><FP_RIGHT>Ever since I was a kid, I've
+enjoyed hunting for bugs all
+day on the mountain.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_NORMAL><FP_RIGHT>How's your work been going
+recently?<PAGE>Don't work so hard that you
+end up fainting!<PAGE><FACE_POS_RIGHT><FACE_DIRK><FACE_HAPPY><FP_RIGHT>You have to balance out your
+work with time to rest.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_HAPPY><FP_RIGHT>This is a good place.<PAGE>I like it here.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_HAPPY><FP_RIGHT>Everyone in Konohana is so
+kind. I've been won over by
+everybody's warm welcome.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_NORMAL><FP_RIGHT>Where's your hometown,
+<MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_NORMAL><FP_RIGHT>So is there anything you
+really dislike?<PAGE><FACE_POS_RIGHT><FACE_DIRK><FACE_HAPPY><FP_RIGHT>You don't seem like the type
+to really dislike anything
+strongly.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_NORMAL><FP_RIGHT>So do you like the village
+that you're living in now?<PAGE><FACE_POS_RIGHT><FACE_DIRK><FACE_HAPPY><FP_RIGHT>It's really awesome, isn't
+it?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_NORMAL><FP_RIGHT>Konohana has such clean
+water.<PAGE><FACE_POS_RIGHT><FACE_DIRK><FACE_HAPPY><FP_RIGHT>And when the water is good,
+the food is good!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_NORMAL><FP_RIGHT>Everyone in Konohana is so
+kind.<PAGE>Whenever I have a problem,
+everyone helps me out.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_NORMAL><FP_RIGHT>What's your hometown like,
+<MYNAME>?<PAGE>My hometown is very bustling
+with windmills spinning all
+over the place.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_NORMAL><FP_RIGHT>So is there anything you
+really dislike?<PAGE><FACE_POS_RIGHT><FACE_DIRK><FACE_SAD><FP_RIGHT>Everybody has one or two
+things that they really
+don't like.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_NORMAL><FP_RIGHT>Did you know that you can
+move from here in Konohana
+over to Bluebell?<PAGE>If you ever want to move,
+talk to the mayor.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_NORMAL><FP_RIGHT>This is a nice village.<PAGE><FACE_POS_RIGHT><FACE_DIRK><FACE_HAPPY><FP_RIGHT>It has its own atmosphere
+that's not like other towns
+and villages.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_NORMAL><FP_RIGHT>People over in Bluebell are
+all nice too.<PAGE><FACE_POS_RIGHT><FACE_DIRK><FACE_HAPPY><FP_RIGHT>They always thank me when
+I make a delivery.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_NORMAL><FP_RIGHT>My hometown is very bustling
+with windmills all over the
+place.<PAGE><FACE_POS_RIGHT><FACE_DIRK><FACE_HAPPY><FP_RIGHT>Bazaars are held there often
+and people come from all
+over the world.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_NORMAL><FP_RIGHT><MYNAME>, take my advice...
+When you're going to give
+somebody a present...<PAGE><FACE_POS_RIGHT><FACE_DIRK><FACE_SAD><FP_RIGHT>Make sure it's not something
+that they hate!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_NORMAL><FP_RIGHT>Did you know that you can
+move from here in Konohana
+over to Bluebell?<PAGE>But you can only move once a
+month.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_NORMAL><FP_RIGHT>Yo, <MYNAME>...
+Don't throw stuff in the
+river.<PAGE><FACE_POS_RIGHT><FACE_DIRK><FACE_HAPPY><FP_RIGHT>Not that you ever would, but
+I'm just saying!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_NORMAL><FP_RIGHT>Konohana's festivals look
+really interesting.<PAGE><FACE_POS_RIGHT><FACE_DIRK><FACE_SAD><FP_RIGHT>I'd like to take part too if
+I didn't have work.<PAGE><FACE_POS_RIGHT><FACE_DIRK><FACE_HAPPY><FP_RIGHT>I've got an idea!
+Next time you tell me all
+about the festival!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_NORMAL><FP_RIGHT><MYNAME>, do you have any
+brothers or sisters?<PAGE>I have an older brother.<PAGE><FACE_POS_RIGHT><FACE_DIRK><FACE_HAPPY><FP_RIGHT>He's very different from me.
+He's a good brother, always
+looking out for me.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_SAD><FP_RIGHT>Do you know how to make
+friends with cats?<PAGE><FACE_POS_RIGHT><FACE_DIRK><FACE_SAD><FP_RIGHT>If you do, please tell me...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_NORMAL><FP_RIGHT>Depending on which village
+you move to, the number of
+animals you can keep varies.<PAGE>If you have more than you
+can keep, you have to give
+the extras to somebody else.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_NORMAL><FP_RIGHT>This is a good spot for
+looking out over Konohana.<PAGE><FACE_POS_RIGHT><FACE_DIRK><FACE_HAPPY><FP_RIGHT>I feel like singing!
+Do you want to sing with me?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_NORMAL><FP_RIGHT>Everyone is Konohana is
+so nice.<PAGE><FACE_POS_RIGHT><FACE_DIRK><FACE_HAPPY><FP_RIGHT>Everyone goes around wearing
+a smile every day.<PAGE>It reminds me of my
+hometown.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_NORMAL><FP_RIGHT>Mayor Ina is so cool.<PAGE>The mayor of my hometown is
+very...energetic.<PAGE><FACE_POS_RIGHT><FACE_DIRK><FACE_HAPPY><FP_RIGHT>Mayor Ina is different,
+but what they have in
+common is caring for people.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_SAD><FP_RIGHT>I...can't stand static
+electricity.<PAGE><FACE_POS_RIGHT><FACE_DIRK><FACE_SAD><FP_RIGHT>When I touch a ball of yarn,
+I always get a little zap!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_SAD><FP_RIGHT>It's dangerous to go outside
+in a blizzard or typhoon.<PAGE><FACE_POS_RIGHT><FACE_DIRK><FACE_NORMAL><FP_RIGHT>Even if you wanted to move
+on a day like that, you
+can't.<PAGE>It's too dangerous to go
+over the mountain.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_HAPPY><FP_RIGHT>Welcome to my house!<PAGE>Make yourself at home!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_NORMAL><FP_RIGHT>I work as a deliveryman.<PAGE>I deliver the mail to people
+in the village every day.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_HAPPY><FP_RIGHT>All of Konohana's villagers
+get along so well with each
+other.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_NORMAL><FP_RIGHT>There's a lot of wildlife up
+on the mountain.<PAGE><FACE_POS_RIGHT><FACE_DIRK><FACE_SAD><FP_RIGHT>But the animals run away if
+you get too close.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_NORMAL><FP_RIGHT><MYNAME>...<PAGE>You're...\u270b
+<FACE_POS_RIGHT><FACE_DIRK><FACE_HAPPY><FP_RIGHT>An interesting person.<PAGE>I get a kick out of talking
+to you.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_HAPPY><FP_RIGHT>My job is awesome.<PAGE>Every day I get to meet lots
+of people and chat with
+them!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_NORMAL><FP_RIGHT>Whenever I make a delivery
+to Yun's place, she serves
+me tea.<PAGE><FACE_POS_RIGHT><FACE_DIRK><FACE_HAPPY><FP_RIGHT>She's a really nice lady.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_NORMAL><FP_RIGHT>Georgia and Grady are good
+friends.<PAGE><FACE_POS_RIGHT><FACE_DIRK><FACE_HAPPY><FP_RIGHT>You can tell they're close
+even when they quarrel!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_NORMAL><FP_RIGHT>There's a lot of wildlife up
+on the mountain.<PAGE><FACE_POS_RIGHT><FACE_DIRK><FACE_HAPPY><FP_RIGHT>You'll see different animals
+during different seasons of
+the year.<PAGE>You should keep an eye out
+for them!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_NORMAL><FP_RIGHT><MYNAME>...<PAGE>You're...\u270b
+<FACE_POS_RIGHT><FACE_DIRK><FACE_HAPPY><FP_RIGHT>A nice person.<PAGE>I feel better whenever I
+talk to you.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_NORMAL><FP_RIGHT><MYNAME>, are you a good
+cook?<PAGE><FACE_POS_RIGHT><FACE_DIRK><FACE_HAPPY><FP_RIGHT>I have confidence in my own
+cooking skills!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_NORMAL><FP_RIGHT>When I make deliveries to
+Sheng's house, we get into
+interesting conversations.<PAGE><FACE_POS_RIGHT><FACE_DIRK><FACE_SAD><FP_RIGHT>But if he starts talking
+about pandas, he'll go all
+day...<PAGE>That guy is completely into
+pandas.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_NORMAL><FP_RIGHT>Reina and Mako are
+funny.<PAGE><FACE_POS_RIGHT><FACE_DIRK><FACE_HAPPY><FP_RIGHT>I've seen both of them
+talking to plants on many
+occasions.<PAGE>The two of them are
+completely into plants.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_NORMAL><FP_RIGHT>Owls are really cute.<PAGE><FACE_POS_RIGHT><FACE_DIRK><FACE_HAPPY><FP_RIGHT>There are some very rare
+animals around here.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_NORMAL><FP_RIGHT><MYNAME>...<PAGE>You're...\u270b
+<FACE_POS_RIGHT><FACE_DIRK><FACE_HAPPY><FP_RIGHT>A kind person.<PAGE>I really respect all the
+caring you show for people.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_NORMAL><FP_RIGHT>My delivery job is pretty
+physically demanding.<PAGE><FACE_POS_RIGHT><FACE_DIRK><FACE_SAD><FP_RIGHT>I have to work out and
+get stronger.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_NORMAL><FP_RIGHT>Mako usually gives me a
+snack when I make a delivery
+to his house.<PAGE><FACE_POS_RIGHT><FACE_DIRK><FACE_HAPPY><FP_RIGHT>The fruit he grows is
+unbelievably delicious.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_NORMAL><FP_RIGHT>Ash and his sister Cheryl
+are really close.<PAGE><FACE_POS_RIGHT><FACE_DIRK><FACE_SAD><FP_RIGHT>I was never as affectionate
+as that toward my brother.<PAGE><FACE_POS_RIGHT><FACE_DIRK><FACE_NORMAL><FP_RIGHT>Of course, it's different
+between brothers.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_NORMAL><FP_RIGHT><MYNAME>, have you ever seen
+a panda before?<PAGE>It's a really rare animal.<PAGE><FACE_POS_RIGHT><FACE_DIRK><FACE_HAPPY><FP_RIGHT>Do pandas really eat bamboo?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_NORMAL><FP_RIGHT><MYNAME>...
+You're...<PAGE>What's the word......\u270b
+<FACE_POS_RIGHT><FACE_DIRK><FACE_HAPPY><FP_RIGHT>A wonderful person.<PAGE>I know why everybody thinks
+highly of you.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_NORMAL><FP_RIGHT>I used to have a job at a
+caf.<PAGE><FACE_POS_RIGHT><FACE_DIRK><FACE_HAPPY><FP_RIGHT>I tend to make a racket when
+I'm cooking and cleaning!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_NORMAL><FP_RIGHT>The other day at Kana's
+house, I saw a big book all
+about horses.<PAGE><FACE_POS_RIGHT><FACE_DIRK><FACE_HAPPY><FP_RIGHT>I've been to a lot of
+horse-racing events, so we
+had a lively discussion.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_NORMAL><FP_RIGHT>Kana and Hiro are like
+brothers...<PAGE><FACE_POS_RIGHT><FACE_DIRK><FACE_HAPPY><FP_RIGHT>Or like a ringleader and his
+sidekick, don't you
+think?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_NORMAL><FP_RIGHT>Alpacas are a very rare
+animal in these parts.<PAGE>They're kind of strange...
+They're like little
+llamas.<PAGE><FACE_POS_RIGHT><FACE_DIRK><FACE_HAPPY><FP_RIGHT>But the cutest thing is how
+they keep staring at you
+once you make eye contact.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_SHOCK><FP_RIGHT>............
+Uh.........<PAGE>When I'm with you, I have
+such a good time.<PAGE>Maybe, if it's okay...<PAGE><FACE_POS_RIGHT><FACE_DIRK><FACE_HAPPY><FP_RIGHT>...you could be my confidant
+from now on?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_NORMAL><FP_RIGHT><MYNICKNAME>, how long has it
+been since we met?<PAGE><FACE_POS_RIGHT><FACE_DIRK><FACE_HAPPY><FP_RIGHT>I can lose all track of time
+when we're together.<PAGE><FACE_POS_RIGHT><FACE_DIRK><FACE_SHOCK><FP_RIGHT>I want you to be with me
+forever...<PAGE>And I know you will!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_NORMAL><FP_RIGHT>Getting married certainly
+does change your outlook.<PAGE>Now I've got a family to
+look out for.<PAGE><FACE_POS_RIGHT><FACE_DIRK><FACE_HAPPY><FP_RIGHT><MYNICKNAME>, I'm still not
+the most mature guy in the
+world, but stick with me!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_NORMAL><FP_RIGHT><MYNICKNAME>...
+.........<PAGE><FACE_POS_RIGHT><FACE_DIRK><FACE_SHOCK><FP_RIGHT>Thank you for being my
+partner in life...<PAGE>I'll be good to you for as
+long as I live!

@@ -1,0 +1,36 @@
+<FACE_POS_RIGHT><FACE_HIRO><FACE_NORMAL><FP_RIGHT>Oh, hallo!
+Apa yang membawamu kesini
+hari ini?<PAGE><FACE_POS_LEFT><FACE_NORI><FACE_SAD><FP_LEFT>Aku sedikit terluka.<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_NORMAL><FP_RIGHT>Oke, biar aku
+mengeceknya.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_NORMAL><FP_RIGHT>Hal kecil seperti ini,
+kurasa aku bisa lakukan
+sendiri. Mohon kesini bentar
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_HAPPY><FP_RIGHT>Dah, selesai. Ini akan
+menyembuhkan lukamu dengan
+baik.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_NORI><FACE_NORMAL><FP_LEFT>Terima kasih!<PAGE><FACE_POS_LEFT><FACE_NORI><FACE_HAPPY><FP_LEFT>Hiro, keahlianmu sekarang
+seperti halnya seorang
+dokter ahli saja!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_HAPPY><FP_RIGHT>Aku sangat senang untuk men
+dengarnya jika kamu berkata
+demikian.<PAGE><FACE_POS_LEFT><FACE_NORI><FACE_NORMAL><FP_LEFT>Lain kali jika aku terluka,
+aku akan bertanya kekamu
+untuk menyembuhkannya, Hiro!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_HAPPY><FP_RIGHT>Aku akan tidak mengecewakan
+kamu diperawatan yang aku
+tangani.<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_NORMAL><FP_RIGHT>Tapi, yang terpentingnya
+kamu seharusnya menghindari
+sesuatu yang dapat melukai<PAGE>kamu sendiri!
+Nori, kamu seorang yang
+peduli dan...<PAGE>Disaat kamu sedikit agak
+memaksakan sesuatu, mohon
+perhatikan lagi keadaannya<PAGE><FACE_POS_LEFT><FACE_NORI><FACE_SHOCK><FP_LEFT>Ha ha! Pastinya kamu me-
+ngatakannya,Hiro!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_NORI><FACE_HAPPY><FP_LEFT>Well, Aku akan menjumpai
+kamu kedepannya!

@@ -1,0 +1,29 @@
+空メッセージ
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_CHERYL><FACE_NORMAL><FP_LEFT>\u232f<BLUE>フェリックス\u232c</COLOR>
+さて、もうすぐ新しい年が無事
+この町にもやってくるな。<PAGE><FACE_POS_LEFT><FACE_CHERYL><FACE_HAPPY><FP_LEFT>\u2255みなと一緒に年が終われる
+事を喜びつつ、新しい年までの
+時間を数えようじゃないか！
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_CHERYL><FACE_NORMAL><FP_LEFT>\u232f<BLUE>フェリックス\u232c</COLOR>
+うむ、そろそろ時間だな。
+みな準備は良いな？ \u270a\u232dいくぞ！\u270a
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_CHERYL><FACE_NORMAL><FP_LEFT>
+　　　　サーーーン！\u238f<FACE_POS_LEFT><FACE_CHERYL><FACE_HAPPY><FP_LEFT>
+　　　　　ニイーー！\u238f<FACE_POS_LEFT><FACE_CHERYL><FACE_ANGRY><FP_LEFT>
+　　　　　イチ！\u270b
+----------------------------|----------------------------------
+\u2137\u1f43
+　\u20d2<RED>あけましておめでとう！</COLOR>\u270b
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_CHERYL><FACE_HAPPY><FP_LEFT>\u232f<BLUE>フェリックス\u232c</COLOR>
+\u2256では、新しい年の始まりを
+祝おうじゃないか！
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_CHERYL><FACE_HAPPY><FP_LEFT>\u232f<BLUE>フェリックス\u232c</COLOR>
+\u2204では、今年もみなが健康に
+過ごせる事を祈ってるぞ。<PAGE><FACE_POS_LEFT><FACE_CHERYL><FACE_NORMAL><FP_LEFT>それでは、一年最初の一日だ。
+\u270a<FACE_CHERYL><FACE_HAPPY>今年もみなで楽しく、
+始めていこう！

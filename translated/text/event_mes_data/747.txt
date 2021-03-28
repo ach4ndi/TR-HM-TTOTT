@@ -1,0 +1,812 @@
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>Bukankah Musim Semi ini
+bagus?<PAGE>Bau harum tanaman itu
+benar-benar menyenangkan.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Musim Semi akhirnya
+telah tiba!<PAGE>Kelihatan binatang
+menyukainya juga.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>Pohon sakura tampaknya
+mau bermekaran.<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Apakah kelopak bunga sakura
+itu sungguh imutkah?
+Kurasa itu imut banget.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Musim Semi ini bagus
+sekali!<PAGE>Ini cukup susah juga untuk
+menahan diri untuk tidak
+keluar, disaat diluar sana<PAGE>semuanya tampak indah.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>Cuacanya lebih panas ya
+dihari ini.<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Minuman yang pas disaat ini
+adalah es teh.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>Sengatan sangat panas ya!<PAGE>Tetap bersemangat bekerja
+ya walaupun cuacanya kek
+gini!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_SHY><FP_RIGHT>Disaat hawanya panas kek
+gini, pastinya pekerjaanmu
+juga semakin susah.<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Jika kamu capet,
+beristirahatlah.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>Untuk saat ini, kurasa pergi
+kepegunungan itu hal yang
+tepat untuk mencari udara<PAGE>segar dan mencari hawa
+dingin disana.<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Air sungai yang dingin itu
+bagus juga.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>Musim gugur akhirnya
+telah tiba!<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Dedaunan yang ada digunung
+dan didesa sudah berubah
+warna. Itu sungguh indah!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Cuaca akhir-akhir ini
+cukup nyaman.<PAGE>Ini, saat yang bagus untuk
+membaca buku.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>Musim gugur akhirnya
+telah tiba!<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_SHY><FP_RIGHT>Disaat siang hari hawanya
+cukup hangat tapi pagi dan
+malam hari cukup mengigil.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>Langit musim gugut itu
+cukup bagus ternyata.<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Biru dingat disaat siang
+hari dan bintang-bintang di-
+saat malam harinya...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>Hari ini makin lama
+makin dingin.<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Hati-hati jangan sampai
+sakit flu ya.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>Kamu harus berpakaian yang
+menghangatkanmu, disaat mau
+beraktifitas diluar.<PAGE>Atau kamu akan sakit flu.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Aku harap cuaca kedepannya
+akan semakin hangat!<PAGE>Aku tidak sabar cuaca yang
+cerah pada musim semi!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>Makin lama makin dingin
+saja.<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_SHY><FP_RIGHT>Pekerjaan menjadi berat
+kalau dinginnya sedingin
+ini.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Disaat cuacanya bagus, kamu
+dapat lebih cepat mencuci
+bahu dan bersih rumah!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>Apakah akhir-akhir ini
+pekerjaanmu berjalan
+dengan lancar?<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Jangan terlalu memaksakan
+dirimu ya!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>Jika kamu ingin tahu bagai-
+mana keadaan cuaca itu
+seperti apa, kamu bisa<PAGE>mendengarkannya lewat
+radio di channel ramalan
+cuaca.<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Itu sangat efektif untuk
+mengetahui cuaca hari ini
+atau keesokkan harinya.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Disaat hari yang cerah,
+Aku merasa dipenuhi dengan
+kehangatan dan kebahagiaan.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_SHY><FP_RIGHT>Uh hujan...<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Kurasa tanamannya akan
+senang dengan hujan itu!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_SHY><FP_RIGHT>Oh tidak, cucianku tidak
+akan kering disaat cuacanya
+kek begini!<PAGE>Aku harap keesokkan harinya
+cuacanya cerah...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>Jika kamu tidak berhati-
+hati berjalan disaat hujan
+kek gini,<PAGE>Kamu akan terpleset, ter-
+pental dan terluka karena
+terjatuh.<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>Jadi hati-hati ya!
+Jangan smapai terluka!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>Dengar-dengar bahwa air
+hujan ini adalah air mata-
+nya dewi panen.<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_SHY><FP_RIGHT>Jika itu benar, kurasa
+sebaiknya tidak komplain
+mengenai hujan ini.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>Wow, penampakan desa yang
+penuh dengan salju itu
+tampak sungguh cantik ya!<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Ini seperti pemandangan
+yang ada dibuku.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>Binatang liar itu sungguh
+luar biasa, bukan?<PAGE>Tampaknya salju tidak meng-
+ganggu mereka.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>Disaat salju turun dari
+atap, itu akan membuat
+sebuah gundukkan besar!<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_SHY><FP_RIGHT>Hal itu selalu membuatku
+kaget.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>Disaat salju turun dari
+atap, itu akan membuat
+sebuah gundukkan besar!<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_SHY><FP_RIGHT>Hal itu selalu membuatku
+kaget.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_NORI><FACE_SAD><FP_LEFT>Um......<PAGE>Aku benar-benar minta
+maaf, tapi...<PAGE>Aku tidak menyukai
+tempat ini.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_NORI><FACE_SHY><FP_LEFT>Dulunya...
+Disini...<PAGE>Ada gadis dengan rambut
+hijau mengerjain aku...<PAGE><FACE_POS_LEFT><FACE_NORI><FACE_SAD><FP_LEFT>.........
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Hari ini cukup menyenangkan.<PAGE>Mari kita bersama dan ber-
+bicara lagi kedepannya.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>Terima kasih atas hari ini
+ya. Mari kita bersama-sama
+seperti ini lagi.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_NORI><FACE_SAD><FP_LEFT>Aku benar-benar minta maaf
+... Aku akan pulang kerumah
+...<PAGE>Sampai jumpa lagi.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>Aku merasa bahagia disaat
+kita berbincang-bincang
+kek gini.<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Kamu dan aku harus sesering
+berbicara kek gini ya.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Kamu itu such a nice guy.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Kamu itu such a nice guy.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Kamu itu such a nice guy.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Kamu itu such a nice guy.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Kamu itu such a nice guy.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Kamu itu such a nice guy.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Kamu itu such a nice guy.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Kamu itu such a nice guy.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Kamu itu such a nice guy.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Kamu itu such a nice guy.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Kamu itu such a nice guy.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Kamu itu such a nice guy.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Kamu itu such a nice guy.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Kamu itu such a nice guy.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Kamu itu such a nice guy.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Kamu itu such a nice guy.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>Merawat binatang itu hal
+yang bagus.<PAGE>Ini seperti memiliki sebuah
+keluarga besar disekitarmu!<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Jika kamu menambah lebih
+banyak lagi, itu akan lebih
+bagus!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>Merawat binatang itu hal
+yang bagus.<PAGE>Ini seperti memiliki sebuah
+keluarga besar disekitarmu!<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Ternyata kamu benar-benar
+menambah jumlah binatang-
+nya, huh?<PAGE>Aku pikir kamu sudah
+belajar banyak mengenai
+cara merawatnya.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>Merawat binatang itu hal
+yang bagus.<PAGE>Ini seperti memiliki sebuah
+keluarga besar disekitarmu!<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Ini suatu hal yang luar
+biasa bahwa kamu dapat
+merawat banyak binatang!<PAGE>Kamu itu suuuuuuuper!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_SHY><FP_RIGHT>Serangga dan kodok, huh?
+Kamu mengoleksi serangga
+dan kodok?<PAGE>.........<PAGE>Apakah kamu benar-benar
+membutuhkan untuk mengolek-
+sinya?<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_SAD><FP_RIGHT>Aku merasa kasian kepada
+yang kamu tankap itu...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_SHY><FP_RIGHT>Serangga dan kodok, huh?
+Kamu mengoleksi serangga
+dan kodok?<PAGE>.........<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_SHY><FP_RIGHT>Oke......
+Kamu pastinya sudah banyak
+jumlah koleksiannya.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_SHY><FP_RIGHT>Serangga dan kodok, huh?
+Kamu mengoleksi serangga
+dan kodok?<PAGE>.........<PAGE>Wow!<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_SAD><FP_RIGHT>Apakah kamu harus mempunyai
+SANGAT banyak?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>Jadi, kamu mencatat semua
+ikan yang kamu tangkap ya?<PAGE>.........<PAGE>Tampaknya kamu baru
+memulainya, huh?<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Ha ha! Tapi aku tahu
+bahwa kamu akan bisa lebih
+dari itu.<PAGE>Semoga beruntung!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>Jadi, kamu mencatat semua
+ikan yang kamu tangkap ya?<PAGE>.........<PAGE>Ooh, kamu sudah banyak
+menangkapnya!<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Tapi aku tahu
+bahwa kamu akan bisa lebih
+dari itu.<PAGE>Semoga beruntung!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>Jadi, kamu mencatat semua
+ikan yang kamu tangkap ya?<PAGE>.........<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Oooh!
+Lihat! jumlah ikan yang
+sudah ditangkap. Amazeng!<PAGE>Kalau sudah bertekat, maka
+tidak ada rintangan yang
+susah dihadapi. Wow.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>Dengar-dengar bahwa kamu
+mempunyai sebuah talenta
+dalam hal membuat sebuah<PAGE>resep baru untuk memasak
+ya.<PAGE>........<PAGE>Tampaknya kamu baru
+memulainya, huh?<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Aku pikir kamu bisa melaku-
+kan jika kamu tetap mengom-
+binasi yang tidak biasa.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>Dengar-dengar bahwa kamu
+mempunyai sebuah talenta
+dalam hal membuat sebuah<PAGE>resep baru untuk memasak
+ya.<PAGE>........<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Oooh... Sepertinya kamu
+memiliki banyak ide dalam
+masakanmu ya.<PAGE>Kamu benar-benar memiliki
+sebuah talenta.<PAGE>Pastinya kamu bisa lebih
+dari itu.<PAGE>Jika kamu mempunyai ide
+untuk resepnya, ajari aku
+ya!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>Dengar-dengar bahwa kamu
+mempunyai sebuah talenta
+dalam hal membuat sebuah<PAGE>resep baru untuk memasak
+ya.<PAGE>........<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Ooh, wow!
+Lihat betapa banyaknya
+resep yang kamu buat itu!<PAGE>Sepertinya aku harus
+balajar beberapa dari
+kamu!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Kamu itu such a nice guy.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Kamu itu such a nice guy.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Kamu itu such a nice guy.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Kamu itu such a nice guy.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Kamu itu such a nice guy.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Kamu itu such a nice guy.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Kamu itu such a nice guy.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Kamu itu such a nice guy.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Kamu itu such a nice guy.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Kamu itu such a nice guy.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Kamu itu such a nice guy.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Kamu itu such a nice guy.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Kamu itu such a nice guy.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Kamu itu such a nice guy.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Kamu itu such a nice guy.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Kamu itu such a nice guy.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Kamu itu such a nice guy.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Kamu itu such a nice guy.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Kamu itu such a nice guy.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Kamu itu such a nice guy.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Kamu itu such a nice guy.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Kamu itu such a nice guy.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Kamu itu such a nice guy.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Kamu itu such a nice guy.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Kamu itu such a nice guy.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Kamu itu such a nice guy.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Kamu itu such a nice guy.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Kamu itu such a nice guy.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Kamu itu such a nice guy.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Kamu itu such a nice guy.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Kamu itu such a nice guy.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Kamu itu such a nice guy.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Kamu itu such a nice guy.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Kamu itu such a nice guy.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Kamu itu such a nice guy.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Kamu itu such a nice guy.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Kamu itu such a nice guy.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Kamu itu such a nice guy.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>Menjahit itu menyenangkan
+loh!<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Aku senang untuk membuat
+semua hal dari menjahit
+ini.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>Aku mencintai anak-anak.<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Bagaimana ya masa kecilmu
+itu?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>Ayame itu seorang dokter
+diklink sekitar sini.<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Dia itu orangnya
+sangat baik.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Orang tua yang ada di
+Konohana, semuanya sangat
+aktif. Dan menyenangkan.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Festival salju yang di-
+adakan setiap tahunnya di-
+sini, benar2 spektakuler!<PAGE>Aku suka disaat melihat
+patung yang dibuat oleh
+orang-orang.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Cukup berguna juga ya,
+semampuan untuk menjahit
+itu.<PAGE>Aku dapat memperbaiki
+pakaian robek dan memakainya
+lagi.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Aku mencintai anak-anak!<PAGE>Aku merasa lebih bersemangat
+dengan hanya melihatnya.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>Ayame itu seorang
+dokter yang hebat.<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Suntikkan yang diberikannya
+pun tidak sakit.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Masakkannya Yun itu
+pastinya sangat lezat!<PAGE>Dengan pengalamannya itu,
+dia mengetahui bagaimana
+untuk membuat rasa lezat itu
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>Ada sebuah festival salju
+diKonohana yang diadakan
+setiap tahunnya.<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Patung yang dibuat Sheng,
+selalu memiliki kerumitan
+tingkat tinggi.<PAGE>Kamu harus melihatnya
+jika ada kesempatan untuk
+melihatnya..
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>Baru saja aku membuatkan
+baju panda untuk Sheng.<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Dia benar-benar menyukainya!
+Itu cukup menyenangkan jika
+dia menyukainya.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>Disaat kita masih kecil,
+Kana dan Hiro selalu menga-
+jakku untuk keluar dan<PAGE>bermain.<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Mereka berdua itu sungguh
+menggemaskan. Penuh dengan
+energi...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>Dokter Ayame orangnya
+sangat lembut.<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Dia tahu bagaimana penting-
+nya untuk membuat pasiennya
+merasa nyaman.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>Kakekku ini selalu ber-
+semangat dalam aktifitasnya!<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Dia bangun pada jam 4 AM
+untuk memulai pekerjaan
+sehari-harinya!<PAGE>Ha ha!
+Kurasai itu kepagian
+bangunnya.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>Ada sebuah festival salju
+diKonohana yang diadakan
+setiap tahunnya.<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Patung Mako selalu memiliki
+gaya yang unik!<PAGE>Kamu harus melihatnya
+jika ada kesempatan untuk
+melihatnya..
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>Aku belajar bagaimana cara
+menjahit itu dari nenekku.<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Dia itu sangat baik, dan
+aku sangat mencintainya.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>Anak-anak itu menggemaskan
+bukan?.<PAGE>Disaat aku masih kecil,
+aku bermain diluar sepanjang
+waktu.<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Hee hee.
+Oh, itu cuman menjadi
+kenangan aja...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Ayame dan Hiro membuat
+sebuah tim yang hebat.
+Mereka tampak akrab banget.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>Sheng sering kepegunungan
+sendirian.<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Dia itu benar-benar
+orang tua yang kuat.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>Ada sebuah festival salju
+diKonohana yang diadakan
+setiap tahunnya.<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Patung kana itu selalu
+berhubungan dengan kuda!<PAGE>Kamu harus melihatnya
+jika ada kesempatan untuk
+melihatnya..
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>Nenekku mengajari aku cara
+menjahit, memasak dan
+banyak hal lainnya.<PAGE>Aku sering membuat kue
+kastanye bersama beliau...<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Jika melihat makanan itu,
+membuatku mengingat
+kenangan indah itu...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>Anak-anak itu penuh
+dengan energi ya!<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Aku juga merasa lebih ber-
+energi dengan hanya melihat-
+nya aja!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Klinik ini tempat penting
+untuk para warga yang
+tinggal disini.<PAGE>Jika kamu merasa sakit,
+kamu harus pergi kesana
+ya.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Orang tua yang ada di-
+Konohana ini semuanya
+sangat aktif.<PAGE>Aku harap aku juga begitu
+disaat aku tua!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>Festival salju konohana
+selalu penuh akan hal
+kesenangan!<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Senang untuk yang membuat
+dan melihat patung di
+festivalnya!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>Reina itu cukup pintar loh!<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Dia datang ke Konohana
+untuk memperlajari
+tanaman. Wow!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>Apakah kamu tahu mengenai
+penggiling air?<PAGE>Kamu bisa membuat sesuatu
+ditempat itu.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>Aku menyukai buku sejak
+aku kecil.<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Membaca sebuah buku, aku
+merasa seperti aku mengun-
+jungi dunia lain.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>Rahi itu masih kecil, tapi
+dia benar-benar seperti
+bukan anak-anak.<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Dia selalu memberikan salam
+halo dengan antusias.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>Mencuci dan membersihkan
+ini selalu memberikanku
+perasaan baik.<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Karena itu penting untuk
+menjaga semuanya bersih
+dan rapi.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>Reina itu cukup aneh
+orangnya, tapi dia gadis
+yang baik kok.<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Kamu harus melihat senyum-
+nya disaat dia bersama
+dengan tanamannya!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>Apakah kamu mengetahui
+gudang pengerajinan?<PAGE>Tiap produk berbeda yang
+bisa dibuat dari tempat
+itu.<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Aku ingin mencobanya...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>Aku menyukai buku sejak
+aku kecil.<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Aku merasa menyukai orang-
+orang dan tempat didalam-
+nya.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>Ying itu hanya seorang anak
+kecil, tapi dia itu cukup
+pintar juga.<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Dia benar-benar melakukan
+membantu Yun dikedainya.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>Bersih-bersih ini
+cukup menyenangkan!<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Membuat ruangan yang kotor
+menjadi tempat yang ber-
+sinar ini sesuatu...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_SHY><FP_RIGHT>Disaat ada badai besar,
+kakekku keluar untuk jalan-
+jalan dan tidak kembali...<PAGE>Aku khawatir, jadi aku
+pergi keluar untuk mencari-
+nya...<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>Reina menemukannya di-
+pegunungan dan memberitahu
+kepadahnya bahwa aku<PAGE>mengawatirkan dirinya.<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Dia itu benar-benar gadis
+yang baik.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>Apakah kamu tahu tentang
+penggiling air?<PAGE>Setiap alat pembuat itu mem-
+produksi barang yang ber-
+beda.<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Aku ingin mencobanya...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>Aku menyukai orang dan
+tempat didalam buku yang
+kubaca disaat aku kecil.<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Disaat aku membaca cerita
+mengenai raksasa yang
+ramah, hatiku benar-benar<PAGE>tersentuh.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>Kepala desa Ina, ...
+seorang ibu-ibu yang kuat!<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Pernah sekali-kali dia
+membuat beruang pingsan
+dengan sekali pukulan!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_SHY><FP_RIGHT>Kakek Gombe selalu menaruh
+kaos kakinya terbalik di-
+wadah cucian baju.<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_SAD><FP_RIGHT>Aku selalu mengingatkannya
+agar posisinya tidak ter-
+balik, sisi luar menjadi<PAGE>sisi dalamnya...
+Tapi dia selalu mencoba
+mengulangi-mengulanginya!<PAGE>dasar kakek!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>Beberapa hari yang lalu,
+Reina menggunakan baju yang
+kubuat untuknya.<PAGE>Dia berkata, "Aku tidak
+bisa memakainya! Terlalu
+mencolok!"<PAGE>Tapi akhirnya, dia mengam-
+bilnya.<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Ha ha.
+Akhirnya dia menyukainya
+juga.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>Apakah kamu tahu tentang
+gudang pengerajinan?<PAGE>Jika kamu membuat banyak
+barang disitu, maka kamu
+akan mendapatkan rank!<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_SHY><FP_RIGHT>Tapi aku penasaran aja,
+siapa yang memberikan titel
+itu, kamu penasaran juga?<PAGE>Hmmm...<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Mungkin ini dari si dewi
+panen...
+Apakah itu hal yang bagus?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>Aku menyukai orang dan
+tempat didalam buku yang
+kubaca disaat aku kecil.<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Ada seorang anak lelaki
+yang lahir dari semangka
+dimana dia berteman dengan<PAGE>monyet, anjing dan bebek...
+Aku menyukai dibagian
+disaat mereka pergi untuk<PAGE>mencari warna yang hilang
+pada sebuah pelangi.<PAGE>Kupikir itu sebuah cerita
+mengenai pertemanan,
+penentuan dan kemenangan.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>Mako itu memiliki penampil-
+an yang menyeramkan tapi
+dia itu sangat baik kok.<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Dia selalu dapat menyenang-
+kan anak-anak dalam per-
+mainan mereka.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_SHY><FP_RIGHT>Kakekku selalu menyisipkan
+sedikit kertas didalam
+saku celananya dicuciannya.<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_SAD><FP_RIGHT>Aku selalu memberikan peri-
+ngatan kepadanya tentang
+hal ini, tapi dia selalu<PAGE>melakukan terus menerus.
+Terkadang dia itu cukup
+membuatku pusing!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>Disuatu waktu, Reina membe-
+rikanku penanda buku sebagai
+hadiah ulang tahunku.<PAGE>Penanda bukunya itu dipress
+kan sebuah bunga disisi
+belakangnya. Dia menghabis-<PAGE>kan waktu untuk memilih
+bunga apa yang cocok dengan
+aku.<PAGE>Aku benar-benar senang
+dengan hadiah yang dia
+berikan!<PAGE>Aku anggap itu sebagai
+sebuah harta karunku, dan
+aku masih menggunakannya.<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Saat ini aku merasa ada
+yang kurang kalau tidak
+menggunakan penanda buku<PAGE>itu!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>Apakah kamu tahu tentang
+gudang pengerajin?<PAGE>Beberapa hari yang lalu,
+aku minum kopi panas yang
+terbuat dari alat...<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_SHY><FP_RIGHT>Rasanya itu tidak sesuai
+dengan lidahku...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Aku menyukai orang dan
+tempat didalam buku yang
+kubaca disaat aku kecil.<PAGE>Ada seorang gadis yang kena
+sihir menjadi sebuah bola
+...<PAGE>Ada seorang pangeran yang
+jatuh cinta kepadanya....<PAGE>.........<PAGE>Ha ha!
+Aku masih menyukai cerita-
+nya!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>Bukankah Yun itu seorang
+yang baik?<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Aku merasa lebih baik
+disaat aku berbicara kepada
+-nya.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Cuci baju, bersih-bersih
+dan memasak...<PAGE>Itu semua cukup melelahkan,
+tapi aku menikmatinya kok.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>Ying dan Rahi cukup
+dekat ya mereka.<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Dengan kedua anak kecil itu,
+Konohana ini tampak lebih
+hidup.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Sungai itu tempat yang
+nyaman untuk bersatai.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>Aku senang untuk mem-
+buat sebuah baju.<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Banyak gaya dan patternnya..
+Kemungkinannya tidak ter-
+batas!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Menjahit ini sungguh menye-
+nangkan!<PAGE>Aku membuat sesuatu untuk
+semua orang yang ada di-
+desa.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>Apakah kamu tahu, <MYNAME>?
+Kamu itu...<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Seorang yang menarik!<PAGE>Berbicara kepadamu itu
+selalu membuatku senang.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>Ayame itu seorang dokter,
+dan Hiro itu asistennya.<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Mereka berdua itu memiliki
+tanggung jawab masing-
+masing.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>Ini suatu sensasi yang
+nyaman disaat didekat
+sungai.<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Aku menyukai betapa peman-
+dangan terlihat sangat ber-
+beda disaat malam hari dan<PAGE>saat siang hari.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>Semua orang diKonohana
+memiliki pakaian yang bagus!<PAGE>Ying dengan pakaian
+bermotif bunga...<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Bukankah itu suatu
+yang imut untuk dilihat?<PAGE>Ha ha ha!
+Aku penasaran, mungkin Yun
+yang membuatkannya.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>Ini cukup berguna untuk
+bisa menjahit.<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Beberapa hari yang lalu,
+aku memperbaiki boneka
+teddy bear milik Ying.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>Apakah kamu tahu, <MYNAME>?
+Kamu itu...<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Seorang yang baik!<PAGE>Berbicara denganmu itu
+selalu membuat hatiku
+merasa tenang dan hangat.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>Kakekku memiliki kebiasaan
+yang aneh.<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_SHY><FP_RIGHT>Dan dia itu bisa cukup
+tenang dalam suatu hal!<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Tapi disaat aku benar-benar
+marah, langsung memperbaiki
+kesalahannya!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>Dihari yang lalu, temanku
+dan aku selalu kesungai ini
+untuk bermain.<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Kapanpun itu, hari atau
+tahun, itu selalu menjadi
+tempat spesialku.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>Semua orang diKonohana
+memiliki pakaian yang bagus!<PAGE>Rahi dengan baju penuh
+warnanya itu...<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Itu menunjukkan betapa
+bagusnya kemampuan milih
+bajunya!<PAGE>Ha ha!
+Aku penasaran jika itu
+dipaksakan oleh ibunya...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>Ini cukup berguna untuk
+bisa menjahit.<PAGE>Beberapa hari yang lalu,
+aku membuatkan kana sebuah
+kantong.<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Dia benar-benar menyukainya
+Dia berbicara bahwa dia
+akan selalu menggunakannya.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Apakah kamu tahu, <MYNAME>?<PAGE>Kamu itu benar-benar...\u270b
+<FACE_POS_RIGHT><FACE_NORI><FACE_SHOCK><FP_RIGHT>Seorang yang baik.<PAGE>Anda tidak pernah berhenti
+membuatku memukau kepadamu,<PAGE>dengan selalu memperhati-
+kan orang lain.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>Disaat aku masih kecil,
+Aku bertemu dengan seorang
+wanita, dikolam.<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_SHY><FP_RIGHT>Dia itu tiba-tiba muncul
+dari air dikolam itu!
+Aku sungguh kaget!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>Dihari yang lalu, temanku
+dan aku selalu datang kesini
+untuk bermain disungai.<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Kana selalu hebat dalam
+kemampuan menangkap ikannya.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>Semua orang diKonohana
+memiliki pakaian yang bagus!<PAGE>Ayame menggunakan pakaian
+dokter seperti biasa yang
+dia pakai...<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Kalau diperhatikan lebih
+dekat dia itu terlihat
+feminim. Dan...<PAGE>aku sangat suka untuk
+melihat kaling yang ada
+dilehernya itu!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>Ini cukup berguna untuk
+bisa menjahit.<PAGE>Beberapa hari yang lalu,
+aku membuatkan sebuah
+celemek buat Hiro.<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Dia mengatakan kepadaku,<PAGE>"Aku tidak melakukan
+kecacauan sebanyak itu di-
+dapur!".<PAGE>Tapi, dia tetap mengambil
+celemeknya!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>Apakah kamu tahu, <MYNAME>?<PAGE>Kamu itu benar-benar...
+<FACE_POS_RIGHT><FACE_NORI><FACE_SHOCK><FP_RIGHT>Seorang yang luar biasa.<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Semua orang berpikir bahwa
+kamu ini dunianya,
+<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>Beberapa hari yang lalu,<PAGE>Ayame memintaku membuatkan
+sesuatu pakaian kecewek-
+cewekan buat dia.<PAGE>Jadi aku membuatkannya se-
+buah baju dengan banyak
+pernak pernik dan pita.<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_SHY><FP_RIGHT>Aku penasaran rencana apa
+dengan memakainya itu...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>Aku merasa lebih santai
+kalau berada disini.<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Disaat aku banyak masalah,
+aku selalu disini dan itu
+membuatku merasa lebih baik.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>Itu benar-benar menyenang-
+kan jika sepasang kekasih
+memakai pakaian yang sama!<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Oooh, ya.
+pastinya menyenangkan!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>Ini cukup berguna untuk
+bisa menjahit.<PAGE>Beberapa hari yang lalu
+Aku membuat penutup mata
+buat Mako.<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Aku pikir itu akan sangat
+pas buat penampilannya.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_SHOCK><FP_RIGHT>............
+Um......<PAGE>Jika itu oke buatmu...<PAGE>Aku akan lebih banyak meng-
+habiskan waktu dengan ber-
+samamu mulai sekarang.<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Jadi mari kita lakukan hal
+ini lagi kedepannya,
+oke?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>Oooh, <MYNICKNAME>, aku
+hanya berpikir berapa lama
+kita pertama kali bertemu!<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_SHOCK><FP_RIGHT>Menghabiskan waktu bersama-
+mu itu sebuah kesenangan
+tersendiri!<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Kita akan selalu bersama-
+sama! Selalu!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT><MYNICKNAME>!<PAGE>Kamu itu bekerja banting
+tulang tiap hari, tapi
+jangan terlalu dipaksakan!<PAGE>Aku...<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_SHY><FP_RIGHT>Aku tidak ingin kamu pergi
+kerumah sakit dengan pakai-
+an pasien disana!<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Jadi kumohon jangan memak-
+sakan tubuhmu terlalu
+berat.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT><MYNICKNAME>......<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_SHOCK><FP_RIGHT>Aku ingin kamu selalu
+tinggal bersama denganku
+selama-lamanya!<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Aku seorang wanita yang
+paling bahagia didunia!

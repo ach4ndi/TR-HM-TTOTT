@@ -1,0 +1,299 @@
+<SHOW_INSTANT>Mohon pilih karaktermu.
+<CHOICE_AB> Laki-laki
+ Perempuan
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HERO><FACE_NORMAL><SHOW_INSTANT>Apa karakter kamu <RED>Laki-laki</COLOR>?
+<CHOICE_AB> Ya
+ Tidak
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HERO><FACE_NORMAL><SHOW_INSTANT>Apa karakter kamu <RED>Perempuan</COLOR>?
+<CHOICE_AB> Ya
+ Tidak\u270eTolong masukan nama karakter
+kamu menggunakan +Control 
+Pad dan tombol A.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HERO><FACE_NORMAL>Apakah, <BLUE><MYNAME></COLOR> ini
+yang ingin kamu pakai
+sebagai nama MC?<PAGE><CHOICE_AB> Ya
+ Tidak
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HERO><FACE_NORMAL>Pilih tanggal ulang tahunmu.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HERO><FACE_NORMAL>Apakah ulang tahunmu pada
+tanggal <RED><VAR_1></COLOR> Musim <RED><VAR_0></COLOR>?<PAGE><CHOICE_AB> Ya
+ Tidak
+----------------------------|----------------------------------
+Mohon berikan nama kudamu.
+'terserah isinya'
+'gak usah lama-lama'
+----------------------------|----------------------------------
+Apakah nama ini digunakan
+untuk kudamu?
+<BLUE><MYHORSENAME></COLOR>?<PAGE><CHOICE_AB> Ya
+ Tidak
+----------------------------|----------------------------------
+ああああああああ。<PAGE>あ、
+２あああああああ。<PAGE>。。。<PAGE>Maaf, salah teks dialog
+yang ditampilkan hahaha...<PAGE>Selamat datang didaerah pe-
+gunungan yang banyak rerum-
+putan dan kehidupan liar.<PAGE>Didaerah lebih rendah ter-
+dapat dua desa yang sangat
+enak ditinggali.<PAGE>Ada seorang petani muda
+dengan mimpi untuk memili-
+ki sebuah pertanian sendiri<PAGE>akan terwujud tepat didepan
+matanya.<PAGE>...<PAGE>Selamat datang ke
+Harvest Moon TToTT (DS)
+Bahasa indonesia...<PAGE>By Nano
+For Team WAH.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><HIDE_NAME><FACE_INA><FACE_NORMAL><FP_LEFT><HIDE_FACE>...Hey...
+Apa kamu baik-baik saja?
+----------------------------|----------------------------------
+...\u270a\u270a...\u270a\u270a...\u270a\u270aSeseorang...
+memanggil...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><HIDE_NAME><FACE_RUTGER><FACE_ANGRY><FP_LEFT>bangun! molor aja nih!...<PAGE><FACE_POS_LEFT><HIDE_NAME><FACE_RUTGER><FACE_HAPPY><FP_LEFT>Akhirnya dia sadar juga!
+Bagus! bagus!<PAGE><FACE_POS_RIGHT><HIDE_NAME><FACE_INA><FACE_NORMAL><FP_RIGHT>Apa kamu tidak apa apa?<PAGE>Ini sedikit mengejutkan
+untuk menemukanmu tergeletak
+disini!<PAGE><FACE_POS_LEFT><HIDE_NAME><FACE_RUTGER><FACE_NORMAL><FP_LEFT>Apa mungkin kamu seorang
+pemuda, <MYNAME> yang datang 
+kesini untuk mencari kebun?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><HIDE_NAME><FACE_INA><FACE_NORMAL><FP_RIGHT>Ah-ha...<PAGE>Jadi kamu sedang mencari se-
+buah kebun ya, kamu hampir
+menabrak binatang liar loh?<PAGE><FACE_POS_RIGHT><HIDE_NAME><FACE_INA><FACE_SAD><FP_RIGHT>Kamu pastinya gemetaran...<PAGE><FACE_POS_LEFT><HIDE_NAME><FACE_RUTGER><FACE_NORMAL><FP_LEFT>Mencari sebuah kebun, benar?
+Jadi kamu pastinya ingin
+menjadi seorang petani?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><HIDE_NAME><FACE_RUTGER><FACE_HAPPY><FP_LEFT>Ho ho, aku tahu nih!<PAGE>Aku ketua desa dari desa
+<BLUE>Bluebell</COLOR>
+sebelah kiri dari jalan ini.<PAGE><FACE_POS_LEFT><FACE_RUTGER><FACE_HAPPY><FP_LEFT>Nama aku <BLUE>Rutger</COLOR>.
+Kenapa tidak datang ke desa
+aku saja?<PAGE>Kamu pastinya akan 
+diterima dengan tangan
+terbuka!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><HIDE_NAME><FACE_INA><FACE_ANGRY><FP_RIGHT>Siapa kamu itu berpikiran
+seperti itu !?!
+Jika pemuda ini ingin<PAGE>menjadi seorang petani,
+pastinya tempatnya ada di
+desa Konohana!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><HIDE_NAME><FACE_INA><FACE_SAD><FP_RIGHT>Ahem. maaf tadi berteriak
+seperti itu, tapi aku tidak
+suka kamu salah memilih.<PAGE><FACE_POS_RIGHT><HIDE_NAME><FACE_INA><FACE_NORMAL><FP_RIGHT>Aku ketua desa dari desa
+disebelah kanan jalan ini,
+yaitu desa <BLUE>Konohana</COLOR>.<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>Nama aku <BLUE>Ina</COLOR>.
+Aku yakin desa kami yang
+cocok dengan kamu!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_RUTGER><FACE_ANGRY><FP_LEFT>Eh... dan kamu pikir siapa.
+!?!<PAGE>Konohana? Lebih baik dari
+desa aku yang tercinta,
+Bluebell? Mustahil!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_RUTGER><FACE_ANGRY><FP_LEFT>Hmph.
+Sepertinya kita sudah diluar
+jalur. ayo kembali ke laptop
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>btw, kita tidak bertanya me-
+ngenai namamu.<PAGE><FACE_POS_LEFT><FACE_RUTGER><FACE_NORMAL><FP_LEFT>Ya itu benar!
+Boleh tahu, namamu siapa,
+temanku?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>Hmm, <MYNAME>, ini saatnya
+kamu pilih didesa manakah
+yang ingin kau tinggali.<PAGE><FACE_POS_LEFT><FACE_RUTGER><FACE_HAPPY><FP_LEFT>Tentu saja! Sebelum kamu me-
+milih, biarkan aku memberi-
+tahukan sedikit mengenai<PAGE>desa Bluebell!
+----------------------------|----------------------------------
+<CHOICE_AB> Tolong katakan.
+ Aku dah tahu.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_RUTGER><FACE_HAPPY><FP_LEFT>Tentu saja!
+Aku akan memberitahukan se-
+mua hal mengenai desa kami!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_RUTGER><FACE_HAPPY><FP_LEFT>Terdengaran seperti desa
+yang hebat kan? Petani yaitu
+berternak, intinya!<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_ANGRY><FP_RIGHT>Sudah cukup omong kosongnya!
+Bertani maksudnya bercocok
+tanam! TANAMAN!<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>Dan disaat menanam tanaman,
+Konohana adalah terbaik!<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>Sekarang ini giliran aku
+untuk memberitahukanmu
+mengenai Konohana itu <PAGE>seperti apa!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_RUTGER><FACE_HAPPY><FP_LEFT>Apa kamu, eh?
+Desaku sangat terkenal!<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_SAD><FP_RIGHT>Terserah kamu, Rutger...<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>btw, Sekarang waktunya aku
+menjelaskan mengenai
+Konohana sekarang?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>Oke, maka sekarang biarkan
+aku menjelaskan mengenai
+hal ini.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>Tempat yang baguskan?<PAGE>Kamu tidak akan bisa menemu-
+kan tempat menanam tanaman
+terbaik diseluru duniapun.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>Oh kamu sudah tahu ya?
+Oke aku bisa melewati
+penjelasannya kepadamu!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_RUTGER><FACE_NORMAL><FP_LEFT>Jadi, <MYNAME>, desa mana
+yang ingin kamu tinggali?<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>Pilihanmu akan berpengaruh
+bagaimana kehidupanmu mulai
+dari sekarang.<PAGE>Jadi pilih desa yang menurut
+mu paling terbaik dan kamu
+sukai.<PAGE>Pokoknya bukan desa mineral,
+oak town tree ataupun
+westown.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_RUTGER><FACE_NORMAL><FP_LEFT>Di Bluebell, kehidupan kita
+lebih fokus berternak.<PAGE>Bulu glossy mereka! Ekor
+bergerak sana sini! matanya
+diculek :v !<PAGE>Susu segar, keju, telur dan
+disruduk sapi, domba, di-
+gigit alpaca!<PAGE><FACE_POS_LEFT><FACE_RUTGER><FACE_HAPPY><FP_LEFT>Di Bluebell, binatang kita
+seperti keluarga sendiri!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_RUTGER><FACE_NORMAL><FP_LEFT>Dan binatang yang menggemas-
+kan itu bukan semuanya!<PAGE>Bunga bermekaran dimana-mana
+, rumah atap bata yang gan-
+teng dimana mana.<PAGE><FACE_POS_LEFT><FACE_RUTGER><FACE_HAPPY><FP_LEFT>Bluebell itu seperti buku
+dongeng yang penuh dengan
+rasa cinta!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>Konohana itu terkenalnya
+dengan kualitas tanah dari
+tanaman yang terbaik!<PAGE>Sayur yang lembut, manis,
+dan buah yang lezat!
+Gabah berwarna emas!<PAGE>Tunas tanaman dari tanah di
+berbagai musim.<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>Menumbuhkan tanaman yang
+dijadikan fokus disini,
+sebagai bagian dari kita!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>Tidak cuma tanaman yang ter-
+baik, desa kita sangat can-
+tik dipandang!<PAGE>Atap yang unik dan sangat
+cocok dengan kehidupan 
+petani tanaman!<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>Dan juga lentera kertas
+terpasang diatap-atap!
+Itulah Konohana untukmu!
+----------------------------|----------------------------------
+<SHOW_INSTANT>Pilih Desa yang mana:
+<CHOICE_AB> Bluebell
+ Konohana
+----------------------------|----------------------------------
+<SHOW_INSTANT>Hidup di <BLUE>Bluebell</COLOR>?
+<CHOICE_AB> Ya
+ Tidak
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_RUTGER><FACE_HAPPY><FP_LEFT>Tentu saja! tentu saja!
+Bertani berarti berternak!
+Itu adalah pilihan terbaik!<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_SAD><FP_RIGHT>Grrr...dari semuanya...
+Sekarang kenapa tidak menyu-
+kai mengenai Konohana?<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>Ya sudah ya sudahlah...
+Jika kamu berubah pikiran,
+kamu bisa pindah ke Konohana
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Sekarang, <MYNAME>.Saatnya kita pergi ke
+Bluebell!<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Tapi sebelum kita pergi,
+kamu harus ganti baju,
+bajumu penuh lumpur!<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Intinya kamu memulai kehi-
+dupan baru, sebagai petani!
+Ini, pakai ini!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Ini <GREEN>Baju Bluebell</COLOR>.<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Ayo cek dan dipakai...
+Cek layar dibawah...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Lihat potrait kamu diposisi
+sebelah kanan?<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Tekan itu dan kamu akan men-
+dapatkan layar ini!
+----------------------------|----------------------------------
+Soroti pakaian dengan
+<RED>+Control Pad</COLOR> dan pilih
+dengan tekan <RED>Tombol A</COLOR>.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Disini bagaimana kamu memi-
+lih pakaian yang kamu pakai!<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Dengan <RED>+Control Pad</COLOR>, pindah
+kan kursor ke pakaian yang
+diinginkan.<PAGE>Tekan <RED>Tombol A</COLOR> 
+untuk memilihnya!<PAGE>Kamu juga dapat menyentuh
+gambar pakaian untuk di
+gunakan juga!<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Cobalah!
+Coba sana dan ganti bajumu,
+sekarang!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Sepertinya cocok denganmu!
+Mulai sekarang, kamu seorang
+warga desa Bluebell!<PAGE>Sekarang kita siap pergi ke
+Bluebell!
+----------------------------|----------------------------------
+<SHOW_INSTANT>Tinggal di <BLUE>Konohana</COLOR>?
+<CHOICE_AB> Ya
+ Tidak
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>Aku dah tahu itu!<PAGE>Tidak ada yang bisa menolak 
+sebuah desa yang sangat 
+ramah akan tanamannya?<PAGE><FACE_POS_LEFT><FACE_RUTGER><FACE_SAD><FP_LEFT>Aku tidak mengerti...
+Apa yang salah dengan
+Bluebell?<PAGE><FACE_POS_LEFT><FACE_RUTGER><FACE_NORMAL><FP_LEFT>Memalukan! Jika kamu berubah
+pikiran, kamu sangat-sangat
+diterima di Bluebell!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>Oke, sekarang kita pergi ke
+Konohana!<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>Ada satu hal lagi sebelumnya
+, bajumu penuh dengan
+lumpur!<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>Kamu tak akan bisa memulai
+kehidupan barumu dengan
+lumpur! Pakai ini aja!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>Ini <GREEN>Baju Konohana</COLOR>.<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>Ayo cek dan pakai aja...
+Cek layar dibawah ini.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>Lihat gambaran kamu sendiri
+disisi kanan?<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>Tekan itu dan kamu akan men-
+dapatkan layar ini!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>Disini bagaimana memilih
+baju yang akan dipakai!<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>Dengan <RED>+Control Pad</COLOR>, pindah
+kan kursor kebaju yang kamu
+mau.<PAGE>Tekan <RED>Tombol A</COLOR> untuk
+memilihnya!<PAGE>Kamu juga bisa menyentuh
+gambar baju untuk dipakai.<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>Coba saja!
+Ganti bajumu sekarang!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>Sepertinya cocok untukmu!
+Dimulai hari ini, kamu warga
+desa Konohana!<PAGE>Sekarang kita siap pergi ke
+Konohana!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_RUTGER><FACE_NORMAL><FP_LEFT>Hmm? Apa itu?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_RUTGER><FACE_NORMAL><FP_LEFT>Oh, kamu menyadari
+adanya terowongan.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_RUTGER><FACE_NORMAL><FP_LEFT>Itu menghubungkan desa ini
+dengan Konohana...<PAGE>Tapi saat ini terhalang oleh
+batu jadi kamu tidak bisa
+melewatinya seperti pada<PAGE>pendahuluku sering memakai
+nya untuk menyebrang ke
+desa sebelah dengan cepat.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_RUTGER><FACE_HAPPY><FP_LEFT>Waktunya tidak cukup jika
+kamu hanya bengong disitu!<PAGE>Kebunmu sebelah sini, ayo
+kesini.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>Huh? Apa itu?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>Oh, jadi kamu menyadari
+adanya terowongan itu.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>Itu menghubungkan desa ini
+dengan Bluebell...<PAGE>Tapi sekarang terhalang oleh
+batu dan tidak bisa kamu
+lewati seperti dulu.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>Ayo, jangan bengong! kita
+keburu malam disini.<PAGE>Kebunmu disini, ayo sini!

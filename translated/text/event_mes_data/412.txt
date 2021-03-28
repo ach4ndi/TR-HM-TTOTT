@@ -1,0 +1,68 @@
+<FACE_POS_LEFT><FACE_YUN><FACE_HAPPY><FP_LEFT>Oh my..., selamat datang!
+Apa yang bisa aku
+bantu untuk hari ini?<PAGE><FACE_POS_RIGHT><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Oh sebenarnya, aku tidak
+datang untuk makan hari
+ini.<PAGE>Aku mengingat sesuatu
+yang benar-benar lama
+banget.<PAGE>Aku ingin berbicara
+denganmu untuk membicarakan
+hal ini.<PAGE>Apakah kamu ada waktu
+untuk hal ini?<PAGE><FACE_POS_LEFT><FACE_YUN><FACE_HAPPY><FP_LEFT>Oh, oke gak apa apa. 
+Aku akan menggunakan waktu
+luang untuk itu.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_HAPPY><FP_RIGHT>Ah, hal itu membuat hari-
+hari tua kita menyenangkan
+...<PAGE><FACE_POS_LEFT><FACE_YUN><FACE_HAPPY><FP_LEFT>Ya kita, yaa... itu menye-
+nangkan untuk mengingat
+tentang itu...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_YUN><FACE_HAPPY><FP_LEFT>Oh, kamu ya <MYNAME>.
+Selamat datang, sayang!<PAGE><FACE_POS_RIGHT><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Kita baru mulai berbicara
+mengenai masa-masa tua...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Suami Yun merupakan teman
+akrab aku. Kita bagaikan
+tidak bisa terpisahkan!<PAGE><FACE_POS_LEFT><FACE_YUN><FACE_HAPPY><FP_LEFT>Oh, aku agak malu disaat
+aku membicarakan suamiku
+sendiri...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_HAPPY><FP_RIGHT>Disaat dia wafat, aku jadi
+mengkhawatirkan kamu untuk
+menjalaninnya.<PAGE>Untungsaja, kamu tabah dan
+bisa kembali kesemula.<PAGE><FACE_POS_LEFT><FACE_YUN><FACE_HAPPY><FP_LEFT>Well, itu aku berterima
+kasih atas kebaikan warga
+desa...<PAGE>Dan aku masih bersyukur
+bahwa aku dapat menjalani
+bisnis kedai teh disini.<PAGE><FACE_POS_RIGHT><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Sejak aku sangat dekat
+sama suaminya, aku ingin
+mendorong Yun agar bangkit.<PAGE><FACE_POS_LEFT><FACE_YUN><FACE_HAPPY><FP_LEFT>Dan... Aku sangat
+bersyukur!<PAGE><FACE_POS_RIGHT><FACE_GOMBE><FACE_HAPPY><FP_RIGHT>Oh, itu tidak apa apa kok!
+Semua orang juga ingin suka
+kalau semuanya senang!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Bagaimanapun, aku harus
+melakukan sesuatu...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Menyenangkan juga ya, tapi
+lebih baik aku pulang
+kerumah, sebelum...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Sampai jumpa ya, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_YUN><FACE_NORMAL><FP_LEFT>Disaat aku memandang Gombe,
+aku jadi ingat suami aku.<PAGE>Dihari itu, aku tidak mem-
+bayangkan hidup tanpa
+suamiku...<PAGE>Tapi, aku masih ingat
+moment bagus dihari itu...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_YUN><FACE_HAPPY><FP_LEFT>Jangan sampai kamu melupakan
+pasanganmu ya, <MYNAME>...<PAGE>Selalu cintailah harta karun
+mu itu!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_YUN><FACE_HAPPY><FP_LEFT>Aku harap kamu menemukan
+orang spesial, <MYNAME>...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_YUN><FACE_HAPPY><FP_LEFT>Untuk sekarang, makanan
+apa yang akan kamu makan
+hari ini?

@@ -1,0 +1,25 @@
+<FACE_POS_LEFT><FACE_ROSE><FACE_NORMAL><FP_LEFT>Great work today, Rutger.
+<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Oh, I didn't do much at all!
+Not compared to what you
+did, at least!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>I must say, we are getting
+on a bit in years...<PAGE>Seeing all those young folks
+makes me nostalgic for my
+own youth.<PAGE><FACE_POS_LEFT><FACE_ROSE><FACE_HAPPY><FP_LEFT>Oh my, what's all this?
+You don't usually talk
+about the "good old days."<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Well, for some reason, I
+feel like talking about
+them tonight, Rose...<PAGE>You were the belle of the
+ball back then, and I was
+head over heels for you...<PAGE>I gave you flowers, love
+letters... Anything to win
+your hand. And I did!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ROSE><FACE_HAPPY><FP_LEFT>Flattery will get you
+everywhere, my dear.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ROSE><FACE_NORMAL><FP_LEFT>That's enough for tonight.
+We should head to bed.<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>I didn't realize it was
+so late.<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Here's to many more years
+to reminisce over together.<PAGE><FACE_POS_LEFT><FACE_ROSE><FACE_HAPPY><FP_LEFT>Yes, darling.

@@ -1,0 +1,36 @@
+<FACE_POS_LEFT><FACE_NORI><FACE_HAPPY><FP_LEFT>Hello.<PAGE><FACE_POS_RIGHT><FACE_EILEEN><FACE_HAPPY><FP_RIGHT>Oh, I don't usually get
+new customers here!
+What can I do for you?<PAGE><FACE_POS_LEFT><FACE_NORI><FACE_NORMAL><FP_LEFT>We heard that there was an
+extraordinary carpenter
+here.<PAGE><FACE_POS_LEFT><FACE_REINA><FACE_HAPPY><FP_LEFT>One who's a whole lot
+stronger than she looks.<PAGE><FACE_POS_RIGHT><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Stronger than I look? I
+don't know. I can carry
+a little lumber.<PAGE>It's really not so hard.
+Did you ladies want to try?<PAGE><FACE_POS_LEFT><FACE_NORI><FACE_NORMAL><FP_LEFT>Um, I think I'll just watch
+today.<PAGE><FACE_POS_LEFT><FACE_REINA><FACE_NORMAL><FP_LEFT>No thanks. I hate exercise.
+<PAGE><FACE_POS_RIGHT><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Oh, that's too bad!<PAGE><FACE_POS_RIGHT><FACE_EILEEN><FACE_HAPPY><FP_RIGHT>But I'm happy you're
+interested in my work.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_REINA><FACE_NORMAL><FP_LEFT>You work so quickly!
+<PAGE><FACE_POS_LEFT><FACE_NORI><FACE_HAPPY><FP_LEFT>You're really amazing,
+just like the rumors said!
+<PAGE><FACE_POS_RIGHT><FACE_EILEEN><FACE_HAPPY><FP_RIGHT>Oh dear, I'm not used to
+so many compliments!<PAGE><FACE_POS_RIGHT><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Sheng has never once given
+me a compliment like that!
+
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_NORI><FACE_HAPPY><FP_LEFT>Eileen doesn't realize how
+skilled she really is...<PAGE><FACE_POS_LEFT><FACE_NORI><FACE_NORMAL><FP_LEFT>But I think that Sheng is
+a real master craftsman...
+<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>Yeah, but still...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_SHOCK><FP_RIGHT>She's so strong! I'm
+jealous.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_NORI><FACE_HAPPY><FP_LEFT>Well, maybe if you'd try a
+little exercise...
+<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_ANGRY><FP_RIGHT>H-Hey!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_NORI><FACE_NORMAL><FP_LEFT>Thank you for letting us
+watch you work today.<PAGE><FACE_POS_LEFT><FACE_REINA><FACE_NORMAL><FP_LEFT>We'll come again soon.<PAGE><FACE_POS_RIGHT><FACE_EILEEN><FACE_HAPPY><FP_RIGHT>You're leaving already?
+Come and see me any time!

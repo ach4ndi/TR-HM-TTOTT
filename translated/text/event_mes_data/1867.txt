@@ -1,0 +1,112 @@
+<FP_NONE>Tanya tentang permintaan?
+<CHOICE_AB> Ya
+ Tidak
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Oh, kamu melihat permintaan-
+ku dipapan pesan ya?<PAGE>Ayo kita diskusikan hal itu.
+Aku akan mengajarimu tentang
+<RED>mancing dengan tangan</COLOR><PAGE>kepadamu, <MYNAME>!<PAGE>Apa kamu tahu jika kamu bisa
+<RED>menangkap ikan menggunakan
+tangan kosong</COLOR> di genangan<PAGE>air dari sungai?
+Sensasi dari keberhasilan di
+saat kamu menangkap ikan<PAGE>dengan tangan kosong itu
+sungguh hebat!
+----------------------------|----------------------------------
+<FP_NONE><CHOICE_AB> Tolong ajari aku!
+ Aku sudah mengetahuinya.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GRADY><FACE_HAPPY><FP_RIGHT>Bagus! Jadi aku akan
+menjelaskannya kepada kamu
+ya!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Dan itulah dasar-dasar bagai-
+mana caranya bekerja! Apa
+mau dijelaskan lagi?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GRADY><FACE_HAPPY><FP_RIGHT>Kedengarannya bagus!
+Sekarang, pergi tangkaplah
+ikan yang <RED>kuminta</COLOR>.<PAGE>Aku akan menunggunya untuk
+kamu memberikannya kepada
+aku!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GRADY><FACE_HAPPY><FP_RIGHT>Halo, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GRADY><FACE_HAPPY><FP_RIGHT>Halo, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GRADY><FACE_HAPPY><FP_RIGHT>Halo, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GRADY><FACE_HAPPY><FP_RIGHT>Halo, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GRADY><FACE_HAPPY><FP_RIGHT>Oh, jadi kamu menangkapnya
+ya? Apa dapat kulihatnya?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Sempurna!<PAGE>Apa itu? Apa mereka sangat
+licin untuk ditangkap?<FACE_POS_RIGHT><FACE_GRADY><FACE_HAPPY>Ha ha! Sepertinya kamu
+sudah terbiasa ya?!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Kamu bisa <RED>memakan dan memasak</COLOR> 
+hasil tangkapan ikanmu itu.<PAGE><FACE_POS_RIGHT><FACE_GRADY><FACE_HAPPY>Coba makan satu jika stamina
+mu turun dratis alias kele-
+lahan! jika memakannya<PAGE>staminamu akan terisi
+kembali!<PAGE><FACE_POS_RIGHT><FACE_GRADY><FACE_SAD>Hampir semua ikan kecil
+tidak bisa digunakan dalam
+memasak, :v<PAGE><FACE_POS_RIGHT><FACE_GRADY><FACE_HAPPY>Kamu bisa memasaknya juga
+kok, sebagian dari ikan
+kecil tersebut bisa dijadi-<PAGE>kan untuk bahan-bahan
+dan kepiting juga. jadi
+cobalah jika ada kesempatan<PAGE>untuk membuatnya!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Selain itu, dikarenakan kamu
+sudah menyelesaikan perminta-
+anku, aku akan memberikanmu<PAGE>sebuah hadiah!
+Kamu tinggal memilih hadiah
+dari <RED>Layar Hadiah</COLOR>!<PAGE><FACE_POS_RIGHT><FACE_GRADY><FACE_HAPPY>Lalu pindahkan itu kedalam
+<RED>tas</COLOR>! 
+itu sangat mudah kok!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Selamatin aja deh :v<PAGE>Sepertinya aku bisa memasa-
+ng permintaanku yang lainnya
+dipapan pesan, untuk dikerja-<PAGE>kan olehmu nantinya :v<PAGE><FACE_POS_RIGHT><FACE_GRADY><FACE_HAPPY>Dan aku perkirakan nantinya
+bakalan sering ketemu ditoko
+ku, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GRADY><FACE_HAPPY><FP_RIGHT>Halo, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GRADY><FACE_HAPPY><FP_RIGHT>Halo, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GRADY><FACE_HAPPY><FP_RIGHT>Halo, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GRADY><FACE_HAPPY><FP_RIGHT>Halo, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GRADY><FACE_HAPPY><FP_RIGHT>Halo, <MYNAME>!
+----------------------------|----------------------------------
+<FP_NONE>Ini cukup gampang dan aku
+pikir kamu bakalan bisa me-
+nguasainya dengan cepat.
+----------------------------|----------------------------------
+<FP_NONE>Disana ada banyak genangan
+air sungai seperti ini, di
+mana ikan tinggal.
+----------------------------|----------------------------------
+<FP_NONE>Nah disana! Apa kamu melihat
+ikan ikan itu saat ini?<PAGE>Disaat kamu menemukannya,
+itu cukup mudah... cukup
+mendekatinya pelan-pelan...<PAGE>...dan \u270a<RED>tekan tombol A</COLOR>
+untuk menangkap ikannya!
+----------------------------|----------------------------------
+<FP_NONE>Jika kamu mondar-mandir ke-
+sana-kesini, maka ikannya 
+bakalan pergi menjauhimu loh,<PAGE>jadi tetap fokus ke ikan
+lah!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GRADY><FACE_HAPPY><FP_RIGHT>Halo, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GRADY><FACE_HAPPY><FP_RIGHT>Halo, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GRADY><FACE_HAPPY><FP_RIGHT>Halo, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GRADY><FACE_HAPPY><FP_RIGHT>Halo, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GRADY><FACE_HAPPY><FP_RIGHT>Halo, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GRADY><FACE_HAPPY><FP_RIGHT>Halo, <MYNAME>!

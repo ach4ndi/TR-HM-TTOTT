@@ -1,0 +1,61 @@
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>Error!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ROSE><FACE_NORMAL><FP_RIGHT>You must have seen my
+request on the board.
+Thank you, dear.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>Error!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>Error!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ROSE><FACE_HAPPY><FP_RIGHT>I knew you could get just
+what I need, dear!
+This looks delicious!<PAGE><FACE_POS_RIGHT><FACE_ROSE><FACE_NORMAL>My husband likes such
+plain food, you know...
+<PAGE>Fish paste...
+Roasted eggplant...
+<PAGE>I remember being so
+shocked when he said his
+favorite food was okara.<PAGE><FACE_POS_RIGHT><FACE_ROSE><FACE_HAPPY>And now I make the best
+okara in the village.
+Oho ho ho!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>Error!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>Error!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>Error!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>Error!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>Error!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>Error!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>Error!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ROSE><FACE_NORMAL><FP_RIGHT>You've been such a help!
+Thank you!
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ROSE><FACE_HAPPY><FP_RIGHT>Now here's your reward.
+Take it, dear.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>Error!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>Error!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ROSE><FACE_HAPPY><FP_RIGHT>Why thank you,
+<MYNAME>!<PAGE>Just what I'd expect from
+<MYFARMNAME> Farm!<PAGE>I do hope you won't mind
+helping me out again another
+time.<PAGE>I'll see you later, dear.
+Now make sure you're
+getting enough sleep!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>Error!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>Error!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>Error!</COLOR>

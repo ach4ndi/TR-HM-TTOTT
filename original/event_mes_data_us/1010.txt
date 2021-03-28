@@ -1,0 +1,36 @@
+<FACE_POS_RIGHT><FACE_HIRO><FACE_HAPPY><FP_RIGHT>Yun's cooking is indeed
+delicious!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_NORMAL><FP_RIGHT>As a matter of fact, I come
+by on occasion to have Yun
+teach me her secret recipes!<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_HAPPY><FP_RIGHT>On my days off, I often use
+those recipes to cook meals
+for Dr. Ayame.<PAGE>It may be immodest of me to
+say so, but I do feel
+confident in my cooking!
+----------------------------|----------------------------------
+<CHOICE_AB> Cooking is fun!
+ Cooking is boring.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_HAPPY><FP_RIGHT>I could not agree more!<PAGE>I am so delighted to hear
+you say so, <MYNAME>!<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_NORMAL><FP_RIGHT>Oh! I have a splendid idea!
+You should come to my house
+for a meal sometime!<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_HAPPY><FP_RIGHT>I will do my utmost to cook
+a feast that will delight
+you.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_NORMAL><FP_RIGHT>Well, look at the time!<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_HAPPY><FP_RIGHT>I quite enjoyed talking to
+you today, <MYNAME>.
+<PAGE>I hope I can see you again
+soon.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_NORMAL><FP_RIGHT>Thank you ever so much.
+And now you must excuse
+me!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_SHY><FP_RIGHT>Is that so?
+I do not see it that way.<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_SAD><FP_RIGHT>It's a shame that you find
+no pleasure in the creative
+art of cooking.<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_NORMAL><FP_RIGHT>Well now, I have some
+matters to attend to.
+I must be on my way.

@@ -1,0 +1,65 @@
+<FACE_POS_LEFT><HIDE_NAME><FACE_RUTGER><FACE_NORMAL><FP_LEFT><HIDE_FACE>おはよう、<MYNAME>くん。
+おじゃまするぞ。
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>この村の住み心地はどうじゃ？
+とてもいいところじゃろ！
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>まあ、<MYNAME>くんは、
+この村にいてくれると思うが、<PAGE>引越し（ひっこし）について
+今日は、教えておこうと
+思ってのう。<PAGE>引越しのやり方は
+知っとるかのう？
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>よし！　ならば
+わしが教えてやるのじゃ。<PAGE><RED>各季節の２３日〜３０日</COLOR>に
+役場で<BLUE>このはな村</COLOR>への
+引越しを受け付けておる。<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>引越しを行うと、その日から
+このはな村で暮らす事になる。<PAGE>役場は、村の奥の
+１番大きな建物じゃ。<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>引越したければ
+<RED>各季節の２３日〜３０日</COLOR>に
+役場へ来るといい。
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>これを出すとは流石じゃのう！
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>この村の畑は、引越した後も
+<MYNAME>くんの好きに
+使ってもらってかまわんが…。<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_SAD><FP_RIGHT>向こうの村は動物小屋が
+せまいからのう。<PAGE>動物を多く飼っている場合、
+何匹かを預けて
+行ってもらう事になる。<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>引越しの時に、わしから
+知り合いの牧場へ預け、動物の
+世話を頼んでおくからのう。<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>病気の心配などは
+せずとも良いが…。<PAGE>こちらにもどって来るまでは
+預けた動物を返す事は
+できんので気をつけるのじゃ。
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_SAD><FP_RIGHT>それから、引越しは準備やら
+片付けやらで、１日がかりに
+なるじゃろうからのう。<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>引越し前にやっておかなくては
+いけない事があれば、全て
+すませておいた方が良いぞ。
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>引越しについては
+こんなところじゃな。<PAGE>もう一度、説明を聞くかのう？
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>うむ！
+では、もう一度説明しよう。<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT><RED>各季節の２３日〜３０日</COLOR>に
+役場で<BLUE>このはな村</COLOR>への
+引越しを受け付けておる。<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>引越しを行うと、その日から
+このはな村で暮らす事になる。<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>役場は、村の奥の
+１番大きな建物じゃ。<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>引越したければ
+<RED>各季節の２３日〜３０日</COLOR>に
+役場へ来るといい。
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>では、引越したいのなら
+役場まで来るのじゃぞ。<PAGE>ただ、今日は役場が休み
+じゃから、来るなら明日以降に
+してくれると助かるのう。<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>まあ、うちの村の方が
+すばらしいから、ずっと
+ここにおってもかまわんぞ！
+----------------------------|----------------------------------
+<CHOICE_AB> 知りません
+ 知ってます
+----------------------------|----------------------------------
+<CHOICE_AB> もう１回お願いします
+ わかったから大丈夫♪

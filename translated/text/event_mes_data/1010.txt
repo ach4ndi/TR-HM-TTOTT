@@ -1,0 +1,39 @@
+<FACE_POS_RIGHT><FACE_HIRO><FACE_HAPPY><FP_RIGHT>Masakannya yun memang
+lezat ya!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_NORMAL><FP_RIGHT>Apapun faktanya, aku datang
+kesini dikarenakan Yun 
+mau mengajariku<PAGE>mengenai resep
+rahasianya!<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_HAPPY><FP_RIGHT>Disaat hari liburku, aku
+selalu menggunakan resepnya<PAGE>untuk memasakan hidangan
+untuk Dr. Ayame.<PAGE>Sepertinya tidak baik jika
+aku yang mengatakannya,
+tapi aku merasakan pede<PAGE>dalam masakan yang aku
+buat!
+----------------------------|----------------------------------
+<CHOICE_AB> Memasak itu menyenangkan!
+ itu sangat membosankan ...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_HAPPY><FP_RIGHT>Aku sangat setuju!<PAGE>Aku sangat lega jika men-
+dengarkan pendapatmu,
+<MYNAME>!<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_NORMAL><FP_RIGHT>Oh! aku ada ide yang bagus!
+Kamu harus datang kerumahku
+untuk makan dilain waktu!<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_HAPPY><FP_RIGHT>Aku akan lakukan dengan
+sebaiknya untuk memasak<PAGE>sesuatu yang akan membuatmu
+kagum!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_NORMAL><FP_RIGHT>Well, lihat! waktunya!<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_HAPPY><FP_RIGHT>Aku sedikit senang berbica-
+ra kepadamu hari ini,<MYNAME>.<PAGE>Aku harap ketemu sama
+kamu nanti kedepannya.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_NORMAL><FP_RIGHT>Terima kasih banyak tadi.
+dan mohon izinkan aku
+pergi dulu.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_SHY><FP_RIGHT>Apa benarkah?
+Aku tidak melihatnya
+seperti itu.<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_SAD><FP_RIGHT>Itu tampak memalukan jika
+kamu tidak mengetahui beta-
+pa menyenangkan<PAGE>seni dalam memasak!<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_NORMAL><FP_RIGHT>Sekarang, aku ada sesuatu
+yang harus dihadiri. Aku
+pergi dulu ya.

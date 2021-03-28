@@ -1,0 +1,51 @@
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>You're a farmer, aren't you,
+<MYNAME>?
+<PAGE>Farming seems like a mighty
+hard job.<PAGE>You've got to look after
+all those crops as well as
+your animals.
+----------------------------|----------------------------------
+<CHOICE_AB> It's a lot of work.
+ It's a breeze!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_SHY><FP_RIGHT>I'll bet!<PAGE><FACE_POS_RIGHT><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>And yet I never hear a peep
+of complaint out of you.
+<PAGE><FACE_POS_RIGHT><FACE_GEORGIA><FACE_HAPPY><FP_RIGHT>You're pretty amazing,
+<MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>Goodness knows I have my
+hands full just looking
+after the animals.<PAGE><FACE_POS_RIGHT><FACE_GEORGIA><FACE_HAPPY><FP_RIGHT>They are sweet things,
+though, so I don't mind!
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>You like horses, don't you?
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>Next time I'll have to show
+you my favorite horse!
+She's a real sweet thing!<PAGE><FACE_POS_RIGHT><FACE_GEORGIA><FACE_HAPPY><FP_RIGHT>That's a promise!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_HAPPY><FP_RIGHT>I do have a mighty fine
+time talking with you,
+<MYNAME>.<PAGE>We should talk again
+soon! I'll see you later!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_ANGRY><FP_RIGHT>Is that so?<PAGE>Well, you can't be taking
+your work seriously if you
+think that.<PAGE><FACE_POS_RIGHT><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>Why, I myself only take
+care of our animals...
+<PAGE>But it's a lot of work
+keeping them all happy
+and healthy.<PAGE>And plants have got to need
+just as much love and
+attention.<PAGE><FACE_POS_RIGHT><FACE_GEORGIA><FACE_SAD><FP_RIGHT>So if you were really doing
+your job, I don't think
+you'd say it was a breeze.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>Sorry for jumping all over
+you like that. Maybe it's
+none of my business.<PAGE>But I had to speak my mind.
+<PAGE>Anyway, it's getting late,
+so I do believe I'll head
+home. Bye, <MYNAME>.

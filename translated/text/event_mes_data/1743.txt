@@ -1,0 +1,80 @@
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>★ＥＲＲＯＲ！★</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho-ho!
+Kamu memberikan materialnya!
+Ayo aku lihat...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>★ＥＲＲＯＲ！★</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>★ＥＲＲＯＲ！★</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_SHENG><FACE_HAPPY><FP_RIGHT>Heh!
+Akhirnya aku mendapatkan
+apa yang aku butuhkan!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>★ＥＲＲＯＲ！★</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Sekarang uangnya.
+Oke, aku membutuhkan
+<VAR_1>G milikmu!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>★ＥＲＲＯＲ！★</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>★ＥＲＲＯＲ！★</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>★ＥＲＲＯＲ！★</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>★ＥＲＲＯＲ！★</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>★ＥＲＲＯＲ！★</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_SHENG><FACE_HAPPY><FP_RIGHT>Bagus! Kamu melakukan apa
+yang aku cari materialnya,
+eh?<PAGE><FACE_POS_RIGHT><FACE_SHENG><FACE_NORMAL>Sekarang giliran aku untuk
+memperlihatkan apa yang
+aku bisa!<PAGE><FACE_POS_RIGHT><FACE_SHENG><FACE_ANGRY>Mungkin aku tua, tapi tidak
+ada orang lain dapat bicara
+bahwa Sheng kehilangan<PAGE>keahliannya untuk membuat
+sesuatu dengan alatnya!<PAGE>Kamu harus menunggu diluar
+agar aku bisa lebih fokus
+mengerjakannya!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_SHENG><FACE_ANGRY><FP_RIGHT>Hooooboy... \u270aHoooboy...
+Panas!! Panas!!
+Itu sebuah pemanasan!!<PAGE>Aku melakukannya dengan
+sepenuh hati dan jiwa untuk
+membuat barang seni ini!<PAGE><FACE_POS_RIGHT><FACE_SHENG><FACE_HAPPY><MYNAME>, 
+alat ini akan berguna buat
+mu! ayo, ambil!
+----------------------------|----------------------------------
+<FP_NONE>Kamu mendapatkan sebuah
+<RED>Sabit (Lv.5)</COLOR>!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_SHENG><FACE_ANGRY><FP_RIGHT>Dengan upgrade ini, kamu
+dapat menahan sabit kamu
+dengan tenaga lebih!<PAGE>Seperti sebelumnya,<RED>Tahan
+tombol A</COLOR> untuk mena
+han tenaga yang dikeluarkan.<PAGE>Dan disaat kamu diposisi
+yang diinginkan untuk di
+sabit, biarkan itu terpotong!<PAGE>Dalam sekali ayunan, kamu
+akan <RED>memotong dibanyak
+area</COLOR>!<PAGE><FACE_POS_RIGHT><FACE_SHENG><FACE_NORMAL>Tapi penjelasan yang terbaik
+dengan mendemonstrasikan!
+\u270aHanya...<PAGE>Dicoba saja ya!<PAGE><FACE_POS_RIGHT><FACE_SHENG><FACE_SAD>Maafkan aku, <MYNAME>...<PAGE>Aku dapat melihat adanya
+potensial dari
+sickle...<PAGE>Tapi aku belum cukup berla-
+tih... Tidak ada hal lagi 
+yang aku lakukan sekarang.<PAGE>Apa bisa kecoak lari ke
+atas melewati rintangan di
+saat usia aku sekarang...<PAGE><FACE_POS_RIGHT><FACE_SHENG><FACE_ANGRY>Aku akan lanjutkan latihan
+aku. Disaat aku dapat meng
+upgrade, aku akan beritahu!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Aku yakin kita akan
+berbisnis lagi.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>★ＥＲＲＯＲ！★</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>★ＥＲＲＯＲ！★</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>★ＥＲＲＯＲ！★</COLOR>

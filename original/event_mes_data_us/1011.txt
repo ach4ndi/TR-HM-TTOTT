@@ -1,0 +1,57 @@
+<FACE_POS_RIGHT><FACE_HIRO><FACE_NORMAL><FP_RIGHT>...And then Dr. Ayame said,
+"It's too much trouble," and
+she put away the documents.<PAGE>And I said, "No, you mustn't
+do that!", but\u270a...wait,
+is...?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_SAD><FP_RIGHT>Oh dear! What a pickle!
+The books I borrowed from
+Town Hall are due today!<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_SHY><FP_RIGHT>I utterly forgot about that!<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_SAD><FP_RIGHT>Oh, <MYNAME>, you must
+excuse me. Because of that,
+today I must...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_NORMAL><FP_RIGHT>What's that?
+You'll come with me?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_NORMAL><FP_RIGHT>But...But surely you have
+your own matters to attend
+to, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_HAPPY><FP_RIGHT>Thank you! Thank you so very
+much! You're sure you don't
+mind?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_NORMAL><FP_RIGHT>I'm sorry to have kept
+you waiting.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_HAPPY><FP_RIGHT>You seemed to be examining
+these books rather intently.
+Did you want to borrow one?
+----------------------------|----------------------------------
+<CHOICE_AB> Borrow medical book.
+ Borrow cookbook.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_SAD><FP_RIGHT>My! Are you so eager to
+do without the aid of
+Dr. Ayame and myself?<PAGE>Undoubtedly, one must care
+for one's own health...<PAGE>But I do wish that you would
+place more faith in us...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_NORMAL><FP_RIGHT>I do apologize for taking up
+your time today.<PAGE>I have just recalled some
+other matters I must see to,
+so I will take my leave.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_HAPPY><FP_RIGHT>Oh-ho, that book!
+I have borrowed it myself!<PAGE>It has detailed photographs
+and instructions. Very easy
+to follow. I recommend it!<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_NORMAL><FP_RIGHT>And the photographs of the
+prepared dishes are simply
+gorgeous.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_HAPPY><FP_RIGHT>Heh heh. This topic of
+discussion has made me
+hungry.<PAGE>I believe I will return
+home now.<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_SHOCK><FP_RIGHT>Thank you ever so much for
+joining me. I'll see you
+again soon!

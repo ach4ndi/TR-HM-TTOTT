@@ -1,0 +1,63 @@
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>Hey, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>Kamu mempunyai kuda juga,
+ya?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>Kuda itu keren!
+Besar, matanya juga, dan
+kekuatan kakinya...<PAGE>Otot yang ganteng loh.
+Ini seperti, wow!<PAGE>Dan setiap kuda memiliki
+pewarnaan kulit yang unik,
+termasuk tipe badan dan<PAGE>mukanya juga.
+Bahkan aku memandanginya
+selama, 1 jam!<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>Jadi, <MYNAME>,
+kamu menyukai kuda juga,
+benarkan?
+----------------------------|----------------------------------
+<CHOICE_AB> Ya benar!
+ Uh itu tidak benar...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>Oh!
+Baguslah!<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>Maka dari itu...
+Aku akan menunjukkan kepada-
+mu kudaku yang terbaik!<PAGE>Namanya Hayate. Dia benar-
+benar cantik sesungguhnya.<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_ANGRY><FP_RIGHT>Aku memberitahukanmu ya!<PAGE>Aku tidak pernah melihat
+seekor kuda yang secantik
+gadisku disini!<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>Kamu pastinya akan senang
+bertemu dengan Hayateku!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>Well, kurasa aku akan kembali
+ke rumah. Hari ini benar-
+benar menyenangkan!<PAGE>Makasih, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>...Huh!?
+Tidak tertarik dengan kuda?<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_SHY><FP_RIGHT>Jadi kenapa kamu memelihara
+kuda? Dikarenakan itu mem-
+permudahkan kamu berkeli-<PAGE>ling disekitar?<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_SAD><FP_RIGHT>Huh. Whoo. Kupikir kamu
+benar-benar tidak tahu
+apa yang membuat kuda itu<PAGE>binatang yang hebat.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_ANGRY><FP_RIGHT>Dengarkan ya!
+Kuda itu tidak hanya dibuat
+berkeliling disekitar.<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>Binatang itu binatang hidup
+yang ada perasaannya loh!<PAGE>Bisakah perhatikan lebih
+lama terhadap kudamu
+sendiri?<PAGE>...Uh, tidak. Tunggu,
+Aku mengerti. Dan ini
+dia!<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_ANGRY><FP_RIGHT>Kamu lebih baik datang
+untuk melihat kuda-kudaku
+!!!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>Kudaku yang terbaik namanya
+Hayate!<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>Kalau dibandingkan dengan
+kuda yang lainnya, dia itu
+leeebih caaantiiiik!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_SHY><FP_RIGHT>Hey, whoa, <MYNAME>!!
+Kita belumlah selesai ber-
+bicaranya!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_SAD><FP_RIGHT>Aw, sampai mana ya
+tadi...<PAGE>Disaat membicarakan tentang
+kuda, Aku terlalu bersema-
+ngat.<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_SHY><FP_RIGHT>Maaf <MYNAME>...

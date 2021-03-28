@@ -1,0 +1,36 @@
+<FACE_POS_LEFT><FACE_RUTGER><FACE_NORMAL><FP_LEFT>Betapa indahnya cuaca
+hari ini kita dapatkan.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_RUTGER><FACE_NORMAL><FP_LEFT>Oh, <MYNAME>.
+Bagaimana kebunmu?<PAGE>Aku mendengar kalau
+berjalan dengan baik
+kan?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_RUTGER><FACE_HAPPY><FP_LEFT>Itu kabar yang baik.<PAGE>Hatiku terasa damai karena
+melihat semua orang dan<PAGE>binatang baru datang ke
+desa ini.<PAGE><FACE_POS_LEFT><FACE_RUTGER><FACE_NORMAL><FP_LEFT>Jadi, <MYNAME>, apakah kamu
+sudah mendengar arti dibalik
+patung ini?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_RUTGER><FACE_NORMAL><FP_LEFT>Patung ini menggambarkan
+desa kita, kamu dah lihatkan.<PAGE>Tidak seperti desa konohana,
+kita fokusnya ke hewan
+ternak ketimbang tanaman.<PAGE>Karena itu simbol desa kita
+seekor binatang, yaitu
+sapeee.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_RUTGER><FACE_HAPPY><FP_LEFT>Jadi kamu sudah cari tahu
+perbedaan diantara dua
+desa ini?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_RUTGER><FACE_NORMAL><FP_LEFT>Aku yakin kamu sudah tahu,
+kita fokusnya ke hewan
+ternak.<PAGE>Karena itu simbol
+desa kita seekor binatang.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_RUTGER><FACE_HAPPY><FP_LEFT>Aku yakin kamu datang
+kesini untuk melihat kelema-
+han dan kelebihan dari<PAGE>kedua desa.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_RUTGER><FACE_NORMAL><FP_LEFT>btw, aku harus pergi
+sekarang.Bye, <MYNAME>.

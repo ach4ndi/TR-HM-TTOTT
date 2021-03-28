@@ -1,0 +1,164 @@
+<FACE_POS_LEFT><FACE_RUTGER><FACE_NORMAL><FP_LEFT>It's about time, folks.
+Is everyone ready?\u270b<PAGE><FACE_POS_LEFT><FACE_RUTGER><FACE_HAPPY><FP_LEFT>Then let's start the New
+Year's countdown!
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_RUTGER><FACE_NORMAL><FP_LEFT>
+3!\u238f<FACE_POS_LEFT><FACE_RUTGER><FACE_ANGRY><FP_LEFT>
+2!\u238f<FACE_POS_LEFT><FACE_RUTGER><FACE_HAPPY><FP_LEFT>
+1!\u270b
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+\u2137\u1f43
+\u20d2<RED>Happy New Year!</COLOR>\u270b
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_RUTGER><FACE_HAPPY><FP_LEFT>One year over and
+another year begun!
+Let's make it a great one!<PAGE>I hope you all enjoy
+the party!
+
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_LANEY><FACE_HAPPY><FP_LEFT>I hope this will be
+a good year!<PAGE><FACE_POS_LEFT><FACE_CAM><FACE_HAPPY><FP_LEFT>I hope we have good weather
+and lots of flowers.
+<PAGE><FACE_POS_LEFT><FACE_HOWARD><FACE_HAPPY><FP_LEFT>Keep on coming to the caf!
+I'll be waiting for you,
+<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>I want to raise a lot of
+healthy animals this year!<PAGE><FACE_POS_RIGHT><FACE_GEORGIA><FACE_HAPPY><FP_RIGHT>I'll take extra good care
+of the horses this year!<PAGE><FACE_POS_RIGHT><FACE_GRADY><FACE_HAPPY><FP_RIGHT>Ha ha! Sounds like we'll
+have especially fine horses
+this year! Come by, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_CAM><FACE_NORMAL><FP_LEFT>Does anyone have any
+resolutions?<PAGE><FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>I want to win the Animal
+Festival!<PAGE><FACE_POS_RIGHT><FACE_GEORGIA><FACE_HAPPY><FP_RIGHT>Why, that's a fine idea!
+Maybe I ought to compete
+too!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>I hope this year brings
+health and happiness to all.<PAGE><FACE_POS_LEFT><FACE_HOWARD><FACE_HAPPY><FP_LEFT>I'm going to cook even more
+delicious food this year!<PAGE><FACE_POS_RIGHT><FACE_GRADY><FACE_HAPPY><FP_RIGHT>Sounds great! I'll resolve
+to spend more time in your
+caf, then!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_HAPPY><FP_RIGHT>What do y'all reckon this
+year will bring? I hope we
+have a lot of fun!<PAGE><FACE_POS_LEFT><FACE_LANEY><FACE_HAPPY><FP_LEFT>I'm sure we'll have fun.
+After all, we do live in
+the best village ever.<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Hahaha. That's right.
+I'm glad to hear you say
+that.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_CAM><FACE_NORMAL><FP_LEFT>Howard, do you have a
+resolution for this year?<PAGE><FACE_POS_LEFT><FACE_HOWARD><FACE_HAPPY><FP_LEFT>Let me see...
+Hmm...maybe I'll redo
+the menu.<PAGE><FACE_POS_LEFT><FACE_LANEY><FACE_HAPPY><FP_LEFT>Ooh, that sounds fun!
+I'll help you think up
+some new dishes, Dad!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>What should I do this year?
+Maybe I should help around
+the house more...<PAGE><FACE_POS_LEFT><FACE_CAM><FACE_NORMAL><FP_LEFT>I guess I'll find some
+new flowers for the store.
+I don't have much variety.<PAGE><FACE_POS_LEFT><FACE_HOWARD><FACE_HAPPY><FP_LEFT>That would be wonderful.
+Let me know when you get
+some new flowers in.<PAGE>I'll definitely buy some!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GRADY><FACE_HAPPY><FP_RIGHT>I know my resolution!
+I'm going on a diet!<PAGE><FACE_POS_LEFT><FACE_LANEY><FACE_NORMAL><FP_LEFT>You seem very determined
+about that. What happened?<PAGE><FACE_POS_RIGHT><FACE_GEORGIA><FACE_HAPPY><FP_RIGHT>The other day, Dad got on
+a horse. He was so heavy,
+the horse almost collapsed!<PAGE>Poor thing...
+So I told him he has to
+go on a diet.<PAGE><FACE_POS_RIGHT><FACE_GEORGIA><FACE_SAD><FP_RIGHT>But I have a feeling
+he won't stick to it...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL><FP_RIGHT>I want to win the Animal
+Festival this year!<PAGE><FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>So I need your help, Cam.
+<PAGE><FACE_POS_LEFT><FACE_CAM><FACE_SHY><FP_LEFT>I'm not sure how much help
+I'll be.
+But I'll do whatever I can.<PAGE><FACE_POS_LEFT><FACE_LANEY><FACE_HAPPY><FP_LEFT>You two are such
+good friends.
+I'm almost jealous. Hee hee.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>I want us to win the
+Cooking Festival this year!<PAGE>Howard, I want you to help
+everyone so we can lead this
+village to victory!<PAGE><FACE_POS_LEFT><FACE_HOWARD><FACE_HAPPY><FP_LEFT>Leave it to me! I'll do
+everything I can
+to help our village.<RED>❤</COLOR><PAGE><FACE_POS_RIGHT><FACE_GRADY><FACE_HAPPY><FP_RIGHT>Let me be the taste tester!
+I'll eat everything!<PAGE>Oops.
+Georgia's glaring at me.<PAGE>I was just kidding!
+I shouldn't eat too much...

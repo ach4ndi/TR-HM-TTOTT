@@ -1,0 +1,35 @@
+<FACE_POS_RIGHT><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>Udara disini sangat segar
+dan bersih, terutama dimusim
+semi.<PAGE>Suara nyaring dari jangkrik,
+suara burung berkicau...
+Mendengarkan symphony alam.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MIKHAIL><FACE_HAPPY><FP_RIGHT>Tempat ini betapa menakjubkan
+untuk meniupkan sebuah 
+violin, apa kamu sependapat?
+----------------------------|----------------------------------
+<CHOICE_AB> Ayo mainkanlah?
+ Aku rasa itu berisik.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MIKHAIL><FACE_HAPPY><FP_RIGHT>Aku tidak akan menolak per-
+mintaan dari seorang gadis
+sepertimu.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MIKHAIL><FACE_HAPPY><FP_RIGHT>Ah, udara disini sangat unik
+kualitasnya. Ini memberikan
+violinku lebih kaya suara.<PAGE><FACE_POS_RIGHT><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>Apa kamu menikmatinya?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MIKHAIL><FACE_HAPPY><FP_RIGHT>Bagus. Aku harap kamu
+mendengarkannya.<PAGE><FACE_POS_RIGHT><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>btw, sepertinya waktu sudah
+mulai gelap. Walaupun kita
+sebut ini seharian.<PAGE>Aku agak menikmati waktu-
+waktu kita bersama denganmu.
+Kita lakukan lagi ya.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MIKHAIL><FACE_SAD><FP_RIGHT>Jadi kamu tidak ingin mende-
+ngarkan aku memainkannya?
+ini yang kamu katakan?<PAGE>Itu membuatku geli kesedihan<PAGE><FACE_POS_RIGHT><FACE_MIKHAIL><FACE_SHY><FP_RIGHT>Apa kamu tidak menghargai
+dan menyukai musik?<PAGE><FACE_POS_RIGHT><FACE_MIKHAIL><FACE_SAD><FP_RIGHT>Well, aku harus pergi
+sekarang<PAGE>Kuharap dihari lain kamu
+akan bisa mengerti dengan
+musik aku.

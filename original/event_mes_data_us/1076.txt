@@ -1,0 +1,306 @@
+<FACE_POS_LEFT><FACE_AYAME><FACE_NORMAL><FP_LEFT><HIDE_FACE>She's about to give birth?
+Okay, understood.
+I'm on my way!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_HIRO><FACE_ANGRY><FP_LEFT>Please entrust your wife to
+our care from this point.
+You wait here.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_LANEY><FACE_NORMAL><FP_LEFT><HIDE_FACE>Uurrrghh! It hurts!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_GEORGIA><FACE_NORMAL><FP_LEFT><HIDE_FACE>Uuuurrrghhh!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_REINA><FACE_NORMAL><FP_LEFT><HIDE_FACE>Uuurrghhh! Urrrghhh!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_NORI><FACE_NORMAL><FP_LEFT><HIDE_FACE>Urrgghhh! It hurts! Uurgh!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ULYSSA><FACE_NORMAL><FP_LEFT><HIDE_FACE>Aiieee!
+It hurts-hurts-HURTS!!!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_AYAME><FACE_NORMAL><FP_LEFT><HIDE_FACE>Hang on just a bit longer!
+The baby is about to be
+born! Stay strong!
+----------------------------|----------------------------------
+Waaah!
+Waaah!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_AYAME><FACE_HAPPY><FP_RIGHT>You have a healthy baby! You
+did a wonderful job!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_HAPPY><FP_RIGHT>Congratulations! It's an
+adorable baby boy!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_HAPPY><FP_RIGHT>Congratulations! It's an
+adorable baby girl!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_SHOCK><FP_RIGHT>Wow, this little baby is
+ours! Tee-hee, how cute!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_SHOCK><FP_RIGHT>So this is our little baby?
+Heavens! I must say I'm the
+happiest I've ever been!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_SHOCK><FP_RIGHT>So this is our baby...
+It's adorable...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_SHOCK><FP_RIGHT>So this little baby is our
+child... How cute!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_SHOCK><FP_RIGHT>A baby... Our baby...!
+So-so-SO small...!
+And so-so-SO cute!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_HAPPY><FP_RIGHT>We need to go ahead and give
+our baby a name.<PAGE>There's a name I've been
+thinking about using...<PAGE>How do you like <RED><VAR_0></COLOR>?
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_HAPPY><FP_RIGHT>So, what do you reckon we
+should name our child,
+<MYNICKNAME>?<PAGE>I have to say, I quite like
+the name <RED><VAR_0></COLOR>...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_HAPPY><FP_RIGHT>What would be a good name?<PAGE>I want to name the baby
+<RED><VAR_0></COLOR>...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Oh, what should we name
+our baby?<PAGE>What name do you think
+would be good, <MYNICKNAME>?<PAGE>I think <RED><VAR_0></COLOR> is
+a very nice name...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>Okey-dokey! Time to
+give baby a name!<PAGE>Do you have any names you
+like, <MYNICKNAME>?<PAGE>If not, I have one I
+really, really, REALLY
+like...<RED><VAR_0></COLOR>!
+----------------------------|----------------------------------
+<CHOICE_AB> I like it!
+ How about something else?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_HAPPY><FP_RIGHT>Great! I'm glad you like it!
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_HAPPY><FP_RIGHT>Wonderful! I'm so pleased
+you like it!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_HAPPY><FP_RIGHT>You approve of the name,
+too? That's great.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Oh, wonderful! I'm so happy!
+Now our baby has a name!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>That's that, then! Done
+and done!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_HAPPY><FP_RIGHT>Hi there, <VAR_0>!
+
+I'm your mommy!<PAGE><FACE_POS_RIGHT><FACE_LANEY><FACE_SHOCK><FP_RIGHT>Your daddy and I are so
+happy you were born!<PAGE><FACE_POS_RIGHT><FACE_LANEY><FACE_HAPPY><FP_RIGHT>Now your daddy and I will
+take care of you! Isn't
+that exciting?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_HAPPY><FP_RIGHT>Why, hello there, <VAR_0>!
+It's me! Your mother!<PAGE><FACE_POS_RIGHT><FACE_GEORGIA><FACE_SHOCK><FP_RIGHT>Your father and I have been
+looking forward to meeting
+you, you know!<PAGE><FACE_POS_RIGHT><FACE_GEORGIA><FACE_HAPPY><FP_RIGHT>We're both quite pleased to
+meet your acquaintance!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_HAPPY><FP_RIGHT>Hello, <VAR_0>.
+I am your mother!<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_SHOCK><FP_RIGHT>Your father and I are
+extremely happy you were
+born!<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_HAPPY><FP_RIGHT>Grow up good and nice and
+strong, now!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Hello there, little
+<VAR_0>. I'm yourmother.<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_SHOCK><FP_RIGHT>Finally seeing you has made
+both your father and I
+very happy!<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>We're looking forward to
+seeing you grow up healthy
+and strong!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT><VAR_0>! <VAR_0>!
+I'm your mom! Your mom!<PAGE><FACE_POS_RIGHT><FACE_ULYSSA><FACE_SHOCK><FP_RIGHT>And you're OUR baby! Your
+dad and I are very happy,
+very proud, VERY!<PAGE><FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>Mom and Dad can't wait for
+you to grow up-up-UP to be
+big-big-BIG!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_NORMAL><FP_RIGHT>Other names? Hmm...
+I thought of a lot,
+actually!<PAGE>Why don't you pick one of
+them?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>Others names, you say? Well,
+I actually have quite a lot
+of names I thought of!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>I'm glad you asked. In fact,
+I couldn't stop coming up
+with names...<PAGE>You should choose one you
+approve of.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>I thought you might say
+that, so I thought of
+lots more!<PAGE>I hope you like one of them!
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>Oh well, if you insist...<PAGE>Ta-da! Here is Ulyssa's
+list of tip-top names!
+Make your selection!
+----------------------------|----------------------------------
+<CHOICE_ABC> Jason
+ Alex
+ More names.
+----------------------------|----------------------------------
+<CHOICE_ABC> Steve
+ Hans
+ More names.
+----------------------------|----------------------------------
+<CHOICE_ABC> Robert
+ Shin
+ More names.
+----------------------------|----------------------------------
+<CHOICE_ABC> Kenji
+ Jet
+ More names.
+----------------------------|----------------------------------
+<CHOICE_ABC> Tony
+ Geordi
+ More names.
+----------------------------|----------------------------------
+<CHOICE_AB> Hm, nothing sticks out.
+ View names again.
+----------------------------|----------------------------------
+<CHOICE_ABC> Amelia
+ Tess
+ More names.
+----------------------------|----------------------------------
+<CHOICE_ABC> Carly
+ Mariko
+ More names.
+----------------------------|----------------------------------
+<CHOICE_ABC> Noelle
+ Kimi
+ More names.
+----------------------------|----------------------------------
+<CHOICE_ABC> Molly
+ Klara
+ More names.
+----------------------------|----------------------------------
+<CHOICE_ABC> Serena
+ Ling
+ More names.
+----------------------------|----------------------------------
+<CHOICE_AB> Hm, nothing sticks out.
+ View names again.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_NORMAL><FP_RIGHT>So you like <RED><VAR_0></COLOR>?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>So you like <RED><VAR_0></COLOR>?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>So <RED><VAR_0></COLOR> is acceptable?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>So you like <RED><VAR_0></COLOR>?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>So you like <RED><VAR_0></COLOR>?
+----------------------------|----------------------------------
+<CHOICE_AB> Yeah!
+ Maybe something else.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_HAPPY><FP_RIGHT><VAR_0>, huh? Yeah,
+that's a good name!
+I like it!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_HAPPY><FP_RIGHT><VAR_0>? Why, I do
+declare that that's
+a wonderful name!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_HAPPY><FP_RIGHT><VAR_0>? Yes, I
+approve.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT><VAR_0>ね。
+<VAR_0>? I like that
+name!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>Yes indeedy, <VAR_0> it is!
+Yup yup yup, a good one!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_NORMAL><FP_RIGHT>Really? Then would you
+like to pick a name,
+<MYNICKNAME>?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>Well! I'm all out of ideas,
+<MYNICKNAME>! Do you have
+any names you like?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>Hmmm... In that case, what
+name do you propose?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>Oh, that's too bad...
+Do you have a name in
+mind, <MYNICKNAME>?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>Oh? That's too bad, too bad.
+So, what name do YOU want
+to give the baby?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_NORMAL><FP_RIGHT>So you like \u2337?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>So you like \u2337?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>So \u2337 is acceptable?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>So you like \u2337?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>So you like \u2337?
+----------------------------|----------------------------------
+<CHOICE_AB> Yeah!
+ Maybe something else.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_HAPPY><FP_RIGHT>\u2337... I like it!
+It's a great name!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_HAPPY><FP_RIGHT>\u2337? Why, that's a
+wonderful name!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_HAPPY><FP_RIGHT>\u2337? Yes,
+I approve.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>\u2337? What a nice
+name! I like it!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>\u2337?! Okey-dokey!
+If you say so!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_HAPPY><FP_RIGHT>Hi there, \u2337!
+I'm your mommy!<PAGE><FACE_POS_RIGHT><FACE_LANEY><FACE_SHOCK><FP_RIGHT>Your daddy and I are so
+happy you were born!<PAGE><FACE_POS_RIGHT><FACE_LANEY><FACE_HAPPY><FP_RIGHT>Now your daddy and I will
+take care of you! Isn't
+that exciting?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_HAPPY><FP_RIGHT>Why, hello there, \u2337!
+It's me! Your mother!<PAGE><FACE_POS_RIGHT><FACE_GEORGIA><FACE_SHOCK><FP_RIGHT>Your father and I have been
+looking forward to meeting
+you, you know!<PAGE><FACE_POS_RIGHT><FACE_GEORGIA><FACE_HAPPY><FP_RIGHT>We're both quite pleased to
+meet your acquaintance!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_HAPPY><FP_RIGHT>Hello, \u2337.
+I am your mother!<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_SHOCK><FP_RIGHT>Your father and I are
+extremely happy you were
+born!<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_HAPPY><FP_RIGHT>Grow up good and nice and
+strong, now!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Hello there, little
+\u2337. I'm your
+mother.<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_SHOCK><FP_RIGHT>Finally seeing you has made
+both your father and I
+very happy!<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>We're looking forward to
+seeing you grow up healthy
+and strong!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>\u2337! \u2337!
+I'm your mom! Your mom!<PAGE><FACE_POS_RIGHT><FACE_ULYSSA><FACE_SHOCK><FP_RIGHT>And you're OUR baby! Your
+dad and I are very happy,
+very proud, VERY!<PAGE><FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>Mom and Dad can't wait for
+you to grow up-up-UP to be
+big-big-BIG!

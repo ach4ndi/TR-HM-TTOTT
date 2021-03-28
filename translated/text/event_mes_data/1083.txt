@@ -1,0 +1,76 @@
+<FACE_POS_RIGHT><FACE_KID><FACE_HAPPY><FP_RIGHT>Ooh! \u2338!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KID><FACE_NORMAL><FP_RIGHT>Ooh, ini \u2338!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KID><FACE_NORMAL><FP_RIGHT>Apa kamu sudah pulang,
+\u2338?, Aku juga!
+Ayo pulang bersama!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KID><FACE_NORMAL><FP_RIGHT>Apakah kamu mau pulang ke
+rumah, \u2338?
+Aku juga! Ayo!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KID><FACE_HAPPY><FP_RIGHT>Hey, \u2338!
+Ayo balapan pulang kerumah!<PAGE>Aku dapat berlari sangat
+cepat!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KID><FACE_HAPPY><FP_RIGHT>Hey, \u2338!
+Apa kita bisa lari balapan
+kerumah?<PAGE>Aku dapat berlari sangat
+cepat!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KID><FACE_HAPPY><FP_RIGHT>Yay!♪
+Pertama yang ada dirumah
+adalah pemenangnya!<PAGE>3, 2...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KID><FACE_HAPPY><FP_RIGHT>Yaaay!<RED>❤</COLOR>
+Pertama yang ada dirumah
+adalah pemenangnya!<PAGE>3, 2...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KID><FACE_NORMAL><FP_RIGHT>1...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KID><FACE_NORMAL><FP_RIGHT>1...
+----------------------------|----------------------------------
+<CHOICE_AB> Larilah secepat kamu bisa.
+ Mengalah aja :v.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KID><FACE_HAPPY><FP_RIGHT>...\u270a...\u270a...\u270aGO!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KID><FACE_HAPPY><FP_RIGHT>...\u270a...\u270a...\u270aGO!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KID><FACE_SAD><FP_RIGHT>Pant, pant pant...
+Kamu itu..., \u2338!<PAGE>Kamu terlalu cepat, dan
+aku kelelahan!<PAGE>Aku tidak bisa menggapaimu
+disaat kamu ada dipojokkan!
+Itu membuatku sedih.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KID><FACE_SAD><FP_RIGHT>Pant, pant pant...
+Oooh, capeknya!<PAGE>\u2338, kamu benar-benar!
+Kenapa kamu berlari sekencang
+itu?<PAGE>Aku tidak melihatmu disaat
+kamu sudah ada disana aja.
+Aku sedih.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KID><FACE_SAD><FP_RIGHT>Aku tidak ingin mengajakmu
+balapan lagi, \u2338.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KID><FACE_SAD><FP_RIGHT>Aku tidak akan pernah memin-
+tamu balapan lagi, \u2338.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KID><FACE_HAPPY><FP_RIGHT>...\u270a...\u270a...\u270aGO!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KID><FACE_HAPPY><FP_RIGHT>...\u270a...\u270a...\u270aGO!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_KID><FACE_HAPPY><FP_LEFT>Aku bisa! aku bisa!
+Aku mengalahkan \u2338!<PAGE>Hee hee.
+Aku memang cepat!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_KID><FACE_HAPPY><FP_LEFT>Yay!
+Aku menang, \u2338!<PAGE>Hee hee.
+Aku sangat senang sekarang!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_KID><FACE_HAPPY><FP_LEFT>\u2338, ayo balapan lagi
+kedepannya.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_KID><FACE_HAPPY><FP_LEFT>\u2338, itu menyenangkan!
+Ayo balapan lagi ya!<RED>❤</COLOR>

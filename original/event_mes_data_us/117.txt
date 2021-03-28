@@ -1,0 +1,741 @@
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Let us give thanks to the
+Harvest Goddess.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>I'm so glad no one was
+harmed yesterday.<PAGE>I asked the Harvest Goddess
+to watch over us.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Let us give thanks to the
+Harvest Goddess.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Let us give thanks to the
+Harvest Goddess.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Let us give thanks to the
+Harvest Goddess.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_HAPPY><FP_RIGHT>What a beautiful animal!
+Love and wisdom shine in
+its eyes!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_SAD><FP_RIGHT>I'm not quite comfortable
+with this animal. I'm sorry,
+but please take it away.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Let us give thanks to the
+Harvest Goddess.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_HAPPY><FP_RIGHT>Oh, a blue feather? May the
+Harvest Goddess grant you
+luck in your union.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>I have no need for a gift.
+I do apologize.
+
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Another gift today? I
+couldn't. A priest shouldn't
+be greedy.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Let us give thanks to the
+Harvest Goddess.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Let us give thanks to the
+Harvest Goddess.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Oh, I couldn't take that.
+It's something you should
+hold onto.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_HAPPY><FP_RIGHT>Oh, a gift for my birthday?
+Thank you for your
+generosity!<PAGE>And it's <RED>french toast</COLOR>!
+This is absolutely
+wonderful!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_HAPPY><FP_RIGHT>Oh, <RED>french toast</COLOR>!
+I must be dreaming...<PAGE>Thank you so much,
+<MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Let us give thanks to the
+Harvest Goddess.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Let us give thanks to the
+Harvest Goddess.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_HAPPY><FP_RIGHT>For my birthday?
+Oh, thank you, <MYNAME>!<PAGE><FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>How nice! The Harvest
+Goddess smiles upon your
+generosity!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_HAPPY><FP_RIGHT>Thank you! Who told you what
+I like? Was it the Harvest
+Goddess?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Oh, a birthday present?
+Thank you for your
+generosity.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Thank you for your
+generosity.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_SAD><FP_RIGHT>This birthday present...
+Is this some sort of test
+from the Harvest Goddess?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_SAD><FP_RIGHT>Harvest Goddess...
+Is this some sort of test?
+Ooh, what shall I do?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_ANGRY><FP_RIGHT>This awful thing...
+Why would you give it to me?
+What a cruel thing to do!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Let us give thanks to the
+Harvest Goddess.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>How is Alisa doing,
+<MYNAME>?
+<PAGE><FACE_POS_CENTER><FACE_NATHAN><FACE_HAPPY><FP_RIGHT>I hope you're taking
+good care of her.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_HAPPY><FP_RIGHT>You've been looking so well
+since your marriage,
+<MYNAME>.<PAGE>I'm happy you found a
+partner to share your life
+with.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_SAD><FP_RIGHT>Harvest Goddess...
+Please protect us all
+during this typhoon.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_SAD><FP_RIGHT>Harvest Goddess...
+Please protect us all
+during this blizzard.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_HAPPY><FP_RIGHT><MYNAME>, your kindness and
+generosity shine like a
+beacon.<PAGE><FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Oh, Harvest Goddess, give
+<MYNAME> your blessing!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_HAPPY><FP_RIGHT>The Harvest Goddess wants
+us all to have happy,
+productive lives.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>It is my hope that this
+church will be a place of
+comfort for everyone.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>All are welcome at our
+church. Please come any
+time.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Ah, farming... Raising life
+from the land... It is truly
+blessed work.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Remember to always be
+thankful for what you have.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>The Harvest Goddess is
+always with you. Keep her
+wisdom in your heart.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Let us give thanks to the
+Harvest Goddess.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Let us give thanks to the
+Harvest Goddess.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Let us give thanks to the
+Harvest Goddess.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Let us give thanks to the
+Harvest Goddess.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Let us give thanks to the
+Harvest Goddess.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Let us give thanks to the
+Harvest Goddess.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Let us give thanks to the
+Harvest Goddess.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Let us give thanks to the
+Harvest Goddess.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Let us give thanks to the
+Harvest Goddess.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Let us give thanks to the
+Harvest Goddess.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Let us give thanks to the
+Harvest Goddess.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Let us give thanks to the
+Harvest Goddess.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Let us give thanks to the
+Harvest Goddess.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Let us give thanks to the
+Harvest Goddess.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Let us give thanks to the
+Harvest Goddess.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Let us give thanks to the
+Harvest Goddess.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Let us give thanks to the
+Harvest Goddess.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Let us give thanks to the
+Harvest Goddess.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Let us give thanks to the
+Harvest Goddess.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Let us give thanks to the
+Harvest Goddess.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Let us give thanks to the
+Harvest Goddess.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Let us give thanks to the
+Harvest Goddess.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Let us give thanks to the
+Harvest Goddess.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Let us give thanks to the
+Harvest Goddess.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Let us give thanks to the
+Harvest Goddess.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Let us give thanks to the
+Harvest Goddess.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Let us give thanks to the
+Harvest Goddess.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Let us give thanks to the
+Harvest Goddess.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Let us give thanks to the
+Harvest Goddess.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Let us give thanks to the
+Harvest Goddess.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Let us give thanks to the
+Harvest Goddess.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Let us give thanks to the
+Harvest Goddess.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Let us give thanks to the
+Harvest Goddess.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Let us give thanks to the
+Harvest Goddess.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Let us give thanks to the
+Harvest Goddess.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Let us give thanks to the
+Harvest Goddess.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Is this an offering for
+the Harvest Goddess?<PAGE>Oh, it's for the festival.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Let us give thanks to the
+Harvest Goddess.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Let us give thanks to the
+Harvest Goddess.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Let the Harvest Goddess
+bless this creature!
+
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>The Harvest Goddess loves
+all animals. Let us give
+thanks to her.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_SAD><FP_RIGHT>Forgive me, Harvest Goddess.
+<PAGE>I still cannot overcome my
+fear of this animal.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>All creatures great and
+small are watched over by
+the Harvest Goddess.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Let us give thanks to the
+Harvest Goddess.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Let us give thanks to the
+Harvest Goddess.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Let us give thanks to the
+Harvest Goddess.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Let us give thanks to the
+Harvest Goddess.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Let us give thanks to the
+Harvest Goddess.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Let us give thanks to the
+Harvest Goddess.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Let us give thanks to the
+Harvest Goddess.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Let us give thanks to the
+Harvest Goddess.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Let us give thanks to the
+Harvest Goddess.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Let us give thanks to the
+Harvest Goddess.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Let us give thanks to the
+Harvest Goddess.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Let us give thanks to the
+Harvest Goddess.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_HAPPY><FP_RIGHT>For me? Thank you! Your
+kindness will be rewarded.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Let us give thanks to the
+Harvest Goddess.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Let us give thanks to the
+Harvest Goddess.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Let us give thanks to the
+Harvest Goddess.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Let us give thanks to the
+Harvest Goddess.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Let us give thanks to the
+Harvest Goddess.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Let us give thanks to the
+Harvest Goddess.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Is this for me?
+What could it be?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_HAPPY><FP_RIGHT>It's rare to find a heart as
+kind and pure as yours,
+<MYNAME>.<PAGE><FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>May your days be blessed
+with cheer and good fortune!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Let us give thanks to the
+Harvest Goddess.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>This church is a sacred
+place to give thanks to the
+Harvest Goddess.<PAGE>You're welcome to join us.
+I'm sure the Harvest Goddess
+would be pleased.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_SAD><FP_RIGHT>Alisa should be
+here, but she's late.
+I wonder what happened.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Let us give thanks to the
+Harvest Goddess.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Let us give thanks to the
+Harvest Goddess.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>I'm going to the Harvest
+Goddess Spring to give
+thanks. Will you join me?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>This village is very similar
+to one I used to live in.<PAGE>I knew a farmer there who
+was just as kind and
+cheerful as you, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>I feel the Harvest Goddess'
+presence even here in the
+mountains.<PAGE>Harvest Goddess...
+Please bring everyone
+peace and happiness...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>I have built churches in
+many places.<PAGE>I hope the church in this
+village is a success.
+I'll do what I can.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>We're finally back.
+I must go prepare dinner.
+What should we have today?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Let us give thanks to the
+Harvest Goddess.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Let us give thanks to the
+Harvest Goddess.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Let us give thanks to the
+Harvest Goddess.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Let us give thanks to the
+Harvest Goddess.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Let us give thanks to the
+Harvest Goddess.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Let us give thanks to the
+Harvest Goddess.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Let us give thanks to the
+Harvest Goddess.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Today is the Cooking
+Festival, am I right?
+Let us give thanks.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Let us give thanks to the
+Harvest Goddess.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Let us give thanks to the
+Harvest Goddess.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Let us give thanks to the
+Harvest Goddess.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Everything happens according
+to the will of the Harvest
+Goddess.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Let us give thanks to the
+Harvest Goddess.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Please don't get discouraged
+or the Harvest Goddess will
+worry about you.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Festivals are always so
+enjoyable.<PAGE><FACE_POS_CENTER><FACE_NATHAN><FACE_HAPPY><FP_RIGHT>The village I used to live
+in had many festivals, and
+they were great fun.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Please enter the festival
+next time. The Harvest
+Goddess is expecting it.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Let us give thanks to the
+Harvest Goddess.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Even the Harvest Goddess
+knows how hard you tried,
+<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Let us give thanks to the
+Harvest Goddess.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Let us give thanks to the
+Harvest Goddess.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Let us give thanks to the
+Harvest Goddess.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Let us give thanks to the
+Harvest Goddess.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Let us give thanks to the
+Harvest Goddess.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Let us give thanks to the
+Harvest Goddess.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Let us give thanks to the
+Harvest Goddess.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Let us give thanks to the
+Harvest Goddess.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Let us give thanks to the
+Harvest Goddess.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Let us give thanks to the
+Harvest Goddess.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Let us give thanks to the
+Harvest Goddess.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Let us give thanks to the
+Harvest Goddess.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Let us give thanks to the
+Harvest Goddess.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Let us give thanks to the
+Harvest Goddess.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Let us give thanks to the
+Harvest Goddess.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Let us give thanks to the
+Harvest Goddess.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Let us give thanks to the
+Harvest Goddess.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Let us give thanks to the
+Harvest Goddess.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Let us give thanks to the
+Harvest Goddess.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Let us give thanks to the
+Harvest Goddess.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Let us give thanks to the
+Harvest Goddess.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Today's festival is such
+a delight. Are you here to
+watch, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Let us give thanks to the
+Harvest Goddess.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Let us give thanks to the
+Harvest Goddess.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Let us give thanks to the
+Harvest Goddess.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Let us give thanks to the
+Harvest Goddess.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Let us give thanks to the
+Harvest Goddess.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Let us give thanks to the
+Harvest Goddess.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Let us give thanks to the
+Harvest Goddess.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Let us give thanks to the
+Harvest Goddess.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Let us give thanks to the
+Harvest Goddess.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Let us give thanks to the
+Harvest Goddess.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Let us give thanks to the
+Harvest Goddess.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Let us give thanks to the
+Harvest Goddess.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Let us give thanks to the
+Harvest Goddess.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Let us give thanks to the
+Harvest Goddess.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Let us give thanks to the
+Harvest Goddess.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Let us give thanks to the
+Harvest Goddess.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Let us give thanks to the
+Harvest Goddess.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Let us give thanks to the
+Harvest Goddess.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Let us give thanks to the
+Harvest Goddess.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Good morning.
+All are welcome at the
+church.<PAGE>Please join us in giving
+thanks to the Harvest
+Goddess.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Good morning.
+May you have a good day,
+<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Good morning.
+There are such good people
+in this village.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Good afternoon.<PAGE>Oh, I must give my offering
+to the Harvest Goddess.
+What shall it be today?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Good afternoon, <MYNAME>.
+How's the farm going?<PAGE><FACE_POS_CENTER><FACE_NATHAN><FACE_HAPPY><FP_RIGHT>The Harvest Goddess is with
+you. I know it will be fine.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Good afternoon, <MYNAME>.
+Have you given thanks to the
+Harvest Goddess yet today?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Good evening, <MYNAME>.
+<PAGE>Let us give thanks to the
+Harvest Goddess for a
+wonderful day.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Good evening, <MYNAME>.
+Another day is coming to an
+end.<PAGE>Let us be thankful for
+another fine day.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Good evening. It's so dark<PAGE>out. Be careful out there.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Let us give thanks to the
+Harvest Goddess.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Let us give thanks to the
+Harvest Goddess.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Let us give thanks to the
+Harvest Goddess.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Let us give thanks to the
+Harvest Goddess.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Let us give thanks to the
+Harvest Goddess.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Let us give thanks to the
+Harvest Goddess.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Let us give thanks to the
+Harvest Goddess.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Let us give thanks to the
+Harvest Goddess.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Let us give thanks to the
+Harvest Goddess.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>I spread the word of the
+Harvest Goddess.
+That is my calling in life.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>I spread the word of the
+Harvest Goddess.
+That is my calling in life.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>I spread the word of the
+Harvest Goddess.
+That is my calling in life.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Let us give thanks to the
+Harvest Goddess.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Let us give thanks to the
+Harvest Goddess.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Let us give thanks to the
+Harvest Goddess.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Let us give thanks to the
+Harvest Goddess.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Let us give thanks to the
+Harvest Goddess.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Let us give thanks to the
+Harvest Goddess.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Let us give thanks to the
+Harvest Goddess.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Let us give thanks to the
+Harvest Goddess.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Let us give thanks to the
+Harvest Goddess.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_HAPPY><FP_RIGHT>Congratulations,
+<MYNAME>.<PAGE>The Harvest Goddess led
+you to victory.
+How wonderful.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_HAPPY><FP_RIGHT>Your food looked divine!
+It has set my stomach
+rumbling.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_HAPPY><FP_RIGHT>Congratulations,
+<MYNAME>! The Harvest
+Goddess must be pleased.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_HAPPY><FP_RIGHT>The Harvest Goddess also
+enjoys watching these
+festivals.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_HAPPY><FP_RIGHT>The village is so lively
+during a festival.
+Ha ha ha!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>We thank the Harvest Goddess
+for the nice weather today.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Let us give thanks to the
+Harvest Goddess.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Let us give thanks to the
+Harvest Goddess.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Let us give thanks to the
+Harvest Goddess.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>The Harvest Goddess also
+enjoys watching these
+festivals.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>The Harvest Goddess also
+enjoys watching these
+festivals.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>The Harvest Goddess also
+enjoys watching these
+festivals.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Congratulations,
+<MYNAME>! The Harvest
+Goddess must be pleased.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Congratulations,
+<MYNAME>! The Harvest
+Goddess must be pleased.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Congratulations,
+<MYNAME>! The Harvest
+Goddess must be pleased.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Congratulations,
+<MYNAME>! The Harvest
+Goddess must be pleased.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Congratulations,
+<MYNAME>! The Harvest
+Goddess must be pleased.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Congratulations,
+<MYNAME>! The Harvest
+Goddess must be pleased.

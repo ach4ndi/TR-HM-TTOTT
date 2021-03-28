@@ -1,0 +1,45 @@
+<FACE_POS_LEFT><FACE_NORI><FACE_HAPPY><FP_LEFT>Hallooo.<PAGE><FACE_POS_RIGHT><FACE_EILEEN><FACE_HAPPY><FP_RIGHT>Oh, aku tidak terbiasa men-
+dapatkan seorang pelanggan
+baru disini!<PAGE>Apa yang bisa aku bantu?<PAGE><FACE_POS_LEFT><FACE_NORI><FACE_NORMAL><FP_LEFT>Kami mendengar bahwa disini
+ada seorang pengerajin yang
+hebat.<PAGE><FACE_POS_LEFT><FACE_REINA><FACE_HAPPY><FP_LEFT>Yang sangat kuat daripada
+penampulannya.<PAGE><FACE_POS_RIGHT><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Uh...
+Kuat? Penampilan? Aku tak
+tahu hal itu. Aku dapat<PAGE>membawa beberapa balok
+kayu...<PAGE>Ini tidak terlalu susah.
+Apakah kalian gadis-gadis
+ingin mencobanya?<PAGE><FACE_POS_LEFT><FACE_NORI><FACE_NORMAL><FP_LEFT>Um, aku pikir aku akan meli-
+hatnya aja untuk hari ini.<PAGE><FACE_POS_LEFT><FACE_REINA><FACE_NORMAL><FP_LEFT>Tidak, terima kasih.
+Aku benci hal-hal yang
+meletihkan itu.<PAGE><FACE_POS_RIGHT><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Oh, tidak...
+sungguh disayangkan!<PAGE><FACE_POS_RIGHT><FACE_EILEEN><FACE_HAPPY><FP_RIGHT>Tapi aku senang atas kalian
+yang tertarik dengan hasil
+kerjaku.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_REINA><FACE_NORMAL><FP_LEFT>Pekerjaan yang kamu lakukan
+itu sungguh cekatan!<PAGE><FACE_POS_LEFT><FACE_NORI><FACE_HAPPY><FP_LEFT>Kamu benar-benar luar biasa,
+seperti rumor yang beredar
+ini!<PAGE><FACE_POS_RIGHT><FACE_EILEEN><FACE_HAPPY><FP_RIGHT>Oh tidak, aku tidak berharap
+banyaknya sebuah pujian
+ini!<PAGE><FACE_POS_RIGHT><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Sheng tidak pernah memberi-
+kan pujian seperti itu!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_NORI><FACE_HAPPY><FP_LEFT>Tampaknya Eileen tidak menya-
+dari gimana kemampuannya
+yang amat terampil itu...<PAGE><FACE_POS_LEFT><FACE_NORI><FACE_NORMAL><FP_LEFT>Tapi aku pikir Sheng itu
+seorang benar-benar master
+tukang...<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>Ya, tapi tetap...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_SHOCK><FP_RIGHT>Dia sungguh kuat!
+Aku iri kepadanya.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_NORI><FACE_HAPPY><FP_LEFT>Uh, mungkin kamu bisa menco-
+ba sedikit latihan Reina
+...<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_ANGRY><FP_RIGHT>H-Heiiii!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_NORI><FACE_NORMAL><FP_LEFT>Terima kasih atas membiarkan
+kami melihat cara kerjamu di
+hari ini.<PAGE><FACE_POS_LEFT><FACE_REINA><FACE_NORMAL><FP_LEFT>Kita akan datang lagi kesini
+nanti.<PAGE><FACE_POS_RIGHT><FACE_EILEEN><FACE_HAPPY><FP_RIGHT>Apa! kamu sudah mau pergi?
+Datang dan lihat aku lagi
+ya, kapanpun! aku tunggu!

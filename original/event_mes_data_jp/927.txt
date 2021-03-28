@@ -1,0 +1,34 @@
+<FACE_POS_RIGHT><FACE_LANEY><FACE_HAPPY>いらっしゃい！
+待ってたわよ、<MYNAME>！
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_CAM><FACE_HAPPY>いらっしゃい。
+よく来たな、<MYNAME>。
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_HOWARD><FACE_NORMAL>これで全員ね。<PAGE><FACE_POS_LEFT><FACE_HOWARD><FACE_HAPPY>じゃあ、みんな
+席についてちょうだい！
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_HOWARD><FACE_HAPPY>それじゃあパーティーを
+始めちゃうわよ！<PAGE><FACE_POS_LEFT><FACE_HOWARD><FACE_NORMAL>今日はあたしが愛情たっぷりの
+料理を用意したわ。<PAGE><FACE_POS_LEFT><FACE_HOWARD><FACE_HAPPY>お腹いっぱい楽しんでね！<PAGE>じゃあ、みんな
+自分のグラスを持って。<PAGE><FACE_POS_LEFT><FACE_HOWARD><FACE_NORMAL>せーの…\u270a<PAGE>\u1f44\u20d1
+　　　カンパーイ！！\u270b
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_HOWARD><FACE_HAPPY>じゃあ、みんな
+自分のグラスを持って。<PAGE><FACE_POS_LEFT><FACE_HOWARD><FACE_NORMAL>せーの…<PAGE>\u1f44\u20d1
+　　　カンパーイ！！\u270a
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_NORMAL>今日は来てくれてありがとう。<PAGE><FACE_POS_RIGHT><FACE_LANEY><FACE_HAPPY><MYNAME>と一緒に過ごせて
+とても楽しかったわ。<PAGE><FACE_POS_RIGHT><FACE_LANEY><FACE_SHOCK>来年もうちのパーティーに
+参加してほしいな。
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_HAPPY>ふふ、ありがとう
+<MYNAME>。<PAGE><FACE_POS_RIGHT><FACE_LANEY><FACE_NORMAL>それじゃあ、また明日ね。<PAGE><FACE_POS_RIGHT><FACE_LANEY><FACE_HAPPY>もう遅い時間なんだから
+気をつけて帰ってよね。
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_CAM><FACE_NORMAL>もう夜も遅い。
+家まで送るよ。
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_CAM><FACE_HAPPY>今日は楽しかったよ。
+また<MYNAME>と
+こんな時間を過ごしたいな。<PAGE>それじゃあ、ボクは帰る。
+また明日会おう。

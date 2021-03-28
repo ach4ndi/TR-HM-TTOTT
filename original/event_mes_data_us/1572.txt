@@ -1,0 +1,95 @@
+<FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY>Welcome to Kana's Animals!
+Take your time and have a
+look around.\u2390
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><CHOICE_ABC> Look at horse carts.
+ Look at animals.
+ Never mind.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_SAD>Take better care of the
+horse, and it'll be happier.
+I feel sorry for it...\u2390
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_SAD>I'm sorry. I don't have
+anything available
+at the moment.\u2390
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL>Ah, I see.
+Come back again.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><CHOICE_ABC> Rent a horse.
+ Buy pets.
+ Never mind.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL>Hm? Are you sure you have
+enough money for this?\u2390
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL>Hm? You changed your mind?
+Do you need anything else
+from me?\u2390
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL>That'll be <RED><VAR_0>G</COLOR>.
+<CHOICE_AB> Rent it.
+ Never mind.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL>Alright, then. It needs a
+good name. What do you want
+to call it?\u2390
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL>Is <RED><VAR_0></COLOR> OK?
+<CHOICE_AB> Yes!
+ No!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY>Thank you very much!
+Take good care of it.\u2390
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL>Hm? You changed your mind?
+Would you like
+anything else?\u2390
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL>That'll be <RED><VAR_0>G</COLOR>.
+<CHOICE_AB> Buy.
+ Never mind.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL>You can't keep any more of
+that kind of pet.\u2390
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL>Alright, then. It needs a
+good name. What do you want
+to call it?\u2390
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><CHOICE_ABC> Buy horse cart.
+ Upgrade horse cart.
+ Never mind.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL>That'll be <RED><VAR_0>G</COLOR>. Okay?
+<CHOICE_AB> Upgrade.
+ Never mind.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL>It doesn't look like you
+have a cart to upgrade.
+Do you need anything else?\u2390
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL>Hm? You changed your mind?
+Okay. Do you need anything
+else?\u2390
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL>You're lucky. I have a
+rare animal available
+today.\u2390
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY>That's a great name!
+Now I'll tell you how to
+take care of an owl.<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL>You feed
+<RED>owl food</COLOR> to
+your owl.<PAGE>Just put the food on the
+ground, and...
+<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY>...your owl will come to you
+and eat it.<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL>You can buy Owl Food at
+Raul's or Diego's shop.<PAGE>That's pretty much all
+you need to know.<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY>Oh, one more thing.
+Train your owl, and...<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL>...it'll take you from the
+mountaintop down to either
+town.<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY>Isn't that awesome?
+I'm sure you'll find it
+super handy.<PAGE>Make the most of it!\u2390

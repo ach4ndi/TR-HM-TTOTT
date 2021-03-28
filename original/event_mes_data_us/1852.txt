@@ -1,0 +1,97 @@
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>★ERROR!★</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL><FP_RIGHT>So you saw my request on the
+message board!<PAGE><FACE_POS_RIGHT><FACE_ASH><FACE_SHY>But it's getting pretty
+late, so I'll ask you about
+it another day.<PAGE>Sorry to ask you for your
+help, I know how busy you
+are with your own farm...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>★ERROR!★</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>So you saw my request
+on the message board?
+Thanks!<PAGE>Let's get started, then!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>★ERROR!★</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>★ERROR!★</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>This is our farm. It's
+pretty big, huh?<PAGE><FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL>I'd like you to do some
+<RED>brushing</COLOR>.<PAGE>Make sure you brush <RED>every
+animal</COLOR>, OK?<PAGE><FACE_POS_RIGHT><FACE_ASH><FACE_SHY>Cheryl was supposed to do it
+tomorrow, but...<PAGE><FACE_POS_RIGHT><FACE_ASH><FACE_SAD>...She's still so small, you
+know? I don't want her to
+get hurt.<PAGE><FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL>Plus, I'd like to get them
+all clean today, anyway.<PAGE>I'm too busy to do it
+myself, though, so thanks
+for helping me out!<PAGE><FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL>What's that? You think I
+spoil\u270a Cheryl too much?<PAGE><FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY>Heh, believe me, I'm not
+going to go so easy on her
+when she gets older!<PAGE><FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL>So, just come tell me when
+you're done, all right?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>This is our farm. It's
+pretty big, huh?<PAGE><FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL>I'd like you to do some
+<RED>milking</COLOR>.<PAGE>When you collect the milk,
+<RED>it'll automatically be sent
+to the farm's storage</COLOR>.<PAGE><FACE_POS_RIGHT><FACE_ASH><FACE_SHY>Cheryl was supposed to do
+it tomorrow, but...<PAGE><FACE_POS_RIGHT><FACE_ASH><FACE_SAD>...She's still so small, you
+know? I don't want her to
+get hurt.<PAGE><FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL>Anyway, I thought we should
+get all the milking done
+today.<PAGE>I'm too busy to do it
+myself, though, so thanks
+for helping me out!<PAGE><FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL>What's that? You think I
+spoil\u270a Cheryl too much?<PAGE><FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY>Heh, believe me, I'm not
+going to go so easy on her
+when she gets older!<PAGE><FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL>So, just come tell me when
+you're done, all right?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>★ERROR!★</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>★ERROR!★</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>So you're all finished?
+Thanks a lot!<PAGE>Could you come with me? I've
+got a reward for you.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL><FP_RIGHT>Oh, so you're finished?
+Thanks!<PAGE><FACE_POS_RIGHT><FACE_ASH><FACE_SHY>But I wish you could
+have let me know the
+same day.<PAGE><FACE_POS_RIGHT><FACE_ASH><FACE_SAD>I didn't get any sleep,
+because I was too worried
+about the job.<PAGE><FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL>Well, follow me, then. I'll
+give you your reward...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL><FP_RIGHT>Oh, so you're all done?
+Thanks!<PAGE><FACE_POS_RIGHT><FACE_ASH><FACE_SHY>But I wish you could've let
+me know a little earlier.<PAGE><FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY>You almost missed me. I was
+about to go to bed...<PAGE><FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL>Well, follow me, then. I'll
+give you your reward...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>★ERROR!★</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL><FP_RIGHT>You did such a great job!
+I knew I could count on you!
+This was a big help!<PAGE>Here's your reward.
+I hope you'll accept it!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>Error!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>Error!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>And here's something extra
+since you finished so fast.
+But don't tell my mom...
+----------------------------|----------------------------------
+\u2137You got: <VAR_1>!
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>Thanks for your help!
+I hope you don't mind if
+I ask for your help again.
+----------------------------|----------------------------------
+\u2137You finished all the work
+you were asked to do!

@@ -1,0 +1,74 @@
+<FACE_POS_RIGHT><FACE_MIKHAIL><FACE_SHY><FP_RIGHT>......
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>It sounds like it's time to
+change my strings...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>I'm sorry, <MYNAME>. How
+careless of me.<PAGE>A violinist should never let
+his strings get to such a
+poor state.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>My violin has four strings.
+I use fingers or my bow to
+pluck them to make sounds.<PAGE>But after they have been
+used for a while, violin
+strings sound bad, or snap.<PAGE>Before that happens, new
+strings must be carefully
+strung on the violin...<PAGE><FACE_POS_RIGHT><FACE_MIKHAIL><FACE_SHY><FP_RIGHT>I've been so busy recently
+that I completely forgot to
+restring my instrument!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>Oh, it's nothing to worry
+about. I just need to change
+the strings. It'll be fine.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>Did you know that violins
+last a very long time?<PAGE>If you change your strings
+diligently, you can play the
+same violin for 100 years.<PAGE>My violin was handed down to
+me by my instructor.
+It's an old one.<PAGE>This remarkable violin has
+been played for 90 years.
+----------------------------|----------------------------------
+<CHOICE_AB> It's a hand-me-down?
+ It's an heirloom!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MIKHAIL><FACE_ANGRY><FP_RIGHT>Maybe you should consider
+your choice of words more
+carefully, <MYNAME>.<PAGE><FACE_POS_RIGHT><FACE_MIKHAIL><FACE_SAD><FP_RIGHT>I lost my parents when I was
+young. My teacher took me
+in.<PAGE>This is a memento of him.<PAGE><FACE_POS_RIGHT><FACE_MIKHAIL><FACE_ANGRY><FP_RIGHT>So when you call it a "hand-
+-me-down," you are
+mocking his memory. 
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MIKHAIL><FACE_SAD><FP_RIGHT>Excuse me, but I no longer
+want to talk to you today.
+Please go home.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MIKHAIL><FACE_HAPPY><FP_RIGHT>Yes, it is.
+This violin is very
+important to me.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>I lost my parents when I
+was young. My violin teacher
+was like a father to me.<PAGE>He taught me the importance
+of music, and the glories of
+the violin.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MIKHAIL><FACE_HAPPY><FP_RIGHT>I was entranced by the
+melodies he created with
+this instrument.<PAGE><FACE_POS_RIGHT><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>I have never met anyone who
+could make a violin sound
+the way he could.<PAGE><FACE_POS_RIGHT><FACE_MIKHAIL><FACE_HAPPY><FP_RIGHT>This violin is a precious
+memento of him.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>I'm sorry, I went off on a
+tangent there.<PAGE>It has been a long time
+since I talked so much
+about my past.<PAGE><FACE_POS_RIGHT><FACE_MIKHAIL><FACE_HAPPY><FP_RIGHT>It must be that gentle
+voice of yours that makes
+me talkative...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>Today was a high note
+thanks to you, <MYNAME>.<PAGE>Let me escort you home
+before it gets too late.

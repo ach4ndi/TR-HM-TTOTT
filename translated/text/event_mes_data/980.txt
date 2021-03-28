@@ -1,0 +1,66 @@
+<FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL><FP_RIGHT>Bagaimana kegiatan berkebun-
+mu?<PAGE><FACE_POS_RIGHT><FACE_ASH><FACE_SHY><FP_RIGHT>Tidak kewalahan, kan?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>Kamu sudah bekerja terlalu
+keras. Kauharapkan aku
+bisa seperti kamu itu!<PAGE><FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL><FP_RIGHT>Tapi jangan memaksakan diri-
+mu itu, jika ada sesuatu
+yang terlalu berat disele-<PAGE>saikan, datang dan berbi-
+cara denganku.<PAGE>Aku selalu senang untuk
+memberikanmu sebuah bantu-
+an.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ternyata kamu ada disana,
+Ash!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CHERYL><FACE_HAPPY><FP_RIGHT>Ayo bermain denganku!
+Kamu sudah berjadiloh hari
+ini bermain denganku!<PAGE><FACE_POS_LEFT><FACE_ASH><FACE_NORMAL><FP_LEFT>Apa? Oh ya!
+Kamu benar, aku dah men-
+janjikannya!<PAGE><FACE_POS_RIGHT><FACE_CHERYL><FACE_SAD><FP_RIGHT>Ash, apakah kamu melupakan-
+nya?<PAGE><FACE_POS_LEFT><FACE_ASH><FACE_SHY><FP_LEFT>Uh maaf.<PAGE><FACE_POS_LEFT><FACE_ASH><FACE_NORMAL><FP_LEFT>Tapi sekarang aku sedang
+berbicara dengan 
+<MYNAME>.<PAGE>Kita akan bermain setelah
+aku sudah selesai urusan
+ini ya, oke?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CHERYL><FACE_SAD><FP_RIGHT>\u20d0APA!?<PAGE><FACE_POS_RIGHT><FACE_CHERYL><FACE_ANGRY><FP_RIGHT>Tidaaaaaak!
+Bermain denganku SEKARANG!<PAGE><FACE_POS_LEFT><FACE_ASH><FACE_NORMAL><FP_LEFT>Uh...
+----------------------------|----------------------------------
+<CHOICE_AB> Ajak aku saja sekalian!
+ Kamu bisa bermain dgnnya.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ASH><FACE_SHY><FP_LEFT>Kamu juga, <MYNAME>?<PAGE><FACE_POS_RIGHT><FACE_CHERYL><FACE_ANGRY><FP_RIGHT>Grr...
+Aku akan bermain dengan
+kakakku! Bukan kamu!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_ANGRY><FP_RIGHT>Hey, tunggu sebentar!
+Oh man!
+Sudahlah！
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_SHY><FP_RIGHT>Maaf, <MYNAME>.
+Kupikir aku harus bermain
+dengan Cheryl hari ini.<PAGE>Kita akan membawa alat cek
+hujan ya oke?<PAGE><FACE_POS_RIGHT><FACE_ASH><FACE_SAD><FP_RIGHT>Aku benar benar memin-
+ta maaf kepadamu...
+maaf...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CHERYL><FACE_HAPPY><FP_RIGHT>Yay!<RED>❤</COLOR>
+Ayo!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>Oke, Oke...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL><FP_RIGHT>Huh? Tapi...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>Oke. Makasih.
+Maaf kalau Cheryl seperti
+itu...<PAGE><FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL><FP_RIGHT>Kita akan membawa alat cek
+hujan ya oke?<PAGE>Kedepannya, mari kita
+berbicara lagi.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CHERYL><FACE_HAPPY><FP_RIGHT>Oke, ayo!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>Oke, oke...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL><FP_RIGHT>Aku akan berjumpa dengan-
+mu nanti ya, <MYNAME>.

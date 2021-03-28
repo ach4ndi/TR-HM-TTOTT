@@ -1,0 +1,49 @@
+<FACE_POS_LEFT><FACE_RUTGER><FACE_NORMAL><FP_LEFT>Hey there, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_RUTGER><FACE_NORMAL><FP_LEFT>What am I doing?
+I'm checking the
+shipping bin!<PAGE><FACE_POS_LEFT><FACE_RUTGER><FACE_HAPPY><FP_LEFT>I want everyone to be
+able to use it.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_RUTGER><FACE_NORMAL><FP_LEFT>Oh, that's right! I never
+told you about the
+<RED>shipping bin</COLOR>.<PAGE>If you get items like milk
+or eggs, you can <RED>eat</COLOR> them
+or <RED>cook</COLOR> them...<PAGE><FACE_POS_LEFT><FACE_RUTGER><FACE_HAPPY><FP_LEFT>...Or you can <RED>ship them to
+get money for them</COLOR>!<PAGE><FACE_POS_LEFT><FACE_RUTGER><FACE_NORMAL><FP_LEFT>Do you want me to explain
+the shipping bin in
+detail?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_RUTGER><FACE_NORMAL><FP_LEFT>OK! Then let me explain!<PAGE>Go near the shipping bin and
+press the <RED>A Button</COLOR>.<PAGE>The shipping bin's contents
+will appear on the bottom
+screen.<PAGE><FACE_POS_LEFT><FACE_RUTGER><FACE_HAPPY><FP_LEFT>Then just put milk or other
+items you want to ship in
+the shipping bin!<PAGE>Easy, right?<PAGE><FACE_POS_LEFT><FACE_RUTGER><FACE_NORMAL><FP_LEFT>One thing to keep in mind:<PAGE>once you put something in
+the shipping bin and close
+it, you can't get it back.<PAGE><FACE_POS_LEFT><FACE_RUTGER><FACE_HAPPY><FP_LEFT>The money for your shipment
+is delivered to your house
+the next morning.<PAGE><FACE_POS_LEFT><FACE_RUTGER><FACE_NORMAL><FP_LEFT>Feel free to use the
+shipping bin whenever
+you want!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_RUTGER><FACE_NORMAL><FP_LEFT>Hmm? Is this the only
+shipping bin, \u270ayou ask?<PAGE>No, there's also one in
+<BLUE>Konohana</COLOR>.<PAGE>Actually, feel free to use
+the one in Konohana,
+as well.<PAGE>When the folks in Konohana
+see delicious milk and eggs
+in their shipping bin...<PAGE><FACE_POS_LEFT><FACE_RUTGER><FACE_HAPPY><FP_LEFT>...Well, they'll be
+bedazzled by just how
+amazing they are!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_RUTGER><FACE_NORMAL><FP_LEFT>Well, I should get back to
+Town Hall now...<PAGE>See you later,
+<MYNAME>!
+----------------------------|----------------------------------
+<CHOICE_AB> Please do!
+ I already know.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_RUTGER><FACE_HAPPY><FP_LEFT>I see. Well, I should get
+back to Town Hall, then...<PAGE>See you later,
+<MYNAME>!

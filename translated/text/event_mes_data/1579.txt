@@ -1,0 +1,38 @@
+<FACE_POS_RIGHT><FACE_CHERYL><FACE_NORMAL>Selamat datang di peternakan
+Jessica!<RED>❤</COLOR>
+<INPUT_KEYPAD>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CHERYL><FACE_NORMAL><CHOICE_AB> Lihat barang jualan.
+ Lupakan.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CHERYL><FACE_NORMAL>Okay. Datang kembali
+ya kapan-kapan.<RED>❤</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CHERYL><FACE_SAD>Sepertinya kamu miskin ya?
+Lebih baik bawa uang yang
+cukp... oke ❤<INPUT_KEYPAD>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CHERYL><FACE_HAPPY>Bagus!
+Terima kasih!<RED>❤</COLOR><INPUT_KEYPAD>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CHERYL><FACE_SAD>Sepertinya tasmu penuh.
+Datang kembali jika sudah
+membuang isi tasnya.<INPUT_KEYPAD>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CHERYL><FACE_NORMAL>Oh, apa kamu berubah
+pikiran? Apa hal lain yang
+dibutuhkan?<INPUT_KEYPAD>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CHERYL><FACE_NORMAL>Totalnya <RED><VAR_0>G</COLOR>!
+<CHOICE_AB> Beli.
+ Lupakan.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CHERYL><FACE_NORMAL>Totalnya <RED><VAR_1>G</COLOR> untuk
+tiap <VAR_0>.
+Berapa banyak?<INPUT_KEYPAD>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CHERYL><FACE_NORMAL>Maaf...
+Semuanya sudah habis terjual
+hari ini.<INPUT_KEYPAD>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CHERYL><FACE_NORMAL>No item left MSG

@@ -1,0 +1,83 @@
+<FACE_POS_RIGHT><FACE_HIRO><FACE_NORMAL><FP_RIGHT>I do apologize for bringing
+you all the way out here.<PAGE>But you see, <MYNAME>,
+there is something that I
+wish to give to you.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_NORMAL><FP_RIGHT>I'm terribly sorry to spring
+such a surprise on you...<PAGE>But I have been pondering
+this for some time now.<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_NORMAL><FP_RIGHT><MYNAME>, you are so energetic
+and dependable, always
+encouraging me.<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_SAD><FP_RIGHT>I know that I am not as
+successful and resourceful
+as I ought to be...<PAGE>But I know that I can
+improve with hard work...
+and the right help.<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_ANGRY><FP_RIGHT>And I feel that I have
+already improved much thanks
+to your help.<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_NORMAL><FP_RIGHT>With your love, I know I
+could be my best.
+<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_SHOCK><FP_RIGHT>I love you.
+Will you...\u270a\u270a
+marry me?
+----------------------------|----------------------------------
+<CHOICE_AB> Yes! I'm so happy!
+ I'm not ready for that.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_HAPPY><FP_RIGHT>Truly?
+You truly feel that way?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_HAPPY><FP_RIGHT>Th-Thank you! Ever so much!!<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_SAD><FP_RIGHT>I'm so elated... 
+These are tears of joy...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_HAPPY><FP_RIGHT>But no...!
+Haven't I just been speaking
+about becoming stronger?<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_SAD><FP_RIGHT>Pardon me. Forgive me this
+lapse.<PAGE>From this point forward, I
+will strive to become a man
+you can depend on!<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_NORMAL><FP_RIGHT><MYNAME>...<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_SHOCK><FP_RIGHT>I thank you from the
+bottom of my heart.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_HAPPY><FP_RIGHT>I've pulled myself together.<PAGE>Shall we go tell Dr. Ayame
+the good news?<PAGE>She's been so kind to me.
+I feel she should be the
+first to know.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_AYAME><FACE_HAPPY><FP_LEFT>My, my. Congratulations!
+I'm so happy for you both.
+<PAGE><FACE_POS_LEFT><FACE_AYAME><FACE_NORMAL><FP_LEFT>When will the wedding be?<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_NORMAL><FP_RIGHT>Oh, we haven't picked the
+exact date just yet.<PAGE><FACE_POS_LEFT><FACE_AYAME><FACE_HAPPY><FP_LEFT>But it ought to be soon.
+Say, a week or so from now?<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_SAD><FP_RIGHT>What? Why are you deciding
+our wedding date?
+<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_ANGRY><FP_RIGHT>We need to take our time
+and talk it over...<PAGE><FACE_POS_LEFT><FACE_AYAME><FACE_NORMAL><FP_LEFT>Ah, but <MYNAME> is a
+popular girl, you know!<PAGE><FACE_POS_LEFT><FACE_AYAME><FACE_HAPPY><FP_LEFT>You wouldn't want someone
+to slip in and steal her
+away.<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_NORMAL><FP_RIGHT>Oh! You're right!<PAGE><FACE_POS_LEFT><FACE_AYAME><FACE_NORMAL><FP_LEFT>...\u270a\u270aOh, I'm just kidding!<PAGE><FACE_POS_LEFT><FACE_AYAME><FACE_HAPPY><FP_LEFT><MYNAME> isn't the kind of
+girl who'd do that to you.<PAGE>I'm just pulling your leg.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_AYAME><FACE_NORMAL><FP_LEFT><MYNAME>, how do you feel
+about having the wedding in
+about a week?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_AYAME><FACE_HAPPY><FP_LEFT>Great!<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_NORMAL><FP_RIGHT>If it's acceptable to
+<MYNAME>, then I have no
+objection on my part.<PAGE><FACE_POS_LEFT><FACE_AYAME><FACE_HAPPY><FP_LEFT>It's settled, then! I'll
+help <MYNAME> do her hair
+and makeup that day.<PAGE><FACE_POS_LEFT><FACE_AYAME><FACE_NORMAL><FP_LEFT>On the wedding day, you'll
+be busy all day long...<PAGE>So be sure to finish your
+work and chores the day
+before, right?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_SHOCK><FP_RIGHT>It all seems so sudden...
+But I'm very much looking
+forward to it!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_SAD><FP_RIGHT>Oh, I see...
+So that is how things stand.<PAGE>I am terribly sorry, <MYNAME>.
+I forced this conversation
+upon you heedlessly...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_SAD><FP_RIGHT>It was self-indulgent of me.
+What a sorry case I am.
+Head in the clouds!<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_NORMAL><FP_RIGHT>I am truly sorry.
+If you will excuse me, I
+will be on my way home now.

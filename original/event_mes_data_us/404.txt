@@ -1,0 +1,41 @@
+<FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT>Today you're going to learn
+how the town hall works.
+Understand, Rahi?<PAGE><FACE_POS_RIGHT><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Yes, Mom.<PAGE><FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT>Good.
+As you know...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT>Here we check in guests,
+help people move, and answer
+questions about the village.<PAGE>The mayor's number one job
+is to respond to inquiries
+and look after the village.<PAGE><FACE_POS_RIGHT><FACE_RAHI><FACE_NORMAL><FP_RIGHT>As long as the mayor is
+around, the village is safe.<PAGE><FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT>That's right.
+Now, the guest rooms are
+this way.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT>Make sure you show the
+guests to the correct room.<PAGE><FACE_POS_RIGHT><FACE_RAHI><FACE_HAPPY><FP_RIGHT>There are only two rooms,
+so it can't be that hard.<PAGE><FACE_POS_LEFT><FACE_INA><FACE_HAPPY><FP_LEFT>Well, that's true!<PAGE><FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT>Now for the library!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_INA><FACE_SAD><FP_LEFT>We used to loan out books,
+but...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_INA><FACE_SAD><FP_LEFT>Fewer people live in the
+village nowadays, and not
+many come by every day.<PAGE>It's a shame, since we have
+such a great collection of
+books in our library.<PAGE><FACE_POS_RIGHT><FACE_RAHI><FACE_SAD><FP_RIGHT>A real shame...<PAGE><FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT>Hopefully there will be more
+people who use it someday.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT>Finally, the meeting hall.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>We use it for events, so it
+really needs no explanation.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>Getting along with the
+villagers is an important
+part of the mayor's job.<PAGE>I'm always strict with you,
+but you can loosen up a bit
+when you talk with people.<PAGE><FACE_POS_LEFT><FACE_RAHI><FACE_HAPPY><FP_LEFT>I understand, Mom.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>Look at the time!
+Let's go back inside.

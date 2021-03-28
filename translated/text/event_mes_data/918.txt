@@ -1,0 +1,191 @@
+<FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT>Hari ini adalah festival musik!<PAGE><FACE_POS_LEFT><FACE_INA><FACE_HAPPY><FP_LEFT>Mari luangkan waktu untuk
+sebuah musik yang menambah
+kepuasan hidup ini!
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_INA><FACE_HAPPY><FP_LEFT>Sekarang mari kuperkenalkan
+para pemain musiknya!<PAGE>Mikhail seorang pemain violin,
+dan helena seorang pemain 
+piano.
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_INA><FACE_HAPPY><FP_LEFT>Ayo mainkan, Mikhail!
+Tunjukkan kemampuanmu!
+
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_MIKHAIL><FACE_HAPPY><FP_LEFT>Halo, semuanya. Mohon
+dengarkan dan nikmati!
+dan dihayati ya!
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_YUN><FACE_HAPPY><FP_RIGHT>Lagu ini sungguh membuatku
+lebih santai...
+Ini sempurna untuk musim ini!<PAGE><FACE_POS_LEFT><FACE_SHENG><FACE_NORMAL><FP_LEFT>Apa!?
+Waaa?
+Sudah selesai!?<PAGE><FACE_POS_LEFT><FACE_SHENG><FACE_HAPPY><FP_LEFT>Itu tadi barusan membuatku
+tidur, tidur yang benar-
+benar nyamaaaan!<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_HAPPY><FP_RIGHT>Hmmm. Mungkin kita gunakan
+musik untuk mengukur tingkat
+ketenangan di klinik...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_NORI><FACE_HAPPY><FP_LEFT>Wa lagu yang bersemangat.
+Ini mengingatku pada musim
+semi. Sunggu menyenangkan!<PAGE><FACE_POS_RIGHT><FACE_YING><FACE_HAPPY><FP_RIGHT>Aku suka lagu ini.
+Sangat menyenangkan.<PAGE><FACE_POS_LEFT><FACE_RAHI><FACE_HAPPY><FP_LEFT>Aku menyukainya juga!
+ini membuatku ingin pergi
+bermain diluar.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MAKO><FACE_HAPPY><FP_RIGHT>Hmmm... lagu yang bagus...
+Itu hampir terasa seperti
+itu milikku seorang!<PAGE><FACE_POS_LEFT><FACE_INA><FACE_HAPPY><FP_LEFT>Aku suka lagu ini juga.
+Ini sungguh manis untuk ber-
+santai mendengarkan lagu ini<PAGE>nanti kedepannya kalau
+sempat...<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_HAPPY><FP_RIGHT>Ya aku setujuh. Musik seperti
+ini sangat bagus untuk
+tanaman.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>Aku jarang untuk mendengarkan
+sebuah lagu, tapi ini keren.<PAGE><FACE_POS_LEFT><FACE_SHENG><FACE_HAPPY><FP_LEFT>Biasanya aku mendengarkan
+suara binatang sebagai musik,
+tapi alat musik itu sungguh<PAGE>bagus! dan indah.<PAGE><FACE_POS_RIGHT><FACE_YUN><FACE_HAPPY><FP_RIGHT>Lagu yang bagus!
+Aku tidak sabat untuk
+mendengarnya lagi!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_YING><FACE_NORMAL><FP_RIGHT>Itu keren...
+Aku harap aku bisa
+memainkannya...<PAGE><FACE_POS_LEFT><FACE_NORI><FACE_HAPPY><FP_LEFT>Ying, kamy ingin memperlajari
+instrument itu denganku?<PAGE><FACE_POS_LEFT><FACE_RAHI><FACE_HAPPY><FP_LEFT>Aku ingin melakukannya juga!
+Mari kita belajar bersama,
+Ying!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_HAPPY><FP_RIGHT>Festival musik ini selalu
+sungguh tenang, dan damai.<PAGE><FACE_POS_LEFT><FACE_HIRO><FACE_HAPPY><FP_LEFT>Musik pasti ada hal-hal
+yang bisa menyembuhkan
+semangat kita, apa kamu<PAGE>berpikir seperti itu?
+Itu sungguh luar biasa!<PAGE><FACE_POS_RIGHT><FACE_YUN><FACE_HAPPY><FP_RIGHT>Ini selalu cukup menyenangkan.
+Aku harap mereka akan terus
+mengadakan festival ini<PAGE>selama-lamanya....
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MAKO><FACE_HAPPY><FP_RIGHT>Hmm, lagu yang bagus.
+Pastinya para pelajar itu
+menyukai musik. mungkin.<PAGE><FACE_POS_LEFT><FACE_INA><FACE_HAPPY><FP_LEFT>Ini satu satu cara kita bisa
+mendengarkan musik bersama-
+sama...<PAGE>Jadi aku pastinya memper-
+tahankan festival ini tetap
+berjalan ditiap tahunnya.<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Aku harap kamu melakukannya.
+Aku tahu aku menikmatinya
+tiap tahun...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>Aku tidak ingin hanya dukuk
+disini dan mendengarkan saja!<PAGE>Aku juga ingin memainkan
+sesuatu juga!<PAGE><FACE_POS_LEFT><FACE_HIRO><FACE_HAPPY><FP_LEFT>Ide yang bagus. Kita harus
+memainkan sesuatu bersama di
+tahun depan.<PAGE><FACE_POS_LEFT><FACE_SHENG><FACE_HAPPY><FP_LEFT>Tapi aku pikir kamu pastinya
+tidak bisa memainkan alat
+musik dengan baik...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_INA><FACE_HAPPY><FP_LEFT>Lagu yang indah dan menakjubkan.
+Mungkin aku menyebutkan 
+festival musik tahun ini<PAGE>sukses!
+benar-benar sukses!<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_HAPPY><FP_RIGHT>Aku sungguh bergairah untuk
+mencari lagu yang kita akan
+dengar ditahun depan.<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>Aku tidak bisa menunggu
+selama itu! Lupakan tahun
+depan, mari kita lakukan ini<PAGE>lagi dibulan depan!
+BULAN DEPAN!
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_INA><FACE_HAPPY><FP_LEFT>Itu sungguh luar biasa!
+Musik yang cetar membahana!<PAGE><FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT>Terima kasih banyak atas
+memainkan itu untuk kami,
+Mikhail.<PAGE><FACE_POS_LEFT><FACE_INA><FACE_HAPPY><FP_LEFT>Mari kita sambut Mikhail
+dengan tepuk tangan yang
+meriah!
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy

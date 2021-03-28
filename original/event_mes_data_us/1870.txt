@@ -1,0 +1,121 @@
+\u2137Talk about the request?
+<CHOICE_AB> Yes
+ No
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Ah, you came for me
+to teach you <RED>jumping
+critter catching</COLOR>, hmm?<PAGE><FACE_POS_RIGHT><FACE_GOMBE><FACE_HAPPY>Ah, fine then, this old man
+can teach you all you
+need to know about...<PAGE>...<RED>Jumping critter catching</COLOR>!<PAGE>How about it, hmm?
+Ready to learn?
+----------------------------|----------------------------------
+\u2137<CHOICE_AB> Please teach me!
+ No thanks.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_HAPPY><FP_RIGHT>Ah! I'll teach you, then!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>And that's how you catch
+critters by jumping! Want
+to hear it again?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_HAPPY><FP_RIGHT>Ah! In that case, you should
+try to catch the butterfly
+written in the <RED>request</COLOR>!<PAGE><FACE_POS_RIGHT><FACE_GOMBE><FACE_NORMAL>I'll go ahead and give you a
+hint, hmm?<PAGE>Just like its name suggests,
+the butterfly I requested is
+<RED>white</COLOR>!<PAGE>If you're having trouble,
+remember this old man's
+hint about the color!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Ah, hello,
+<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Ah, hello,
+<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Ah, hello,
+<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Ah, hello,
+<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Who-wee! You caught that
+fluttery critter, did ya?
+Ah, let me see it...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_HAPPY><FP_RIGHT>Ah, that's the one!
+Congratulations!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_HAPPY><FP_RIGHT>You're a capable one, aren't
+you? I'm surprised! You must
+be a critter-lover, <MYNAME>!<PAGE><FACE_POS_RIGHT><FACE_GOMBE><FACE_NORMAL>Some critters are quite hard
+to find, but...\u270a
+TRY TO CATCH 'EM ALL!!!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Ah, you fulfilled my
+request, so here is your
+reward!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_HAPPY><FP_RIGHT>Ah... You did a good job!<PAGE>I'll be making plenty of
+requests to you in the
+future!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Ah, hello,
+<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Ah, hello,
+<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Ah, hello,
+<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Ah, hello,
+<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Ah, hello,
+<MYNAME>.
+----------------------------|----------------------------------
+\u2137Ahem! Welcome to Gombe's
+critter catching class!
+----------------------------|----------------------------------
+\u2137Do you know that butterflies
+do something locusts don't?
+They fly!
+----------------------------|----------------------------------
+\u2137When you're trying to catch
+a bug that flutters around,
+like a butterfly...<PAGE>....You won't be able to
+catch it just by pressing
+the A Button.<PAGE>When you spot a butterfly,
+as you get up close to it...<PAGE>...<RED>Push the B Button</COLOR> to jump
+in the air!\u270a BOING!<PAGE>While you're jumping, <RED>push
+the A Button</COLOR>, and you'll
+catch it!<PAGE>It's easier to capture them
+if you time your grab
+after your jump!
+----------------------------|----------------------------------
+\u2137But if you don't catch it
+quickly, it'll get away
+from you! Stay sharp!<PAGE>But, if it does get away
+from you, don't worry about
+it! It's a big mountain!<PAGE>Keep looking! You'll find a
+butterfly you can catch!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Ah, hello,
+<MYNAME>.
+----------------------------|----------------------------------
+\u2137This time, my request is for
+a <GREEN>Small White</COLOR>...
+----------------------------|----------------------------------
+\u2137Looking around here is how
+you're most likely to find
+one, hmm?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Ah, hello,
+<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Ah, hello,
+<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Ah, hello,
+<MYNAME>.

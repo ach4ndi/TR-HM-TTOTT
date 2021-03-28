@@ -1,0 +1,79 @@
+<FACE_POS_LEFT><HIDE_NAME><FACE_HOWARD><FACE_NORMAL><FP_LEFT><HIDE_FACE>Oh, <MYNAME>! Are you
+awake?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><HIDE_NAME><FACE_HOWARD><FACE_NORMAL><FP_RIGHT>It's a pleasure to meet you!
+Sorry to bother you this
+early in the morning!<PAGE><FACE_POS_RIGHT><FACE_HOWARD><FACE_HAPPY><FP_RIGHT>My name is <BLUE>Howard</COLOR>! I run a
+caf here in Bluebell!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HOWARD><FACE_HAPPY><FP_RIGHT>I came to bring you a
+housewarming present!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HOWARD><FACE_NORMAL><FP_RIGHT>Sorry to bother you, but
+I've come to bring you a
+housewarming present!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HOWARD><FACE_HAPPY><FP_RIGHT>Let's head into the
+kitchen...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_HOWARD><FACE_NORMAL><FP_LEFT>This is a <RED>pot</COLOR>!<PAGE>There are a lot of recipes
+that you'll need a pot to
+make!<PAGE>Using this will really widen
+your repertoire of recipes,
+<MYNAME>!<PAGE><FACE_POS_LEFT><FACE_HOWARD><FACE_HAPPY><FP_LEFT>Make sure you make good use
+of it!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_HOWARD><FACE_NORMAL><FP_LEFT>Also, do you know how to
+learn recipes, <MYNAME>?
+----------------------------|----------------------------------
+<CHOICE_AB> Tell me!
+ I already know.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_HOWARD><FACE_HAPPY><FP_LEFT>All right, then! Let me
+explain it to you!<PAGE><FACE_POS_LEFT><FACE_HOWARD><FACE_NORMAL><FP_LEFT>There are two ways you can
+learn a recipe.<PAGE>The first is by reading a
+cookbook and following
+the instructions.<PAGE><FACE_POS_LEFT><FACE_HOWARD><FACE_HAPPY><FP_LEFT>If you make the dish
+correctly, you'll
+learn the recipe!<PAGE><FACE_POS_LEFT><FACE_HOWARD><FACE_NORMAL><FP_LEFT>The second is by thinking up
+a new recipe after you've
+been <RED>inspired!</COLOR><PAGE>If you cook a lot of dishes,
+sometimes you'll think of
+a new recipe!<PAGE><FACE_POS_LEFT><FACE_HOWARD><FACE_HAPPY><FP_LEFT>Even when you want to make
+a lot of the same dish, you
+should make them one by one!<PAGE>That way, you'll have more
+opportunities to get
+inspired!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_HOWARD><FACE_NORMAL><FP_LEFT>So that's how you learn
+recipes! Do you understand?
+----------------------------|----------------------------------
+<CHOICE_AB> Yep, I got it!
+ Explain it again.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_HOWARD><FACE_NORMAL><FP_LEFT>All right, let me explain it
+again, then...<PAGE><FACE_POS_LEFT><FACE_HOWARD><FACE_NORMAL><FP_LEFT>There are two ways you can
+learn a recipe.<PAGE>The first is by reading a
+cookbook and following
+the instructions.<PAGE><FACE_POS_LEFT><FACE_HOWARD><FACE_HAPPY><FP_LEFT>If you make the dish
+correctly, you'll
+learn the recipe!<PAGE><FACE_POS_LEFT><FACE_HOWARD><FACE_NORMAL><FP_LEFT>The second is by thinking up
+a new recipe after you've
+been <RED>inspired!</COLOR><PAGE>If you cook a lot of dishes,
+sometimes you'll think of
+a new recipe!<PAGE><FACE_POS_LEFT><FACE_HOWARD><FACE_HAPPY><FP_LEFT>Even when you want to make
+a lot of the same dish, you
+should make them one by one!<PAGE>That way, you'll have more
+opportunities to get
+inspired!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_HOWARD><FACE_HAPPY><FP_LEFT>Fabulous! I knew you would,
+<MYNAME>!<PAGE><FACE_POS_LEFT><FACE_HOWARD><FACE_NORMAL><FP_LEFT>You can also get a
+<RED>frying pan</COLOR> and a
+<RED>spice rack</COLOR>!<PAGE>I'll put up a notice on the
+message board when you can
+get those!<PAGE><FACE_POS_LEFT><FACE_HOWARD><FACE_HAPPY><FP_LEFT>Let's see... Why don't you
+use your new pot to make
+me some <RED>hot milk</COLOR>?<PAGE><FACE_POS_LEFT><FACE_HOWARD><FACE_NORMAL><FP_LEFT>Well, I'll be on my way!
+Stop by the caf sometime,
+<MYNAME>!

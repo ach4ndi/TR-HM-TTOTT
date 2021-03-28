@@ -1,0 +1,775 @@
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>We haven't met before...
+I'm <BLUE>Reina</COLOR>.<PAGE>I'm a botanist, someone who
+studies plants. Nice to meet
+you.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>The wind was really howling
+yesterday, wasn't it?<PAGE>I hope the plants made it
+through that okay.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>How are you, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>How are you, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>How are you, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_HAPPY><FP_RIGHT>This cat is cute, isn't it?
+Hee hee! Hey, little guy...<PAGE>I like cats because they're
+so independent.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_SHY><FP_RIGHT>Hey!
+I d-don't want th-that thing
+anywhere near me.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>Looks like a blue feather...<PAGE><FACE_POS_CENTER><FACE_REINA><FACE_SHOCK><FP_RIGHT>Wait, you don't mean...
+...that it's for me!?!?<PAGE>W-Wait a second, buster!
+This isn't the place. We
+need somewhere to talk NOW.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>What do you plan to do with
+that blue feather?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>All of a sudden you want to
+give me that?
+I don't think so...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_SHY><FP_RIGHT>I appreciate the thought,
+but I couldn't take another
+gift today.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>A present for me?<PAGE><FACE_POS_CENTER><FACE_REINA><FACE_HAPPY><FP_RIGHT>Thanks, <MYNAME>.
+That's...very nice of you.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>A present...for me?<PAGE><FACE_POS_CENTER><FACE_REINA><FACE_HAPPY><FP_RIGHT>Um...thank you.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>What are you doing with
+that?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>Hey, <RED>tofu salad</COLOR>!
+My favorite food!
+I can have this, correct?<PAGE><FACE_POS_CENTER><FACE_REINA><FACE_HAPPY><FP_RIGHT>Oh, that's right, today is
+my birthday. I'm glad you
+remembered!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_HAPPY><FP_RIGHT>Hey, <RED>tofu salad</COLOR>!
+My favorite food!
+I can have this, correct?<PAGE><FACE_POS_CENTER><FACE_REINA><FACE_HAPPY><FP_RIGHT>Thanks, <MYNAME>.
+This is really nice.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>How are you, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>How are you, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>What? A birthday present?
+Oh, that's right, today is
+my birthday.<PAGE><FACE_POS_CENTER><FACE_REINA><FACE_HAPPY><FP_RIGHT>This is a really nice gift.
+Thank you!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>What? A gift? You mean I can
+have this?<PAGE><FACE_POS_CENTER><FACE_REINA><FACE_HAPPY><FP_RIGHT>This is quite nice.
+Thank you.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>What? A birthday present?
+Oh, that's right, today is
+my birthday. So...thanks.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>What? A present?<PAGE><FACE_POS_CENTER><FACE_REINA><FACE_HAPPY><FP_RIGHT>I see... Thank you.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>What? A birthday present?
+Oh, that's right, today is
+my birthday.<PAGE><FACE_POS_CENTER><FACE_REINA><FACE_SHY><FP_RIGHT>But...but...this thing...
+It's... I don't... AARRGH!
+I'll take it, I guess.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>What? A present?<PAGE><FACE_POS_CENTER><FACE_REINA><FACE_SHY><FP_RIGHT>But...but...this thing...
+It's... I don't... AARRGH!
+I'll take it, I guess.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>What? A present? But it's
+slimy and gross and...
+<PAGE><FACE_POS_CENTER><FACE_REINA><FACE_SHY><FP_RIGHT>\u20d0Waaaaaahhhhh!?!?<PAGE>It's a blotch snakehead!
+Don't bring it any closer!
+You...you...dumb, stupid...<PAGE>...But you went to the
+trouble, so I'll take it...
+JUST THIS ONCE, BUSTER!!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>How are you, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>How are you, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>Is married life suiting you?<PAGE>Mayor Ina would be a good
+person to talk to if you
+ever face problems.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>I worry about the village's
+plants in this weather...<PAGE>It can't be very good for
+people, either. You should
+try to stay out of it.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>You can hardly see a thing
+in that blizzard. Glad I've
+got research to do indoors.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>I'm usually so awkward with
+people, but I'm always
+comfortable talking to you.<PAGE><FACE_POS_CENTER><FACE_REINA><FACE_HAPPY><FP_RIGHT>How can I say this...?
+I feel like I can be
+myself with you, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_SHY><FP_RIGHT>I tend to offend people
+without meaning to.
+<PAGE>I'm just...not very good at
+talking to people. I'm not
+trying to be mean.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>It takes a season or two
+before your trees will
+bear fruit.<PAGE>Of course, they'll only bear
+fruit in the right season.
+<PAGE>So you want to carefully
+plan when you plant your
+fruit trees.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>If you plant many different
+trees, you can harvest
+different fruits year round.<PAGE>And fruit trees don't need
+to be watered, which is
+quite convenient.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>Our orchards produce
+different kinds of fruit all
+through the year to harvest.<PAGE>Have you tried growing fruit
+trees yourself? Gombe sells
+the seeds for them.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>I came to this village
+because so many different
+plants grow here.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>I've got research to do.
+I don't have time to chat.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>How are you, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_SHY><FP_RIGHT>Right now, talking with you
+just makes me want to
+explode with anger.<PAGE>So what do you want to say
+to me, buster?
+----------------------------|----------------------------------
+<CHOICE_AB> I'm so sorry!
+ If that's how you feel...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>Umm, I see... Well, I guess
+since you apologized, I can
+forgive you.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_SAD><FP_RIGHT>You dumb...stupid...ARRRGH!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>How are you, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>Yesterday's weather was
+awful. I hope the plants
+are all right.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>How are you, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>How are you, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>How are you, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>How are you, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>A gift for Harmony Day?<PAGE><FACE_POS_CENTER><FACE_REINA><FACE_HAPPY><FP_RIGHT>You're such a thoughtful
+husband! Thanks!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_HAPPY><FP_RIGHT><RED>Tofu salad</COLOR>!?
+For me?<PAGE><FACE_POS_CENTER><FACE_REINA><FACE_SHOCK><FP_RIGHT>You remembered my favorite
+for my birthday!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT><RED>Tofu salad</COLOR>!
+<FACE_POS_CENTER><FACE_REINA><FACE_HAPPY><FP_RIGHT>You know me so well!
+Thanks.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>Umm, <MYNICKNAME>, can we go
+for a walk?
+
+----------------------------|----------------------------------
+<CHOICE_AB> Sure.
+ Not today.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>I see...
+No, no, that's fine.
+Some other time.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>How are you, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_SHY><FP_RIGHT>\u20d0WHAT IN THE WORLD!?
+I hate this!<PAGE>And this is supposed to be a
+BIRTHDAY PRESENT for me!?
+Ugh. But, um, thanks anyway.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_SHY><FP_RIGHT>Huh? \u20d0WHAT IN THE WORLD!?
+I hate this!<PAGE><FACE_POS_CENTER><FACE_REINA><FACE_SAD><FP_RIGHT>We're married now, remember?
+You should know by now what
+things I CAN'T STAND!!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>I have a life growing inside
+me! I can hardly believe it!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_HAPPY><FP_RIGHT>Do you think we should name
+our baby after a flower?
+That might be nice...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>Our baby will be born soon.
+Who do you think it'll look
+more like?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_SHOCK><FP_RIGHT>It's so nice to have you to
+wake up to in the morning!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>Since you're handling the
+farm, <MYNICKNAME>, I can continue
+with my research.<PAGE><FACE_POS_CENTER><FACE_REINA><FACE_SHOCK><FP_RIGHT>I really appreciate that.
+
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>I never thought I'd be
+married. I was always so
+focused on my research.<PAGE><FACE_POS_CENTER><FACE_REINA><FACE_HAPPY><FP_RIGHT>But somehow I met you,
+<MYNICKNAME>. I feel so lucky.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>You're always working so
+hard. Don't forget to look
+after your health.<PAGE>When you get tired, you need
+to rest.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>I do talk to plants now and
+then, but that doesn't mean
+I'm crazy!<PAGE>It's part of my research on
+the sensitivity of plants.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>Umm, <MYNICKNAME>?
+What do you think of my
+cooking?<PAGE><FACE_POS_CENTER><FACE_REINA><FACE_SHY><FP_RIGHT>I know it's not the best,
+but I'm trying.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>Because Konohana has a
+stable climate, many
+kinds of plants grow here.<PAGE>Even coffee beans and cacao.
+In winter there are oranges.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_SHY><FP_RIGHT>I feel like we don't
+communicate with each other
+anymore...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>Can you possibly be
+satisfied with our married
+life as it is these days?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_ANGRY><FP_RIGHT>Isn't there something you
+need to say to your wife,
+buster?
+----------------------------|----------------------------------
+<CHOICE_AB> I'm so, so sorry.
+ Nothing comes to mind.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_HAPPY><FP_RIGHT>Well, since you apologize,
+I guess I have to forgive
+you THIS time.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_ANGRY><FP_RIGHT>No...? I see... Hmph!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>What's that?
+Are you taking it to today's
+<VAR_0>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>How are you, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>How are you, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>Umm, yeah.
+So...do you like cats?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_HAPPY><FP_RIGHT>If it isn't a raccoon!!
+A cute little guy, too!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_SHY><FP_RIGHT>Waaaah!?
+It's a bird, A BIRD!!!
+Get it away from me!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>What do you think you're
+doing, nabbing wild animals?<PAGE>Put it back where you found
+it.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_HAPPY><FP_RIGHT>Ummm... That's not a
+bad outfit. It looks...
+nice on you.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>Umm, hey...
+Would you like to take a
+walk with me right now?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>Could we talk a little bit?
+Would that be okay?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>I'm going for a walk.
+Do you want to come, or not?
+----------------------------|----------------------------------
+<CHOICE_AB> Okay, let's do that.
+ I'll pass for today.
+----------------------------|----------------------------------
+<CHOICE_AB> Sure, let's talk.
+ Now's not a good time.
+----------------------------|----------------------------------
+<CHOICE_AB> Okay, I'll come along.
+ Not today.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>How are you, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>How are you, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>I see...
+Fine, then. Goodbye.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_SHOCK><FP_RIGHT>I...I understand. It wasn't
+anything important anyway.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>Umm...I see.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_HAPPY><FP_RIGHT>That's a pretty flower.
+Oh, is today Flower Day?
+That explains it. Thanks.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_HAPPY><FP_RIGHT>I study flowers all the
+time, but this is special
+since it comes from you.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>The Starry Night Festival is
+tomorrow, so...
+will you go with me, or not?
+----------------------------|----------------------------------
+<CHOICE_AB> Yes, I'll go with you.
+ Sorry, I have to pass.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_HAPPY><FP_RIGHT>Y-You will? You're sure?
+Thanks! I can't wait!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>You have to pass, you said?
+Fine, no need to apologize.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_HAPPY><FP_RIGHT>I can't wait for the Starry
+Night Festival!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_HAPPY><FP_RIGHT>It's nicely wrapped.
+I wonder what it contains...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>You're the only friend that
+I can be totally open with,
+<MYNAME>.<PAGE><FACE_POS_CENTER><FACE_REINA><FACE_HAPPY><FP_RIGHT>That's why I hope you'll
+always live in Konohana.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>How are you, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>Different plants grow on the
+other side of the mountain
+towards Bluebell.<PAGE>The ecosystem is quite
+different on that side.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>Sometimes I prefer the
+company of plants to people.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>Huh? What?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>I know you're in a rush,
+but don't be careless.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_HAPPY><FP_RIGHT>In springtime, the flowers
+are lovely, and into summer
+we see vivid greenery.<PAGE>It's a verdant season.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>It's hot in the summer, so
+I love the cool breezes on
+the mountain.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>Fall, when the leaves turn.
+I could spend hours just
+looking at autumn foliage.<PAGE>The reds, oranges, and
+yellows are so beautiful.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>During the winter, the
+ground gets icy, so be
+careful not to slip.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>Fieldwork is the most
+important part of my
+research.<PAGE>I go to study plants on the
+mountain whenever I can.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>Today I'm organizing all my
+samples for analysis.<PAGE>I go to the town hall for
+reference materials that
+I don't have at home.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>How are you, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>How are you, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>How are you, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>How are you, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>How are you, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>Konohana won the Cooking
+Festival this time.<PAGE>I guess you did a good job
+of cheering us on.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>Konohana lost the Cooking
+Festival this time.<PAGE>Maybe you should have done a
+better job of cheering.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>Today's Cooking Festival
+was a lot of fun.<PAGE>Next time I hope you'll
+represent Konohana.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>How are you, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>How are you, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>Too bad about today's
+Cooking Festival.
+Better luck next time!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>How are you, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>Too bad about today.
+Try harder next time.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_HAPPY><FP_RIGHT>The <VAR_0>
+is today.
+I hate crowds.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>You weren't in today's
+<VAR_0>,
+were you?<PAGE>Too bad. Join in next time.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>How are you, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>Too bad about today.
+Your <VAR_4>
+looked pretty good.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>How are you, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>How are you, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_REINA><FACE_NORMAL><FP_LEFT>Welcome home, <MYNICKNAME>.
+<PAGE>Today's your birthday, isn't
+that right?
+So I got this meal ready.<PAGE>Don't just stand there like
+you're taking root. Let's
+sit down and eat!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_SHY><FP_RIGHT>We don't want to let the
+food get cold.
+<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>I mean, assuming it's still
+hot. I can never get my
+cooking timing quite right.<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_ANGRY><FP_RIGHT>What? What's so funny?
+Wipe that look off your face
+and eat up, buster!<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_SHOCK><FP_RIGHT>And by the way, happy
+birthday, <MYNICKNAME>.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_REINA><FACE_NORMAL><FP_LEFT>Welcome home, <MYNICKNAME>.
+<PAGE>Today is my birthday AND
+yours, am I correct?<PAGE>So I got this meal ready.<PAGE>Don't just stand there like
+you're taking root. Let's
+sit down and eat!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_SHY><FP_RIGHT>We don't want to let the
+food get cold.
+<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>I mean, assuming it's still
+hot. I can never get my
+cooking timing quite right.<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_ANGRY><FP_RIGHT>What? Why are you laughing?
+Wipe that look off your face
+and eat up, buster!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_REINA><FACE_NORMAL><FP_LEFT>Welcome home, <MYNICKNAME>.
+<PAGE><FACE_POS_LEFT><FACE_REINA><FACE_HAPPY><FP_LEFT>Today is my birthday.
+I'm sure you didn't forget.
+<PAGE>Don't just stand there like
+you're taking root. Let's
+sit down and eat!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_SHY><FP_RIGHT><MYNICKNAME>, you're always so
+busy with your work.<PAGE>I'm glad you made it back
+home in time for this.
+<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_SHOCK><FP_RIGHT>I really wanted to celebrate
+this day together with you.<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_HAPPY><FP_RIGHT>Now hurry up and eat!
+The food will get cold.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_REINA><FACE_NORMAL><FP_LEFT>Welcome home, <MYNICKNAME>.
+<PAGE><FACE_POS_LEFT><FACE_REINA><FACE_HAPPY><FP_LEFT>Today is \u2337's
+birthday.<PAGE>I'm sure you remembered,
+didn't you?<PAGE>Don't just stand there like
+you're taking root. Let's
+sit down and eat!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_HAPPY><FP_RIGHT>Our child is sprouting up
+fast. We have to nurture
+our little seedling.<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_SHOCK><FP_RIGHT>Working together, both of
+us.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_REINA><FACE_NORMAL><FP_LEFT>Welcome home, <MYNICKNAME>.
+<PAGE><FACE_POS_LEFT><FACE_REINA><FACE_HAPPY><FP_LEFT>Today is \u2337's birthday,
+isn't that correct?
+So I got this meal ready.<PAGE>Don't just stand there like
+you're taking root. Let's
+sit down and eat!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_HAPPY><FP_RIGHT>No matter how we busy we
+are, \u2337 is always our
+top priority.<PAGE>Now let's not let the food
+get cold before we eat!
+Happy birthday, \u2337!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_REINA><FACE_NORMAL><FP_LEFT>Welcome home, <MYNICKNAME>.
+<PAGE><FACE_POS_LEFT><FACE_REINA><FACE_HAPPY><FP_LEFT>Today is...umm, our
+anniversary, correct?<PAGE>Don't just stand there like
+you're taking root. Let's
+sit down and eat!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>I don't know what the big
+deal is about an
+anniversary, but...<PAGE>I figured you would want to
+celebrate it.
+So I got this meal ready.<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_ANGRY><FP_RIGHT>What? Don't you stare at me!
+I'm not being sentimental
+about it at all!<PAGE>Oh, whatever!
+Hurry up and eat!
+Don't let the food get cold!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>How are you, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>How are you, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>How are you, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>How are you, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>How are you, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>How are you, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>How are you, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>Today is the
+<VAR_0>.
+Nothing you'd know about...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>How are you, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>How are you, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>How are you, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>How are you, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>How are you, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>How are you, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>How are you, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>How are you, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>How are you, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>How are you, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>How are you, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>How are you, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>How are you, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>How are you, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>How are you, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>How are you, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>How are you, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>How are you, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>How are you, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>Good morning, <MYNAME>.
+How are you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_SHY><FP_RIGHT>Huh...?\u270a\u270a
+Oh. Good morning.<PAGE>Sorry, I was thinking about
+my research.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>Good morning...
+How are you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>Going somewhere?
+
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>Hello...
+Ugh. I always feel sluggish
+at this time of day.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>Ah. Hello...
+Oh, sorry, I was
+thinking about something.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>Good evening.
+You're working late, I see.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>Ah...good evening.
+I always get sleepy when it
+gets dark.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>Aaugh! Don't sneak up on
+people like that! Now what
+was I thinking about...?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>Mako still can't seem to
+believe that I'm going to
+be married.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>Me married... That's still
+a hard concept to wrap my
+around...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>The wedding's coming up.
+After we're married, I'll
+continue my plant research.<PAGE><FACE_POS_CENTER><FACE_REINA><FACE_HAPPY><FP_RIGHT>And I'll do my part in our
+housekeeping!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>Fruit seeds are for sale at
+Gombe's Seed Store.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>Fruit seeds are for sale at
+Gombe's Seed Store.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>Fruit seeds are for sale at
+Gombe's Seed Store.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>This is a nice place.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>This is a nice place.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>This is a nice place.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>I'd rather be outside than
+indoors most of the time.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>The books at the town hall
+are handy for learning
+about plants.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>I have to help Mako out from
+time to time. I don't
+mind, though.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>Good morning. How's your
+work going?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_HAPPY><FP_RIGHT>Good morning, <MYNICKNAME>.
+I always feel so refreshed
+after a good night's sleep.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_HAPPY><FP_RIGHT>Good morning.
+Did you sleep well?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>How are you feeling, <MYNICKNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT><MYNICKNAME>... Huh? What?
+I was thinking about
+something.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>Hey, <MYNICKNAME>.
+The day's already half over.
+Is work going okay?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>Night already...
+Did you finish your work?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>It's late, isn't it?
+I can't get over how the
+days just fly by.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>Hey, <MYNICKNAME>.
+Wait, this is the first time
+we've talked today, correct?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_HAPPY><FP_RIGHT>Today's Cooking Festival was
+great!
+Your cooking was the best!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_HAPPY><FP_RIGHT>I'm glad you won today.
+Konohana's cooking really
+is the best!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_HAPPY><FP_RIGHT>Congratulations!
+Konohana won, thanks to
+your cooking.<PAGE>At least, I think that's why
+we won.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_HAPPY><FP_RIGHT>I hate crowds.<PAGE>But today's
+<VAR_0>
+was fun.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_HAPPY><FP_RIGHT>How's the festival for you?
+It's fun for everyone to get
+together now and then.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>I didn't get any work done
+today, so I'll have to work
+extra hard tomorrow.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>Congratulations! You won!
+Good for you, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>Congratulations, <MYNAME>.
+Your <VAR_4>
+was the best.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>How did you raise that
+<VAR_4>?<PAGE>I've never seen such a great
+<VAR_4> before!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_HAPPY><FP_RIGHT>The <VAR_0>
+today was fun.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_HAPPY><FP_RIGHT>It's fun for everyone to get
+together now and then.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>Looked like everybody had a
+good time today.
+You too, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>You won the
+<VAR_0>, huh?<FACE_POS_CENTER><FACE_REINA><FACE_HAPPY><FP_RIGHT>Congratulations.
+I'm glad.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_HAPPY><FP_RIGHT>Good job, but I'm amazed
+that you were able to win,
+frankly.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_HAPPY><FP_RIGHT>Congratulations on your win
+today. You performed well.<PAGE><FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>It was like all the adults
+turned back into kids...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_HAPPY><FP_RIGHT>Congratulations! You won!
+Your <VAR_2> was
+the best of all.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_HAPPY><FP_RIGHT>You won the
+<VAR_0>!!
+Congratulations, <MYNAME>!<PAGE>You really know how to farm!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>The <VAR_2> from
+<MYFARMNAME> Farm was fantastic!

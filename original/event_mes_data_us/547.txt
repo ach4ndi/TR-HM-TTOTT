@@ -1,0 +1,729 @@
+<FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL><FP_RIGHT>Spring's so nice and warm.
+<PAGE>It makes me sleepy.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL><FP_RIGHT>It's been so pleasant
+lately.<PAGE>It makes it easier to work
+outside, doesn't it?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL><FP_RIGHT>It's finally time for the
+flowers to bloom.<PAGE>The village cherry trees
+are so pretty when they're
+in bloom.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>The weather's been so
+nice lately.<PAGE>I love working on the farm
+in the spring!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL><FP_RIGHT>It's so muggy out today.<PAGE>The animals seem like
+they're really hot too.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL><FP_RIGHT>It's been so muggy lately.<PAGE><FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT><FP_RIGHT>We have a lot of work to
+do, but we'll get it done!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_SHY><FP_RIGHT>It's been so hot lately.<PAGE><FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL><FP_RIGHT>I hate to cook anything when
+it's this hot. I just make
+sandwiches.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL><FP_RIGHT>It's another hot one.<PAGE>Make sure you don't
+get dehydrated!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL><FP_RIGHT>Fall's finally here.<PAGE><FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>The animals like the weather
+in fall too.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL><FP_RIGHT>I love the colors of fall
+foliage.<PAGE><FACE_POS_RIGHT><FACE_ASH><FACE_SHY><FP_RIGHT>It's hard work raking up
+all the leaves, though.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL><FP_RIGHT>Fall's really here.<PAGE><FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>It's so nice and cool
+this evening!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL><FP_RIGHT>It really feels like fall
+now. The air is so nice and
+crisp.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL><FP_RIGHT>It's getting cold out.<PAGE>Tonight will be another
+chilly one, so try not to
+catch a cold!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL><FP_RIGHT>Today's another cold one.<PAGE><FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>I have to get moving
+so I can get warm!
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL><FP_RIGHT>How's work going?<PAGE><FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>It's cold out now.
+Try and stay warm!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL><FP_RIGHT>It's cold these days.<PAGE><FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>When it's cold out,
+you just have to keep
+moving to stay warm!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL><FP_RIGHT>Great weather today!<PAGE><FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>Sunny days fill me with
+energy.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL><FP_RIGHT>Great weather today!<PAGE><FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>It's a nice day to take a
+walk.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>Great weather today!<PAGE>It's so refreshing out!
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>Great weather today!<PAGE>It's a great day to try
+something new!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL><FP_RIGHT>It's really raining.
+Watch out so you don't
+slip.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_SHY><FP_RIGHT>Don't let your animals
+out in the rain.<PAGE>It's bad for their health.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_SHY><FP_RIGHT>It's really raining.
+My laundry will never dry
+in this weather...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL><FP_RIGHT>It's really raining.<PAGE>I hope it's nice out
+tomorrow.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL><FP_RIGHT>Snow makes me remember
+the village-wide snowball
+fight we had years ago.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL><FP_RIGHT>It's another cold one.<PAGE><FACE_POS_RIGHT><FACE_ASH><FACE_SHY><FP_RIGHT>I'm worried that the barn
+will get too cold.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL><FP_RIGHT>Snow makes me want to
+have a snowball fight.<PAGE><FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>Not to brag, but I'm the
+undefeated snowball fighting
+champion!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>Snow makes me want
+to go snowboarding.
+<PAGE>I love that rush of speed!
+
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ASH><FACE_SAD><FP_LEFT>I don't really like it here.<PAGE>I don't have many good
+memories of this place.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ASH><FACE_SAD><FP_LEFT>A long time ago...<PAGE>My sister slipped and
+hurt herself here...<PAGE>So I don't really like this
+place...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>I had fun today.
+Let's talk again soon!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL><FP_RIGHT>Thanks for today!
+I'll see you around!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ASH><FACE_SAD><FP_LEFT>I'm gonna go home today.
+Sorry...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>I had so much fun today.
+We should talk like this
+more often...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_SHOCK><FP_RIGHT><MYNAME>...<PAGE>I have something important
+to talk to you about...<PAGE>Will you come with me?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>I'm so happy right now.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>I'm so happy right now.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>I'm so happy right now.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>I'm so happy right now.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>I'm so happy right now.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>I'm so happy right now.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>I'm so happy right now.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>I'm so happy right now.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>I'm so happy right now.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>I'm so happy right now.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>I'm so happy right now.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>I'm so happy right now.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>I'm so happy right now.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>I'm so happy right now.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>I'm so happy right now.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL><FP_RIGHT>I love animals.<PAGE>If you treat them with
+kindness and care, they'll
+return your love.<PAGE><FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>You need more animals.
+They really become a
+part of your family!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL><FP_RIGHT>I love animals.<PAGE>If you treat them with
+kindness and care, they'll
+return your love.<PAGE>Speaking of which, you
+have a lot of animals now!<PAGE><FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>I'm sure it's hard to take
+care of them all, but
+it's really worth it!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL><FP_RIGHT>I love animals.<PAGE>If you treat them with
+kindness and care, they'll
+return your love.<PAGE><FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>But you sure have a lot
+of animals on your farm!<PAGE>You must be amazing
+with them!<PAGE>I'm not bad myself, though!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL><FP_RIGHT>So I heard you were
+collecting bugs...<PAGE>...<PAGE>Looks like you've got
+a ways to go...<PAGE><FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>You can catch different
+kinds of bugs depending on
+the place and the season.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL><FP_RIGHT>So I heard you were
+collecting bugs...<PAGE>...<PAGE>You've got a pretty good
+collection.<PAGE><FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>I bet you can find
+even more kinds if you
+keep looking.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL><FP_RIGHT>So I heard you were
+collecting bugs...<PAGE>...<PAGE><FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>You really have a lot!
+<PAGE>Wow! I bet there you've
+caught every bug there is!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL><FP_RIGHT>So I heard you keep a
+record of every fish
+you've caught...<PAGE>...<PAGE>Looks like you've got
+a ways to go...<PAGE><FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>You can catch different
+kinds of fish depending on
+the place and the season.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL><FP_RIGHT>So I heard you keep a
+record of every fish
+you've caught...<PAGE>...<PAGE><FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>You've really caught
+a lot!<PAGE>I bet you can find even
+more kinds of fish if you
+keep looking.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL><FP_RIGHT>So I heard you keep a
+record of every fish
+you've caught...<PAGE>...<PAGE><FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>You've caught so many!
+I bet you've caught
+every fish there is!<PAGE>Amazing! You're a
+great fisher!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL><FP_RIGHT>So I heard you're always
+thinking up new recipes...
+<PAGE>Just how many recipes have
+you thought up?
+<PAGE><FACE_POS_RIGHT><FACE_ASH><FACE_SHY><FP_RIGHT>Oh...looks like you have a
+ways to go.<PAGE><FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>I bet if you cook a lot,
+you'll get a lot of ideas
+for new recipes...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL><FP_RIGHT>So I heard you're always
+thinking up new recipes...
+<PAGE>Just how many recipes have
+you thought up?
+<PAGE>Oh, you thought up a lot!
+<PAGE><FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>I bet if you cook with
+different ingredients you'll
+get a lot more new ideas.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL><FP_RIGHT>So I heard you're always
+thinking up new recipes...
+<PAGE>Just how many recipes have
+you thought up?
+<PAGE><FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>Wow, you thought up
+so many! That's amazing!<PAGE>Next time, you should
+teach me some of those!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>I'm so happy right now.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>I'm so happy right now.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>I'm so happy right now.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>I'm so happy right now.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>I'm so happy right now.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>I'm so happy right now.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>I'm so happy right now.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>I'm so happy right now.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>I'm so happy right now.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>I'm so happy right now.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>I'm so happy right now.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>I'm so happy right now.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>I'm so happy right now.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>I'm so happy right now.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>I'm so happy right now.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>I'm so happy right now.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>I'm so happy right now.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>I'm so happy right now.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>I'm so happy right now.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>I'm so happy right now.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>I'm so happy right now.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>I'm so happy right now.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>I'm so happy right now.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>I'm so happy right now.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>I'm so happy right now.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>I'm so happy right now.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>I'm so happy right now.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>I'm so happy right now.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>I'm so happy right now.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>I'm so happy right now.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>I'm so happy right now.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>I'm so happy right now.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>I'm so happy right now.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>I'm so happy right now.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>I'm so happy right now.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>I'm so happy right now.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>I'm so happy right now.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>I'm so happy right now.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL><FP_RIGHT>Lately, I've been helping
+Rose with her garden.<PAGE><FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>I'm always happy to help
+people out!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_SHY><FP_RIGHT>It's hard to tell which
+mushrooms are edible and
+which aren't.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL><FP_RIGHT>Grady is a really nice
+guy. You can always
+count on him.<PAGE><FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>And he'll answer any
+questions about your horse
+or your pet.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL><FP_RIGHT>Do you know much about
+how animals grow?<PAGE>Horses and sheep will be
+fully grown in twenty days.<PAGE><FACE_POS_RIGHT><FACE_ASH><FACE_SHY><FP_RIGHT>But they won't grow unless
+you feed them every day.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL><FP_RIGHT>The Animal Festival is my
+favorite festival.<PAGE><FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>Because it's all about
+the animals!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL><FP_RIGHT>I was helping Rose do some
+gardening earlier.<PAGE><FACE_POS_RIGHT><FACE_ASH><FACE_SHY><FP_RIGHT>I know a lot about animals,
+but I don't understand
+plants at all!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_SHY><FP_RIGHT>It'd hard to tell which
+mushrooms are edible and
+which aren't.<PAGE><FACE_POS_RIGHT><FACE_ASH><FACE_SAD><FP_RIGHT>If you don't know if
+a mushroom is edible,
+you shouldn't eat it.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL><FP_RIGHT>Grady and Georgia have such
+a good relationship.<PAGE><FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>I always hear them laughing
+when I pass by their house.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL><FP_RIGHT>You start to know what an
+animal is thinking after you
+take care of it for a while.<PAGE><FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>I love that. It's a special
+connection between animal
+and owner.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL><FP_RIGHT>Do you like festivals,
+<MYNAME>?<PAGE>My favorite festival of
+the year is the Animal
+Festival.<PAGE><FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>Then I get to show off
+the animals I raised so
+lovingly.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL><FP_RIGHT>I watered Rose's plants
+the other day. Plants
+do grow fast, don't they?<PAGE><FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>It's incredible to see how
+much they can change in just
+a week.<PAGE>I can't wait for them to be
+fully grown!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL><FP_RIGHT>You can find a lot of stuff
+in the mountains. But it's
+not always good.<PAGE><FACE_POS_RIGHT><FACE_ASH><FACE_SHY><FP_RIGHT>This one time I found a
+mushroom I thought was a
+shiitake...<PAGE><FACE_POS_RIGHT><FACE_ASH><FACE_SAD><FP_RIGHT>But it turned out to be
+poisonous. That...didn't
+go well.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL><FP_RIGHT>Grady gives me advice about
+a lot more than animals...
+<PAGE><FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>If you ever have a
+problem, you should ask
+Grady for advice.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL><FP_RIGHT>There are so many animals
+you can raise...<PAGE><FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>Try raising as many kinds
+of animals as you can. Each
+is a little different.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>You enter different animals
+in the Animal Festival
+depending on the season.<PAGE>Make sure to take care of
+all your animals so they'll
+be ready to compete!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL><FP_RIGHT>Raising crops is kind of
+fun, isn't it?<PAGE><FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>You get to enjoy different
+crops in different seasons.<PAGE>I'm kind of interested in
+farming now!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_SHY><FP_RIGHT>Once, in the mountains,
+I ate a poisonous mushroom
+thinking it was a shiitake.<PAGE><FACE_POS_RIGHT><FACE_ASH><FACE_SAD><FP_RIGHT>I had to stay in bed for
+three days.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL><FP_RIGHT>Grady is really great with
+animals.<PAGE>All his horses are so sweet
+and calm.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL><FP_RIGHT>Have you been giving
+treats to your animals?<PAGE><FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>If you give them treats,
+they'll grow really
+attached to you.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL><FP_RIGHT>My favorite festival has got
+to be the Animal Festival!
+<PAGE><FACE_POS_RIGHT><FACE_ASH><FACE_SHY><FP_RIGHT>But I never know which 
+animal to enter. They're all
+the best to me!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL><FP_RIGHT>Rose gave me some yams the
+other day.<PAGE><FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>I was really happy because
+I love yams!
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_SHY><FP_RIGHT>So I mistook that poison
+mushroom for a shiitake...<PAGE>And now I get a little
+queasy every time I eat
+shiitakes.<PAGE><FACE_POS_RIGHT><FACE_ASH><FACE_SAD><FP_RIGHT>It's hard to get over strong
+memories like that, isn't
+it?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL><FP_RIGHT>Grady's usually so easygoing
+and optimistic.<PAGE>But he's really serious
+when it comes to protecting
+his family.<PAGE><FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>I hope I can protect my
+family the way Grady does.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_SHY><FP_RIGHT>I know it's sad, but
+no animal will be around
+forever...<PAGE><FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>That's why I want to take
+good care of them while I
+have them. 
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL><FP_RIGHT>Winning the Animal Festival
+is such a good feeling.<PAGE><FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>It's great when the animal
+I've given so much love to
+wins. 
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL><FP_RIGHT>Do you know much about
+how animals grow?<PAGE>Chickens grow up faster than
+cows and sheep.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL><FP_RIGHT>Do you eat a lot of rice
+candy, <MYNAME>?<PAGE><FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>I love how stretchy it is!
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL><FP_RIGHT><FP_RIGHT>The mayor's wife, Rose, is
+so nice. She's always
+smiling.<PAGE><FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT><FP_RIGHT>Talking to her really warms
+my heart.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT><FP_RIGHT>I love raising animals.<PAGE>I always feel so calm when
+I'm around them.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL><FP_RIGHT><FP_RIGHT><MYNAME>, are you
+a good cook?<PAGE><FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>Cooking can be kind of fun!
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL><FP_RIGHT><FP_RIGHT>Do you know how long it
+takes a chicken to grow?<PAGE>It takes a chicken 8 days
+to be fully grown.<PAGE><FACE_POS_RIGHT><FACE_ASH><FACE_SHY><FP_RIGHT>But they won't grow if you
+don't feed them every day.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL><FP_RIGHT><FP_RIGHT><MYNAME>, what's
+your least favorite food?<PAGE><FACE_POS_RIGHT><FACE_ASH><FACE_SHY><FP_RIGHT>Everyone has one or two...
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL><FP_RIGHT>Have you ever talked to the
+Mayor's wife Rose?<PAGE><FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>She's such a warm person.
+She's always smiling.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL><FP_RIGHT>Do you know what an alpaca
+is, <MYNAME>?<PAGE>You don't see them very
+often. They're very rare.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL><FP_RIGHT>When my mom's busy, I do
+the cooking.<PAGE><FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>It's kind of fun!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL><FP_RIGHT><FP_RIGHT>Chickens are really easy to
+raise.<PAGE><FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>I'd recommend them
+for beginners.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_SHY><FP_RIGHT>When you eat something
+thinking it's something you
+like and it's not...<PAGE><FACE_POS_RIGHT><FACE_ASH><FACE_SAD><FP_RIGHT>It's really disappointing.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL><FP_RIGHT>The mayor's wife, Rose, is
+so nice. She's always
+smiling.<PAGE>They say when she was young,
+she was the prettiest girl
+in the village.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL><FP_RIGHT>Do you know what an alpaca
+is, <MYNAME>?<PAGE>They can be very timid,
+but...<PAGE><FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>Once you make friends with
+them, they're really sweet
+and affectionate. 
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL><FP_RIGHT>Cooking's a lot easier<PAGE>than you'd think!<PAGE>You just wash and cut the
+ingredients, dump them in
+a pot or something...<PAGE><FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>And then you just wait
+until it's done cooking!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL><FP_RIGHT>Diego really likes animals!
+<PAGE><FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>He rushed out into a typhoon
+to save one of his chickens
+that got caught in it.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>The stretchy texture of
+rice candy is so fun!<PAGE>I don't eat it that often,
+so it's always a nice
+surprise.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL><FP_RIGHT>They say when she was young,
+Rose was the prettiest girl
+in the village...<PAGE><FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>Rutger must have felt like
+the luckiest guy in the
+world!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL><FP_RIGHT>Do you know what an alpaca
+is? It's an animal that has
+wool like a sheep.<PAGE><FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>The wool that you get from
+them is really valuable.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL><FP_RIGHT>Recipes can come out
+differently depending on the
+cook.<PAGE>But food made with love
+always tastes good.<PAGE><FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>Don't you think so,
+<MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL><FP_RIGHT>If you treat your animals
+with love, they'll give
+you better-quality products.<PAGE><FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>And if you give them treats,
+you can get something
+special from them.<PAGE>You see, animals always
+respond to love.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL><FP_RIGHT>The other day, I thought
+there was rice candy in my
+fruit, but it was shiratama.<PAGE><FACE_POS_RIGHT><FACE_ASH><FACE_SHY><FP_RIGHT>They're both the same color,
+but shiratama doesn't
+stretch like rice candy.<PAGE><FACE_POS_RIGHT><FACE_ASH><FACE_SAD><FP_RIGHT>It was good, but I would
+have like rice candy
+better...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL><FP_RIGHT>The other day I saw Rose
+yelling at Rutger about
+something.<PAGE><FACE_POS_RIGHT><FACE_ASH><FACE_SHY><FP_RIGHT>Rutger looked so scared
+of her! I wonder what
+happened.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL><FP_RIGHT>When alpacas are happy they
+run and jump all around.
+<PAGE><FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>It's almost like they're
+dancing! It's really cute.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>Everyone's cooking is a
+little different.<PAGE>I want to cook for you
+sometime, <MYNAME>!
+<PAGE>Prepare to be impressed!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL><FP_RIGHT>Do you like catching bugs?<PAGE><FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>I love catching bugs. I
+used to go bug catching
+almost every day.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL><FP_RIGHT>Cam and I have been friends
+forever.<PAGE>As kids, we used to play
+together every single day.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL><FP_RIGHT>I really love taking care of
+animals.<PAGE><FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>I take a lot of pride in my
+work because it's what
+I love doing.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL><FP_RIGHT>Kids have so much energy.
+<PAGE><FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>When I was a kid, I ran
+around the village like a
+madman!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL><FP_RIGHT>You're always so interesting
+to talk to, <MYNAME>.<PAGE><FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>Every time we chat, I feel
+like I learn something new
+about you.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_SHY><FP_RIGHT>We have a bunch of festivals
+every year.<PAGE>So why doesn't our village
+have a Critter Contest?
+<PAGE><FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>That would be so much fun!
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL><FP_RIGHT>Cam knows everything there
+is to know about flowers.<PAGE><FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>He's really good at making
+bouquets and perfumes. So if
+you need either, ask him!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL><FP_RIGHT>You need to have enough food
+and medicine ready for your
+animals.<PAGE><FACE_POS_RIGHT><FACE_ASH><FACE_SHY><FP_RIGHT>You never know when you
+might need them.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL><FP_RIGHT>Once my little sister asked
+me to catch a white morpho
+for her.<PAGE><FACE_POS_RIGHT><FACE_ASH><FACE_SHY><FP_RIGHT>I spent 2 or 3 days
+wandering in the mountains
+looking for one...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL><FP_RIGHT>You know, <MYNAME>...<PAGE><FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>You're a really good person.<PAGE>Talking to you makes me
+feel all warm and fuzzy.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL><FP_RIGHT>Cam and I used to go into
+the mountains to catch bugs.<PAGE><FACE_POS_RIGHT><FACE_ASH><FACE_SAD><FP_RIGHT>One time I got so into it,
+I didn't realize Cam had
+gone home without me!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL><FP_RIGHT>Cam has to go all over to
+get flowers for his shop,
+so he has the best stories.<PAGE><FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>The other day he told me
+about going to all the
+famous hot springs.<PAGE>It'd be great to kick back
+at a nice hot spring...
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL><FP_RIGHT>Sometimes my sister comes
+to play while I'm looking
+after the animals.<PAGE><FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>I guess she gets bored
+playing on her own. 
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL><FP_RIGHT>Once my little sister asked
+me to find a panda
+for her.<PAGE><FACE_POS_RIGHT><FACE_ASH><FACE_SHY><FP_RIGHT>It took me forever to find
+one.
+<PAGE><FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>But I was so happy when I
+finally found it!
+It was even eating bamboo!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL><FP_RIGHT>You're such...<PAGE><FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>A sweet person.<PAGE>You're so kind and
+thoughtful.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL><FP_RIGHT>Have you ever gone exploring
+in the mountains?<PAGE><FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>Sometimes you can find
+great things in the cracks
+of rocks or on tree stumps.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL><FP_RIGHT>One time we had a
+village-wide pot luck.<PAGE><FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>Food tastes way better
+when you're eating it with
+such great company!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL><FP_RIGHT>Did you know that you can
+find many wild animals in
+the mountains?<PAGE>They're wary of humans
+at first, but...<PAGE><FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>If you keep trying, I'm
+sure they'll get used to
+you.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL><FP_RIGHT>The whole river freezes
+over in winter.<PAGE>If you want to fish, you 
+have to break the ice first.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL><FP_RIGHT><MYNAME>...<PAGE><FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>You're such a nice person.<PAGE>I know why everyone cares
+about you the way they do.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL><FP_RIGHT>Cam and I used to go into
+the mountains to catch
+bugs a lot.<PAGE>Cam always let me have the
+rhinoceros beetles we found.
+<PAGE><FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>He's always been a really
+generous guy.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL><FP_RIGHT>Cam can be kind of
+unapproachable, but
+he's a really funny guy.<PAGE><FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>We've been best friends
+since we were little.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL><FP_RIGHT>My mom, my sister, my
+animals... They're all part
+of my family.<PAGE><FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>I never mind working hard
+for my family.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL><FP_RIGHT>A long time ago, I ate these
+mud pies my sister made.<PAGE><FACE_POS_RIGHT><FACE_ASH><FACE_SAD><FP_RIGHT>She was so earnest about it,
+I couldn't refuse her.
+<PAGE>But you know, I don't
+remember what happened after
+I ate them...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>I always have fun talking
+to you.<PAGE>You always cheer me up.
+Thank you.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>It feels like we met just
+yesterday.<PAGE>Every day we spend together
+is still packed with fun new
+surprises.<PAGE><FACE_POS_RIGHT><FACE_ASH><FACE_SHOCK><FP_RIGHT>I'm so glad I met you,
+<MYNICKNAME>...<PAGE>I love you.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL><FP_RIGHT>Thank you for always
+thinking of me, <MYNICKNAME>.<PAGE>Just being around you makes
+me happy.<PAGE><FACE_POS_RIGHT><FACE_ASH><FACE_SHOCK><FP_RIGHT>I can't imagine being
+married to anyone else.<PAGE>I love you, <MYNICKNAME>.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL><FP_RIGHT>You're the most important
+thing in the world to me,
+<MYNICKNAME>.<PAGE><FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>I know you have a lot of
+work, but remember to take
+a rest from time to time.<PAGE>The thing that makes me 
+happiest is for you to be
+healthy and happy.

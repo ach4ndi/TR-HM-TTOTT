@@ -1,0 +1,87 @@
+<FACE_POS_LEFT><HIDE_NAME><FACE_RUTGER><FACE_NORMAL><FP_LEFT><HIDE_FACE>Good morning, <MYNAME>.
+May I come in?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>The day of the Cooking
+Festival is finally here!<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>This is your first time
+entering, right?<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>I came to bring you the
+ingredients you'll need to
+make today's theme: salad!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>The day of the Cooking
+Festival is finally here!<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>This is your first time
+entering one with a
+soup theme, right?<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>I came to bring you the
+ingredients you'll need to
+make your soup!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>The day of the Cooking
+Festival is finally here!<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>This is your first time
+entering one with a
+main dish theme, right?<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>I came to bring you the
+ingredients you'll need to
+make your main dish!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>The day of the Cooking
+Festival is finally here!<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>This is your first time
+entering one with a
+dessert theme, right?<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>I came to bring you the
+ingredients you'll need to
+make your dessert!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Oh? Your bag is too full
+for me to give you the
+ingredients...<PAGE>Could you make space for
+<RED>2 items</COLOR>?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Could you make space for
+<RED>2 items</COLOR>?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>OK, now let me give you
+those ingredients!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Here you go! <RED>Tomato</COLOR> and <RED>oil</COLOR>.
+With these two ingredients,
+you can make <RED>caprese salad</COLOR>!<PAGE>You can make it by <RED>selecting
+the ingredients</COLOR>, and then
+cooking them!<PAGE>I want you to enter today's
+Cooking Festival with your
+caprese salad!<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>I'm counting on you!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Here you go! <RED>Chamomile</COLOR> and
+<RED>onion</COLOR>!<PAGE>If you put the chamomile and
+onion in your <RED>pot</COLOR>,
+you can make <RED>herb soup</COLOR>!<PAGE>You can make it by <RED>selecting
+the ingredients</COLOR>, and then
+cooking them!<PAGE>I want you to enter
+today's Cooking Festival
+with your herb soup!<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>I'm counting on you!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Here you go! <RED>Flour</COLOR> and <RED>oil</COLOR>!<PAGE>If you put the flour and oil
+in your <RED>pot</COLOR>, you can make
+<RED>spaghetti</COLOR>!<PAGE>You can make it by <RED>selecting
+the ingredients</COLOR>, and then
+cooking them!<PAGE>I want you to enter
+today's Cooking Festival
+with your spaghetti!<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>I'm counting on you!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Here you go! <RED>Milk</COLOR> and an
+<RED>egg</COLOR>!<PAGE>If you put the milk and egg
+in your <RED>pot</COLOR>, you can make
+<RED>pudding</COLOR>!<PAGE>You can make it by <RED>selecting
+the ingredients</COLOR>, and then
+cooking them!<PAGE>I want you to enter
+today's Cooking Festival
+with your pudding!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>You're a pretty good cook
+now, <MYNAME>!<PAGE>So I won't be bringing you
+ingredients for the Cooking
+Festival anymore.<PAGE>You'll have to get the
+ingredients from your
+farm from now on!<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>But don't worry! I know you
+can do it! I'm counting on
+you!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Now don't get so flustered!
+Put the item you're holding
+down, or put it away.

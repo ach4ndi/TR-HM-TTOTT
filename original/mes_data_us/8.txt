@@ -1,0 +1,1334 @@
+<CHOICE_ABC> Save and go to bed.
+ Go to bed without saving.
+ Don't go to bed yet.
+----------------------------|----------------------------------
+\u232eDraw on the sign? 
+<CHOICE_AB> Yes
+ No
+
+----------------------------|----------------------------------
+Drawing mode!
+Press the B Button to exit.
+Press SELECT to erase.
+----------------------------|----------------------------------
+<CHOICE_ABC> Animal Stats
+ How to raise animals.
+ Quit
+
+----------------------------|----------------------------------
+Use the <RED>watering can</COLOR> 
+here to fill it up.
+----------------------------|----------------------------------
+\u232e<RED><VAR_1></COLOR> hours, <RED><VAR_2></COLOR> minutes until
+<GREEN><VAR_0></COLOR> is ready.
+
+----------------------------|----------------------------------
+\u232ePut flowers in the vase?
+<CHOICE_AB> Yes
+ No
+
+----------------------------|----------------------------------
+\u232eView your assets?
+<CHOICE_AB> Yes
+ No
+
+----------------------------|----------------------------------
+\u232eExamine storage? 
+<CHOICE_AB> Yes
+ No
+
+----------------------------|----------------------------------
+\u232eView calendar?
+<CHOICE_AB> Yes
+ No
+
+----------------------------|----------------------------------
+\u232eOpen your stand?
+<CHOICE_AB> Yes
+ No
+
+----------------------------|----------------------------------
+
+----------------------------|----------------------------------
+\u232eTake a bath?
+<CHOICE_AB> Yes
+ No
+
+----------------------------|----------------------------------
+\u232eUse the restroom?
+<CHOICE_AB> Yes
+ No
+
+----------------------------|----------------------------------
+<CHOICE_ABC> Cook from recipe.
+ Cook without recipe.
+ Quit.
+
+----------------------------|----------------------------------
+I think I could fish here
+if I had a fishing rod.
+----------------------------|----------------------------------
+\u232eWould you like to fish?
+<CHOICE_AB> Yes
+ No
+
+----------------------------|----------------------------------
+This doesn't seem to be
+a good fishing spot.
+----------------------------|----------------------------------
+It got away...
+----------------------------|----------------------------------
+\u2070Somewhere in the
+universe far, far away.</COLOR>
+----------------------------|----------------------------------
+Face color test. 
+
+----------------------------|----------------------------------
+Make an item? 
+<CHOICE_AB> Yes
+ No
+
+----------------------------|----------------------------------
+<CHOICE_AB> Install Wonderful.
+ Quit
+----------------------------|----------------------------------
+<CHOICE_ABC> Install Wonderful.
+ Remove Wonderful.
+ Quit
+----------------------------|----------------------------------
+Take completed item?
+<CHOICE_AB> Yes
+ No
+
+----------------------------|----------------------------------
+Boarding Course
+Currently Closed
+----------------------------|----------------------------------
+Today was fun. 
+It's late. 
+I should get to bed. <PAGE><CHOICE_AB> Save and go to bed. 
+ Go to bed without saving.
+
+----------------------------|----------------------------------
+Currently <RED><VAR_0></COLOR>.<PAGE>Replace with different sun?
+<CHOICE_AB> Yes
+ No
+
+----------------------------|----------------------------------
+Raul's Shop
+Open 7:00 AM - 11:00 PM
+Closed Fridays, Bazaar Days\u2390
+----------------------------|----------------------------------
+\u232fZephyr Caf
+Open 10:00 AM - 11:00 PM
+Closed Thurs., Bazaar Days\u2390
+----------------------------|----------------------------------
+\u232fHotel
+Open 6:00 AM - 11:00 PM
+Open every day!\u2390
+----------------------------|----------------------------------
+\u232e Open the sluice gate?
+<CHOICE_AB> Yes
+ No
+----------------------------|----------------------------------
+\u232eCall your owl?
+<CHOICE_AB> Yes
+ No
+----------------------------|----------------------------------
+\u232e<CHOICE_ABC> Go to Bluebell Village.
+ Go to Konohana Village.
+ Quit
+----------------------------|----------------------------------
+Use the guest book?<PAGE><CHOICE_ABC> Stay here and save.
+ Stay here without saving.
+ Don't stay here.
+----------------------------|----------------------------------
+\u232e Enter the hot springs?
+<CHOICE_AB> Yes
+ No
+----------------------------|----------------------------------
+\u232e Check your carts?
+<CHOICE_AB> Yes
+ No
+----------------------------|----------------------------------
+This is your farm's <RED>sign</COLOR>.
+You can write or draw
+anything you want on it.<PAGE>You can show the sign to
+your friends in Multiplayer
+Mode.<PAGE>\u232eDraw on the sign?
+<CHOICE_AB> Yes
+ No
+
+----------------------------|----------------------------------
+You can view details on
+<RED>animals and pets</COLOR>
+you own on this board.<PAGE>Be sure to check often to
+see if your animals have
+eaten, or are stressed out.<PAGE><CHOICE_ABC> Examine animals.
+ How to raise animals.
+ Quit.
+
+----------------------------|----------------------------------
+This is a <RED>vase</COLOR>. You can
+fill it with any flowers
+you have.<PAGE>However, the flowers will
+wilt after a few days, so
+you'll need to replace them.<PAGE>\u232ePut flowers in the vase?
+<CHOICE_AB> Yes
+ No
+
+----------------------------|----------------------------------
+Check your <RED>assets</COLOR> here.
+<PAGE>You can see how your farm is
+doing and how you did in
+yearly events.<PAGE>There's a lot of useful
+information in it, so be
+sure to look at it often.<PAGE>\u232eView your assets?
+<CHOICE_AB> Yes
+ No
+
+----------------------------|----------------------------------
+This is the <RED>calendar</COLOR>.
+Each year is made up of 
+four seasons.<PAGE>Use it to find out when
+there are festivals or
+when someone's birthday is.<PAGE>\u232eView the calendar? 
+<CHOICE_AB> Yes
+ No
+
+----------------------------|----------------------------------
+This is the <RED>bath</COLOR>. If you
+take a bath, you'll recover
+some of your Stamina.<PAGE>However, some time will pass
+while you are in the bath.<PAGE>\u232eTake a bath? 
+<CHOICE_AB> Yes
+ No
+
+----------------------------|----------------------------------
+This is the <RED>restroom</COLOR>. If you
+use it, you'll recover some
+of your Stamina.<PAGE>However, some time will pass
+while you are inside.<PAGE>\u232eUse the restroom?
+<CHOICE_AB> Yes
+ No
+
+----------------------------|----------------------------------
+This is the <RED>kitchen</COLOR>. Use it
+when you want to cook.<PAGE><RED>Cook without recipe</COLOR> allows
+you to freely choose what
+ingredients to cook with.<PAGE>However, it might not turn
+out well if the mix is bad.<PAGE><RED>Cook from recipe</COLOR>
+automatically picks the
+ingredients for you.<PAGE>When a dish is a success,
+you can <RED>write down the
+recipe.</COLOR><PAGE>However, you can customize
+by adding more ingredients
+to the original recipe.<PAGE>If the customization is
+successful, you can revise
+the recipe.<PAGE>After you cook a few times,
+you can get an inspiration
+for a new recipe.<PAGE><CHOICE_ABC> Cook from recipe.
+ Cook without recipe.
+ Quit.
+
+----------------------------|----------------------------------
+This is the <RED>radio</COLOR>.<PAGE>It will give you the
+weather report for
+today and tomorrow.<PAGE>Listen to the radio?
+<CHOICE_AB> Yes
+ No
+----------------------------|----------------------------------
+This is your <RED>storage</COLOR>.
+You can keep all kinds
+of items in here.<PAGE>When you put an item into
+storage, it stays fresh
+longer.<PAGE>Examine storage? 
+<CHOICE_AB> Yes
+ No
+
+----------------------------|----------------------------------
+This is your <RED>food dish</COLOR>.
+This is where the food for
+your cat or dog goes.
+----------------------------|----------------------------------
+Use this <RED>beehive</COLOR>
+to make honey.<PAGE>Examine the beehive while
+holding honeycomb to put
+it in the beehive.<PAGE>The bees will be happy if
+you give them <RED>perfume</COLOR>.
+----------------------------|----------------------------------
+This is the <RED>pond</COLOR> for fish.<PAGE>Examine the pond while
+holding a fish to
+put the fish into the pond.<PAGE>You can only put fish of 1
+kind in at a time, but you
+can put in 10 fish at once.<PAGE>Make the fish happy by
+feeding them <RED>fish food</COLOR>.
+----------------------------|----------------------------------
+This is the <RED>fermenter</COLOR>.<PAGE>Use it to make cheese and
+other dairy products.
+<PAGE>You can also use it to make
+<RED>chocolate from cocoa</COLOR>.
+----------------------------|----------------------------------
+This is the <RED>yarn maker</COLOR>.<PAGE>Use it to make <RED>wool</COLOR>
+from sheep and other
+animals into <RED>yarn</COLOR>.
+----------------------------|----------------------------------
+This is the <RED>drink maker</COLOR>.<PAGE>Use it to make beer, wine,
+and tea.<PAGE>You can also make
+<RED>coffee packs</COLOR> from
+<RED>coffee beans</COLOR>.
+----------------------------|----------------------------------
+This is the <RED>seed maker</COLOR>.<PAGE>It allows you to extract
+2 seeds from 1 plant.
+
+----------------------------|----------------------------------
+This is the <RED>miller</COLOR>.<PAGE>It grinds items to powder.
+
+----------------------------|----------------------------------
+This is the <RED>pickling pot</COLOR>.<PAGE>Use it to pickle things.
+
+----------------------------|----------------------------------
+This is <RED>pet playpen</COLOR>.<PAGE>Put your pet in here and
+it will like you more.
+----------------------------|----------------------------------
+This is the <RED>rice paddy</COLOR>.<PAGE>This is where you grow rice.
+
+----------------------------|----------------------------------
+This is the <RED>sluice gate</COLOR>.<PAGE>You can open it in spring
+to water your rice paddy.<PAGE>Once you water your rice
+paddy, you can plant
+rice plants.<PAGE>\u232eOpen the sluice gate?
+<CHOICE_AB> Yes
+ No
+
+----------------------------|----------------------------------
+Check cart stats here.
+<PAGE>Check carts?
+<CHOICE_AB> Yes
+ No
+----------------------------|----------------------------------
+\u232eIf you have an owl, you
+can call it from here.<PAGE>Call the owl?
+<CHOICE_AB> Yes
+ No
+----------------------------|----------------------------------
+This is the <RED>guest book</COLOR>.<PAGE>Use the guest book if you
+want to stay the night in
+the Town Hall.<PAGE>Use the guest book?<PAGE><CHOICE_ABC> Stay the night and save.
+ Stay here without saving.
+ Don't stay the night.
+----------------------------|----------------------------------
+This is the <RED>hot spring</COLOR>.
+If you go in, you'll recover
+some of your Stamina.<PAGE>However, some time will pass
+while you are in the spring.<PAGE>\u232eGo in the hot spring?
+<CHOICE_AB> Yes
+ No
+----------------------------|----------------------------------
+This is where you check your
+cart stats. You can also
+<RED>switch carts</COLOR> here.<PAGE>However, you cannot switch
+carts if your current cart
+has more things in it than<PAGE>will fit in the cart you
+want to switch to.<PAGE>Check your cart?
+<CHOICE_AB> Yes
+ No 
+----------------------------|----------------------------------
+\u232f<BLUE>Diego's General Store</COLOR>
+Open 8:00 AM - 8:00 PM
+Closed Saturdays, Festivals
+----------------------------|----------------------------------
+\u232f<BLUE>Howard's Caf</COLOR>
+Open 10:00 AM - 10:00 PM
+Closed Thursdays, Festivals
+----------------------------|----------------------------------
+\u232f<BLUE>Grady's Animals</COLOR>
+Open 10:00 AM - 5:00 PM
+Closed Mon, Thrs, Festivals
+
+----------------------------|----------------------------------
+\u232f<BLUE>Jessica's Livestock</COLOR>
+Open 10:00 AM - 5:00 PM
+Closed Wednesdays, Festivals
+----------------------------|----------------------------------
+\u232f<BLUE>Cam's Flowers</COLOR>
+Open 10:00 AM - 5:00 PM
+Closed Mon, Thrs, Fri
+----------------------------|----------------------------------
+\u232f<BLUE>Eileen's Carpentry</COLOR>
+Stop by for all your
+carpentry needs!
+----------------------------|----------------------------------
+\u232f<BLUE>Bluebell Town Hall</COLOR>
+Open 7:00 AM - 5:00 PM
+Closed Mondays, Festivals
+----------------------------|----------------------------------
+\u232f<BLUE>Bluebell Shipping Bin</COLOR>
+Put any items you want to
+ship in here.
+----------------------------|----------------------------------
+\u232f↑ Bluebell Village
+
+   → Mountain Path
+----------------------------|----------------------------------
+\u232fI've never seen writing
+like this before...
+----------------------------|----------------------------------
+\u232f<BLUE>Raul's Shop</COLOR>
+Open 8:00 AM to 8:00 PM
+Closed Sundays, Festivals
+----------------------------|----------------------------------
+\u232f<BLUE>Yun's Tea House</COLOR>
+Open 10:00 AM to 10:00 PM
+Closed Tuesdays, Festivals
+----------------------------|----------------------------------
+\u232f<BLUE> Kana's Animals</COLOR>
+Open 10:00 AM - 5:00 PM
+Closed Fri, Sat, Festivals
+----------------------------|----------------------------------
+\u232f<BLUE>Gombe's Seeds</COLOR>
+Open 10:00 AM - 5:00 PM
+Closed Mon, Tues, Festivals
+----------------------------|----------------------------------
+\u232f<BLUE> Konohana Clinic</COLOR>
+Stop by if you're feeling
+sick or under the weather.
+----------------------------|----------------------------------
+\u232f<BLUE>Mako's Orchard</COLOR>
+Bring all your questions
+about fruit trees to me!
+----------------------------|----------------------------------
+\u232f<BLUE> Sheng's Smithy</COLOR>
+For all your smithing needs!
+
+----------------------------|----------------------------------
+\u232f<BLUE>Konohana Town Hall</COLOR>
+Open 7:00 AM - 5:00 PM
+Closed Thursday, Festivals
+----------------------------|----------------------------------
+\u232f<BLUE>Konohana Shipping Bin</COLOR>
+Put any items you want to
+ship in here.
+----------------------------|----------------------------------
+\u232fThere's nothing on here...
+----------------------------|----------------------------------
+\u232f← Mountain Path
+
+  ↓ Konohana Village
+----------------------------|----------------------------------
+\u232f<BLUE>Cam's Flowers</COLOR>
+Married life keeps me busy,
+but I'll be in by noon.<PAGE>Closed Mondays, Thursday,
+Fridays and Festivals
+----------------------------|----------------------------------
+\u232fOpen 4:00 PM - 10:00 PM
+Closed Tuesdays, Thursdays,
+Sundays, Festivals
+----------------------------|----------------------------------
+\u232fBe in around noon!
+Closed Tuesdays, Thursdays,
+Sundays, Festivals
+----------------------------|----------------------------------
+\u232f<BLUE> Kana's Animals</COLOR>
+Married life keeps me busy,
+but I'll be in by noon!<PAGE>Closed Fridays, Saturdays,
+and Festivals
+----------------------------|----------------------------------
+\u232fLet me know if you need
+anything delivered!
+　　　　　　　- Dirk
+----------------------------|----------------------------------
+\u232fCome by <MYFARMNAME> Farm
+if you need anything
+delivered!   - Dirk
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>Dum-Da-Da-DAA!<PAGE>This Multiplayer Farm
+belongs to <BLUE><MYNAME></COLOR>
+of <BLUE><MYFARMNAME></COLOR> Farm!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>Dum-Da-Da-DAA!
+Did you see the drawing
+board yet?<PAGE>Let's take a look at
+the drawing on it!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>Dum-Da-Da-DAA!
+Are you having fun with
+Multiplayer Mode?<PAGE><FACE_POS_CENTER><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>I'd be really happy if you
+filled the field here with
+sweet red berries...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>Dum-Da-Da-DAA!
+Leaving so soon?<PAGE>When you want to leave,
+examine the stone path at
+the bottom of the map.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>Dum-Da-Da-DAA!
+How's your Multiplayer Field
+doing?<PAGE>It must be nice to be able
+to harvest crops from
+a different season.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>Dum-Da-Da-DAA!
+How's Multiplayer Mode?<PAGE>The more you play with other
+people, the easier it will
+be to get presents for me!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>Dum-Da-Da-DAA!
+Well, I hope you enjoy
+Multiplayer Mode!<PAGE><FACE_POS_CENTER><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Good luck!
+----------------------------|----------------------------------
+This letter was sent to
+Town Hall...<PAGE>...?<PAGE>It looks like there's some
+kind of drawing on it...
+----------------------------|----------------------------------
+This letter was sent to
+Town Hall...
+----------------------------|----------------------------------
+This book is called
+"How to Care for Animals."<PAGE>Read this book?
+<CHOICE_AB> Yes
+ No
+----------------------------|----------------------------------
+<CHOICE_ABC> Read about farm animals.
+ Read about pets.
+ Don't read it.
+----------------------------|----------------------------------
+<RED>Feed</COLOR> and <RED>brush</COLOR> your animals
+every day.
+<PAGE>If you let your animals out
+into the outside yard, they
+will eat by themselves.<PAGE>But on rainy days, animals
+will get stressed if you
+let them out.<PAGE>So on rainy days, feed your
+animals by putting fodder
+in the feed box.<PAGE>If you have fodder in
+storage, you can get it out
+of the dispenser.</COLOR><PAGE>Also, cows and sheep will
+get dirty if you don't
+brush them <RED>every day.<PAGE>If you let your animals stay
+dirty, they can <RED>get sick</COLOR>.<PAGE>So make sure to brush them
+once a day.<PAGE>If you take good care of
+them every day...<PAGE>you'll be able to get milk,
+wool, and eggs from your
+fully grown animals.<PAGE>Milking and brushing take
+Stamina, so pay close
+attention to it.<PAGE>If you use up all your
+Stamina, you'll pass out and
+wake up the next day.<PAGE>Of course, farming takes
+a lot of Stamina!<PAGE>When you're taking care of
+a big farm, you can
+never have enough Stamina...<PAGE>The best thing to do to
+is to eat lots of delicious
+food to restore Stamina.<PAGE>The amount of Stamina you
+gain depends on the food
+you eat.<PAGE>Food made with a large
+variety of good quality
+ingredients gives you more.<PAGE>So try cooking different
+dishes to find which dishes
+give you the most Stamina!
+----------------------------|----------------------------------
+Greetings, ladies and
+gentlemen. I'm Felicia,
+world-famous cat fancier.<PAGE>My beloved cat Isis and I
+have taken up the pen to
+share with you all<PAGE>just how to care for your
+own beloved felines.
+<PAGE>Of course I'll cover
+dogs as well...<PAGE>Hee hee. So first off,
+what's the most important<PAGE>thing when it comes to
+caring for cats and dogs?<PAGE>Physical contact. You need
+to hold your pet at least
+once every day.<PAGE>It's very simple to do.
+All you need to do is pick
+your pet up.<PAGE>You can also play with your
+pet using toys.<PAGE>Just buy a <RED>cat bell</COLOR> for
+your cat and a <RED>dog bone</COLOR> for
+your dog.<PAGE>Throw the toy near your pet,
+and they'll play happily
+with it.<PAGE>Your pets love to play, so
+you should play with them
+as often as you're able to.<PAGE>There are also pet playpens
+that you can build for your
+pets to play in.<PAGE>Build a strong bond with
+your pet, and you'll have a
+friend for life.<PAGE>Of course Isis doesn't, but
+some pets will help you out
+on the farm.<PAGE>You can learn about those
+pets in the book in the
+<RED>animal barn</COLOR>.<PAGE>Now, I've never had one
+myself, but...
+<PAGE>I've heard that some people
+keep owls as pets.<PAGE>Just don't forget that no
+matter what kind of pet you
+have, physical contact is<PAGE>the most important way to
+show them you care.<PAGE>Now, about feeding your pet.
+<PAGE>I won't say much, but just
+remember to feed your pet
+once every single day.<PAGE>And that's all I can tell
+you about caring for
+your pets.<PAGE>All I want is for people
+to love their pets with all
+their hearts. Good bye!
+----------------------------|----------------------------------
+This book is called "The
+Wonders of the Mountains."<PAGE>Read this book?
+<CHOICE_AB> Yes
+ No
+----------------------------|----------------------------------
+<CHOICE_ABC> Catching fish and bugs
+ Foraging
+ Don't read it
+----------------------------|----------------------------------
+Do you know about all the
+wonders of the mountains?
+Well then, let me tell you!<PAGE>In the mountains, you can
+catch all different types of
+bugs and fish.<PAGE>You can also forage for
+plants and other items!<PAGE>To pick up a bug, get close
+and press the <RED>A Button</COLOR>.<PAGE>You'll also need to jump to
+catch some bugs. It can be
+tricky!<PAGE>Some bugs are very sensitive
+to noise, so you have to<PAGE><RED>walk slowly</COLOR> when you
+approach them.<PAGE>Now let me tell you how to
+catch fish. There are 2 ways
+to catch fish.<PAGE>You can hand fish by
+approaching a fish in a<PAGE>shallow river and pressing
+the <RED>A Button</COLOR> to grab it.<PAGE>If you're the patient type,
+you might prefer fishing
+with your rod off a dock.<PAGE>Wait patiently, and once you
+feel a fish bite, press the
+<RED>A Button</COLOR> as fast as you can.<PAGE>However, some fish can only
+be caught by hand fishing,
+and some only with a rod.<PAGE>If you want to try and catch
+every kind of fish out
+there, master both!
+----------------------------|----------------------------------
+You can also forage for
+all sorts of things on
+the mountain.<PAGE>Just look around, and you
+can find valuable plants and
+other interesting things.<PAGE>And now I'm going to let you
+in on a little secret!<PAGE>I found beautiful flowers
+and ore in the <RED>crevices
+of the mountain</COLOR>!<PAGE>The mountain sure is full
+of surprises!<PAGE>I've also found a weird
+looking building, too...<PAGE>Anyway, there's just so much
+to see on the mountain! Go
+and explore it!
+----------------------------|----------------------------------
+This book is called "All
+About Requests."<PAGE>Read this book?
+<CHOICE_AB> Yes
+ No
+----------------------------|----------------------------------
+<CHOICE_ABC> The basics of requests
+ Levels and rankings
+ Don't read it.
+----------------------------|----------------------------------
+To fulfill a request, first
+examine the <RED>message board</COLOR>.<PAGE>Both Bluebell and Konohana
+have a message board.<PAGE>The boards are posted with
+<RED>requests</COLOR> for help or favors
+by members of that village.<PAGE>Chose the request you want
+to fulfill, and give the
+requested item to the<PAGE>requester within
+the posted <RED>timeframe</COLOR>.<PAGE>When you give the requester
+their requested item, you<PAGE>can <RED>give them items from
+your cart</COLOR> if it's nearby.<PAGE>Not all requests are for
+items. Some people request
+help with various jobs...<PAGE>And pay attention, because
+sometimes people post<PAGE>requests to be fulfilled for
+other people.<PAGE>Even if you are unable to
+fulfill a request before the<PAGE>deadline, there is no
+penalty for failed requests.<PAGE>So try to take on requests
+even if you're not confident
+that you will succeed. <PAGE>If you succeed in fulfilling
+a request, you'll get
+a fantastic <RED>reward</COLOR>!<PAGE>However, if your bag is full
+when you get your reward...<PAGE>You'll have to get rid of
+items in your bag to
+accept the reward.<PAGE>Make sure to make some <RED>room
+in your bag</COLOR> before you
+fulfill a request.<PAGE>Or bring along a cart with
+plenty of room left.
+
+----------------------------|----------------------------------
+If you've fulfilled a lot of
+requests, you will go to
+the next <RED>request level</COLOR>.<PAGE>When your request level goes
+up...<PAGE>You'll be able to take on
+higher-ranking requests.
+<PAGE>The <RED>rank</COLOR> shows just
+how difficult a request is.
+<PAGE>There are 5 different ranks:
+D, C, B, A, and S.
+<PAGE>Basically, the higher rank
+a request is, the harder
+it will be to fulfill.<PAGE>And the more difficult
+the request.<PAGE>High-ranked requests
+give you the chance to
+earn rare items...<PAGE>So try and fulfill a lot of
+requests so you can attempt
+the high-ranked requests.<PAGE>As your request level goes
+up, so does the number of
+requests you can take on.<PAGE>In the beginning, you can
+only take on 10 requests at
+a time.<PAGE>But when you get to a higher
+rank, you can take on more
+requests at a time.<PAGE>However, once you accept a
+request, you can't
+cancel it.<PAGE>So be careful not to take on
+so many requests that you
+can't accept any more.
+----------------------------|----------------------------------
+This book is called
+"Me and Honey."<PAGE>Read this book?
+<CHOICE_AB> Yes
+ No
+----------------------------|----------------------------------
+Ah, honey...what a wonderful
+word that is!<PAGE>I've long been obsessed with
+it, and I finally built my
+own beehives recently!<PAGE>I wasted no time in putting
+in some honeycomb I found
+in the mountains.<PAGE>After that, all you can do
+is wait, and that's not
+very interesting, is it?<PAGE>Bees love <RED>perfume</COLOR>, so I
+decided to put some into
+the hive every singe day.<PAGE>And would you believe it?
+The honey I got was
+so <RED>high quality</COLOR>!<PAGE>I was also shocked at the
+special honey I got after<PAGE>planting <RED>flowers</COLOR> and fruit
+trees near my hives.<PAGE>After that, I made honey
+every single day.
+<PAGE>Until one day when it snowed
+and all my bees disappeared!
+<PAGE>That's right!
+Winter had arrived!<PAGE>And you can't make honey
+in winter...
+It's sad but true...<PAGE>As I wait for spring, I'll
+spend my time thinking of
+new ideas for better honey.
+----------------------------|----------------------------------
+This book is called "All
+About Multiplayer Mode."<PAGE>Read this book?
+<CHOICE_AB> Yes
+ No
+----------------------------|----------------------------------
+<CHOICE_ABC> What you can do
+ How to raise crops
+ Don't read this
+----------------------------|----------------------------------
+In Multiplayer Mode, you
+can invite friends to your
+<RED>Multiplayer Field</COLOR>.<PAGE>Then they can pick the crops
+that you grew.<PAGE>You can also go to your
+friends' fields and harvest
+crops they grew there.<PAGE>To begin Multiplayer Mode,
+select <RED>Multiplayer Mode</COLOR>
+from the <RED>Main Menu</COLOR>.<PAGE>There are two ways to use
+Multiplayer Mode.<PAGE>To play with <RED>nearby friends</COLOR>,
+select <RED>Local Wireless</COLOR>.
+<PAGE>To play with <RED>faraway
+friends</COLOR>, select
+<RED>Nintendo WFC</COLOR>.<PAGE>You'll need to have your
+friends' <RED>friend codes</COLOR>
+to play with them.<PAGE>You'll get a friend code the
+first time you connect to
+Nintendo WFC with this game.<PAGE>You can manually enter your
+friends' friend codes in
+your <RED>friend roster</COLOR>...<PAGE>Or, when you play with
+friends locally, their
+friend codes will<PAGE>automatically be added to
+your friend roster.<PAGE>But if you already have
+30 friends on your
+friend roster,<PAGE>new friend codes will not
+automatically be registered
+on your friend roster.
+----------------------------|----------------------------------
+To host at your field,
+you must have crops to
+harvest.<PAGE>Enter your Multiplayer Field
+by jumping into the spring
+at the top of the mountain.<PAGE>Once you're there, use a
+<RED>sun</COLOR> to set it to
+the season you want.<PAGE>Then just till the field
+and plant and water your
+crops, and they will grow.<PAGE>But remember, you can't sow
+<RED>wheat</COLOR>, <RED>buckwheat</COLOR>, <RED>soybeans</COLOR>,
+or use <RED>fertilizer</COLOR>.<PAGE>Once your crops are ready to
+harvest, invite a friend to
+harvest your crops!
+----------------------------|----------------------------------
+This book is called
+"How to Grow Crops."<PAGE>Read this book?
+<CHOICE_AB> Yes
+ No
+----------------------------|----------------------------------
+<CHOICE_ABC> How to grow crops.
+ All about fertilizer.
+ Don't read it.
+----------------------------|----------------------------------
+The basics of crop growing
+are <RED>clearing grass</COLOR>, <RED>tilling</COLOR>,
+<RED>sowing seeds</COLOR>, and <RED>watering</COLOR>.<PAGE>Use a <RED>sickle</COLOR> to clear out
+any grass, then a <RED>hoe</COLOR> to
+till the land.<PAGE>When you've tilled the land,
+sow your <RED>seeds</COLOR>.<PAGE>Each type of seed can only
+be sown during a certain
+season.<PAGE>Crops won't grow if it's
+the wrong season.<PAGE>Once you've sown your seeds,
+use a <RED>watering can</COLOR> to water
+them.<PAGE>Your crops will grow as long
+as you water them carefully
+every single day.<PAGE>They'll grow better if you
+water them twice a day.<PAGE>To do that, water them early
+in the morning, then again
+later in the day.<PAGE>However, caring for your
+crops uses Stamina...<PAGE>So make sure to keep an eye
+on your Stamina Bar.<PAGE>If you use all your Stamina,
+you'll pass out and wake up
+the next day.<PAGE>Of course, farming takes
+a lot of stamina!<PAGE>When you're taking care of
+your crops, you can
+never have enough Stamina...<PAGE>The best thing to do to
+is to eat lots of delicious
+food to restore Stamina.<PAGE>The amount of Stamina you
+gain depends on the food
+you eat.<PAGE>Food made with a large
+variety of good quality
+ingredients gives you more.<PAGE>So try cooking different
+dishes to find which dishes
+give you the most Stamina!
+----------------------------|----------------------------------
+If you want to raise the
+quality of crops, use
+<RED>fertilizer</COLOR> before you sow.<PAGE>To use fertilizer, just
+equip it like you would
+any other item.<PAGE>When you use the fertilizer,
+the area around you will
+be fertilized.<PAGE>Let me try to make a
+diagram for you despite
+my poor drawing skills:<PAGE>\u232f■■■
+■❤■
+■■■\u232c<PAGE>The ❤ is fertilizer, and
+■ is the area that gets
+fertilized.<PAGE>The more fertilizer you use,
+the more effective it is.<PAGE>If you put fertilizer on
+both sides of a spot,<PAGE>the crops in that trench
+will get the fertilizer
+from both sides. Like this:<PAGE>\u232f■★■■
+❤★❤■
+■★■■\u232c<PAGE>★ is a trench getting the
+effects of two fertilizers.
+<PAGE>If you grow crops that way,
+The ★ crops will be higher
+quality than the ■ crops.<PAGE>So if you want to raise the
+quality of your crops, plant
+lots of fertilizer by them.<PAGE>If you plant fertilizer in
+a field with irrigation<PAGE>trenches, the entire field
+will get fertilized.<PAGE>You should try it.
+----------------------------|----------------------------------
+This book is called
+"My Amazing Fish Pond."<PAGE>Read this book?
+<CHOICE_AB> Yes
+ No
+----------------------------|----------------------------------
+Ah, "fish." What a lovely
+word that is!<PAGE>I'm obsessed with fishing.
+Not content with just pole
+fishing or hand fishing...<PAGE>I finally added my own pond
+to fish out of!<PAGE>I wasted no time in putting
+in the fish I'd brought.<PAGE>I didn't want to put any
+weak fish in my pond, so I<PAGE>made sure to put in fish
+that were <RED>very fresh</COLOR>.<PAGE>After I put the fish in,
+they multiplied day by day.
+I didn't need to feed them.<PAGE>But it's not very
+interesting to just sit
+around and wait, is it?<PAGE>So I kept on feeding the
+fish in my pond <RED>fish food</COLOR>
+every single day.<PAGE>And suddenly, the fish in
+my pond became really
+<RED>high-quality fish</COLOR>!<PAGE>I guess good fish food
+does a fish good!<PAGE>Well, I've got to go add
+more fish to my pond!
+
+----------------------------|----------------------------------
+This book is called "The
+Shadows in the Mountain."<PAGE>Read this book?
+<CHOICE_AB> Yes
+ No
+----------------------------|----------------------------------
+That night, I left the house
+after a fight with my
+parents.<PAGE>I decided to clear my head
+with a late-night walk
+through the woods.<PAGE>Suddenly, I heard a sound
+like a door opening...
+<PAGE>　　　*Creeeeeak*...
+　　　　\u20d0*Slam!*<PAGE>Startled, I turned towards
+the direction of the sound.<PAGE>"Something" was undulating
+through the trees towards
+me...<PAGE>It scared me so much, I
+broke into a run.<PAGE>I could hear something
+slithering after me.<PAGE>And in an ear-splitting
+shriek like I'd never heard
+before, a voice said:<PAGE>　　Help\u270a\u270a me!\u270b<PAGE>At least, that's what it
+sounded like to me...<PAGE>But I was so scared, I
+couldn't turn around.
+<PAGE>I ran straight home, and
+clung to my parents,
+sobbing in terror.<PAGE>Later, I heard a strange
+tale...<PAGE>"Someone" had supposedly
+been living in that forest
+for untold years...<PAGE>...And anyone who happens to
+lay eyes on that "someone"
+will...<PAGE>The rest of the page is
+covered by a coffee stain.
+You can't read it...
+----------------------------|----------------------------------
+This book is called
+"Perfumes and Flowers."<PAGE>Read this book?
+<CHOICE_AB> Yes
+ No
+----------------------------|----------------------------------
+<CHOICE_ABC> How to make a bouquet.
+ How to make perfume.
+ Don't read this.
+----------------------------|----------------------------------
+Hello, everyone!
+This is Marietta, the
+queen of flowers!<PAGE>So you want to know the
+the basics of flower
+arranging?<PAGE>Just leave it to me!
+Putting together a lovely
+flower bouquet is simple!<PAGE>First, pay attention to the
+<RED>color</COLOR> of your flowers!<PAGE>Are the flowers you have
+red? White? Or even blue?
+<PAGE>Beginners often think its
+best to mix all the colors
+together...<PAGE>But sometimes, it's nice to
+make a bouquet of different
+flowers of the <RED>same color</COLOR>.<PAGE>For example, a bouquet of
+only red and pink flowers
+looks just adorable.<PAGE>A bouquet of all white
+flowers looks very pure.
+<PAGE>And a bouquet of blue
+flowers... Well, why don't
+you see for yourself?<PAGE>Once you've mastered single-
+color bouquets, try throwing
+more colors in!<PAGE>Did this advice help you?
+Maybe if you work hard, you
+can be the next Marietta!
+----------------------------|----------------------------------
+Hello, everyone!
+This is Marietta, the
+queen of flowers!<PAGE>So you want to know the
+the basics of perfume
+making?<PAGE>Just leave it to me!
+Making a lovely perfume
+is simple!<PAGE>First, pay attention to
+<RED>what season</COLOR> your flowers
+are from!<PAGE>Do your flowers bloom in
+spring? Summer?
+Or even fall or winter?<PAGE>If you mix together flowers
+from the <RED>same season</COLOR>, you
+get a nice seasonal perfume.
+<PAGE>Of course you can also mix
+the same type of flowers.
+For example...<PAGE>Red and pink roses are
+different colors, but they
+are both roses.<PAGE>Therefore, they have the
+same scent!<PAGE>Did this advice help you?
+Maybe if you work hard, you
+can be the next Marietta!
+----------------------------|----------------------------------
+This book is labeled
+"Howard's Secret Diary."<PAGE>Read this book?
+<CHOICE_AB> Yes
+ No
+----------------------------|----------------------------------
+<CHOICE_ABC> About my beloved girl.
+ About her friends.
+ Don't read it.
+----------------------------|----------------------------------
+Spring, Sunny.<PAGE>I decided to write down
+what my daughter does so I
+can understand her better.<PAGE>I hate to be so secretive,
+but it's a father's job to
+know his daughter!<PAGE>Hmm, from what I can tell,
+on <RED>Mondays and Thursdays</COLOR>
+from <RED>noon to evening</COLOR>,<PAGE>and on <RED>Wednesday evenings</COLOR>
+after she's done at the<PAGE>caf, she looks for someone
+to hang out with.<PAGE>If it's a good friend, she
+invites them to hang out.
+<PAGE>I'm so glad she's grown up
+to be such a social girl!<PAGE>But she still eats far
+too many sweet things...
+<PAGE>That hasn't changed since
+she was younger...
+<PAGE>It's a wonder she doesn't
+gain any weight... She must
+take after her mother...<PAGE>Heh heh.
+That's good!<RED>❤</COLOR><PAGE>It doesn't look like I have
+anything to worry about.
+I think I'll stop here now.<PAGE>Now, times to go home and
+make dinner!<RED>❤</COLOR>
+----------------------------|----------------------------------
+Fall, Sunny.
+Grady and I talked about
+our daughters for 3 hours.<PAGE>He told me to keep notes
+like this, but I'm not sure
+it this is necessary...<PAGE>Anyway, she seems to look
+for someone to hang out with<PAGE>on Monday, Wednesday and
+Sunday afternoons,
+and evenings.<PAGE>It must her way of taking a
+little break.<PAGE>Come to think of it, I do
+often see her chatting with
+people around then...<PAGE>She also seems to like a
+lot of foods made with milk
+and eggs...<PAGE>Heh heh. She's really
+become a true child of
+Bluebell!<PAGE>I remember when we first
+moved here, she told me
+she didn't like milk!<PAGE>She likes the milk and eggs
+here because they're so
+fresh!<PAGE>Well, I wrote this all down,
+but I'm not sure what good
+it will do me...
+----------------------------|----------------------------------
+<CHOICE_ABC> About Cam.
+ About Ash.
+ Don't read it.
+----------------------------|----------------------------------
+Spring, Rainy.<PAGE>He's come back from the
+trip he took to learn about
+flower arranging.<PAGE>I can't believe he's grown
+so much in only a year!<PAGE>But he's just as sweet
+as always...<RED>❤</COLOR><PAGE>For his welcome home party,
+I made all sorts of the
+spicy foods he likes...<PAGE>And he was so pleased!
+<PAGE>Spring, Sunny.
+He never goes out except
+to study or work.<PAGE>Even after he gets home,
+he never takes a break, 
+just studies or works.<PAGE>So I told him he had to
+choose a day to take a
+break...<PAGE>He promised me that he
+would take <RED>Thursday and
+Friday afternoons</COLOR> off.<PAGE>And that he would take some 
+time to relax on <RED>Tuesday
+nights</COLOR>...<PAGE>Hopefully this will keep
+him from getting too
+wrapped up in things...<PAGE>I'm the closest thing he
+has to a father, so I have
+to watch out for him.<RED>❤</COLOR>
+----------------------------|----------------------------------
+Winter, Snowy.
+The snow from yesterday's
+blizzard really piled up.<PAGE>When I went outside to
+start shoveling, I saw him
+and his little sister.<PAGE>Unnoticed by her brother,
+she was putting bugs on all
+the girls who got near him.<PAGE>On one hand, it's sweet to 
+see how the two of them are
+always together...<PAGE>But on the other hand, I
+feel a little bad for him.<PAGE>He can't get a girlfriend
+with his little sister
+tagging along all the time.<PAGE>I'll have to keep an eye
+out. If there's a girl who
+wants to be with him,<PAGE>and can put up with his kid
+sister all the time...<PAGE>I'll just have to play
+matchmaker!<PAGE>He seems to be free on the
+<RED>afternoons</COLOR> on <RED>Tuesday,
+Wednesday, and Saturday.</COLOR><PAGE>He's a farmer, so I think
+he'd appreciate a present
+of some animal products.<PAGE>I really hope he'll find
+someone special...
+
+----------------------------|----------------------------------
+This book is called "Ayame's
+Guide to Romance."<PAGE>Read this book?
+<CHOICE_AB> Yes
+ No
+----------------------------|----------------------------------
+<CHOICE_ABC> About Nori
+ About Reina
+ Don't read
+----------------------------|----------------------------------
+So you found my notebook.
+You're in luck!<PAGE>This book will tell you
+how to get closer to a
+very special lady.<PAGE>So?
+You want to know about
+Nori?<PAGE>Did you fall for her
+elegance and maturity?
+<PAGE>If you want to take her out,
+you should talk to her
+in the afternoons or<PAGE>evenings on Mondays,
+Wednesdays, or Fridays.<PAGE>If you become friendly,
+I'm sure she’ll ask you to
+hang out with her.<PAGE>She also loves dishes made
+with rice.<PAGE>Giving her a rice dish as
+a present might be a good
+way to become friendly.<PAGE>And that's about all I
+can tell you...<PAGE>The rest is up to you!
+Good luck!
+----------------------------|----------------------------------
+So you found my notebook.
+You're in luck!<PAGE>This book will tell you
+how to get closer to a
+very special lady.<PAGE>So?
+You want to know more about
+Reina?<PAGE>Did you fall for the gap
+between her cool personality
+and occasional ditziness?<PAGE>If you want to take her out,
+you should talk to her<PAGE>in the <RED>afternoons or
+evenings on Mondays,
+Saturdays, or Sundays</COLOR>.<PAGE>If you become friendly,
+I'm sure she’ll ask you to
+hang out with her on break.<PAGE>She likes a lot of soups
+and salads.
+<PAGE>Giving her a one as
+a present might be a good
+way to become friendly.<PAGE>And that's about all I
+can tell you...<PAGE>The rest is up to you!
+Good luck!
+----------------------------|----------------------------------
+<CHOICE_ABC> About Kana
+ About Hiro
+ Don't read it
+----------------------------|----------------------------------
+So you found my notebook.
+You're in luck!<PAGE>This book will tell you
+how to get closer to a
+very special gentleman.<PAGE>So?
+You want to know about
+Kana?<PAGE>So you must have fallen
+for his reliability, and
+his passion for horses...<PAGE>If you want to go out with
+him, try talking to him in
+the <RED>afternoon or evening</COLOR> on<PAGE>Fridays or Saturdays, or on
+<RED>Tuesday nights</COLOR>
+when he's done with work.<PAGE>He loves going out, so I'm
+sure he'll ask you to hang
+out if you become friends.<PAGE>He likes fish dishes.
+<PAGE>Giving him a one as
+a present might be a good
+way to become friendly.<PAGE>And that's about all I
+can tell you...<PAGE>The rest is up to you!
+Good luck!
+----------------------------|----------------------------------
+So you found my notebook.
+You're in luck!<PAGE>This book will tell you
+how to get closer to a
+very special gentleman.<PAGE>So?
+You want to know about
+Hiro, my apprentice?<PAGE>So you must like sweet boys.
+He does bring out those
+protective instincts...<PAGE>In my case, it makes me
+want to tease him
+mercilessly!<RED>❤</COLOR><PAGE>He has Fridays off, so try
+talking to him on <RED>Friday</COLOR>
+afternoons or evenings...<PAGE>Or on <RED>Monday or Sunday
+nights</COLOR> when he's done with
+work.<PAGE>He loves talking to people,<PAGE>so I'm sure he'll invite
+you to hang out if you're
+friendly.<PAGE>Oh, if you want to become
+friends with him, try
+giving him something sweet!<PAGE>He doesn't like all sweet
+things, but he does seem
+to like most of them.<PAGE>And that's about all I
+can tell you...<PAGE>The rest is up to you!
+Good luck!
+----------------------------|----------------------------------
+This book is called
+"The Weight of Your Cart."<PAGE>Read this book?
+<CHOICE_AB> Yes
+ No
+----------------------------|----------------------------------
+Has your cart ever seemed
+heavy to you?<PAGE>Sure, carts are convenient,
+but sometimes they can be
+more hindrance than help.<PAGE>Maybe you're now thinking of
+the good old days when your
+cart was so light...<PAGE>This book will tell you
+just why your cart gets
+so heavy...<PAGE>Each cart has its own
+<RED>weight</COLOR>.<PAGE>You can check your cart's
+weight at the shop, or
+at your house.<PAGE>The heavier the cart is,
+the longer items in it
+will stay fresh.<PAGE>In other words, often, if
+you want to use a good cart,
+that means a heavy cart.<PAGE>And sometimes your cart
+will get too heavy to move.
+<PAGE>But fear not!<PAGE>All you need to do to speed
+up your cart is to chose
+a <RED>stronger horse</COLOR>!<PAGE>There are 3 types of
+horses: pony, thoroughbred,
+and Shetland pony.<PAGE>Each horse can has a set
+<RED>strength for pulling
+a cart</COLOR>.<PAGE>Ponies are small, cute,
+and cheap, but they aren't
+very strong.<PAGE>Thoroughbreds are stronger
+than ponies, but struggle
+with the heaviest carts.<PAGE>Shetlands are very strong,
+and would have no problem
+pulling a heavy cart!<PAGE>They aren't cheap, though...<PAGE>Now do you understand about
+the weight of your carts?<PAGE>Make sure your cart and
+horse are a good match for
+each other!
+----------------------------|----------------------------------
+This book is called
+"A Cart of My Very Own."<PAGE>Read this book?
+<CHOICE_AB> Yes
+ No
+----------------------------|----------------------------------
+Do you have an old, beloved
+cart that has been with you
+through thick and thin?<PAGE>I know I do.
+It's the cart I've been
+using for half my life.<PAGE>It's old and tattered, and
+it can barely fit anything
+in it.<PAGE>I couldn't bear to be
+parted with it, so
+I sent it in for repairs.<PAGE>And I learned something
+really wonderful!<PAGE>They told me I could add
+more storage to my cart!
+<PAGE>Now my old cart can hold
+double what it could
+before!<PAGE>How much storage you can add
+depends on the cart, though.<PAGE>Now I'll be able to keep on
+using this cart for the
+rest of my life!<PAGE>So if you haven't remodeled
+your cart yet, what are you
+waiting for? Go do it!
+----------------------------|----------------------------------
+This book is called
+"Befriending Wild Animals."<PAGE>Read this book?
+<CHOICE_AB> Yes
+ No
+----------------------------|----------------------------------
+The wild animals on the
+mountain are really cute,
+aren't they?<PAGE>I think my favorite
+are the bears!<PAGE>Bears are so adorable!<PAGE>But it wasn't easy for me to
+become friendly with the
+bear I saw...<PAGE>The first time I tried to
+get close, he slammed
+into me! That was a shock!<PAGE>It made my head spin!
+But that didn't stop me
+from liking bears!<PAGE>Every day, I tried to
+talk to him.<PAGE>But the bear still
+wouldn't open his
+heart to me.<PAGE>So I tried to bring the
+bear some food to eat.
+<PAGE>But when I got close, he
+just body slammed me again!<PAGE>So I tried leaving the food
+near the bear and watching
+from a distance...<PAGE>And it worked! The bear
+happily ate all of the
+food I left for him!<PAGE>So I kept on giving food
+to the bear, and now...
+<PAGE>Sometimes, the bear comes
+over to me and gives me
+a present!<PAGE>Now we're the best of
+friends.<PAGE>But the other day,
+I accidently hit the bear
+with a farm tool...<PAGE>And the bear told me it
+was so startled it hated
+me for a little bit...<PAGE>Animals hate to be hit with
+things, or when you throw
+things in the river...<PAGE>So be careful when you're
+using tools near animals,<PAGE>and try not to drop things
+into the river!<PAGE>Okay! I'm going to try hard
+to be friends with some of
+the other animals too!
+----------------------------|----------------------------------
+This notebook is called
+"Howard's Secret Recipes."<PAGE>Read this notebook?
+<CHOICE_AB> Yes
+ No
+----------------------------|----------------------------------
+So you want to know the
+secret of my caf's
+delicious food?<PAGE>Well, alright.
+Then I'll tell you as a
+reward for finding this.<PAGE>Let's see...
+Maybe I'll tell you how
+to make omelets...<PAGE>First, put some oil in the
+<RED>frying pan</COLOR>, then add milk
+and eggs.<PAGE>Make sure to shape it
+right, and make it
+with lots of love.<PAGE>By the way, the omelet
+will taste better if you</COLOR>
+use colored eggs.<PAGE>Now go on home, and make
+one of Howard's special
+omelets!
+----------------------------|----------------------------------
+This notebook is called
+"Writings of a Gourmet:
+Marinated Fish (Advanced)."<PAGE>Read this notebook?
+<CHOICE_AB> Yes
+ No
+----------------------------|----------------------------------
+Now I'm going to share my
+special Marinated Fish
+recipe with you.<PAGE>First, mix up some <RED>oil</COLOR>
+and <RED>onion</COLOR> like normal.<PAGE>But here's my secret!
+Most people use <RED>tuna</COLOR>
+when they make this dish.<PAGE>But my trick is to use
+<RED>sashimi</COLOR> instead!
+<PAGE>Now, you make be thinking,
+why cook with something you
+need to make first?<PAGE>But sashimi is healthier
+than tuna, and it's also
+much easier to get!<PAGE>I hope you'll all try out
+my special gourmet recipe.
+
+----------------------------|----------------------------------
+This notebook is called
+"Writings of a Gourmet:
+Tempura."<PAGE>Read this notebook?
+<CHOICE_AB> Yes
+ No
+----------------------------|----------------------------------
+It's the season for tempura,
+so I'm going to share my
+favorite tempura recipe!<PAGE>First, put oil in a <RED>pan</COLOR>.
+While you wait for it to
+get hot, mix <RED>flour</COLOR> and <RED>egg</COLOR>.<PAGE>Then put it on <RED>smelt</COLOR> and
+<RED>shiitake</COLOR>, put them in oil,
+and you've got tempura!<PAGE>Try frying different
+things too!
+
+----------------------------|----------------------------------
+This notebook is called
+"Yun's Simple Sashimi."<PAGE>Read this notebook?
+<CHOICE_AB> Yes
+ No
+----------------------------|----------------------------------
+Most people seem to use
+tuna to make sashimi...
+<PAGE>But I would recommend <RED>goby</COLOR>
+over tuna for sashimi.
+<PAGE>Goby is easier to get a
+hold of.
+<PAGE>Ying loves sashimi, so
+I make it a lot for her.
+I hope you give it a try!
+----------------------------|----------------------------------
+What do you want to
+read about?
+----------------------------|----------------------------------
+There's nothing I
+want to read right now.
+----------------------------|----------------------------------
+This is your <RED>bed</COLOR>.
+When you use it, you'll
+sleep until morning.<PAGE>If you stay up until
+5:00 AM, you'll pass out and
+wake up in bed.<PAGE><CHOICE_ABC> Save and go to bed.
+ Go to bed without saving.
+ Don't go to bed yet.

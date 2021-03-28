@@ -1,0 +1,768 @@
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>ん？　初めて会うな。
+わたしは<BLUE>リコリス</COLOR>だ。
+植物の研究をしている。<PAGE>…よろしく。
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>昨日は風がきつくて
+大変だっただろう？<PAGE>村の植物に被害が
+出ていなければいいのだが…。
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>元気か？　<MYNAME>。
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>元気か？　<MYNAME>。
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>元気か？　<MYNAME>。
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_HAPPY><FP_RIGHT>…かわいいネコだな。
+フフッ、よしよし…。
+ネコはいいよな…気ままで…。
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_SHY><FP_RIGHT>…ん？
+そ、…そういうのは
+あまり近付けないでくれ。
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>ん…、青い羽根じゃないか…。<PAGE><FACE_POS_CENTER><FACE_REINA><FACE_SHOCK><FP_RIGHT>…って、は！？　え！？
+わ、わたしにか！？<PAGE>ちょ、ちょっと待て！
+ここじゃ何だから、
+どこか場所を変えて話すぞ！
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>その青い羽根が
+どうかしたのか？
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>突然、そんなものを
+出されても…。
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_SHY><FP_RIGHT>…気持ちだけ
+もらっておくよ。
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>…ん、わたしにプレゼント？<PAGE><FACE_POS_CENTER><FACE_REINA><FACE_HAPPY><FP_RIGHT>ありがとう、<MYNAME>。
+さっそくいただくよ。
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>…ん、わたしにプレゼント？<PAGE><FACE_POS_CENTER><FACE_REINA><FACE_HAPPY><FP_RIGHT>…そうか、ありがとう。
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>…それがどうかしたのか？
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>あっ、<RED>豆腐のサラダ</COLOR>！
+わたしの大好物じゃないか！
+…もらってもいいのか？<PAGE><FACE_POS_CENTER><FACE_REINA><FACE_HAPPY><FP_RIGHT>…誕生日のプレゼント？
+そうか、今日はわたしの
+誕生日か…いや、ありがとう。
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_HAPPY><FP_RIGHT>あっ、<RED>豆腐のサラダ</COLOR>！
+わたしの大好物じゃないか！
+…もらってもいいのか？<PAGE><FACE_POS_CENTER><FACE_REINA><FACE_HAPPY><FP_RIGHT>ありがとう、<MYNAME>。
+さっそくいただくよ。
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>元気か？　<MYNAME>。
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>元気か？　<MYNAME>。
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>…何、誕生日のプレゼント？
+そうか、今日はわたしの
+誕生日か。<PAGE><FACE_POS_CENTER><FACE_REINA><FACE_HAPPY><FP_RIGHT>いや、良いものを
+もらえてうれしいよ。
+その…あ、ありがとう。
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>…えっ、そんな良いものを
+もらっていいのか？<PAGE><FACE_POS_CENTER><FACE_REINA><FACE_HAPPY><FP_RIGHT>そうか…ありがとう。
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>…何、誕生日のプレゼント？
+そうか、今日はわたしの
+誕生日か…いや、ありがとう。
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>…ん、わたしにプレゼント？<PAGE><FACE_POS_CENTER><FACE_REINA><FACE_HAPPY><FP_RIGHT>…そうか、ありがとう。
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>…何、誕生日のプレゼント？
+そうか、今日はわたしの
+誕生日か…。<PAGE><FACE_POS_CENTER><FACE_REINA><FACE_SHY><FP_RIGHT>し、しかし…それは…。
+…ちょっと、苦手…い、いや
+…いただくよ。ありがとう。
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>…ん、わたしにプレゼント？<PAGE><FACE_POS_CENTER><FACE_REINA><FACE_SHY><FP_RIGHT>し、しかし…それは…。
+…ちょっと、苦手…い、いや
+…いただくよ。ありがとう。
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>…ん、わたしにプレゼント？
+…って、そのヌルヌルした
+ものは、ひょっとして…！？<PAGE><FACE_POS_CENTER><FACE_REINA><FACE_SHY><FP_RIGHT>\u20d0ほわぁあ！？！？<PAGE>ラ、ララライギョじゃないか！
+い、いやだやめろ近付けるな！
+バカ、ちょ…まっ！！<PAGE>…\u270a\u270a…\u270a\u270a…ううっ。
+で、でもせっかくのプレゼント
+…今回は、もらっておくよ。
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>元気か？　<MYNAME>。
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>元気か？　<MYNAME>。
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>結婚生活はうまくいってるか？<PAGE>こまった事があったら
+村長に相談するといい。
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>今日みたいな日は村の植物が
+心配なんだが…。<PAGE>外へ出ると飛ばされそうだから
+家で大人しくしてるしか
+ないんだ。
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>こんなに雪が降ったら
+山は真っ白になってしまうな。
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>わたしは人付き合いが
+苦手だが、<MYNAME>は
+それでも話しかけてくれる。<PAGE><FACE_POS_CENTER><FACE_REINA><FACE_HAPPY><FP_RIGHT>…なんて言えばいいか…、
+<MYNAME>となら
+うまくやっていける気がする。
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_SHY><FP_RIGHT>わたしの話し方は
+つい人をきずつけてしまう事が
+あるようだが…。<PAGE>決して悪気はないんだ。
+おまえには、それだけは
+わかっておいてほしい。
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>果樹は育つまでに
+１〜２シーズンくらい
+かかるんだ。<PAGE>しかし、十分育っても
+収穫の季節にならないと
+実がならない。<PAGE>だから、果樹の種をまく時は
+育つまでの期間と収穫時期を
+良く考えた方がいいぞ。
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>いろんな種類の果樹を
+育てていると、１年中
+いろんな実が収穫できる。<PAGE>それに果樹は、
+毎日水をやる必要もない。
+じつに効率的だ。
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>ここの果樹園では
+１年中いろんな実が
+収穫できるんだ。<PAGE>種はゴンベさんのところで
+売ってるから、おまえも
+育ててみるといい。
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>この村ではいろんな植物が
+共存しているから
+研究にはもってこいなんだ。
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>…ゆっくりしていっても
+良いが、わたしはおまえに
+かまっているヒマはないぞ。
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>元気か？　<MYNAME>。
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_SHY><FP_RIGHT>今、おまえと話すと
+自分の中のイヤな何かが
+爆発しそうだ。<PAGE>それでも、おまえは
+そんなわたしに何か
+言いたい事があるのか？
+----------------------------|----------------------------------
+<CHOICE_AB> 謝るから、機嫌直して
+ い、いや、それならもういい
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>…ふん。そうか。
+まあ、そう言うなら
+仕方ないな。
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_SAD><FP_RIGHT>………バカ。
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>元気か？　<MYNAME>。
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>昨日はひどい天気だったな…。
+果樹園は大丈夫だろうか？
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>元気か？　<MYNAME>。
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>元気か？　<MYNAME>。
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>元気か？　<MYNAME>。
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>元気か？　<MYNAME>。
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>感謝祭のお菓子か？<PAGE><FACE_POS_CENTER><FACE_REINA><FACE_HAPPY><FP_RIGHT>マメなやつだな。
+…ありがとう。
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_HAPPY><FP_RIGHT>あっ、<RED>豆腐のサラダ</COLOR>！
+…もらってもいいのか？<PAGE><FACE_POS_CENTER><FACE_REINA><FACE_SHOCK><FP_RIGHT>そうか。誕生日プレゼント…
+覚えていてくれたんだな。
+誕生日も大好物も…。
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>あっ、<RED>豆腐のサラダ</COLOR>！<PAGE><FACE_POS_CENTER><FACE_REINA><FACE_HAPPY><FP_RIGHT>覚えていてくれたんだな…。
+ありがとう。
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>なあ、<MYNICKNAME>。
+良かったら、
+散歩でもしないか？
+----------------------------|----------------------------------
+<CHOICE_AB> うん、いいよ
+ 今日はやめとくよ
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>…そうか。
+い、いや、いいんだ。
+また今度にしよう。
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>元気か？　<MYNAME>。
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_SHY><FP_RIGHT>\u20d0…な、何だそれ！？
+ヌルヌルしたものは
+キライだ！！<PAGE>何、誕生日プレゼント…？
+覚えていたのか…うぅ…。
+しょうがない…ありがとう。
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_SHY><FP_RIGHT>…ん？　\u20d0な、何だそれ！？
+ヌルヌルしたものは
+キライだ！！<PAGE><FACE_POS_CENTER><FACE_REINA><FACE_SAD><FP_RIGHT>結婚したんだから
+そろそろ覚えろよ…。
+わたしの苦手なもの…。
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>わたしのお腹に
+赤ちゃんがいるのか…。
+…信じられん。
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_HAPPY><FP_RIGHT>子供ができたら
+花の名前を付けようかな…。
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>もうすぐ生まれるのか。
+しかし、わたしに似た子供が
+出てくると思うと…。<PAGE>…複雑だな。
+いや…性格的にだがな。
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_SHOCK><FP_RIGHT>朝起きた時、１人じゃないって
+何となくいい感じだな。
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT><MYNICKNAME>が仕事を
+頑張ってくれているおかげで
+わたしは研究が続けられる。<PAGE><FACE_POS_CENTER><FACE_REINA><FACE_SHOCK><FP_RIGHT>だから…いつも感謝している。
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>家庭を持つというのは、
+なかなか良いものだな。<PAGE>わたしなんて植物の事しか
+頭になかったのに…。<PAGE><FACE_POS_CENTER><FACE_REINA><FACE_HAPPY><FP_RIGHT><MYNICKNAME>に会えて
+ホントに良かったよ。
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>いつも仕事を頑張っているが
+からだには気をつけろよ。<PAGE>疲れた時は
+早めに休んだ方がいい。
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>わたしは時々、木や花に
+話しかけたりするが、もちろん
+頭がおかしいわけじゃない。<PAGE>これは、
+植物の感受性についての
+研究なんだ。
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT><MYNICKNAME>。
+わたしの作る料理は
+どうだ？<PAGE><FACE_POS_CENTER><FACE_REINA><FACE_SHY><FP_RIGHT>…まずいのは、わかっているが
+…これでも努力してるんだ。
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>この村は気温が安定してるから
+いろんな果物が育つんだ。<PAGE>コーヒーやカカオもとれるし
+冬にはみかんも収穫できる。
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_SHY><FP_RIGHT>最近、コミュニケーションが
+うまくいっていないような
+気がするんだが…。
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>…わたし達の結婚生活は
+このままでいいんだろうか？
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_ANGRY><FP_RIGHT>…おまえ、妻に対して
+何か言うべき事が
+あるんじゃないか？
+----------------------------|----------------------------------
+<CHOICE_AB> ごめん、謝ります
+ 別に何もないよ
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_HAPPY><FP_RIGHT>…仕方ないな。
+今回はゆるしてやるよ。
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_ANGRY><FP_RIGHT>………あ、そう。
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>何だ、それ？
+今日の<VAR_0>に
+持って行くのか？
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>元気か？　<MYNAME>。
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>元気か？　<MYNAME>。
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>ふーん。
+……ネコは？
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_HAPPY><FP_RIGHT>へぇ〜。タヌキじゃないか。
+かわいいな…よしよし。
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_SHY><FP_RIGHT>わっ！？
+…と、トリじゃないか！
+…どっかやってくれ！
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>…むやみに動物を
+つかまえるんじゃない。
+元いた場所に返してこい。
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_HAPPY><FP_RIGHT>ふーん。
+なかなかいい服だな。
+悪くないんじゃないか？
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>…ところで、どうだろう。
+今から、２人で
+散歩でもしないか？
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>…良かったら、ちょっと
+話しでもしないか？
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>今から散歩に行くんだが
+一緒に来ないか？
+----------------------------|----------------------------------
+<CHOICE_AB> そうだね、行こうか
+ …今はやめておくよ
+----------------------------|----------------------------------
+<CHOICE_AB> うん、いいよ
+ 今はちょっと…
+----------------------------|----------------------------------
+<CHOICE_AB> ああ、行ってもいいよ
+ 今日はやめとく
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>元気か？　<MYNAME>。
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>元気か？　<MYNAME>。
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>…そうか。
+じゃあ、またな。
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_SHOCK><FP_RIGHT>…い、いや、いいんだ。
+特に話しはないから…。
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>…ふーん。そうか。
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_HAPPY><FP_RIGHT>きれいな花だな。
+…ああ、今日は花の日か。
+なるほど、ありがとう。
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_HAPPY><FP_RIGHT>いつも研究で花を見ているが
+この花は特別だな。
+かがやきが違う。
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>明日の星夜祭なんだが…、
+その…良かったら…
+一緒に行かないか？
+----------------------------|----------------------------------
+<CHOICE_AB> …うん、一緒に行こう
+ ごめん、やめとくよ
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_HAPPY><FP_RIGHT>あっ、そ、そう…ホントに…！
+ありがとう。
+…楽しみにしてるからな。
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>…そうか…いや、いいんだ。
+気にしないでくれ。
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_HAPPY><FP_RIGHT>明日の星夜祭は楽しみだな…。
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_HAPPY><FP_RIGHT>きれいに包んであるな…。
+中身はなんだろう…？
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>おまえはわたしにとって
+心おきなく話せる
+ただ１人の友達なんだ。<PAGE><FACE_POS_CENTER><FACE_REINA><FACE_HAPPY><FP_RIGHT>…だから、いつまでも
+この村にいてほしい。
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>元気か？　<MYNAME>。
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>ブルーベル村の方の山には
+このはな村と違った植物が
+生えている。<PAGE>山を越えると生態系が
+変わるという事なんだ。
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>たまには家でゆっくり
+調べものをするのも
+いいと思うのだが…。
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>…ん？　何だ？
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>あわただしいが、
+ゆっくりしていってくれ。
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_HAPPY><FP_RIGHT>春は花がきれいだが、
+今から夏にかけては
+山の緑が鮮やかになるんだ。<PAGE>…新緑の季節だな。
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>夏は暑いが
+山の上は風がふいて
+涼しいから好きなんだ。
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>秋は山が赤くそまる季節だ。
+景色を見ているだけで
+時間を忘れてしまう。<PAGE>黄色から赤に移り変わっていく
+紅葉の色合いがきれいだろ。
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>冬は道が凍っているから
+すべらないように
+気をつけろよ。
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>わたしの研究に１番重要なのは
+フィールドワークなんだ。<PAGE>だから、時間があれば
+必ず山に植物観察に
+出かけるようにしている。
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>今日はたまった調べものを
+整理する日なんだ。<PAGE>自宅に資料がない時は
+役場で調べるんだ。
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>元気か？　<MYNAME>。
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>元気か？　<MYNAME>。
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>元気か？　<MYNAME>。
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>元気か？　<MYNAME>。
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>元気か？　<MYNAME>。
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>今日の料理大会は
+このはな村が勝ったな。<PAGE>おまえの応援が
+良かったのかも知れないな。
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>今日の料理大会は
+負けてしまったな。<PAGE>もしかして、おまえの応援が
+足りなかったんじゃないか？
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>今日の料理大会は
+面白かったな。<PAGE>今度は同じ村で
+参加したいな。
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>元気か？　<MYNAME>。
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>元気か？　<MYNAME>。
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>今日の料理大会は
+残念だったな。
+この次は頑張ろうな。
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>元気か？　<MYNAME>。
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>今日は残念だったな。
+でもまた頑張ればいい。
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_HAPPY><FP_RIGHT>今日は<VAR_0>だったな。
+…どうも人の集まるところは
+苦手だ。
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>…今日の<VAR_0>、
+参加しなかったのか？<PAGE>けっこう面白かったのに。
+…次は期待してるからな。
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>元気か？　<MYNAME>。
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>今日は残念だったな。
+<MYNAME>の<VAR_4>も
+良くできてたんだが…。
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>元気か？　<MYNAME>。
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>元気か？　<MYNAME>。
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_REINA><FACE_NORMAL><FP_LEFT>おかえり、
+<MYNICKNAME>。<PAGE>今日はおまえの誕生日だろう？
+だから、料理を作って
+待っていたんだ。<PAGE>ほら、ぼさっと
+突っ立ってないで、
+早く席につけ。
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_SHY><FP_RIGHT>おまえを待ってる間に
+冷めてしまわないかと
+ひやひやしたよ。<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>やっぱり、できたてを
+食べてもらいたいからな。<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_ANGRY><FP_RIGHT>…な、何笑ってるんだ？
+しまりのない顔をするな！
+さっさと食べろ！<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_SHOCK><FP_RIGHT>……それから、
+誕生日、おめでとう、
+<MYNICKNAME>。
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_REINA><FACE_NORMAL><FP_LEFT>おかえり、
+<MYNICKNAME>。<PAGE>今日は、わたしとおまえの
+誕生日だろう？<PAGE>だから、料理を作って
+待っていたんだ。<PAGE>ほら、ぼさっと
+突っ立ってないで、
+早く席につけ。
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_SHY><FP_RIGHT>おまえを待ってる間に
+冷めてしまわないかと
+ひやひやしたよ。<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>やっぱり、できたてを
+一緒に食べたいからな。<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_ANGRY><FP_RIGHT>…な、何笑ってるんだ？
+しまりのない顔をするな！
+さっさと食べろ！
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_REINA><FACE_NORMAL><FP_LEFT>おかえり、
+<MYNICKNAME>。<PAGE><FACE_POS_LEFT><FACE_REINA><FACE_HAPPY><FP_LEFT>今日はわたしの誕生日だ。
+もちろん、忘れていた…
+なんて事はないだろうな？<PAGE>ほら、ぼさっと
+突っ立ってないで、
+早く席につけ。
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_SHY><FP_RIGHT><MYNICKNAME>、いつも
+仕事がいそがしそうだからな。<PAGE>日付が今日のうちに
+帰ってこなかったら、
+どうしようかと思った。<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_SHOCK><FP_RIGHT>わ、わがままかもしれないが
+今日という日は…、一緒に
+祝ってもらいたかったんだ。<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_HAPPY><FP_RIGHT>ほら、食べてくれ。
+料理が冷めてしまう。
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_REINA><FACE_NORMAL><FP_LEFT>おかえり、
+<MYNICKNAME>。<PAGE><FACE_POS_LEFT><FACE_REINA><FACE_HAPPY><FP_LEFT>今日は
+\u2337の誕生日だ。
+もちろん、覚えていただろう？<PAGE>ほら、ぼさっと
+突っ立ってないで、
+一緒に祝うぞ。
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_HAPPY><FP_RIGHT>…元気に育ってくれているな。
+これからも、こうして
+大切に育てていこう。<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_SHOCK><FP_RIGHT>２人で一緒に、な。
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_REINA><FACE_NORMAL><FP_LEFT>おかえり、
+<MYNICKNAME>。<PAGE><FACE_POS_LEFT><FACE_REINA><FACE_HAPPY><FP_LEFT>今日は\u2337の
+誕生日だろう？　だから
+料理を作って待っていたんだ。<PAGE>ほら、ぼさっと
+突っ立ってないで、
+早く席につけ。
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_HAPPY><FP_RIGHT>この子の誕生日には、どんなに
+仕事がいそがしくても、２人
+そろって祝ってやろうな。<PAGE>来年も、その次も…ずっと。
+約束だぞ、<MYNICKNAME>。<PAGE>さ、それじゃ冷めないうちに
+食べるか。…\u2337
+誕生日おめでとう。
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_REINA><FACE_NORMAL><FP_LEFT>おかえり、
+<MYNICKNAME>。<PAGE><FACE_POS_LEFT><FACE_REINA><FACE_HAPPY><FP_LEFT>今日は…その、
+わたし達の結婚記念日…だな。<PAGE>ほら、ぼさっと
+突っ立ってないで、
+早く席につけ。
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>結婚記念日なんて、別に
+大したイベントじゃないと
+思うが…。<PAGE>まぁ、おまえが祝いたいと言う
+だろうと思ってな。
+料理を用意しておいた。<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_ANGRY><FP_RIGHT>な、なんだ？　じっと見るな！
+別に気合いなんてまったく
+入れてないぞ！<PAGE>あー、もう！　何でもいいから
+さっさと食べろっ！！
+せっかく作ったのに冷める！！
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>元気か？　<MYNAME>。
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>元気か？　<MYNAME>。
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>元気か？　<MYNAME>。
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>元気か？　<MYNAME>。
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>元気か？　<MYNAME>。
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>元気か？　<MYNAME>。
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>元気か？　<MYNAME>。
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>今日は<VAR_0>なんだ。
+おまえには関係ないかも
+知れないが…。
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>元気か？　<MYNAME>。
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>元気か？　<MYNAME>。
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>元気か？　<MYNAME>。
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>元気か？　<MYNAME>。
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>元気か？　<MYNAME>。
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>元気か？　<MYNAME>。
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>元気か？　<MYNAME>。
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>元気か？　<MYNAME>。
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>元気か？　<MYNAME>。
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>元気か？　<MYNAME>。
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>元気か？　<MYNAME>。
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>元気か？　<MYNAME>。
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>元気か？　<MYNAME>。
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>元気か？　<MYNAME>。
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>元気か？　<MYNAME>。
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>元気か？　<MYNAME>。
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>元気か？　<MYNAME>。
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>元気か？　<MYNAME>。
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>元気か？　<MYNAME>。
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>おはよう、<MYNAME>。
+元気か？
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_SHY><FP_RIGHT>………ああ、おまえか。
+おはよう。いや、ちょっと
+考え事をしていたんだ。
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>おはよう、
+…元気そうだな。
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>どこか行くのか？
+そうか。
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>…こんにちは。
+ふぅ。この時間は
+何となくけだるいな…。
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>……ああ、こんにちは。
+いや、ちょっと
+考え事をしていたんだ。
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>こんばんは。
+遅くまで頑張るな。
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>…あぁ、こんばんは。
+最近は暗くなると
+眠たくなるんだ。
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>…っああ。おどろかせるな。
+いや、ちょっと考え事を…
+……\u270bふぁあ。
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>ザウリはまだ
+わたしが結婚する事が
+信じられないみたいだ。<PAGE>…まあ、ムリもないが。
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>最近、何となく気分が
+すぐれない…。
+…マリッジブルーかな。
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>…もうすぐ結婚か。
+結婚しても植物の研究は
+続けるつもりだ。<PAGE><FACE_POS_CENTER><FACE_REINA><FACE_HAPPY><FP_RIGHT>もちろん、家事との
+両立が基本だがな。
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>果樹の種はゴンベの種屋で
+売ってるよ。
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>果樹の種はゴンベの種屋で
+売ってるよ。
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>果樹の種はゴンベの種屋で
+売ってるよ。
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>ここは居心地がいい。
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>ここは居心地がいい。
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>ここは居心地がいい。
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>…やっぱり、家の中は
+性に合わない。
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>植物の事を調べるのには
+役場の本が役に立つんだ。
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>たまにはザウリの
+手伝いもしないと…。<PAGE>何しろ居そうろうだからな。
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>おはよう。
+今日も仕事か？<PAGE>…頑張り過ぎないようにな。
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_HAPPY><FP_RIGHT>おはよう、<MYNICKNAME>。
+天気に関係なく
+朝は気持ちがいいな。
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_HAPPY><FP_RIGHT>…おはよう。
+良く眠れたか？
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT><MYNICKNAME>、
+調子はどうだ？
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>………ん、<MYNICKNAME>…。
+いや、考え事をしてたんだ。
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>ああ、<MYNICKNAME>。
+もう昼だが…、
+仕事の調子はどうだ？
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>もう夜だな。
+仕事は終わったのか？
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>あぁ、もうこんな時間だ。
+１日なんて
+すぐに終わってしまうな。
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>ああ、<MYNICKNAME>。
+…そういえば、
+今日はまだ話してなかったな。
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_HAPPY><FP_RIGHT>今日の料理大会は良かったな。
+<MYNAME>の料理も
+最高だった。
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_HAPPY><FP_RIGHT>今日は勝てて良かったな。
+やっぱりこの村の料理は
+おいしいんだ。
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_HAPPY><FP_RIGHT>今日はおめでとう。
+おまえの料理のおかげで
+勝てたようなものだ。<PAGE>…少なくとも、
+わたしはそう思うよ。
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_HAPPY><FP_RIGHT>わたしは人が集まるところは
+苦手なんだが…、<PAGE>今日の<VAR_0>は
+楽しかったな。
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_HAPPY><FP_RIGHT>今日はどうだった？
+たまにはみんなで集まるのも
+楽しいものだな。
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>今日は仕事ができなかったから
+明日は頑張らないとな。
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>優勝おめでとう！
+良かったな、<MYNAME>。
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>おめでとう、<MYNAME>。
+おまえの<VAR_4>は
+最高だった。
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>あの<VAR_4>は
+どうやって育てたんだ？<PAGE>わたしもあんな立派な
+<VAR_4>は見た事がない。
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_HAPPY><FP_RIGHT>今日の<VAR_0>は
+楽しかったな。
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_HAPPY><FP_RIGHT>たまにはみんなで集まるのも
+いいものだな。
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>今日はみんな楽しそう
+だったな。
+<MYNAME>も楽しんだか？
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>今日は<VAR_0>で
+優勝したのか？<PAGE><FACE_POS_CENTER><FACE_REINA><FACE_HAPPY><FP_RIGHT>おめでとう。
+…良かったな。
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_HAPPY><FP_RIGHT>今日は頑張ったな。
+まさか、おまえが優勝するとは
+思わなかった。
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_HAPPY><FP_RIGHT>今日は優勝おめでとう。
+良く頑張ったな。<PAGE><FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>しかし、みんな子供に
+返ったみたいだった。
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_HAPPY><FP_RIGHT>優勝おめでとう！
+<MYNAME>の<VAR_2>は
+最高だったな。
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_HAPPY><FP_RIGHT><VAR_0>優勝
+おめでとう！！<PAGE>さすが<MYNAME>、
+育て方がうまいな。
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT><MYFARMNAME>牧場の
+<VAR_2>は
+すばらしいな。

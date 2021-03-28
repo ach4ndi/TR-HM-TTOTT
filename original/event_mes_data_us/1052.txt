@@ -1,0 +1,53 @@
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT><MYNAME>...
+I got something I want you
+to have.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>This blue feather...
+You know what the deal is
+with this?<PAGE>It means I wanna be with
+you forever.<PAGE>You put up with me blabbing
+about Hayate and my dad and
+stuff all the time, yeah?<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_SHY><FP_RIGHT>But it's like...
+How can I say this...? 
+Along the way...<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_SHOCK><FP_RIGHT>...\u270a\u270aI...\u270a\u270a
+fell in love with you.<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_SHY><FP_RIGHT>Once I realized that, the
+thought of you being with
+another guy bummed me out.<PAGE>I've been moping about it
+ever since, but...<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>That's not my style, y'know?
+So here and now I'm gonna
+bust out and say it.<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT><MYNAME>,
+I'm in love with you.
+Will you marry me?
+----------------------------|----------------------------------
+<CHOICE_AB> Yes! I accept!
+ I have to think it over.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>Seriously!? You mean it?<PAGE>You're not just messing with
+me, right? You're for real?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>\u20d0Yeah!!
+I am TOTALLY STOKED!!<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>Whoa, I dunno WHAT I woulda
+done if you turned me down.
+I was sweating bullets.<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_SAD><FP_RIGHT>I couldn't sleep a wink last
+night, y'know?<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>I never get like that...<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_SHOCK><FP_RIGHT>But when it comes to you,
+it's all worth it.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_SHOCK><FP_RIGHT>Whoa, I'm babbling!
+Okay, check it out, we gotta
+set a day for the wedding!<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>You've got to get ready and
+stuff and so do I, so how
+about in a week or so?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>Awright, it's settled!<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>I hear a bride has lots of
+stuff to do on her wedding
+day.<PAGE>So you should get your work
+and chores done the day
+before.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_SAD><FP_RIGHT>You gotta think about it...?<PAGE>Uh, my bad.
+Dropping this heavy stuff on
+you out of the blue, right?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>I'm gonna go home and chill.
+Totally sorry about that.
+Later, <MYNAME>.

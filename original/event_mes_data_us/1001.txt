@@ -1,0 +1,79 @@
+<FACE_POS_LEFT><FACE_DIRK><FACE_NORMAL><FP_LEFT>Hey, Kana!
+So glad I ran into you!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_DIRK><FACE_NORMAL><FP_LEFT>I've got a letter for you.
+<PAGE><FACE_POS_LEFT><FACE_DIRK><FACE_HAPPY><FP_LEFT>Here it is!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_DIRK><FACE_HAPPY><FP_LEFT>See you later!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>I don't get many letters.
+I wonder who it's from...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>It's from my dad...!!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>Let's see...
+What does it say?
+----------------------------|----------------------------------
+"My dear son Kana,<PAGE>"After traveling the world,
+I've finally found the best
+horse of them all!<PAGE>"But it needs a very
+special environment. I can't
+bring it to the village.<PAGE>"I have to keep it in your
+mom's hometown. That's the
+best climate for it.<PAGE>"...Now to the point.
+I miss you very much,
+my beloved son.<PAGE>"I hope that you can move to
+the village where I am.<PAGE>"Please honor your father's
+wishes and come over to
+this village.<PAGE>"I'll be waiting for your
+reply. I hope it is 'yes.'<PAGE>"Signed, your father."
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_SHY><FP_RIGHT>He wants me to leave
+Konohana and move to my
+mom's hometown?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_SHY><FP_RIGHT>Out of the blue...
+I have work to do here.
+I can't just...
+----------------------------|----------------------------------
+<CHOICE_AB> Follow your heart.
+ You should go. 
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>I guess you're right.
+Follow my heart, yeah?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>Okay, I decided!
+I'm gonna stay in Konohana.<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>I feel bad for dad, but I
+love this village, and I
+have a life here.<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_SHY><FP_RIGHT>Plus...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>...there's someone in this
+village that I don't want to
+leave behind.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_SHY><FP_RIGHT>Oh, nah!
+It's nothing. Forget it.<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>Anyway...I feel bad for Dad,
+but I don't wanna leave
+this village.<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>So, I'll be seeing
+ya around, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_SHOCK><FP_RIGHT>Oh, hey.
+Why don't you come by
+and see Hayate again today?<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>She'll be happy to see you.
+And also, uh...<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_SHOCK><FP_RIGHT>I...I'd also like to spend
+some more time together.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_ANGRY><FP_RIGHT>I guess you don't give a
+flip if I move to another
+village.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_SAD><FP_RIGHT>Yeah, alright.<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_SHY><FP_RIGHT>I get it.
+Yeah, I've decided.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>I'm gonna stay in Konohana.<PAGE>I feel bad for dad, but I
+love this village, and I
+have a life here.<PAGE>Plus...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>Aw, never mind.
+Don't sweat it.<PAGE>Today kinda turned out bad.
+I'm gonna head home, OK?

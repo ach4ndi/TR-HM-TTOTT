@@ -1,0 +1,87 @@
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>★ＥＲＲＯＲ！★</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Kamu melihat permintaanku di
+papan pesan, apa benar?
+Kamu pantas mendapatkan<PAGE>sebuah penghargaan dariku.
+Tapi kamu datangnya terlalu
+lama, ... <PAGE>Maaf jika ini mengganggumu
+disaat kamu lagi sibuk-
+sibuknya dikebunmu.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>★ＥＲＲＯＲ！★</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MAKO><FACE_HAPPY><FP_RIGHT>Kamu melihat permintaanku di
+papan pesan, apa benar?
+Bagus bagus!<PAGE>Jangan hanya berdiri disini
+saja, ada sebuah pekerjaan
+yang harus diselesaikan!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>★ＥＲＲＯＲ！★</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MAKO><FACE_HAPPY><FP_RIGHT>Ini kebun buah-buahanku.<PAGE>Kerenkan?, kurasa aku
+tahu kamu bakalan berpikiran
+seperti itu.<PAGE><FACE_POS_RIGHT><FACE_MAKO><FACE_NORMAL><MYNAME>, ini yang aku 
+minta: <RED>panen</COLOR> 
+semua buah-buah-nya.<PAGE>Kamu tahukan melakukannya?<PAGE><RED>Gunakan tombol A untuk
+melompat</COLOR> jadi kamu bisa
+memanennya!<PAGE>Buah-buahannya akan secara
+<RED>otomatis masuk ke
+tempat penyimpanku</COLOR>.<PAGE>Mudah kan? Datang ke aku
+jika semuanya selesai!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>★ＥＲＲＯＲ！★</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>★ＥＲＲＯＲ！★</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>★ＥＲＲＯＲ！★</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>★ＥＲＲＯＲ！★</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MAKO><FACE_HAPPY><FP_RIGHT>Jadi kamu menyelesaikan
+pekerjaannya? Kerja bagus!<PAGE>Aku akan memberikanmu
+sebuah hadiah. 
+Ayo mari...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Apakah kamu sudah menyelesai
+kan pekerjaannya?
+bagus bagus.<PAGE>Tapi aku butuhkan itu
+sebelum waktu malam
+tiba!<PAGE><FACE_POS_RIGHT><FACE_MAKO><FACE_ANGRY>Pada zaman sekarang para
+pemuda tidak mengerti apa
+yang harus dilakukan!<PAGE><FACE_POS_RIGHT><FACE_MAKO><FACE_NORMAL>Tapi aku akan tetap memberi
+kanmu sebuah hadiah.
+Sini.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Apakah kamu sudah menyelesai
+kan pekerjaannya?
+bagus bagus.<PAGE>Tapi aku menginginkannya
+tidak selarut ini!<PAGE>Aku baru mau tidur dikasur!
+Kamu baru datang! Tolong
+lebih cepat ya!<PAGE><FACE_POS_RIGHT><FACE_MAKO><FACE_NORMAL>Tapi aku akan tetap memberi
+kanmu sebuah hadiah.
+Sini.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>★ＥＲＲＯＲ！★</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MAKO><FACE_NORMAL><FP_RIGHT><MYNAME>,aku tidak kaget
+jika kamu melakukannya
+dengan baik.<PAGE>Aku puas! Ini hadiahmu.
+Ayo, terimalah.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>★ＥＲＲＯＲ！★</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>★ＥＲＲＯＲ！★</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MAKO><FACE_HAPPY><FP_RIGHT>Dan ini sedikit bonus karena 
+selesai dengan cepat.
+----------------------------|----------------------------------
+<FP_NONE>Kamu mendapatkan sebuah
+<VAR_1>!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Terima kasih ya.<PAGE>Mungkin aku membutuhkan ban
+tuanmu lagi kedepannya,
+kalau ada keutuhan mendesak.
+----------------------------|----------------------------------
+<FP_NONE>Kamu telah menyelesaikan
+semua pekerjaan yang
+diminta!

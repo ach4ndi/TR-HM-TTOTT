@@ -1,0 +1,65 @@
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>Kesalahan!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>Oooh, kamu melihat permin-
+taanku yang super duper
+keren dipapan? Bagus!<PAGE>Sekarang, ayo membuat kese-
+pakatan untuk saling tukar,
+benarkan?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>Kesalahan!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>Kesalahan!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>Ooh, inilah yang kucari!
+Ini sangat lembut-empuk!<PAGE>\u20d0Aku menyukainya!<RED>❤</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>Kesalahan!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>Sekarang uangnya.
+Biayanya <VAR_0>G.<PAGE><FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY>Sangat lembut...<RED>❤</COLOR>ED>❤</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>Kesalahan!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>Kesalahan!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>Kesalahan!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>Kesalahan!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>Kesalahan!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_ANGRY><FP_RIGHT>Oh. Ahem!<PAGE><FACE_POS_RIGHT><FACE_ULYSSA><FACE_NORMAL>Jadi, uh, makasih!
+Kerjamu bagus.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>Ini untukmu. Aku ingin mem-
+berikannya sekarang, tapi
+...<PAGE><FACE_POS_RIGHT><FACE_ULYSSA><FACE_NORMAL>Ini terlalu besar untuk
+kamu bawa...<PAGE><FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY>Jadi aku <RED>mengirimnya 
+langsung ke rumahmu</COLOR>!<PAGE>Jadi pulanglah untuk 
+melihatnya!<PAGE>Bagaimana?
+Aku bertaruh kamu sangat
+puas sekarang!
+----------------------------|----------------------------------
+<FP_NONE>Kamu mendapatkan sebuah
+gerobak baru,
+<RED>UFO</COLOR>!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>Jika kamu ingin memodifikasi
+nya, taruh ke toko biasa
+seperti gerobakmu yang lain.<PAGE><FACE_POS_RIGHT><FACE_ULYSSA><FACE_NORMAL>Apa? Kamu pikir aku tidak
+bisa melakukannya?
+\u270a<FACE_POS_RIGHT><FACE_ULYSSA><FACE_ANGRY>Tentu sa-saja bisa!<PAGE><FACE_POS_RIGHT><FACE_ULYSSA><FACE_SHY>Alasannya... well kamu
+pasti tahukan...<PAGE><FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY>Aku tidak bisa melakukan
+segalanya! Jadi serahkan
+kepada ahlinya!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>Ini sungguh menarik untuk
+membuat gerobak lagi.
+Aku menikmatinya!<PAGE><FACE_POS_RIGHT><FACE_ULYSSA><FACE_ANGRY>Kamu harus menjaganya baik-
+baik!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>Kesalahan!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>Kesalahan!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>Kesalahan!</COLOR>

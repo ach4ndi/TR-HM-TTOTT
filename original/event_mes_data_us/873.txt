@@ -1,0 +1,130 @@
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>The year is almost over.
+Everyone did a lot of good,
+hard work this year.<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>So let's wish for everyone's
+good health next year as we
+eat soba noodles!
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_NORI><FACE_HAPPY><FP_LEFT>Soba noodles are delicious!
+Eat up, everybody, so you'll
+be healthy all year long!<PAGE><FACE_POS_LEFT><FACE_HIRO><FACE_HAPPY><FP_LEFT>I certainly do hope everyone
+remains in good health.<PAGE><FACE_POS_LEFT><FACE_GOMBE><FACE_HAPPY><FP_LEFT>A real new year can't
+begin without eating
+noodles! Ha ha ha!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>Soba noodles taste awesome!
+I could eat three more
+bowls of the stuff!<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_HAPPY><FP_RIGHT>Delicious! I think I'll
+have another serving,
+too.<PAGE><FACE_POS_RIGHT><FACE_AYAME><FACE_HAPPY><FP_RIGHT>Eat up, everyone! Even if
+you get a tummy ache, I'll
+just fix you right up!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_INA><FACE_HAPPY><FP_LEFT>So, another year has passed.<PAGE><FACE_POS_RIGHT><FACE_AYAME><FACE_HAPPY><FP_RIGHT>No one had any serious
+injuries or illnesses
+last year!<PAGE><FACE_POS_LEFT><FACE_HIRO><FACE_HAPPY><FP_LEFT>It would be wonderful if the
+villagers remained in good
+health next year, too.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_HAPPY><FP_RIGHT>I wonder what next year will
+be like. I hope I find a lot
+of new plants.<PAGE><FACE_POS_LEFT><FACE_NORI><FACE_HAPPY><FP_LEFT>You really love plants,
+don't you, Reina?<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>I know! Seriously, right?<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>But maybe not as much as I
+love my horses, though!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_GOMBE><FACE_HAPPY><FP_LEFT>More soba noodles!<PAGE><FACE_POS_LEFT><FACE_NORI><FACE_SHY><FP_LEFT>You're eating too much,
+Grandpa. You'll get sick!<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>She's right, Gombe.
+Think about your age!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>Another year's over... But
+next year's gonna be even
+better for me and Hayate!<PAGE><FACE_POS_LEFT><FACE_HIRO><FACE_NORMAL><FP_LEFT>You sure do get along well
+with Hayate, Kana.<PAGE><FACE_POS_LEFT><FACE_NORI><FACE_HAPPY><FP_LEFT>Oh, definitely. They've
+always been inseparable.<PAGE>That's never going to
+change, I bet...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_GOMBE><FACE_HAPPY><FP_LEFT>Yun's soba noodles are so
+good! I could eat 100 bowls!<PAGE><FACE_POS_RIGHT><FACE_AYAME><FACE_HAPPY><FP_RIGHT>They really are delicious,
+aren't they? I wonder what
+her secret is...<PAGE>Hiro! Have her teach you
+how to make them!<PAGE><FACE_POS_LEFT><FACE_HIRO><FACE_SHY><FP_LEFT>So again the cooking duties
+fall to me?<PAGE>Dr. Ayame, I was hoping that
+next year you would pitch in
+with the chores more...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>So the year is over...
+It was eventful, but
+good.<PAGE><FACE_POS_LEFT><FACE_GOMBE><FACE_HAPPY><FP_LEFT>Yes! It was a good year!<PAGE>Oh, can we have more
+festivals next year,
+Mayor?<PAGE>I'm sure that would make
+next year even better!<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_SHY><FP_RIGHT>Hmph, you just want more
+excuses to goof off, don't
+you, Gombe?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>I hope that next year is
+good to Konohana.<PAGE><FACE_POS_LEFT><FACE_NORI><FACE_NORMAL><FP_LEFT>Oh, it will be, especially
+because we have more people
+living here now!<PAGE><FACE_POS_LEFT><FACE_HIRO><FACE_HAPPY><FP_LEFT>Precisely as you say, Nori.
+It is the citizens who make
+a town good to live in.<PAGE>We must all do our part next
+year!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_GOMBE><FACE_NORMAL><FP_LEFT>Another year over, hmm?
+Well, I certainly intend
+to be around next year!<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>I'm sure you will be. After
+all, what would our village
+be without you, Gombe?<PAGE><FACE_POS_RIGHT><FACE_AYAME><FACE_HAPPY><FP_RIGHT>That's why I'm here! Don't
+worry, if Gombe ever gets
+sick, I'll fix him up!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_YUN><FACE_NORMAL><FP_LEFT>I decided to serve tempura
+soba this year.<PAGE><FACE_POS_LEFT><FACE_YUN><FACE_HAPPY><FP_LEFT>I made plenty, so feel
+free to eat as much as
+you want.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_YUN><FACE_NORMAL><FP_LEFT>This year's soba noodles
+come with fried tofu.<PAGE><FACE_POS_LEFT><FACE_YUN><FACE_HAPPY><FP_LEFT>If anyone wants more fried
+tofu, please let me know!
+I made plenty!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_YUN><FACE_NORMAL><FP_LEFT>This year's soba noodles
+are topped with egg.<PAGE><FACE_POS_LEFT><FACE_YUN><FACE_HAPPY><FP_LEFT>I prepared all kinds of
+toppings, so add whatever
+you want to your noodles!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_YUN><FACE_NORMAL><FP_LEFT>This year's soba noodles
+come with deep-fried tofu.<PAGE><FACE_POS_LEFT><FACE_YUN><FACE_HAPPY><FP_LEFT>Eat up! Don't be shy! I made
+plenty, so feel free to eat
+as much as you want.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_YUN><FACE_NORMAL><FP_LEFT>This year's soba noodles
+come with grated yam.<PAGE><FACE_POS_LEFT><FACE_YUN><FACE_HAPPY><FP_LEFT>I grated plenty of yam,
+so if anybody wants
+more, please say so!
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY

@@ -1,0 +1,55 @@
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>調子はどうじゃ？
+牧場仕事は順調かのう。<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>今日は、<MYNAME>くんに
+畑の<RED>うね</COLOR>について
+教えようと思うんじゃが、<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>うねは知っとるかのう？
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>どうじゃ！
+これがうねじゃ。<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>うねで作物を育てると、
+うねにそって、水やひりょうを
+一気にまく事ができるぞ！<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>どうじゃ？
+作ってみたいじゃろ？<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL>作り方はとてもかんたんじゃ。<PAGE>クワでたがやしている時に
+<RED>十字ボタン</COLOR>を
+押したままにするのじゃ！<PAGE>その時に<RED>Ａボタン</COLOR>を
+押すと、移動しながら連続で
+たがやす事ができるぞ。<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>連続してたがやせば
+となりのマスとつながって
+うねになるんじゃ！<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_SAD><FP_RIGHT>ただし、注意しないと
+いけない事があってのう…。<PAGE>うねは、ひとつなぎでしか
+作る事ができないんじゃ…。<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>だから、枝分かれさせたり
+２つのうねをつなげる事は
+できないぞい。<PAGE>もし、つなげるのに失敗して
+うねがとぎれて
+しまった時は…。
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT><RED>やじるし</COLOR>のある
+うねの端のマスから
+続けてたがやせばいいぞ。<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>それと…、\u270aたがやしたマスに
+何もない状態で
+１週間たつと…、<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_SAD><FP_RIGHT>うねが消えてしまうのじゃ！<PAGE>もしも長いうねの真ん中が
+切れてしまったら、
+どうにもならないからの。<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>十分注意するのじゃ。
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>うねについては
+こんなところじゃな。<PAGE>もう一度、説明を聞くかのう？
+----------------------------|----------------------------------
+<CHOICE_AB> もう１回お願いします！
+ わかったから大丈夫♪
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>うむ！
+では、もう一度説明しよう。<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>うねとは、たがやした地面が
+１本の線のように
+つながった状態の事じゃ。<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>うねを見せて説明するかのう。
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>では、引き続き
+作物を育てるのじゃ！
+----------------------------|----------------------------------
+<CHOICE_AB> 知らないので教えてください
+ 大丈夫、知ってます
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>それじゃあ、教えよう！<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>うねとは、たがやした地面が
+１本の線のように
+つながった状態の事じゃ。<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>直接見せた方が良いな。
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>そうか！　そうか！
+それは頼もしいのう♪<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>では、引き続き
+作物を育てるのじゃ！

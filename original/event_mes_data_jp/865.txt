@@ -1,0 +1,92 @@
+<FACE_POS_LEFT><FACE_CHERYL><FACE_NORMAL><FP_LEFT>\u232f<BLUE>フェリックス</COLOR>\u232c
+お集りの諸君！
+スノーボード大会である！<PAGE>今年は<RED>初級コース</COLOR>で競うぞ！
+それではまず、
+出場者を紹介しよう！<PAGE>エントリーNo.1
+<MYNAME>くん！
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_CHERYL><FACE_NORMAL><FP_LEFT>\u232f<BLUE>フェリックス</COLOR>\u232c
+お集りの諸君！
+スノーボード大会である！<PAGE>今年は<RED>上級コース</COLOR>で競うぞ！
+それではまず、
+出場者を紹介しよう！<PAGE>エントリーNo.1
+<MYNAME>くん！
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_CHERYL><FACE_NORMAL><FP_LEFT>\u232f<BLUE>フェリックス</COLOR>\u232c
+エントリーNo.2
+メガテリウムくん！
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_CHERYL><FACE_NORMAL><FP_LEFT>\u232f<BLUE>フェリックス</COLOR>\u232c
+エントリーNo.3
+ティタニスくん！
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_CHERYL><FACE_NORMAL><FP_LEFT>\u232f<BLUE>フェリックス</COLOR>\u232c
+さて、出場者の諸君には
+スノーボードでの、<PAGE>タイムを競ってもらう！
+より、タイムの早い出場者が
+優勝である！<PAGE><FACE_POS_LEFT><FACE_CHERYL><FACE_ANGRY><FP_LEFT>この寒い冬を
+熱くするのは、一体
+だれのすべりなのか？<PAGE>それでは
+スノーボード大会
+開催である！！！
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_CHERYL><FACE_ANGRY><FP_LEFT>\u232f<BLUE>フェリックス</COLOR>\u232c
+ワンダフル！
+<FACE_POS_LEFT><FACE_CHERYL><FACE_NORMAL><FP_LEFT>レース終了である。<PAGE>それではタイムを発表する！<PAGE><MYNAME>くん　記録なし\u270a
+メガテリウムくん　<VAR_2>.<VAR_3>秒\u270a
+ティタニスくん　　<VAR_4>.<VAR_5>秒\u270a<PAGE>つまり順位は…。
+３位　<MYNAME>くん
+２位　メガテリウムくん<PAGE>優勝は…。\u270a
+<RED>ティタニス</COLOR>くんだ！
+おめでとう！
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_CHERYL><FACE_ANGRY><FP_LEFT>\u232f<BLUE>フェリックス</COLOR>\u232c
+ワンダフル！
+<FACE_POS_LEFT><FACE_CHERYL><FACE_NORMAL><FP_LEFT>レース終了である。<PAGE>それではタイムを発表する！<PAGE><MYNAME>くん　<VAR_0>.<VAR_1>秒\u270a
+メガテリウムくん　<VAR_2>.<VAR_3>秒\u270a
+ティタニスくん　　<VAR_4>.<VAR_5>秒\u270a<PAGE>つまり順位は…。
+３位　メガテリウムくん
+２位　<MYNAME>くん<PAGE>優勝は…。\u270a
+<RED>ティタニス</COLOR>くんだ！
+おめでとう！
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_CHERYL><FACE_ANGRY><FP_LEFT>\u232f<BLUE>フェリックス</COLOR>\u232c
+ワンダフル！
+<FACE_POS_LEFT><FACE_CHERYL><FACE_NORMAL><FP_LEFT>レース終了である。<PAGE>それではタイムを発表する！<PAGE><MYNAME>くん　<VAR_0>.<VAR_1>秒\u270a
+メガテリウムくん　<VAR_2>.<VAR_3>秒\u270a
+ティタニスくん　　<VAR_4>.<VAR_5>秒\u270a<PAGE>つまり順位は…。
+３位　メガテリウムくん
+２位　ティタニスくん<PAGE>優勝は…。\u270a
+<RED><MYNAME></COLOR>くんだ！
+おめでとう！
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_CHERYL><FACE_NORMAL><FP_LEFT>\u232f<BLUE>フェリックス</COLOR>\u232c
+来年のスノーボード大会は
+<RED>初級コース</COLOR>で行うぞ！<PAGE>今年のスノーボード大会は
+これで終わりだ。<PAGE>次回を楽しみに
+していてくれたまえ。
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_CHERYL><FACE_NORMAL><FP_LEFT>\u232f<BLUE>フェリックス</COLOR>\u232c
+来年のスノーボード大会は
+<RED>上級コース</COLOR>で行うぞ！<PAGE>今年のスノーボード大会は
+これで終わりだ。<PAGE>次回を楽しみに
+していてくれたまえ。
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_CHERYL><FACE_HAPPY><FP_LEFT>\u232f<BLUE>フェリックス</COLOR>\u232c
+\u2204わたしとしたことが、
+忘れるところだったよ。<PAGE><FACE_POS_LEFT><FACE_CHERYL><FACE_NORMAL><FP_LEFT>これは、
+今日の優勝賞品だよ。
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_CHERYL><FACE_NORMAL><FP_LEFT>\u232f<BLUE>フェリックス</COLOR>\u232c
+今日は本当におめでとう。<PAGE>次回も、キミのかつやくを
+期待しているよ。
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_CHERYL><FACE_ANGRY><FP_LEFT>\u232f<BLUE>フェリックス</COLOR>\u232c
+ワンダフル！
+<FACE_POS_LEFT><FACE_CHERYL><FACE_NORMAL><FP_LEFT>レース終了である。<PAGE>それではタイムを発表する！<PAGE><MYNAME>くん　<VAR_0>.<VAR_1>秒\u270a
+メガテリウムくん　<VAR_2>.<VAR_3>秒\u270a
+ティタニスくん　　<VAR_4>.<VAR_5>秒\u270a<PAGE>つまり順位は…。
+３位　<MYNAME>くん
+２位　メガテリウムくん<PAGE>優勝は…。\u270a
+<RED>ティタニス</COLOR>くんだ！
+おめでとう！

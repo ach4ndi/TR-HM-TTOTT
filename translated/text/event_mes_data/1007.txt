@@ -1,0 +1,82 @@
+<FACE_POS_RIGHT><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>Kolam ini memang memiliki
+aura yang misteri...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>Aku penasaran jika ada
+beberapa sosok astral muncul
+disini.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>Membicarakan sebuah misteri
+...
+...<PAGE>Disaat aku di balai desa,
+aku mendengar ada seorang
+gadis yang berhubungan<PAGE>dengan legenda lonceng
+gereja. Lebih tepatnya
+sebuah legenda yang berhu-<PAGE>bungan dengan lonceng.
+bukan hantu disiang
+bolong.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>Dan sepertinya dibluebel
+ada sebuah gereja dipinggir-
+an desanya.<PAGE>Lonceng gereja pernah di-
+gunakan oleh seorang gadis
+untuk menandakan waktu,<PAGE>pernikahan dan beberapa
+lainnya.
+Tapi, itu menjadi tidak<PAGE>berguna dan tidak diguna-
+kan lama sekali...
+Dan, akhirnya gereja telah<PAGE>ditinggalkan begitu saja...<PAGE><FACE_POS_RIGHT><FACE_MIKHAIL><FACE_SHY><FP_RIGHT>Pasangan yang akan menikah
+diatas bebukitan terkadang
+mendengar lonceng itu ber-<PAGE>bunyi...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>Mereka berbicara bahwa itu
+sebuah tanda dari dewi
+panen yang memberikan keber-<PAGE>kahannya kepada pasangan
+itu...
+Dan legenda itu berkata<PAGE>jika sepasang kekasih meni-
+kah diatas bebukitan dan
+mendengar suara lonceng<PAGE>itu...
+Mereka akan bahagia sela-
+ma-lamanya...<PAGE><FACE_POS_RIGHT><FACE_MIKHAIL><FACE_HAPPY><FP_RIGHT>Pastinya gadis itu mempunyai
+imajinasi yang mengagumkan!
+Ini cukup menghibur.<PAGE>Dari kisah itu, apa yang
+kamu pikirkan tentang...
+eh kisah itu,, <MYNAME>?
+----------------------------|----------------------------------
+<CHOICE_AB> Sungguh menakjubkan!
+ Isinya hanya kebohongan!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MIKHAIL><FACE_HAPPY><FP_RIGHT>Kamu berpikiran sama ya?
+Maka sudah kupikirkan kamu
+itu tipe-tipe gadis itu...<PAGE>yang aku pikirkan...<PAGE><FACE_POS_RIGHT><FACE_MIKHAIL><FACE_SHY><FP_RIGHT>Uh dari subjeknya...<PAGE>apa... uh kamu apa ada se-
+seorang yang kamu harapkan
+untuk dinikahi kedepannya?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MIKHAIL><FACE_HAPPY><FP_RIGHT>Tidak?
+Aku senang untuk mendengar-
+kannya.<PAGE><FACE_POS_RIGHT><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>Maka, Aku harap...
+...\u270a...\u270a...\u270a\u270a<FACE_POS_RIGHT><FACE_MIKHAIL><FACE_SHOCK><FP_RIGHT>Tidak, bukan sekarang.
+...
+...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MIKHAIL><FACE_HAPPY><FP_RIGHT>Maafkan aku.
+Tidak tidak itu tidak
+tidak.<PAGE><FACE_POS_RIGHT><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>Tapi sekarang, <MYNAME>, 
+Biarkan aku mengantarkanmu
+pulang kerumah.<PAGE><FACE_POS_RIGHT><FACE_MIKHAIL><FACE_SHOCK><FP_RIGHT>Aku ingin menghabiskan
+waktu tersisa ini dengan
+bersama kamu.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MIKHAIL><FACE_SHY><FP_RIGHT>Uh sebuah kebohongan?
+Mungkin itu benar...<PAGE><FACE_POS_RIGHT><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>Kamu ternyata lebih berpikir-
+an logis... diluar dugaanku.<PAGE>Tidak... itu tidak ada yang
+salah.<PAGE><FACE_POS_RIGHT><FACE_MIKHAIL><FACE_SAD><FP_RIGHT>Tapi tidakkah kamu berpikir
+bahwa kamu sudah melewatkan
+beberapa hal yang ...<PAGE>buat kehidupanmu itu?
+Musik, perasaan...
+Tampaknya semuanya itu<PAGE>tidak penting buatmu...<PAGE><FACE_POS_RIGHT><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>Apakah itu tidak bagus
+untuk mempercayai tahayul,
+sebuah legenda, dan mimpi?<PAGE>Untukku,
+aku mempercayahinya.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>Sepertinya kita harus kem-
+bali.
+Selamat tinggal, <MYNAME>.

@@ -1,0 +1,95 @@
+<FACE_POS_LEFT><HIDE_NAME><FACE_CAM><FACE_NORMAL><FP_LEFT><HIDE_FACE>Are you home, <MYNAME>?
+I'm coming in, okay?
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_CAM><FACE_NORMAL><FP_LEFT>It's Harmony Day today.<PAGE><FACE_POS_LEFT><FACE_CAM><FACE_HAPPY><FP_LEFT>So I wanted to give this
+to you.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_CAM><FACE_NORMAL><FP_LEFT>You're always so kind and
+thoughtful, <MYNAME>.<PAGE><FACE_POS_LEFT><FACE_CAM><FACE_HAPPY><FP_LEFT>So I wanted to give this
+to you.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_CAM><FACE_NORMAL><FP_LEFT>I brought you a Harmony
+Day present.<PAGE><FACE_POS_LEFT><FACE_CAM><FACE_HAPPY><FP_LEFT>We're neighbors, so I hope
+we can always be friends.
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_CAM><FACE_NORMAL><FP_LEFT>You gave me a gift for
+Winter Harmony Day, so I
+wanted to return the favor.<PAGE><FACE_POS_LEFT><FACE_CAM><FACE_SHOCK><FP_LEFT>I hope you like it.
+
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_CAM><FACE_NORMAL><FP_LEFT>I wanted to give you this
+to thank you for last year.<PAGE><FACE_POS_LEFT><FACE_CAM><FACE_SHOCK><FP_LEFT>Thanks for everything.
+Let's always be friends.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_CAM><FACE_HAPPY><FP_LEFT>The gift you gave me
+for Winter Harmony Day was
+really delicious.<PAGE><FACE_POS_LEFT><FACE_CAM><FACE_SHOCK><FP_LEFT>So I wanted to give you
+a gift today.<PAGE>I don't know as much about
+chocolate as flowers,
+but I hope you like it.
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_CAM><FACE_NORMAL><FP_LEFT>I'm going to head home.<PAGE><FACE_POS_LEFT><FACE_CAM><FACE_HAPPY><FP_LEFT>See you later.
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+dummy

@@ -1,0 +1,594 @@
+<FACE_POS_CENTER><HIDE_NAME><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Ah, and who would you be?
+<MYNAME>, hmm?<PAGE><FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Hmm? What's my name?
+I'm <BLUE>Gombe</COLOR>.
+Nice to meet you!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Wasn't that some fun
+weather yesterday, hmm?
+Storms are so exciting!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Do you have some free time?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Do you have some free time?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Do you have some free time?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_HAPPY><FP_RIGHT>Ahhh, is this for me?<PAGE><FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>No? Well, it's very
+cute.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_ANGRY><FP_RIGHT>Ah...ahhh...!
+K-Keep it away!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Do you have some free time?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Hmm, that's an interesting
+item you have there. I've
+seen one like it somewhere.<PAGE><FACE_POS_CENTER><FACE_GOMBE><FACE_HAPPY><FP_RIGHT>Ahhhhh! A blue feather!!
+And who is it for?
+Will you tell an old man?<PAGE><FACE_POS_CENTER><FACE_GOMBE><FACE_SAD><FP_RIGHT>No? Awww. No one ever tells
+me any good gossip.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>For me, hmm?
+No, no, no.
+Put that away.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Please, I've already got
+all the gifts I can carry
+today.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Do you have some free time?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Do you have some free time?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Hmm? What do you think
+you're doing with that?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_HAPPY><FP_RIGHT>Yippee!!<PAGE>You gave an old man a nice
+treat on his birthday.
+I'll eat it all up, yes!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_HAPPY><FP_RIGHT>Mmmm, a <RED>sushi bowl</COLOR>, yes?
+Don't mind if I do!!<PAGE>Oh so tasty, oh yes!
+I'm much obliged!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Do you have some free time?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Do you have some free time?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_HAPPY><FP_RIGHT>Ahhh, this is for me?
+A birthday present?<PAGE>How did you know, hmm?
+It's just what I like.
+You made an old man happy!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_HAPPY><FP_RIGHT>Ahh, <MYNAME>. You know
+what I like. Hee-hee.
+This old man's happy.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_HAPPY><FP_RIGHT>Ahh, a birthday present.
+This is nice.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Thank you, <MYNAME>!
+How nice.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>It makes an old man weep!
+Why would I want such a
+thing, and on my birthday?<PAGE>Hmm, are you playing a joke?
+If so, it's in bad taste.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_ANGRY><FP_RIGHT>What's an old man to do with
+such a thing? I'll give it
+to Yun, hmm.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Do you dislike this old man?
+Giving me what I hate, hmm?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Do you have some free time?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Ahh, it's been too long
+since I ate Nori's cooking.<PAGE><MYNAME>, I envy you. I
+should never have let her
+marry you!<PAGE><FACE_POS_CENTER><FACE_GOMBE><FACE_HAPPY><FP_RIGHT>Hee-hee, just a little joke!
+I want you two to be happy.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_HAPPY><FP_RIGHT><MYNAME>, are you glad that
+you got married? Maybe I
+should get married too, hmm?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>A storm, a storm!
+Hee-hee, oh goody!!
+I want to go outside in it!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_HAPPY><FP_RIGHT>A blizzard!! Hee-hee!!
+It'll be fun tomorrow!!<PAGE>I love making tracks in
+fresh-fallen snow.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_HAPPY><FP_RIGHT>Ahh, <MYNAME>, I'm glad
+you're here.<PAGE>Seeing you always makes this
+old man happy.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_HAPPY><FP_RIGHT>When people work like dogs,
+they soon get tired.<PAGE>It's best to work at a more
+leisurely pace, oh yes.<PAGE>That's what my own grandpa
+taught me, hmm?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Get to be old like me, and
+you'll learn to never put
+off having fun.<PAGE>If only every day was a
+holiday!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>You may think this old man
+is always frolicking, but
+no-no, not so, hmm?<PAGE><FACE_POS_CENTER><FACE_GOMBE><FACE_HAPPY><FP_RIGHT>I also spend time thinking
+up pranks to play on people!
+Heh heh heh.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Ah, you have a question
+about crops, hmm?
+I wouldn't know about that.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Are you here to play with
+this old man? No, too busy?
+Young people, so selfish!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Know any good jokes, hmm?
+No? What a shame. You'd
+better learn some!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Do you have some free time?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Do you have some free time?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Do you have some free time?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Do you have some free time?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Do you have some free time?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Do you have some free time?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Do you have some free time?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Do you have some free time?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Do you have some free time?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Do you have some free time?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Do you have some free time?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Do you have some free time?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Do you have some free time?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Do you have some free time?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Do you have some free time?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Do you have some free time?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Do you have some free time?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Do you have some free time?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Do you have some free time?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Do you have some free time?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Do you have some free time?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Do you have some free time?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Do you have some free time?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Do you have some free time?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Do you have some free time?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Do you have some free time?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Do you have some free time?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Do you have some free time?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Do you have some free time?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Do you have some free time?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Do you have some free time?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Do you have some free time?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Do you have some free time?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Do you have some free time?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Do you have some free time?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Do you have some free time?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Going to participate, hmm?
+Maybe I'll join in too if
+the fancy strikes me.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Do you have some free time?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Do you have some free time?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>It actually looks a lot
+like you, you know. 
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_HAPPY><FP_RIGHT>Ah, I love to play with
+these amusing creatures!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_SAD><FP_RIGHT>I-I have something I have 
+to do right now.
+Pardon me.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Hmm. I've seen those
+around here before.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Do you have some free time?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Do you have some free time?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Do you have some free time?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Do you have some free time?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Do you have some free time?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Do you have some free time?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Do you have some free time?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Do you have some free time?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Do you have some free time?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Do you have some free time?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Do you have some free time?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Do you have some free time?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_HAPPY><FP_RIGHT>For...the flower festival?
+You've made this old man
+happy.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Do you have some free time?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Do you have some free time?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Do you have some free time?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Do you have some free time?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Do you have some free time?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Do you have some free time?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_HAPPY><FP_RIGHT>Hee-hee, a present!
+What is it, what is it?
+I can't wait to see!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_HAPPY><FP_RIGHT>It warms an old man's heart
+that a girl like you will
+keep me company, hmmmmm?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Do you have some free time?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Tell me about <VAR_1>!
+What's popular over there
+now, hmm?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Do you have some free time?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Do you have some free time?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Do you have some free time?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Ahem!
+What fun are we going to
+have next, hmm?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_SAD><FP_RIGHT>Ah, how late it's gotten!
+No more fun for today...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_HAPPY><FP_RIGHT>It's always fun around here!
+
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Do you have some free time?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Do you have some free time?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Do you have some free time?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Do you have some free time?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Do you have some free time?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Do you have some free time?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Do you have some free time?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Do you have some free time?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_HAPPY><FP_RIGHT>We won the Cooking Festival,
+<MYNAME>! And you cheered
+us on!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_SAD><FP_RIGHT>Ah, we've let you down,
+<MYNAME>.<PAGE>You cheered for us, but
+we lost in the end.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Why live in Bluebell, hmm?
+Move on over here. Then win
+the Cooking Festival for us!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Do you have some free time?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Do you have some free time?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_SAD><FP_RIGHT>The Cooking Festival...
+We lost...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Do you have some free time?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Ah, you were close!
+This old man might have done
+a bit better, hmm?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_HAPPY><FP_RIGHT>A festival, a festival!
+Ah, I love them! Such fun!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>What were you thinking? You
+missed out!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Do you have some free time?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Ahh, what can you do?
+This was a tough one
+for you.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Do you have some free time?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Do you have some free time?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Do you have some free time?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Do you have some free time?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Do you have some free time?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Do you have some free time?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Do you have some free time?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Do you have some free time?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Do you have some free time?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Do you have some free time?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Do you have some free time?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Do you have some free time?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Do you have some free time?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Do you have some free time?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Do you have some free time?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Do you have some free time?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Do you have some free time?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Do you have some free time?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Do you have some free time?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Do you have some free time?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Do you have some free time?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Ah, this festival should
+be fun, hmm?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Do you have some free time?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Do you have some free time?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Do you have some free time?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Do you have some free time?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Do you have some free time?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Do you have some free time?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Do you have some free time?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Do you have some free time?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Do you have some free time?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Do you have some free time?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Do you have some free time?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Do you have some free time?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Do you have some free time?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Do you have some free time?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Do you have some free time?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Do you have some free time?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Do you have some free time?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Do you have some free time?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Do you have some free time?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Good morning, <MYNAME>.
+Heard anything amusing, hmm?
+If you do, tell an old man!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Good morning, <MYNAME>.
+Do you have time to keep
+an old man company?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Good morning.
+You look busy, hmm?<PAGE>But you can spare some time
+to tell an old man a joke,
+can't you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Tell me a joke, <MYNAME>.
+I know you want to, hmm?
+You can't fool me!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_HAPPY><FP_RIGHT>It's already midday, <MYNAME>.
+Are you making the most of
+the day? Having lots of fun?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_HAPPY><FP_RIGHT><MYNAME>! Let's play
+tag or have a race!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Ah, nighttime...boring!
+Don't you think so, hmm?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Good evening. It's this
+old man's bedtime soon...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>There's nothing fun to do at
+night. Ah, how boring!
+I can't wait for morning!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Do you have some free time?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Do you have some free time?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Do you have some free time?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Ah, if you need anything
+from my shop, talk to me
+across the counter, hmm?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Hmm, still not closing time
+yet? I want to go have fun!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>The shop's open now.
+I can't have fun 'til later.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Yun's cooking is tasty!
+Even on par with Nori's,
+hmm?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>I look after the shop on
+Yun's days off.
+I can't cook, though.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Hee-hee, I'm thinking about
+pulling a prank on Yun!
+Maybe putting a snake...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Are we going to have some
+fun, hmm?
+Hee-hee!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>The other day, when I was
+playing hide and seek with
+Rahi here, Ina got mad, hmm?<PAGE>Ah, she shouldn't let
+herself get that mad!
+She'll get more wrinkles!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>This house is perfect for
+playing in!
+But it makes Ina mad...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Do you have some free time?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Do you have some free time?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Do you have some free time?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Do you have some free time?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Do you have some free time?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Do you have some free time?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Do you have some free time?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Do you have some free time?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Do you have some free time?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_HAPPY><FP_RIGHT><MYNAME>, you have to make
+that dish for this old man
+sometime, hmm?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_HAPPY><FP_RIGHT>Ahhh, what a festival today,
+what a festival!
+How fun!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_HAPPY><FP_RIGHT>Congratulations, <MYNAME>!
+You made this old man happy.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Aww, I wanted us all to have
+a race...
+How disappointing...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>I wish mayor Ina would make
+a festival where we can all
+play together. But no, hmm?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Today's festival was fun,
+yes, but it'd be more fun
+to play tag!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Winning the Crop Festival is
+a big accomplishment, hmm?<PAGE>Since I sold you those
+seeds, this old man is
+happy too.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Phooey, I lost!
+Next time, this old man'll
+win!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Awwwww.
+I lost...
+Such a shock to an old man.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Ah, that was nifty! Can't
+wait for next year's fun!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Ah, wasn't that an exciting
+festival?
+Even for a youth like you.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Ah, this old man wishes we
+had festivals every day,
+hmm?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Ah, to beat me at any
+contest is no joke...
+What a fun contest, hmm?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_HAPPY><FP_RIGHT>I lost, I lost! Phooey!
+But I did have fun!
+Next time, I'll win!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>I'm the master of having
+fun, but you beat me anyway.<PAGE>Ah, this old man still has
+things to learn from the
+young.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Do you have some free time?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Do you have some free time?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Do you have some free time?

@@ -1,0 +1,13 @@
+<FP_LEFT><FACE_POS_LEFT><FACE_DIRK><FACE_NORMAL><FACE_POS_RIGHT><FACE_DIRK><FACE_NORMAL>\u232f<BLUE>？？？</COLOR>\u232c
+\u21dfおっ、おまえ<MYNAME>か？
+町長から聞いてるぜ。<PAGE>オレは<BLUE>ディルカ</COLOR>。
+よろしくな！
+----------------------------|----------------------------------
+<FP_RIGHT><FACE_POS_LEFT><FACE_DIRK><FACE_NORMAL><FACE_POS_RIGHT><FACE_DIRK><FACE_NORMAL>\u232f<BLUE>？？？</COLOR>\u232c
+\u21dfおっ、おまえ<MYNAME>か？
+町長から聞いてるぜ。<PAGE>オレは<BLUE>ディルカ</COLOR>。
+よろしくな！
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ASH><FACE_NORMAL><FACE_POS_RIGHT><FACE_HIRO><FACE_NORMAL><FP_LEFT>\u232f<BLUE>？？？</COLOR>\u232c
+\u21efあ、初めまして。
+新しくこの町に来た方ですね。

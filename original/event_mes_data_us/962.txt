@@ -1,0 +1,53 @@
+<FACE_POS_RIGHT><FACE_LANEY><FACE_NORMAL><FP_RIGHT>Hey, <MYNAME>.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_NORMAL><FP_RIGHT>Have you ever heard the
+story of this statue?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_NORMAL><FP_RIGHT>Years ago, one of the mayors
+designed it himself for the
+town.<PAGE><FACE_POS_RIGHT><FACE_LANEY><FACE_SHY><FP_RIGHT>Even though this statue is
+really cute, that mayor was
+actually pretty scary.<PAGE>Like, if he saw someone
+littering, he would chase
+after them screaming.<PAGE><FACE_POS_RIGHT><FACE_LANEY><FACE_HAPPY><FP_RIGHT>Isn't it weird to think
+someone that strict made
+this cute statue?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_NORMAL><FP_RIGHT>I guess his love for this
+village is what made him
+act like that. 
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_NORMAL><FP_RIGHT>You can feel all that love
+when you look at the statue.
+<PAGE><FACE_POS_RIGHT><FACE_LANEY><FACE_HAPPY><FP_RIGHT>Everyone who lives here
+loves the statue a lot.
+It's really special to us.<PAGE>It's become a symbol of
+the love we all feel for
+this village.<PAGE>Hey, <MYNAME>.
+Do you like it here?
+----------------------------|----------------------------------
+<CHOICE_AB> Yeah! I like it a lot!
+ Not really...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_HAPPY><FP_RIGHT>I'm glad you like
+our village too.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_NORMAL><FP_RIGHT>I can't imagine living
+anywhere else.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_SHOCK><FP_RIGHT>I'm sure the more you learn
+about our village, the more
+you'll come to love it.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_NORMAL><FP_RIGHT>It's so late!
+The time just flew by!
+<PAGE><FACE_POS_RIGHT><FACE_LANEY><FACE_HAPPY><FP_RIGHT>I had so much fun today.
+Let's chat again soon.
+Later!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_SHY><FP_RIGHT>You do? That's too bad.
+Each to his own, I guess.<PAGE><FACE_POS_RIGHT><FACE_LANEY><FACE_SAD><FP_RIGHT>Sorry. I'm a little tired.
+I think I'll head home.
+Later...

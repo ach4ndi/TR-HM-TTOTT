@@ -1,0 +1,623 @@
+<FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>Makasih.
+Kamu telah membantuku.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>Makasih.
+Kamu telah membantuku.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>Terima kasih atas semua
+bantuan dari kamu!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>Terima kasih atas semua
+bantuan dari kamu!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>Terima kasih banyak.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_HAPPY><FP_RIGHT>Ini sangat membantuku.
+Terima kasih banyak.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_NORMAL><FP_RIGHT>Ini sangat membantuku.
+Terima kasih banyak.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_HAPPY><FP_RIGHT>Ini sangat membantuku.
+Terima kasih banyak.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_HAPPY><FP_RIGHT>Ini sangat membantuku.
+Terima kasih banyak.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_HAPPY><FP_RIGHT>Terima kasih banyak.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_HAPPY><FP_RIGHT>Terima kasih banyak atas
+semua bantuanmu!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT>Terima kasih banyak atas
+semua bantuanmu!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_HAPPY><FP_RIGHT>Terima kasih banyak atas
+semua bantuanmu!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_HAPPY><FP_RIGHT>Terima kasih atas bantuanmu.
+Kamu tahukan ini akan
+sangat membantuku.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_HAPPY><FP_RIGHT>Terima kasih banyak.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>Terima kasih!
+Kamu adalah seorang
+penyelamat!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>Terima kasih!
+Kamu adalah seorang
+penyelamat!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>Terima kasih!
+Kamu adalah seorang
+penyelamat!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>Terima kasih!
+Kamu adalah seorang
+penyelamat!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>Terima kasih banyak.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MIKHAIL><FACE_HAPPY><FP_RIGHT>Terima kasih untuk semua
+bantuanmu!<PAGE><FACE_POS_RIGHT><FACE_MIKHAIL><FACE_NORMAL>Bagaimana aku dapat mendes-
+kripsikan bagaimana aku
+berterima kasih?<PAGE><FACE_POS_RIGHT><FACE_MIKHAIL><FACE_SAD>Jika hanya kamu disini dapat
+mendengarkan suara dari
+hatiku...<PAGE>kamu dapat mendengar
+hanya bagaimana aku ber-
+terima kasih...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MIKHAIL><FACE_HAPPY><FP_RIGHT>Terima kasih untuk semua
+bantuanmu!<PAGE><FACE_POS_RIGHT><FACE_MIKHAIL><FACE_NORMAL>Aku tidak bisa mengekspre-
+sikan kedalam kata-kata,
+Aku sangat berterima kasih<PAGE>sedalam-dalamnya atas
+bantuanmu.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MIKHAIL><FACE_HAPPY><FP_RIGHT>Terima kasih untuk semua
+bantuanmu!<PAGE><FACE_POS_RIGHT><FACE_MIKHAIL><FACE_NORMAL>Aku tidak bisa mengekspre-
+sikan kedalam kata-kata,
+Aku sangat berterima kasih<PAGE>sedalam-dalamnya atas
+bantuanmu.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MIKHAIL><FACE_HAPPY><FP_RIGHT>Terima kasih untuk semua
+bantuanmu!<PAGE><FACE_POS_RIGHT><FACE_MIKHAIL><FACE_NORMAL>Aku tidak bisa mengekspre-
+sikan kedalam kata-kata,
+Aku sangat berterima kasih<PAGE>sedalam-dalamnya atas
+bantuanmu.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MIKHAIL><FACE_HAPPY><FP_RIGHT>Kamu berhak atas ucapan
+Terima kasih!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_HAPPY><FP_RIGHT>Terima kasih banyak untuk
+bantuanmu!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_HAPPY><FP_RIGHT>Terima kasih banyak untuk
+bantuanmu!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_HAPPY><FP_RIGHT>Terima kasih banyak untuk
+bantuanmu!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_HAPPY><FP_RIGHT>Terima kasih banyak untuk
+bantuanmu!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_HAPPY><FP_RIGHT>Terima kasih banyak!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>Mengapa?, Terima kasih!
+Aku tahu aku dapat
+mengandalkan kamu, sekarang!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_HAPPY><FP_RIGHT>Mengapa?, Terima kasih!
+Aku tahu aku dapat
+mengandalkan kamu, sekarang!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_HAPPY><FP_RIGHT>Mengapa?, Terima kasih!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_HAPPY><FP_RIGHT>Mengapa?, Terima kasih!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_HAPPY><FP_RIGHT>Terima kasih banyak.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_HAPPY><FP_RIGHT>Itu sangat membantu.
+Makasih...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_SHOCK><FP_RIGHT>Itu sangat membantu.
+Makasih...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_HAPPY><FP_RIGHT>Kerja bagus.
+Makasih.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_SHY><FP_RIGHT>Kamu telah sangat membantuku
+, makasih.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_HAPPY><FP_RIGHT>Terima kasih banyak.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>Aku yakin kakek aku akan
+menyukai ini. Terima kasih
+banyak.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Terima kasih banyak.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>Terima kasih banyak.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>Terima kasih banyak.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Terima kasih banyak.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>Terima kasih!
+Ini apa yang aku butuhkan!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>Terima kasih!
+Ini apa yang aku butuhkan!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>Ini apa yang aku butuhkan!
+Terima kasih!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>Ini apa yang aku butuhkan!
+Terima kasih!<PAGE>Hee hee.
+Sangat berbulu!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>Terima kasih sangat
+sangat banyaaaaaak!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Terima kasih!
+Kamu benar-benar membantu
+aku!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Terima kasih!
+Kamu benar-benar membantu
+aku!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Terima kasih!
+Kamu benar-benar membantu
+aku!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Terima kasih!
+Kamu benar-benar membantu
+aku!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Terima kasih banyak.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ROSE><FACE_HAPPY><FP_RIGHT>Aku tahu bahwa aku dapat
+mengandalkanmu untk menger-
+jakan pekerjaan ini, sayang.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ROSE><FACE_HAPPY><FP_RIGHT>Terima kasih banyak, sayang.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ROSE><FACE_HAPPY><FP_RIGHT><BLUE>★★★★★★★★★★★★★★
+Message Won't Appear!
+★★★★★★★★★★★★★★</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ROSE><FACE_HAPPY><FP_RIGHT><BLUE>★★★★★★★★★★★★★★
+Message Won't Appear!
+★★★★★★★★★★★★★★</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ROSE><FACE_HAPPY><FP_RIGHT>Terima kasih banyak.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_HAPPY><FP_RIGHT>Terima kasih banyak.
+Kamu benar-benar membantu.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_HAPPY><FP_RIGHT>Terima kasih banyak.
+Kamu benar-benar membantu.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_HAPPY><FP_RIGHT>Terima kasih banyak.
+Kamu benar-benar membantu.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_HAPPY><FP_RIGHT>Terima kasih banyak.
+Kamu benar-benar membantu.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_HAPPY><FP_RIGHT>Terima kasih banyak.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CHERYL><FACE_HAPPY><FP_RIGHT>Terima kasih untuk
+membantuku!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CHERYL><FACE_HAPPY><FP_RIGHT>Terima kasih untuk
+membantuku!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CHERYL><FACE_HAPPY><FP_RIGHT>Terima kasih untuk
+membantuku!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CHERYL><FACE_HAPPY><FP_RIGHT>Terima kasih untuk
+membantuku!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CHERYL><FACE_HAPPY><FP_RIGHT>Terima kasih banyak.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_EILEEN><FACE_HAPPY><FP_RIGHT>Kamu telah sangat membantuku
+Terima kasih!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_EILEEN><FACE_HAPPY><FP_RIGHT>Kamu telah sangat membantuku
+Terima kasih!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_EILEEN><FACE_HAPPY>Terima kasih banyak, <MYNAME>!
+Kamu benar-benar membantu
+ku disini!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_EILEEN><FACE_HAPPY><FP_RIGHT>Kamu telah sangat membantuku
+Terima kasih!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_EILEEN><FACE_HAPPY><FP_RIGHT>Terima kasih banyak.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HOWARD><FACE_HAPPY><FP_RIGHT>Terima kasih banyak,
+<MYNAME>!<RED>❤</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HOWARD><FACE_HAPPY><FP_RIGHT>Oh ho!<RED>❤</COLOR> Terima kasih!
+Kamu sudah banyak membantu,
+<MYNAME>!<PAGE>Ini apa yang sedang aku
+butuhkan!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HOWARD><FACE_HAPPY><FP_RIGHT>Terima kasih untuk ini!
+Ini akan sangat membantuku!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HOWARD><FACE_HAPPY><FP_RIGHT>Kerja bagus, <MYNAME>!
+Aku tahu bahwa aku dapat
+mengandalkanmu! Kamu begitu<PAGE>manis deh~<RED>❤</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HOWARD><FACE_HAPPY><FP_RIGHT>Terima kasih banyak!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GRADY><FACE_HAPPY><FP_RIGHT>Kamu adalah seorang
+penyelamat!
+Terima kasih! Terima kasih!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GRADY><FACE_HAPPY><FP_RIGHT>Terima kasih banyak!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GRADY><FACE_HAPPY><FP_RIGHT>Terima kasih!
+Itu sangat membantu!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GRADY><FACE_HAPPY><FP_RIGHT>Terima kasih!
+Itu sangat membantu!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GRADY><FACE_HAPPY><FP_RIGHT>Terima kasih banyak.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NATHAN><FACE_HAPPY><FP_RIGHT>Aku yakin dewi panen akan
+tahu kebaikanmu...<PAGE>Semoga dia memberkatimu!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NATHAN><FACE_HAPPY><FP_RIGHT>Aku yakin dewi panen akan
+tahu kebaikanmu...<PAGE>Semoga dia memberkatimu!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NATHAN><FACE_HAPPY><FP_RIGHT>Terima kasih banyak untuk
+memberikan permintaanku, 
+<MYNAME>...<PAGE>Aku sangat bersyukur!
+Semoga dia memberkatimu!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NATHAN><FACE_HAPPY><FP_RIGHT>Aku yakin dewi panen tahu
+kebaikanmu...<PAGE>Semoga dia memberikan
+kamu kebahagiaan...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NATHAN><FACE_HAPPY><FP_RIGHT>Terima kasih banyak.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Aku yakin dewi panen tahu
+kebaikanmu...<PAGE>Semoga dia memberikan
+kamu kebahagiaan...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Aku yakin dewi panen tahu
+kebaikanmu...<PAGE>Semoga dia memberikan
+kamu kebahagiaan...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Aku yakin dewi panen tahu
+kebaikanmu...<PAGE>Semoga dia memberikan
+kamu kebahagiaan...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Aku yakin dewi panen tahu
+kebaikanmu...<PAGE>Semoga dia memberikan
+kamu kebahagiaan...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Terima kasih banyak.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>Terima kasih.
+Kamu sudah sangat membantu.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>Terima kasih.
+Kamu sudah sangat membantu.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT><BLUE>★★★★★★★★★★★★★★
+Message Won't Appear!
+★★★★★★★★★★★★★★</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT><BLUE>★★★★★★★★★★★★★★
+Message Won't Appear!
+★★★★★★★★★★★★★★</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>Terima kasih banyak.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RAHI><FACE_HAPPY><FP_RIGHT>Terima kasih banyak atas
+semua bantuanmu!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RAHI><FACE_HAPPY><FP_RIGHT>Terima kasih banyak atas
+semua bantuanmu!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Te-Terima kasih banyak!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Te-Terima kasih banyak!
+<PAGE><FACE_POS_RIGHT><FACE_RAHI><FACE_ANGRY>Tolong jangan meringis!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RAHI><FACE_HAPPY><FP_RIGHT>Terima kasih banyak.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_HAPPY><FP_RIGHT>Terima kasih!
+Kamu adalah seorang
+penyelamat!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_HAPPY><FP_RIGHT>Terima kasih, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_HAPPY><FP_RIGHT>Terima kasih banyak!
+Kamu adalah seorang
+penyelamat!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_HAPPY><FP_RIGHT>Terima kasih banyak!
+Kamu adalah seorang
+penyelamat!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_HAPPY><FP_RIGHT>Terima kasih banyak.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MAKO><FACE_HAPPY><FP_RIGHT>Ini sangat membantuku.
+Makasih.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MAKO><FACE_HAPPY><FP_RIGHT>Hmm!
+Kerja bagus! kerja bagus!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MAKO><FACE_HAPPY><FP_RIGHT>Ini sangat membantuku.
+Makasih.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MAKO><FACE_HAPPY><FP_RIGHT>Ini sangat membantuku.
+Makasih.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MAKO><FACE_HAPPY><FP_RIGHT>Terima kasih banyak.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_AYAME><FACE_HAPPY><FP_RIGHT>Kamu tahu apa yang bisa
+dilakukan! Aku terkesan!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_AYAME><FACE_HAPPY><FP_RIGHT>Kamu tahu apa yang bisa
+dilakukan! Aku terkesan!<PAGE>Hal ini akan mempercepat
+penelitihanku...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_AYAME><FACE_HAPPY><FP_RIGHT>Kamu tahu apa yang bisa
+dilakukan! Aku terkesan!<PAGE>Hal ini akan mempercepat
+penelitihanku...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_AYAME><FACE_HAPPY><FP_RIGHT>Kamu tahu apa yang bisa
+dilakukan! Aku terkesan!<PAGE>Hal ini akan mempercepat
+penelitihanku...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_AYAME><FACE_HAPPY><FP_RIGHT>Terima kasih banyak.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_YUN><FACE_HAPPY><FP_RIGHT>Terima kasih!
+Aku tahu bahwa aku bisa
+mengandalkanmu!<PAGE>Itu merupakan sangat 
+membantu!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_YUN><FACE_HAPPY><FP_RIGHT>Terima kasih!
+Aku tahu bahwa aku bisa
+mengandalkanmu!<PAGE>Itu merupakan sangat 
+membantu!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_YUN><FACE_HAPPY><FP_RIGHT>Kamu sangat membantu!
+Aku puas! Ini sempurna!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_YUN><FACE_HAPPY><FP_RIGHT>Kamu sangat membantu!
+Aku puas! Ini sempurna!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_YUN><FACE_HAPPY><FP_RIGHT>Terima kasih banyak.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_YING><FACE_HAPPY><FP_RIGHT>Terima kasih banyak.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_YING><FACE_HAPPY><FP_RIGHT>Wow, <MYNAME>...
+Kamu lakukan dengan baik!
+Terima kasih!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_YING><FACE_HAPPY><FP_RIGHT>Terima kasih banyak.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_YING><FACE_HAPPY><FP_RIGHT>Terima kasih banyak.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_YING><FACE_HAPPY><FP_RIGHT>Terima kasih banyak.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_HAPPY><FP_RIGHT>Ini bagus!
+Terima kasih!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_HAPPY><FP_RIGHT>Terima kasih atas bantuanmu!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_HAPPY><FP_RIGHT>Terima kasih atas bantuanmu!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_HAPPY><FP_RIGHT>Terima kasih atas bantuanmu!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_HAPPY><FP_RIGHT>Terima kasih banyak.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_SHENG><FACE_HAPPY><FP_RIGHT>Ini benar-benar membantu!
+Terima kasih!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_SHENG><FACE_HAPPY><FP_RIGHT>Ini benar-benar membantu!
+Terima kasih!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_SHENG><FACE_HAPPY><FP_RIGHT>Ini benar-benar membantu!
+Terima kasih!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_SHENG><FACE_HAPPY><FP_RIGHT>Ini benar-benar membantu!
+Terima kasih!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_SHENG><FACE_HAPPY><FP_RIGHT>Terima kasih banyak.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIEGO><FACE_HAPPY><FP_RIGHT>Terima kasih banyak!
+Aku harap bisa mengandal
+kanmu lagi nanti!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIEGO><FACE_HAPPY><FP_RIGHT>Terima kasih banyak!
+Aku harap bisa mengandal
+kanmu lagi nanti!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIEGO><FACE_HAPPY><FP_RIGHT>Terima kasih banyak!
+Aku harap bisa mengandal
+kanmu lagi nanti!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIEGO><FACE_HAPPY><FP_RIGHT>Terima kasih banyak!
+Aku harap bisa mengandal
+kanmu lagi nanti!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIEGO><FACE_HAPPY><FP_RIGHT>Terima kasih banyak.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RAUL><FACE_HAPPY><FP_RIGHT>Terima kasih banyak!
+Aku harap bisa mengandal
+kanmu lagi nanti!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RAUL><FACE_HAPPY><FP_RIGHT>Kerja bagus, <MYNAME>!
+Ini yang aku butuhkan!
+Ho ho ho!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RAUL><FACE_HAPPY><FP_RIGHT>Terima kasih banyak!
+Aku harap bisa mengandal
+kanmu lagi nanti!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RAUL><FACE_HAPPY><FP_RIGHT>Terima kasih banyak!
+Aku harap bisa mengandal
+kanmu lagi nanti!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RAUL><FACE_HAPPY><FP_RIGHT>Terima kasih banyak.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ENRIQUE><FACE_HAPPY><FP_RIGHT>Terima kasih banyak!
+Aku harap bisa mengandal
+kanmu lagi nanti!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ENRIQUE><FACE_HAPPY><FP_RIGHT>Terima kasih banyak!
+Aku harap bisa mengandal
+kanmu lagi nanti!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ENRIQUE><FACE_HAPPY><FP_RIGHT>Terima kasih banyak!
+Aku harap bisa mengandal
+kanmu lagi nanti!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ENRIQUE><FACE_HAPPY><FP_RIGHT>Terima kasih banyak!
+Aku harap bisa mengandal
+kanmu lagi nanti!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ENRIQUE><FACE_HAPPY><FP_RIGHT>Terima kasih banyak.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_HAPPY><FP_RIGHT>Terima kasih banyak.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_HAPPY><FP_RIGHT>Terima kasih banyak.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_HAPPY><FP_RIGHT>Terima kasih banyak.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_HAPPY><FP_RIGHT>Terima kasih banyak.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_HAPPY><FP_RIGHT>Terima kasih banyak.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Terima kasih!
+Kamu telah sangat membantuku
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Terima kasih!
+Kamu telah sangat membantuku
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Terima kasih!
+Kamu telah sangat membantuku
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Terima kasih!
+Kamu telah sangat membantuku
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Terima kasih banyak.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KID><FACE_NORMAL><FP_RIGHT>Terima kasih banyak.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KID><FACE_NORMAL><FP_RIGHT>Terima kasih banyak.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KID><FACE_NORMAL><FP_RIGHT>Terima kasih banyak.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KID><FACE_NORMAL><FP_RIGHT>Terima kasih banyak.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KID><FACE_NORMAL><FP_RIGHT>Terima kasih banyak.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HERO><FACE_NORMAL><FP_RIGHT>Terima kasih banyak.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HERO><FACE_NORMAL><FP_RIGHT>Terima kasih banyak.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HERO><FACE_NORMAL><FP_RIGHT>Terima kasih banyak.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HERO><FACE_NORMAL><FP_RIGHT>Terima kasih banyak.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HERO><FACE_NORMAL><FP_RIGHT>Terima kasih banyak.
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fc8<FP_RIGHT>Makasih.
+Aku akan menikmatinya...
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fc8<FP_RIGHT>Terima kasih!
+Ini membuat keluargaku
+senang!
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fc8<FP_RIGHT>Makasih.
+Aku akan menikmatinya...
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fc8<FP_RIGHT>Makasih.
+Ini bantuan besar!
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fc8<FP_RIGHT>Terima kasih banyak.
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fc9<FP_RIGHT>Heh.
+Terima kasih!<RED>❤</COLOR>
+Kamu sangat membantu.
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fc9<FP_RIGHT>Heh.
+Terima kasih!<RED>❤</COLOR>
+Kamu sangat membantu.
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fc9<FP_RIGHT>Heh.
+Terima kasih!<RED>❤</COLOR>
+Kamu sangat membantu.
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fc9<FP_RIGHT>Heh.
+Terima kasih!<RED>❤</COLOR>
+Kamu sangat membantu.
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fc9<FP_RIGHT>Terima kasih banyak.
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fca<FP_RIGHT>Makasih.
+Aku akan simpan ini.
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fca<FP_RIGHT>Makasih.
+Aku gunakan sebaik-baiknya.
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fca<FP_RIGHT>Makasih.
+Ini sangat membantuku.
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fca<FP_RIGHT>Makasih.
+Ini sangat membantuku.
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fca<FP_RIGHT>Terima kasih banyak.
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fcb<FP_RIGHT>Makasih.
+Aku akan menyimpannya.
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fcb<FP_RIGHT>Makasih.
+Aku gunakan dengan baik.
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fcb<FP_RIGHT>Makasih.
+Aku akan mengurusinya 
+dengan baik.
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fcb<FP_RIGHT>Makasih.
+Kamu sangat membantuku.
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fcb<FP_RIGHT>Terima kasih banyak.
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fcc<FP_RIGHT>Terima kasih banyak!
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fcc<FP_RIGHT>Terima kasih memberikan ini!
+Aku tetap berpikiran miliku
+lebih baik daripada kamu!
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fcc<FP_RIGHT>Well, terima kasih ya!<PAGE>J-Jangan meringis kepada
+aku seperti itu!
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fcc<FP_RIGHT>Well, terima kasih ya!<PAGE>J-Jangan meringis kepada
+aku seperti itu!
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fcc<FP_RIGHT>Terima kasih banyak.
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fcd<FP_RIGHT>Oh!<PAGE>...*batuk*<PAGE>Ini lebih baik daripada aku
+harapkan.<PAGE>Kurasa aku berhutang kepada
+mu. Makasih.
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fcd<FP_RIGHT>Aku mendapatkannya.
+Makasih.
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fcd<FP_RIGHT>Tapi...
+Aku rasa aku membutuhkan
+mendapatkan ketenaran lebih.<PAGE>btw, terima kasih ya.
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fcd<FP_RIGHT>Oh!<PAGE>...\u270b*batuk*<PAGE>Aku kira, makasih..
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fcd<FP_RIGHT>Terima kasih banyak.

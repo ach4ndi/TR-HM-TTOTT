@@ -1,0 +1,75 @@
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Telolelolet!
+Selamat!<PAGE>Kamu sudah menangkap 30
+<VAR_0>! Yay!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>Kamu masih belum banyak
+menangkap jenis itu, jadi
+tangkap lebih banyak!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Semoga beruntung!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Telolelolet!
+Selamat!<PAGE>Kamu sudah menangkap 100
+<VAR_0>! Yay!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>Kamu semakin lama semakin
+bagus saja!<PAGE>Cobalah memancing ditempat
+dan waktu yang berbeda!<PAGE>Kamu mungkin akan menangkap
+jenis ikan yang belum di-
+tangkap!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Semoga beruntung!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Telolelolet!
+Selamat!<PAGE>Kamu sudah menangkap 300
+<VAR_0>! Yay!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>Kamu benar-benar sangat
+mahir dalam menangkap segala
+jenis ikan!<PAGE>tangkap!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Semoga beruntung!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Telolelolet!
+Selamat!<PAGE>Kamu sudah menangkap 500
+<VAR_0>! Yay!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>Wow, kamu yakin sudah me-
+nangkap semuanya? Kamu pas-
+tinya suka memancing!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Semoga beruntung!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Telolelolet!
+Selamat!<PAGE>Kamu sudah menangkap 1000
+<VAR_0>! Yay!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>Kamu dah menangkap banyak
+dair jenis itu sekarang!<PAGE>Apakah kamu itu sudah cukup?
+Kamu sudah sangat banyak
+menangkapnya loh.<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>Kamu pastinya benar-benar
+menikmati menangkap ikan
+sudah lama ini loh!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Semoga memancingmu itu
+menyenangkan!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><HIDE_NAME><FACE_HGODDES><FACE_NORMAL><FP_LEFT><HIDE_FACE>Telolelolet!
+Kamu sudah menangkap 30
+<VAR_0>!<PAGE>btw, apakah kamu sudah
+mengetahui siapa aku?<PAGE>Aku akan memberitahukanmu
+jika kamu dapat menemukan
+aku!<PAGE>Pertahankan kerja bagusmu
+itu!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><HIDE_NAME><FACE_HGODDES><FACE_NORMAL><FP_LEFT><HIDE_FACE>Telolelolet!
+Kamu sudah menangkap 100
+<VAR_0>!<PAGE>btw, apakah kamu sudah
+mengetahui siapa aku?<PAGE>Aku akan memberitahukanmu
+jika kamu dapat menemukan
+aku!<PAGE>Pertahankan kerja bagusmu
+itu!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><HIDE_NAME><FACE_HGODDES><FACE_NORMAL><FP_LEFT><HIDE_FACE>Telolelolet!
+Kamu sudah menangkap 300
+<VAR_0>!<PAGE>btw, apakah kamu sudah
+mengetahui siapa aku?<PAGE>Aku akan memberitahukanmu
+jika kamu dapat menemukan
+aku!<PAGE>Pertahankan kerja bagusmu
+itu!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><HIDE_NAME><FACE_HGODDES><FACE_NORMAL><FP_LEFT><HIDE_FACE>Telolelolet!
+Kamu sudah menangkap 500
+<VAR_0>!<PAGE>btw, apakah kamu sudah
+mengetahui siapa aku?<PAGE>Aku akan memberitahukanmu
+jika kamu dapat menemukan
+aku!<PAGE>Pertahankan kerja bagusmu
+itu!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><HIDE_NAME><FACE_HGODDES><FACE_NORMAL><FP_LEFT><HIDE_FACE>Telolelolet!
+Kamu sudah menangkap 500
+<VAR_0>!<PAGE>btw, apakah ini saatnya
+kamu mengetahui siapa aku?<PAGE>Aku pikir akan menampakkan
+diriku didepan kolam untuk
+ditemukan...<PAGE>Pertahankan kerja bagusmu
+itu!

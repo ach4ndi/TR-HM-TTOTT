@@ -1,0 +1,58 @@
+<FACE_POS_RIGHT><FACE_LANEY><FACE_SHOCK><FP_RIGHT>Um...this <RED>blue feather</COLOR>...
+You mean it, right?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_HAPPY><FP_RIGHT>Of course! You'd never
+joke about something
+like this...<PAGE><FACE_POS_RIGHT><FACE_LANEY><FACE_NORMAL><FP_RIGHT>You know...
+<PAGE>...I've always wanted to
+share my baking with people
+and make them smile.<PAGE>And I thought I'd have to go
+to the big city to really
+realize my potential.<PAGE>But you know what?
+Lately I've changed my
+mind.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_NORMAL><FP_RIGHT>It makes me happy when
+people tell me how delicious
+my baking is.<PAGE>But, uh...
+When you tell me that
+it's delicious...<PAGE><FACE_POS_RIGHT><FACE_LANEY><FACE_SHOCK><FP_RIGHT>Well, I realized that
+that makes me happier
+than anything else.<PAGE><FACE_POS_RIGHT><FACE_LANEY><FACE_HAPPY><FP_RIGHT>So I'm really glad
+you gave me this feather.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_HAPPY><FP_RIGHT>I should go tell my dad.
+<PAGE><MYNAME>, will you
+come with me?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_HOWARD><FACE_HAPPY><FP_LEFT>So it's finally happened!</COLOR>
+<PAGE>I've been so hoping you two
+would tie the knot!
+<PAGE>I know you'll make my
+Laney very happy,
+<MYNAME>.<PAGE><FACE_POS_RIGHT><FACE_CAM><FACE_HAPPY><FP_RIGHT>Congratulations, you two!
+<PAGE>I'll make you the best
+bouquet you've ever seen!<PAGE><FACE_POS_LEFT><FACE_HOWARD><FACE_NORMAL><FP_LEFT>So, the wedding!
+When were you thinking?<PAGE><FACE_POS_RIGHT><FACE_LANEY><FACE_HAPPY><FP_RIGHT><MYNAME> and I were
+thinking about a week from
+now. Right, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_HOWARD><FACE_HAPPY><FP_LEFT>I see. Then we've got
+some preparations to make!
+<PAGE>And, <MYNAME>,
+your wedding day is going
+to be very busy.<PAGE>So you need to get all your
+work done the day before.<PAGE>And I've got to decide
+what to wear!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_SHY><FP_RIGHT>H-Howard... Aren't you
+getting a little carried
+away?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_HOWARD><FACE_HAPPY><FP_LEFT>What are you talking about?
+It's my daughter's wedding!
+There's no time to waste!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_HOWARD><FACE_NORMAL><FP_LEFT>Take care of Laney,
+<MYNAME>.<PAGE><FACE_POS_LEFT><FACE_HOWARD><FACE_HAPPY><FP_LEFT>I know you'll make her
+happy!

@@ -1,0 +1,88 @@
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Telolelolet!
+Kamu telah menemukan 20
+barang disungai! Selamat!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>Kamu benar-benar beruntung!<PAGE>Uh, Aku pikiri jika kamu
+sering jatuh kesungai, kamu
+akan menemukan sesuatu...<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Btw, disaat kamu menemukan
+barang disungai itu bagus,
+tapi jaga staminamu!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Telolelolet!
+Kamu telah menemukan 50
+barang disungai! Selamat!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>Tampaknya keberuntunganmu
+itu yang membuatmu dapat
+menemukan barangnya!<PAGE>Aku penasaran sampai mana
+itu bisa dilakukan!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Btw, disaat kamu menemukan
+barang disungai itu bagus,
+tapi jaga staminamu!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Telolelolet!
+Kamu telah menemukan 100
+barang disungai! Selamat!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>Kamu itu manusia yang berun-
+tung!<PAGE>Apakah sudah menemukan 
+barang tambang yang
+bagus disungai?<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Btw, disaat kamu menemukan
+barang disungai itu bagus,
+tapi jaga staminamu!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Telolelolet!
+Kamu telah menemukan 175
+barang disungai! Selamat!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>Kamu itu memang sangat
+beruntung!<PAGE>Aku tidak pernah melihat
+seseorang yang jatuh
+kesungai sebanyak kamu...<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Btw, disaat kamu menemukan
+barang disungai itu bagus,
+tapi jaga staminamu!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Telolelolet!
+Kamu telah menemukan 255
+barang disungai! Selamat!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>Kalau seperti ini, ini tidak
+adil kalau disebut sebuah
+keberuntungan...<PAGE>Ini sebuah talenta yang mem-
+buatmu mendapatkan barang
+yang bagus!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>Aku sudah sangat bosan me-
+lihatmu melakukan itu...
+terus menerus...<PAGE>Kamu bisa lompat kesungai
+sebanyak kamu mau, tapi
+aku tidak akan memantau-<PAGE>mu lagi mulai dari sekarang
+bosen tauk!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Tetaplah bekerja dengan
+baik!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><HIDE_NAME><FACE_HGODDES><FACE_NORMAL><FP_LEFT><HIDE_FACE>Telolelolet!
+Kamu telah menemukan 20
+barang disungai! Selamat!<PAGE>btw, apakah kamu sudah
+mengetahui siapa aku?<PAGE>Aku akan memberitahukanmu
+jika kamu dapat menemukan
+aku!<PAGE>Tetaplah bekerja dengan
+baik!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><HIDE_NAME><FACE_HGODDES><FACE_NORMAL><FP_LEFT><HIDE_FACE>Telolelolet!
+Kamu telah menemukan 50
+barang disungai! Selamat!<PAGE>btw, apakah kamu sudah
+mengetahui siapa aku?<PAGE>Aku akan memberitahukanmu
+jika kamu dapat menemukan
+aku!<PAGE>Tetaplah bekerja dengan
+baik!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><HIDE_NAME><FACE_HGODDES><FACE_NORMAL><FP_LEFT><HIDE_FACE>Telolelolet!
+Kamu telah menemukan 100
+barang disungai! Selamat!<PAGE>btw, apakah kamu sudah
+mengetahui siapa aku?<PAGE>Aku akan memberitahukanmu
+jika kamu dapat menemukan
+aku!<PAGE>Tetaplah bekerja dengan
+baik!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><HIDE_NAME><FACE_HGODDES><FACE_NORMAL><FP_LEFT><HIDE_FACE>Telolelolet!
+Kamu telah menemukan 175
+barang disungai! Selamat!<PAGE>btw, apakah kamu sudah
+mengetahui siapa aku?<PAGE>Aku akan memberitahukanmu
+jika kamu dapat menemukan
+aku!<PAGE>Tetaplah bekerja dengan
+baik!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><HIDE_NAME><FACE_HGODDES><FACE_NORMAL><FP_LEFT><HIDE_FACE>Telolelolet!
+Kamu telah menemukan 255
+barang disungai! Selamat!<PAGE>Btw, bukankah ini saatnya
+kamu mengetahui siapa aku?<PAGE>Aku pikir akan menampakkan
+diriku didepan kolam yang
+ada dipuncak pegunungan...<PAGE>Tetaplah bekerja dengan
+baik!

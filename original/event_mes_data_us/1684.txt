@@ -1,0 +1,60 @@
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>Error!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>Oooh, you saw my super
+nifty request on the board?
+Great!<PAGE>Now then, let's make the
+trade, shall we?
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>Error!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>Error!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>Ooh, this is what I wanted!
+It's so fluff-fluff-FLUFFY!<PAGE>\u20d0I love it!<RED>❤</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>Error!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>Now the money.
+That's <VAR_0>G.
+<PAGE><FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY>So fluffy...<RED>❤</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>Error!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>Error!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>Error!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>Error!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>Error!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_ANGRY><FP_RIGHT>Oh. Ahem!<PAGE><FACE_POS_RIGHT><FACE_ULYSSA><FACE_NORMAL>So, uh, thanks, then!
+Good work.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>This is for you.
+You may take it!
+----------------------------|----------------------------------
+\u2137You got a <RED>wild outfit</COLOR>!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>So how about it? Super
+great, right?
+<PAGE><FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY>You don't have to say
+anything! I can see it in
+your face!<PAGE><FACE_POS_RIGHT><FACE_ULYSSA><FACE_NORMAL>Now then, these clothes
+have a special power...
+<PAGE><FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY>When you put them on, they
+cast a spell over you to
+<RED>make the sun come out</COLOR>!<PAGE>Pretty incredible, right?
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>It's kind of interesting to
+use my needle again.
+I enjoyed myself!<PAGE><FACE_POS_RIGHT><FACE_ULYSSA><FACE_ANGRY>You'd better take
+care of those clothes!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>Error!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>Error!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>Error!</COLOR>

@@ -1,0 +1,32 @@
+<FACE_POS_LEFT><FACE_AYAME><FACE_NORMAL><FP_LEFT>Hey, come on in,
+kiddo!<PAGE>Would you mind brewing up
+some tea or something for
+me?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_AYAME><FACE_NORMAL><FP_LEFT>If you're looking for Hiro,
+I sent him out shopping.
+He'll be back soon, I think.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_AYAME><FACE_HAPPY><FP_LEFT>What a cute outfit! You're
+always dressed with such
+style, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_HIRO><FACE_HAPPY><FP_LEFT>Oh, I didn't know you were
+here, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_HIRO><FACE_NORMAL><FP_LEFT>What have you two been
+discussing?<PAGE><FACE_POS_RIGHT><FACE_AYAME><FACE_NORMAL><FP_RIGHT>We were talking about
+clothes.<PAGE><MYNAME> is a very stylish
+dresser, Hiro! You could
+take some hints!<PAGE>Studying medicine alone
+won't make you a good
+doctor, Hiro.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_HIRO><FACE_SHY><FP_LEFT>Medicine and fashion are
+utterly unrelated! I need
+not change my style!<PAGE><FACE_POS_RIGHT><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Oh? I'm not so sure about
+that...<PAGE><FACE_POS_LEFT><FACE_HIRO><FACE_ANGRY><FP_LEFT>I ask you to cease from
+treating me like a child,
+thank you very much!<PAGE><FACE_POS_RIGHT><FACE_AYAME><FACE_HAPPY><FP_RIGHT>Who's treating you like a
+child, my darling little
+Hiro-kins?

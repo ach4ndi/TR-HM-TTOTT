@@ -1,0 +1,56 @@
+<FACE_POS_RIGHT><FACE_LANEY><FACE_SAD><FP_RIGHT>*Huuh*...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_NORMAL><FP_RIGHT>Oh, Aku minta maaf!
+Aku hanya berpikir...<PAGE>Ada sesuatu yg
+mengkhawatirkanku<PAGE>Hey, <MYNAME>.
+kamu kesini untuk
+jadi petani kan?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_SHY><FP_RIGHT>Apa kamu merasa
+sedih ketika kamu 
+meninggalkan desamu?
+----------------------------|----------------------------------
+<CHOICE_AB> Sangat sedih njir.
+ Pertama sih iya, tapi sekarang nggak.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_SAD><FP_RIGHT>Oh...
+jadi kamu merindukannya?
+Hmmmmm.<PAGE>Aku juga pernah merasakanya
+tapi aku udah move on.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_NORMAL><FP_RIGHT>Maaf gapenting.
+jangan khawatirkan 
+ini.<PAGE>Maaf aku harus
+pulang ke rumah.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_SHY><FP_RIGHT>Bener nih? kamu nggak 
+kangen?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_SHY><FP_RIGHT>Karena kamu punya
+ingatan baik disana
+dan hal baik disini?.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_NORMAL><FP_RIGHT>Hmm.<PAGE>Jadi kamu menyukai
+desa ini sampai setua
+Kakek Sugiono?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_HAPPY><FP_RIGHT>Yeah!
+makasih, <MYNAME>.<PAGE> aku merasa
+lebih baik.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_NORMAL><FP_RIGHT>Yeah, aku ingin
+berbagi kue kueku
+ke semuanya.<PAGE>Suatu hari nanti
+aku akan membuat cafeku bersama
+suamiku di kota.<PAGE><FACE_POS_RIGHT><FACE_LANEY><FACE_SHY><FP_RIGHT>Tapi aku cinta
+desa ini.<PAGE><FACE_POS_RIGHT><FACE_LANEY><FACE_SAD><FP_RIGHT>Aku gatau apa yg mesti dilakuin.
+<PAGE><FACE_POS_RIGHT><FACE_LANEY><FACE_HAPPY><FP_RIGHT>Tapi aku senang membicarakan
+tentang ini, <MYNAME>.<PAGE>Semoga harapanku terwujud
+Eaaa :V
+makasih, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_NORMAL><FP_RIGHT>Hey, <MYNAME>.<PAGE>Mau mampir dulu gak ke
+Cafeku nanti aku sediain 
+kopi panas?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_HAPPY><FP_RIGHT>Hee hee. Ayo!

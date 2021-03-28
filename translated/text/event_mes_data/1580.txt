@@ -1,0 +1,59 @@
+<FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL>Selamat datang di toko
+bunga CAM.<INPUT_KEYPAD>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><CHOICE_ABC> Lihat barang.
+ Buatkan karangan/parfum.
+ Lupakan.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL>Datang kembali ya.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_SAD>Maaf. Kamu tidak mempunyai
+uang yang cukup.<PAGE><FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL>Ada yang bisa dibantu?<INPUT_KEYPAD>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_HAPPY>Terima kasih!
+Jaga baik-baik ya.
+<INPUT_KEYPAD>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_SAD>Sepertinya tidak ada ruang
+didalam tasmu.<INPUT_KEYPAD>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL>Apa kamu berubah pikiran?
+Oke. Ada seusuatu yang di
+inginkan?<INPUT_KEYPAD>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL>Semuanya itu, <RED><VAR_0>G</COLOR>.
+<CHOICE_AB> Beli.
+ Lupakan.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL>Biayanya <RED><VAR_1>G</COLOR>
+untuk tiap <VAR_0>.<PAGE>Berapa banyak yang 
+akan kamu beli?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL>Semua barang telah habis
+terjual hari ini.
+Maaf sudah habis.<INPUT_KEYPAD>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL>Semuanya sudah terjual habis
+untuk hari ini.<INPUT_KEYPAD>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_SAD>Apa kamu yakin sudah mempu-
+nyai semua materialnya?
+Kelihatannya belum.<INPUT_KEYPAD>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><CHOICE_ABC> Buat karangan bunga.
+ Buat parfum.
+ Lupakan.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_SAD>Tidak masalah. Beritahuku
+jika kamu membutuhkan sesu-
+atu yang lainnya.<INPUT_KEYPAD>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_SAD>Maaf...
+Aku saat ini tidak siap.<INPUT_KEYPAD>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL>Biayanya <RED><VAR_0>G</COLOR>, oke?
+<CHOICE_AB> Ya.
+ Lupakan.
+----------------------------|----------------------------------
+Ini dia!
+<GREEN><VAR_2></COLOR>!

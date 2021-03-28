@@ -1,0 +1,58 @@
+<FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL>Welcome to Cam's Flowers.\u2390
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><CHOICE_ABC> View items.
+ Make bouquet or perfume.
+ Never mind.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL>Come by again.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_SAD>Sorry. You don't have
+enough money.<PAGE><FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL>Need anything else?\u2390
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_HAPPY>Thank you!
+Take good care of it.
+\u2390
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_SAD>There's no space in your
+bag.\u2390
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL>Changed your mind? Okay.
+Would you like anything
+else?\u2390
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL>That'll be <RED><VAR_0>G</COLOR>.
+<CHOICE_AB> Buy.
+ Never mind.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL>That'll be <RED><VAR_1>G</COLOR>
+for each <VAR_0>.
+How many do you want to buy?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL>It's all sold out today.
+Sorry about that.\u2390
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL>Everything is sold out
+today.\u2390
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_SAD>Are you sure you have
+all the materials? It
+doesn't look like it.\u2390
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><CHOICE_ABC> Make bouquet.
+ Make perfume.
+ Never mind.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_SAD>No problem. Let me know
+if you need anything
+else.\u2390
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_SAD>Sorry...
+I'm not available at
+the moment.\u2390
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL>It'll be <RED><VAR_0>G</COLOR>, okay?
+<CHOICE_AB> Yes.
+ Never mind.
+----------------------------|----------------------------------
+Here it is!
+<GREEN><VAR_2></COLOR>!

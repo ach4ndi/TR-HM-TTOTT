@@ -1,0 +1,209 @@
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Do you know how to take care
+of cows?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Do you know how to take care
+of chickens?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Do you know how to take care
+of sheep?
+----------------------------|----------------------------------
+<CHOICE_AB> No, I don't know how.
+ Yes, I know how.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_HAPPY><FP_RIGHT>You're so capable,
+<MYNAME>!<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_HAPPY><FP_RIGHT>Well now,
+I need to give you this...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_HAPPY><FP_RIGHT>This is a <RED>milker</COLOR>.<PAGE>When your calves grow up,
+you can use this to
+milk them.<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Use it well!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_HAPPY><FP_RIGHT>Here's a <RED>brush</COLOR>.<PAGE>When your cows get dirty,
+use this to brush them and
+get them clean.<PAGE>If you let your cows stay
+dirty, they will get sick.
+Brush them every day.<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Take good care of your
+cows!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_HAPPY><FP_RIGHT>You're so capable,
+<MYNAME>!<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Oh my, I almost forgot
+something important!<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_HAPPY><FP_RIGHT>These chicks, when they
+grow up into chickens, can
+hatch more chicks!<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>If you want your chickens to
+hatch chicks, come see me.<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Keep in mind that only 
+<RED>healthy adult</COLOR> chickens can
+hatch chicks.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_HAPPY><FP_RIGHT>These are <RED>clippers</COLOR>.<PAGE>Once your lamb grows up,
+use these to shear her
+for wool.<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Take good care of your
+sheep!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>I'll be heading home now.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Well then, I'll explain
+everything you need to know!
+<PAGE>First let me tell you how
+to pasture your livestock.<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_HAPPY><FP_RIGHT>On days with good weather,
+put them out to pasture
+to graze on the grass.<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Get next to your cow, and
+then push it in the
+direction you want it to go.<PAGE>That way you can lead it out
+of the barn.<PAGE>When night comes, be sure to
+bring your livestock back
+into the barn.<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_ANGRY><FP_RIGHT>One thing you have to be
+careful about when pasturing
+is the weather.<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_SAD><FP_RIGHT>Don't put your animals out
+to pasture when the weather
+is bad.<PAGE>If you put cows out to
+pasture on a rainy day, they
+will get stressed.<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Even on sunny mornings, the
+day can turn rainy in the
+afternoon, so be careful.<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_HAPPY><FP_RIGHT>On days when your cows stay
+indoors, feed them with
+<RED>fodder</COLOR>.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_JESSICA><FACE_NORMAL><FP_LEFT>Just throw the fodder into
+the feed box.<PAGE><FACE_POS_LEFT><FACE_JESSICA><FACE_HAPPY><FP_LEFT>Then all the cows will
+come and eat from it.<PAGE><FACE_POS_LEFT><FACE_JESSICA><FACE_NORMAL><FP_LEFT>One unit of fodder feeds
+five cows, and one feed
+box can hold enough for 10.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_JESSICA><FACE_NORMAL><FP_LEFT>And about the fodder...
+you can keep it in
+<RED>storage</COLOR>...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>It will come out of the
+fodder chute...<PAGE>You can buy fodder at my
+shop, so come buy more if
+you run out.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Now I'll talk about the
+health of your livestock.<PAGE>You have to feed them once
+a day.<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_ANGRY><FP_RIGHT>And you should talk to your
+animals.<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>If you don't feed or talk to
+them for several days, they
+will get stressed...<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_SAD><FP_RIGHT>And then they'll get sick.<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>If they get sick, give them
+<RED>animal medicine</COLOR> right away.<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_SAD><FP_RIGHT>If you don't treat a sick
+animal, it will die.<PAGE>Don't be careless and let
+that happen! Your animals
+depend on you!<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>But no matter how well you
+take care of your animals,
+they won't live forever.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>When a calf grows up
+to be a cow, you can
+milk it.<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_HAPPY><FP_RIGHT>The quality of milk a cow
+gives will improve if you
+raise your friendship.<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>This calf is still a baby,
+but in a little while she'll
+grow up to be a fine cow.<PAGE>A way to make your livestock
+happier is to give them
+<RED>treats</COLOR>.<PAGE>You can only give each
+animal <RED>one treat per day</COLOR>.<PAGE>Different animals have their
+own favorite treats. Give
+them that treat every day.<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_HAPPY><FP_RIGHT>If you do, you'll raise
+your friendship quickly!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_HAPPY><FP_RIGHT>Oh, that's right, I need to
+give you this...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Oh my, I almost forgot
+something important!<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_HAPPY><FP_RIGHT>She may be young now, but
+when she <RED>grows up</COLOR>, she can
+<RED>have babies of her own</COLOR>!<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Just bring her to my shop
+and <RED>leave her with me for
+two weeks</COLOR> for that.<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Remember that only <RED>healthy</COLOR>
+animals can have babies,
+though.<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_HAPPY><FP_RIGHT>I also can't take animals
+that are dirty, so clean her
+up before you bring her.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Well then, I'll explain
+everything you need to know!
+<PAGE>First, let me tell you how
+to feed them.<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_HAPPY><FP_RIGHT>On sunny days, just let them
+outside and they will peck
+around the ground for food.<PAGE>Pick up the chicken inside
+the barn, take it out to the
+fenced area, and let it go.<PAGE>When night comes, make sure
+you put your chickens back
+in the barn!<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_ANGRY><FP_RIGHT>One thing you have to be
+careful of when setting them
+out to feed is the weather.<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_SAD><FP_RIGHT>Don't put your chickens out
+when the weather
+is bad.<PAGE>If you put chickens out to
+feed on a rainy day, they
+will get stressed.<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Even on sunny mornings, the
+day can turn rainy in the
+afternoon, so be careful.<PAGE>On days when your chickens
+stay indoors, feed them with
+<RED>chicken feed</COLOR>.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_HAPPY><FP_RIGHT>Toss out the chicken feed in
+the <RED>feeding area</COLOR> and your
+chickens will flock to eat!<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>One unit of chicken feed
+is a meal for five chickens.<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_HAPPY><FP_RIGHT>One feeding area can hold
+ten meals worth of chicken
+feed.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>As for the chicken feed...
+you can keep it in
+<RED>storage</COLOR>...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_HAPPY><FP_RIGHT>It will come out of the
+fodder chute!<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>It's convenient to buy feed
+and put it in your storage.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Now I'll talk about the
+health of your animals.<PAGE>You have to feed them once
+a day.<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_ANGRY>And you should talk to your
+animals.<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL>If you don't feed or talk to
+them for several days, they
+will become stressed...<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_SAD><FP_RIGHT>And then they'll get sick.<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>If they get sick, give them
+<RED>animal medicine</COLOR> right away.<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_SAD><FP_RIGHT>If you don't treat a sick
+animal, it will die.<PAGE>Don't be careless and let
+that happen! Your animals
+depend on you!<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>But no matter how well you
+take care of your animals,
+they won't live forever.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>If you raise chicks, they
+will grow into chickens and
+lay <RED>eggs</COLOR>!<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_HAPPY><FP_RIGHT>The quality of eggs chickens
+lay will improve if you
+talk to them every day.<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>This chick is still a baby,
+but in a little while she'll
+grow into a fine chicken.<PAGE>A way to make your animals
+happier is to give them
+<RED>treats</COLOR>.<PAGE>You can only give each
+animal <RED>one treat per day</COLOR>.<PAGE>Different animals have their
+own favorite treats. Give
+them that treat every day.<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_HAPPY>If you do, you'll raise
+your friendship level
+quickly!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Oh my, I almost forgot
+something important!<PAGE>She's just a chick now, but
+when she's <RED>fully grown,</COLOR>
+she can <RED>have chicks</COLOR>!<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Bring the chicken to my
+shop and <RED>leave her for
+two weeks</COLOR> to hatch chicks.<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>And only <RED>healthy</COLOR> chickens
+can hatch chicks.<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>That's all you need to know
+about chickens!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_HAPPY><FP_RIGHT>Well then, I'll explain.
+Taking care of sheep is
+like taking care of cows.<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>On days when the weather is
+good, put them out to
+pasture to graze.<PAGE>On bad weather days, don't
+pasture your sheep. Instead,
+feed them with <RED>fodder</COLOR>.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>When lambs grow into adult
+sheep, you can shear them to
+get <RED>wool</COLOR>.<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_HAPPY><FP_RIGHT>The quality of wool sheep
+yield will improve if you
+raise your friendship.<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>This lamb is still a baby,
+but in a little while she'll
+grow up to be a fine sheep.

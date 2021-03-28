@@ -1,0 +1,45 @@
+<FACE_POS_RIGHT><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Dan mari kita mulai...<PAGE>Kita disini hari ini untuk meng-
+hadiri pernikahan Dirk and
+<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Dirk...<PAGE>Apakah kamu akan menjadikan
+<MYNAME> seorang istri,yang
+dicintai dan menyemangati<PAGE>dia dengan seluruh hidupmu?<PAGE><FACE_POS_LEFT><FACE_DIRK><FACE_HAPPY><FP_LEFT>Aku berjanji.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NATHAN><FACE_NORMAL><FP_RIGHT><MYNAME>...<PAGE>Apakah kamu akan menjadikan
+Dirk seorang suami, yang 
+dicintai dan disayangi<PAGE>dengan seluruh kehidupanmu?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Maka, Sekarang aku umumkan
+kalian seorang suami dan
+istri!<PAGE><FACE_POS_RIGHT><FACE_NATHAN><FACE_HAPPY><FP_RIGHT>Semoga Dewi Panen memberkati
+pasangan yang bahagia ini!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_DIRK><FACE_SHOCK><FP_LEFT><MYNAME>, Aku mencintai kamu!
+Dan aku akan membuatmu
+sangat bahagia!<PAGE>Aku bisa diandalkan kok!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_SHOCK><FP_RIGHT>Hari ini kita berdua akan
+memulai kehidupan baru
+bersama!<PAGE><FACE_POS_RIGHT><FACE_DIRK><FACE_HAPPY><FP_RIGHT>Jadi sekarang kita sudah
+menikah, nama panggilan yang
+cocok untukmu apa ya?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_NORMAL><FP_RIGHT><MYNICKNAME>.
+Itu nama panggilan yang
+ingin kamu pakai?
+----------------------------|----------------------------------
+<CHOICE_AB> Ya, Dirk.
+ Mungkin yang lainnya aja...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_HAPPY><FP_RIGHT>Oke!
+Sudah ditentukan!<PAGE><FACE_POS_RIGHT><FACE_DIRK><FACE_SHOCK><FP_RIGHT>Kita bakalan banyak waktu
+yang menyenangkan bersama,
+<MYNICKNAME>!
+----------------------------|----------------------------------
+Kehidupan baru kita sudah
+dimulai! Kita akan ber-
+istirahat sejenak hari ini.<PAGE>Besok akan kembali bekerja!
+----------------------------|----------------------------------
+<CHOICE_AB> Simpan dan tidur.
+ Tidur saja ah, capek.

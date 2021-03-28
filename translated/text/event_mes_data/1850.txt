@@ -1,0 +1,96 @@
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>-Kosong-
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Ah, kamu melihat permintaanku
+dipapan pesan, hmm?<PAGE><FACE_POS_RIGHT><FACE_GOMBE><FACE_SAD>Tapi dah terlambat! Disayangkan ya!
+Aku inginkan kamu datang
+lebih cepat diharinya, ya?<PAGE>Maafkan seorang orang tua
+untuk membuat kamu datang ke
+sini.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Ah, kamu melihat permintaanku
+dipapan pesan, hmm?<PAGE><FACE_POS_RIGHT><FACE_GOMBE><FACE_SAD>Tapi saat ini sedang hujan,
+jadi tanamannya sudah basah
+kuyub semuanya, hmm?<PAGE>Ah, dikarenakan kamu sudah
+datang kesini, jadi biarkan<PAGE>orang tua ini memberikan
+sebuah hadiah untukmu.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_HAPPY><FP_RIGHT>Ah, kamu melihat permintaan-
+ku dipapan pesan, hmm?
+Makasih!<PAGE>Ah, kalau gitu ayuk
+dimulai, hmm?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_HAPPY><FP_RIGHT>Disana adalah lahan kita,
+mengagumkan ya kan, hmm?<PAGE><FACE_POS_RIGHT><FACE_GOMBE><FACE_NORMAL>Bisakah kamu <RED>mengairi</COLOR>
+nya untuk orang tua ini?<PAGE>Beritahuku jika kamu sudah
+Menyelesaikannya, hmm?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_HAPPY><FP_RIGHT>Disana adalah lahan kita,
+mengagumkan ya kan, hmm?<PAGE><FACE_POS_RIGHT><FACE_GOMBE><FACE_NORMAL>Bisakah kamu <RED>memanen</COLOR>
+tanaman ini untuk orang tua
+ini? :v<PAGE>Tanaman yang kamu panen akan
+<RED>secara otomatis akan ter-
+kirim kegudang penyimpananku</COLOR>.<PAGE>Beritahuku jika kamu sudah
+Menyelesaikannya, hmm?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>-Kosong-
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>-Kosong-
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>-Kosong-
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>★ＥＲＲＯＲ！★</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_HAPPY><FP_RIGHT>Sudah selesaikah, hmm?
+Ah, selamat aja deh!<PAGE>Ah, hadiahmu, hmm?
+Ayolah ambil saja.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Sudah selesaikah, hmm?
+Ah, selamat aja deh!<PAGE>Tapi aku harapkan kamu mem-
+beritahuku lebih cepat dari
+ini kan, hmm?<PAGE>Aku khawatir kalau ada
+apa-apanya, dan sampai
+sekarang tidak bisa tidur!<PAGE><FACE_POS_RIGHT><FACE_GOMBE><FACE_SAD>Lihat baik-baik, hmm! lihat
+dibawah mata diatas hidung,
+dah banyak saku-sakunya!<PAGE><FACE_POS_RIGHT><FACE_GOMBE><FACE_NORMAL>Ah, hadiahmu, hmm?
+Ayolah ambil saja.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_HAPPY><FP_RIGHT>Sudah selesaikah, hmm?
+Ah, selamat aja deh!<PAGE><FACE_POS_RIGHT><FACE_GOMBE><FACE_SAD>Tapi kenapa? kenapa tidak
+memberitahukan itu tadi,
+hmmm?<PAGE>Orang tua ini mau tidur, eh
+malah kamu datang! Ayo sini
+dan diselesaikan dgn cepat!<PAGE><FACE_POS_RIGHT><FACE_GOMBE><FACE_NORMAL>Ah, hadiahmu, hmm?
+Ayolah ambil saja.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_HAPPY><FP_RIGHT>Sudah selesaikah, hmm?
+Ah, selamat aja deh!<PAGE><FACE_POS_RIGHT><FACE_GOMBE><FACE_SAD>Tapi sayangnya saat ini lagi
+turun hujan...<PAGE>Ah, maafkan aku yang mem-
+buatmu datang kesini.<PAGE>Karena itu, minimal aku
+kasih kamu hadiah,hmm?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_HAPPY><FP_RIGHT>Ah, <MYNAME>, Aku tahu kamu
+pasti selalu melakukan peker
+jaan dengan baik!<PAGE>Jadi ini sangat membantuku
+sebagai orang sudah tua tua
+tua!<PAGE><FACE_POS_RIGHT><FACE_GOMBE><FACE_NORMAL>Ini hadiahmu!
+Jangan malu! Ambil aja!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>-Kosong-
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>-Kosong-
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Dan sekarang ...
+\u270aBO-\u270aNUS! buatmu.<PAGE><FACE_POS_RIGHT><FACE_GOMBE><FACE_HAPPY>Karena kamu menyelesaikannya
+dengan cepat! Itu merupakan
+sangat membantuku! hmm!
+----------------------------|----------------------------------
+<FP_NONE>Kamu mendapatkan sebuah
+<VAR_1>!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_HAPPY><FP_RIGHT>Jasamu kuhargai jadi, kalau
+ada yang kuminta tolong
+mungkin aku menghubungimu.
+----------------------------|----------------------------------
+<FP_NONE>Kamu telah menyelesaikan
+semua pekerjaan yang
+diminta!

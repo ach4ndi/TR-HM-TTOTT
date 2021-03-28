@@ -1,0 +1,206 @@
+<FACE_POS_LEFT><FACE_ASH><FACE_NORMAL><FP_LEFT>Oh, selamat datang,
+<MYNICKNAME>.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_HIRO><FACE_NORMAL><FP_LEFT>Selamat datang,
+<MYNICKNAME>.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_CAM><FACE_NORMAL><FP_LEFT>Selamat datang,
+<MYNICKNAME>.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_KANA><FACE_NORMAL><FP_LEFT>Selamat datang,
+<MYNICKNAME>!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_MIKHAIL><FACE_NORMAL><FP_LEFT>Selamat datang,
+<MYNICKNAME>.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_LANEY><FACE_NORMAL><FP_LEFT>Selamat datang,
+<MYNICKNAME>.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_GEORGIA><FACE_NORMAL><FP_LEFT>Uuh, Selamat datang,
+<MYNICKNAME>??
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_REINA><FACE_NORMAL><FP_LEFT>Selamat datang,
+<MYNICKNAME>.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_NORI><FACE_NORMAL><FP_LEFT>Selamat datang,
+<MYNICKNAME>.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ULYSSA><FACE_NORMAL><FP_LEFT>Selamat datang,
+<MYNICKNAME>!!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_DIRK><FACE_NORMAL><FP_LEFT>Selamat datang,
+<MYNICKNAME>!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ASH><FACE_NORMAL><FP_LEFT>Bagaimana pekerjaanmu?
+Aku ada kejutan untukmu
+dihari ini.<PAGE><FACE_POS_LEFT><FACE_ASH><FACE_HAPPY><FP_LEFT>Ayo. \u2337 sudah
+menunggumu loh.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_HIRO><FACE_NORMAL><FP_LEFT>Bagaimana pekerjaanmu?
+Heheh. Hari ini ada sesuatu
+yang menarik, menarik sekali.<PAGE><FACE_POS_LEFT><FACE_HIRO><FACE_HAPPY><FP_LEFT>Ayo dududuk ya, dan maka
+kita akan memperlihatkannya.
+\u2337 sudah menungguinya.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_CAM><FACE_NORMAL><FP_LEFT>Bagaimana pekerjaanmu hari
+ini?<PAGE>Kita ada kejutan besar buat
+kamu. Ayo datang kemari.<PAGE>\u2337 sudah memper-
+siapkan segalanya untukmu.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_KANA><FACE_NORMAL><FP_LEFT>Bagaimana pekerjaanmu?
+Kami sudah mempersiapkan ke-
+jutan untukmu.<PAGE><FACE_POS_LEFT><FACE_KANA><FACE_HAPPY><FP_LEFT>Sekarang ayo kemari dan
+duduk manis. \u2337 
+sudah menunggunya dgn sabar.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_MIKHAIL><FACE_NORMAL><FP_LEFT>Bagaimana pekerjaanmu? 
+Kita ada sesuatu yang akan
+membuatmu terkejut.<PAGE><FACE_POS_LEFT><FACE_MIKHAIL><FACE_HAPPY><FP_LEFT>Sekarang datang kemari ya.
+\u2337 sudah menunggu-
+mu untuk pulang kerumah.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_LANEY><FACE_NORMAL><FP_LEFT>Bagaimana pekerjaanmu hari ini?
+Kita ada sebuah kejutan buat
+kamu.<PAGE><FACE_POS_LEFT><FACE_LANEY><FACE_HAPPY><FP_LEFT>Ayo duduk.
+\u2337 sudah menunggumu.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_GEORGIA><FACE_NORMAL><FP_LEFT>EEEH, selamat datang!
+Kita sudah mempersiapkan
+sebuah kejutan untukmu!<PAGE><FACE_POS_LEFT><FACE_GEORGIA><FACE_HAPPY><FP_LEFT>Sekarang ayok duduk.
+\u2337 sudah menunggumu!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_REINA><FACE_NORMAL><FP_LEFT>Aku harap kamu hari-hari ini
+cukup menyenangkan. Kita ada
+kejutan buatmu.<PAGE>Ayo cepatlah, dan duduk yang
+manis. \u2337 
+sudah menunggumu.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_NORI><FACE_NORMAL><FP_LEFT>Bagaimana pekerjaanmu?
+Well, ayo tebak apa hayo!?<PAGE>Kita ada sebuah kejutan
+buatmu.<PAGE><FACE_POS_LEFT><FACE_NORI><FACE_HAPPY><FP_LEFT>Ayo duduk disini.
+\u2337 sudah menunggumu.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ULYSSA><FACE_NORMAL><FP_LEFT>Oh sekarang, Bagaimana pekerjaanmu?
+Kita ada kejutan yang raksasa
+super duper untuk kamu!<PAGE><FACE_POS_LEFT><FACE_ULYSSA><FACE_HAPPY><FP_LEFT>Sekarang... sekarang duduk.
+\u2337 sudah menunggumu!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_DIRK><FACE_NORMAL><FP_LEFT>Bagaimana pekerjaanmu?
+Kita ada kejutan buat lo!<PAGE>Ha ha. Sini dan duduk ya.
+\u2337 sudah menunggumu!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_KID><FACE_HAPPY><FP_LEFT>Heh heh. Apa kamu terkejut,
+\u2338?<PAGE><FACE_POS_LEFT><FACE_KID><FACE_NORMAL><FP_LEFT>Aku memanggang kue ini
+untuk kamu!<PAGE><FACE_POS_LEFT><FACE_KID><FACE_HAPPY><FP_LEFT>Ini adalah sebuah kadu untuk
+kamu karena sudah selalu
+bekerja dengan giat.<PAGE>Ayo dimakan, oke?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_KID><FACE_HAPPY><FP_LEFT>Heh heh. Apa kamu terkejut,
+\u2338?<PAGE><FACE_POS_LEFT><FACE_KID><FACE_NORMAL><FP_LEFT>Aku membuat kue ini
+untuk kamu!<PAGE><FACE_POS_LEFT><FACE_KID><FACE_HAPPY><FP_LEFT>Ini adalah sebuah kadu untuk
+kamu karena sudah selalu
+bekerja dengan giat.<PAGE>Ayo dimakan, ya?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_KID><FACE_HAPPY><FP_LEFT>Apa itu enak?
+Oh, baguslah!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_KID><FACE_HAPPY><FP_LEFT>Apa itu enak?
+Oh, baguslah!<RED>❤</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>Itu sangat bagus,
+\u2337!<PAGE>Pastinya ibumu akan bangga
+sekali atas usahamu itu.<PAGE><FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL><FP_RIGHT>Jika kamu bisa memasak se-
+enak ini, kamu seharusnya
+ikut festival memasak saja<PAGE>jika disaat kamu dikit
+tua agar bisa ikutan ber
+saing dengan lainnya!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_NORMAL><FP_RIGHT>Itu sungguh hebat,
+\u2337!<PAGE>Disaat aku membantumu hari
+ini, aku kaget bahwa kamu
+sudah memiliki kemampuan<PAGE>memasak yang luar biasa
+bagus! *lebay*<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_SHY><FP_RIGHT>Uh ummm...<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_HAPPY><FP_RIGHT>Kuenya tidak bantat, benar
+kan? Aku benar-benar tidak
+cukup membantunya...<PAGE>\u2337 memiliki
+talenta yang bagus!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_HAPPY><FP_RIGHT>Itu sungguh hebat, \u2337.<PAGE><FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT>Kalau menurutku, aku kaget
+disaat melihatmu memiliki
+talenta memasak, \u2337.<PAGE>Aku tidak benar-benar
+cukup membantunya, tapi
+\u2337 tampaknya tidak<PAGE>kesusahan untuk melakukannya
+...<PAGE><FACE_POS_RIGHT><FACE_CAM><FACE_HAPPY><FP_RIGHT>Aku pikir \u2337 
+mungkin lebih cocok dalam
+memasak ketimbang aku. :/
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>Itu sangat bagus,
+\u2337.<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>\u2337 ini benar
+benar hebat. Benar-benar
+seorang memasak yang baik!<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>Mungkin ini bahkan lebih 
+hebat ketimbang aku!<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_SHY><FP_RIGHT>Hm apa ya sebutan untuk
+orang yang membuat pastrie?
+uhm apa ya?<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>Uh, Aku benar-benar berpikir
+\u2337 menjadi salah
+salah satunya!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>Itu bagus,
+\u2337.<PAGE>Kamu tahukan, Aku berpikir 
+\u2337 ini menirumu.
+Memang berbakat jadi koki!<PAGE><FACE_POS_RIGHT><FACE_MIKHAIL><FACE_HAPPY><FP_RIGHT>Dan aku akan lebih senang
+jika \u2337 menurunkan
+keahlian bermusikku juga...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_HAPPY><FP_RIGHT>Itu sungguh luar biasa, 
+\u2337.<PAGE><FACE_POS_RIGHT><FACE_LANEY><FACE_NORMAL><FP_RIGHT>\u2337 sudah melakukan
+hal itu dengan baik, dan aku
+juga cukup membantunya.<PAGE><FACE_POS_RIGHT><FACE_LANEY><FACE_HAPPY><FP_RIGHT>Ini pastinya sebuah talenta.
+Aku pikir \u2337 akan
+menjadi koki pastry...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_HAPPY><FP_RIGHT>Itu sungguh menyenangkan,
+ya kan \u2337?<PAGE><FACE_POS_RIGHT><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>mungkin kemampuan memasak 
+\u2337 menurun dariku.<PAGE><FACE_POS_RIGHT><FACE_GEORGIA><FACE_SHY><FP_RIGHT>Oh tidak! Aku harap itu
+tidak bermaksud semua masakan
+\u2337 sama persis kok.<PAGE><FACE_POS_RIGHT><FACE_GEORGIA><FACE_HAPPY><FP_RIGHT>Tidak, tidak yakin \u2337
+menjadi pemasak yang hebat.
+benarkan, <MYNICKNAME>?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_HAPPY><FP_RIGHT>Itu sungguh luar biasa,
+\u2337.<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>Sepertinya \u2337 cukup
+bagus memasak ya. ini seper-
+tinya memiliki talenta...<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_HAPPY><FP_RIGHT>Aku penasaran talenta yang
+lainnya yang dipunyai
+\u2337.<PAGE>Aku sudah tidak sabar
+untuk menemukannya
+semua talentanya!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Itu bagus,
+\u2337!<PAGE>Aku agak khawatir disaat
+ini pertama kalinya...<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Tapi hasilnya sungguh hebat!
+Kamu tidak pernah berpikiran
+bahwa ini buatan anak kecil!<PAGE>Pastinya \u2337 memiliki
+talenta yang hebat.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>Wow sungguh super hebat,
+\u2337!<PAGE><FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>Itu karena semuanya atas
+bantuanku!<PAGE><FACE_POS_RIGHT><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>Uh sebenarnya, Aku tidak
+cukup membantunya.<PAGE>Hampir semuanya dilakukan
+oleh \u2337 sendirian.<PAGE><FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>Aku hampir ingin meminta
+agar aku bisa membantu
+lebih banyak, tapi ...<PAGE>talenta anak kita benar-
+benar sungguh kerenkan?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_NORMAL><FP_RIGHT>Itu bagus,
+\u2337.<PAGE>Aku sudah melihat \u2337,
+dan membuat sebuah kue
+bersama-sama.<PAGE><FACE_POS_RIGHT><FACE_DIRK><FACE_HAPPY><FP_RIGHT>Oh, hey!<PAGE>Kapan-kapan kita bertiga me-
+nyiapkan makan malam bersama-
+sama ya...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_KID><FACE_HAPPY><FP_LEFT>Terima kasih!
+Aku senang bahwa kamu
+menyukainya!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_KID><FACE_HAPPY><FP_LEFT>Makasih!
+Aku sungguh senang jika
+kamu menyukainya!

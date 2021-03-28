@@ -1,0 +1,244 @@
+<FACE_POS_RIGHT><FACE_KID><FACE_HAPPY><FP_RIGHT>Welcome home, \u2338!
+<PAGE>Was work busy today?
+Take me to go play!
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KID><FACE_HAPPY><FP_RIGHT>Welcome home, \u2338!
+<PAGE>Are you all done with work?
+Can we go play?
+
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ASH><FACE_NORMAL><FP_LEFT>I know you just got home,
+but \u2337 has
+been asking to go play...<PAGE>I said I'd go, but
+\u2337
+wanted you to come too.<PAGE>Could you come with us?
+
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_HIRO><FACE_NORMAL><FP_LEFT>\u2337 really wants us
+to go play together.<PAGE>I think it sounds like a
+wonderful idea.
+What do you say?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_CAM><FACE_NORMAL><FP_LEFT>\u2337 has been asking
+to go play for hours.<PAGE>I think it'll be good for us
+to get out as family.
+What do you think?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_KANA><FACE_NORMAL><FP_LEFT>\u2337's super excited
+about playing with you.<PAGE>How about it? I think it'd
+be great for us all to play
+together!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_MIKHAIL><FACE_NORMAL><FP_LEFT>\u2337 has been waiting
+to play with you...<PAGE>I think it would be
+delightful for us all to
+play together.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_LANEY><FACE_NORMAL><FP_LEFT>\u2337 has been waiting
+for us all to play together.<PAGE>I think it would be nice to
+get out as a family.
+What do you think?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_GEORGIA><FACE_NORMAL><FP_LEFT>Goodness, \u2337's been
+mighty excited about playing
+with you!<PAGE>I reckon it might be fun.
+What do you say, <MYNICKNAME>?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_REINA><FACE_NORMAL><FP_LEFT>\u2337 has been waiting
+to play with you...<PAGE>I think it'd be nice to
+go out as a family.
+Right, <MYNICKNAME>?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_NORI><FACE_NORMAL><FP_LEFT>\u2337 has been waiting
+for us all to play together.<PAGE>I think that sounds like a
+lovely idea, don't you?
+
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ULYSSA><FACE_NORMAL><FP_LEFT>\u2337's been asking for
+us all to play together all
+day.<PAGE>Sounds like a good idea to
+me!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_DIRK><FACE_NORMAL><FP_LEFT>This is all \u2337
+has talked about all day.
+But, well...<PAGE>Maybe we should do what
+\u2337 wants.
+Don't you think so?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KID><FACE_HAPPY><FP_RIGHT>Yay!! Yippy!
+\u2338, I love you!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KID><FACE_HAPPY><FP_RIGHT>Ooh, really?
+\u2338, I love you!<RED>❤</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ASH><FACE_HAPPY><FP_LEFT>Isn't that great,
+\u2337?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_HIRO><FACE_HAPPY><FP_LEFT>Isn't that nice,
+\u2337?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_CAM><FACE_HAPPY><FP_LEFT>Won't this be fun,
+\u2337?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_KANA><FACE_HAPPY><FP_LEFT>Great!
+\u2337, this'll be
+tons of fun!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_MIKHAIL><FACE_HAPPY><FP_LEFT>Isn't that great,
+\u2337?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_LANEY><FACE_HAPPY><FP_LEFT>Won't this be fun,
+\u2337?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_GEORGIA><FACE_HAPPY><FP_LEFT>That's great, isn't it,
+\u2337?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_REINA><FACE_HAPPY><FP_LEFT>Won't this be fun,
+\u2337?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_NORI><FACE_HAPPY><FP_LEFT>Hee hee, this'll be fun,
+\u2337.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ULYSSA><FACE_HAPPY><FP_LEFT>Won't this be super duper
+fun, \u2337?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_DIRK><FACE_HAPPY><FP_LEFT>Won't this be nice,
+\u2337?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KID><FACE_HAPPY><FP_RIGHT>So where are going?
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KID><FACE_HAPPY><FP_RIGHT>\u2338, where are we
+going? The mountain?
+The river?
+----------------------------|----------------------------------
+<CHOICE_AB> The mountain!
+ The river!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KID><FACE_HAPPY><FP_RIGHT>Yay, the mountain!
+Will there be foxes there?
+Can I bring one home?<PAGE>Hee hee! This will be fun!
+Let's go!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KID><FACE_HAPPY><FP_RIGHT>Yay, the mountain!
+Will there be foxes there?
+I wanna pet one!<PAGE>Hee hee! This will be fun!
+Can we go now?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KID><FACE_HAPPY><FP_RIGHT>The mountains!
+The mountains! There's so
+much space here!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KID><FACE_HAPPY><FP_RIGHT>Wow, there's so much space!
+And it's so green!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_KID><FACE_NORMAL><FP_LEFT>Ooh! There's a fox!
+Catch it!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_KID><FACE_NORMAL><FP_LEFT>Oh, a fox!
+Look at its tail!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_KID><FACE_NORMAL><FP_LEFT>Wait!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_KID><FACE_NORMAL><FP_LEFT>Waait!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ASH><FACE_HAPPY><FP_LEFT>\u2337 is having
+so much fun! I'm glad we
+came!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_HIRO><FACE_HAPPY><FP_LEFT>\u2337 is having
+a lot of fun! I'm glad we
+could come here.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_CAM><FACE_HAPPY><FP_LEFT>\u2337 seems to be
+having a lot of fun!
+I'm glad we came!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_KANA><FACE_HAPPY><FP_LEFT>\u2337 is having
+so much fun! I'm glad we
+could come here.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_MIKHAIL><FACE_HAPPY><FP_LEFT>Sounds like \u2337
+is having fun! I'm glad we
+could come here.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_LANEY><FACE_HAPPY><FP_LEFT>Hee hee. \u2337
+seems to be having fun.
+I'm glad we came.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_GEORGIA><FACE_HAPPY><FP_LEFT>\u2337's having a
+ball! I sure am glad we
+came here!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_REINA><FACE_HAPPY><FP_LEFT>\u2337 seems to be
+having a lot of fun!
+I'm glad we came!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_NORI><FACE_HAPPY><FP_LEFT>\u2337 is really
+having fun playing. I'm
+glad we came here.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ULYSSA><FACE_HAPPY><FP_LEFT>\u2337's having so much fun!
+I'm glad we came here!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_DIRK><FACE_HAPPY><FP_LEFT>\u2337's having so much fun!
+This was a great idea!
+
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_KID><FACE_SAD><FP_LEFT>Waaah.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_KID><FACE_SAD><FP_LEFT>Awww.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KID><FACE_HAPPY><FP_RIGHT>That was soo fun!
+Thanks, Mom and Dad!
+<PAGE>Let's go home now!
+I'm hungry!<PAGE>But let's do this again
+soon!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KID><FACE_HAPPY><FP_RIGHT>That was soo fun!
+Thanks, Mom and Dad!
+<PAGE>I'm tired from running.
+Can we go home now?<PAGE>But let's do this again!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KID><FACE_HAPPY><FP_RIGHT>Yay, the river!
+Will there be fish there?
+I wanna catch a lot of fish!<PAGE>Hee hee! This will be fun!
+Let's go!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KID><FACE_HAPPY><FP_RIGHT>Yay, the river!
+Will there be fish there?
+They're so pretty!<PAGE>Hee hee! This will be fun!
+Can we go now?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KID><FACE_HAPPY><FP_RIGHT>The river, the river!
+The water is so cold!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KID><FACE_HAPPY><FP_RIGHT>Oooh! The water's so
+pretty!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KID><FACE_HAPPY><FP_RIGHT>Ooh!
+Look at that big fish!
+Can we eat it?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KID><FACE_HAPPY><FP_RIGHT>Oh, there's something
+shiny over there!
+What is it?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KID><FACE_HAPPY><FP_RIGHT>Come here, Mom and Dad!
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KID><FACE_HAPPY><FP_RIGHT>Mom, Dad!
+Come over here!
+What is that?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KID><FACE_HAPPY><FP_RIGHT>That was sooo fun!
+Thanks for taking me there,
+Mom and Dad!<PAGE>Let's go home now!
+I'm hungry!<PAGE>But let's do this again
+soon!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KID><FACE_HAPPY><FP_RIGHT>That was soo fun!
+Thanks for taking me there,
+Mom and Dad!<PAGE>I'm tired now.
+Can we go home?<PAGE>But let's do this again!

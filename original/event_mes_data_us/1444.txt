@@ -1,0 +1,154 @@
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Hello, <MYNAME>!
+Are you having fun in
+Multiplayer Mode?<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>\u232dWell, your total sales
+were...\u232c
+<RED><VAR_0>G</COLOR>.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT><RED><VAR_0>G</COLOR>よ〜。
+なかなかやるわね〜
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL>あら？　<MYNAME>ちゃん。
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Dum-Da-Da-DAA! The total
+number of visitors to your
+farm is now over <RED>5</COLOR>.<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>You get a new title!
+Your new title is:
+<RED>Apprentice Host</COLOR>.<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY>Congratulations on your
+nifty new title!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Here is a prize for you.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Dum-Da-Da-DAA! The total
+number of visitors to your
+farm is now over <RED>10</COLOR>.<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>You get a new title!
+Your new title is:
+<RED>Experienced Host</COLOR>.<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY>Congratulations on your
+nifty new title!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Here is a prize for you.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Dum-Da-Da-DAA! The total
+number of visitors to your
+farm is now over <RED>20</COLOR>.<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>You get a new title!
+Your new title is:
+<RED>Veteran Host</COLOR>.<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY>Congratulations on your
+nifty new title!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Here is a prize for you.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Dum-Da-Da-DAA! The total
+number of visitors to your
+farm is now over <RED>30</COLOR>.<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>You get a new title!
+Your new title is:
+<RED>Pro Host</COLOR>.<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY>Congratulations on your
+nifty new title!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Here is a prize for you.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Dum-Da-Da-DAA! The total
+number of visitors to your
+farm is now over <RED>40</COLOR>.<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>You get a new title!
+Your new title is:
+<RED>Expert Host</COLOR>.<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY>Congratulations on your
+nifty new title!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Here is a prize for you.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Dum-Da-Da-DAA! The total
+number of visitors to your
+farm is now over <RED>50</COLOR>.<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>You get a new title!
+Your new title is:
+<RED>Master Host</COLOR>.<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY>Congratulations on your
+nifty new title!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Here is a prize for you.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Dum-Da-Da-DAA! The total
+number of visitors to your
+farm is now over <RED>75</COLOR>.<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>You get a new title!
+Your new title is:
+<RED>Super Host</COLOR>.<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY>Congratulations on your
+nifty new title!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Here is a prize for you.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Dum-Da-Da-DAA! The total
+number of visitors to your
+farm is now over <RED>100</COLOR>.<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>You get a new title!
+Your new title is:
+<RED>Hero Host</COLOR>.<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY>Congratulations on your
+nifty new title!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Here is a prize for you.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Dum-Da-Da-DAA! The total
+number of visitors to your
+farm is now over <RED>200</COLOR>.<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>You get a new title!
+Your new title is:
+<RED>Legendary Host</COLOR>.<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Goodness! What an amazing
+number of people to have
+visit!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>You earned a prize of
+<RED>1000000G</COLOR>!
+How are you going to use it?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL>すごいわね〜！
+<MYNAME>ちゃん。
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Dum-Da-Da-DAA!
+Amazing, <MYNAME>!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>You've now collected over
+<RED>10000G</COLOR> in fees!
+<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>You get a new title!
+Your new title is:
+<RED>Apprentice Manager</COLOR>.<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY>Congratulations on your
+nifty new title!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Here is a prize for you.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Dum-Da-Da-DAA!
+Impressive, <MYNAME>!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>You've now collected over
+<RED>100000G</COLOR> in fees!
+<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>You get a new title!
+Your new title is:
+<RED>Experienced Manager</COLOR>.<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY>Congratulations on your
+nifty new title!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Here is a prize for you.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Dum-Da-Da-DAA!
+Great job, <MYNAME>!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>You've now collected over
+<RED>200000G</COLOR> in fees!
+<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>You get a new title!
+Your new title is:
+<RED>Veteran Manager</COLOR>.<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY>Congratulations on your
+nifty new title!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Here is a prize for you.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Dum-Da-Da-DAA!
+Fantastic, <MYNAME>!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>You've now collected over
+<RED>300000G</COLOR> in fees!
+<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>You get a new title!
+Your new title is:
+<RED>Pro Manager</COLOR>.<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY>Congratulations on your
+nifty new title!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Here is a prize for you.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Dum-Da-Da-DAA!
+Wonderful, <MYNAME>!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>You've now collected over
+<RED>400000G</COLOR> in fees!
+<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>You get a new title!
+Your new title is:
+<RED>Master Manager</COLOR>.<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY>Congratulations on your
+nifty new title!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Here is a prize for you.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Dum-Da-Da-DAA!
+Super, <MYNAME>!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>You've now collected over
+<RED>500000G</COLOR> in fees!
+<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>You get a new title!
+Your new title is:
+<RED>Super Manager</COLOR>.<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY>Congratulations on your
+nifty new title!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Here is a prize for you.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Dum-Da-Da-DAA!
+Brilliant, <MYNAME>!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>You've now collected over
+<RED>777777G</COLOR> in fees!
+<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>You get a new title!
+Your new title is:
+<RED>Hero Manager</COLOR>.<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY>Congratulations on your
+nifty new title!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Here is a prize for you.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Dum-Da-Da-DAA!
+Incredible, <MYNAME>!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>You've now collected over
+<RED>1000000G</COLOR> in fees!
+<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>You get a new title!
+Your new title is:
+<RED>Legendary Manager</COLOR>.<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>How much are you going to
+make in fees, <MYNAME>?
+<PAGE>The sky's the limit!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Here is a prize for you.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>称号おめでとう！<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>ごほうびに、これをあげるわ。
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>ごほうびに、これをあげるわ。
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>Oh, you have something
+in your hand.<PAGE>I guess you don't need this.
+I'll toss it for you, then.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Keep up the good work!

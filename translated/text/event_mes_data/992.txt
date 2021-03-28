@@ -1,0 +1,48 @@
+<FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT>Apakah kamu...
+Menyukai bunga?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT>Oh oke...<PAGE>Sebenarnya Roselah yang
+mengurusi bunga-bunga itu
+...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT>Itu kenapa mereka tampak
+bagus. Rose sudah merawat-
+nya dengan perhatian lebih.<PAGE>Aku selalu menghargai
+bagaimana cara merawatnya
+untuk bunga-bunga yang ada<PAGE>didesa ini.
+Aku sebenarnya terkadang
+keluar dari desa ini untuk<PAGE>beberapa saat...
+Aku berkeliling, dan memper-
+lajari mengenai jenis-jenis<PAGE>bunga. Aku melihat banyak
+jenis bunga dengan berba-
+gai corak, warna, bentuk,<PAGE>...<PAGE>Tapi tidak ada bunga yang
+membuatku merasa seperti
+bunga yang tumbuh didesa<PAGE>ini...
+Bagaimana menurutmu,
+<MYNAME>?<PAGE>Apakah kamu menyukai bunga
+disini?
+----------------------------|----------------------------------
+<CHOICE_AB> Itu sungguh cantiknya...
+ Terlihat menggiurkan...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_HAPPY><FP_RIGHT>Aku senang bahwa kamu
+merasakan hal yang sama.<PAGE><FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT>Bunga-bunga disini ini men-
+cerminkan kebaikan dari
+warga desa ini.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT>Oh, sepertinya malam akan
+tiba. Aku harus pergi
+sekarang.<PAGE><FACE_POS_RIGHT><FACE_CAM><FACE_HAPPY><FP_RIGHT>Aku cukup bersenang-senang
+untuk hari ini. Makasih,
+kita seharusnya melakukan<PAGE>hal ini lagi kedepannya.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_SHY><FP_RIGHT>Um, kamu memakan sebuah
+bunga...?<PAGE><FACE_POS_RIGHT><FACE_CAM><FACE_SAD><FP_RIGHT>Uh, walaupun ada bunga yang
+bisa dimakan...<PAGE><FACE_POS_RIGHT><FACE_CAM><FACE_SHY><FP_RIGHT>Namun, bunga-bunga disini
+ini tidak untuk dimakan,
+jadi aku tidak merekomen-<PAGE>dasikan untuk memakannya
+mentah-mentah atay dimasak
+...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_SAD><FP_RIGHT>Aku merasa agak capek, jadi
+aku akan pulang kerumah.<PAGE><FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT>Sampai bertemu lagi nanti.

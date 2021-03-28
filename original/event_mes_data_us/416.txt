@@ -1,0 +1,42 @@
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_HAPPY><FP_RIGHT>Hey there, Laney!<PAGE><FACE_POS_LEFT><FACE_LANEY><FACE_HAPPY><FP_LEFT>Hey, Georgia! How are
+you doing today?<PAGE><FACE_POS_LEFT><FACE_LANEY><FACE_NORMAL><FP_LEFT>I already made us some stuff
+to eat, so sit down and
+let's chat!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_LANEY><FACE_SHY><FP_LEFT>Wow... I can't believe I
+ate the whole thing...<PAGE>I've already gained a
+little weight recently,
+too...<PAGE><FACE_POS_RIGHT><FACE_GEORGIA><FACE_SHY><FP_RIGHT>You too, Laney?<PAGE><FACE_POS_LEFT><FACE_LANEY><FACE_SAD><FP_LEFT>Yeah... We shouldn't eat
+so much cake and candy,
+huh?<PAGE><FACE_POS_RIGHT><FACE_GEORGIA><FACE_SHY><FP_RIGHT>But...they're so good!<PAGE><FACE_POS_LEFT><FACE_LANEY><FACE_HAPPY><FP_LEFT>That's true! Boy, you and I
+are so much alike, Georgia!<PAGE><FACE_POS_RIGHT><FACE_GEORGIA><FACE_ANGRY><FP_RIGHT>Well, that doesn't make me
+happy in this case, Laney!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_JESSICA><FACE_HAPPY><FP_LEFT>Hello there, you two. Having
+some sort of meeting there?<PAGE><FACE_POS_RIGHT><FACE_LANEY><FACE_NORMAL><FP_RIGHT>You could say that...<PAGE><FACE_POS_LEFT><FACE_JESSICA><FACE_NORMAL><FP_LEFT>I came for some cake, but...\u270a\u270a
+<FACE_POS_LEFT><FACE_JESSICA><FACE_HAPPY><FP_LEFT>...it looks like you two are
+having fun! Can we join in?<PAGE><FACE_POS_RIGHT><FACE_LANEY><FACE_HAPPY><FP_RIGHT>Sure! Go ahead!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CHERYL><FACE_HAPPY><FP_RIGHT>Mom! I want a piece
+of chocolate cake!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_JESSICA><FACE_NORMAL><FP_LEFT>Yes, dear.<PAGE><FACE_POS_RIGHT><FACE_LANEY><FACE_NORMAL><FP_RIGHT>Coming right up!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_JESSICA><FACE_HAPPY><FP_LEFT>...and that's why you girls
+need to watch what you eat!
+<PAGE>Oh, listen to me chatting
+away! We should get going!<PAGE><FACE_POS_RIGHT><FACE_GEORGIA><FACE_HAPPY><FP_RIGHT>This was so much fun!
+Let's chat again soon!<PAGE><FACE_POS_LEFT><FACE_CHERYL><FACE_HAPPY><FP_LEFT>Yeah! And this cake was
+soooo good!<RED>❤</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_LANEY><FACE_SAD><FP_LEFT>*sigh*... Now I'm in the
+mood for more cake...<PAGE><FACE_POS_RIGHT><FACE_GEORGIA><FACE_SAD><FP_RIGHT>Me too, but we gotta stay
+healthy, ya know?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>We can do it, Laney!<PAGE><FACE_POS_LEFT><FACE_LANEY><FACE_HAPPY><FP_LEFT>Yeah! Just a little self
+control here and there
+shouldn't be so hard!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_HAPPY><FP_RIGHT>Well, I reckon it's time for
+me to go, too! I had lotsa
+fun today, Laney!

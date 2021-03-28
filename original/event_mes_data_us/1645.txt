@@ -1,0 +1,786 @@
+<FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL><FP_RIGHT>Let me give you your reward.
+Hope you like it.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL><FP_RIGHT>Let me give you your reward.
+Hope you like it.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL><FP_RIGHT>Let me give you your reward.
+Hope you like it.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL><FP_RIGHT>Let me give you your reward.
+Hope you like it.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL><FP_RIGHT>Here's your reward.
+Please take it.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_NORMAL><FP_RIGHT>Oh! I should give you your
+reward.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_NORMAL><FP_RIGHT>Oh! I should give you your
+reward.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_NORMAL><FP_RIGHT>Oh! I should give you your
+reward.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_NORMAL><FP_RIGHT>Oh! I should give you your
+reward.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_NORMAL><FP_RIGHT>Here's your reward.
+Please take it.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT>Oh, I almost forgot
+to give you your reward.
+Here you go.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT>Oh, I almost forgot
+to give you your reward.
+Here you go.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT>Oh, I almost forgot
+to give you your reward.
+Here you go.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT>Oh, I almost forgot
+to give you your reward.
+Here you go.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT>Here's your reward.
+Please take it.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>Oops!
+Almost forgot!
+Here's your reward!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>Oops!
+Almost forgot!
+Here's your reward!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>Oops!
+Almost forgot!
+Here's your reward!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>Oops!
+Almost forgot!
+Here's your reward!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>Here's your reward.
+Please take it.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>Oh, that's right.
+I've got a reward for
+all your hard work.<PAGE><FACE_POS_RIGHT><FACE_MIKHAIL><FACE_HAPPY>I hope you'll accept it.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>Oh, that's right.
+I've got a reward for
+all your hard work.<PAGE><FACE_POS_RIGHT><FACE_MIKHAIL><FACE_HAPPY>I hope you like it.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>Oh, that's right.
+I've got a reward for
+all your hard work.<PAGE><FACE_POS_RIGHT><FACE_MIKHAIL><FACE_HAPPY>I hope you like it.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>Oh, that's right.
+I've got a reward for
+all your hard work.<PAGE><FACE_POS_RIGHT><FACE_MIKHAIL><FACE_HAPPY>I hope you like it.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>Here's your reward.
+Please take it.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_NORMAL><FP_RIGHT>Oh dear!
+I almost forgot!
+I have a reward for you.<PAGE><FACE_POS_RIGHT><FACE_LANEY><FACE_HAPPY>Here you go.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_NORMAL><FP_RIGHT>Oh dear!
+I almost forgot!
+I have a reward for you.<PAGE><FACE_POS_RIGHT><FACE_LANEY><FACE_HAPPY>Here you go.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_NORMAL><FP_RIGHT>Oh dear!
+I almost forgot!
+I have a reward for you.<PAGE><FACE_POS_RIGHT><FACE_LANEY><FACE_HAPPY>Here you go.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_NORMAL><FP_RIGHT>Oh dear!
+I almost forgot!
+I have a reward for you.<PAGE><FACE_POS_RIGHT><FACE_LANEY><FACE_HAPPY>Here you go.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_NORMAL><FP_RIGHT>Here's your reward.
+Please take it.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>Now I've got to give you
+your reward!
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>Now I've got to give you
+your reward!
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>Now I've got to give you
+your reward!
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>Now I've got to give you
+your reward!
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>Here's your reward.
+Please take it.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>Oh right, your reward...
+This is all I've got.
+I hope it's okay.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>Oh right, your reward...
+This is all I've got.
+I hope it's okay.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>Oh right, your reward...
+This is all I've got.
+I hope it's okay.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>Oh right, your reward...
+This is all I've got.
+I hope it's okay.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>Here's your reward.
+Please take it.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>Oh, I need to give you
+your reward...
+I hope you like it.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>Oh, I need to give you
+your reward...
+I hope you like it.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>Oh, I need to give you
+your reward...
+I hope you like it.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>Oh, I need to give you
+your reward...
+I hope you like it.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>Here's your reward.
+Please take it.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_SHOCK><FP_RIGHT>And now for your reward!
+Take it!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_SHOCK><FP_RIGHT>And now for your reward!
+Take it!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_SHOCK><FP_RIGHT>And now for your reward!
+Take it!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_SHOCK><FP_RIGHT>And now for your reward!
+Take it!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>Here's your reward.
+Please take it.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Well then, here's your
+reward!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Well then, here's your
+reward!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Well then, here's your
+reward!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Well then, here's your
+reward!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Here's your reward.
+Please take it.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ROSE><FACE_NORMAL><FP_RIGHT>Well, here's your reward.
+You earned it, dear.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ROSE><FACE_NORMAL><FP_RIGHT>Well, here's your reward.
+You earned it, dear.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ROSE><FACE_NORMAL><FP_RIGHT>Well, here's your reward.
+You earned it, dear.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ROSE><FACE_NORMAL><FP_RIGHT>Well, here's your reward.
+You earned it, dear.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ROSE><FACE_NORMAL><FP_RIGHT>Here's your reward.
+Please take it.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Here's your reward!
+Please take it.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Here's your reward!
+Please take it.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Here's your reward!
+Please take it.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Here's your reward!
+Please take it.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Here's your reward.
+Please take it.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CHERYL><FACE_HAPPY><FP_RIGHT>Since you worked so hard,
+I have a reward for you!<PAGE>Here!<RED>❤</COLOR>
+A kiss on the cheek!<RED>❤</COLOR><PAGE><FACE_POS_RIGHT><FACE_CHERYL><FACE_NORMAL>...\u270bJust kidding!
+Here's your real reward...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CHERYL><FACE_HAPPY><FP_RIGHT>Since you worked so hard,
+I have a reward for you!<PAGE>Here!<RED>❤</COLOR>
+A kiss on the cheek!<RED>❤</COLOR><PAGE><FACE_POS_RIGHT><FACE_CHERYL><FACE_NORMAL>...\u270bJust kidding!
+Here's your real reward...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CHERYL><FACE_HAPPY><FP_RIGHT>Since you worked so hard,
+I have a reward for you!<PAGE>Here!<RED>❤</COLOR>
+A kiss on the cheek!<RED>❤</COLOR><PAGE><FACE_POS_RIGHT><FACE_CHERYL><FACE_NORMAL>...\u270bJust kidding!
+Here's your real reward...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CHERYL><FACE_HAPPY><FP_RIGHT>Since you worked so hard,
+I have a reward for you!<PAGE>Here!<RED>❤</COLOR>
+A kiss on the cheek!<RED>❤</COLOR><PAGE><FACE_POS_RIGHT><FACE_CHERYL><FACE_HAPPY>Just kidding!
+You did a really good
+job, though...<PAGE><FACE_POS_RIGHT><FACE_CHERYL><FACE_HAPPY>Almost as good as
+my brother would have!
+Almost...<PAGE><FACE_POS_RIGHT><FACE_CHERYL><FACE_NORMAL>Anyway, here's your
+reward, <MYNAME>...
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Here's your reward.
+Please take it.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Well, here's your reward!
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Well, here's your reward!
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Well, here's your reward!
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Well, here's your reward!
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Here's your reward.
+Please take it.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HOWARD><FACE_NORMAL><FP_RIGHT>Here's your reward!
+Hope you like it...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HOWARD><FACE_NORMAL><FP_RIGHT>Here's your reward!
+Hope you like it...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HOWARD><FACE_NORMAL><FP_RIGHT>Here's your reward!
+Hope you like it...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HOWARD><FACE_NORMAL><FP_RIGHT>Here's your reward!
+Hope you like it...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HOWARD><FACE_NORMAL><FP_RIGHT>Here's your reward.
+Please take it.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Well now, here's your
+reward, then!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Well now, here's your
+reward, then!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Well now, here's your
+reward, then!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Well now, here's your
+reward, then!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Here's your reward.
+Please take it.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Here's your reward.
+I hope you like it.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Here's your reward.
+I hope you like it.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Here's your reward.
+I hope you like it.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Here's your reward.
+I hope you like it.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Here's your reward.
+Please take it.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>Here's your reward.
+I do hope you like it.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>Here's your reward.
+I do hope you like it.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>Here's your reward.
+I do hope you like it.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>Here's your reward.
+I do hope you like it.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>Here's your reward.
+Please take it.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>Oh, I've got to give you
+your reward.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>Oh, I've got to give you
+your reward.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>Oh, I've got to give you
+your reward.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>Oh, I've got to give you
+your reward.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>Here's your reward.
+Please take it.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RAHI><FACE_NORMAL><FP_RIGHT>That's right! I need to
+give you your reward!
+I hope you like it.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RAHI><FACE_NORMAL><FP_RIGHT>That's right! I need to
+give you your reward!
+I hope you like it.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RAHI><FACE_NORMAL><FP_RIGHT>That's right! I need to
+give you your reward!
+I hope you like it.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RAHI><FACE_NORMAL><FP_RIGHT>That's right! I need to
+give you your reward!
+I hope you like it.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Here's your reward.
+Please take it.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_HAPPY><FP_RIGHT>And now it's time for
+your reward!
+Put out your hands!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_HAPPY><FP_RIGHT>And now it's time for
+your reward!
+Put out your hands!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_HAPPY><FP_RIGHT>And now it's time for
+your reward!
+Put out your hands!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_HAPPY><FP_RIGHT>And now it's time for
+your reward!
+Put out your hands!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Here's your reward.
+Please take it.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Here's your reward.
+<PAGE>Doing good work, and
+getting a reward as
+thanks for your work...<PAGE>It's what makes the world
+go round...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Here's your reward.
+<PAGE>Doing good work, and
+getting a reward as
+thanks for your work...<PAGE>It's what makes the world
+go round...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Here's your reward.
+<PAGE>Doing good work, and
+getting a reward as
+thanks for your work...<PAGE>It's what makes the world
+go round...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Here's your reward.
+<PAGE>Doing good work, and
+getting a reward as
+thanks for your work...<PAGE>It's what makes the world
+go round...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Here's your reward.
+Please take it.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Well, I've got to give
+you your reward...<PAGE>A free shot!
+<PAGE><FACE_POS_RIGHT><FACE_AYAME><FACE_HAPPY>Ha ha, just kidding!
+<PAGE>Here's your real reward.
+Don't worry, it won't
+hurt you.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Well, I've got to give
+you your reward...<PAGE>A free shot!
+<PAGE><FACE_POS_RIGHT><FACE_AYAME><FACE_HAPPY>Ha ha, just kidding!
+<PAGE>Here's your real reward.
+Don't worry, it won't
+hurt you.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_AYAME><FACE_NORMAL><FP_RIGHT>I've got to give you your
+reward, then. Here you go!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_AYAME><FACE_NORMAL><FP_RIGHT>I've got to give you your
+reward, then. Here you go!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Here's your reward.
+Please take it.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_YUN><FACE_NORMAL><FP_RIGHT>Let's see, now. I've
+got to give you your
+reward. Here you are, dear!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_YUN><FACE_NORMAL><FP_RIGHT>Let's see, now. I've
+got to give you your
+reward. Here you are, dear!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_YUN><FACE_NORMAL><FP_RIGHT>Let's see, now. I've
+got to give you your
+reward. Here you are, dear!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_YUN><FACE_NORMAL><FP_RIGHT>Let's see, now. I've
+got to give you your
+reward. Here you are, dear!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_YUN><FACE_NORMAL><FP_RIGHT>Here's your reward.
+Please take it.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_YING><FACE_NORMAL><FP_RIGHT>Oh! I need to give you
+your reward...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_YING><FACE_NORMAL><FP_RIGHT>Oh! I need to give you
+your reward...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_YING><FACE_NORMAL><FP_RIGHT>Oh! I need to give you
+your reward...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_YING><FACE_NORMAL><FP_RIGHT>Oh! I need to give you
+your reward...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_YING><FACE_NORMAL><FP_RIGHT>Here's your reward.
+Please take it.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_NORMAL><FP_RIGHT>Oops! Gotta give you your
+reward. Here you go!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_NORMAL><FP_RIGHT>Oops! Gotta give you your
+reward. Here you go!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_NORMAL><FP_RIGHT>Oops! Gotta give you your
+reward. Here you go!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_NORMAL><FP_RIGHT>Oops! Gotta give you your
+reward. Here you go!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_NORMAL><FP_RIGHT>Here's your reward.
+Please take it.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Now for your reward...
+<PAGE>I got you something
+I knew you'd like!
+Here you are...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Now for your reward...
+<PAGE>I got you something
+I knew you'd like!
+Here you are...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Now for your reward...
+<PAGE>I got you something
+I knew you'd like!
+Here you are...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Now for your reward...
+<PAGE>I got you something
+I knew you'd like!
+Here you are...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Here's your reward.
+Please take it.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Here's your reward!
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Here's your reward!
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Here's your reward!
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Here's your reward!
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Here's your reward!
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Here's your reward!
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Here's your reward!
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Here's your reward!
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Here's your reward!
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Here's your reward.
+Please take it.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>Here's your reward!
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>Here's your reward!
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>Here's your reward!
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>Here's your reward!
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>Here's your reward.
+Please take it.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_NORMAL><FP_RIGHT>Here's your reward.
+Please take it.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_NORMAL><FP_RIGHT>Here's your reward.
+Please take it.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_NORMAL><FP_RIGHT>Here's your reward.
+Please take it.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_NORMAL><FP_RIGHT>Here's your reward.
+Please take it.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_NORMAL><FP_RIGHT>Here's your reward.
+Please take it.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>Gotta give you your reward.
+I hope this makes you
+feel very special. Here!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>Gotta give you your reward.
+I hope this makes you
+feel very special. Here!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>Gotta give you your reward.
+I hope this makes you
+feel very special. Here!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>Gotta give you your reward.
+I hope this makes you
+feel very special. Here!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>Here's your reward.
+Please take it.
+
+----------------------------|----------------------------------
+<FP_RIGHT>Here's your reward.
+Please take it.
+
+----------------------------|----------------------------------
+<FP_RIGHT>Here's your reward.
+Please take it.
+
+----------------------------|----------------------------------
+<FP_RIGHT>Here's your reward.
+Please take it.
+
+----------------------------|----------------------------------
+<FP_RIGHT>Here's your reward.
+Please take it.
+
+----------------------------|----------------------------------
+<FP_RIGHT>Here's your reward.
+Please take it.
+
+----------------------------|----------------------------------
+<FP_RIGHT>Here's your reward.
+Please take it.
+
+----------------------------|----------------------------------
+<FP_RIGHT>Here's your reward.
+Please take it.
+
+----------------------------|----------------------------------
+<FP_RIGHT>Here's your reward.
+Please take it.
+
+----------------------------|----------------------------------
+<FP_RIGHT>Here's your reward.
+Please take it.
+
+----------------------------|----------------------------------
+<FP_RIGHT>Here's your reward.
+Please take it.
+
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fc8<FP_RIGHT>Here's your reward.
+Hope you like it!
+
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fc8<FP_RIGHT>Here's your reward.
+Hope you like it!
+
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fc8<FP_RIGHT>Here's your reward.
+Hope you like it!
+
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fc8<FP_RIGHT>Here's your reward.
+Hope you like it!
+
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fc8<FP_RIGHT>Here's your reward.
+Please take it.
+
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fc9<FP_RIGHT>Here's your reward.
+You earned it!
+
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fc9<FP_RIGHT>Here's your reward.
+You earned it!
+
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fc9<FP_RIGHT>Here's your reward.
+You earned it!
+
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fc9<FP_RIGHT>Here's your reward.
+You earned it!
+
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fc9<FP_RIGHT>Here's your reward.
+Please take it.
+
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fca<FP_RIGHT>Oh, that's right,
+your reward...
+Here you are...
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fca<FP_RIGHT>Oh, that's right,
+your reward...
+Here you are...
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fca<FP_RIGHT>Oh, that's right,
+your reward...
+Here you are...
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fca<FP_RIGHT>Oh, that's right,
+your reward...
+Here you are...
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fca<FP_RIGHT>Here's your reward.
+Please take it.
+
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fcb<FP_RIGHT>Oh yeah.
+Your reward...
+Here you go!
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fcb<FP_RIGHT>Oh yeah.
+Your reward...
+Here you go!
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fcb<FP_RIGHT>Oh yeah.
+Your reward...
+Here you go!
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fcb<FP_RIGHT>Oh yeah.
+Your reward...
+Here you go!
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fcb<FP_RIGHT>Here's your reward.
+Please take it.
+
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fcc<FP_RIGHT>Oh no...
+I almost forgot...<PAGE>I need to give you a
+reward. Here, take it.<PAGE>It-It's not like I picked
+it out specially! It's
+just a little something!
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fcc<FP_RIGHT>Oh no...
+I almost forgot...<PAGE>I need to give you a
+reward. Here, take it.<PAGE>It-It's not like I picked
+it out specially! It's
+just a little something!
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fcc<FP_RIGHT>Oh no...
+I almost forgot...<PAGE>I need to give you a
+reward. Here, take it.<PAGE>It-It's not like I picked
+it out specially! It's
+just a little something!
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fcc<FP_RIGHT>Oh no...
+I almost forgot...<PAGE>I need to give you a
+reward. Here, take it.<PAGE>It-It's not like I picked
+it out specially! It's
+just a little something!
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fcc<FP_RIGHT>Here's your reward.
+Please take it.
+
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fcd<FP_RIGHT>Now for your reward...
+Hope you like it!
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fcd<FP_RIGHT>Now for your reward...
+Hope you like it!
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fcd<FP_RIGHT>Now for your reward...
+Hope you like it!
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fcd<FP_RIGHT>Now for your reward...
+Hope you like it!
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fcd<FP_RIGHT>Here's your reward.
+Please take it.

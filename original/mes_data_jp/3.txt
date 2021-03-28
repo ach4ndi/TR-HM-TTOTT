@@ -1,0 +1,1440 @@
+<FACE_POS_LEFT><FACE_ASH><FACE_NORMAL><FP_LEFT>\u232f<BLUE>ユリス</COLOR>\u232c
+お疲れさまです。
+調子はどうですか？<PAGE>\u2137<FACE_POS_RIGHT><FACE_HERO><FACE_NORMAL><CHOICE_ABC> うん、まあまあかな
+ ぜんぜんダメ…
+ とってもいい感じ♪
+----------------------------|----------------------------------
+\u23f5\u23f1<FACE_POS_LEFT><FACE_ASH><FACE_NORMAL><FP_LEFT>\u232f<BLUE>ユリス</COLOR>\u232c
+そうですか。<PAGE>応援しています。
+頑張ってください。
+----------------------------|----------------------------------
+\u23f5\u23f2<FACE_POS_LEFT><FACE_ASH><FACE_ANGRY><FP_LEFT>\u232f<BLUE>ユリス</COLOR>\u232c
+しっかりしてください。<PAGE><FACE_POS_LEFT><FACE_ASH><FACE_SHY><FP_LEFT>\u21d6そんな顔をしていたら、
+来るはずのお客さんも
+来なくなってしまいますよ？
+----------------------------|----------------------------------
+\u23f5\u23f0<FACE_POS_LEFT><FACE_ASH><FACE_HAPPY><FP_LEFT>\u232f<BLUE>ユリス</COLOR>\u232c
+\u21d0たのもしいですね。<PAGE><MYNAME>さんのそんな所、
+そんけいしています。
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ASH><FACE_SHY><FP_LEFT>\u232f<BLUE>ユリス</COLOR>\u232c
+あ、<MYNAME>さん。
+そこで迷子の子がいて…。<PAGE>\u2137<FACE_POS_RIGHT><FACE_HERO><FACE_NORMAL><CHOICE_ABC> そんなのほっとけばいいよ
+ 親を探してあげたの？
+ 大変！　助けてあげよう！
+----------------------------|----------------------------------
+\u23f5\u23f3<FACE_POS_LEFT><FACE_ASH><FACE_SAD><FP_LEFT>\u232f<BLUE>ユリス</COLOR>\u232c
+\u21d2…こまっている人を放っておく
+なんて、そんな事できません。<PAGE><FACE_POS_LEFT><FACE_ASH><FACE_SHY><FP_LEFT><MYNAME>さんなら、
+わかってくれると思っていたの
+ですが…。
+----------------------------|----------------------------------
+\u23f5\u23f1<FACE_POS_LEFT><FACE_ASH><FACE_HAPPY><FP_LEFT>\u232f<BLUE>ユリス</COLOR>\u232c
+\u21d0はい。はずかしいくらい
+感謝されてしまいました。
+----------------------------|----------------------------------
+\u23f5\u23f0<FACE_POS_LEFT><FACE_ASH><FACE_HAPPY><FP_LEFT>\u232f<BLUE>ユリス</COLOR>\u232c
+\u21d0フフッ、落ち着いてください。
+大丈夫ですよ。<PAGE>ちゃんと親は見つかりました。
+…<MYNAME>さんは、
+やっぱり優しいですね。
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ASH><FACE_SHY><FP_LEFT>\u232f<BLUE>ユリス</COLOR>\u232c
+この<RED><VAR_0></COLOR>、
+安く売ってもらえませんか？<PAGE>\u2137<FACE_POS_RIGHT><FACE_HERO><FACE_NORMAL><CHOICE_ABC> じゃあ倍額で
+ じゃあ半額で
+ タダであげちゃう！
+----------------------------|----------------------------------
+\u23f5\u23f3<FACE_POS_LEFT><FACE_ASH><FACE_SHY><FP_LEFT>\u232f<BLUE>ユリス</COLOR>\u232c
+\u21d6え？　やっぱりダメですよね。
+あきらめます…。
+----------------------------|----------------------------------
+\u23f7\u23f1<FACE_POS_LEFT><FACE_ASH><FACE_HAPPY><FP_LEFT>\u232f<BLUE>ユリス</COLOR>\u232c
+\u21d1ありがとうございます！
+とっても助かります！
+----------------------------|----------------------------------
+\u23f6\u23f0<FACE_POS_LEFT><FACE_ASH><FACE_SHY><FP_LEFT>\u232f<BLUE>ユリス</COLOR>\u232c
+え、本当にいいんですか？
+<FACE_POS_LEFT><FACE_ASH><FACE_HAPPY><FP_LEFT>\u21d0ありがとうございます！
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ASH><FACE_NORMAL><FP_LEFT>\u232f<BLUE>ユリス</COLOR>\u232c
+こんにちは、
+<MYNAME>さん。<PAGE>春のバザールってなんだか
+良いですよね。ボク、春の
+バザールが一番好きです。<PAGE>\u2137<FACE_POS_RIGHT><FACE_HERO><FACE_NORMAL><CHOICE_ABC> 雰囲気が良いよね
+ 冬の方がいいよ
+ それより何か買っていって
+----------------------------|----------------------------------
+\u23f5\u23f0<FACE_POS_LEFT><FACE_ASH><FACE_HAPPY><FP_LEFT>\u232f<BLUE>ユリス</COLOR>\u232c
+\u21d0<MYNAME>さんも、
+そう思いますか？<PAGE>うれしいです。
+----------------------------|----------------------------------
+\u23f5\u23f1<FACE_POS_LEFT><FACE_ASH><FACE_NORMAL><FP_LEFT>\u232f<BLUE>ユリス</COLOR>\u232c
+そうですね。冬は冬なりの
+もりあがりがありますからね。
+----------------------------|----------------------------------
+\u23f8\u23f3<FACE_POS_LEFT><FACE_ASH><FACE_SHY><FP_LEFT>\u232f<BLUE>ユリス</COLOR>\u232c
+\u21d3え？　あ、すみません。お店の
+ジャマをしてしまいました…。<PAGE>おわびに<RED><VAR_0></COLOR>を
+倍額で買わせていただきます。
+本当にすみませんでした…。
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_DIRK><FACE_NORMAL><FP_LEFT>\u232f<BLUE>ディルカ</COLOR>\u232c
+よお、<MYNAME>！
+遊びにきたぜっ♪<PAGE>\u2137<FACE_POS_RIGHT><FACE_HERO><FACE_NORMAL><CHOICE_ABC> いらっしゃいませ〜♪
+ 遊ぼう、遊ぼう！
+ バイバイ
+----------------------------|----------------------------------
+\u23f5\u23f0<FACE_POS_LEFT><FACE_DIRK><FACE_NORMAL><FP_LEFT>\u232f<BLUE>ディルカ</COLOR>\u232c
+うん、なかなかいい接客だ！
+\u270a<FACE_HAPPY>…なんてな！！<PAGE>\u21d8でも、その調子なら
+きっとたくさんお客が来るぜ！
+オレがほしょうする！
+----------------------------|----------------------------------
+\u23f5\u23f2<FACE_POS_LEFT><FACE_DIRK><FACE_SHY><FP_LEFT>\u232f<BLUE>ディルカ</COLOR>\u232c
+\u21ddおいおい、まだ出品中だろ？
+遊ぶならまた今度にしようぜ。
+----------------------------|----------------------------------
+\u23f5\u23f3<FACE_POS_LEFT><FACE_DIRK><FACE_ANGRY><FP_LEFT>\u232f<BLUE>ディルカ</COLOR>\u232c
+\u21daせっかく応援にきてやったのに
+…そんなこと言うなんてな！<PAGE>ジャマして悪かったな…。
+オレ、帰るよ。じゃあな！
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_DIRK><FACE_SHY><FP_LEFT>\u232f<BLUE>ディルカ</COLOR>\u232c
+\u21ddう〜ん。<RED><VAR_0></COLOR>が
+ほしいけど、お金がなぁ…。<PAGE>\u2137<FACE_POS_RIGHT><FACE_HERO><FACE_NORMAL><CHOICE_ABC> 半額にしようか？
+ タダであげるよ！
+ 残念でしたー！
+----------------------------|----------------------------------
+\u23f7\u23f1<FACE_POS_LEFT><FACE_DIRK><FACE_HAPPY><FP_LEFT>\u232f<BLUE>ディルカ</COLOR>\u232c
+\u21d8え、本当か！？
+うれしいよ！　ありがとな♪
+----------------------------|----------------------------------
+\u23f6\u23f0<FACE_POS_LEFT><FACE_DIRK><FACE_HAPPY><FP_LEFT>\u232f<BLUE>ディルカ</COLOR>\u232c
+\u21d8え…！　<PAGE>おまえって、
+すっげー良いヤツ！！
+ありがとな♪
+----------------------------|----------------------------------
+\u23f5\u23f3<FACE_POS_LEFT><FACE_DIRK><FACE_ANGRY><FP_LEFT>\u232f<BLUE>ディルカ</COLOR>\u232c
+\u21ddむー、なんで楽しそうなんだ？
+\u270a<FACE_POS_LEFT><FACE_DIRK><FACE_SAD><FP_LEFT>…もういいや。ほかで探すよ。
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_DIRK><FACE_NORMAL><FP_LEFT>\u232f<BLUE>ディルカ</COLOR>\u232c
+いそがしいとこ、ごめん。
+うちのオーナー見なかった？<PAGE>\u2137<FACE_POS_RIGHT><FACE_HERO><FACE_NORMAL><CHOICE_ABC> メリーニさんは会場の右上
+ メリーニさんは会場の左上
+ オウナさんなら会場の左下
+----------------------------|----------------------------------
+\u23f5\u23f0<FACE_POS_LEFT><FACE_DIRK><FACE_HAPPY><FP_LEFT>\u232f<BLUE>ディルカ</COLOR>\u232c
+\u21d9そっか、わかった！
+ありがとな！
+----------------------------|----------------------------------
+\u23f5\u23f2<FACE_POS_LEFT><FACE_DIRK><FACE_SHY><FP_LEFT>\u232f<BLUE>ディルカ</COLOR>\u232c
+\u21dbそっちにはもう行ってみたけど
+いなかったぜ…？
+----------------------------|----------------------------------
+\u23f5\u23f2<FACE_POS_LEFT><FACE_DIRK><FACE_SHY><FP_LEFT>\u232f<BLUE>ディルカ</COLOR>\u232c
+\u21dd…だれだよ、オウナさんて。
+\u232dオーナーだって\u232c！！
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_DIRK><FACE_NORMAL><FP_LEFT>\u232f<BLUE>ディルカ</COLOR>\u232c
+\u21dfおっつかれ〜！
+<MYNAME>！<PAGE>やっぱり、夏のバザールが
+一番わくわくするよなっ♪<PAGE>\u2137<FACE_POS_RIGHT><FACE_HERO><FACE_NORMAL><CHOICE_ABC> 春の方が好きだな
+ 日差しが良い感じだよね！
+ 暑いから、ちょっと…
+----------------------------|----------------------------------
+\u23f5\u23f1<FACE_POS_LEFT><FACE_DIRK><FACE_HAPPY><FP_LEFT>\u232f<BLUE>ディルカ</COLOR>\u232c
+\u21d8ふーん、兄さんと同じだな！
+たしかに、春もいいよな♪
+----------------------------|----------------------------------
+\u23f5\u23f0<FACE_POS_LEFT><FACE_DIRK><FACE_HAPPY><FP_LEFT>\u232f<BLUE>ディルカ</COLOR>\u232c
+\u21d9そうそう！　ちょっと暑いけど
+やってやるぞって気になるぜ！
+----------------------------|----------------------------------
+\u23f5\u23f2<FACE_POS_LEFT><FACE_DIRK><FACE_SAD><FP_LEFT>\u232f<BLUE>ディルカ</COLOR>\u232c
+\u21dd<MYNAME>は暑いのが
+苦手なのか…。<PAGE>そっか、残念だな。
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_KANA><FACE_NORMAL><FP_LEFT>\u232f<BLUE>アギ</COLOR>\u232c
+\u21efああ、<MYNAME>さん。
+ちょうど、良かったです〜。<PAGE><RED>動物屋</COLOR>をさがしているんですが
+どこにあるか知ってますか？<PAGE>\u2137<FACE_POS_RIGHT><FACE_HERO><FACE_NORMAL><CHOICE_ABC> 会場の右すみの方だよ
+ 会場の左すみの方だよ
+ 今いそがしいから後で！
+----------------------------|----------------------------------
+\u23f5\u23f1<FACE_POS_LEFT><FACE_KANA><FACE_SHY><FP_LEFT>\u232f<BLUE>アギ</COLOR>\u232c
+\u21ed…そうでしたか？<PAGE>　\u270a<FACE_NORMAL>行ってみます。
+ありがとうございます。
+----------------------------|----------------------------------
+\u23f5\u23f0<FACE_POS_LEFT><FACE_KANA><FACE_HAPPY><FP_LEFT>\u232f<BLUE>アギ</COLOR>\u232c
+\u21e8そうですか、わかりました！
+ありがとうございます♪
+----------------------------|----------------------------------
+\u23f5\u23f3<FACE_POS_LEFT><FACE_KANA><FACE_SAD><FP_LEFT>\u232f<BLUE>アギ</COLOR>\u232c
+\u2251あ…、すみません…。
+おジャマでしたね…。では…。
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_KANA><FACE_SHY><FP_LEFT>\u232f<BLUE>アギ</COLOR>\u232c
+\u21edうーん…、うーん…。<PAGE>\u2137<FACE_POS_RIGHT><FACE_HERO><FACE_NORMAL><CHOICE_ABC> 道に迷ったの？
+ おなかがすいたの？
+ 絵の悩み？
+----------------------------|----------------------------------
+\u23f5\u23f2<FACE_POS_LEFT><FACE_KANA><FACE_NORMAL><FP_LEFT>\u232f<BLUE>アギ</COLOR>\u232c
+え？　あ、ちがうんです。
+\u270a<FACE_POS_LEFT><FACE_KANA><FACE_SAD><FP_LEFT>\u21ec…すみません。
+----------------------------|----------------------------------
+\u23f5\u23f2<FACE_POS_LEFT><FACE_KANA><FACE_SHY><FP_LEFT>\u232f<BLUE>アギ</COLOR>\u232c
+\u21ecなんだか、ボクが食いしん坊
+みたいな言い方です…。
+----------------------------|----------------------------------
+\u23f5\u23f0<FACE_POS_LEFT><FACE_KANA><FACE_NORMAL><FP_LEFT>\u232f<BLUE>アギ</COLOR>\u232c
+え！？　ど、どうして、
+わかったんですか！？<PAGE>そうなんです。\u270a<FACE_HAPPY>でも、
+\u21e9<MYNAME>さんを見ていたら
+元気になりました！
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_KANA><FACE_NORMAL><FP_LEFT>\u232f<BLUE>アギ</COLOR>\u232c
+こ、この<RED><VAR_0></COLOR>、
+ひとつ、くれませんか！？<PAGE>\u2137<FACE_POS_RIGHT><FACE_HERO><FACE_NORMAL><CHOICE_ABC> 倍額でならいいよ
+ どうぞ、どうぞ♪
+ 絶対あげない！
+----------------------------|----------------------------------
+\u23f8\u23f3<FACE_POS_LEFT><FACE_KANA><FACE_SAD><FP_LEFT>\u232f<BLUE>アギ</COLOR>\u232c
+\u21ebえぇ！？　あ、いえ…。
+じゃあ、倍額で買います。
+----------------------------|----------------------------------
+\u23f6\u23f0<FACE_POS_LEFT><FACE_KANA><FACE_HAPPY><FP_LEFT>\u232f<BLUE>アギ</COLOR>\u232c
+\u21e9ありがとうございます！！<PAGE>この<RED><VAR_0></COLOR>なら
+絵を描く良い題材に
+なりそうです♪
+----------------------------|----------------------------------
+\u23f5\u23f3<FACE_POS_LEFT><FACE_KANA><FACE_SAD><FP_LEFT>\u232f<BLUE>アギ</COLOR>\u232c
+\u21ebえ…、そ、そんな…！
+売りものじゃないんですか？
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_KANA><FACE_NORMAL><FP_LEFT>\u232f<BLUE>アギ</COLOR>\u232c
+\u21efあっ、<MYNAME>さん。
+お疲れさまです。<PAGE><MYNAME>さんは、秋の
+バザールって芸術的なしげきに
+あふれていると思いませんか？<PAGE>\u2137<FACE_POS_RIGHT><FACE_HERO><FACE_NORMAL><CHOICE_ABC> うん、とってもそう思う！
+ 全然思わない
+ …よくわかんないや
+----------------------------|----------------------------------
+\u23f5\u23f0<FACE_POS_LEFT><FACE_KANA><FACE_HAPPY><FP_LEFT>\u232f<BLUE>アギ</COLOR>\u232c
+\u21e9フフッ、<MYNAME>さんなら
+わかってくれると思いました♪
+----------------------------|----------------------------------
+\u23f5\u23f2<FACE_POS_LEFT><FACE_KANA><FACE_SAD><FP_LEFT>\u232f<BLUE>アギ</COLOR>\u232c
+\u21ed…そうですか？　残念です。<PAGE><MYNAME>さんなら
+わかってくれると
+思ったんですが…。
+----------------------------|----------------------------------
+\u23f5\u23f1<FACE_POS_LEFT><FACE_KANA><FACE_SAD><FP_LEFT>\u232f<BLUE>アギ</COLOR>\u232c
+\u21edうーん…。まあ、
+感性は人それぞれですからね。
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_MIKHAIL><FACE_NORMAL><FP_LEFT>\u232f<BLUE>シュミット</COLOR>\u232c
+あぁ、<MYNAME>。
+ちょうどいいところに…。<PAGE>町長を探しているんだが…、
+どこにいるか知らないか？<PAGE>\u2137<FACE_POS_RIGHT><FACE_HERO><FACE_NORMAL><CHOICE_ABC> 会場の左上の方じゃないかな
+ 会場の右上の方だよ
+ はい、町長です
+----------------------------|----------------------------------
+\u23f5\u23f0<FACE_POS_LEFT><FACE_MIKHAIL><FACE_HAPPY><FP_LEFT>\u232f<BLUE>シュミット</COLOR>\u232c
+\u21f0そうか。わかった。
+ありがとう。
+----------------------------|----------------------------------
+\u23f5\u23f2<FACE_POS_LEFT><FACE_MIKHAIL><FACE_SHY><FP_LEFT>\u232f<BLUE>シュミット</COLOR>\u232c
+…そうか？　わかった。
+ありがとう。
+----------------------------|----------------------------------
+\u23f5\u23f1<FACE_POS_LEFT><FACE_MIKHAIL><FACE_HAPPY><FP_LEFT>\u232f<BLUE>シュミット</COLOR>\u232c
+\u21f0ハハッ、何言ってるんだ。
+キミは、本当におもしろいな。
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_MIKHAIL><FACE_NORMAL><FP_LEFT>\u232f<BLUE>シュミット</COLOR>\u232c
+…なぜだろう。<PAGE><FACE_POS_LEFT><FACE_MIKHAIL><FACE_SHY><FP_LEFT>なんだか、
+この<RED><VAR_0></COLOR>に、
+とてもひかれる気がするんだ。<PAGE>\u2137<FACE_POS_RIGHT><FACE_HERO><FACE_NORMAL><CHOICE_ABC> うーん、どうしてかな？
+ 気になるなら倍額で♪
+ じゃあ、タダであげる！
+----------------------------|----------------------------------
+\u23f5\u23f2<FACE_POS_LEFT><FACE_MIKHAIL><FACE_SHY><FP_LEFT>\u232f<BLUE>シュミット</COLOR>\u232c
+\u21f6本当に、なぜだろう。
+うーん…。
+----------------------------|----------------------------------
+\u23f5\u23f3<FACE_POS_LEFT><FACE_MIKHAIL><FACE_ANGRY><FP_LEFT>\u232f<BLUE>シュミット</COLOR>\u232c
+\u21f5…はぁ。<PAGE>そんな、ふっかけみたいな事
+たとえ、じょうだんにしたって
+はずかしいとは思わないのか？
+----------------------------|----------------------------------
+\u23f6\u23f0<FACE_POS_LEFT><FACE_MIKHAIL><FACE_HAPPY><FP_LEFT>\u232f<BLUE>シュミット</COLOR>\u232c
+\u21f4え？　いいのか？
+…うれしいよ、ありがとう。
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_MIKHAIL><FACE_NORMAL><FP_LEFT>\u232f<BLUE>シュミット</COLOR>\u232c
+調子はどうだ。
+頑張っているのか？<PAGE>\u2137<FACE_POS_RIGHT><FACE_HERO><FACE_NORMAL><CHOICE_ABC> 手伝ってくれるの？
+ すごく頑張ってるよ♪
+ 早く帰りたい…
+----------------------------|----------------------------------
+\u23f5\u23f1<FACE_POS_LEFT><FACE_MIKHAIL><FACE_SHY><FP_LEFT>\u232f<BLUE>シュミット</COLOR>\u232c
+え、オレが？
+キミのバザールを？<PAGE><FACE_POS_LEFT><FACE_MIKHAIL><FACE_HAPPY><FP_LEFT>\u21f0ハハッ、それも楽しそうだな。
+今日は用があるからムリだが、
+今度また手伝わせてくれ。
+----------------------------|----------------------------------
+\u23f5\u23f0<FACE_POS_LEFT><FACE_MIKHAIL><FACE_HAPPY><FP_LEFT>\u232f<BLUE>シュミット</COLOR>\u232c
+\u21f0そうか。キミの頑張りは、見て
+いるだけで元気がでてくるよ。
+----------------------------|----------------------------------
+\u23f5\u23f3<FACE_POS_LEFT><FACE_MIKHAIL><FACE_SAD><FP_LEFT>\u232f<BLUE>シュミット</COLOR>\u232c
+\u21f3…失望したな。そんな気持ちで
+店を出すならやめた方がいい。
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_MIKHAIL><FACE_NORMAL><FP_LEFT>\u232f<BLUE>シュミット</COLOR>\u232c
+寒い中、お疲れさま。<PAGE>この寒さだ。さすがに
+冬のバザールはつらいんじゃ
+ないのか？<PAGE>\u2137<FACE_POS_RIGHT><FACE_HERO><FACE_NORMAL><CHOICE_ABC> 冬は好きだから平気！
+ こごえ死ぬかもしれない…
+ はやく春になればいいのに
+----------------------------|----------------------------------
+\u23f5\u23f0<FACE_POS_LEFT><FACE_MIKHAIL><FACE_HAPPY><FP_LEFT>\u232f<BLUE>シュミット</COLOR>\u232c
+\u21f0そうか。オレも冬のバザールは
+好きなんだ。気が合うな。
+----------------------------|----------------------------------
+\u23f5\u23f1<FACE_POS_LEFT><FACE_MIKHAIL><FACE_HAPPY><FP_LEFT>\u232f<BLUE>シュミット</COLOR>\u232c
+\u21f0こら、悪ノリしすぎだ。この
+くらいの寒さじゃ死なないさ。
+----------------------------|----------------------------------
+\u23f5\u23f1<FACE_POS_LEFT><FACE_MIKHAIL><FACE_NORMAL><FP_LEFT>\u232f<BLUE>シュミット</COLOR>\u232c
+そうだな。春になれば、
+作物もとれるようになるしな。
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_GEORGIA><FACE_NORMAL><FP_LEFT>\u232f<BLUE>エンジュ</COLOR>\u232c
+…あ、ちょうど良かったわ。
+<RED>素材屋</COLOR>を探してるんだけど。<PAGE>\u2137<FACE_POS_RIGHT><FACE_HERO><FACE_NORMAL><CHOICE_ABC> さあ、どこだったかな？
+ 右下にあるよ
+ 右上にあるよ
+----------------------------|----------------------------------
+\u23f5\u23f2<FACE_POS_LEFT><FACE_GEORGIA><FACE_ANGRY><FP_LEFT>\u232f<BLUE>エンジュ</COLOR>\u232c
+\u21b5もういいわ。<PAGE>あなたに聞いたのが、
+間違いだったみたい。
+----------------------------|----------------------------------
+\u23f5\u23f0<FACE_POS_LEFT><FACE_GEORGIA><FACE_HAPPY><FP_LEFT>\u232f<BLUE>エンジュ</COLOR>\u232c
+\u21b0そう、ありがとう。
+意外とたよりになるのね。
+----------------------------|----------------------------------
+\u23f5\u23f3<FACE_POS_LEFT><FACE_GEORGIA><FACE_ANGRY><FP_LEFT>\u232f<BLUE>エンジュ</COLOR>\u232c
+\u21b2そっちには、なかったわ。
+てきとうなこと、言わないで。
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_GEORGIA><FACE_NORMAL><FP_LEFT>\u232f<BLUE>エンジュ</COLOR>\u232c
+………。
+この、<RED><VAR_0></COLOR>…。<PAGE>\u2137<FACE_POS_RIGHT><FACE_HERO><FACE_NORMAL><CHOICE_ABC> どうしたの？
+ あげるよ
+ キミにはあげない！
+----------------------------|----------------------------------
+\u23f5\u23f2<FACE_POS_LEFT><FACE_GEORGIA><FACE_NORMAL><FP_LEFT>\u232f<BLUE>エンジュ</COLOR>\u232c
+…別に。何でもないわ。
+----------------------------|----------------------------------
+\u23f6\u23f0<FACE_POS_LEFT><FACE_GEORGIA><FACE_HAPPY><FP_LEFT>\u232f<BLUE>エンジュ</COLOR>\u232c
+\u21b4え…。
+あ、ありがとう。
+----------------------------|----------------------------------
+\u23f5\u23f3<FACE_POS_LEFT><FACE_GEORGIA><FACE_ANGRY><FP_LEFT>\u232f<BLUE>エンジュ</COLOR>\u232c
+\u21b5べ、別にほしいなんて、
+一言も言ってないでしょ！
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_GEORGIA><FACE_NORMAL><FP_LEFT>\u232f<BLUE>エンジュ</COLOR>\u232c
+\u21b6ふーん。
+いろいろ出品してるのね。<PAGE>…ものを売るのって、楽しい？<PAGE>\u2137<FACE_POS_RIGHT><FACE_HERO><FACE_NORMAL><CHOICE_ABC> 楽しいよ♪
+ あんまり楽しくない
+ お店だしてみたら？
+----------------------------|----------------------------------
+\u23f5\u23f0<FACE_POS_LEFT><FACE_GEORGIA><FACE_NORMAL><FP_LEFT>\u232f<BLUE>エンジュ</COLOR>\u232c
+そう。あなたって何にでも
+いっしょうけんめいよね。<PAGE><FACE_POS_LEFT><FACE_GEORGIA><FACE_HAPPY><FP_LEFT>\u21b1…そういうの、
+キライじゃないわ。
+----------------------------|----------------------------------
+\u23f5\u23f3<FACE_POS_LEFT><FACE_GEORGIA><FACE_ANGRY><FP_LEFT>\u232f<BLUE>エンジュ</COLOR>\u232c
+\u21b5はぁ…。なら、やめれば？
+わたし、帰るわ。さよなら。
+----------------------------|----------------------------------
+\u23f5\u23f1<FACE_POS_LEFT><FACE_GEORGIA><FACE_SHOCK><FP_LEFT>\u232f<BLUE>エンジュ</COLOR>\u232c
+\u21b4えっ！？　…そんなこと、
+考えたこともなかったわ。<PAGE><FACE_POS_LEFT><FACE_GEORGIA><FACE_HAPPY><FP_LEFT>\u21b0そうね。いつか…、
+自分の作ったアクセサリーを
+売ったりしてみたいわ。
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_GEORGIA><FACE_SHY><FP_LEFT>\u232f<BLUE>エンジュ</COLOR>\u232c
+\u21b5…こんな暑い中、大変ね。<PAGE>\u2137<FACE_POS_RIGHT><FACE_HERO><FACE_NORMAL><CHOICE_ABC> …大丈夫？
+ 平気だよ！
+ 暑いからよってこないで
+----------------------------|----------------------------------
+\u23f5\u23f1<FACE_POS_LEFT><FACE_GEORGIA><FACE_SAD><FP_LEFT>\u232f<BLUE>エンジュ</COLOR>\u232c
+\u21b4え？　えぇ…平気、よ。
+それよりあなたのことでしょ。<PAGE><FACE_POS_LEFT><FACE_GEORGIA><FACE_ANGRY><FP_LEFT>\u223eいつも人の事ばっかり。
+ちょっとは自分のことも大切に
+しなさいよ。…それじゃ。
+----------------------------|----------------------------------
+\u23f5\u23f1<FACE_POS_LEFT><FACE_GEORGIA><FACE_SAD><FP_LEFT>\u232f<BLUE>エンジュ</COLOR>\u232c
+そう、うらやましいわ。\u21b5はぁ…
+早く、秋になればいいのに…。
+----------------------------|----------------------------------
+\u23f5\u23f3<FACE_POS_LEFT><FACE_GEORGIA><FACE_ANGRY><FP_LEFT>\u232f<BLUE>エンジュ</COLOR>\u232c
+\u21b2はぁ！？
+\u270b……もういいわ。さよなら！
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_REINA><FACE_NORMAL><FP_LEFT>\u232f<BLUE>フレイヤ</COLOR>\u232c
+あら、あなたも出店してたの。
+どう？　頑張ってる？<PAGE>\u2137<FACE_POS_RIGHT><FACE_HERO><FACE_NORMAL><CHOICE_ABC> めちゃくちゃ頑張ってる！
+ それなりに頑張ってる
+ サボってる
+----------------------------|----------------------------------
+\u23f5\u23f1<FACE_POS_LEFT><FACE_REINA><FACE_HAPPY><FP_LEFT>\u232f<BLUE>フレイヤ</COLOR>\u232c
+\u21b8そう。でもあんまり
+はりきりすぎちゃダメよ？
+----------------------------|----------------------------------
+\u23f5\u23f1<FACE_POS_LEFT><FACE_REINA><FACE_NORMAL><FP_LEFT>\u232f<BLUE>フレイヤ</COLOR>\u232c
+そうね。ほどほどがいいわね。
+\u270a\u21b9<FACE_HAPPY>でも手をぬきすぎてもダメよ？
+----------------------------|----------------------------------
+\u23f5\u23f2<FACE_POS_LEFT><FACE_REINA><FACE_SHY><FP_LEFT>\u232f<BLUE>フレイヤ</COLOR>\u232c
+\u21bc…あなた、売る気はあるの？<PAGE>そういう態度は、真剣に
+ものを売ってる人達に対して
+失礼だと思うわ…。
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_REINA><FACE_NORMAL><FP_LEFT>\u232f<BLUE>フレイヤ</COLOR>\u232c
+ちょっと聞きたいのだけれど、
+<RED>カフェ</COLOR>はどこかしら？<PAGE>\u2137<FACE_POS_RIGHT><FACE_HERO><FACE_NORMAL><CHOICE_ABC> 町にあるよ
+ 会場の右上にあるよ
+ 会場の右下にあるよ
+----------------------------|----------------------------------
+\u23f5\u23f3<FACE_POS_LEFT><FACE_REINA><FACE_ANGRY><FP_LEFT>\u232f<BLUE>フレイヤ</COLOR>\u232c
+\u21ba…もう！<PAGE>そのカフェじゃないわよ。
+わかってるでしょう！？
+----------------------------|----------------------------------
+\u23f5\u23f1<FACE_POS_LEFT><FACE_REINA><FACE_HAPPY><FP_LEFT>\u232f<BLUE>フレイヤ</COLOR>\u232c
+\u21b8会場の右上、ね。
+わかったわ。ありがとう♪
+----------------------------|----------------------------------
+\u23f5\u23f2<FACE_POS_LEFT><FACE_REINA><FACE_SHY><FP_LEFT>\u232f<BLUE>フレイヤ</COLOR>\u232c
+\u21be…そうだったかしら？
+まあ、いいわ。ありがとう。
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_REINA><FACE_NORMAL><FP_LEFT>\u232f<BLUE>フレイヤ</COLOR>\u232c
+んー…この<RED><VAR_0></COLOR>、
+もう少し安くならない？<PAGE>\u2137<FACE_POS_RIGHT><FACE_HERO><FACE_NORMAL><CHOICE_ABC> これがせいいっぱいだよ
+ じゃあ、半額で！
+ じゃあ、タダで！
+----------------------------|----------------------------------
+\u23f5\u23f2<FACE_POS_LEFT><FACE_REINA><FACE_SAD><FP_LEFT>\u232f<BLUE>フレイヤ</COLOR>\u232c
+\u21b9そっか、そうよね…。
+うーん、残念。あきらめるわ。
+----------------------------|----------------------------------
+\u23f7\u23f1<FACE_POS_LEFT><FACE_REINA><FACE_HAPPY><FP_LEFT>\u232f<BLUE>フレイヤ</COLOR>\u232c
+\u21b8え！　本当！？
+ありがとう！　うれしいわ♪
+----------------------------|----------------------------------
+\u23f6\u23f0<FACE_POS_LEFT><FACE_REINA><FACE_SHY><FP_LEFT>\u232f<BLUE>フレイヤ</COLOR>\u232c
+\u21bdえ！　そんな…、悪いわよ！<PAGE>…本当にもらっていいの？
+\u270a\u21b8<FACE_POS_LEFT><FACE_REINA><FACE_HAPPY><FP_LEFT>あ、ありがとう。うれしいわ。
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_REINA><FACE_NORMAL><FP_LEFT>\u232f<BLUE>フレイヤ</COLOR>\u232c
+こんにちは。<MYNAME>。<PAGE>春のバザールの雰囲気って
+いいわよね。
+わたし、とっても好きだわ。<PAGE>\u2137<FACE_POS_RIGHT><FACE_HERO><FACE_NORMAL><CHOICE_ABC> わかる気がする！
+ あんまり変わらないよ
+ なんだかほんわかするよね
+----------------------------|----------------------------------
+\u23f5\u23f1<FACE_POS_LEFT><FACE_REINA><FACE_HAPPY><FP_LEFT>\u232f<BLUE>フレイヤ</COLOR>\u232c
+\u21b8そう？
+それは良かったわ。
+----------------------------|----------------------------------
+\u23f5\u23f2<FACE_POS_LEFT><FACE_REINA><FACE_SHY><FP_LEFT>\u232f<BLUE>フレイヤ</COLOR>\u232c
+\u21bcうーん、そうかしら。わたしは
+そうは思えないんだけどな…。
+----------------------------|----------------------------------
+\u23f5\u23f0<FACE_POS_LEFT><FACE_REINA><FACE_HAPPY><FP_LEFT>\u232f<BLUE>フレイヤ</COLOR>\u232c
+そうなのよ！　\u21b8フフッ、
+わかってもらえてうれしいわ♪
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_NORI><FACE_SHY><FP_LEFT>\u232f<BLUE>アネモネ</COLOR>\u232c
+あ！　<MYNAME>さんっ！
+助けてくださいー！<PAGE>お客さんの大切な
+<RED><VAR_0></COLOR>を
+落としてしまったんですぅ…。<PAGE>この<RED><VAR_0></COLOR>、
+くれませんか？<PAGE>\u2137<FACE_POS_RIGHT><FACE_HERO><FACE_NORMAL><CHOICE_ABC> 絶対やだ
+ いいけど、お金は？
+ うん、いいよ♪
+----------------------------|----------------------------------
+\u23f5\u23f3<FACE_POS_LEFT><FACE_NORI><FACE_SAD><FP_LEFT>\u232f<BLUE>アネモネ</COLOR>\u232c
+\u21c3うぅ…<MYNAME>さん、
+イジワルですぅ…。
+----------------------------|----------------------------------
+\u23f5\u23f2<FACE_POS_LEFT><FACE_NORI><FACE_SHY><FP_LEFT>\u232f<BLUE>アネモネ</COLOR>\u232c
+\u21c3おサイフ忘れてきました…。
+やっぱりダメですよね…。
+----------------------------|----------------------------------
+\u23f6\u23f0<FACE_POS_LEFT><FACE_NORI><FACE_HAPPY><FP_LEFT>\u232f<BLUE>アネモネ</COLOR>\u232c
+\u21c1ありがとうございます！！
+今度、何かお礼しますね！
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_NORI><FACE_HAPPY><FP_LEFT>\u232f<BLUE>アネモネ</COLOR>\u232c
+\u21c3わたし…、たくさん歩いて
+疲れちゃいました。<PAGE>ここで、ちょっとお休みして
+いっていいですか？<PAGE>\u2137<FACE_POS_RIGHT><FACE_HERO><FACE_NORMAL><CHOICE_ABC> ここでよければどうぞ
+ ちょっとだけなら…
+ ダメ！
+----------------------------|----------------------------------
+\u23f5\u23f0<FACE_POS_LEFT><FACE_NORI><FACE_SAD><FP_LEFT>\u232f<BLUE>アネモネ</COLOR>\u232c
+\u21c4えー！
+ほんとですか？<PAGE>でも、おジャマしちゃ
+悪いので、帰りますね。
+ありがとうございます。
+----------------------------|----------------------------------
+\u23f5\u23f1<FACE_POS_LEFT><FACE_NORI><FACE_NORMAL><FP_LEFT>\u232f<BLUE>アネモネ</COLOR>\u232c
+\u21c5いいんですか？<PAGE>でも、<MYNAME>さんと
+お話したら元気になりました。
+アネモネ頑張ります！
+----------------------------|----------------------------------
+\u23f5\u23f3<FACE_POS_LEFT><FACE_NORI><FACE_SAD><FP_LEFT>\u232f<BLUE>アネモネ</COLOR>\u232c
+\u21c3そうですよね…。
+ごめんなさい。<PAGE>おジャマしました…。
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_NORI><FACE_SHY><FP_LEFT>\u232f<BLUE>アネモネ</COLOR>\u232c
+あ、<MYNAME>さん。<PAGE>ここに<RED>動物園</COLOR>があるって
+聞いたんですが、
+どこにあるんですか？<PAGE>\u2137<FACE_POS_RIGHT><FACE_HERO><FACE_NORMAL><CHOICE_ABC> そんなものはないよ
+ 動物屋なら左上だよ
+ 町長のお店なら上にあるよ
+----------------------------|----------------------------------
+\u23f5\u23f3<FACE_POS_LEFT><FACE_NORI><FACE_SHY><FP_LEFT>\u232f<BLUE>アネモネ</COLOR>\u232c
+えー！
+ないんですか？<PAGE><FACE_POS_LEFT><FACE_NORI><FACE_SAD><FP_LEFT>そうですか…。
+\u21c6ちょっとガッカリですけど、
+しかたないですよね。
+----------------------------|----------------------------------
+\u23f5\u23f1<FACE_POS_LEFT><FACE_NORI><FACE_NORMAL><FP_LEFT>\u232f<BLUE>アネモネ</COLOR>\u232c
+あ、そうでしたね！<PAGE>わたしったら、
+間違えちゃいましたね。
+ありがとうございます。
+----------------------------|----------------------------------
+\u23f5\u23f1<FACE_POS_LEFT><FACE_NORI><FACE_HAPPY><FP_LEFT>\u232f<BLUE>アネモネ</COLOR>\u232c
+\u21c1あ、そうですね！<PAGE>町長さんなら、
+きっと知ってますね。
+ありがとうございます。
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_NORI><FACE_HAPPY><FP_LEFT>\u232f<BLUE>アネモネ</COLOR>\u232c
+あ、<MYNAME>さん、
+食欲の秋ですね！<PAGE><FACE_POS_LEFT><FACE_NORI><FACE_SHY><FP_LEFT>わたし、おなかがすいて…。
+<RED><VAR_0></COLOR>が、
+おいしそうに見えてきました。<PAGE>\u2137<FACE_POS_RIGHT><FACE_HERO><FACE_NORMAL><CHOICE_ABC> じゃあ、あげるよ
+ じゃあ、買って
+ じゃあ、半額で！
+----------------------------|----------------------------------
+\u23f6\u23f0<FACE_POS_LEFT><FACE_NORI><FACE_NORMAL><FP_LEFT>\u232f<BLUE>アネモネ</COLOR>\u232c
+え？
+ほんとにくれるんですか？<PAGE><FACE_POS_LEFT><FACE_NORI><FACE_HAPPY><FP_LEFT>\u21c1とってもうれしいです！
+<MYNAME>さん、
+ありがとうございます。
+----------------------------|----------------------------------
+\u23f5\u23f2<FACE_POS_LEFT><FACE_NORI><FACE_SHY><FP_LEFT>\u232f<BLUE>アネモネ</COLOR>\u232c
+\u21c6うーん…。<PAGE><FACE_POS_LEFT><FACE_NORI><FACE_SAD><FP_LEFT>わたし、お金ないですから、
+やめときます。
+ごめんなさい。
+----------------------------|----------------------------------
+\u23f7\u23f1<FACE_POS_LEFT><FACE_NORI><FACE_NORMAL><FP_LEFT>\u232f<BLUE>アネモネ</COLOR>\u232c
+半額ですか！？<PAGE><FACE_POS_LEFT><FACE_NORI><FACE_HAPPY><FP_LEFT>\u21c0これはお買い得ですね。
+買います！
+ありがとうございます。
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_EILEEN><FACE_HAPPY><FP_LEFT>\u232f<BLUE>エーリッヒ</COLOR>\u232c
+ああ、<MYNAME>くん。
+キミも出店していたんだね。<PAGE>どうだい？　バザールは、
+楽しんでいるかな？<PAGE>\u2137<FACE_POS_RIGHT><FACE_HERO><FACE_NORMAL><CHOICE_ABC> 楽しくないです
+ とっても楽しいです♪
+ それなりに楽しいです
+----------------------------|----------------------------------
+\u23f5\u23f3<FACE_POS_LEFT><FACE_EILEEN><FACE_SAD><FP_LEFT>\u232f<BLUE>エーリッヒ</COLOR>\u232c
+\u220b…そうか。
+残念だな。<PAGE>では、
+わたしはこれで失礼するよ。
+----------------------------|----------------------------------
+\u23f5\u23f0<FACE_POS_LEFT><FACE_EILEEN><FACE_HAPPY><FP_LEFT>\u232f<BLUE>エーリッヒ</COLOR>\u232c
+\u2208そうか、それは良かった。<PAGE>買う側の人間も、売る側の
+人間も楽しめるなんて、
+とてもすばらしい事だよ。
+----------------------------|----------------------------------
+\u23f5\u23f1<FACE_POS_LEFT><FACE_EILEEN><FACE_NORMAL><FP_LEFT>\u232f<BLUE>エーリッヒ</COLOR>\u232c
+\u2209うーむ…、そうか。<PAGE>まあ、頑張りなさい。
+応援しているよ。
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_EILEEN><FACE_HAPPY><FP_LEFT>\u232f<BLUE>エーリッヒ</COLOR>\u232c
+やあ、<MYNAME>くん。
+キミも出店していたんだね。<PAGE>お店の調子はどうだい？
+売れてるかい？<PAGE>\u2137<FACE_POS_RIGHT><FACE_HERO><FACE_NORMAL><CHOICE_ABC> 売れすぎてこまってます
+ ぼちぼち売れてます
+ 全然売れてません
+----------------------------|----------------------------------
+\u23f5\u23f1<FACE_POS_LEFT><FACE_EILEEN><FACE_HAPPY><FP_LEFT>\u232f<BLUE>エーリッヒ</COLOR>\u232c
+\u2208そうか。それはすごいね。<PAGE><MYNAME>くんには、
+商売の才能があるのかも
+しれないね。
+----------------------------|----------------------------------
+\u23f5\u23f1<FACE_POS_LEFT><FACE_EILEEN><FACE_NORMAL><FP_LEFT>\u232f<BLUE>エーリッヒ</COLOR>\u232c
+そうか。
+それは良かった。<PAGE>それでは、
+ボクはこれで失礼するよ。
+----------------------------|----------------------------------
+\u23f5\u23f0<FACE_POS_LEFT><FACE_EILEEN><FACE_SAD><FP_LEFT>\u232f<BLUE>エーリッヒ</COLOR>\u232c
+\u220bそうか…。
+それは残念だね。<PAGE><FACE_POS_LEFT><FACE_EILEEN><FACE_NORMAL><FP_LEFT>でも、ボクは応援してるよ。
+めげずに頑張ってね。
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_EILEEN><FACE_HAPPY><FP_LEFT>\u232f<BLUE>エーリッヒ</COLOR>\u232c
+やあ、<MYNAME>くん。
+お店の調子はどうだい？<PAGE>ん？
+この<RED><VAR_0></COLOR>は、
+良いものだね。<PAGE>\u2137<FACE_POS_RIGHT><FACE_HERO><FACE_NORMAL><CHOICE_ABC> あげましょうか？
+ 半額でどうですか？
+ ２倍でどうですか？
+----------------------------|----------------------------------
+\u23f6\u23f0<FACE_POS_LEFT><FACE_EILEEN><FACE_HAPPY><FP_LEFT>\u232f<BLUE>エーリッヒ</COLOR>\u232c
+\u2208くれるのかい？
+いやあ、うれしいな。<PAGE><MYNAME>くん、
+ありがとう。
+----------------------------|----------------------------------
+\u23f7\u23f1<FACE_POS_LEFT><FACE_EILEEN><FACE_HAPPY><FP_LEFT>\u232f<BLUE>エーリッヒ</COLOR>\u232c
+\u2208こんなに良いものを
+半額にしてくれるのかい？<PAGE>よし。買わせてもらおう。
+ありがとう。
+----------------------------|----------------------------------
+\u23f8\u23f2<FACE_POS_LEFT><FACE_EILEEN><FACE_SAD><FP_LEFT>\u232f<BLUE>エーリッヒ</COLOR>\u232c
+\u2209うーん。\u270a良いものだから
+しょうがないね。<PAGE>２倍で買わせてもらおう。
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_EILEEN><FACE_HAPPY><FP_LEFT>\u232f<BLUE>エーリッヒ</COLOR>\u232c
+やあ、<MYNAME>くん。<PAGE>お店を出してるって、
+話を聞いてね。
+様子を見に来たんだ。<PAGE>\u2137<FACE_POS_RIGHT><FACE_HERO><FACE_NORMAL><CHOICE_ABC> ゆっくりして行ってください
+ 何か買ってください
+ 商売のジャマです
+----------------------------|----------------------------------
+\u23f5\u23f1<FACE_POS_LEFT><FACE_EILEEN><FACE_HAPPY><FP_LEFT>\u232f<BLUE>エーリッヒ</COLOR>\u232c
+\u2208ありがとう。<PAGE>でも、ジャマしたら悪いから
+これで失礼するよ。
+頑張ってね。
+----------------------------|----------------------------------
+\u23f5\u23f2<FACE_POS_LEFT><FACE_EILEEN><FACE_SAD><FP_LEFT>\u232f<BLUE>エーリッヒ</COLOR>\u232c
+\u220bう…うん。<PAGE>でも、ほかのお店も
+見てからにしようかな。
+また来るよ。
+----------------------------|----------------------------------
+\u23f5\u23f2<FACE_POS_LEFT><FACE_EILEEN><FACE_SAD><FP_LEFT>\u232f<BLUE>エーリッヒ</COLOR>\u232c
+\u220bそ…そうだよね。
+ごめんね。<PAGE>では、
+ボクはこれで失礼するよ。
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_AYAME><FACE_NORMAL><FP_LEFT>\u232f<BLUE>ケヴィン</COLOR>\u232c
+\u2228ハッハッハー！　オレっち、
+いいこと思いついちゃった♪<PAGE>なあ、<MYNAME>。
+この<RED><VAR_0></COLOR>、
+オレっちにくれない？<PAGE>\u2137<FACE_POS_RIGHT><FACE_HERO><FACE_NORMAL><CHOICE_ABC> …イタズラに使うの？
+ 絶対、ダメ！
+ いいよ、あげる♪
+----------------------------|----------------------------------
+\u23f6\u23f2<FACE_POS_LEFT><FACE_AYAME><FACE_NORMAL><FP_LEFT>\u232f<BLUE>ケヴィン</COLOR>\u232c
+うっ…。ち、ちがうよ！！
+とにかくこれ、もらってくな！
+----------------------------|----------------------------------
+\u23f5\u23f0<FACE_POS_LEFT><FACE_AYAME><FACE_SAD><FP_LEFT>\u232f<BLUE>ケヴィン</COLOR>\u232c
+\u222bうぅ…。<PAGE><FACE_POS_LEFT><FACE_AYAME><FACE_ANGRY><FP_LEFT>さてはおまえも母ちゃんの
+さしがねだな！？
+オレっち、負けねぇぞー！
+----------------------------|----------------------------------
+\u23f6\u23f3<FACE_POS_LEFT><FACE_AYAME><FACE_HAPPY><FP_LEFT>\u232f<BLUE>ケヴィン</COLOR>\u232c
+\u2228さっすがオレっちの子分！
+わかってるな♪<PAGE>よーっし！　これで、あっと
+おどろくイタズラを
+してやるぜぃ♪
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_AYAME><FACE_NORMAL><FP_LEFT>\u232f<BLUE>ケヴィン</COLOR>\u232c
+\u2229オイ、<MYNAME>。<PAGE><RED><VAR_0></COLOR>、って
+すげーな。かっこいいな。
+イカすよな。<PAGE>\u2137<FACE_POS_RIGHT><FACE_HERO><FACE_NORMAL><CHOICE_ABC> あげないよ？
+ わかってるね〜
+ じゃあ、買ってよ
+----------------------------|----------------------------------
+\u23f5\u23f2<FACE_POS_LEFT><FACE_AYAME><FACE_ANGRY><FP_LEFT>\u232f<BLUE>ケヴィン</COLOR>\u232c
+\u2229なんだよ。
+くれねぇのかよ！<PAGE><FACE_POS_LEFT><FACE_AYAME><FACE_NORMAL><FP_LEFT>…ま、オレっちの子分として
+とくべつにゆるしてやるよ。
+----------------------------|----------------------------------
+\u23f6\u23f3<FACE_POS_LEFT><FACE_AYAME><FACE_NORMAL><FP_LEFT>\u232f<BLUE>ケヴィン</COLOR>\u232c
+そうだろ？
+じゃあ、コレはもらってくぜ！<PAGE><FACE_POS_LEFT><FACE_AYAME><FACE_HAPPY><FP_LEFT>\u2228ハッハッハ！\u270a
+うまくいったぜ！
+----------------------------|----------------------------------
+\u23f5\u23f0<FACE_POS_LEFT><FACE_AYAME><FACE_ANGRY><FP_LEFT>\u232f<BLUE>ケヴィン</COLOR>\u232c
+オレっち、
+そんなお金持ってねぇよ。<PAGE><FACE_POS_LEFT><FACE_AYAME><FACE_NORMAL><FP_LEFT>\u222bなんだよ。
+<MYNAME>のイジワル。
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_AYAME><FACE_NORMAL><FP_LEFT>\u232f<BLUE>ケヴィン</COLOR>\u232c
+お、<MYNAME>。
+いいとこにいたぜ。<PAGE>母ちゃんどこにいるか
+知らないか？<PAGE>\u2137<FACE_POS_RIGHT><FACE_HERO><FACE_NORMAL><CHOICE_ABC> …迷子になったの？
+ 上に行けばいるんじゃない？
+ おかしをねだる気でしょ？
+----------------------------|----------------------------------
+\u23f5\u23f2<FACE_POS_LEFT><FACE_AYAME><FACE_ANGRY><FP_LEFT>\u232f<BLUE>ケヴィン</COLOR>\u232c
+ち…ちがうよ！<PAGE>このオレっちが、
+迷子になるわけないだろ！
+じゃ…じゃあな！
+----------------------------|----------------------------------
+\u23f5\u23f3<FACE_POS_LEFT><FACE_AYAME><FACE_SAD><FP_LEFT>\u232f<BLUE>ケヴィン</COLOR>\u232c
+\u222bなんだよ…。
+さっき上は行ったけど…。<PAGE>母ちゃんはいなかったぞ…。
+<MYNAME>のウソつき。
+----------------------------|----------------------------------
+\u23f5\u23f0<FACE_POS_LEFT><FACE_AYAME><FACE_HAPPY><FP_LEFT>\u232f<BLUE>ケヴィン</COLOR>\u232c
+\u2228よくわかったな！
+\u270a<FACE_ANGRY>あー！　母ちゃんだ！！<PAGE><FACE_POS_LEFT><FACE_AYAME><FACE_HAPPY><FP_LEFT>おかし買ってもらったら、
+おまえにもちょっとは、わけて
+やってもいいぜ♪　じゃーな！
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_AYAME><FACE_NORMAL><FP_LEFT>\u232f<BLUE>ケヴィン</COLOR>\u232c
+\u2229オイ！
+お店、大変そうだな！<PAGE>どうだ？
+オレっちが
+お店手伝ってやろうか？<PAGE>\u2137<FACE_POS_RIGHT><FACE_HERO><FACE_NORMAL><CHOICE_ABC> 手伝ってもらおうかな
+ えんりょしとくよ
+ 今はいそがしくないよ
+----------------------------|----------------------------------
+\u23f5\u23f3<FACE_POS_LEFT><FACE_AYAME><FACE_HAPPY><FP_LEFT>\u232f<BLUE>ケヴィン</COLOR>\u232c
+\u2228ハッハッハ！\u270a
+引っかかったな！<PAGE><FACE_POS_LEFT><FACE_AYAME><FACE_NORMAL><FP_LEFT>オレっちのイタズラを
+くらえっ！！！
+----------------------------|----------------------------------
+\u23f5\u23f0<FACE_POS_LEFT><FACE_AYAME><FACE_ANGRY><FP_LEFT>\u232f<BLUE>ケヴィン</COLOR>\u232c
+やるな、<MYNAME>！<PAGE><FACE_POS_LEFT><FACE_AYAME><FACE_HAPPY><FP_LEFT>\u2228オレっちのイタズラを
+みやぶるとは、
+さすが子分だぜ！
+----------------------------|----------------------------------
+\u23f5\u23f1<FACE_POS_LEFT><FACE_AYAME><FACE_SAD><FP_LEFT>\u232f<BLUE>ケヴィン</COLOR>\u232c
+\u222bい…いそがしいだろ？
+えんりょするなよ。<PAGE>ま…まさか、
+オレっちのイタズラが
+みやぶられたのか…。
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_PIERRE><FACE_NORMAL><FP_LEFT>\u232f<BLUE>ピエール</COLOR>\u232c
+やっぱり出品するなら
+おいしい料理デスよね！<PAGE>\u2137<FACE_POS_RIGHT><FACE_HERO><FACE_NORMAL><CHOICE_ABC> あたりまえだ！！
+ ほかにもいろいろだしたい
+ 料理なんて絶対ださない
+----------------------------|----------------------------------
+\u23f5\u23f1<FACE_POS_LEFT><FACE_PIERRE><FACE_HAPPY><FP_LEFT>\u232f<BLUE>ピエール</COLOR>\u232c
+<MYNAME>さんとは、
+気があいマス♪<PAGE>これからも、良い料理を
+出品していってくださいデス！
+----------------------------|----------------------------------
+\u23f5\u23f0<FACE_POS_LEFT><FACE_PIERRE><FACE_NORMAL><FP_LEFT>\u232f<BLUE>ピエール</COLOR>\u232c
+うーん…、そうデスね。<PAGE><FACE_HAPPY>ワタシが料理を好きなように、
+ほかのものが好きで探しにきて
+いる人もいるはずデスからね。
+----------------------------|----------------------------------
+\u23f5\u23f2<FACE_POS_LEFT><FACE_PIERRE><FACE_SAD><FP_LEFT>\u232f<BLUE>ピエール</COLOR>\u232c
+そんな事いうなんて、
+ひどいデス…。がっかりデス。
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_PIERRE><FACE_NORMAL><FP_LEFT>\u232f<BLUE>ピエール</COLOR>\u232c
+<MYNAME>さん、
+お店頑張ってマスね。<PAGE>でも、ご飯はしっかり
+食べてマスか？<PAGE>\u2137<FACE_POS_RIGHT><FACE_HERO><FACE_NORMAL><CHOICE_ABC> バッチリ！
+ ちょっとだけ…
+ よけいなお世話デス
+----------------------------|----------------------------------
+\u23f5\u23f1<FACE_POS_LEFT><FACE_PIERRE><FACE_HAPPY><FP_LEFT>\u232f<BLUE>ピエール</COLOR>\u232c
+ご飯食べないと
+元気出ないデス。<PAGE>その調子でモリモリ
+頑張ってほしいデス。
+----------------------------|----------------------------------
+\u23f5\u23f1<FACE_POS_LEFT><FACE_PIERRE><FACE_NORMAL><FP_LEFT>\u232f<BLUE>ピエール</COLOR>\u232c
+しっかり食べておかないと
+倒れてしまいマスよ。<PAGE>倒れてしまわないように
+頑張ってほしいデス。
+----------------------------|----------------------------------
+\u23f5\u23f3<FACE_POS_LEFT><FACE_PIERRE><FACE_ANGRY><FP_LEFT>\u232f<BLUE>ピエール</COLOR>\u232c
+そんな言い方するなんて
+ヒドイデス！<PAGE>ワタシ、帰りマス！！
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_PIERRE><FACE_NORMAL><FP_LEFT>\u232f<BLUE>ピエール</COLOR>\u232c
+<MYNAME>さん、
+お店に来てみたデス。<PAGE><FACE_POS_LEFT><FACE_PIERRE><FACE_SAD><FP_LEFT>こ…この<RED><VAR_0></COLOR>は、
+良い品デスね…。<PAGE>\u2137<FACE_POS_RIGHT><FACE_HERO><FACE_NORMAL><CHOICE_ABC> あげない！
+ ほしいの？
+ 半額にしてあげるよ
+----------------------------|----------------------------------
+\u23f5\u23f3<FACE_POS_LEFT><FACE_PIERRE><FACE_ANGRY><FP_LEFT>\u232f<BLUE>ピエール</COLOR>\u232c
+べ…別にほしくて
+言ったわけじゃないデス！<PAGE>気分を害したデス。
+ワタシ、帰りマス。
+----------------------------|----------------------------------
+\u23f8\u23f1<FACE_POS_LEFT><FACE_PIERRE><FACE_NORMAL><FP_LEFT>\u232f<BLUE>ピエール</COLOR>\u232c
+うん、これは良いデスね。<PAGE>この２倍の値段で、
+買わせていただきマス！
+----------------------------|----------------------------------
+\u23f7\u23f0<FACE_POS_LEFT><FACE_PIERRE><FACE_HAPPY><FP_LEFT>\u232f<BLUE>ピエール</COLOR>\u232c
+そんなに安くして
+いただけるのデスか？<PAGE>うれしいデス。
+<MYNAME>さんは、
+良い人デス。
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_PIERRE><FACE_NORMAL><FP_LEFT>\u232f<BLUE>ピエール</COLOR>\u232c
+<MYNAME>さん、
+お店頑張ってマスね。<PAGE>ところで、<MYNAME>さんは
+料理の練習は欠かさず
+やっていマスか？<PAGE>\u2137<FACE_POS_RIGHT><FACE_HERO><FACE_NORMAL><CHOICE_ABC> やってマス！
+ いそがしいから後でね
+ それ、今言わなきゃダメ？
+----------------------------|----------------------------------
+\u23f5\u23f1<FACE_POS_LEFT><FACE_PIERRE><FACE_HAPPY><FP_LEFT>\u232f<BLUE>ピエール</COLOR>\u232c
+すばらしいデス！<PAGE>次の料理祭は、
+<MYNAME>さんも
+出品してほしいデス。
+----------------------------|----------------------------------
+\u23f5\u23f2<FACE_POS_LEFT><FACE_PIERRE><FACE_SAD><FP_LEFT>\u232f<BLUE>ピエール</COLOR>\u232c
+そうデスよね…。
+どうもすいません…。
+----------------------------|----------------------------------
+\u23f5\u23f0<FACE_POS_LEFT><FACE_PIERRE><FACE_SAD><FP_LEFT>\u232f<BLUE>ピエール</COLOR>\u232c
+ワタシとしたことが…。
+失礼したデス。<PAGE>料理への情熱が空回りデス。
+今度はお客として来るデス。
+それでは、またデス。
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fc9<FACE_NORMAL><FP_LEFT>\u232f<BLUE>ワーダ</COLOR>\u232c
+………ココ、ドコ……………、
+………ワーダ、カエリタイ…。<PAGE>\u2137<FACE_POS_RIGHT><FACE_HERO><FACE_NORMAL><CHOICE_ABC> きっと帰れるよ！
+ うーん…、無理じゃない？
+ ここがキミの家だよ！！
+----------------------------|----------------------------------
+\u23f5\u23f0<FACE_POS_LEFT>\u1fc9<FACE_NORMAL><FP_LEFT>\u232f<BLUE>ワーダ</COLOR>\u232c
+………ワーダ…………………、
+………カエレル…ヨカッタ…。
+----------------------------|----------------------------------
+\u23f5\u23f3<FACE_POS_LEFT>\u1fc9<FACE_SAD><FP_LEFT>\u232f<BLUE>ワーダ</COLOR>\u232c
+………ワーダ…………………、
+……………カエリタイ………。
+----------------------------|----------------------------------
+\u23f5\u23f2<FACE_POS_LEFT>\u1fc9<FACE_NORMAL><FP_LEFT>\u232f<BLUE>ワーダ</COLOR>\u232c
+………！！……………………、
+……………ココ、イエ………。<PAGE>…………………………………、
+…………………………………、
+……………ソンナワケナイ…。
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ROSE><FACE_NORMAL><FP_LEFT>\u232f<BLUE>\u2337</COLOR>\u232c
+あっちにおいしそうな
+おかしがあったんだよ。<PAGE>あれ、食べたいなぁ〜。<PAGE>\u2137<FACE_POS_RIGHT><FACE_HERO><FACE_NORMAL><CHOICE_ABC> 後で買ってあげるよ
+ 後で同じの作ってあげるよ
+ ガマンしなさい
+----------------------------|----------------------------------
+\u23f5\u23f1<FACE_POS_LEFT><FACE_ROSE><FACE_HAPPY><FP_LEFT>\u232f<BLUE>\u2337</COLOR>\u232c
+やったぁ！
+約束だよ、\u2338。<PAGE><FACE_POS_LEFT><FACE_ROSE><FACE_NORMAL><FP_LEFT>でも、お店終わるまで、
+覚えててくれる？
+----------------------------|----------------------------------
+\u23f5\u23f3<FACE_POS_LEFT><FACE_ROSE><FACE_ANGRY><FP_LEFT>\u232f<BLUE>\u2337</COLOR>\u232c
+\u2338、今、お店やってるから、
+そのおかしわからないでしょ？<PAGE>\u2338のウソつき！
+----------------------------|----------------------------------
+\u23f5\u23f0<FACE_POS_LEFT><FACE_ROSE><FACE_SAD><FP_LEFT>\u232f<BLUE>\u2337</COLOR>\u232c
+はーい。
+わかったよ…。<PAGE>わがまま言って、
+ごめんなさい。
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ROSE><FACE_NORMAL><FP_LEFT>\u232f<BLUE>\u2337</COLOR>\u232c
+\u2338、
+お店いそがしい？<PAGE>\u2137<FACE_POS_RIGHT><FACE_HERO><FACE_NORMAL><CHOICE_ABC> どうしたの？
+ いそがしいよ
+ いそがしくないよ
+----------------------------|----------------------------------
+\u23f5\u23f1<FACE_POS_LEFT><FACE_ROSE><FACE_NORMAL><FP_LEFT>\u232f<BLUE>\u2337</COLOR>\u232c
+\u2338のお仕事を
+見てようかと思ったけど…。<PAGE>ジャマになるから、
+ボク、もうちょっと、
+ほかのお店見て来るね。
+----------------------------|----------------------------------
+\u23f5\u23f2<FACE_POS_LEFT><FACE_ROSE><FACE_SAD><FP_LEFT>\u232f<BLUE>\u2337</COLOR>\u232c
+そうだよね。いそがしいのに
+来てごめんなさい。
+----------------------------|----------------------------------
+\u23f5\u23f1<FACE_POS_LEFT><FACE_ROSE><FACE_NORMAL><FP_LEFT>\u232f<BLUE>\u2337</COLOR>\u232c
+でも、お客さんいるでしょ？<PAGE>ボクはもうちょっと
+ほかのお店を見て来るね。
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ROSE><FACE_NORMAL><FP_LEFT>\u232f<BLUE>\u2337</COLOR>\u232c
+\u2338！
+人がたくさんいるね！<PAGE>\u2137<FACE_POS_RIGHT><FACE_HERO><FACE_NORMAL><CHOICE_ABC> そうだね
+ だから何？
+ そんなにいないよ
+----------------------------|----------------------------------
+\u23f5\u23f1<FACE_POS_LEFT><FACE_ROSE><FACE_HAPPY><FP_LEFT>\u232f<BLUE>\u2337</COLOR>\u232c
+みんなバザールに来るんだね。
+バザールってすごいね！
+----------------------------|----------------------------------
+\u23f5\u23f2<FACE_POS_LEFT><FACE_ROSE><FACE_SAD><FP_LEFT>\u232f<BLUE>\u2337</COLOR>\u232c
+ごめんなさい。
+お店いそがしいよね…。
+----------------------------|----------------------------------
+\u23f5\u23f1<FACE_POS_LEFT><FACE_ROSE><FACE_HAPPY><FP_LEFT>\u232f<BLUE>\u2337</COLOR>\u232c
+もっと人が来ることがあるの？
+ボク、それ見てみたいよ！
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ROSE><FACE_NORMAL><FP_LEFT>\u232f<BLUE>\u2337</COLOR>\u232c
+\u2338、左上に
+動物がいっぱいいたよ。<PAGE>\u2137<FACE_POS_RIGHT><FACE_HERO><FACE_NORMAL><CHOICE_ABC> 良かったね
+ よし！　いっしょに行こう！
+ 今、いそがしいから後でね
+----------------------------|----------------------------------
+\u23f5\u23f2<FACE_POS_LEFT><FACE_ROSE><FACE_SAD><FP_LEFT>\u232f<BLUE>\u2337</COLOR>\u232c
+\u2338、つまんない…。
+もういいよ。
+----------------------------|----------------------------------
+\u23f5\u23f1<FACE_POS_LEFT><FACE_ROSE><FACE_HAPPY><FP_LEFT>\u232f<BLUE>\u2337</COLOR>\u232c
+ほんとに？
+\u2338ありがとう！<PAGE>でも、今お店やってるから
+また、今度でいいよ。
+----------------------------|----------------------------------
+\u23f5\u23f2<FACE_POS_LEFT><FACE_ROSE><FACE_SAD><FP_LEFT>\u232f<BLUE>\u2337</COLOR>\u232c
+そうだよね…。
+ごめんなさい…。
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ROSE><FACE_NORMAL><FP_LEFT>\u232f<BLUE>\u2337</COLOR>\u232c
+あっちにおいしそうな
+おかしがあったのよ。<PAGE>あれ、食べたいなぁ〜。<PAGE>\u2137<FACE_POS_RIGHT><FACE_HERO><FACE_NORMAL><CHOICE_ABC> 後で買ってあげるよ
+ 後で同じの作ってあげるよ
+ ガマンしなさい
+----------------------------|----------------------------------
+\u23f5\u23f1<FACE_POS_LEFT><FACE_ROSE><FACE_HAPPY><FP_LEFT>\u232f<BLUE>\u2337</COLOR>\u232c
+やったぁ！
+約束よ、\u2338。<PAGE><FACE_POS_LEFT><FACE_ROSE><FACE_NORMAL><FP_LEFT>でも、お店終わるまで、
+覚えててくれる？
+----------------------------|----------------------------------
+\u23f5\u23f3<FACE_POS_LEFT><FACE_ROSE><FACE_ANGRY><FP_LEFT>\u232f<BLUE>\u2337</COLOR>\u232c
+\u2338、今、お店やってるから、
+そのおかしわからないでしょ？<PAGE>\u2338のウソつき！
+----------------------------|----------------------------------
+\u23f5\u23f0<FACE_POS_LEFT><FACE_ROSE><FACE_SAD><FP_LEFT>\u232f<BLUE>\u2337</COLOR>\u232c
+うん…。
+わかったわ…。<PAGE>わがまま言って、
+ごめんなさい。
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ROSE><FACE_NORMAL><FP_LEFT>\u232f<BLUE>\u2337</COLOR>\u232c
+\u2338、
+お店いそがしい？<PAGE>\u2137<FACE_POS_RIGHT><FACE_HERO><FACE_NORMAL><CHOICE_ABC> どうしたの？
+ いそがしいよ
+ いそがしくないよ
+----------------------------|----------------------------------
+\u23f5\u23f1<FACE_POS_LEFT><FACE_ROSE><FACE_NORMAL><FP_LEFT>\u232f<BLUE>\u2337</COLOR>\u232c
+\u2338のお仕事を
+見てようかと思ったけど…。<PAGE>ジャマになるから、
+わたし、もうちょっと、
+ほかのお店見て来るね。
+----------------------------|----------------------------------
+\u23f5\u23f2<FACE_POS_LEFT><FACE_ROSE><FACE_SAD><FP_LEFT>\u232f<BLUE>\u2337</COLOR>\u232c
+そうだよね。いそがしいのに
+来てごめんなさい。
+----------------------------|----------------------------------
+\u23f5\u23f1<FACE_POS_LEFT><FACE_ROSE><FACE_NORMAL><FP_LEFT>\u232f<BLUE>\u2337</COLOR>\u232c
+でも、お客さんいるでしょ？<PAGE>わたしはもうちょっと
+ほかのお店を見て来るね。
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ROSE><FACE_NORMAL><FP_LEFT>\u232f<BLUE>\u2337</COLOR>\u232c
+\u2338！
+人がたくさんいるね！<PAGE>\u2137<FACE_POS_RIGHT><FACE_HERO><FACE_NORMAL><CHOICE_ABC> そうだね
+ だから何？
+ そんなにいないよ
+----------------------------|----------------------------------
+\u23f5\u23f1<FACE_POS_LEFT><FACE_ROSE><FACE_HAPPY><FP_LEFT>\u232f<BLUE>\u2337</COLOR>\u232c
+みんなバザールに来てるのね。
+バザールってすごいわね！
+----------------------------|----------------------------------
+\u23f5\u23f2<FACE_POS_LEFT><FACE_ROSE><FACE_SAD><FP_LEFT>\u232f<BLUE>\u2337</COLOR>\u232c
+ごめんなさい。
+お店いそがしいよね…。
+----------------------------|----------------------------------
+\u23f5\u23f1<FACE_POS_LEFT><FACE_ROSE><FACE_HAPPY><FP_LEFT>\u232f<BLUE>\u2337</COLOR>\u232c
+もっと人が来ることがあるの？
+わたし、それ見てみたいわ<RED>❤</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ROSE><FACE_HAPPY><FP_LEFT>\u232f<BLUE>\u2337</COLOR>\u232c
+\u2338、左上に
+動物がいっぱいいたよ。<PAGE>\u2137<FACE_POS_RIGHT><FACE_HERO><FACE_NORMAL><CHOICE_ABC> 良かったね
+ よし！　いっしょに行こう！
+ 今、いそがしいから後でね
+----------------------------|----------------------------------
+\u23f5\u23f2<FACE_POS_LEFT><FACE_ROSE><FACE_SAD><FP_LEFT>\u232f<BLUE>\u2337</COLOR>\u232c
+\u2338、つまんない…。
+もういいよ。
+----------------------------|----------------------------------
+\u23f5\u23f1<FACE_POS_LEFT><FACE_ROSE><FACE_HAPPY><FP_LEFT>\u232f<BLUE>\u2337</COLOR>\u232c
+ほんとに？
+\u2338ありがとう！<PAGE>でも、今お店やってるから
+また、今度でいいよ。
+----------------------------|----------------------------------
+\u23f5\u23f2<FACE_POS_LEFT><FACE_ROSE><FACE_SAD><FP_LEFT>\u232f<BLUE>\u2337</COLOR>\u232c
+そうだよね…。
+ごめんなさい…。
+----------------------------|----------------------------------
+どうも！
+ナベシー＆グッチでぇ〜す。<PAGE>今日は、お呼びいただき
+ありがとうございま〜す！<PAGE>\u2137<FACE_POS_RIGHT><FACE_HERO><FACE_NORMAL><CHOICE_ABC> 誰も呼んでない
+ １人じゃん
+ よ！　待ってました！
+----------------------------|----------------------------------
+\u23f5\u23f2ええっ、ちょっとまたまた〜。
+何言っちゃってるんですか？
+そんな事ないですよ〜…。<PAGE>…………………あっ！
+ここは、来月のライヴだった！
+…フ…フフン、また今度〜！
+----------------------------|----------------------------------
+\u23f5\u23f1は！？　あれ、ナベシー？
+どこ行ったんですかー？<PAGE>ちょっとー、ボク一人なんて
+出落ちもいいとこじゃない
+ですか〜。ナベシーいずこー！
+----------------------------|----------------------------------
+\u23f5\u23f0やーそんな期待されちゃって、
+ボク達も名前が知られるように
+なりましたねー、ナベシー？<PAGE>ちょ、ちょっとー、鉱石好きは
+知ってますが、今は仕事して
+くださいよー、ナベシー！
+----------------------------|----------------------------------
+ねぇ、<RED><VAR_0></COLOR>
+いいじゃな〜い！
+タダでほしいわ〜♪<PAGE>\u2137<FACE_POS_RIGHT><FACE_HERO><FACE_NORMAL><CHOICE_ABC> ちょっとそれは…
+ あげません！ 
+ お金をはらってください
+----------------------------|----------------------------------
+\u23f6\u23f3あらん？　そこは、
+「きれいなお姉さん、どうぞ」
+って、言っておけばいいのよ。
+----------------------------|----------------------------------
+\u23f5\u23f0まぁ、冷たい人！
+ウフン、そこが好き<RED>❤</COLOR><PAGE>今度、あなただけ特別に
+ナベシー＆グッチのライヴを
+見せてあげるわね♪
+----------------------------|----------------------------------
+\u23f6\u23f2ウ・フ・フッ<RED>❤</COLOR>
+じゃ、グッチからお金もらって
+ちょうだい。じゃあね〜ん♪
+----------------------------|----------------------------------
+どうも！
+ナベシー＆グッチでぇ〜す。<PAGE>えー本日はお日がらも良く、
+最高のバザール日よりですね。<PAGE>\u2137<FACE_POS_RIGHT><FACE_HERO><FACE_NORMAL><CHOICE_ABC> 一人で二役なの？
+ めいわくです
+ グッチ…、ナベシーは？
+----------------------------|----------------------------------
+\u23f5\u23f2やっ、あれ！？
+さっきまでナベシーと一緒に
+来たんですが…！！！<PAGE>ナベシーってば、お買いもの
+行ったんですかー？　お金は
+自分ではらってくださいよー！
+----------------------------|----------------------------------
+\u23f5\u23f3あっ…！　これまたバッサリ、
+とりつく島もない…。
+はーい、すいませんでしたー。
+----------------------------|----------------------------------
+\u23f5\u23f0そうです、ボクがグッチ…。
+って、ナベシーまたどこかに
+行ってしまったんですか…。<PAGE>はーい、頑張りま〜…す。
+では、ナベシーを探しに
+行ってきまーす…。
+----------------------------|----------------------------------
+ねぇねぇ、ここにグッチって
+名前の人が来なかったかしら？
+ナベシー＆グッチの。<PAGE>\u2137<FACE_POS_RIGHT><FACE_HERO><FACE_NORMAL><CHOICE_ABC> 動物屋前で泣いてた
+ 誰それ？ 
+ 鉱石流光にいたかも…
+----------------------------|----------------------------------
+\u23f5\u23f0まぁ、泣いてたのん？
+グッチ、わたしがいないと
+ほんとにダメな人なんだから<RED>❤</COLOR><PAGE>じゃあ、動物屋のところへ
+行ってくるわねん♪
+----------------------------|----------------------------------
+\u23f5\u23f3まぁ〜、あなた、流行に
+乗りおくれてるわ。
+そんなんじゃダメよん！
+----------------------------|----------------------------------
+\u23f5\u23f1まぁ、鉱石流光！？
+きっと、わたしにプレゼント
+してくれるつもりなのね！<PAGE>いや〜ん<RED>❤</COLOR>
+グッチってば最高ーーー<RED>❤❤❤</COLOR>
+----------------------------|----------------------------------
+道を聞きたいのだけど…。
+<RED>ラッピング屋さん</COLOR>って、
+どこにあるのかしら？<PAGE>\u2137<FACE_POS_RIGHT><FACE_HERO><FACE_NORMAL><CHOICE_ABC> 今いそがしいの！
+ 会場の左下の方ですよ
+ 会場の左上の方ですよ
+----------------------------|----------------------------------
+\u23f5\u23f2まぁ…、なんて店員なの！？
+いいわよ、自分で探すわ！
+もう…、サイアク！
+----------------------------|----------------------------------
+\u23f5\u23f0そうだったのね♪
+教えてくれてありがとう！
+また今度、買いものに来るわ。
+----------------------------|----------------------------------
+\u23f5\u23f1あら…。そうだったかしら？
+少し違う気もするけれど…。
+まあ良いわ。ありがとう♪
+----------------------------|----------------------------------
+あら、可愛い子ね<RED>❤</COLOR>
+美人なお姉さんに、タダでこの
+<RED><VAR_0></COLOR>くれない？<PAGE>\u2137<FACE_POS_RIGHT><FACE_HERO><FACE_NORMAL><CHOICE_ABC> どうぞ、どうぞ〜！！
+ や、タダは、ちょっと！
+ え…、買ってくれないの？
+----------------------------|----------------------------------
+\u23f6\u23f2ありがと〜<RED>❤</COLOR>
+お姉さんとってもうれしいわ<RED>❤</COLOR>
+\u270a…フフッ、チョロイわね。
+----------------------------|----------------------------------
+\u23f5\u23f1あらあら、てれちゃって…。
+ムリ言ってごめんなさい。
+また来るわ<RED>❤</COLOR>
+----------------------------|----------------------------------
+\u23f8\u23f1！！　やられたわ…。
+わたしの負けよ。フンパツして
+倍額で買わせてもらうわ。
+----------------------------|----------------------------------
+うぅ…。おなかが…すいて、
+力が、でませ、んー…。
+たおれ、てしまいますぅー…。<PAGE>\u2137<FACE_POS_RIGHT><FACE_HERO><FACE_NORMAL><CHOICE_ABC> 売りものでよければあげる
+ おろおろ、わたわた…！！
+ 頑張れ！　ファイトー！
+----------------------------|----------------------------------
+\u23f6\u23f0ほっ、本当ですか！？
+じゃあ、<RED><VAR_0></COLOR>を
+ひとつもらいますね！！<PAGE>ありがとうございます！
+これを売ってご飯食べます！
+----------------------------|----------------------------------
+\u23f5\u23f2ああ、す、すみません…。
+こまらせてしまいましたね。
+おじゃましましたー…。
+----------------------------|----------------------------------
+\u23f5\u23f1が、頑張ります！
+きっとあと３時間もあれば
+家につくはずです！<PAGE>そしたら、きっと…！！
+----------------------------|----------------------------------
+ここは今から
+わたしのコンサート会場よん！<PAGE>みんな、
+わたしの歌を聞きなさぁい♪<PAGE>\u2137<FACE_POS_RIGHT><FACE_HERO><FACE_NORMAL><CHOICE_ABC> ここはバザール会場です！
+ その歌声は嵐を呼ぶ！！
+ 良い歌声ですね♪
+----------------------------|----------------------------------
+\u23f5\u23f0…あ、あら？
+会場を間違えたみたいだわ…。
+本当に、ごめんなさいね！
+----------------------------|----------------------------------
+\u23f5\u23f3あなた、何？　どういう事！
+わたしは宇宙のアイドルなの！
+しらけちゃったわ。帰るっ！！
+----------------------------|----------------------------------
+\u23f5\u23f2あら、ありがとう<RED>❤</COLOR>
+じゃあもっと歌ってあげるわ！
+ら〜ららら〜、らんららら〜♪
+----------------------------|----------------------------------
+ほほぅ…。ちょっとお前さん。
+この<RED><VAR_0></COLOR>を
+ひとつ、タダでくれぬか…？<PAGE>\u2137<FACE_POS_RIGHT><FACE_HERO><FACE_NORMAL><CHOICE_ABC> ダメに決まってるでしょ？
+ …？　かまいませんけど？
+ えーどうしよっかなぁ〜
+----------------------------|----------------------------------
+\u23f5\u23f1ムム…。まあそうじゃな…。
+仕方あるまい…。ムリを言って
+すまなんだな。また来るぞ。
+----------------------------|----------------------------------
+\u23f6\u23f0おぉ！　そうか。すまんの。
+じつはワシ、この道では
+ちょっと名の知れた品評者…。<PAGE>…のように見せかけて、タダの
+ほしがりのジイさんじゃ！
+こいつはもらっていくぞい♪
+----------------------------|----------------------------------
+\u23f5\u23f2ううぅー…、もったいぶらせ
+よって、この商売上手め。
+もう、えぇわーい。
+----------------------------|----------------------------------
+あんやぁ、聞きたいんだげど。
+<RED>らひんぐ屋</COLOR>は、
+どごにあるんだがね？<PAGE>\u2137<FACE_POS_RIGHT><FACE_HERO><FACE_NORMAL><CHOICE_ABC> 何語！？
+ 大工屋なら右側です
+ ラッピング屋は左下です
+----------------------------|----------------------------------
+\u23f5\u23f3………しょんぼり。
+----------------------------|----------------------------------
+\u23f5\u23f2大工屋ちゃうが…。
+やはしワシのことばぁ普通の
+人にゃ聞き取れんかいなあ…。
+----------------------------|----------------------------------
+\u23f5\u23f0おお！　あんがど！<PAGE>ちゃんと聞いてくれたんは、
+おまいさんが初めてやけ！
+うれしいが！
+----------------------------|----------------------------------
+うぉー…もうダメじゃあ…。
+一歩もあるけん。
+クタクタじゃぁ…。<PAGE><RED><VAR_0></COLOR>をくれれば
+なんとかなるかもしれんー…。<PAGE>\u2137<FACE_POS_RIGHT><FACE_HERO><FACE_NORMAL><CHOICE_ABC> …え、何で？
+ いいですよ。お大事に♪
+ 絶対いやだ
+----------------------------|----------------------------------
+\u23f6\u23f2何でも、かんでもないんじゃ！
+年寄りが苦しんでるんじゃから
+さっさとよこさんかい〜！
+----------------------------|----------------------------------
+\u23f6\u23f0おまいさんは優しい子じゃな。
+わしは感動したぞい！！
+ありがとうな！！
+----------------------------|----------------------------------
+\u23f5\u23f3なんとー！！　おまいさんは
+ひどいヤツじゃな…。
+わしはガッカリじゃぞ…。
+----------------------------|----------------------------------
+おお…、おまいさん、
+わしの孫に、よう似とる…っ！
+わしと少し話しをせんかの？<PAGE>\u2137<FACE_POS_RIGHT><FACE_HERO><FACE_NORMAL><CHOICE_ABC> 今は出品中なので…
+ いいですよ♪
+ ムリです。ごめんなさい
+----------------------------|----------------------------------
+\u23f5\u23f2そうか…残念じゃ…。
+いや、いいんじゃよ。
+気にせんでくれ。
+----------------------------|----------------------------------
+\u23f4\u23f0本当か！？　じゃあさっそく。
+…\u270b…\u270b…\u270b…\u270b…\u270b…\u270b…\u270b…\u270b…\u270b…\u270b…\u270b…\u270b
+ああ長話しになってしもうた。<PAGE>お礼といってはなんじゃが、
+この<VAR_0>を
+あるだけ買わせてもらおう！
+----------------------------|----------------------------------
+\u23f5\u23f3そうか…残念じゃ…。
+老い先短いじじいの最後の
+望みじゃったんじゃがな…。
+----------------------------|----------------------------------
+ねぇねぇ。ボクね…。
+この<RED><VAR_0></COLOR>
+ほしいの。ひとつちょうだい♪<PAGE>\u2137<FACE_POS_RIGHT><FACE_HERO><FACE_NORMAL><CHOICE_ABC> ハイ、どーぞ♪
+ お金はどうしたのかな？
+ 何言ってんの、ダメダメ！
+----------------------------|----------------------------------
+\u23f6\u23f0ワーイ！　ありがとう♪
+大好き！
+それじゃあ、またね〜！
+----------------------------|----------------------------------
+\u23f5\u23f1あ…、そうか…。
+ママに言ってくる！
+また来るね♪
+----------------------------|----------------------------------
+\u23f5\u23f3うぅ…。　うぅぅ…。
+う、う、うわ〜〜〜ん！
+ひとつぐらい、いいじゃん〜！
+----------------------------|----------------------------------
+ぶ〜ん、ぶ〜んっ♪
+ヒコウキだぞー！！<PAGE>\u2137<FACE_POS_RIGHT><FACE_HERO><FACE_NORMAL><CHOICE_ABC> あぶないからやめようね
+ どんどんやれ〜♪
+ こらっ、店先で遊ばない！
+----------------------------|----------------------------------
+\u23f5\u23f0あぅ〜…、ボク、ママにもよく
+そうやって怒られちゃうの…。
+ごめんなさぁい…。
+----------------------------|----------------------------------
+\u23f5\u23f2わーい♪　
+もっとあそぶぞ。
+ぶ〜ん、ぶーんっ♪
+----------------------------|----------------------------------
+\u23f5\u23f3う…、ひっく…。
+うわーーーんっ！！！！
+このひと、キライーー！！
+----------------------------|----------------------------------
+ごっつーんっ！！！！<PAGE>\u2137<FACE_POS_RIGHT><FACE_HERO><FACE_NORMAL><CHOICE_ABC> だ、大丈夫っ！？
+ あたらしい、なき声…？
+ 走り回るからだよ
+----------------------------|----------------------------------
+\u23f5\u23f0ら…らいじょーぶ…っ。
+ボク、男の子だから
+泣かないのー！！
+----------------------------|----------------------------------
+\u23f5\u23f2ふぇ…、泣き声じゃないもん。
+ぶつかっただけだもん…！
+ふぇ…ひっく…ぐすんっ！
+----------------------------|----------------------------------
+\u23f5\u23f3う…、らって…、バザール
+たのしかったんらも…！
+ふえーーーーんっ！！！！！
+----------------------------|----------------------------------
+あうー…。
+ママ？　パパ？　どこぉ？<PAGE>\u2137<FACE_POS_RIGHT><FACE_HERO><FACE_NORMAL><CHOICE_ABC> げっ、迷子？
+ 一緒に探してあげる！
+ はい、パパとママです
+----------------------------|----------------------------------
+\u23f5\u23f3はうぅ…。このてんいんさん
+げっ、って言ったの〜…！！
+ひどいよぉ〜…っ！！
+----------------------------|----------------------------------
+\u23f5\u23f0ふにゅ？　ありがとう〜<RED>❤</COLOR>
+…あ、ママだ！　もう大丈夫！
+ありがとう、てんいんさん♪
+----------------------------|----------------------------------
+\u23f5\u23f2えーんっ！
+ママでもパパでもないようー！
+しかも一人しかいないようー！
+----------------------------|----------------------------------
+こ…、これは…！！
+この<RED><VAR_0></COLOR>を
+ひとつくれないか！？<PAGE>\u2137<FACE_POS_RIGHT><FACE_HERO><FACE_NORMAL><CHOICE_ABC> タダであげるよ
+ そんなにほしいなら倍額で
+ ダメダメ、あげない！
+----------------------------|----------------------------------
+\u23f6\u23f0本当か！？
+いやー、世の中には
+良い人もいるもんだ！！
+----------------------------|----------------------------------
+\u23f8\u23f2おぉ！！　いいよ、いいよ！<PAGE>オレ、こいつにひとめぼれ
+しちゃってさ！
+ありがとよ！！
+----------------------------|----------------------------------
+\u23f5\u23f3じゃあ、なんでここにおいて
+あるんだぁ！？
+期待させないでくれよ…。
+----------------------------|----------------------------------
+あ、すみませーん！
+<RED>大工屋さん</COLOR>って、
+どこにあるかわかりますかー？<PAGE>\u2137<FACE_POS_RIGHT><FACE_HERO><FACE_NORMAL><CHOICE_ABC> 会場の右側にありますよ
+ 会場の右上にありますよ
+ そんなものないよ
+----------------------------|----------------------------------
+\u23f5\u23f0ありがとうございます！！
+たすかりました！！
+----------------------------|----------------------------------
+\u23f5\u23f1ありがとうございます。
+行ってみます。
+----------------------------|----------------------------------
+\u23f5\u23f3そんなはずないです！
+もういいです、ほかの人に
+聞きますから！！
+----------------------------|----------------------------------
+どうも、こんにちは。
+ボク、困っている人がいたら
+ほっとけないんです。<PAGE>そしてボクは今、
+あなたの事を全力で
+助けたいと思ってるんです！<PAGE>\u2137<FACE_POS_RIGHT><FACE_HERO><FACE_NORMAL><CHOICE_ABC> お願いします
+ やめて下さい
+ 何か買って下さい
+----------------------------|----------------------------------
+\u23f5\u23f0ありがとうございます。
+では。<PAGE>ご来場の、みなさーーーん！
+このお店は、スペシャルなお店
+でーすーよー！！！！！！！<PAGE>ハァ、ハァ、ハァ、
+どうでしたでしょうか。
+ボクの全力は？
+----------------------------|----------------------------------
+\u23f5\u23f2そうですか…。
+残念です。
+では、失礼します。
+----------------------------|----------------------------------
+\u23f5\u23f3そんなっ…。
+お金で何でも解決するなんて、
+ボクの心がゆるしません！
+----------------------------|----------------------------------
+ボクは、ミーナファンクラブの
+会員番号３１７３１５さ！<PAGE>今日は、彼女に会いに来たん
+だけど、<RED>ミーナ</COLOR>さんは
+どこにいるのかな？<PAGE>\u2137<FACE_POS_RIGHT><FACE_HERO><FACE_NORMAL><CHOICE_ABC> ミーナさんは上です
+ ミーナさんは下です
+ そんな人知りません
+----------------------------|----------------------------------
+\u23f5\u23f0そうか、ありがとう！
+ミーナさあぁぁぁぁん！！！
+今から会いに行きますよ！<PAGE>あなたの働く姿が大好きです！
+待っててくださいねーーー！！
+
+----------------------------|----------------------------------
+\u23f5\u23f1あれ、そうだったっけ？
+なんか、違ったような…。
+まぁ、細かい事はいいか。
+----------------------------|----------------------------------
+\u23f5\u23f3な…なんだって…。
+いないのか…。
+ボク、家に帰るよ…じゃあね。
+----------------------------|----------------------------------
+はあ…、どうしてもこの
+<RED><VAR_0></COLOR>がほしい。
+だけどお金が少し足りない…。<PAGE>\u2137<FACE_POS_RIGHT><FACE_HERO><FACE_NORMAL><CHOICE_ABC> 半額にしましょうか？
+ タダにしましょうか？
+ あきらめがカンジンですよ
+----------------------------|----------------------------------
+\u23f7\u23f0え！？　本当！？
+あなた、とっても優しいのね！
+ありがとう！！
+----------------------------|----------------------------------
+\u23f5\u23f1え、そんな…、悪いわ。
+でも、ありがとう。
+またくるわね♪
+----------------------------|----------------------------------
+\u23f5\u23f2そうね…、そうかもね。
+はぁ…、ほしかったのに…。
+とっても残念だわ…。
+----------------------------|----------------------------------
+メガネ、メガネ…、
+わたしのメガネがどこにも
+ありません〜…。<PAGE>\u2137<FACE_POS_RIGHT><FACE_HERO><FACE_NORMAL><CHOICE_ABC> メガネは売ってないです…
+ 探すの手伝いましょうか？
+ あ、頭の上に…！！
+----------------------------|----------------------------------
+\u23f5\u23f2あ、いえ、いいんです。
+わたしのメガネが…、
+はうぅ…こまりましたー…。
+----------------------------|----------------------------------
+\u23f5\u23f1いえ、平気です！　ごめいわく
+をかけるわけにはいきません！
+でも、ありがとうございます<RED>❤</COLOR>
+----------------------------|----------------------------------
+\u23f5\u23f0え…、ああー！？！？！？
+あ、ありがとうございます！
+全然気がつきませんでした…。
+----------------------------|----------------------------------
+ちょっと、おたずねしたいの
+ですが…、その…、ロ、
+<RED>ロイド</COLOR>さんてどこにいますか？<PAGE>\u2137<FACE_POS_RIGHT><FACE_HERO><FACE_NORMAL><CHOICE_ABC> 右下じゃないかな？
+ 左下だったと思うよ
+ ロイドさんなんていません
+----------------------------|----------------------------------
+\u23f5\u23f0わかりました！<PAGE>フフッ…。わたしロイドさんの
+ファンなんです。
+ありがとうございます<RED>❤</COLOR>
+----------------------------|----------------------------------
+\u23f5\u23f1え？
+さっき見たときは、そこに
+いなかったと思うんですけど。<PAGE>うーん…？
+わかりました。
+----------------------------|----------------------------------
+\u23f5\u23f2そんなはずないです！<PAGE>わたし、はるばる彼をさがして
+ここへ…。
+…あ、いえその…すみません。
+----------------------------|----------------------------------
+あの、すみません。
+<RED>作物の種屋さん</COLOR>って、
+どこにあるのかしら？<PAGE>\u2137<FACE_POS_RIGHT><FACE_HERO><FACE_NORMAL><CHOICE_ABC> そんな店ないよ
+ 会場の上側にあるよ
+ 会場の下側にあるよ
+----------------------------|----------------------------------
+\u23f5\u23f3…どうしてそんなつまらない
+うそをつくの？　<PAGE>うそを教える店なんて、
+がっかりだわ。
+----------------------------|----------------------------------
+\u23f5\u23f1そう？　わかったわ。
+ありがとう。
+----------------------------|----------------------------------
+\u23f5\u23f0そう、わかったわ。
+ありがとう♪

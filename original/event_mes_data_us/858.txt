@@ -1,0 +1,304 @@
+<FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT>It's the day you've been
+waiting for:
+the Fall Crop Festival!<PAGE>This time the crop is
+<RED>carrots</COLOR>.<PAGE><FACE_POS_LEFT><FACE_INA><FACE_HAPPY><FP_LEFT>We have some fantastic crops
+again this year.<PAGE><FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT>And now it's time for our
+contestants to come forward!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT>It's the day you've been
+waiting for:
+the Fall Crop Festival!<PAGE>This time the crop is
+<RED>yams</COLOR>.<PAGE><FACE_POS_LEFT><FACE_INA><FACE_HAPPY><FP_LEFT>We have some fantastic crops
+again this year.<PAGE><FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT>And now it's time for our
+contestants to come forward!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT>It's the day you've been
+waiting for:
+the Fall Crop Festival!<PAGE>This time the crop is
+<RED>spinach</COLOR>.<PAGE><FACE_POS_LEFT><FACE_INA><FACE_HAPPY><FP_LEFT>We have some fantastic crops
+again this year.<PAGE><FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT>And now it's time for our
+contestants to come forward!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT>It's the day you've been
+waiting for:
+the Fall Crop Festival!<PAGE>This time the crop is
+<RED>eggplant</COLOR>.<PAGE><FACE_POS_LEFT><FACE_INA><FACE_HAPPY><FP_LEFT>We have some fantastic crops
+again this year.<PAGE><FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT>And now it's time for our
+contestants to come forward!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT>It's the day you've been
+waiting for:
+the Fall Crop Festival!<PAGE>This time the crop is
+<RED>green peppers</COLOR>.<PAGE><FACE_POS_LEFT><FACE_INA><FACE_HAPPY><FP_LEFT>We have some fantastic crops
+again this year.<PAGE><FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT>And now it's time for our
+contestants to come forward!
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT>I'll introduce the entrants
+one by one.<PAGE>Entry number one!
+Corey!
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT>Entry number two!
+<MYNAME>!
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT>Entry number three!
+Gombe!
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT>Those are our entrants!<PAGE><FACE_POS_LEFT><FACE_INA><FACE_HAPPY><FP_LEFT>Whose crops will be the
+best?<PAGE><FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT>Time to start the judging!
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT>I'll now announce the
+results of this Crop
+Festival!<PAGE>In third place...\u270b
+Gombe!!<PAGE>In second place...\u270b
+Corey!!<PAGE>And in first place...\u270b
+the one who entered the best
+crops of all...\u270b<PAGE><FACE_POS_LEFT><FACE_INA><FACE_HAPPY><FP_LEFT>It's <RED><MYNAME></COLOR>!!
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT>I'll now announce the
+results of this Crop
+Festival!<PAGE>In third place...\u270b
+Corey!!<PAGE>In second place...\u270b
+<MYNAME>!!<PAGE>And in first place...\u270b
+the one who entered the best
+crops of all...\u270b<PAGE><FACE_POS_LEFT><FACE_INA><FACE_HAPPY><FP_LEFT>It's <RED>Gombe</COLOR>!!
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT>I'll now announce the
+results of this Crop
+Festival!<PAGE>In third place...\u270b
+<MYNAME>!!<PAGE>In second place...\u270b
+Gombe!!<PAGE>And in first place...\u270b
+the one who entered the best
+crops of all...\u270b<PAGE><FACE_POS_LEFT><FACE_INA><FACE_HAPPY><FP_LEFT>It's <RED>Corey</COLOR>!!
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_INA><FACE_HAPPY><FP_LEFT>Color, shape, flavor...
+These fantastic crops had it
+all!!<PAGE><FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT>The crops of the other
+entrants were also great.
+I can't wait for next time!<PAGE>And now let's close with a
+big round of applause for
+our festival entrants!
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_INA><FACE_HAPPY><FP_LEFT>Congratulations, <MYNAME>.
+You did a fine job.<PAGE>And now you get the grand
+prize! Here you go!
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT>I hope you'll keep on
+growing great crops!
+I look forward to next time!
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT><MYNAME>, you've taken first
+place five times now!<PAGE><FACE_POS_LEFT><FACE_INA><FACE_HAPPY><FP_LEFT>That's an amazing record.
+Everyone in Konohana is just
+astounded.<PAGE><FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT>In recognition, we have a
+commemorative prize for you.<PAGE>It's been delivered to your
+house. You'll find it
+when you get home.<PAGE><FACE_POS_LEFT><FACE_INA><FACE_HAPPY><FP_LEFT>Well done, <MYNAME>.
+Keep on growing great crops!
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY

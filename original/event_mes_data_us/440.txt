@@ -1,0 +1,45 @@
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_HAPPY><FP_RIGHT>There! Now doesn't that feel
+mighty fine?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_KANA><FACE_HAPPY><FP_LEFT>What's up, Georgia? Haven't
+seen ya in awhile!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_HAPPY><FP_RIGHT>Why, if it isn't Kana! I
+haven't see you for ages!
+Been keeping well?<PAGE><FACE_POS_LEFT><FACE_KANA><FACE_HAPPY><FP_LEFT>You bet! Life's been pretty
+sweet!<PAGE><FACE_POS_LEFT><FACE_KANA><FACE_NORMAL><FP_LEFT>And you and Dakota seem like
+best buds as always!
+Sweet!<PAGE><FACE_POS_RIGHT><FACE_GEORGIA><FACE_HAPPY><FP_RIGHT>Why, of course! We've been
+together for ages, after
+all!<PAGE>She just loves it when
+I brush her like this!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_KANA><FACE_HAPPY><FP_LEFT>Ya know, it's really good
+to talk to you.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_KANA><FACE_HAPPY><FP_LEFT>Well, we've spent a bunch of
+time fighting and stuff.<PAGE>But I was chilling the other
+day, and I came to, like, a
+realization.<PAGE><FACE_POS_LEFT><FACE_KANA><FACE_NORMAL><FP_LEFT>The fact that we both have
+so much love for horses is
+the important thing.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>Why, you just took the words
+right out of my mouth, Kana!<PAGE><FACE_POS_RIGHT><FACE_GEORGIA><FACE_SAD><FP_RIGHT>After all, Dakota and Hayate
+are getting older...\u270a...\u270a...<PAGE><FACE_POS_LEFT><FACE_KANA><FACE_HAPPY><FP_LEFT>Yeah! We gotta take even
+better care of 'em now that
+they're older, huh?<PAGE><FACE_POS_RIGHT><FACE_GEORGIA><FACE_HAPPY><FP_RIGHT>...\u270a\u270aYou got it!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_HAPPY><FP_RIGHT>You hear that, Dakota? You
+may be gettin' on in years,
+but I still love you!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>By the by, I don't see you
+around these parts very
+often. What brings you here?<PAGE><FACE_POS_LEFT><FACE_KANA><FACE_NORMAL><FP_LEFT>Oh, I just came to hang out.
+Figured I might as well, now
+that the tunnel's fixed.<PAGE><FACE_POS_LEFT><FACE_KANA><FACE_HAPPY><FP_LEFT>Hey! You should come chill
+in Konohana sometime!<PAGE><FACE_POS_RIGHT><FACE_GEORGIA><FACE_HAPPY><FP_RIGHT>Why, I'd be delighted! I'll
+be sure to bring Dakota!<PAGE><FACE_POS_LEFT><FACE_KANA><FACE_HAPPY><FP_LEFT>Sweet! I'm sure you'll have
+a BLAST!<PAGE><FACE_POS_RIGHT><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>You come back here now, too,
+ya hear?

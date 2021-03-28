@@ -1,0 +1,102 @@
+<FACE_POS_LEFT><HIDE_NAME><FACE_CAM><FACE_NORMAL><FP_LEFT><HIDE_FACE>Apakah kamu ada dirumah, 
+<MYNAME>? Apa boleh aku 
+masuk? boleh kan?
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_CAM><FACE_NORMAL><FP_LEFT>Hari ini adalah 
+hari harmoni..<PAGE><FACE_POS_LEFT><FACE_CAM><FACE_HAPPY><FP_LEFT>Jadi aku ingin memberi-
+kanmu ini kepada kamu.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_CAM><FACE_NORMAL><FP_LEFT>Kamu selalu sangat baik dan
+kuat, <MYNAME>.<PAGE><FACE_POS_LEFT><FACE_CAM><FACE_HAPPY><FP_LEFT>Jadi aku ingin memberi-
+kanmu ini kepada kamu.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_CAM><FACE_NORMAL><FP_LEFT>Aku memberikanmu sebuah
+hadiah hari harmoni.<PAGE><FACE_POS_LEFT><FACE_CAM><FACE_HAPPY><FP_LEFT>Karena kita bertetanggaan,
+jadi aku harap kita dapat
+berteman selalu.
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_CAM><FACE_NORMAL><FP_LEFT>Kamu memberikanku sebuah
+kado untuk hari harmoni
+musim dingin, jadi aku<PAGE>ingin membalasnya sebagai
+rasa terima kasihku.<PAGE><FACE_POS_LEFT><FACE_CAM><FACE_SHOCK><FP_LEFT>Aku harap kamu menyukainya.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_CAM><FACE_NORMAL><FP_LEFT>Aku ingin memberikan ini
+kepadamu untuk rasa terima
+kasih untuk tahun lalu.<PAGE><FACE_POS_LEFT><FACE_CAM><FACE_SHOCK><FP_LEFT>Terima kasih atas segala-
+segalanya ya, pastinya
+selalu menjadi teman.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_CAM><FACE_HAPPY><FP_LEFT>Hadiah yang kamu berikan
+kepada aku disaat hari
+harmoni musim dingin itu<PAGE>benar-benar lezat!<PAGE><FACE_POS_LEFT><FACE_CAM><FACE_SHOCK><FP_LEFT>Jadi aku ingin memberikanmu
+sebuah hadiah pada hari ini.
+Aku tidak tahu mengenai<PAGE>masalah coklat tidak seperti
+pengetahuanku akan bunga,
+tapi kuharap kamu suka.
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_CAM><FACE_NORMAL><FP_LEFT>Aku akan kembali ke
+rumah sekarang.<PAGE><FACE_POS_LEFT><FACE_CAM><FACE_HAPPY><FP_LEFT>Sampai jumpa lagi nanti.
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy

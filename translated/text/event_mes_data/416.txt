@@ -1,0 +1,53 @@
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_HAPPY><FP_RIGHT>Ternyata kamu disana, Laney!<PAGE><FACE_POS_LEFT><FACE_LANEY><FACE_HAPPY><FP_LEFT>Heii, Georgia!
+Gimana kabarmu hari ini?<PAGE><FACE_POS_LEFT><FACE_LANEY><FACE_NORMAL><FP_LEFT>Aku telah membuatkan bebe-
+rapa makananan untuk
+dimakan untuk kita,<PAGE>jadi duduk dan ayo
+kita berbincang-bincang
+sambil makan!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_LANEY><FACE_SHY><FP_LEFT>Wow... aku tidak percaya
+jika aku memakan semuanya
+...<PAGE>Padahal berat badanku naik
+sedikit akhir-akhir ini
+...<PAGE><FACE_POS_RIGHT><FACE_GEORGIA><FACE_SHY><FP_RIGHT>Kamu juga, Laney?<PAGE><FACE_POS_LEFT><FACE_LANEY><FACE_SAD><FP_LEFT>Yeah... kita seharusnya
+tidak terlalu banyak makan
+makanan manis dan kue, huh?<PAGE><FACE_POS_RIGHT><FACE_GEORGIA><FACE_SHY><FP_RIGHT>Tapi... semuanya keliatan
+enak dan mengiurkan!<PAGE><FACE_POS_LEFT><FACE_LANEY><FACE_HAPPY><FP_LEFT>Ya itu benar! kamu dan aku
+sangat mirip, Georgia!<PAGE><FACE_POS_RIGHT><FACE_GEORGIA><FACE_ANGRY><FP_RIGHT>Well, itu tidak membuatku
+senang dengan kondisi
+seperti itu, Laney!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_JESSICA><FACE_HAPPY><FP_LEFT>Hallooo, kamu berdua. Apakah
+ada sesuatu pertemuan
+disini?<PAGE><FACE_POS_RIGHT><FACE_LANEY><FACE_NORMAL><FP_RIGHT>Kamu bisa mengatakan
+seperti itu ...<PAGE><FACE_POS_LEFT><FACE_JESSICA><FACE_NORMAL><FP_LEFT>Aku datang kesini untuk
+beberapa kue, tapi...\u270a\u270a<FACE_POS_LEFT><FACE_JESSICA><FACE_HAPPY><FP_LEFT>...sepertinya kalian berdua
+sedang menikmatinya! Apa
+kita boleh ikutan juga?<PAGE><FACE_POS_RIGHT><FACE_LANEY><FACE_HAPPY><FP_RIGHT>Oke! Ayo!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CHERYL><FACE_HAPPY><FP_RIGHT>Bu! Aku ingin sebuah
+potongan kue coklat!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_JESSICA><FACE_NORMAL><FP_LEFT>Ya, nak.<PAGE><FACE_POS_RIGHT><FACE_LANEY><FACE_NORMAL><FP_RIGHT>Ayo kesini!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_JESSICA><FACE_HAPPY><FP_LEFT>... dan itu kenapa kalian
+mengukur apa yang akan di
+makan!<PAGE>Oh, dengarkan aku ya! Kita
+harusnya lebih akrab lagi!<PAGE><FACE_POS_RIGHT><FACE_GEORGIA><FACE_HAPPY><FP_RIGHT>Tadi sangat menyenangkan!
+Ayo berbincang lagi ya!<PAGE><FACE_POS_LEFT><FACE_CHERYL><FACE_HAPPY><FP_LEFT>Yeah! Dan kue ini juga
+sangat uenaakk!<RED>❤</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_LANEY><FACE_SAD><FP_LEFT>*huh* Sekarang aku malah
+kepingin makan lagi, makan
+kue lagi...<PAGE><FACE_POS_RIGHT><FACE_GEORGIA><FACE_SAD><FP_RIGHT>Aku juga, tapi apakah kita
+tetap sehat, kamu tahukan?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>Kita bisa melakukannya,
+Laney!<PAGE><FACE_POS_LEFT><FACE_LANEY><FACE_HAPPY><FP_LEFT>Ye! Harus mengontrol nafsu
+makan sendiri mulai sekarang
+Itu seharusnya mudah!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_HAPPY><FP_RIGHT>Well, rasanya saatnya aku
+pamit pergi juga!<PAGE>rasanya hari ini 
+sangat menyenangkan!
+Laney!

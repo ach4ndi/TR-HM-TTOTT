@@ -1,0 +1,144 @@
+<FACE_POS_RIGHT><FACE_KID><FACE_HAPPY><FP_RIGHT>\u2338!
+Hi!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ASH><FACE_NORMAL><FP_LEFT>Welcome home,
+<MYNICKNAME>！<PAGE>It's really raining!
+Did you get too wet?
+
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_HIRO><FACE_NORMAL><FP_LEFT>Welcome back,
+<MYNICKNAME>.<PAGE>This is some rain!
+Did you get soaked?
+
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_CAM><FACE_NORMAL><FP_LEFT>Welcome home,
+<MYNICKNAME>.<PAGE>It's really pouring out.
+Did you get soaked?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_KANA><FACE_NORMAL><FP_LEFT>Welcome home,
+<MYNICKNAME>!!<PAGE>It's pretty bad out there.
+Are you okay?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_MIKHAIL><FACE_NORMAL><FP_LEFT>Welcome home,
+<MYNICKNAME>.<PAGE>That rain sounded heavy.
+Are you okay?
+Did you get soaked?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_LANEY><FACE_NORMAL><FP_LEFT>Welcome home,
+<MYNICKNAME>.<PAGE>It's really raining.
+Are you soaked, <MYNICKNAME>?
+
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_GEORGIA><FACE_NORMAL><FP_LEFT>Welcome home,
+<MYNICKNAME>.<PAGE>It's mighty rainy out!
+I declare, I was worried!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_REINA><FACE_NORMAL><FP_LEFT>Welcome home,
+<MYNICKNAME>.<PAGE>It's really raining out.
+Are you okay?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_NORI><FACE_NORMAL><FP_LEFT>Welcome home,
+<MYNICKNAME>.<PAGE>It's raining so hard that
+I was a little worried.
+You okay?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ULYSSA><FACE_NORMAL><FP_LEFT>Welcome home,
+<MYNICKNAME>!<PAGE>It's POURING out there!
+Are you okay?
+
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_DIRK><FACE_SAD><FP_LEFT>Welcome home,
+<MYNICKNAME>!<PAGE>It's really raining!
+I was worried about you.
+Are you alright?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ASH><FACE_NORMAL><FP_LEFT>Oh, that's good.
+You should go take a
+bath and get warmed up.<PAGE><FACE_POS_LEFT><FACE_ASH><FACE_HAPPY><FP_LEFT>I was just going to put
+\u2337 in the bath.
+<PAGE>Why don't you two go in
+together, <MYNICKNAME>?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_HIRO><FACE_NORMAL><FP_LEFT>Ah. Now, you don't
+want to catch a cold. You
+should take a hot bath.<PAGE><FACE_POS_LEFT><FACE_HIRO><FACE_HAPPY><FP_LEFT>Oh, I was just about to
+give \u2337
+a bath...<PAGE>Could you take \u2337
+in with you?
+
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_CAM><FACE_NORMAL><FP_LEFT>I see. Well, you should
+take a nice bath
+to warm up.<PAGE><FACE_POS_LEFT><FACE_CAM><FACE_HAPPY><FP_LEFT>If you do, could you take
+\u2337 in with you?
+<PAGE>I was just about to put
+\u2337
+in the bath.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_KANA><FACE_NORMAL><FP_LEFT>Uh huh. Now, you should
+hurry and get in the
+bath, or you'll catch cold.<PAGE><FACE_POS_LEFT><FACE_KANA><FACE_HAPPY><FP_LEFT>Oh, want to take \u2337
+in with you?<PAGE>I was just thinking it
+was time for a bath.
+
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_MIKHAIL><FACE_NORMAL><FP_LEFT>Okay. You should go on
+and warm up in the bath.
+<PAGE><FACE_POS_LEFT><FACE_MIKHAIL><FACE_HAPPY><FP_LEFT>And can you take
+\u2337 in with you?<PAGE>I was just going to give
+\u2337 a bath.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_LANEY><FACE_NORMAL><FP_LEFT>I see. Now why don't you
+go take a hot bath to
+warm up?<PAGE><FACE_POS_LEFT><FACE_LANEY><FACE_HAPPY><FP_LEFT>Oh, that's it!
+You should take
+\u2337 with you.<PAGE>I was just telling
+\u2337 it was time
+for a bath...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_GEORGIA><FACE_NORMAL><FP_LEFT>Well now, I reckon you need
+to take a hot bath! It'd be
+a shame if you got sick! <PAGE><FACE_POS_LEFT><FACE_GEORGIA><FACE_HAPPY><FP_LEFT>How about you
+take \u2337 with you?<PAGE>I was just about to give
+\u2337 a bath.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_REINA><FACE_NORMAL><FP_LEFT>I see.
+But you should go take a
+hot bath.<PAGE>You don't want to catch
+a cold.
+<PAGE><FACE_POS_LEFT><FACE_REINA><FACE_HAPPY><FP_LEFT>Oh, why don't you take
+\u2337 in with you?
+
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_NORI><FACE_NORMAL><FP_LEFT>Oh good. The bath is
+drawn, so why don't you
+hop in?<PAGE><FACE_POS_LEFT><FACE_NORI><FACE_HAPPY><FP_LEFT>Oh, how about taking
+\u2337 with you?
+<PAGE>I was just about to give
+\u2337 a bath.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ULYSSA><FACE_NORMAL><FP_LEFT>I see! But we don't want
+you catching a cold,
+so you should take a bath.<PAGE><FACE_POS_LEFT><FACE_ULYSSA><FACE_HAPPY><FP_LEFT>Why don't you take
+\u2337 with you?<PAGE>I was just thinking that
+it was time for \u2337's
+bath.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_DIRK><FACE_NORMAL><FP_LEFT>Well, that's good.
+But go take a hot bath!<PAGE><FACE_POS_LEFT><FACE_DIRK><FACE_HAPPY><FP_LEFT>Oh, want to take
+\u2337 with you?<PAGE>I was about to give 
+\u2337 a bath anyway.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KID><FACE_HAPPY><FP_RIGHT>Bath time!
+I get to have a bath
+with \u2338!<RED>❤</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KID><FACE_HAPPY><FP_RIGHT>Hee hee!
+That tickles, \u2338!
+<PAGE>Eek!
+Hee hee hee!!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_KID><FACE_NORMAL><FP_LEFT>Squeaky clean!♪
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_KID><FACE_HAPPY><FP_LEFT>Thanks for the bath,
+\u2338!

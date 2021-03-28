@@ -1,0 +1,85 @@
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>Wow! Aku ga pernah nyangka
+kamu gini, <MYNAME>.<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Ya gitu deh emm.. 
+makasih ya
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_SAD><FP_RIGHT>Tapi...<PAGE>Aku masih mengabdi ke
+Dewi Panen. dan masih
+tahap latihan....
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>Jadi aku gabisa nikah
+sekarang.<PAGE>Ini membuatku senang karena
+kamu peduli padaku, tapi..<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_SAD><FP_RIGHT>Aku nggak bisa
+beneran deh.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_HGODDES><FACE_HAPPY><FP_LEFT>Dum-Da-Da-DAA! Ini aku!,
+Dewi Panen, a.k.a.
+Dewinya mak jomblang!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>\u20d0H-Dewi Panen!?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_HGODDES><FACE_HAPPY><FP_LEFT>Betul sekali!<PAGE><FACE_POS_LEFT><FACE_HGODDES><FACE_NORMAL><FP_LEFT>Sekarang gini.<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>Y-Ya?<PAGE><FACE_POS_LEFT><FACE_HGODDES><FACE_NORMAL><FP_LEFT>Aku hanya mendengar gabisa
+nikah gegara pelatihan
+untukku?<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>Y-Ya?<PAGE><FACE_POS_LEFT><FACE_HGODDES><FACE_HAPPY><FP_LEFT>Aku gapeduli tentang itu!
+Cepat menikah sana!
+Kok ribeet beneeer!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>Huh?<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_SAD><FP_RIGHT>\u20d0Apa!?
+Tapi aku harus melayani
+mu, Dewi Panen....<PAGE><FACE_POS_LEFT><FACE_HGODDES><FACE_NORMAL><FP_LEFT>Bawakan saja Strawberry
+yang banyak!
+Itu saja ko.<PAGE><FACE_POS_LEFT><FACE_HGODDES><FACE_ANGRY><FP_LEFT>Aku gapernah minta apapun
+kalo tentang cinta gegara
+aku!<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>Cinta sejati!?<PAGE><FACE_POS_LEFT><FACE_HGODDES><FACE_NORMAL><FP_LEFT>Betul sekali!Nikah aja gih atao perlu
+dikawinkan aja!<PAGE>mumpung belum kiamat
+hidup manusia itu singkat
+loh!<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>Y-Ya, Dewi Panen.<PAGE><FACE_POS_LEFT><FACE_HGODDES><FACE_NORMAL><FP_LEFT>Jadi jika kamu mencintai <MYNAME>,
+kamu harus nikah!<PAGE><FACE_POS_LEFT><FACE_HGODDES><FACE_HAPPY><FP_LEFT>Ngerti?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>Y-Ya!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_HGODDES><FACE_NORMAL><FP_LEFT>Hmm, yaudah
+siapin dari sekarang!
+semoga bahagia!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Ha-Ha-Dewi Panen datang
+dan bicara ke kita!<PAGE>keren banget njrit!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_SAD><FP_RIGHT>Um, <MYNAME>?<PAGE>Bolehkah kamu mengulang
+perkataan yang kamu 
+katakan tadi?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>Aku mau nyeritain hidupku
+sedikitlah bolehkan?<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_SAD><FP_RIGHT>Hmm jadi gini yaa aku juga
+harus kehilangan pekerjaan.<PAGE>Aku kehilangan orang tuaku
+ketika kecil...<PAGE>dan aku belum pernah
+cinta pada siapapun.
+ya gitu.<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_SAD><FP_RIGHT>...<PAGE>Aku anak yatim..
+dan aku itu seorang
+biarawati lemah...<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>tapi cinta juga gabisa
+dipaksain yaa...
+aku juga gitu.<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>Jika kamu memaafkanku maaf
+banget maaf, aku...
+...\u270b<FACE_POS_RIGHT><FACE_ALISA><FACE_SHOCK><FP_RIGHT>Aku menerimamu!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_SHOCK><FP_RIGHT>Makasih, <MYNAME>!<PAGE>Aku mencintaimu
+iyaaa!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Yuk kita ke Nathan,
+<MYNAME>?<PAGE>Dia seperti ayah
+bagiku...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_NATHAN><FACE_NORMAL><FP_LEFT>Apa? Alisa...mau
+menikah!?<PAGE>dan udah dapet izin
+dari Dewi Panen...<PAGE><FACE_POS_LEFT><FACE_NATHAN><FACE_HAPPY><FP_LEFT>Waw luar biasa!<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Makasih, Nathan.<PAGE><FACE_POS_LEFT><FACE_NATHAN><FACE_NORMAL><FP_LEFT>Jadi kapan pelaksanaan
+akad nikahnya?<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_SHOCK><FP_RIGHT><MYNAME> mungkin
+seminggu dari sekarang.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_NATHAN><FACE_HAPPY><FP_LEFT>Hmm.
+Aku sudah menduganya haha.<PAGE>Aku akan melakukan
+untuk hari spesial
+untukmu, Alisa.<PAGE><FACE_POS_LEFT><FACE_NATHAN><FACE_NORMAL><FP_LEFT><MYNAME>, kamu mungkin akan
+sibuk untuk pernikahan
+nanti.<PAGE>jadi kamu harus menyiapkan
+diri dari sekarang
+yaaa.<PAGE><FACE_POS_LEFT><FACE_NATHAN><FACE_HAPPY><FP_LEFT>dan jaga Alisa baik baik.
+Dia sangat spesial.

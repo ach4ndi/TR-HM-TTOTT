@@ -1,0 +1,148 @@
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>★ERROR!★</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Oh, I'm glad you came!
+I've been waiting for you.<PAGE>Let's get right down to
+business... Do you want to
+expand your farm?<PAGE>There are some different
+things you can do.
+<PAGE>Do you want me to explain?
+<CHOICE_AB> Yes.
+ No.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>There are several ways to
+expand your farm.<PAGE>And the types of expansion
+you can do are different in
+the two villages.<PAGE><FACE_POS_RIGHT><FACE_EILEEN><FACE_HAPPY>For example, in
+<BLUE>Konohana</COLOR>...<PAGE>People are more focused on
+growing crops.
+<PAGE>So you can expand your
+fields a lot more over
+there.<PAGE>Here in <BLUE>Bluebell</COLOR>, we
+focus on raising animals.
+<PAGE>So you can expand your space
+for keeping animals, and put
+in beehives to get honey.<PAGE><FACE_POS_RIGHT><FACE_EILEEN><FACE_NORMAL>But keep in mind that there
+is a <RED>rank</COLOR> to each kind
+of expansion.<PAGE>An expansion with a rank of
+S or A requires a lot of
+money and materials.<PAGE><FACE_POS_RIGHT><FACE_EILEEN><FACE_HAPPY>It's better to start off
+with expansions that have a
+rank of C or D.<PAGE><FACE_POS_RIGHT><FACE_EILEEN><FACE_NORMAL>So what kind of expansion
+would you like to do?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_EILEEN><FACE_HAPPY><FP_RIGHT>I don't need to explain?
+Okay, I knew you were a
+sharp cookie!<PAGE>In that case, what kind of
+expansion would you like to
+do?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_EILEEN><FACE_HAPPY><FP_RIGHT>Okay!<PAGE>So get the materials
+together and bring them.<PAGE>Once you do that, I can get
+right to work.
+----------------------------|----------------------------------
+\u2137You've ordered the
+following:
+<RED><VAR_0></COLOR>!<PAGE><RED>Check your requests</COLOR>.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>★ERROR!★</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>★ERROR!★</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>★ERROR!★</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>★ERROR!★</COLOR>
+----------------------------|----------------------------------
+<CHOICE_AB> <VAR_0>
+ <VAR_1>
+----------------------------|----------------------------------
+\u2137<CHOICE_ABC> <VAR_0>
+ <VAR_1>
+ <VAR_2>
+----------------------------|----------------------------------
+\u2137<CHOICE_ABC> <VAR_0>
+ <VAR_1>
+ Next
+----------------------------|----------------------------------
+\u2137<CHOICE_ABC> <VAR_0>
+ <VAR_1>
+ Return to start.
+----------------------------|----------------------------------
+\u2137<CHOICE_AB> <VAR_0>
+ Return to start.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>★ERROR!★</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>★ERROR!★</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>★ERROR!★</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>★ERROR!★</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>★ERROR!★</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Oh dear!
+Right now all you can do is
+remodel your house.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Oh dear!
+Right now all you can do is
+expand your fields, okay?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Oh dear!
+Right now all you can do is
+build a fish pond, okay?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Oh dear!
+Right now all you can do is
+build a paddy or maker shed.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Oh dear!
+Right now all you can do is
+build a pickling pot, okay?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Oh dear!
+Right now all you can do is
+build a paddy, okay?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>★ERROR!★</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>★ERROR!★</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>★ERROR!★</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>★ERROR!★</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Oh dear!
+Right now all you can do is
+remodel your house.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Oh dear!
+Right now all you can do is
+expand your farmland.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Oh dear!
+Right now all you can do is
+build a pet playpen.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Oh dear!
+Right now all you can do is
+build a maker shed, okay?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Oh dear!
+Right now all you can do is
+build a drink maker, okay?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Oh dear!
+Right now all you can do is
+expand your fields, okay?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Oh dear!
+Right now all you can do is
+put in a beehive, okay?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>★ERROR!★</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>★ERROR!★</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>★ERROR!★</COLOR>

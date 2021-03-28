@@ -1,0 +1,36 @@
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>Do you...fully understand
+what it means to give
+someone a <RED>blue feather?</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_HAPPY><FP_RIGHT>You do? I see.
+Well, in that case...<PAGE>I accept!
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_HAPPY><FP_RIGHT>Ha ha ha! I guess you're
+stuck with me now.<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_ANGRY><FP_RIGHT>Listen up, <MYNAME>.
+I'm only going to say this
+once.<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_SHOCK><FP_RIGHT>I...\u270a\u270aI...\u270a\u270a
+I love you!<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_HAPPY><FP_RIGHT>There, I said it.
+Now let's go tell my uncle
+Mako... You coming?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_MAKO><FACE_NORMAL><FP_LEFT>Reina!? Getting married!?<PAGE>Wow!
+<PAGE><FACE_POS_LEFT><FACE_MAKO><FACE_NORMAL><FP_LEFT>Reina...married.
+Joined to <MYNAME>...
+in marriage...<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_SHY><FP_RIGHT>Uncle Mako!
+Stop repeating yourself!<PAGE><FACE_POS_LEFT><FACE_MAKO><FACE_HAPPY><FP_LEFT>Ahem, sorry about that.
+It's just such a surprise!
+Such a nice surprise!<PAGE>So when will the wedding be?<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_SHOCK><FP_RIGHT><MYNAME> and I talked and
+decided it should be about a
+week from now.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_MAKO><FACE_HAPPY><FP_LEFT>Great! How exciting!
+
+<PAGE><FACE_POS_LEFT><FACE_MAKO><FACE_NORMAL><FP_LEFT>But I have to tell you,
+<MYNAME>, I have heard that
+a wedding day is a busy day.<PAGE>You should diligently
+finish all your chores and
+errands the day before.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_MAKO><FACE_HAPPY><FP_LEFT><MYNAME>, you'd better be a
+good husband to Reina.

@@ -1,0 +1,71 @@
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>Bicara sekarang, <MYNAME>!<PAGE>Ada sesuatu aku ingin ber-
+tanya kepadamu...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_SHY><FP_RIGHT>Um, kamu lihatkan, oh
+oke...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_SHY><FP_RIGHT>A'apakah kamu berpikir aku
+ini aneh?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_SAD><FP_RIGHT>Kamu tahu...
+Karena cara bicaraku ini?
+Apa benar?
+----------------------------|----------------------------------
+<CHOICE_AB> Yeah, benar-benar aneh.
+ Aku pikir itu imut.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_SAD><FP_RIGHT>Oh jadi itu menurutmu
+ya...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>Aku dan ayahku tidak selalu
+tinggal disini.<PAGE>Kita tinggal dalam peternak-
+an yang jauh sepanjang aku
+tumbuh besar.<PAGE><FACE_POS_RIGHT><FACE_GEORGIA><FACE_SHY><FP_RIGHT>Mungkin aku sedikit memakai
+aksen (gaya bahasa)ku dari
+disana.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_SAD><FP_RIGHT>Aku tahu itu kedengarannya
+agak aneh kalau disini...<PAGE><FACE_POS_RIGHT><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>Tapi aku harap kamu akan
+berpikir bahwa itu sebuah
+keunikan tersendiri.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>Itu semua yang ingin aku bi-
+carakan kepadamu hari ini.
+Aku akan pergi sekarang.Bye.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>Sekarang apa?<PAGE><FACE_POS_RIGHT><FACE_GEORGIA><FACE_SHY><FP_RIGHT>\u20d0A-A-Apaa yang kamu
+bicarakan barusan?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_SHOCK><FP_RIGHT>Imut...? Benarkah?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>Aku dan ayahku tidak selalu
+tinggal disini.<PAGE>Kita tinggal dalam peternak-
+an yang jauh sepanjang aku
+tumbuh besar.<PAGE><FACE_POS_RIGHT><FACE_GEORGIA><FACE_SHY><FP_RIGHT>Mungkin aku sedikit memakai
+aksen (gaya bahasa)ku dari
+disana.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_SAD><FP_RIGHT>Aku tahu itu kedengarannya
+agak aneh kalau disini...<PAGE><FACE_POS_RIGHT><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>Kamu tidak pernah berbicara
+apapun mengenai bagaimana
+aku berbicara...<PAGE>Tapi aku sedikit penasaran
+apa yang kamu pikirkan
+itu.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_SHOCK><FP_RIGHT>Aku tidak pernah bermimpi
+bahwa kamu berbicara seper-
+ti ini, gaya bahasaku itu<PAGE>imut?<PAGE><FACE_POS_RIGHT><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>Kamu pastinya tahu cara
+bagaimana untuk menenangkan
+seorang gadis.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_HAPPY><FP_RIGHT>Aku legah bahwa kamu sudah
+ngertiin aku.<PAGE><FACE_POS_RIGHT><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>Kamu itu salah satu sahabat
+ku pula.<PAGE><FACE_POS_RIGHT><FACE_GEORGIA><FACE_SHOCK><FP_RIGHT>Dan aku ingin semua temanku
+mengerti keadaanku ini.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_SHOCK><FP_RIGHT>Oh, lihat waktunya. Aku se-
+gera pulang kerumah.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_HAPPY><FP_RIGHT>Aku tahu bahwa kamu sibuk
+dengan kebunmu, tapi aku ha-
+rap kita bisa bertemu lagi.<PAGE><FACE_POS_RIGHT><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>Bye Bye!

@@ -1,0 +1,78 @@
+<FACE_POS_RIGHT><FACE_KID><FACE_HAPPY><FP_RIGHT>Ooh! \u2338!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KID><FACE_NORMAL><FP_RIGHT>Ooh, it's \u2338!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KID><FACE_NORMAL><FP_RIGHT>Are you going home, \u2338?
+Me too!
+Let's go home together!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KID><FACE_NORMAL><FP_RIGHT>Are you going home, \u2338?
+Me too!
+Let's go home together!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KID><FACE_HAPPY><FP_RIGHT>Hey, \u2338!
+Let's race home!<PAGE>I can run really fast!
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KID><FACE_HAPPY><FP_RIGHT>Hey, \u2338!
+Can we race home?
+<PAGE>I can run really fast!
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KID><FACE_HAPPY><FP_RIGHT>Yay!♪
+The first one in the house
+is the winner!<PAGE>3, 2...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KID><FACE_HAPPY><FP_RIGHT>Yaaay!<RED>❤</COLOR>
+The first one in the house
+is the winner!<PAGE>3, 2...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KID><FACE_NORMAL><FP_RIGHT>1...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KID><FACE_NORMAL><FP_RIGHT>1...
+----------------------------|----------------------------------
+<CHOICE_AB> Run as fast as you can.
+ Go easy.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KID><FACE_HAPPY><FP_RIGHT>...\u270a...\u270a...\u270aGO!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KID><FACE_HAPPY><FP_RIGHT>...\u270a...\u270a...\u270aGO!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KID><FACE_SAD><FP_RIGHT>Pant, pant pant...
+You're so mean, \u2338!<PAGE>You're too fast, and
+now I'm tired!<PAGE>I couldn't even see you
+when you turned the corner!
+You made me sad.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KID><FACE_SAD><FP_RIGHT>Pant, pant pant...
+Oooh, I'm so tired!<PAGE>\u2338, you're so mean!
+Why'd you have to run
+so fast?<PAGE>I couldn't even see you
+when you turned the corner!
+You made me sad.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KID><FACE_SAD><FP_RIGHT>I don't wanna ever race
+with you again, \u2338.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KID><FACE_SAD><FP_RIGHT>I'm never gonna ask you
+to race again, \u2338.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KID><FACE_HAPPY><FP_RIGHT>...\u270a...\u270a...\u270aGO!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KID><FACE_HAPPY><FP_RIGHT>...\u270a...\u270a...\u270aGO!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_KID><FACE_HAPPY><FP_LEFT>I did it!
+I beat \u2338!<PAGE>Hee hee.
+I'm so fast!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_KID><FACE_HAPPY><FP_LEFT>Yay!
+I won, \u2338!<PAGE>Hee hee.
+I'm so happy!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_KID><FACE_HAPPY><FP_LEFT>\u2338, let's race again
+sometime.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_KID><FACE_HAPPY><FP_LEFT>\u2338, that was fun!
+Let's race again soon!<RED>❤</COLOR>

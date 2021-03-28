@@ -1,0 +1,45 @@
+<FACE_POS_RIGHT><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>それでは、これより…<PAGE>新郎ディルカと、
+新婦<MYNAME>の結婚式を
+行います。
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>…新郎ディルカ。<PAGE>あなたは、<MYNAME>を
+一生愛し、明るく幸せな家庭を
+築く事を誓いますか？<PAGE><FACE_POS_LEFT><FACE_DIRK><FACE_HAPPY><FP_LEFT>もちろん、誓うよ。
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>…新婦<MYNAME>。<PAGE>あなたはディルカを
+一生愛し、明るく幸せな家庭を
+築く事を誓いますか？
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>それでは、今ここに
+新しい夫婦が生まれた事を
+認めましょう！<PAGE><FACE_POS_RIGHT><FACE_NATHAN><FACE_HAPPY><FP_RIGHT>この幸福な２人に、
+女神さまの祝福が
+あらんことを！
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_DIRK><FACE_SHOCK><FP_LEFT><MYNAME>。
+大好きだよ。
+絶対絶対、幸せにするからな。
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_SHOCK><FP_RIGHT>今日から、
+オレ達２人の新しい生活が
+はじまるんだよな。<PAGE>あのさ…、お互いの
+名前の呼び方を変えないか？<PAGE><FACE_POS_RIGHT><FACE_DIRK><FACE_HAPPY><FP_RIGHT>オレは、ディルカで良いよ。
+<MYNAME>は、
+オレに何て呼んでほしい？
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_NORMAL><FP_RIGHT><MYNICKNAME>。
+これでいい？
+----------------------------|----------------------------------
+<CHOICE_AB> いいよ
+ もう１回考えなおす
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_HAPPY><FP_RIGHT>オッケー！
+それじゃ、これで決まりだな！<PAGE><FACE_POS_RIGHT><FACE_DIRK><FACE_SHOCK><FP_RIGHT>これから、よろしくな。
+…<MYNICKNAME>。
+----------------------------|----------------------------------
+さあ、新生活のスタートだ！
+今日はゆっくり休んで、
+明日からまた頑張ろう♪
+----------------------------|----------------------------------
+<CHOICE_AB> セーブして寝る
+ セーブしないで寝る

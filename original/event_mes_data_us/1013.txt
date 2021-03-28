@@ -1,0 +1,108 @@
+<FACE_POS_RIGHT><FACE_HIRO><FACE_NORMAL><FP_RIGHT>...<MYNAME>?<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_SHY><FP_RIGHT><MYNAME>?
+What happened?
+You seemed dazed...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_SAD><FP_RIGHT>I called to you over and 
+over, but you didn't reply.
+How alarming!<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_NORMAL><FP_RIGHT>Are you feeling unwell?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_NORMAL><FP_RIGHT>No? But...
+...you are looking rather
+pale.<PAGE>Perhaps you are fatigued
+from your farm work?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_SHY><FP_RIGHT>You're certain?<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_ANGRY><FP_RIGHT>If you're feeling unwell,
+you must tell me.<PAGE>Sometimes people think they
+are fine when they actually
+need medical attention.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_NORMAL><FP_RIGHT>I have your word, then?
+Thank you. That's good to
+hear.<PAGE>Just as a precaution, take
+a leisurely pace on your
+way home.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_NORMAL><FP_RIGHT><MYNAME>...?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_SHY><FP_RIGHT><MYNAME>!!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_SHY><FP_RIGHT><MYNAME>!?
+Hang in there,
+<MYNAME>!!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Looks like fatigue.
+Take a nice long rest and
+you'll be as good as new.<PAGE>Okay, I need to go check on
+some other people.<PAGE>Hiro, you look after
+<MYNAME>.<PAGE><FACE_POS_LEFT><FACE_HIRO><FACE_SAD><FP_LEFT>Yes. I will...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_SAD><FP_RIGHT><MYNAME>...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_SHY><FP_RIGHT>Oh, you mustn't! Please get
+back in bed and rest!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_SAD><FP_RIGHT><MYNAME>, you've been pushing
+yourself too hard. The
+fatigue caught up with you.<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_SHY><FP_RIGHT>You must spend the day
+resting!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_SHY><FP_RIGHT>You most certainly are NOT
+perfectly fine.
+----------------------------|----------------------------------
+<CHOICE_AB> Sorry to make you worry.
+ No need to get upset!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_SAD><FP_RIGHT>Worry?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_NORMAL><FP_RIGHT>...<MYNAME>, you are always
+there for me, always
+supportive of me.<PAGE>I'm happy I finally get the
+chance to help you.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_SAD><FP_RIGHT>I know that I am still just
+an apprentice...
+<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_NORMAL><FP_RIGHT>But even so, if there is
+anything--anything!--
+that I can do for you...<PAGE>Please call on me for
+assistance at any time.<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_ANGRY><FP_RIGHT>If you are ever in distress,
+don't hesitate to tell me.<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_HAPPY><FP_RIGHT>Fear not! I will do all in
+my power to aid you.<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_SHOCK><FP_RIGHT>You see, I... I...
+that is...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_SHOCK><FP_RIGHT>I lo... I lo...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_HAPPY><FP_RIGHT>I love having you as a
+friend, you see!!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_HAPPY><FP_RIGHT>...\u270a...\u270a...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_SAD><FP_RIGHT>*Sigh*...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_ANGRY><FP_RIGHT>But, <MYNAME>, don't you
+understand WHY I am
+upset?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_ANGRY><FP_RIGHT>No, how could you
+understand?<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_SAD><FP_RIGHT>Forgive my outburst.<PAGE>But I do beg of you, <MYNAME>,
+to take the care of your
+health more seriously!<PAGE>If you cannot trust me, then
+I will ask Dr. Ayame to
+attend you instead.<PAGE>Well then, I will take my
+leave...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_AYAME><FACE_NORMAL><FP_RIGHT>My my, <MYNAME>, you're a
+bit thickheaded, aren't you?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Why do you think Hiro was
+so upset?<PAGE>It's because he's always
+worrying about your
+well-being, <MYNAME>.<PAGE>He's your friend, right? He
+wants you to depend on him
+as more than just a doctor.<PAGE><FACE_POS_RIGHT><FACE_AYAME><FACE_HAPPY><FP_RIGHT>Do you understand what I'm
+telling you?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_AYAME><FACE_HAPPY><FP_RIGHT>Good!<PAGE><FACE_POS_RIGHT><FACE_AYAME><FACE_NORMAL><FP_RIGHT>In that case, spend some
+time thinking over Hiro's
+feelings as you rest here.<PAGE>I have to get back to work.
+If you need anything,
+give me a call. Bye!

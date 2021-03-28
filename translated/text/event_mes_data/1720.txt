@@ -1,0 +1,85 @@
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>★ＥＲＲＯＲ！★</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho-ho!
+Kamu memberikan materialnya!
+Ayo aku lihat...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>★ＥＲＲＯＲ！★</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>★ＥＲＲＯＲ！★</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_SHENG><FACE_HAPPY><FP_RIGHT>Heh!
+Akhirnya aku mendapatkan
+apa yang aku butuhkan!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>★ＥＲＲＯＲ！★</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Sekarang uangnya.
+Oke, aku membutuhkan
+<VAR_1>G milikmu!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>★ＥＲＲＯＲ！★</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>★ＥＲＲＯＲ！★</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>★ＥＲＲＯＲ！★</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>★ＥＲＲＯＲ！★</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>★ＥＲＲＯＲ！★</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_SHENG><FACE_HAPPY><FP_RIGHT>Bagus! Kamu melakukan apa
+yang aku cari materialnya,
+eh?<PAGE><FACE_POS_RIGHT><FACE_SHENG><FACE_NORMAL>Sekarang giliran aku untuk
+memperlihatkan apa yang
+aku bisa!<PAGE><FACE_POS_RIGHT><FACE_SHENG><FACE_ANGRY>Mungkin aku tua, tapi tidak
+ada orang lain dapat bicara
+bahwa Sheng kehilangan<PAGE>keahliannya untuk membuat
+sesuatu dengan alatnya!<PAGE>Kamu harus menunggu diluar
+agar aku bisa lebih fokus
+mengerjakannya!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_SHENG><FACE_ANGRY><FP_RIGHT>Hooooboy...\u270a Hoooboy...
+Hot dang!!
+Itu istimewah!!!<PAGE>Aku telah menuang seluruh
+perasaan dan jiwaku ter-
+hadap karya ini!<PAGE><FACE_POS_RIGHT><FACE_SHENG><FACE_HAPPY><MYNAME>, alat ini
+akan sangat berguna buatmu!
+Ayo, ambil saja!
+----------------------------|----------------------------------
+<FP_NONE>Kamu mendapatkan sebuah
+<RED>Cangkul (Lv.2)</COLOR>!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Aku dapat lihat dari wajah
+mu bahwa kamu ingin bertanya
+... apa bedanya?<PAGE><FACE_POS_RIGHT><FACE_SHENG><FACE_ANGRY>Heh-heh. Kamu tidak akan mem
+percayahinya! Upgrade dari 
+aku itu memberikan kekuatan<PAGE>dan dengan kekuatan maksud 
+aku, sekarang kamu dapat
+menaikan <RED>kekuatan<PAGE>cangkulmu</COLOR>!!<PAGE><RED>Tahan tombol A</COLOR> untuk
+menahannya...<PAGE>dan disaat kamu diposisi yg
+kamu ingin cangkut, biarkan
+semuanya tercangkuli!<PAGE>Dalam satu ayunan, kamu
+<RED>dapat mencangkul banyak
+petak</COLOR>!<PAGE><FACE_POS_RIGHT><FACE_SHENG><FACE_NORMAL>Tapi penjelasan yang terbaik
+dengan mendemonstrasikan!
+\u270aHanya...<PAGE>Dicoba saja ya!<PAGE><FACE_POS_RIGHT><FACE_SHENG><FACE_ANGRY>Aku melihat cangkulmu
+dapat diupgrade lagi ke
+level selanjutnya!<PAGE>Upgrade lagi, dan kamu akan
+dapat menahan tenaga lebih
+banyak lagi!<PAGE><FACE_POS_RIGHT><FACE_SHENG><FACE_SAD>Tapi...
+Aku sudah melakukan apa
+yang aku dapat disaat ini.<PAGE><FACE_POS_RIGHT><FACE_SHENG><FACE_ANGRY>Aku akan melanjutkan penelitihan aku.<PAGE>Disaat aku siap
+untuk memperbagusnya lagi,
+Aku akan memberitahumu!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Aku tidak keberatan bekerja
+berat untuk menyelesaikan
+pekerjaan ini!<PAGE>Aku yakin kita akan melaku-
+kan bisnis ini lagi.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>★ＥＲＲＯＲ！★</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>★ＥＲＲＯＲ！★</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>★ＥＲＲＯＲ！★</COLOR>

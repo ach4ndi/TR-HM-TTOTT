@@ -1,0 +1,5 @@
+<FACE_POS_CENTER><FACE_KANA><FACE_HAPPY><FP_RIGHT>じゃあ、どこへ行こうか？
+----------------------------|----------------------------------
+<CHOICE_ABC> <VAR_0>
+ <VAR_1>
+ <VAR_2>

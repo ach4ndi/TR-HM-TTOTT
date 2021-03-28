@@ -1,0 +1,67 @@
+Old Cart
+----------------------------|----------------------------------
+Bamboo Cart
+----------------------------|----------------------------------
+Shrine Cart
+----------------------------|----------------------------------
+Striped Carriage
+----------------------------|----------------------------------
+Fancy Carriage
+----------------------------|----------------------------------
+Dragon Cart
+----------------------------|----------------------------------
+UFO Cart
+----------------------------|----------------------------------
+Mecha Chicken
+----------------------------|----------------------------------
+Sled
+----------------------------|----------------------------------
+Delivery Cart
+----------------------------|----------------------------------
+This is the cart the mayor
+gave you. It doesn't carry
+much.
+----------------------------|----------------------------------
+A nice, lightweight cart
+made of bamboo.
+
+----------------------------|----------------------------------
+This cart is made by a
+highly skilled craftsman.
+Refrigerates food.
+----------------------------|----------------------------------
+A nicely crafted carriage
+decorated with a fine
+weather vane.
+----------------------------|----------------------------------
+This cart is designed for
+delivery. It's well-built.
+Refrigerates food.
+----------------------------|----------------------------------
+A cart disguised as an
+ornate dragon.
+Refrigerates food.
+----------------------------|----------------------------------
+This cart is out of this
+world.
+It functions as a fridge.
+----------------------------|----------------------------------
+A giant mechanical chicken
+cart. What else is there to
+say? Refrigerates food.
+----------------------------|----------------------------------
+This cart is designed like
+a sleigh. It also
+refrigerates food.
+----------------------------|----------------------------------
+Do you remember you used to
+make all kinds of stuff with
+cardboard as a kid?
+----------------------------|----------------------------------
+Upgrade to increase size.
+Currently　<VAR_0>x → After <VAR_1>x
+----------------------------|----------------------------------
+Finished.
+----------------------------|----------------------------------
+You have too many items.
+You can't exchange.

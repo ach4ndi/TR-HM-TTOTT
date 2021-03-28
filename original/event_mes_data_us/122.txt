@@ -1,0 +1,595 @@
+<FACE_POS_CENTER><HIDE_NAME><FACE_MAKO><FACE_NORMAL><FP_RIGHT>What's your business?
+And who are you, anyway?<PAGE><MYNAME>, you say...?
+I'll remember it.
+My name?<PAGE><FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>I'm <BLUE>Mako</COLOR>. I own these
+orchards. Let me know if
+you need anything!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_ANGRY><FP_RIGHT>Yesterday's weather did
+mischief here and there, but
+no major damage...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>It's you, is it, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>It's you, is it, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>It's you, is it, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_HAPPY><FP_RIGHT>Ah! What a fine pet!
+Take good care of it.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_ANGRY><FP_RIGHT>Urk! Stay back!
+That's as close as I want to
+get to that animal!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>It's you, is it, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_ANGRY><FP_RIGHT>Ah...a blue feather!
+So you'll be getting married
+sooner than I? Intolerable!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>For me?
+I need no such thing.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>For today, I must decline.
+Accepting too many gifts at
+once is bad luck.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>It's you, is it, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>It's you, is it, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>What's your business?
+Don't just stand there,
+speak up.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_HAPPY><FP_RIGHT>As a birthday present,
+this is a fine choice.
+The finest I can imagine!<PAGE>You have my thanks!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_HAPPY><FP_RIGHT>Oh-ho, <RED>chop suey</COLOR>!
+Mmm, just how I like it!
+What an excellent gift!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>It's you, is it, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>It's you, is it, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_HAPPY><FP_RIGHT>What have we here?!
+A birthday present!<PAGE>And a very fine one at that!
+You have my thanks!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>What have we here...?
+It seems you are familiar
+with my preferences.<PAGE>You have my thanks!
+I accept with gratitude.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Today it is my birthday.
+But I never expected to
+receive a present!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>So this is for me?
+I thank you.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_SAD><FP_RIGHT>Here it is, my birthday...
+and you plague me with this!
+You have some nerve!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_ANGRY><FP_RIGHT>Are you trying to annoy me?
+If you have something
+against me, state it openly!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_SAD><FP_RIGHT>Hmm, forgive my bluntness...
+Fresh <RED>milk</COLOR>, I abhor.
+I always have.<PAGE>I will accept it, but only
+for use in cooking.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>It's you, is it, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_HAPPY><FP_RIGHT>Are you and Reina happy
+together? Remember to show
+her how much you love her!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>You entered the state of
+matrimony before I myself...<PAGE>Now you must tell me the
+the secret to winning
+another's hand in love.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_SAD><FP_RIGHT>I worry that this accursed
+wind will harm my fruit
+trees.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_SAD><FP_RIGHT>When so much snow falls,
+it makes caring for the
+orchard more burdensome.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_HAPPY><FP_RIGHT>As a brilliant and
+innovative farmer, I have
+much in common with you.<PAGE>It is rare that I find a
+kindred spirit. May our
+friendship prosper!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_HAPPY><FP_RIGHT>Come and see me any time if
+you have fruit questions.<PAGE>I can tell you are serious
+about your crops.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Reina has good instincts as
+a scientist.<PAGE>I hope that she makes full
+use of her natural gifts.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>So you're growing a variety
+of crops?
+We farm the same way.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>The more you study crops and
+fruits, the more fascinating
+they are.<PAGE>It's a great pleasure to see
+them grow and yield a
+harvest.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_ANGRY><FP_RIGHT>Ah-ha, so it must be...!
+Eureka!!!<PAGE>Arrgh, what now?
+I was on the verge of a new
+theory of agronomy...!<PAGE>And now it slipped my mind!
+*Sob*
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Hmm, what's that?
+Do you want to hear about my
+work?<PAGE>No, I expect you don't.
+The masses never do.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>It's you, is it, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>It's you, is it, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>It's you, is it, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>It's you, is it, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>It's you, is it, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>It's you, is it, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>It's you, is it, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>It's you, is it, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>It's you, is it, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>It's you, is it, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>It's you, is it, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>It's you, is it, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>It's you, is it, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>It's you, is it, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>It's you, is it, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>It's you, is it, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>It's you, is it, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>It's you, is it, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>It's you, is it, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>It's you, is it, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>It's you, is it, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>It's you, is it, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>It's you, is it, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>It's you, is it, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>It's you, is it, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>It's you, is it, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>It's you, is it, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>It's you, is it, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>It's you, is it, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>It's you, is it, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>It's you, is it, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>It's you, is it, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>It's you, is it, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>It's you, is it, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>It's you, is it, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>It's you, is it, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>What is this?
+Ah, for the festival...
+Best of luck.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>It's you, is it, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>It's you, is it, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Ah, is this your pet?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_HAPPY><FP_RIGHT>Oh, what a fine animal!
+And you caught it yourself?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_ANGRY><FP_RIGHT>These pests wreak havoc by
+eating my fruits!
+I loathe them!!!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>What are you doing with one
+of these? You're a
+strange one, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>It's you, is it, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>It's you, is it, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>It's you, is it, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>It's you, is it, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>It's you, is it, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>It's you, is it, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>It's you, is it, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>It's you, is it, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>It's you, is it, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>It's you, is it, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>It's you, is it, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>It's you, is it, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>A flower for me?
+An odd thing for you to do.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>It's you, is it, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>It's you, is it, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>It's you, is it, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>It's you, is it, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>It's you, is it, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>It's you, is it, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>What's this? A wrapped gift?
+How fine!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_HAPPY><FP_RIGHT>I truly appreciate having a
+friend like you to talk to.<PAGE>I don't get to hear from a
+female perspective often.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>It's you, is it, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Is the fruit in your village
+any different from ours?
+You must show me some time.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>It's you, is it, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>It's you, is it, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>It's you, is it, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>This season is the best time
+of year for fruits.
+Seeing them grow is a joy.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Winter is a bitter season
+for me, you know. Spring
+cannot come soon enough.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Hmm, don't you have any
+unusual crops or fruit?
+No...?<PAGE>If you know of any, tell me
+about them.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Hmm?
+What am I doing, you ask?
+Can't you tell?<PAGE>I'm studying the plants in
+this area for any possible
+random mutations, of course.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>It's you, is it, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>It's you, is it, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>It's you, is it, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>It's you, is it, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>It's you, is it, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>It's you, is it, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>It's you, is it, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Heh heh heh.
+Naturally, today's Cooking
+Festival was won by us!<PAGE>With you and I present,
+<MYNAME>, how could it be
+otherwise?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_ANGRY><FP_RIGHT>Konohana has tasted defeat.
+<MYNAME>, can you say that
+your cheering was adequate?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>If you don't wish to be on
+the losing side at the next
+Cooking Festival...<PAGE>You had best switch over to
+our village.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>It's you, is it, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>It's you, is it, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_ANGRY><FP_RIGHT>Defeated in the Cooking
+Festival...!
+What a disgrace!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>It's you, is it, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>How foolish to be downcast
+over a trifle like this!
+Pull yourself together.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>When a festival is about to
+start, the air is electric.
+I can hardly wait!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>So you didn't take part...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>It's you, is it, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Hear me out, <MYNAME>!<PAGE>I know nothing of today's
+activity, but I know you
+must get over your defeat.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>It's you, is it, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>It's you, is it, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>It's you, is it, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>It's you, is it, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>It's you, is it, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>It's you, is it, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>It's you, is it, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>It's you, is it, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>It's you, is it, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>It's you, is it, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>It's you, is it, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>It's you, is it, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>It's you, is it, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>It's you, is it, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>It's you, is it, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>It's you, is it, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>It's you, is it, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>It's you, is it, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>It's you, is it, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>It's you, is it, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>It's you, is it, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT><MYNAME>, was it?
+You may look on, but be sure
+not to get in the way.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>It's you, is it, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>It's you, is it, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>It's you, is it, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>It's you, is it, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>It's you, is it, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>It's you, is it, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>It's you, is it, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>It's you, is it, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>It's you, is it, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>It's you, is it, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>It's you, is it, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>It's you, is it, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>It's you, is it, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>It's you, is it, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>It's you, is it, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>It's you, is it, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>It's you, is it, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>It's you, is it, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>It's you, is it, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>It's you, is it, <MYNAME>?
+Have you business with me?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Good morning.
+I was pondering something.
+What is it you want?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Good morning! Let's hope
+today is full of challenges
+and surprises!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Hark, <MYNAME>!<PAGE>Without the daylight hours,
+crops and fruit wouldn't
+grow, now would they?<PAGE>So, what's your business?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_HAPPY><FP_RIGHT>Greetings, <MYNAME>.
+What are you doing today?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>It's you, is it, <MYNAME>?
+Here to discuss fruit?
+Or am I mistaken?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>What are you up to this time
+of night, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Good evening, <MYNAME>.
+I like to immerse myself
+in study in the late hours.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>It gets chilly at this time
+in the evening.
+Hmm, what are you up to?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>It's you, is it, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>It's you, is it, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>It's you, is it, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>No, no, not here!
+Talk to me over the counter.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Sorry, we're not ready for
+customers just yet.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Don't talk to me right now!
+I'm working!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Mmm, delicious!
+Just like my mother used to
+make it.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>I usually cook for myself,
+but I can't make anything
+this good. Mmm, delicious!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>I enjoy coming here on my
+days off.
+You should eat here too!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>How goes it, <MYNAME>?
+How have you been recently?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Here to buy, are you?
+I came to purchase materials
+for my research.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>I came to purchase materials
+for my research, but...
+they appear closed today.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>It's you, is it, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>It's you, is it, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>It's you, is it, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>It's you, is it, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>It's you, is it, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>It's you, is it, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>It's you, is it, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>It's you, is it, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>It's you, is it, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_HAPPY><FP_RIGHT><MYNAME>, congratulations!
+I consider the food that you
+made to be superb!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_HAPPY><FP_RIGHT>You were victorious!
+Your cooking was relished
+by everyone.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_HAPPY><FP_RIGHT>Your cooking could grace
+even a gourmet restaurant.
+Make it every day, please!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>That was amusing.
+Like a pleasant daydream.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_HAPPY><FP_RIGHT>What a full day!
+I'll be sorry when it
+comes to an end.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Hmm, what an exciting day!
+Did you have fun?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Superb. Your hard work won
+the day.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT><MYNAME>, you must show me
+around your fields sometime
+so I can see how you do it!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Your crops have soul!
+They are superb!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>I will sleep well tonight.
+I feel in good spirits.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Now that was a good time.
+Didn't you think so?
+
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Ah, I'm in good spirits!
+I will sleep well tonight.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>I congratulate you,
+<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>I never thought that you
+would win! Congratulations!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>You have a formidable
+talent, <MYNAME>.
+I was astonished.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>It's you, is it, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>It's you, is it, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>It's you, is it, <MYNAME>?

@@ -1,0 +1,23 @@
+<FACE_POS_LEFT><HIDE_NAME><FACE_INA><FACE_NORMAL><FP_LEFT><HIDE_FACE><MYNAME>さん、いるかい？
+おジャマさせてもらうよ。
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_HAPPY><FP_RIGHT>この間、妊娠のために預かった
+<VAR_0>の<VAR_1>が
+無事に出産したよ。<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>動物達を渡したいから
+ちょっと来ておくれ。
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_HAPPY><FP_RIGHT>この子が生まれた子だよ。
+元気そうな赤ちゃんだろ？<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>それじゃ、名前をつけようか。
+どんな名前にするんだい？\u2390\u2709
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><FP_RIGHT><RED><VAR_0></COLOR>でいいかい？
+<CHOICE_AB> はい！
+ やっぱり変えます
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>うん、いい名前だね！
+ちゃんとかわいがって、
+しっかり世話するんだよ。
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>それじゃ、あたしは帰るね。
+何かあったら、また店に
+来ておくれ。

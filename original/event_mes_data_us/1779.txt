@@ -1,0 +1,75 @@
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>★ERROR!★</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>You saw the message board?
+I've been expecting you!<PAGE><FACE_POS_RIGHT><FACE_EILEEN><FACE_HAPPY>Do you have the materials
+for me?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>★ERROR!★</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>★ERROR!★</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_EILEEN><FACE_HAPPY><FP_RIGHT>Great! Thanks!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>★ERROR!★</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Now for the money.
+That's <VAR_0>G.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>★ERROR!★</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>★ERROR!★</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>★ERROR!★</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>★ERROR!★</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>★ERROR!★</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_EILEEN><FACE_HAPPY><FP_RIGHT>You brought everything
+I need for the expansion!
+Nicely done!<PAGE><FACE_POS_RIGHT><FACE_EILEEN><FACE_NORMAL>Now let's go!
+I'll get straight to work.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Now you just wait there...
+I'll be done in no time!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>★ERROR!★</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>★ERROR!★</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>All finished!
+And a fine piece of work,
+if I do say so myself!<PAGE>That rock was surprisingly
+easy to drill through.<PAGE><FACE_POS_RIGHT><FACE_EILEEN><FACE_SAD>But the tunnel seems longer
+than I expected...<PAGE>It's still going to <RED>take a
+while</COLOR> before you can go
+through the whole thing.<PAGE><FACE_POS_RIGHT><FACE_EILEEN><FACE_NORMAL>Come see me again when you
+want to dig further.<PAGE><FACE_POS_RIGHT><FACE_EILEEN><FACE_HAPPY>My job here is all done, so
+I'm going to go home.
+See you around.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>★ERROR!★</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>★ERROR!★</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>★ERROR!★</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>Dum-Da-Da-DAA!
+Looks like the tunnel goes a
+little further now!<PAGE>Hmmm? You're wondering why
+I, the fabulous Harvest
+Goddess, am here? Tee-hee!<RED>❤</COLOR><PAGE>Actually, <MYNAME>, thanks
+to you, the mayors of the
+two towns are getting along.<PAGE>So I thought the time had
+come to tear through that
+tunnel!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>I bestowed my power on
+that carpenter girl to help
+her dig.<PAGE>And when the mayors can get
+along even better and it's
+time to dig again...<PAGE>I will again bestow my
+power on the girl.<PAGE>At that time, you will help
+by gathering the materials
+she needs to do the work.<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>Keep up the good work,
+my little mortal!
+Toodles!

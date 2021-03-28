@@ -1,0 +1,67 @@
+<FP_NONE>Tanya tentang permintaan?
+<CHOICE_AB> Ya.
+ Tidak.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIEGO><FACE_ANGRY><FP_RIGHT>Apaan ini? Kamu tidak mem-
+punyai semua barang yang
+kuminta?<PAGE><FACE_POS_RIGHT><FACE_DIEGO><FACE_NORMAL>Cepat cari sisanya!
+Aku akan menunggumu!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIEGO><FACE_SAD><FP_RIGHT>Kamu sudah menyerah ya?
+Well, aku kira jika kamu
+ada urusan mendadak...<PAGE><FACE_POS_RIGHT><FACE_DIEGO><FACE_NORMAL>Segeralah diselesaikan dan
+datang kembali kesini!
+Aku akan menunggumu!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Sekarang uangnya.<PAGE>Jumlahnya <VAR_0>G.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Aku dengar kamu akan datang.
+Dan aku lelah menunggunya!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Inilah yang aku butuhkan!
+Aku tahu kamu dapat melaku-
+kannya, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Sampai jumpa lagi.
+Makasih.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIEGO><FACE_NORMAL><FP_RIGHT><BLUE>
+MSG NOT APPEAR
+</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>　
+\u20d0<RED>　　　　Dummy</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>　
+\u20d0<RED>　　　　Dummy</COLOR>
+----------------------------|----------------------------------
+<FP_NONE>Tanya tentang permintaan?
+<CHOICE_AB> Ya.
+ Tidak.
+----------------------------|----------------------------------
+<FP_NONE>Menolak hadiahnya?
+<CHOICE_AB> Ya.
+ Tidak.
+----------------------------|----------------------------------
+<FP_NONE>Kamu mendapatkan <VAR_0>G!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>　
+\u20d0<RED>　　　 Dummy</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>　
+\u20d0<RED>　　　 Dummy</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>　
+\u20d0<RED>　　　 Dummy</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>　
+\u20d0<RED>　　　 Dummy</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>　
+\u20d0<RED>　　　 Dummy</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>　
+\u20d0<RED>　　　 Dummy</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>　
+\u20d0<RED>　　　 Dummy</COLOR>

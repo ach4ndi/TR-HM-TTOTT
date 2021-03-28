@@ -1,0 +1,204 @@
+<FACE_POS_LEFT><FACE_ASH><FACE_NORMAL><FP_LEFT>Oh, welcome home,
+<MYNICKNAME>.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_HIRO><FACE_NORMAL><FP_LEFT>Welcome home,
+<MYNICKNAME>.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_CAM><FACE_NORMAL><FP_LEFT>Welcome home,
+<MYNICKNAME>.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_KANA><FACE_NORMAL><FP_LEFT>Welcome home,
+<MYNICKNAME>!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_MIKHAIL><FACE_NORMAL><FP_LEFT>Welcome back,
+<MYNICKNAME>.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_LANEY><FACE_NORMAL><FP_LEFT>Welcome home,
+<MYNICKNAME>.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_GEORGIA><FACE_NORMAL><FP_LEFT>Why, welcome home,
+<MYNICKNAME>！
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_REINA><FACE_NORMAL><FP_LEFT>Welcome home,
+<MYNICKNAME>.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_NORI><FACE_NORMAL><FP_LEFT>Welcome back,
+<MYNICKNAME>.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ULYSSA><FACE_NORMAL><FP_LEFT>Welcome hooome,
+<MYNICKNAME>!!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_DIRK><FACE_NORMAL><FP_LEFT>Welcome home,
+<MYNICKNAME>!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ASH><FACE_NORMAL><FP_LEFT>How was work?
+I've got a big surprise for
+you today.<PAGE><FACE_POS_LEFT><FACE_ASH><FACE_HAPPY><FP_LEFT>Come over here.
+\u2337 has been
+waiting for you.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_HIRO><FACE_NORMAL><FP_LEFT>How was work?
+Heh heh. Something really
+exciting happened today.<PAGE><FACE_POS_LEFT><FACE_HIRO><FACE_HAPPY><FP_LEFT>Come sit down, and then
+we'll show you.
+\u2337 is waiting.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_CAM><FACE_NORMAL><FP_LEFT>How was work today?
+<PAGE>We've got a big surprise
+for you.
+Come on over.<PAGE>\u2337 got
+everything ready for you.
+
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_KANA><FACE_NORMAL><FP_LEFT>How was work?
+We've got a huge surprise
+waiting for you.<PAGE><FACE_POS_LEFT><FACE_KANA><FACE_HAPPY><FP_LEFT>Now come on and sit down.
+\u2337 has been
+waiting so patiently.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_MIKHAIL><FACE_NORMAL><FP_LEFT>How was work? We've got
+something that will give you
+quite a surprise.<PAGE><FACE_POS_LEFT><FACE_MIKHAIL><FACE_HAPPY><FP_LEFT>Now come on over here.
+\u2337 has been
+waiting for you to get home.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_LANEY><FACE_NORMAL><FP_LEFT>How was work today?
+We've got a surprise for
+you.<PAGE><FACE_POS_LEFT><FACE_LANEY><FACE_HAPPY><FP_LEFT>Come sit down.
+\u2337 is waiting.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_GEORGIA><FACE_NORMAL><FP_LEFT>Why, welcome home!
+Have we got a might fine
+surprise for you!<PAGE><FACE_POS_LEFT><FACE_GEORGIA><FACE_HAPPY><FP_LEFT>Now come on and sit down.
+\u2337 is waiting!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_REINA><FACE_NORMAL><FP_LEFT>Hope you had a good day.
+We've got a surprise for
+you.<PAGE>Hurry up and sit down.
+\u2337 is waiting.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_NORI><FACE_NORMAL><FP_LEFT>How was work?
+Well, guess what? We've got
+a surprise for you.<PAGE><FACE_POS_LEFT><FACE_NORI><FACE_HAPPY><FP_LEFT>Come and sit down.
+\u2337 is waiting.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ULYSSA><FACE_NORMAL><FP_LEFT>Well now, how was work?
+We have a huuuge surprise
+for you!<PAGE><FACE_POS_LEFT><FACE_ULYSSA><FACE_HAPPY><FP_LEFT>Now now, come and sit down.
+\u2337 is waiting!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_DIRK><FACE_NORMAL><FP_LEFT>How was work?
+Have we got a surprise
+for you!<PAGE>Ha ha. Just come and sit
+down. \u2337 is waiting!
+
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_KID><FACE_HAPPY><FP_LEFT>Heh heh. Are you surprised,
+\u2338?<PAGE><FACE_POS_LEFT><FACE_KID><FACE_NORMAL><FP_LEFT>I baked this cake for you!
+
+<PAGE><FACE_POS_LEFT><FACE_KID><FACE_HAPPY><FP_LEFT>It's a present for you
+because you always work
+so hard.<PAGE>Eat some, okay?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_KID><FACE_HAPPY><FP_LEFT>Heh heh. Are you surprised,
+\u2338?<PAGE><FACE_POS_LEFT><FACE_KID><FACE_NORMAL><FP_LEFT>I baked this cake for you!<PAGE><FACE_POS_LEFT><FACE_KID><FACE_HAPPY><FP_LEFT>It's a present for you
+because you always work
+so hard.<PAGE>Will you eat some?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_KID><FACE_HAPPY><FP_LEFT>Is it yummy?
+Oh, good!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_KID><FACE_HAPPY><FP_LEFT>Is it yummy?
+Oh, good!<RED>❤</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>That's great,
+\u2337!<PAGE>Mom's really proud of all
+your hard work.<PAGE><FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL><FP_RIGHT>If you can cook this well,
+you should enter the Cooking
+Festival when you're older!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_NORMAL><FP_RIGHT>That's great,
+\u2337!<PAGE>When I helped you today, I
+was surprised by what a good
+cook you already are.<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_SHY><FP_RIGHT>I'm not just saying that.<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_HAPPY><FP_RIGHT>The cake came out well,
+didn't it? I really didn't
+help much at all.<PAGE>\u2337 has some amazing
+talent!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_HAPPY><FP_RIGHT>That's wonderful, \u2337.
+<PAGE><FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT>I have to say, I'm shocked
+by how much baking talent
+\u2337 has.<PAGE>I didn't really help that
+much, but \u2337 just
+flew through it...<PAGE><FACE_POS_RIGHT><FACE_CAM><FACE_HAPPY><FP_RIGHT>I think \u2337 may
+be a better cook than I am.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>That's great,
+\u2337.<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>\u2337 is seriously
+amazing, though. What a
+good cook!<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>Maybe even better than me!
+<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_SHY><FP_RIGHT>What do you call those
+people who make pastries?
+Patissiere or something?<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>Well anyway, I really think
+\u2337 could be one of
+those one day!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>That's great,
+\u2337.<PAGE>You know, I think \u2337
+is taking after you.
+Such a natural chef!
+<PAGE><FACE_POS_RIGHT><FACE_MIKHAIL><FACE_HAPPY><FP_RIGHT>And I'll be even happier if
+\u2337 inherited some
+of my musical talent too...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_HAPPY><FP_RIGHT>That's wonderful, \u2337.
+<PAGE><FACE_POS_RIGHT><FACE_LANEY><FACE_NORMAL><FP_RIGHT>\u2337 did such a good
+job, and I barely helped.
+<PAGE><FACE_POS_RIGHT><FACE_LANEY><FACE_HAPPY><FP_RIGHT>This must be an innate
+talent. I think \u2337
+could be a pastry chef...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_HAPPY><FP_RIGHT>That's just lovely,
+\u2337.<PAGE><FACE_POS_RIGHT><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>Maybe \u2337's baking
+skills take after mine.
+<PAGE><FACE_POS_RIGHT><FACE_GEORGIA><FACE_SHY><FP_RIGHT>Oh no! I hope that doesn't
+mean the rest of \u2337's
+cooking will be like mine.<PAGE><FACE_POS_RIGHT><FACE_GEORGIA><FACE_HAPPY><FP_RIGHT>No, no I'm sure \u2337
+will be an amazing cook.
+Right,<MYNICKNAME>?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_HAPPY><FP_RIGHT>That's excellent,
+\u2337.<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>\u2337 is a pretty good
+cook already. There's some
+real talent there.<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_HAPPY><FP_RIGHT>I wonder what other talents
+\u2337 has. I can't wait
+to find out!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>That's great,
+\u2337!<PAGE>I was worried about how it
+would turn out at first...<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>But it's just great! You'd
+never think a child
+made this<PAGE>\u2337 must have
+real talent.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>How super great,
+\u2337!<PAGE><FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>It's all thanks to my help!
+<PAGE><FACE_POS_RIGHT><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>Actually, I didn't even help
+much. \u2337 did most
+of it alone.<PAGE><FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>I almost wish I'd needed to
+help more, but what talent!
+Isn't our kid amazing?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_NORMAL><FP_RIGHT>That's great,
+\u2337.<PAGE>I was watching \u2337,
+and marveling at how well
+the cake came together.<PAGE><FACE_POS_RIGHT><FACE_DIRK><FACE_HAPPY><FP_RIGHT>Oh, hey!
+The 3 of us should all make
+dinner together sometime!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_KID><FACE_HAPPY><FP_LEFT>Thanks!
+I'm so glad you liked it!
+
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_KID><FACE_HAPPY><FP_LEFT>Thanks!
+I'm so happy you liked it!

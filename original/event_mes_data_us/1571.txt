@@ -1,0 +1,34 @@
+<FACE_POS_RIGHT><FACE_YUN><FACE_NORMAL>Welcome to Yun's Tea House.
+Can I help you?\u2390
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_YUN><FACE_NORMAL><CHOICE_AB> View menu.
+ Never mind.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_YUN><FACE_NORMAL>Oh, I see. Please come back
+later, then.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_YUN><FACE_SAD>Oh, sorry. You don't
+have enough money.\u2390
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_YUN><FACE_HAPPY>Here you go. I hope you
+enjoy it.\u2390
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_YUN><FACE_SAD>Hm?
+Your bag seems to be full.
+\u2390
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_YUN><FACE_NORMAL>You changed your mind?
+Anything else you need?\u2390
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_YUN><FACE_NORMAL>That comes to <RED><VAR_0>G</COLOR>.
+<CHOICE_AB> Buy.
+ No thanks.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_YUN><FACE_NORMAL>That'll be <RED><VAR_1>G</COLOR>
+for each <VAR_0>.
+How many would you like?\u2390
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_YUN><FACE_SAD>I'm sorry. I only have one
+available...\u2390
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_YUN><FACE_NORMAL>No item left MSG

@@ -1,0 +1,74 @@
+<FACE_POS_RIGHT><FACE_REINA><FACE_SHY><FP_RIGHT>Oh, excuse me.
+I was lost in thought.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>Nothing to worry about.
+It's fine.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>Hey, <MYNAME>...
+there's something I've been
+wanting to ask you.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_SHY><FP_RIGHT>You've said "yes" a lot of
+times when I asked you to
+meet me somewhere...<PAGE>Does that mean you enjoy
+being with me?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>Oh... I see.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>I hardly need to tell you,
+<MYNAME>, that I love
+plants.<PAGE>When I'm wrapped up in
+studying plants, everything
+else around me fades away.<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_SHY><FP_RIGHT>Some people think that makes
+me hard to get along with.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>Most of the time, that
+doesn't bother me. People
+can think what they want.<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_SAD><FP_RIGHT>If they don't like who I am,
+well, there's nothing I can
+do about that.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>And I'm fine being alone
+most of the time.
+<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_SAD><FP_RIGHT>But sometimes I do want
+people to like me.
+Especially...certain people.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>So, <MYNAME>...what do you
+think of me as a person?
+----------------------------|----------------------------------
+<CHOICE_AB> You're very serious.
+ You're really cute.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>I see.
+So that's the way that you
+think of me?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_SHY><FP_RIGHT>Well that's good to know.
+Serious, huh...?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_HAPPY><FP_RIGHT>It's nothing. I just wanted
+to hear your opinion.
+Forget about it.<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>Well, it's getting late.
+Why don't we go?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_SHOCK><FP_RIGHT>Oh!?
+C-Cute...!?<PAGE>A-Are you serious, <MYNAME>?
+I-I'm not sure what to
+say...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_SHOCK><FP_RIGHT>Uh...um...I just remembered
+I have something to do. I
+should go.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_SAD><FP_RIGHT>\u20d0Waaaaahhhhh!?!?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_SAD><FP_RIGHT>Owwwwww!!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_SHOCK><FP_RIGHT>It's all your fault for
+saying that weird thing you
+said... Now look at me...<PAGE>.........
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_ANGRY><FP_RIGHT>Don't look at me, dummy!
+I'm going home! Bye!

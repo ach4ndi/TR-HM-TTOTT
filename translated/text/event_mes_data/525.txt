@@ -1,0 +1,137 @@
+<FACE_POS_LEFT><HIDE_NAME><FACE_SHENG><FACE_NORMAL><FP_LEFT><HIDE_FACE>Apakah kamu sudah bangun,
+<MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Aku membenci ini yang membu-
+atmu terbangun sepagi ini...<PAGE>...Tapi gimana pendapatmu
+mengenai palu yang aku buat
+untukmu itu?<PAGE>Benar-benar bergunakan, eh?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Aku benci membuatmu terba-
+ngun sepagi ini...<PAGE>...Tapi aku hari ini disini
+untuk memberitahukanmu
+bahwa aku sudah menempelkan<PAGE>sebuah catatan permintaanku
+mengenai <RED>palu</COLOR>.<PAGE>Sebuah palu yang digunakan
+untuk mehentakkan batu dan
+meratakan lahan!<PAGE>Setiap petani pastinya mem-
+butuhkan sebuah palu!<PAGE>Jadi cek catatan permintaan-
+ku yang tertempel pada
+<RED>Papan pesan Konohana</COLOR>!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Dengarkan! Aku akan menga-
+jarimu sesuatu yang kamu
+ingin tahui!<PAGE>Ini akan membuat pekerjaan
+kebunmu lebih mudah. Ini
+disebut <RED>upgrade</COLOR>.<PAGE>Apakah kamu inginkan aku
+menjelaskan semuanya?
+Ya kan?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_SHENG><FACE_SAD><FP_RIGHT>Tapi itu semuanya tampaknya
+sudah usang karena sudah
+lama dipergunakan.<PAGE><FACE_POS_RIGHT><FACE_SHENG><FACE_ANGRY><FP_RIGHT>Seorang master pandai besi
+seperti aku ini bisa memper-
+baikinya lebih baik dari-<PAGE>pada sebelumnya,...<PAGE><FACE_POS_RIGHT><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Kamu itu tampaknya masih
+pemula dalam pertanian,
+<MYNAME>...<PAGE>Walaupun jika aku upgrade
+peralatanmu sekarang, kamu
+tidak akan bisa menggunakan<PAGE>secara penuh potensial per-
+alatan ini.<PAGE><FACE_POS_RIGHT><FACE_SHENG><FACE_HAPPY><FP_RIGHT>Tapi disaat waktunya datang
+dan kamu sudah siap, aku
+akan melakukannya.<PAGE>Aku akan menempelkan catat-
+an permintaan di papan per-
+mintaan Konohana, jadi<PAGE>dipantau ya! hehehe
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Aku pikir kamu akan mendapat
+kan upgradenya jika disaat
+waktunya tepat.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><HIDE_NAME><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Aku membenci membuatmu ter-
+bangun sepagi ini...<PAGE>...Tapi kepala desa Ina mem-
+beritahuku bahwa ada seora-
+ng petani baru yang barusan<PAGE>datang kedesa.<PAGE><FACE_POS_RIGHT><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Aku tukang besi Konohana.
+Namaku <BLUE>Sheng</COLOR>.<PAGE><FACE_POS_RIGHT><FACE_SHENG><FACE_HAPPY><FP_RIGHT>Kamu terkesankan, eh?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_SHENG><FACE_ANGRY><FP_RIGHT>Uh apa?! Bajuku tampak aneh?
+Jadi kamu menghina panda?!
+Aku tidak menerimanya!!!<PAGE>...\u270a\u270a<FACE_POS_RIGHT><FACE_SHENG><FACE_NORMAL><FP_RIGHT>*cough*
+Tenang, Sheng, tenang ja-
+ngan membiarkan ini ...<PAGE>Aku datang kesini untuk me-
+ngucapkan halo dan memberi-
+tahumu mengenai catatan per-<PAGE>mintaanku mengenai <RED>palu</COLOR>
+yang aku pasang disana.<PAGE>Sebuah palu ini sesuatu 
+yang meratakan sebuah beba-
+tuan dan meratakan lahan!<PAGE>Setiap petani membutuhkan
+sebuah palu! Untuk menge-
+ceknya lihat pada<PAGE><RED>Papan pesan Konohana</COLOR>.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><HIDE_NAME><FACE_EILEEN><FACE_NORMAL><FP_LEFT><HIDE_FACE>Halo, <MYNAME>.
+Apa kabarmu hari ini?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Maaf mengganggumu sepagi
+ini...<PAGE>Bagaimana keadaanmu memulai
+kehidupan baru sebagai pe-
+tani ini?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_EILEEN><FACE_HAPPY><FP_RIGHT>Aku senang mendengarnya!<PAGE><FACE_POS_RIGHT><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Aku disini dihari ini untuk
+mengajarimu mengenai
+<RED>perluasan</COLOR>, <MYNAME>.<PAGE>Apakah kamu tahu hal apa
+yang kamu bisa membuat per-
+kebunanmu lebih besar dan<PAGE>lebih baik untuk
+ditinggali?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_EILEEN><FACE_HAPPY><FP_RIGHT>Aku tahu bahwa kamu ingin
+mengetahuinya! Oke, biarkan
+aku menjelaskannya...<PAGE><FACE_POS_RIGHT><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Perluasan ini bagaimana
+<RED>membuat perkebunanmu lebih
+luas</COLOR>!<PAGE><FACE_POS_RIGHT><FACE_EILEEN><FACE_HAPPY><FP_RIGHT>Uh ada sesuatu yang ingin
+diperluas, <MYNAME>?<PAGE>Uh, biarkan kukerjakan!
+Tee-hee!<PAGE><FACE_POS_RIGHT><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Mungkin ini membutuhkan
+beberapa waktu untuk memper-
+siapkan segalanya,...<PAGE>Disaat aku siap, aku akan
+memasang sebuah catatan<PAGE>permintaan di <RED>papan
+pesan Bluebell</COLOR>.<PAGE><FACE_POS_RIGHT><FACE_EILEEN><FACE_HAPPY><FP_RIGHT>Oh, tapi kamu membutuhkan
+balok kayu dan balok batu
+jika ingin perluasannya.<PAGE>Sheng kelihatannya barusan
+memasang permintaan menge-
+nai sebuah <RED>palu</COLOR> di<PAGE>Papan pesan Konohana.<PAGE>Kamu dapat gunakan palu un-
+tuk meratakan batu menjadi
+balok batu untuk bangunan.<PAGE>Jika kamu ingin perluasan,
+kamu harus mendapatkan
+palu dari diakan, Oke?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_EILEEN><FACE_HAPPY><FP_RIGHT>Semoga beruntung dengan per-
+kebunanmu! Aku tahu kamu
+akan baik-baik saja!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><HIDE_NAME><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Maaf mengganggumu sepagi
+ini, <MYNAME>...<PAGE>Kepala desa Rutger memberi-
+tahu kepadaku bahwa ada
+seorang petani baru datang<PAGE>kedesa, jadi aku datang ke-
+sini untuk mengatakan halo.
+garing sih...<PAGE><FACE_POS_RIGHT><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Nama aku <BLUE>Eileen</COLOR>. 
+Aku bekerja sebagai penge-
+rajin kayu di Bluebell.<PAGE><FACE_POS_RIGHT><FACE_EILEEN><FACE_HAPPY><FP_RIGHT>Bagaimana... apakah kamu
+menyukai rumah barumu?
+----------------------------|----------------------------------
+<CHOICE_AB> Tolong jelaskan.
+ Tidak, terima kasih.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_SHENG><FACE_HAPPY><FP_RIGHT>Bagus, maka aku akan menga-
+jarimu!<PAGE><FACE_POS_RIGHT><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Sekarang, kedua kebun desa
+dengan peralatan <RED>sabit</COLOR>, 
+<RED>Cangkul</COLOR>, dan <RED>penyiram</COLOR><PAGE>sudah lama digunakan
+generasi ke generasi.<PAGE><FACE_POS_RIGHT><FACE_SHENG><FACE_HAPPY><FP_RIGHT>Dengan peralatan itu, itu
+membuat belantaran liar men-
+jadi lahan yang produktif!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Tidak, eh?
+Maka aku akan membahas hal
+bisnins. Sampai jumpa.
+----------------------------|----------------------------------
+<CHOICE_AB> Beritahu aku!
+ Aku tidak tertarik.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Tidak kah? Oh, Oke.<PAGE><FACE_POS_RIGHT><FACE_EILEEN><FACE_HAPPY><FP_RIGHT>Jika kamu ingin memperluas
+sesuatu, datang ke <RED>Papan
+permintaan Bluebell</COLOR>.<PAGE><FACE_POS_RIGHT><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Semoga beruntung dengan per-
+tanianmu! Aku tahu kamu akan
+melakukannya dengan baik!

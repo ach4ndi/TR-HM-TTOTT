@@ -1,0 +1,48 @@
+<FACE_POS_RIGHT><FACE_NATHAN><FACE_HAPPY><FP_RIGHT>Ah, <MYNAME>! 
+Kebetulan bertemu kamu hari
+ini disekitar sini!<PAGE>Aku mau mempersembahkan
+rasa terima kasihku kepada
+Dewi Panen!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Aku datang kesini setiap
+minggu untuk mempersembahkan
+rasa terima kasihku.<PAGE>Kamu lihat kan, waktu yang
+lalu, disaat aku menjadi
+seorang "pencari harta<PAGE>karun", aku merasakan sakit
+parah.
+Namun, Dewi panen tiba-tiba<PAGE>menampakan diri, dan membuat
+keadaan aku menjadi sehat
+kembali!<PAGE>Itu kenapa membuat aku
+ingin memulai mengajari
+orang mengenai dewi panen.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NATHAN><FACE_HAPPY><FP_RIGHT>Aku sangat berterima kasih
+kepadanya!<PAGE>Karena itu aku selalu mem-
+berikan persembahan yang
+aku tinggal disini<PAGE>sebelum aku akan
+kembali ke aktifitasku.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NATHAN><FACE_HAPPY><FP_RIGHT>Oh, Dewi panen!<PAGE>Apakah ini membuatmu
+senang?!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NATHAN><FACE_HAPPY><FP_RIGHT>Terima kasih banyak, 
+Dewi panen!<PAGE>Semoga hari ini,
+hari yang terindah!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Kamu harus memberikan per-
+sembahan juga, <MYNAME>!<PAGE>Aku yakin beberapa hal baik
+datang kekamu nantinya!<PAGE>btw, aku akan kembali
+sekarang! Sampai bertemu
+lagi di gereja!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_HGODDES><FACE_HAPPY><FP_LEFT>Telolelelet!
+Mari kita lihat... Apa yang
+aku dapatkan hari ini...?<PAGE><FACE_POS_LEFT><FACE_HGODDES><FACE_NORMAL><FP_LEFT>Sebuah lobak...?<PAGE>Aku lebih menyukai seperti
+lebih manis, tapi aku rasa
+aku cukup senang menerima<PAGE>lobak ini...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_HGODDES><FACE_HAPPY><FP_LEFT>Oh, kamu juga memberikan se-
+suatu juga, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_HGODDES><FACE_NORMAL><FP_LEFT>Aww... disayangkan...<PAGE>Berikan aku sesuatu yang
+bagus ya kedepannya, oke?

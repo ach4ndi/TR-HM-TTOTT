@@ -1,0 +1,33 @@
+<FACE_POS_LEFT><FACE_REINA><FACE_HAPPY><FP_LEFT>You grow up nice and strong
+now, you hear?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_REINA><FACE_HAPPY><FP_LEFT>It's a lot of work to water
+you guys, you know that?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_REINA><FACE_HAPPY><FP_LEFT>So, what should I talk about
+with you guys today?<PAGE>I want you all to stay
+healthy, you know?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_REINA><FACE_HAPPY><FP_LEFT>You know, whenever I talk to
+you guys...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MAKO><FACE_ANGRY><FP_RIGHT>Ahem!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Were you talking with
+someone just now?<PAGE><FACE_POS_LEFT><FACE_REINA><FACE_SHY><FP_LEFT>W-Well, actually...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_REINA><FACE_ANGRY><FP_LEFT>This is part of my research!
+It's not like I have anyone
+fun to talk to!<PAGE><FACE_POS_RIGHT><FACE_MAKO><FACE_SAD><FP_RIGHT>Fun to talk to...? Passion
+for your research is one
+thing, but...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_REINA><FACE_ANGRY><FP_LEFT>I said it was research,
+didn't I?<PAGE><FACE_POS_LEFT><FACE_REINA><FACE_SHY><FP_LEFT>A-Anyway, forget about
+it...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MAKO><FACE_SAD><FP_RIGHT>It seems that we showed up
+at the wrong time today.<PAGE><FACE_POS_LEFT><FACE_KANA><FACE_NORMAL><FP_LEFT>Yeah, looks like it. I just
+wanted to find some good
+feed for my horses...<PAGE><FACE_POS_LEFT><FACE_KANA><FACE_HAPPY><FP_LEFT>It's all good, though. I'll
+just drop by some other day.<PAGE><FACE_POS_RIGHT><FACE_MAKO><FACE_NORMAL><FP_RIGHT>My apologies.

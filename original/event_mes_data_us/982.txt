@@ -1,0 +1,76 @@
+<FACE_POS_LEFT><FACE_ASH><FACE_NORMAL><FP_LEFT>Hey, do you remember that
+lamb you helped me with
+the other day?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ASH><FACE_NORMAL><FP_LEFT>Ever since you talked to
+her, she hasn't tried to run
+away.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ASH><FACE_HAPPY><FP_LEFT>Hey, do you want to come
+and see her now?
+<PAGE>I know Snow would
+be happy to see you!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ASH><FACE_HAPPY><FP_LEFT>She really likes you.
+
+----------------------------|----------------------------------
+<CHOICE_AB> Protect Snow.
+ Watch what happens.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ASH><FACE_SHY><FP_LEFT>What was that?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ASH><FACE_SHY><FP_LEFT>I think that cow was just
+trying to make friends with
+Snow.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ASH><FACE_SAD><FP_LEFT>I know you've got a bond,
+but I think you're being a
+little overprotective.<PAGE><FACE_POS_LEFT><FACE_ASH><FACE_NORMAL><FP_LEFT>Helping out all the
+time isn't always right.<PAGE>It's important to let
+her stand on her own four
+legs sometimes.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ASH><FACE_HAPPY><FP_LEFT>Sorry. That was kind of
+obnoxious of me.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ASH><FACE_NORMAL><FP_LEFT>Oh, you've been here a
+while. You should probably
+be getting home.<PAGE>Thanks for coming today.
+
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_CHERYL><FACE_SAD><FP_LEFT>......
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ASH><FACE_HAPPY><FP_LEFT>You two seem to be getting
+along well.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ASH><FACE_NORMAL><FP_LEFT>I thought you might be the
+type who rushes in to help
+even when it's not needed.<PAGE><FACE_POS_LEFT><FACE_ASH><FACE_HAPPY><FP_LEFT>But you were wonderful.
+You really know the animals.
+I shouldn't have worried.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ASH><FACE_NORMAL><FP_LEFT>I really owe you my thanks.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ASH><FACE_NORMAL><FP_LEFT>For Snow, I mean.
+She's been doing so well
+since she met you...<PAGE><FACE_POS_LEFT><FACE_ASH><FACE_HAPPY><FP_LEFT>She's even getting along
+with the other animals now.<PAGE><FACE_POS_LEFT><FACE_ASH><FACE_NORMAL><FP_LEFT>Without your help, Snow
+might still be an unhappy
+little lamb.<PAGE><FACE_POS_LEFT><FACE_ASH><FACE_HAPPY><FP_LEFT>So I wanted to thank you.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ASH><FACE_NORMAL><FP_LEFT>You always make me realize
+just how far I have to go
+to be a great farmer.<PAGE><FACE_POS_LEFT><FACE_ASH><FACE_ANGRY><FP_LEFT>Trying to measure up to
+you is a great motivator!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ASH><FACE_HAPPY><FP_LEFT>I guess that's one of the
+reasons I'm always happy
+to spend time with you.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ASH><FACE_SHY><FP_LEFT>Oh no!
+I didn't realize how late
+it had gotten.<PAGE><FACE_POS_LEFT><FACE_ASH><FACE_HAPPY><FP_LEFT>Time always flies when I'm
+with you.<PAGE><FACE_POS_LEFT><FACE_ASH><FACE_NORMAL><FP_LEFT>Sorry to keep you so long.
+Let me walk you home.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_CHERYL><FACE_SAD><FP_LEFT>......

@@ -1,0 +1,627 @@
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>How are you today?
+I'm <BLUE>Rutger.</COLOR> I'm the mayor of
+Bluebell.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>That was some storm
+yesterday, wasn't it?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>How's it going there?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>How's it going there?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>How's it going there?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Well how about that?
+What a cute animal.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>I'd...really rather not be
+this close to that animal.
+I just don't like it.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>How's it going there?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>You'll want to give that
+feather to your sweetheart.
+
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Well now...a present?
+That's so kind of you,
+but I can't accept it.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Hmm, another gift?
+Oh, I couldn't accept
+anything else today.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>How's it going there?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>How's it going there?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>That's most definitely
+something you should hold
+onto.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Oh! <RED>Okara</COLOR>!
+For my birthday?<PAGE><FACE_POS_CENTER><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>This is my absolute
+favorite! How thoughtful.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Oh! <RED>Okara</COLOR>!
+For me?<PAGE><FACE_POS_CENTER><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>This is my absolute
+favorite! How thoughtful.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>How's it going there?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>How's it going there?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Oh, a birthday present?<PAGE><FACE_POS_CENTER><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>And such a nice gift, too.
+You're very thoughtful,
+<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Oh, for me?
+And such a nice gift, too.
+You're very thoughtful.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>A present for me?<PAGE><FACE_POS_CENTER><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Didn't know you knew my
+birthday.
+This is very nice.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>A present for me?
+Well, thank you very much.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>This is meant to be a gift?<PAGE>I was hoping for something
+a little better than this
+for my birthday.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>That's for me?<PAGE>I can't say I'm very
+grateful for this, but I'll
+take it anyway.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>That's for me? I can only
+think that this is some
+sort of prank. 
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>How's it going there?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>How's it going there?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>How's married life,
+<MYNAME>?<PAGE><FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>I know it takes work
+sometimes, but there's
+nothing more rewarding.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>It's dreadfully windy today!
+What are you doing out in
+weather like this!?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>You ought to be inside
+during a blizzard like
+this. You've got gumption!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>I don't know how this town
+would get along without you,
+<MYNAME>.<PAGE><FACE_POS_CENTER><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>You're such a hard worker.
+You know, you remind me of
+myself a little bit.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>You're a very good influence
+on the town, <MYNAME>.
+<PAGE>You really run a fine farm.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>It's always so nice to see
+you, <MYNAME>.<PAGE>And I know Rose has taken a
+fancy to you too, so you
+come on over any time.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>How's the work going,
+<MYNAME>?<PAGE>I know you're busy, but Rose
+loves it when you stop by
+to see us.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>How are things going?
+Running a farm can be
+awfully difficult.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>How's your farm going?
+Are you getting the hang
+of things?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Being the mayor isn't as
+easy as it looks, you know.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>How's it going there?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>How's it going there?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>How's it going there?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>How's it going there?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>How's it going there?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>How's it going there?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>How's it going there?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>How's it going there?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>How's it going there?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>How's it going there?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>How's it going there?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>How's it going there?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>How's it going there?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>How's it going there?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>How's it going there?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>How's it going there?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>How's it going there?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>How's it going there?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>How's it going there?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>How's it going there?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>How's it going there?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>How's it going there?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>How's it going there?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>How's it going there?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>How's it going there?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>How's it going there?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>How's it going there?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>How's it going there?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>How's it going there?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>How's it going there?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>How's it going there?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>How's it going there?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>How's it going there?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>How's it going there?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>How's it going there?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>How's it going there?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Hmmm...
+Now where are you going
+with that?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>How's it going there?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>How's it going there?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Is this your pet?
+It's quite cute.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>What an adorable animal.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Hey there, now!
+I don't know where you got
+that, but keep it away.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>There are all kinds of
+wild animals around here.<PAGE>We have to look after
+them.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>How's it going there?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>How's it going there?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>How's it going there?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>How's it going there?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>How's it going there?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>How's it going there?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>How's it going there?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>How's it going there?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>How's it going there?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>How's it going there?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>How's it going there?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>How's it going there?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Oh!
+Well that's right, it's
+Flower Day today! Thanks!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>How's it going there?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>How's it going there?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>How's it going there?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>How's it going there?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>How's it going there?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>How's it going there?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>A present for me?<PAGE>I love a nicely-wrapped
+gift!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Watching you work reminds me
+of myself when I was young.<PAGE>Not that I've slowed down
+much in my old age.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>How's it going there?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>How are things in Konohana?<PAGE>I still think this village
+would be a better fit for
+you...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Did you sleep well?
+Town Hall isn't such a bad
+place to stay, now is it?<PAGE>Come and stay here 
+whenever you want.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>How's it going there?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>How's it going there?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>A mayor must know what's
+happening in his village at
+all times.<PAGE>I like to walk around
+whenever I get the chance.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>I like to take a nice stroll
+around the town on my days
+off.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Hello there, <MYNAME>.
+Doing some shopping?
+Have a good time.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>How's it going there?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>How's it going there?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>How's it going there?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>How's it going there?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>How's it going there?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>How's it going there?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>How's it going there?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>How's it going there?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>How are you settling in?
+<PAGE>Feel free to come talk to
+me if you need any help.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>You should enter the next
+Cooking Festival.
+I'm looking forward to it!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Did you enjoy today's
+Cooking Festival?<PAGE>Next time you should
+enter yourself...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>How's it going there?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>How's it going there?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Too bad you didn't win.
+But there's always next
+time, you know!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>How's it going there?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Too bad you didn't win.<PAGE>But you can always get
+better. I'm sure you
+learned a lot. Good luck!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>We've got a fun event today,
+but you're a little early.
+<PAGE>Come back and talk to me
+a little later.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>You should enter next time.
+I'm counting on you!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>How's it going there?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Too bad you didn't win.
+But you haven't been
+farming for very long.<PAGE>I know you'll do
+better next time.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>How's it going there?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>How's it going there?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>How's it going there?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>How's it going there?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>How's it going there?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>How's it going there?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>How's it going there?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>How's it going there?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>How's it going there?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>How's it going there?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>How's it going there?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>How's it going there?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>How's it going there?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>How's it going there?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>How's it going there?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>How's it going there?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>How's it going there?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>How's it going there?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>How's it going there?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Enter <VAR_2>?<PAGE><CHOICE_AB> Yes.
+ I changed my mind.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Well then, pick the animal
+you want to enter.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Hello there, <MYNAME>.<PAGE>Today is our
+<VAR_0>.
+<PAGE>I'm really sorry, but you
+can't participate in it.
+
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Come talk to me when you're
+ready.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>And now it's time to start
+the <VAR_0>.
+<PAGE>What do you want to do?
+----------------------------|----------------------------------
+<CHOICE_ABC> I'm in!
+ I'll cheer you all on!
+ I'm not quite ready.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Now let's begin!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>So I'd like to get started
+here, but...<PAGE>You can't do anything while
+you're holding that.<PAGE><FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Come back after you put
+away what you're holding.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>If you want to compete, talk
+to me while you're holding
+the item you want to enter.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>So let's see what you've
+brought here...<PAGE>Hmm, this isn't very fresh.
+<PAGE>You'll have to use something
+a bit fresher. Sorry.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Now then, before we begin,
+let me take a look at
+your bag.<PAGE>Hmm... It looks like your
+bag is full.<PAGE>You might win a prize, so
+come talk to me after you
+clear some space in there.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Well now, you're from the
+other village, aren't you?<PAGE>You'll have to go talk to
+Ina.
+----------------------------|----------------------------------
+<CHOICE_AB> Let's start.
+ Hold on.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>You can't enter that
+<VAR_2>.
+Please chose another.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>How's it going there?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Today's the Animal Festival,
+but you can't enter any of
+the animals you have.<PAGE>I'm sorry, but you can't
+compete this time.
+
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>How's it going there?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>How's it going there?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>How's it going there?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>How's it going there?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>How's it going there?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>How's it going there?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Good morning, <MYNAME>.
+You seem to be doing well.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Good morning, <MYNAME>.
+What are you up to today?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Oh, good morning...
+You caught me lost in
+thought...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Hey there, <MYNAME>.
+How's it going?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Hello there.
+How's it going?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Oh, <MYNAME>.
+How are you today?
+
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Good evening.
+You're up late.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Good evening, <MYNAME>.
+You're working so late!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Good evening. Now don't
+stay up too late. Early
+to bed, early to rise...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>How's it going there?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>How's it going there?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>How's it going there?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>If you want to stay here,
+use the guest book
+on the counter.<PAGE>For anything else, talk to
+me across the counter.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>I'm a mayor, but I'm also
+an innkeeper.<PAGE>If you want to stay here,
+use the guest book
+on the counter.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>If you need something,
+come up to the counter to
+talk to me.<PAGE>If you want to stay here,
+use the guest book
+on the counter.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Oh, <MYNAME>.
+Taking a break?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>The food here is wonderful.
+Go ahead and order
+something, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Howard is a little strange,
+but...<PAGE>He's the best cook in the
+world. And I'd know.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>This village has a tradition
+of raising the finest
+livestock.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>This village has a tradition
+of raising the finest
+livestock.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>This village has a tradition
+of raising the finest
+livestock.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>How's it going there?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>How's it going there?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>How's it going there?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>How's it going there?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>How's it going there?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>How's it going there?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>How's it going there?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>How's it going there?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>How's it going there?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>I had so much fun!<PAGE>Today's Cooking Festival
+was a big victory for
+Bluebell!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Today's Cooking Festival
+was so much fun.<PAGE>There are so many fine
+chefs in our village.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Oh, <MYNAME>, so
+you came to celebrate...<PAGE>I love it when we win the
+Cooking Festival...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Well now, today was a lot
+of fun!<PAGE><FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>But tomorrow it's back to
+work!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Today's <VAR_0>
+was wonderful!<PAGE>As the mayor, I just love
+to see everyone enjoying
+themselves!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Did you have fun today,
+<MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Congratulations, <MYNAME>!
+Your crops are wonderful!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Well now, congratulations!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Well now, congratulations!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Well now, today was a lot
+of fun!<PAGE><FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>But tomorrow it's back to
+work!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Today's <VAR_0>
+was wonderful!<PAGE>As the mayor, I just love
+to see everyone enjoying
+themselves!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Wasn't today fun?
+I just love seeing
+everyone together.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Congratulations!
+
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Congratulations, <MYNAME>!
+I've never seen someone
+so skillful as you!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Good job, <MYNAME>!
+No one could beat you.
+I'm impressed!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Congratulations, <MYNAME>!
+Your <VAR_2>
+was incredible!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Congratulations!
+You're a real farmer now!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>All your hard work
+paid off today!
+<PAGE>Keep up the good work!

@@ -1,0 +1,619 @@
+<FACE_POS_CENTER><HIDE_NAME><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Oh, dan siapa kamu itu?
+Kapan kamu ada disini?<PAGE><FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Aku <BLUE>Eileen</COLOR>.
+Sungguh menyenangkan untuk
+bertemu denganmu!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Cuaca kemarin itu sungguh
+buruk! Aku harap rumahmu
+tidak ambruk.<PAGE>Aku akan membantumu dengan
+hal memperbaikinya.
+Jadi tinggal minta saja!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Kerja, kerja, kerja!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Kerja, kerja, kerja!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Kerja, kerja, kerja!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_HAPPY><FP_RIGHT>ooh, lucunya! Aku sungguh
+menyukainya!<PAGE>Aku harap bisa memiliki
+hewan peliharaan seperti
+ini...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Maaf, itu bukan binatang
+kesukaanku.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Kerja, kerja, kerja.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_HAPPY><FP_RIGHT>Ooh, bulu yang indah!
+Dapatkah kamu beritahu
+bagaimana mendapatkannya?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Ooh, sebuah hadiah?
+Maaf. Aku merasa aneh aja
+disaat menerimanya.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Hadiah untuk hari ini?<PAGE>Maaf. Itu sudah terlalu
+banyak dihari ini.
+Makasih.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Kerja, kerja, kerja.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Kerja, kerja, kerja.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Hmm... Kamu tidak membutuh-
+kannya? Kenapa memberikan
+itu kepadaku?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_HAPPY><FP_RIGHT>Oh! 
+Sebuah hadiah ulang tahun?<PAGE>Nah ini sesuai dengan
+harapanku! Terima kasih
+banyak!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_HAPPY><FP_RIGHT>Ooh, baunya...
+Oh, <RED>haruman musim
+semi</COLOR>?!<PAGE>Apakah ini untukku?
+Terima kasih banyak!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Kerja, kerja, kerja.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Kerja, kerja, kerja.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Wah sebuah hadiah ulang
+tahun yang bagus!
+Terima kasih banyak!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Ooh, ini sungguh menyenang-
+kan! Apa? Itu untukku?
+Terima kasih banyak!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Oh, Sebuah hadiah
+ulang tahun?
+Terima kasih banyak!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Terima kasih banyak!
+Betapa baiknya kamu itu.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_SAD><FP_RIGHT>Apa!? Apakah ini sebuah
+hadiah ulang tahun?<PAGE>Apakah kamu memberikan ini
+karena tidak membutuhkan-
+nya kan?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_SAD><FP_RIGHT>Apakah aku sudah membuatmu
+marah?<PAGE>Kenapa kamu memberikan ini
+kepadaku?
+Itu sudah keterlaluan.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_SAD><FP_RIGHT>Oh... Hadiah ini
+sungguh membuatku sedih.<PAGE>Apa yang pernah kulakukan
+terhadap dirimu itu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Kerja, kerja, kerja.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Kerja, kerja, kerja.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_HAPPY><FP_RIGHT>Kamu itu tampak lebih ceria
+setelah menikah, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_ANGRY><FP_RIGHT>Aku hanya tidak menyukai
+angin topan karena itu bisa
+merusak rumah, pastinya<PAGE>kamu tahu!
+Bagaimana anginnya bisa
+mengembalikan kekondisi<PAGE>awal pada kerja kerasku
+untuk membangunnya!<PAGE>Terkadang alam ini bisa
+melakukan hal mengerihkan
+seperti itu!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_HAPPY><FP_RIGHT>Saat aku masih kecil, pada
+saat musim dingin selalu
+bermain banteng yang ter-<PAGE>buat dari salju.
+Sepertinya aku akan membuat-
+nya dihari ini!<PAGE>Pastinya itu akan tampak
+keren, bagaimana pendapatmu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_HAPPY><FP_RIGHT>Aku sungguh bahagia karena
+kita ini menjadi teman yang
+akrab, <MYNAME>.<PAGE>Aku harap kita dapat selalu
+membicarakan segalanya.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_HAPPY><FP_RIGHT>Ada seseorang yang aku
+sukai.<PAGE>Dia itu agak aneh, tapi dia
+itu sungguh seorang pengera-
+jin yang hebat. Hee hee hee!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Orang-orang mengatakan bahwa
+aku itu kerjanya sungguh
+ceroboh.<PAGE>Tapi aku tidak pernah mem-
+buat suatu kesalahan!<PAGE>Itulah yang membuat aku
+tampak tidak peduli!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Oh tidak. Aku kelaparan di-
+beberapa jam yang lalu,
+dan aku tidak merasakannya.<PAGE>Aku akan mengingat untuk
+makan sesuatu disaat ada
+kesempatan...<PAGE>Tidak disaat ini, karena
+masih ada yang harus di-
+lakukan!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Aku sungguh senang menjadi
+orang pengerajin kayu.<PAGE>Itu membuatku senang
+untuk membangun sesuatu
+yang kuidam-idamkan.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_SAD><FP_RIGHT>Huh? Dimanakah aku
+menaruh perkakasku itu?<PAGE>Hmm, tampaknya menghilang
+lagi alatnya.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Oh tidak, apa itu?
+Maaf, aku sedang sibuk.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Kerja, kerja, kerja.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Kerja, kerja, kerja.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Kerja, kerja, kerja.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Kerja, kerja, kerja.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Kerja, kerja, kerja.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Kerja, kerja, kerja.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Kerja, kerja, kerja.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Kerja, kerja, kerja.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Kerja, kerja, kerja.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Kerja, kerja, kerja.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Kerja, kerja, kerja.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Kerja, kerja, kerja.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Kerja, kerja, kerja.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Kerja, kerja, kerja.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Kerja, kerja, kerja.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Kerja, kerja, kerja.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Kerja, kerja, kerja.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Kerja, kerja, kerja.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Kerja, kerja, kerja.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Kerja, kerja, kerja.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Kerja, kerja, kerja.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Kerja, kerja, kerja.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Kerja, kerja, kerja.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Kerja, kerja, kerja.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Kerja, kerja, kerja.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Kerja, kerja, kerja.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Kerja, kerja, kerja.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Kerja, kerja, kerja.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Kerja, kerja, kerja.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Kerja, kerja, kerja.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Kerja, kerja, kerja.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Kerja, kerja, kerja.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Kerja, kerja, kerja.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Kerja, kerja, kerja.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Kerja, kerja, kerja.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Kerja, kerja, kerja.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Apa itu?
+Oh, untuk festival?
+Semoga beruntung!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Kerja, kerja, kerja.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Kerja, kerja, kerja.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Lucunya!
+Dan cukup pendiam...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_HAPPY><FP_RIGHT>Oh tidak!
+Betapa menggemasnya ini!
+Aku menginginkannya juga!<RED>❤</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_ANGRY><FP_RIGHT>Ini sama sekali tidak imut.
+Kenapa kamu mempertunjuk-
+kannya kepadaku?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Hari ini aku juga melihatnya
+, Aku sungguh terkesan bahwa
+kamu bisa menangkapnya!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Kerja, kerja, kerja.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Kerja, kerja, kerja.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Kerja, kerja, kerja.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Kerja, kerja, kerja.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Kerja, kerja, kerja.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Kerja, kerja, kerja.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Kerja, kerja, kerja.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Kerja, kerja, kerja.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Kerja, kerja, kerja.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Kerja, kerja, kerja.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Kerja, kerja, kerja.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Kerja, kerja, kerja.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_HAPPY><FP_RIGHT>Ooh, betapa baiknya!<RED>❤</COLOR>
+Terima kasih banyak,
+<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Kerja, kerja, kerja.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Kerja, kerja, kerja.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Kerja, kerja, kerja.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Kerja, kerja, kerja.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Kerja, kerja, kerja.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Kerja, kerja, kerja.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Apa ini? Aku tidak sabar
+untuk membukanya!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_HAPPY><FP_RIGHT>Aku sudah menganggapmu
+sebagai adik kecilku,
+kamu juga smaa kan?<PAGE>Aku merasakan bahwa kita
+bisa saling diandalkan.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Kerja, kerja, kerja.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Aku menyukai bangunan yang
+ada didesa kamu tinggali,
+<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Kerja, kerja, kerja.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Kerja, kerja, kerja.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Kerja, kerja, kerja.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Disaat aku beristirahan di-
+sini, sepertinya waktu se-
+akan-akan melambat.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_HAPPY><FP_RIGHT>Hari ini adalah hari libur-
+ku! Apa yang akan kulakukan?
+Hee hee!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_HAPPY><FP_RIGHT>Aku sungguh menikmatinya di-
+saat aku memutuskan tinggal
+disini.<PAGE>Aku dapat merasakan stessku
+hilang entah kemana.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Nah ini dia!
+Panjat gunung!
+Itu olah raga yang bagus!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_HAPPY><FP_RIGHT>Sheng itu sungguh seorang
+pengerajin yang hebat.<PAGE>Aku sungguh menghargainya.
+Sebagai sesama pengerajin
+tentunya...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Kerja, kerja, kerja.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Kerja, kerja, kerja.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Kerja, kerja, kerja.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Kerja, kerja, kerja.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Kerja, kerja, kerja.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Kerja, kerja, kerja.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_HAPPY><FP_RIGHT>Jadi kita menang, huh?
+Terima kasih atas dukungan-
+nya! Itu sunguh menggelegar!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_SAD><FP_RIGHT>Jadi kita kalah, huh?
+Namun, terima kasih atas
+dukungannya.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Mari datang kedesa kita
+untuk festival memasak
+selanjutnya!<PAGE>Kita membutuhkan bantuanmu!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Kerja, kerja, kerja.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Kerja, kerja, kerja.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_SAD><FP_RIGHT>Kita kalah!
+Aku sungguh kaget atas hal
+itu!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Kerja, kerja, kerja.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Sekarang ini jangan bersedih
+seperti itu, semua orang
+juga pernah melakukan<PAGE>sebuah kesalahan.
+Lihat aku, Aku juga sering
+membuat kesalahan.<PAGE>Jadi cerialah!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_HAPPY><FP_RIGHT>Ini adalah hari festival!
+Diperutku banyak suara
+yang keluar.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_HAPPY><FP_RIGHT>Kamu tidak mengikutinya?
+Itu sungguh disayangkan!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Kerja, kerja, kerja.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Sungguh disayangkan.
+Aku sudah mendukungmu, tapi
+itu sungguh disayangkan.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Kerja, kerja, kerja.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Kerja, kerja, kerja.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Kerja, kerja, kerja.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Kerja, kerja, kerja.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Kerja, kerja, kerja.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Kerja, kerja, kerja.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Kerja, kerja, kerja.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Kerja, kerja, kerja.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Kerja, kerja, kerja.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Kerja, kerja, kerja.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Kerja, kerja, kerja.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Kerja, kerja, kerja.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Kerja, kerja, kerja.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Kerja, kerja, kerja.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Kerja, kerja, kerja.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Kerja, kerja, kerja.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Kerja, kerja, kerja.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Kerja, kerja, kerja.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Kerja, kerja, kerja.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Kerja, kerja, kerja.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Kerja, kerja, kerja.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Aku sungguh bersemangat
+untuk festival hari ini!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Kerja, kerja, kerja.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Kerja, kerja, kerja.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Kerja, kerja, kerja.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Kerja, kerja, kerja.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Kerja, kerja, kerja.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Kerja, kerja, kerja.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Kerja, kerja, kerja.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Kerja, kerja, kerja.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Kerja, kerja, kerja.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Kerja, kerja, kerja.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Kerja, kerja, kerja.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Kerja, kerja, kerja.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Kerja, kerja, kerja.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Kerja, kerja, kerja.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Kerja, kerja, kerja.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Kerja, kerja, kerja.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Kerja, kerja, kerja.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Kerja, kerja, kerja.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Kerja, kerja, kerja.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Selamat pagi...
+*Yaaawn*
+Aku sungguh capeeeekk...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Selamat pagi,
+<MYNAME>!
+*Yawn*<PAGE>Aku senang kalau sudah pagi,
+tapi aku agak kesusahan
+untuk bangun pagi.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT><MYNAME>!
+Selamat pagi!<PAGE>Aku suka akan pagi hari,
+apapun cuacanya.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Halo! Ooh, saat ini
+aku kecapek-an.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_HAPPY><FP_RIGHT><MYNAME>!<PAGE>Halo! Oke-oke,
+waktunya untuk serius untuk
+bekerja dihari ini!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_HAPPY><FP_RIGHT>Halo, <MYNAME>!
+Kamu tampaknya baik-baik
+saja!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Halo!
+Bagaimana kegiatanmu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Halo, <MYNAME>!
+Apakah pekerjaanmu sudah
+selesai?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Selamat Malam, <MYNAME>!<PAGE>Aku selalu kelaparan dijam-
+jam ini.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Kerja, kerja, kerja.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Kerja, kerja, kerja.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Kerja, kerja, kerja.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Ooh, kamu ingin melakukan
+pekerjaan itu untukmu?<PAGE>Tinggal pesan saja didepan
+konter. oke?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Selamat datang!
+Bicara denganku didepan
+konter jika mau memesan.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_HAPPY><FP_RIGHT>Kerja, kerja, kerja.
+Itu sungguh menyenangkan!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_HAPPY><FP_RIGHT>Makanan Howard itu sungguh
+luar biasa enaknya!
+Tungguh sebentar ya.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Makanan disini sungguh enak!
+Apakah kamu setuju?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Makanan disini sungguh enak!
+Aku akan merekomendasi
+semua menunya.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Aku hanya beristirahant
+sejenak disini.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_HAPPY><FP_RIGHT>Aku selalu merasa seperti
+ada nenekku disini. Aku
+merasa damai.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Disini ini tempat rekreasi
+para warga desa.<PAGE>Jadi beristirahan disini
+bersamaku, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Kerja, kerja, kerja.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Kerja, kerja, kerja.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Kerja, kerja, kerja.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Kerja, kerja, kerja.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Kerja, kerja, kerja.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Kerja, kerja, kerja.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Kerja, kerja, kerja.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Kerja, kerja, kerja.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Kerja, kerja, kerja.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_HAPPY><FP_LEFT>Selamat, <MYNAME>.
+Itu sungguh luar biasa!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_HAPPY><FP_RIGHT>Aku harap aku bisa memasak
+sebaik dirimu itu.
+Itu sungguh luar biasa!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_HAPPY><FP_RIGHT>Kamu itu sungguh luar biasa!
+Aku tidak pernah melihat
+masakan seenak itu!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_HAPPY><FP_RIGHT>Festivalnya cukup menyenang-
+kan! Sekarang saatnya
+bersih bersih.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_HAPPY><FP_RIGHT>Festivalnya sungguh hebat!
+<MYNAME>, apakah kamu
+juga menikmatinya?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Sekarang festivalnya sudah
+selesai, akhirnya aku
+merasa lebih lega sekarang.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Kerja, kerja, kerja.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Kerja, kerja, kerja.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Kerja, kerja, kerja.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_HAPPY><FP_RIGHT>Ini sebuah festival yang
+bagus!
+Heh heh?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_HAPPY><FP_RIGHT>Festival yang bagus.
+Itu sungguh indah.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Festival yang melelahkan.
+Aku tidak sabar untuk
+tahun depan.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Oh, kamu sudah menang-
+kap sangat banyak!
+Sungguh luar biasa!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_LEFT>Selamat!
+Kamu luar biasa!
+Kamu bintangnya!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Anak-anak selalu menyukai
+festival ini.<PAGE>Oh, aku tidak bermaksud
+mengatakan kamu masih
+anak-anak, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Kebunmu itu sungguh luar
+biasa, <MYNAME>.<PAGE>Aku yakin kemenanganmu itu
+berasal dari teknik petani
+luar biasamu.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_HAPPY><FP_RIGHT><VAR_2> Milikmu
+itu sungguh lucu! Aku ingin
+memeluknya!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Kedepannya apa bisa aku me-
+melihara hewan peliharaanmu,
+<VAR_2>? Janji ya!

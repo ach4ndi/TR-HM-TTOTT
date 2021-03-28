@@ -1,0 +1,69 @@
+<FACE_POS_LEFT><FACE_HGODDES><FACE_HAPPY><FP_LEFT>Ciluuk.. Baaa..<PAGE>Selamat atas pernikahanmu
+ini!<PAGE>Eh...
+aku kan biasanya teriak
+telolelolet...<PAGE>kok malah ciluuk baa wkwkwk
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_SHY><FP_RIGHT>S-S-Si-S-Siapa kau ini?<PAGE>Perasaan aku selama hidup
+ini aku tidak pernah meli-
+hat makhluk satu ini...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_HGODDES><FACE_NORMAL><FP_LEFT>Hmmm? Kau tidak tahu siapa
+aku? Betapa sialnya kau ini!<PAGE><FACE_POS_LEFT><FACE_HGODDES><FACE_HAPPY><FP_LEFT>Aku adalah Dewi Panen
+yang hebat!<PAGE>Kalian berdua menikah tanpa
+ada saksi dan penghulu,
+itu sangat menyedihkan!<PAGE>Jadi aku datang kemari
+untuk membantu kalian!<PAGE><FACE_POS_LEFT><FACE_HGODDES><FACE_NORMAL><FP_LEFT>Tidak perlu pesta besar!
+Langsung saja!<PAGE>Mari kita mulai acara
+pernikahan ini!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_SHY><FP_RIGHT>Uh... Okeee...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_HGODDES><FACE_NORMAL><FP_LEFT>Oke kamu yang pertama,
+<MYNAME>!<PAGE>Apakah kamu akan mencintai-
+nya sepanjang hidupmu dan
+membentuk keluarga yang<PAGE>bahagia bersamanya?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_HGODDES><FACE_NORMAL><FP_LEFT>Dan sekarang kamu!<PAGE>Akankah kamu mencintai 
+<MYNAME> sepanjang hidupmu
+dan membentuk keluarga yang<PAGE>bahagia bersamanya? <PAGE><FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>Ya, ya, ya, IYAAAA!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_HGODDES><FACE_HAPPY><FP_LEFT>Maka dengan nama... eh er
+dengan aku sendiri, dengan
+ini kunyatakan kalian<PAGE>sebagai suami istri!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_SHOCK><FP_RIGHT><MYNAME>...
+Aku sangat, sangat,
+sangat senaaaaang!!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_HGODDES><FACE_NORMAL><FP_LEFT>Ini ada sesuatu dari dewi
+panen faoritmu untuk menye-
+lamati pernikahan kamu.<PAGE><FACE_POS_LEFT><FACE_HGODDES><FACE_HAPPY><FP_LEFT>Ambil ya!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_SHOCK><FP_RIGHT>Sekarang kalian berdua akan
+memulai hidup baru bersama.
+B-E-R-S-A-M-A!!<PAGE>Apakah kita harus punya
+nama panggilan spesial
+satu sama lain. iya kan?<PAGE><FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>Untukku...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>Mulai sekarang, panggil aku...\u270a\u270a<FACE_POS_RIGHT><FACE_ULYSSA><FACE_SHOCK><FP_RIGHT><BLUE>Ulyssa</COLOR>!
+Ya, ooh ya, Panggil aku
+dengan nama itu!<PAGE>Bagaimana aku memanggilmu
+<MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT><MYNICKNAME>?
+Itu yang kamu inginkan?
+----------------------------|----------------------------------
+<CHOICE_AB> Ya. Aku yakin.
+ Aku berubah pikiran.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>Wokkeh, semuanya sudah
+diatur ... ♪<PAGE><FACE_POS_RIGHT><FACE_ULYSSA><FACE_SHOCK><FP_RIGHT>Jagalah aku selalu...
+Kapanpun dan dimanapun..
+<MYNICKNAME>...<RED>❤</COLOR>
+----------------------------|----------------------------------
+Ini adalah permulaan dari
+kehidupan baru kita!<PAGE>Kita akan menikmati hari ini
+dan bekerja lagi besok!
+----------------------------|----------------------------------
+<CHOICE_AB> Tidur kemudian simpan.
+ Tidur tanpa menyimpan.

@@ -1,0 +1,63 @@
+<FACE_POS_LEFT><FACE_ASH><FACE_HAPPY><FP_LEFT>Georgia takes such good
+care of her horses.<PAGE>She makes sure to give
+each one all the love and
+attention it needs.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ASH><FACE_NORMAL><FP_LEFT>So we have this new lamb
+now called Snow...<PAGE>She likes to run away. If
+you take your eyes off her
+for a second, she's gone!<PAGE>I guess she still misses
+her parents. Poor thing.<PAGE>She doesn't seem to be
+getting along with the 
+other animals yet.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_SHY><FP_RIGHT>Oh no! And there she is now.
+Looks like she got out
+again.
+----------------------------|----------------------------------
+<CHOICE_AB> Push her back to her pen.
+ Try and talk to her.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_SHY><FP_RIGHT>Hey, stop it!
+Now she's totally stressed
+out.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>I can't believe it.
+What did you say to Snow?
+<PAGE>I've never seen anyone
+reason with a lamb before.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_SAD><FP_RIGHT>But the way you tried to
+force her back into her
+pen at first hurt to watch.<PAGE>I could tell from Snow's
+cries that she was really
+scared.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL><FP_RIGHT>Oh well.
+I'm glad she went
+back to her pen.<PAGE><FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>Thanks, <MYNAME>.<PAGE><FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL><FP_RIGHT>Well, I want to check on
+Snow, so I should be
+getting home.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_CHERYL><FACE_SAD><FP_LEFT>.........
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL><FP_RIGHT>I can't believe it.
+What did you say to Snow?
+<PAGE>I've never seen anyone
+reason with a lamb before.
+<PAGE><FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>You're amazing, <MYNAME>!
+You've really got a way
+with animals.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL><FP_RIGHT>I can't believe she just
+headed off to her pen on
+her own.<PAGE><FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>Thanks, <MYNAME>.<PAGE>It looks like there are some
+things I could learn from
+you about animal care!<PAGE><FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL><FP_RIGHT>Alright! Well, I want to
+check on Snow, so I should
+be getting home.<PAGE><FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>Thanks! Let's hang out
+again soon. See you
+later, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_CHERYL><FACE_SAD><FP_LEFT>......

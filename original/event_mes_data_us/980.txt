@@ -1,0 +1,59 @@
+<FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL><FP_RIGHT>How's the farming going?<PAGE><FACE_POS_RIGHT><FACE_ASH><FACE_SHY><FP_RIGHT>Not getting overwhelmed,
+are you?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>You work so hard. I wish I
+could be more like you!<PAGE><FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL><FP_RIGHT>But don't strain yourself.
+If things get to be too 
+tough, come talk to me.<PAGE>I'm always happy to give
+you a hand.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>There you are, Ash!
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CHERYL><FACE_HAPPY><FP_RIGHT>Come play with me!
+You promised you'd
+play with me today!<PAGE><FACE_POS_LEFT><FACE_ASH><FACE_NORMAL><FP_LEFT>What? Oh yeah!
+You're right, I did!<PAGE><FACE_POS_RIGHT><FACE_CHERYL><FACE_SAD><FP_RIGHT>Ash, did you forget?
+<PAGE><FACE_POS_LEFT><FACE_ASH><FACE_SHY><FP_LEFT>Sorry.<PAGE><FACE_POS_LEFT><FACE_ASH><FACE_NORMAL><FP_LEFT>But I'm talking to <MYNAME>
+right now. We'll play in a
+little while, okay?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CHERYL><FACE_SAD><FP_RIGHT>\u20d0WHAT!?<PAGE><FACE_POS_RIGHT><FACE_CHERYL><FACE_ANGRY><FP_RIGHT>Nooo!
+Play with me noow!<PAGE><FACE_POS_LEFT><FACE_ASH><FACE_NORMAL><FP_LEFT>Uh...
+----------------------------|----------------------------------
+<CHOICE_AB> Play with me instead!
+ You can play with her.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ASH><FACE_SHY><FP_LEFT>You too, <MYNAME>?<PAGE><FACE_POS_RIGHT><FACE_CHERYL><FACE_ANGRY><FP_RIGHT>Grr...
+I'm playing with my
+brother today! Not you!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_ANGRY><FP_RIGHT>Hey, hold on!
+Oh man!
+Stop it！
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_SHY><FP_RIGHT>Sorry, <MYNAME>.
+I guess I have to go
+play with Cheryl today.<PAGE>We'll take a raincheck,
+okay?<PAGE><FACE_POS_RIGHT><FACE_ASH><FACE_SAD><FP_RIGHT>I'm really sorry.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CHERYL><FACE_HAPPY><FP_RIGHT>Yay!<RED>❤</COLOR>
+Let's go!
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>Okay, okay...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL><FP_RIGHT>Huh? But...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>Okay. Thanks.
+Sorry Cheryl's being such
+a brat.<PAGE><FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL><FP_RIGHT>We'll take a raincheck,
+okay?<PAGE>Next time, let's talk more.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CHERYL><FACE_HAPPY><FP_RIGHT>Okay, let's go!
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>Okay, okay...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL><FP_RIGHT>I'll see you later,
+<MYNAME>.

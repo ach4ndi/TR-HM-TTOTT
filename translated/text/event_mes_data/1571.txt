@@ -1,0 +1,35 @@
+<FACE_POS_RIGHT><FACE_YUN><FACE_NORMAL>Selamat datang ke rumah teh.
+Apa yang bisa dibantu?<INPUT_KEYPAD>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_YUN><FACE_NORMAL><CHOICE_AB> Lihat daftar makanan.
+ Lupakan.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_YUN><FACE_NORMAL>Oh oke. Silahkan datang
+kesini nanti, kalau gitu.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_YUN><FACE_SAD>Oh, maaf. uang kamu
+tidak mencukupi.<INPUT_KEYPAD>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_YUN><FACE_HAPPY>Ini sudah datang. Aku harap
+kamu menikmatinya.<INPUT_KEYPAD>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_YUN><FACE_SAD>Hm?
+Tas kamu terlihat penuh.
+<INPUT_KEYPAD>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_YUN><FACE_NORMAL>Apa kamu berubah pikiran?
+Apa yang kamu butuhkan?<INPUT_KEYPAD>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_YUN><FACE_NORMAL>Itu harganya <RED><VAR_0>G</COLOR>.
+<CHOICE_AB> Beli.
+ Tidak,makasih.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_YUN><FACE_NORMAL>Itu jadinya <RED><VAR_1>G</COLOR>
+untuk tiap <VAR_0>.
+Berapa banyak kamu inginkan?<INPUT_KEYPAD>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_YUN><FACE_SAD>Maafkan aku, aku hanya
+mempunyai 1 biji saja...
+<INPUT_KEYPAD>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_YUN><FACE_NORMAL>No item left MSG

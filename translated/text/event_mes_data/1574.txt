@@ -1,0 +1,122 @@
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL>Selamat datang ke 
+balai desa Konohana. Apa
+yang bisa aku bantu?<INPUT_KEYPAD>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><CHOICE_ABC> Aku ingin pindah.
+ Aku ingin tour desa.
+ Lupakan.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_SAD>Kamu hanya dapat mengisi
+formulir perpindah disekitar
+tanggal 23 dan 30.<PAGE>Datang kembali kesini jika
+pada tanggal tersebut.
+Makasih.<INPUT_KEYPAD>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL>Jika kamu ingin mengganti
+gerobakmu, kamu hanya dapat
+menggantinya dirumahmu.<INPUT_KEYPAD>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL>Jika kamu membutuhkan bantu-
+an, kamu bisa bilang keaku.
+Aku akan senang membantumu.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_HAPPY>Oke. Jika kamu tertarik
+tinggal di Konohana, kita
+akan senang menerimamu!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><CHOICE_AB> Aku ingin tur desa.
+ Lupakan saja.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL>Apa kamu ingin pindah?
+<CHOICE_AB> Ya.
+ Tidak.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_SAD>Kamu tidak bisa pindah di-
+saat kamu sedang hamil. Aku
+tidak ingin kamu kenapa2.<INPUT_KEYPAD>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_SAD>Apakah istrimu sedang hamil?
+Aku tidak ingin istrimu
+kenapa-kenapa, jadi kamu<PAGE>tidak bisa pindah saat ini.
+Tunggu istrimu melahirkan!
+oke?<INPUT_KEYPAD>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_SAD>Apakah hewan ternakmu sedang
+hamil? Aku rekomendasikan
+menunggunya melahirkan!<INPUT_KEYPAD>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_SAD>Rumah didesa lain belum di
+perlebar. Kamu tidak dapat
+pindah kesana.<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL>Jika kamu memperlebar rumah
+didesa lainnya, kamu dapat
+pindah.<PAGE>Apa kamu ingin
+memperlebarkannya?<PAGE>Biayanya <RED><VAR_0>G</COLOR>.
+<CHOICE_AB> Ya.
+ Tidak saat ini.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_SAD>Semua permintaan yang kamu
+ambil akan dibatalkan semua-
+nya disaat kamu pindah.<PAGE>Apa itu tidak apa apa?
+<CHOICE_AB> Ya! gak pa pa!
+ Oh tidak!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_HAPPY>Ayo pergi sekarang!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL>Ini saatnya kamu pindah!<PAGE>Apa kamu yakin?
+<CHOICE_AB> Aku siap!
+ Tidak.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_HAPPY>Apakah kamu berubah pikiran?
+Sebenarnya aku senang men-
+dengarnya. Ada yang lainnya?<INPUT_KEYPAD>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL>Disana tidak ada tempat yang
+cukup untuk binatang didalam
+rumah didesa lain.<PAGE>Pilih <RED>salah satu diantara
+nya untuk bersamamu</COLOR>. 
+Yang lainnya tetap disimpan.<INPUT_KEYPAD>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL>Semua binatang yang kamu
+tinggalkan akan kembali ke
+kandang didesa lainnya.<INPUT_KEYPAD>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_HAPPY>Apakah kamu berubah pikiran?
+Aku senang mendengarnua!
+Aku bisa berjumpa lagi!<INPUT_KEYPAD>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL>Well, kamu bisa berbicarakan
+nya disaat kapapun 
+kamu siap.<INPUT_KEYPAD>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL>Biaya untuk pindah
+sebesar <RED><VAR_0>G</COLOR>.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL>Aku membutuhkanmu untuk me-
+nyelesaikan itu sebelum kamu
+pindah kedesa lain.<INPUT_KEYPAD>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_HAPPY>Bagus!!! Tinggal disini
+selama-lamanya kalau bisa.<PAGE>Kamu selalu dapat pindah
+di bulan depan.<INPUT_KEYPAD>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_SAD>Kelihatannya kamu tidak
+memiliki uang yang cukup...<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL>Disayangkan. Tapi kamu
+bisa selalu bisa pindah
+kapan-kapan dibulan depan.<INPUT_KEYPAD>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_SAD>Apakah diwaktu dekat ada
+jadwal pernikahanmu kan?<PAGE>Kelihatannya tidak tepat
+untuk pindah kedesa lain
+pada waktu ini.<INPUT_KEYPAD>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_SAD>Sepertinya ada permintaanmu
+yang belum mendapatkan
+hadiah.<INPUT_KEYPAD>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL>Kamu barusan pindahankan?<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_HAPPY>Sisakan waktumu untuk menge-
+tahui tempat-tempat didesa
+ini!<INPUT_KEYPAD>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL>Huh? Apa sudahan?
+<CHOICE_AB> Ya.
+ Tidak.

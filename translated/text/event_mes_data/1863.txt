@@ -1,0 +1,109 @@
+<FP_NONE>Tanya tentang permintaan?
+<CHOICE_AB> Ya
+ Tidak
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>Bagus, kamu melihat permin-
+taanku dipapan pesan,
+benarkan?<PAGE>Jadi, mari kita bicarakan!
+Aku akan menjelaskan bagai-
+mana caranya<PAGE><RED>menangkap ikan dengan 
+tangan</COLOR> kepadamu, <MYNAME>!<PAGE>Apa kamu tahu jika bisa
+<RED>menangkap ikan dengan
+kedua tanganmu</COLOR> di<PAGE>genangan air sungai?<PAGE>Ya itu benar! Dan jika kamu
+merasa sebuah keberhasilan
+disaat kamu menangkapnya!
+----------------------------|----------------------------------
+<FP_NONE><CHOICE_AB> Tolong ajarkan aku!
+ Tidak, terima kasih.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>Bagus! Aku akan menjelaskan
+kepada kamu, maka!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>Dan itu kekurangan dan ke-
+lebihan dari memancing meng-
+gunakan tangan.<PAGE>Apa kamu paham? Ingin
+mendengarkan lagi?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>Oke, saatnya kamu beraksi!
+Tangkap ikan yang sesuai
+dengan <RED>permintaan</COLOR>ku!<PAGE>Kamu pasti bisa kok!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>Ada apa?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>Ada apa?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>Ada apa?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>Ada apa?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>Wooo! Kamu menangkapnya, eh?
+Bagus! Mari aku lihat...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>Oke ini!<PAGE>Aku tidak yakin kamu mela-
+kukannya, tapi kaulakukan!
+Kamu hebat!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>Aku pikir kamu sudah menge-
+tahuinya, tetapi kamu dapat
+<RED>memasak atau memakan ikan</COLOR><PAGE>yang kamu tangkap barusan.<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY>Coba nyemil hasil masakan
+ikan itu jika staminamu
+rendah, nanti akan mengem-<PAGE>balikan beberapa tenaga
+akan terpulihkan!<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_SHY>Hampir semua ikan kecil
+tidak dapat digunakan dalam
+memasak, namun...<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY>Beberapa dari mereka bisa,
+dan kamu bisa menemukan ke-
+piting untuk dimasak juga!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>Oke, kamu datang untuk
+permintaanku, jadi kamu 
+pastinya akan mendapatkan...<PAGE>\u270aHadiah!<PAGE>Pilih hadiah dari <RED>Layar
+hadiah</COLOR>!<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY>Lalu taruh kedalam
+<RED>tas</COLOR>! mudahkan?!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>Kamu memang hebat, bro!<PAGE>Aku pastinya akan memasang
+permintaan lebih banyak
+nantinya!<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY>Dan aku tahu aku akan
+melihatmu disaat kamu
+datang ketokoku, benarkan?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>Ada apa?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>Ada apa?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>Ada apa?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>Ada apa?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>Ada apa?
+----------------------------|----------------------------------
+<FP_NONE>Sesuatu yang aku akan ajari
+kamu merupakan bukan hal
+ilmu khusus, jadi kamu<PAGE>akan memperlajarinya dengan
+cepat!
+----------------------------|----------------------------------
+<FP_NONE>Disana ada banyak genangan
+air seperti ini dimana
+banyak ikan pacaran disitu.
+----------------------------|----------------------------------
+<FP_NONE>Whoa! Apakah kamu lihat
+ikannya?<PAGE>Disaat kamu ada ditempat
+berkumpulnya, ini sebuah
+kesempatan!<PAGE>Dekati lebih dekat dan...<PAGE>Bam!\u270a
+<RED>Tekan tombol A</COLOR> untuk
+menangkap ikan!
+----------------------------|----------------------------------
+<FP_NONE>Jangan terlalu terburu-buru,
+atau ikannya akan kabur!
+Jadi perhatikan baik-baik!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>Ada apa?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>Ada apa?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>Ada apa?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>Ada apa?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>Ada apa?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>Ada apa?

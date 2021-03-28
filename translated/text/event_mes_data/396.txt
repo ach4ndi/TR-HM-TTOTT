@@ -1,0 +1,220 @@
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Akhirnya kita ada disini!
+Ini adalah kebunmu!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HERO><FACE_NORMAL>Message won't appear.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Pertama kamu berinama untuk
+kebunmu!
+Namai sesuai keinginanmu!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Kebun <BLUE><MYFARMNAME></COLOR>?
+Apa kamu yakin?
+----------------------------|----------------------------------
+<CHOICE_AB> Ya!
+ Mungkin nama lainnya...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Itu nama yang bagus!
+Itu akan menjadi kebun yang
+sukses dan hebat!<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Rumah kamu disana.<PAGE>Sekarang biar aku memper-
+lihatkan sedikit keadaan 
+kebunmu<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Tapi pertama, aku akan
+jelaskan bagaimana untuk
+bergerak.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Gunakan <RED>+Control Pad</COLOR> 
+untuk berjalan disekitar.<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Tekan <RED>Tombol L</COLOR> untuk 
+berganti diantara jalan
+dan berlari.<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Tapi hati-hati untuk tidak
+lari menabrak tembok!<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Sekarang kamu tahu bagaimana
+berlari dan bagaimana cara
+berjalan!<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Kamu dapat juga menekan
+<RED>tombol B</COLOR> untuk melompat!<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Sekarang kamu dapat pindah
+dan lompat, kamu dapat bisa
+melihat disekitar kebunmu!<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Disaat kamu sudah selesai,
+Datang keaku dan tekan
+<RED>Tombol A</COLOR> untuk bicara.<PAGE>Apa kamu sudah paham?
+----------------------------|----------------------------------
+<CHOICE_AB> Aku paham!
+ Ehm, apa yang barusan?.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Oke!
+Maka aku akan menunggumu di
+sini depan pintu rumahmu.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Bagus! Kamu bisa berbicara
+kepada aku!<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Disaat kamu berbicara ke
+orang atau melihat barang,
+tekan <RED>Tombol A</COLOR>.<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Dikarenakan kamu sedang ber-
+latih maka ini mungkin
+sedikit pemburu harta karun!<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Disini ada 1 <GREEN>bunga</COLOR>
+disuatu tempat di kebun...<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Disaat kamu menemukannya <GREEN>bunga</COLOR>,
+tekan <RED>Tombol A</COLOR>.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Dekati sesuatu ditanah dan
+tekan <RED>Tombol A</COLOR> 
+untuk mengambilnya.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Sempurna! Itu bagaimana
+untuk mengambil sesuatu!<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Jika kamu menekan <RED>Tombol A</COLOR>
+disaat kamu memegang sesuatu
+, kamu dapat melemparnya.<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Tapi kamu tidak ingin melem-
+parkan bunga yang barusan
+kamu temukan! ya kan?<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Tekan <RED>Tombol Y</COLOR> untuk
+menaruh ke dalam tasmu, 
+barang yang sedang dipegang.<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Sekarang taruh bunga itu ke
+dalam tasmu, jadi kamu
+tidak akan menghilangkannya!<PAGE>Disaat didalam tasmu,
+bicara ke aku lagi!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Tekan <RED>Tombol A</COLOR> untuk
+melempar barang.<PAGE>Tapi tidak untuk sekarang.
+Sekarang kamu untuk memasuk-
+annya kedalam tasmu.<PAGE>Bicara keaku jika kamu
+melakukannya.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Sekarang taruh apa yang kamu
+pegang kedalam tasmu.<PAGE>Tekan <RED>Tombol Y</COLOR><PAGE>Untuk menaruh apa yang kamu
+pegang ke tasmu. Lalu bicara 
+keaku jika sudah.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Bagus, sepertinya itu
+sudah dimasukan kedalam tas
+kamu.<PAGE>Tekan <RED>tombol X</COLOR> disaat
+kamu ingin melihat isi tasmu
+, lihat layar bawah.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Disini apa yang kamu lakukan
+dengan tas terbuka:<PAGE>Gunakan <RED>+Control Pad</COLOR> untuk
+memindahkan kursor dan tekan
+<RED>Tombol A</COLOR> untuk pilih.<PAGE>Pilih kotak putih dipojok
+bawah kanan layar bawah
+untuk membuang barang.<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Tekan <RED>Tombol B</COLOR>
+untuk menutup tasmu.
+Lakukan sekarang.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Itu semua penjelasan menge-
+nai tasmu.<PAGE>Sekarang mari lihat diseki-
+tar rumahmu.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><HIDE_NAME><FACE_GRADY><FACE_NORMAL><FP_LEFT><HIDE_FACE>Sekarang, kepala desa, aku
+minta maaf membuatmu lama
+menunggunya!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Ah, seorang warga yang aku
+tunggu kehadirannya!<PAGE><FACE_POS_LEFT><HIDE_NAME><FACE_GRADY><FACE_NORMAL><FP_LEFT>Maaf aku terlambat!
+Aku sesegera datang, jadi
+kamu pastinya petani baru y?<PAGE><FACE_POS_LEFT><FACE_GRADY><FACE_HAPPY><FP_LEFT>Aku <BLUE>Grady</COLOR>.
+Ini sebuah kehormatan untuk
+bertemu denganmu!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HERO><FACE_NORMAL>Pesannya tidak terlihat.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HERO><FACE_NORMAL>Pesannya tidak terlihat.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HERO><FACE_NORMAL>Pesannya tidak terlihat.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Sebelum melanjutkan,<MYNAME>,
+apa kamu ingat mengenai
+<RED>kuda</COLOR> dan<RED>Gerobakmu</COLOR>?<PAGE>Aku yakin kamu pasti tahu,
+tapi aku harus menjelaskan
+semuanya ya?
+----------------------------|----------------------------------
+<CHOICE_AB> Kumohon.
+ Tidak, gak pa pa.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_GRADY><FACE_HAPPY><FP_LEFT>Ha ha, oke!
+Well, jadi hati-hati untuk
+tidak merusak gerobak lagi!<PAGE><FACE_POS_LEFT><FACE_GRADY><FACE_NORMAL><FP_LEFT>Aku akan kembali kerumah.
+Aku nantikan melihatmu di
+sekitar!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HERO><FACE_NORMAL>Pesannya tidak terlihat.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_GRADY><FACE_HAPPY><FP_LEFT>Maka biarkan semuanya kepada
+aku! Aku akan menjelaskan
+mengenai kuda dan gerobak!<PAGE><FACE_POS_LEFT><FACE_GRADY><FACE_NORMAL><FP_LEFT>Pertama, bagaimana kamu me-
+ngendarai.<PAGE>Tekan <RED>Tombol A</COLOR> untuk
+menaiki kuda.<PAGE>Tekan <RED>Tombol B</COLOR> untuk
+menuruni kuda.<PAGE><FACE_POS_LEFT><FACE_GRADY><FACE_HAPPY><FP_LEFT>Mudahkan?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_GRADY><FACE_NORMAL><FP_LEFT>Selanjutnya, mengenai
+gerobakmu.<PAGE>Aku membawakannya kekamu
+hari ini, tapi gerobakmu
+akan selalu disimpan di<PAGE><RED>sebelah kiri rumahmu</COLOR>.
+Kamu dapat mengambil barang
+apapun dari gerobakmu!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HERO><FACE_NORMAL>Pesannya tidak terlihat.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HERO><FACE_NORMAL>Pesannya tidak terlihat.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HERO><FACE_NORMAL>Pesannya tidak terlihat.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HERO><FACE_NORMAL>Pesannya tidak terlihat.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_GRADY><FACE_NORMAL><FP_LEFT>Untuk melihat didalam gero-
+bakmu, berdiri didepannya,
+lalu tekan <RED>Tombol A</COLOR>.<PAGE>Maka layar bawah akan ter-
+lihat seperti ini:
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_GRADY><FACE_NORMAL><FP_LEFT>Jika kamu mempunyai barang
+yang tidak cukup didalam
+tasmu, kamu dapat menaruh<PAGE>nya kedalam gerobakmu.<PAGE><FACE_POS_LEFT><FACE_GRADY><FACE_HAPPY><FP_LEFT>Barang yang mudah layu seper-
+ti hasil panen dan susu akan
+bertahan lama digerobakmu.<PAGE><FACE_POS_LEFT><FACE_GRADY><FACE_NORMAL><FP_LEFT>Cara kerja gerobakmu sama
+seperti halnya tasmu.<PAGE>Gunakan <RED>+Control Pad</COLOR> untuk
+memindahkan kursor, dan tekan
+<RED>Tombol A</COLOR> untuk dipilih.<PAGE>Tekan <RED>Tombol B</COLOR>
+disaat kamu selesai!
+Coba saja ya!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_GRADY><FACE_NORMAL><FP_LEFT>Itu semua penjelasan menge-
+nai gerobak.<PAGE><FACE_POS_LEFT><FACE_GRADY><FACE_HAPPY><FP_LEFT>Gerobakmu pastinya sangat
+membantumu dalam berkebun.
+karena bisa ditaruh dimana<PAGE>saja, dibawah kemana saja!<PAGE><FACE_POS_LEFT><FACE_GRADY><FACE_NORMAL><FP_LEFT>Tapi jika ingin membawanya
+diluar kebunmu, kamu harus
+<RED>mengikat</COLOR>nya ke kudamu.<PAGE>Untuk itu, dekati kudamu,
+berdiri didekat gerobak,
+lalu tekan <RED>Tombol R</COLOR>.<PAGE>Untuk melepaskan, parkir
+gerobaknya ditempat asalnya
+dan Tekan <RED>Tombol R</COLOR>.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_GRADY><FACE_NORMAL><FP_LEFT>Itu semua hal untuk kuda dan
+gerobak. Apa kamu paham
+semuanya?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Ini adalah rumahmu!
+Semoga betah dan nyaman di
+rumahmu sendiri!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Well sekarang, hari ini,
+hari yang menyibukan dan
+aku yakin kamu sekarang<PAGE>sangat capek, jadi saat ini
+tidur saja, berdiri didepan
+kasur dan tekan <RED>Tombol A</COLOR>.<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Jika kamu masih ada energi
+tersisah, bisa cek di
+<RED>rak buku</COLOR> dan <RED>dapur</COLOR> dulu.<PAGE>Selain itu, Aku akan pergi
+dulu.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Grady menjalankan toko di-
+mana kamu bisa membeli kuda,
+dan gerobak.<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_SAD><FP_RIGHT>Gerobakmu telah rusak 
+parah, jadi...<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Aku sudah bilang ke grady
+untuk mempersiapkan gerobak
+untuk menggantinya.<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Aku akan memberikan gerobak
+ini kekamu sebagai hadiah!<PAGE>Aku harap dengan ini
+bisa membantumu!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Sekarang berikan waktu untuk
+melihat disekitar rumah.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_GRADY><FACE_NORMAL><FP_LEFT>Maka dengarkanlah, sekarang.<PAGE>Tekan <RED>Tombol A</COLOR> untuk
+mengendarai kudamu.<PAGE>Disaat kamu ingin menyudai-
+nya, Tekan<RED>Tombol B</COLOR>.<PAGE>Untuk mengikat gerobak ke
+kudamu, dekati kudamu, dan
+berdiri didekat gerobak,<PAGE>dan Tekan <RED>Tombol R</COLOR>.<PAGE>Untuk melepaskannya, parkir
+dilokasi asal dan tekan
+<RED>Tombol R</COLOR>.
+----------------------------|----------------------------------
+<CHOICE_AB> Ya, aku paham
+ Terangkanlah, belum paham.

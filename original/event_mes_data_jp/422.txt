@@ -1,0 +1,62 @@
+<FACE_POS_RIGHT><FACE_CHERYL><FACE_HAPPY><FP_RIGHT><MYNAME>さん、
+こんにちは★
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>こんなに天気がいいのに
+今日も仕事なのかい？
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_HAPPY><FP_RIGHT><MYNAME>さんは、
+本当によく頑張るねぇ。<PAGE>たまには、息抜きと思って
+あたし達みたいに
+散歩するのもいいわよ。
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_HAPPY><FP_RIGHT>ルドガーさん、こんにちは。<PAGE><FACE_POS_RIGHT><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>こんにちは！<PAGE><FACE_POS_LEFT><FACE_RUTGER><FACE_HAPPY><FP_LEFT>ほっほっほ、こんにちは。
+じつに、元気がいいのぉ。<PAGE>最近は、村が活気づいていて
+とてもうれしいわい。
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_RUTGER><FACE_HAPPY><FP_LEFT>おっ、そうじゃ。
+見てほしいものがあるんじゃ。<PAGE>若いもんには
+負けてられんと思うてな。
+わしの特技はすごいんじゃ。<PAGE><FACE_POS_LEFT><FACE_RUTGER><FACE_NORMAL><FP_LEFT><MYNAME>くん、
+わしの横に来て
+ちょいと手伝ってくれんか。
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_RUTGER><FACE_NORMAL><FP_LEFT>頭の上に何も
+のっておらんか
+見てくれんか。
+----------------------------|----------------------------------
+<CHOICE_AB> 何もなかった
+ もう１回見せて！
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_RUTGER><FACE_NORMAL><FP_LEFT>よーく、見るんじゃ。
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>何をするのかしら？<PAGE><FACE_POS_LEFT><FACE_RUTGER><FACE_NORMAL><FP_LEFT>見ておればわかるわい。<PAGE><FACE_POS_LEFT><FACE_RUTGER><FACE_ANGRY><FP_LEFT>\u232dん〜\u270a…\u270a…\u270a…\u270a\u232c。
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>ルドガーさん\u270a…\u270b
+<FACE_POS_RIGHT><FACE_CHERYL><FACE_HAPPY><FP_RIGHT>\u20d0すっごーい！！！
+どうやったの？
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_RUTGER><FACE_NORMAL><FP_LEFT>それは教えられんわい。<PAGE><FACE_POS_LEFT><FACE_RUTGER><FACE_HAPPY><FP_LEFT>でも、シェリルには特別に
+教えてやってもいいがな。<PAGE><FACE_POS_RIGHT><FACE_CHERYL><FACE_HAPPY><FP_RIGHT>やったー♪
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_RUTGER><FACE_NORMAL><FP_LEFT>それにしても、若いもんを
+驚かすのも、案外簡単じゃな。<PAGE><FACE_POS_LEFT><FACE_RUTGER><FACE_HAPPY><FP_LEFT>さて、次は
+だれにしようかいな。
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>さすが村長って感じねぇ。
+いいもの見せてもらったわ。<PAGE>それじゃあ<MYNAME>さん、
+お仕事頑張って。<PAGE><FACE_POS_RIGHT><FACE_CHERYL><FACE_NORMAL><FP_RIGHT><MYNAME>さん、
+またね〜。
+----------------------------|----------------------------------
+<CHOICE_AB> アンコール！
+ 満足です
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CHERYL><FACE_HAPPY><FP_RIGHT>わたしも見たーい♪<PAGE><FACE_POS_LEFT><FACE_RUTGER><FACE_NORMAL><FP_LEFT>しょうがないのう。
+よーく、見るんじゃ。
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_RUTGER><FACE_NORMAL><FP_LEFT>今日はおまけしてやるわい。
+でも、これで最後じゃ。
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_RUTGER><FACE_ANGRY><FP_LEFT>\u232dん〜\u270a…\u270a…\u270a…\u270a\u232c。
+----------------------------|----------------------------------
+<CHOICE_AB> アンコール！　アンコール！
+ 満足です

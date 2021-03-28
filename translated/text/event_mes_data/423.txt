@@ -1,0 +1,26 @@
+<FACE_POS_LEFT><FACE_DIEGO><FACE_NORMAL><FP_LEFT>Hari ini bekerja dengan
+baik!<PAGE>Bagaimana dengan kamu,
+Enrique?<PAGE><FACE_POS_RIGHT><FACE_ENRIQUE><FACE_HAPPY><FP_RIGHT>Lancar!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Apa yang kamu lakukan
+disini, <MYNAME>?<PAGE><FACE_POS_RIGHT><FACE_ENRIQUE><FACE_ANGRY><FP_RIGHT>Ini agak kasar untuk
+menguping pembicaraan
+orang lain!<PAGE><FACE_POS_RIGHT><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>Yang paling penting,
+bagaimana kamu bisa
+masuk?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ENRIQUE><FACE_SAD><FP_RIGHT>Pintunya tidak terkunci?<PAGE>Oh tidak!
+Aku melupakan menguncinya 
+lagi!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_DIEGO><FACE_ANGRY><FP_LEFT>Apa yang kamu pikirkan?<PAGE>Seharusnya kamu juga
+jangan sampai kelupaan
+mengunci pintu!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Berapa lama kamu berdiri
+disini? Ini terlalu larut!
+Kamu seharusnya dah pulang.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Kemana kamu akan pergi?<PAGE>Kamu seharusnya masuk mele-
+wati pintu depan, bukan
+dari pintu belakang.

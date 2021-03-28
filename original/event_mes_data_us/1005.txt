@@ -1,0 +1,61 @@
+<FACE_POS_RIGHT><FACE_MIKHAIL><FACE_SAD><FP_RIGHT>*Yawn*...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>Oh, pardon me.
+I haven't been getting
+enough sleep recently.<PAGE>I'm writing a song, but it's
+not coming out the way I had
+in mind.<PAGE><FACE_POS_RIGHT><FACE_MIKHAIL><FACE_SHY><FP_RIGHT>So I find myself staying
+up late into the night...
+----------------------------|----------------------------------
+<CHOICE_AB> Could I help in some way?
+ Maybe you lack talent...?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>Oh? You'd like to offer your
+assistance?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MIKHAIL><FACE_HAPPY><FP_RIGHT>Thank you. That's very
+generous.<PAGE>I think I will take you up
+on your offer.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MIKHAIL><FACE_SHY><FP_RIGHT>The question is...help in
+what way?<PAGE>Hmmm.
+Well, here's an idea...<PAGE><FACE_POS_RIGHT><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>I'd appreciate it if you'd
+find some sound that can
+inspire me.<PAGE>A loud sound, a soft sound,
+a weird sound, a painful
+sound...any sound at all.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>Hmm?
+You thought of one?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_MIKHAIL><FACE_NORMAL><FP_LEFT>This bell?
+Come to think of it, I've
+never heard it rung.<PAGE>But how do we ring it?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_MIKHAIL><FACE_SHY><FP_LEFT>Sometimes you really do the
+most surprising things...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_MIKHAIL><FACE_NORMAL><FP_LEFT>I've got it...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_MIKHAIL><FACE_HAPPY><FP_LEFT>That musical phrase that
+just wouldn't come to me!
+It's miraculous!<PAGE><FACE_POS_LEFT><FACE_MIKHAIL><FACE_NORMAL><FP_LEFT>Now I feel as though I can
+finish my song.<PAGE><FACE_POS_LEFT><FACE_MIKHAIL><FACE_HAPPY><FP_LEFT>Thank you, <MYNAME>!<PAGE>Incredible how it came
+to me so easily now...
+I'm so glad I talked to you!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_MIKHAIL><FACE_NORMAL><FP_LEFT>I've got to get back and
+write that song right away.
+See you later, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MIKHAIL><FACE_ANGRY><FP_RIGHT>How could you think that?
+What a rude thing to say!
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MIKHAIL><FACE_SAD><FP_RIGHT>Your voice seems to grate
+on my ears today, disturbing
+my harmony.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MIKHAIL><FACE_SAD><FP_RIGHT>I'm sorry, but I will be
+going home now.
+Goodbye, <MYNAME>.

@@ -1,0 +1,784 @@
+<FACE_POS_CENTER><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>Oh, THERE you are, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>The weather yesterday was
+out-RAGE-ous!<PAGE><FACE_POS_CENTER><FACE_ULYSSA><FACE_ANGRY><FP_RIGHT>Because of that, my
+experiments were RUINED!!!
+Grrrrrrrr!!!!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>Oh, THERE you are, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>Oh, THERE you are, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>Oh, THERE you are, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>Ooooo-OOOOO-oooh!!
+Cuuuuuuuuuute!
+
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ULYSSA><FACE_ANGRY><FP_RIGHT>Aaaaiiiiiiyyeeeee!
+What, what, WHAT IS that?!?
+K-keep it far, FAR away!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>Wh-What is that?
+I-I've seen one somewhere...<PAGE><FACE_POS_CENTER><FACE_ULYSSA><FACE_ANGRY><FP_RIGHT>D-Does that m-mean...?
+Whoa, whoa, WHOA!<PAGE>You have to come with me to
+talk about that RIGHT NOW!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ULYSSA><FACE_SHY><FP_RIGHT>I've seen one somewhere...
+Now where was that...?
+Maybe in a book?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ULYSSA><FACE_SHY><FP_RIGHT>The great Oracle is in no
+mood to be taking a present
+from YOU right now.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ULYSSA><FACE_SHY><FP_RIGHT>You already gave me a
+present, silly! How can I
+carry any more?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>Woooo-WHEEEEE!!!<RED>❤</COLOR>
+Sweets for Harmony Day!<PAGE>Giving me a present is a
+very, very, VERY good idea!<PAGE>Thank yooou!!<RED>❤</COLOR>
+
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ULYSSA><FACE_SHY><FP_RIGHT>Really and truly? You chose
+me for Harmony Day...?<PAGE><FACE_POS_CENTER><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>Okey-dokey, since it's a
+nice one, I'll gladly take
+it!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ULYSSA><FACE_SHY><FP_RIGHT>Huh? What's that for?
+
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>Woooo-WHEEEEE!!!<RED>❤</COLOR>
+I-It's fluffy-wuffy
+<RED>alpaca yarn</COLOR>!!!!<PAGE><FACE_POS_CENTER><FACE_ULYSSA><FACE_SHOCK><FP_RIGHT>You knew just what I wanted
+for my birthday, you clever
+thing!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>Woooo-WHEEEEE!!!<RED>❤</COLOR>
+I-It's fluffy-wuffy
+<RED>alpaca yarn</COLOR>!!!!<PAGE><MYNAME>, that's so like you
+to know just what I like!
+Thank you!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>Oh, THERE you are, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>Oh, THERE you are, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>Huh!?
+This is for...?<PAGE><FACE_POS_CENTER><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>...my birthday?<PAGE>You're always so thoughtful!
+You even knew what I'd like!
+I approve!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>Th-This is...
+You know just what I like!<RED>❤</COLOR>
+This is super great!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>A birthday present?
+Hmm, how thoughtful!
+I'm pleased!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>What do we have here?
+A present?
+Thank you!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ULYSSA><FACE_SAD><FP_RIGHT>I was looking forward to my
+birthday SOOO much...<PAGE><FACE_POS_CENTER><FACE_ULYSSA><FACE_ANGRY><FP_RIGHT>And now...now...NOW YOU'VE
+RUINED EVERYTHIIIINNNNGGG!!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ULYSSA><FACE_SHY><FP_RIGHT>What do you call THIS?
+Don't you know what I like,
+you dummy?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ULYSSA><FACE_SHY><FP_RIGHT>Aaaaaiiiiiiyyyyeeee!!!
+Wh-What's that in your hand?<PAGE><FACE_POS_CENTER><FACE_ULYSSA><FACE_ANGRY><FP_RIGHT>This monstrosity!!
+I could NEVER EVER eat THAT!
+Argh, now I'm grossed out!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>Oh, THERE you are, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>Oh, THERE you are, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ULYSSA><FACE_SHY><FP_RIGHT>Marriage...marriage...
+What's it like?<PAGE>It seems so remote from my
+life! I don't get it at all!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ULYSSA><FACE_ANGRY><FP_RIGHT>Argh!
+The sound of the wind is so
+annoying, I can't focus!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ULYSSA><FACE_SHY><FP_RIGHT>Eek! There's so much snow
+I'm afraid my roof will cave
+in! It better clear up soon!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT><MYNAME>, when you're around,
+my experiments go smoothly.<PAGE>You have to be with me when
+I do them from now on!<PAGE>Don't even THINK about
+refusing, okey-dokey?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>Recently, whenever you come
+by, I feel happy, <MYNAME>.<PAGE><FACE_POS_CENTER><FACE_ULYSSA><FACE_SHY><FP_RIGHT>I've lived a long, LONG
+time, but I've never felt
+that way before...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT><MYNAME>, when you're in the
+room, I feel oddly at peace.
+I don't know why...<PAGE><FACE_POS_CENTER><FACE_ULYSSA><FACE_SHY><FP_RIGHT>Hmmmmmmmm...
+What a strange feeling!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT><MYNAME>, what is your farm
+like?
+I'm kind of curious.<PAGE><FACE_POS_CENTER><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>I wonder if I could conduct
+some experiments on it...<PAGE><FACE_POS_CENTER><FACE_ULYSSA><FACE_SHY><FP_RIGHT>Oh no, I'm just talking to
+myself! Don't worry your
+little head about it!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>Hmmm, I'm thinking about a
+new experiment...<PAGE><FACE_POS_CENTER><FACE_ULYSSA><FACE_SHY><FP_RIGHT>Now why are you quivering
+like that, <MYNAME>?<PAGE><FACE_POS_CENTER><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>Just take one little sip for
+me....no? NO!?!<PAGE><FACE_POS_CENTER><FACE_ULYSSA><FACE_ANGRY><FP_RIGHT>GRRRRRRRRR!
+You little fraidy-cat!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>You fascinate me, <MYNAME>.
+I bet you've never seen a
+room like my laboratory!<PAGE>Make yourself at home!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>I don't go out very often
+because I'm busy with my
+experiments.<PAGE>Tell me interesting stories
+about the big wide world
+out there!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>Oh, THERE you are, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ULYSSA><FACE_ANGRY><FP_RIGHT>AAAARRRRRGGGGHHHH!
+The Oracle is NOT hearing
+anything <MYNAME> says!<PAGE>YOU know why I'm mad!
+----------------------------|----------------------------------
+<CHOICE_AB> I'm sorry.
+ Should I speak louder?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>Humph! I guess I'll let it
+go THIS time! I'm tired of
+being mad! So I'll stop!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ULYSSA><FACE_ANGRY><FP_RIGHT>The Oracle can't HEEEEAAAAR
+YOOOOUUUUU! Not even if you
+say sorry!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>Oh, THERE you are, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>What outrageous weather
+we had yesterday!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>Oh, THERE you are, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>Oh, THERE you are, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>Oh, THERE you are, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>Oh, THERE you are, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>Woo-hoo, Harmony Day sweets!
+<MYNICKNAME>, <MYNICKNAME>, <MYNICKNAME>,
+you've made me SOOOOO happy!<PAGE><FACE_POS_CENTER><FACE_ULYSSA><FACE_SHOCK><FP_RIGHT>In return, I'm going to brew
+up something very, VERY
+special for YOU!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ULYSSA><FACE_SHOCK><FP_RIGHT>Woooo-WHEEEEEE!!<RED>❤</COLOR>
+It's...It's...<RED>alpaca yarn</COLOR>!<PAGE>I knew you'd get me a good
+birthday present, <MYNICKNAME>!!<PAGE>I picked a good man!
+I'm so, so, SOOOO happy!!<RED>❤</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT><RED>Alpaca yarn</COLOR>!
+Woo-hoo-hoo-HOO!
+So fluffy-wuffy soft!<RED>❤</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ULYSSA><FACE_SHOCK><FP_RIGHT>Oh, <MYNICKNAME>...
+you have to go out for a
+walk with me sometime!
+----------------------------|----------------------------------
+<CHOICE_AB> Great!
+ Forget it.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ULYSSA><FACE_ANGRY><FP_RIGHT>Grrrrr-aaarrrggghhh!!
+I wanted to go for a walk
+and you said NO!? To ME!?!?<PAGE>Fine, fine, FINE, then!
+Be a meanie! See if I care!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>Oh, THERE you are, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ULYSSA><FACE_SHY><FP_RIGHT>A birthday present? THIS?!?<PAGE><FACE_POS_CENTER><FACE_ULYSSA><FACE_ANGRY><FP_RIGHT>What are you thinking?!
+Don't you know that I HATE
+this most in the world?<PAGE>Grrrr... I won't forgive you
+for being such a terrible
+husband!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ULYSSA><FACE_ANGRY><FP_RIGHT>Th-This is...
+the thing that I HATE
+most in the world!<PAGE>What is WRONG with you?
+
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ULYSSA><FACE_SHY><FP_RIGHT>I'm pregnant with a child!
+It's a new experience for
+me...<PAGE>I'm kind of nervous...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>Isn't the human body a
+marvel? My belly is getting
+bigger and bigger!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>The baby's coming soon!
+I just know somehow. But
+will it be a boy or girl?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>Did you eat breakfast yet?
+Are you hungry?<PAGE><FACE_POS_CENTER><FACE_ULYSSA><FACE_SHOCK><FP_RIGHT>Let's eat together,
+<MYNICKNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>I feel like I should help
+you out on the farm, but...<PAGE><FACE_POS_CENTER><FACE_ULYSSA><FACE_SAD><FP_RIGHT>Even though I've lived so
+long, I never acquired any
+knowledge of farm work...<PAGE><FACE_POS_CENTER><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>Give me some time, though.
+I'll study up!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>Huh?
+Shouldn't you get to bed?
+Tomorrow's an early day!<PAGE><FACE_POS_CENTER><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>I'm going to stay up!
+I love to watch your face
+while you sleep, <MYNICKNAME>.<PAGE><FACE_POS_CENTER><FACE_ULYSSA><FACE_SHOCK><FP_RIGHT>Huh? That's not weird at
+all! Don't be silly!
+
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>I'm making new discoveries
+every day!<PAGE>I never realized how much I
+was missing living on that
+mountain.<PAGE>Thank you, <MYNICKNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>Since coming to live on your
+farm, I've learned more
+about the world.<PAGE><FACE_POS_CENTER><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>It's always good to increase
+one's knowledge!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>Life on a farm is busy from
+morning till night!<PAGE>It's all so different from
+the life I'm used to!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>Farm life is so, so, SOOOOO
+interesting!<PAGE>And it gives me more things
+to experiment on!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ULYSSA><FACE_SHY><FP_RIGHT>We never, ever, EVER talk
+anymore...<PAGE><FACE_POS_CENTER><FACE_ULYSSA><FACE_ANGRY><FP_RIGHT><MYNICKNAME>! You have to talk
+with me more!!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ULYSSA><FACE_SAD><FP_RIGHT>Booooooorrriiiinnnng...
+Life is SOOOOOOOOOOO boring.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ULYSSA><FACE_ANGRY><FP_RIGHT><MYNICKNAME>! <MYNICKNAME>!!!
+Don't you have something to
+say about what you did?
+----------------------------|----------------------------------
+<CHOICE_AB> I'm sorry I made you mad.
+ Not that I can think of.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ULYSSA><FACE_ANGRY><FP_RIGHT>Why didn't you say that a
+lot sooner?!<PAGE><FACE_POS_CENTER><FACE_ULYSSA><FACE_SAD><FP_RIGHT>Don't you even know when you
+need to apologize...?<PAGE><FACE_POS_CENTER><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>But it's fine!
+I'm over it now!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ULYSSA><FACE_ANGRY><FP_RIGHT>GrrrrRRRRRRR...! <MYNICKNAME>!
+With that attitude, you're
+in for a long battle, dummy!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>You need that for the
+festival, don't you?<PAGE>Don't stand here showing it
+to me, hurry up and take it
+to the festival!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>Oh, THERE you are, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>Oh, THERE you are, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>Is this for me to do
+experiments on?<PAGE><FACE_POS_CENTER><FACE_ULYSSA><FACE_SAD><FP_RIGHT>It's not?
+Awwww...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>Isn't this cutesy-wutesy!<PAGE><FACE_POS_CENTER><FACE_ULYSSA><FACE_SAD><FP_RIGHT>I want to feed it, but I
+didn't bring anything.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ULYSSA><FACE_SHY><FP_RIGHT>Aaaaaiiiiiyyyyeeee!
+Th-Thaaaaaaaat's aaaaaa....!<PAGE><FACE_POS_CENTER><FACE_ULYSSA><FACE_ANGRY><FP_RIGHT>I've always hate, hate,
+HATED those!!!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>What's that...?
+Oh, I see those everywhere.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>Woo-whee, what an outfit!
+It suits you perfectly!
+Exceptional!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ULYSSA><FACE_SHOCK><FP_RIGHT>Um, <MYNAME>?
+I want you to come with me
+and go do something fun...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>I want to talk to you.
+You have to come with me for
+a while.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>Are you free right now...?
+Will you come take a walk
+with me?
+----------------------------|----------------------------------
+<CHOICE_AB> Let's go!
+ I have work to do.
+----------------------------|----------------------------------
+<CHOICE_AB> Okay.
+ I don't have time for that.
+----------------------------|----------------------------------
+<CHOICE_AB> Sure.
+ Not today.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>Oh, THERE you are, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>Oh, THERE you are, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ULYSSA><FACE_ANGRY><FP_RIGHT>Wh-What...?
+You are putting work before
+me...? ME!?!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>You're THAT busy?
+Well EXCUSE me!
+Forget about today, then.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>F-Fine then.
+I thought you had free time.
+Just forget about it.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>Woo-hoo, a flower!
+I'm so, SOOOO happy!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT><MYNICKNAME>, you're so good
+about doing these things!<PAGE><FACE_POS_CENTER><FACE_ULYSSA><FACE_SHOCK><FP_RIGHT>You're the bestest husband
+EVER!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>Oh, THERE you are, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>Oh, THERE you are, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>Oh, THERE you are, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>Oh, THERE you are, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>Oh, THERE you are, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>What's this, all wrapped up?
+Can I open it?
+Let's see...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT><MYNAME>, I'm so happy to
+have made a faithful friend
+like you!<PAGE>I've lived a long, LONG
+time, but I've never had
+a friend like you before!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>Oh, THERE you are, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ULYSSA><FACE_ANGRY><FP_RIGHT>Grrrr! When somebody says
+"no" to me, it puts me in a
+bad, bad, BAAAAD MOOOOOD!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>Oh, THERE you are, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>Oh, THERE you are, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>Oh, THERE you are, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>Where are those ingredients
+I need?<PAGE><MYNAME>! Help me find them!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ULYSSA><FACE_SAD><FP_RIGHT>Bbbbbrrrrrr! It's c-c-cold!
+I c-c-can't find the
+ingredients I need!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>I should go back home and
+work on an experiment. Come
+with me so you can try it!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>When I walk around, I find
+ingredients for experiments
+lying around. It's fun!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>So are you going home now,
+<MYNICKNAME>?
+Then let's go home together.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>Oh, THERE you are, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>Oh, THERE you are, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>Oh, THERE you are, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>Oh, THERE you are, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>Oh, THERE you are, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>Oh, THERE you are, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>Oh, THERE you are, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>Oh, THERE you are, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>Oh, THERE you are, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>Oh, THERE you are, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>Oh, THERE you are, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>Oh, THERE you are, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>Oh, THERE you are, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>Hum-dee-dum...
+Looks like you have some
+free time right now...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>Hum-dee-dum...
+Looks like you have some
+free time right now...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>Hum-dee-dum...
+Looks like you have some
+free time right now...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>Oh, THERE you are, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>Hum-dee-dum...
+Looks like you have some
+free time right now...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>Oh, THERE you are, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>Oh, THERE you are, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ULYSSA><FACE_NORMAL><FP_LEFT>Now you're back,
+<MYNICKNAME>!<PAGE>This is a very special day.
+The day you came into the
+world!<PAGE>So I cooked for you!
+I've been waiting
+for you to come home!<PAGE><FACE_POS_LEFT><FACE_ULYSSA><FACE_HAPPY><FP_LEFT>You have to sit right down!
+Sit, sit, SIT!!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>Ta-da!<PAGE>I made this specially for
+you with all my love! So you
+have to eat with love too!<PAGE><FACE_POS_RIGHT><FACE_ULYSSA><FACE_SHOCK><FP_RIGHT>Happy birthday,
+<MYNICKNAME>.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ULYSSA><FACE_NORMAL><FP_LEFT>You're home, home, HO-OOME!
+My little <MYNICKNAME>!<PAGE>Today is the birthday that
+you share with the Oracle!
+So I cooked and waited!<PAGE><FACE_POS_LEFT><FACE_ULYSSA><FACE_HAPPY><FP_LEFT>You have to sit right down!
+Sit, sit, SIT!!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>Ta-da!<PAGE>I made this specially for
+you with all my love! So you
+have to eat with love too!<PAGE><FACE_POS_RIGHT><FACE_ULYSSA><FACE_SHOCK><FP_RIGHT>La-di-da-di-da!
+Today makes me very happy!
+
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ULYSSA><FACE_NORMAL><FP_LEFT>You're home, home, HO-OOME!
+My little <MYNICKNAME>!<PAGE>Today is the Oracle's
+birthday!<PAGE>I know you wanted to
+celebrate this day, so I
+cooked and waited for you.<PAGE><FACE_POS_LEFT><FACE_ULYSSA><FACE_HAPPY><FP_LEFT>You have to sit right down!
+Sit, sit, SIT!!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>Ta-da!
+Not too shabby, right?<PAGE><FACE_POS_RIGHT><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>I never used to think
+birthdays were fun.<PAGE><FACE_POS_RIGHT><FACE_ULYSSA><FACE_SHOCK><FP_RIGHT>Since meeting you, I've
+realized how wrong I was!
+Every year I'm reminded!<PAGE>I have to say thank you,
+<MYNICKNAME>.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ULYSSA><FACE_NORMAL><FP_LEFT>You're home, home, HO-OOME!
+My little <MYNICKNAME>!<PAGE>Today is \u2337's
+birthday!<PAGE><FACE_POS_LEFT><FACE_ULYSSA><FACE_HAPPY><FP_LEFT>You have to sit right down!
+Sit, sit, SIT!! We'll all
+celebrate together!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>Wooooo-wheee!<RED>❤</COLOR>
+Our child is so, so, SOOOO
+adorable!<PAGE><FACE_POS_RIGHT><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>In the past, I never would
+have imagined becoming a
+mother...<PAGE><FACE_POS_RIGHT><FACE_ULYSSA><FACE_SHOCK><FP_RIGHT>Now I have a child that's
+as cutesy-wutesy as can be!
+Because you're the daddy!<PAGE>You and I are very good
+parents!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ULYSSA><FACE_NORMAL><FP_LEFT>You're home, home, HO-OOME!
+My little <MYNICKNAME>!<PAGE>It's \u2337's
+birthday today, so I cooked
+for all of us!<PAGE>Now it's time for you and I
+to throw a big, big, BIG
+party for \u2337!!<RED>❤</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>There are PLENTY of seconds!
+So you have to eat, eat, EAT
+UP!!<PAGE><FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>For \u2337, I made
+pancakes and three other
+dishes too!<RED>❤</COLOR><PAGE>Eat plenty so you grow up
+big, big, BIG and strong!<PAGE>Happy birthday,
+\u2337!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ULYSSA><FACE_NORMAL><FP_LEFT>You're home, home, HO-OOME!
+My little <MYNICKNAME>!<PAGE>Do you remember what day
+today is?
+Our anniversary!<PAGE>Let's celebrate our
+eternal bond!<RED>❤</COLOR>
+You have to come right here!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>Since we met, <MYNICKNAME>,
+every day is a joy!
+<PAGE><FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>From now on, you have to
+treasure me more and more
+and MORE than ever before!<PAGE><FACE_POS_RIGHT><FACE_ULYSSA><FACE_SHOCK><FP_RIGHT>I LOOOOOOOVE YOOOOOUUUU,
+<MYNICKNAME>!<RED>❤</COLOR>
+And I always will!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>Oh, THERE you are, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>Oh, THERE you are, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>Oh, THERE you are, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>Oh, THERE you are, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>Oh, THERE you are, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>Oh, THERE you are, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>Oh, THERE you are, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>Seems like there's some kind
+of festival in the village
+today.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>Oh, THERE you are, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>Oh, THERE you are, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>Oh, THERE you are, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>Oh, THERE you are, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>Oh, THERE you are, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>Oh, THERE you are, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>Oh, THERE you are, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>Oh, THERE you are, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>Oh, THERE you are, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>Oh, THERE you are, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>Oh, THERE you are, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>Oh, THERE you are, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>Oh, THERE you are, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>Oh, THERE you are, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>Oh, THERE you are, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>Oh, THERE you are, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>Oh, THERE you are, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>Oh, THERE you are, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>Oh, THERE you are, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ULYSSA><FACE_SAD><FP_RIGHT>Gooooooooood morning,
+<MYNAME>.<PAGE>*YAAAAAWWWWWWNNN*...
+I'm so SLEEPY...
+I hate the morning...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>Ooh, I'm HUNGRY!
+Is there anything to eat?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>Awww...you're always so busy
+from morning till night! You
+need to get more rest!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>Hello hidey-ho,
+<MYNAME>.<PAGE>I like how quiet it is
+around here. It's too noisy
+to focus in the village!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT><MYNAME>,
+hello hidey-ho!<PAGE>Greeting people properly is
+oh-so-important!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>Hello hidey-ho.
+I'm taking a break, so you
+have to spend time with me!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>Gooooooood evening! Aren't
+you going to bed soon?
+Early to bed, early to rise!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT><MYNAME>,
+gooooooood evening to you!<PAGE>Night time is the right time
+for my experiments, but I
+find myself falling asleep.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>Gooooooood evening,
+<MYNAME>.<PAGE>Did you come to see me at
+night because you want to
+talk? Great! Then I'll talk!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT><MYNAME>! <MYNAME>!!
+Our wedding! Our wedding!
+Our wedding's coming soon!<PAGE>Getting married is a whole
+new experience for me!
+I can't WAIT!<RED>❤</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT><MYNAME>,
+what's a wedding like?<PAGE>I've seen them in books, but
+never ever in person before.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>I'm so-so-so-SOOOOO looking
+forward to living on a farm
+once we get married...<PAGE>Your farm!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>If you want me to do alchemy
+for you, talk to me across
+the counter.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>If you want me to do alchemy
+for you, talk to me across
+the counter.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>If you want me to do alchemy
+for you, talk to me across
+the counter.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>Oh, THERE you are, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>Oh, THERE you are, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>Oh, THERE you are, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>Look who's here!
+Make yourself at home.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>What are you doing here?<PAGE>If you have anything of
+interest to say, hurry up
+and say it!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ULYSSA><FACE_SHY><FP_RIGHT>Hum dee dum...
+Looks like you have some
+free time right now...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ULYSSA><FACE_SAD><FP_RIGHT>Good morning...
+Marriage hasn't changed how
+sleepy I am in the morning.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ULYSSA><FACE_SAD><FP_RIGHT>Good morning...
+Urrk, I'm so sleepy! My head
+feels all wooly...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ULYSSA><FACE_SAD><FP_RIGHT>Good morning, <MYNICKNAME>...<PAGE>I wish I could sleep a
+little longer...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>Hi-ho, <MYNICKNAME>.
+What's up?<PAGE>Greetings are so important
+for a married couple...isn't
+yours coming rather late?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>Hi-ho, <MYNICKNAME>.<PAGE>I guess you're so late in
+greeting me today because
+you're busy with work.<PAGE>Work is important, but also
+look after your health, too!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>Hi-ho, <MYNICKNAME>.
+Why haven't you talked to
+me yet today?<PAGE><FACE_POS_CENTER><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>Well, never mind.
+What do you want for dinner?<PAGE>I'm studying a cooking book,
+so pick ANYTHING you want.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ULYSSA><FACE_ANGRY><FP_RIGHT>Night already!
+What have you been up to?
+Don't tell me...<PAGE><FACE_POS_CENTER><FACE_ULYSSA><FACE_SAD><FP_RIGHT>Are you up to something
+behind my back?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ULYSSA><FACE_SHY><FP_RIGHT><MYNICKNAME>, you don't have
+to work ALL the time. Spend
+time with me, too!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ULYSSA><FACE_SHY><FP_RIGHT><MYNICKNAME>, are you done
+with work?<PAGE>I'm so worried because all
+you do is work, work, WORK
+and never talk to me!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>Hum-dee-dum...
+Looks like you have some
+free time right now...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>Oh, THERE you are, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>What are you doing here?<PAGE>If you have anything of
+interest to say, hurry up
+and say it!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>Hum-dee-dum...
+Looks like you have some
+free time right now...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>Oh, THERE you are, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>What are you doing here?<PAGE>If you have anything of
+interest to say, hurry up
+and say it!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>Hum-dee-dum...
+Looks like you have some
+free time right now...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>Oh, THERE you are, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>What are you doing here?<PAGE>If you have anything of
+interest to say, hurry up
+and say it!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>Hum-dee-dum...
+Looks like you have some
+free time right now...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>Oh, THERE you are, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>What are you doing here?<PAGE>If you have anything of
+interest to say, hurry up
+and say it!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>Hum-dee-dum...
+Looks like you have some
+free time right now...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>Oh, THERE you are, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>What are you doing here?<PAGE>If you have anything of
+interest to say, hurry up
+and say it!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>Hum-dee-dum...
+Looks like you have some
+free time right now...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>Oh, THERE you are, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>What are you doing here?<PAGE>If you have anything of
+interest to say, hurry up
+and say it!

@@ -1,0 +1,21 @@
+<FACE_POS_LEFT><FACE_CHERYL><FACE_ANGRY><FP_LEFT>Hey! Don't run away like
+that!<PAGE><FACE_POS_LEFT><FACE_CHERYL><FACE_SAD><FP_LEFT>Aww, now I'm all wet...
+
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_CHERYL><FACE_SAD><FP_LEFT>I'm gonna go home so I
+don't get sick. Don't
+run away anymore!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><HIDE_NAME><FACE_ASH><FACE_NORMAL><FP_LEFT><HIDE_FACE>There you are.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL><FP_RIGHT>You should have an umbrella
+with you on a day like
+today.<PAGE><FACE_POS_LEFT><FACE_CHERYL><FACE_HAPPY><FP_LEFT>Thanks, Ash!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL><FP_RIGHT>Why'd you go running
+off without an
+umbrella like that?<PAGE><FACE_POS_LEFT><FACE_CHERYL><FACE_NORMAL><FP_LEFT>Aww, were you worried about
+me?<PAGE><FACE_POS_LEFT><FACE_CHERYL><FACE_HAPPY><FP_LEFT>I can always count on you!
+You're the best
+brother ever!<RED>❤</COLOR><PAGE><FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>Yeah, okay.<PAGE><FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL><FP_RIGHT>Let's go home. Mom will
+be worried.<PAGE><FACE_POS_LEFT><FACE_CHERYL><FACE_NORMAL><FP_LEFT>Okay!♪

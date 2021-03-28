@@ -1,0 +1,223 @@
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Apakah kamu tahu bagaimana
+untuk merawat Sapi?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Apakah kamu tahu bagaimana
+untuk merawat Ayam?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Apakah kamu tahu bagaimana
+untuk merawat Domba?
+----------------------------|----------------------------------
+<CHOICE_AB> Tidak, Aku tidak tahu.
+ Ya, Aku tahu.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_HAPPY><FP_RIGHT>Tampaknya kamu mampu,
+<MYNAME>!<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_HAPPY><FP_RIGHT>Sekarang, Aku akan memberi-
+kan ini kepadamu...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_HAPPY><FP_RIGHT>Ini sebuah <RED>alat pemerah</COLOR>.<PAGE>Disaat sapi kamu yang dewa-
+sa, kamu dapat menggunkanan
+ini untuk memerahnya.<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Gunakan dengan baik ya!
+Rawat dengan benar!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_HAPPY><FP_RIGHT>Ini sebuah <RED>penggosok</COLOR>.<PAGE>Disaat sapimu kotor, gunakan
+ini untuk menggosoknya dan
+itu akan bersih kembali.<PAGE>Jika kamu membiarkan sapimu
+tetap kotor, mereka akan
+sakit. Maka gosok tiap hari.<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Rawat baik-baik ya
+sapimu itu!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_HAPPY><FP_RIGHT>Tampaknya kamu mampu,
+<MYNAME>!<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Oh ya, Aku hampir melupakan
+sesuatu yang penting!<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_HAPPY><FP_RIGHT>Anak ayam itu, disaat mereka
+dewasa menjadi ayam dewasa,
+bisa menetaskan anak ayam<PAGE>baru lagi loh!<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Jika kamu ingin ayammu itu
+menetaskan anak ayam,
+datang kepadaku.<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Ingat-ingat ya hanya ayam
+<RED>yang dewasa dan sehat</COLOR>
+yang dapat menetaskannya!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_HAPPY><FP_RIGHT>Itu adalah <RED>Gunting</COLOR>.<PAGE>Disaat anak dombamu tumbuh
+besar, gunakan ini untuk me-
+motong bulunya untuk dijadi-<PAGE>kan sebuah untaian bulu
+atau disebut woll<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Jaga baik-baik ya Dombamu
+itu!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Aku akan kembali ke
+rumah sekarang.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Maka aku jelaskan semua hal
+yang kamu butuhkan!<PAGE>Pertama, bagaimana mengemba-
+lakan hewan ternakmu.<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_HAPPY><FP_RIGHT>Dihari cuaca yang bagus,
+taruh mereka keluar ke
+lapangan rerumputan untuk<PAGE>mengembalakkannya dirumput.<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Dekati kesapimu dan dorong
+kearah yang diinginkan.<PAGE>Itu caranya untuk mengeluar-
+kannya dari kandang.<PAGE>Disaat malam tiba, pastikan
+hewan ternakmu itu berada
+didalam kandang.<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_ANGRY><FP_RIGHT>Satu hal lagi kamu harus
+hati-hati dalam mengemba-
+lakkan hewan ternak, yaitu<PAGE>cuaca.<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_SAD><FP_RIGHT>Jangan keluarkan binatang
+ternakmu keluar disaat
+cuacanya buruk.<PAGE>Jika kamu taruh sapi kelu-
+ar disaat hujan, mereka
+akan stresss.<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Terkadang disaat pagi
+cuacanya cerah, bisa saja
+nanti turun hujan disore<PAGE>harinya, jadi hati-hati!<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_HAPPY><FP_RIGHT>Disaat sapimu berada di-
+dalam kandang, beri makan
+dengan <RED>Makanan Ternak</COLOR>.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_JESSICA><FACE_NORMAL><FP_LEFT>Kamu cuma melempar Makanan
+Ternak kedalam kotak makanan.<PAGE><FACE_POS_LEFT><FACE_JESSICA><FACE_HAPPY><FP_LEFT>Maka secara otomatis sapimu
+akan datang dan makan ke
+kotak itu.<PAGE><FACE_POS_LEFT><FACE_JESSICA><FACE_NORMAL><FP_LEFT>Satu unit Makanan Ternak 
+itu untuk 5 sapi, dan satu
+kotak makanan dapat memuat<PAGE>untuk 10.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_JESSICA><FACE_NORMAL><FP_LEFT>Dan mengenai Makanan Ternak
+...<PAGE>Kamu dapat menyimpannya da-
+lam <RED>penyimpanan</COLOR>...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Itu akan keluar dari saluran
+Makanan Ternak yang dari
+penyimpanan...<PAGE>Kamu dapat membeli Makanan
+Ternak ditokoku, jadi
+datang untuk membelinya<PAGE>jika kamu kehabisan makanan
+ternaknya.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Sekarang aku akan menjelas-
+kan mengenai kesehatan he-
+wan ternakmu.<PAGE>Kamu harus kasih pakan tiap
+hari sekali.<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_ANGRY><FP_RIGHT>Dan kamu harus ajak bicara
+bintanag ternakmu itu.<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Jika kamu tidak kasih makan
+atau ajak bicara kepada
+mereka, mereka akan stress.<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_SAD><FP_RIGHT>Dan mereka akan sakit.<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Jika mereka sakit, berikan
+<RED>obat binatang</COLOR>, langsung
+digunakan kepada mereka.<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_SAD><FP_RIGHT>Jika kamu membiarkannya
+sakit, mereka akan mati.
+Mati!<PAGE>Jangan tidak peduli dan
+membiarkan itu terjadi!<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Walaupun kamu sudah mera-
+watnya dengan baik, mereka
+tidak akan bisah hidup<PAGE>sangat lama.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Disaat anak sapi tumbuh be-
+sar menjadi sapi dewasa,
+kamu dapat memerahnya.<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_HAPPY><FP_RIGHT>Kualitas susu dari sapi ini
+bertambah bagus jika kamu
+menaikan pertemanannya.<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Anak sapi ini masih bayi.<PAGE>Tapi kamu membutuhkan bebe-
+rapa hari dia akan tumbuh
+besar menjadi sapi sehat.<PAGE>Cara untuk membuatnya le-
+bih senang, berikan saja
+mereka sebuah <RED>treats</COLOR>.<PAGE>Kamu hanya bisa memberikan
+<RED>sekali per harinya</COLOR>.<PAGE>Beda spesies beda treat
+yang menjadi favoritnya.
+Berikan itu setiap hari ya.<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_HAPPY><FP_RIGHT>Jika kamu melakukannya,
+kamu akan menaikan perte-
+manan dengan cepat!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_HAPPY><FP_RIGHT>Oh, ya benar. Aku harus mem-
+berikan ini kepadamu...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Oh, Aku hampir melupakan
+sesuatu yang penting!<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_HAPPY><FP_RIGHT>Sekarang dia masih mudah,
+tapi disaat dia <RED>tumbuh
+besar</COLOR>, dia dapat<PAGE><RED>memiliki anak sendiri</COLOR>!<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Hanya berikan dia ketokoku
+dan <RED>tinggalkan dia disini
+selama 2 minggu</COLOR>.<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Harap diingat ya hanya yang
+<RED>sehat</COLOR> saja yang
+bisa memiliki bayi ya.<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_HAPPY><FP_RIGHT>Dan juga aku tidak meneri-
+ma binatang yang kotor,
+jadi bersihkan dulu sebe-<PAGE>lum memberikannya kepadaku.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Oke oke, akan aku jelaskan
+semuanya yang kamu butuhkan!<PAGE>Pertama, aku akan memberi-
+tahumu bagaimana memberikan
+pakan kepada mereka.<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_HAPPY><FP_RIGHT>Dihari yang cerah, biarkan
+mereka keluar dan mereka
+akan mencari makanannya<PAGE>sendiri diluar.<PAGE>Jika ayam berada didalam
+kandang, keluarkan mereka
+kedalam arena terpagar,<PAGE>dan biarkan mereka berkeli-
+aran disitu.<PAGE>Disaat malam tiba, pastikan
+semua ayammu itu masuk ke-
+dalam kandang!<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_ANGRY><FP_RIGHT>Satu hal lagi yang harus
+diperhatikan, yaitu cuaca!<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_SAD><FP_RIGHT>Jangan taruh ayammu diluar
+jika cuacanya buruk.<PAGE>Jika kamu menaruh ayam di-
+saat hujan, mereka akan
+stress.<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Walaupun dipagi hari cuaca
+nya cerah, bisa saja nanti
+sorenya hujan. Jadi hati-<PAGE>hati untuk mengurusnya.<PAGE>Disaat ayammu berada di-
+dalam kandang, berikan ma-
+makan <RED>makanan ayam</COLOR>.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_HAPPY><FP_RIGHT>Lemparkan Makanan Ayam ke
+<RED>area pakannya</COLOR> dan
+Ayam kamu akan langsung ter-<PAGE>bang datang untuk memakan-
+nya!<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Satu unit dari Makanan Ayam
+ini untuk lima ekor ayam.<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_HAPPY><FP_RIGHT>Satu area pakan ini menca-
+kup 10 makanankan ayam.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Untuk Makanan Ayamnya...
+kamu dapat menyimpannya di
+<RED>penyimpanan</COLOR>...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_HAPPY><FP_RIGHT>Itu akan keluar dari saluran
+makanan ternak yang ada!<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Ini cara yang praktis di-
+saat kamu membeli pakannya
+dan taruh di penyimpanan.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Sekarang aku akan menjelas-
+kan mengenai kesehatan he-
+wan ternakmu.<PAGE>Kamu harus kasih pakan tiap
+hari sekali.<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_ANGRY><FP_RIGHT>Dan kamu harus ajak bicara
+bintanag ternakmu itu.<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Jika kamu tidak kasih makan
+atau ajak bicara kepada
+mereka, mereka akan stress.<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_SAD><FP_RIGHT>Dan mereka akan sakit.<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Jika mereka sakit, berikan
+<RED>obat binatang</COLOR>, langsung
+digunakan kepada mereka.<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_SAD><FP_RIGHT>Jika kamu membiarkannya
+sakit, mereka akan mati.
+Mati!<PAGE>Jangan tidak peduli dan
+membiarkan itu terjadi!<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Walaupun kamu sudah mera-
+watnya dengan baik, mereka
+tidak akan bisah hidup<PAGE>sangat lama.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Jika kamu merawat anak ayam,
+mereka akan tumbuh besar
+menjadi ayam dewasa dan<PAGE>bisa memproduksi sebuah
+<RED>telur</COLOR>!<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_HAPPY><FP_RIGHT>Kualitas telur ayam akan me-
+ningkat jika kamu rajin-
+rajin ajak bicara ayammu<PAGE>tiap hari.<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Anak ayam ini masih bayi,
+tapi membutuhkan sedikit
+waktu dia akan tumbuh men-<PAGE>jadi seekor ayam yang
+sehat.<PAGE>Ada salah satu cara lainnya
+yang bisa membuat hewan
+ternakmu lebih senang yaitu<PAGE>memberikannya sebuah
+<RED>treats</COLOR>.<PAGE>Kamu hanya bisa memberikan
+itu <RED>sekali dalam sehari</COLOR>.<PAGE>Tiap hewan ternak juga
+berbeda treat yang disukai-
+nya.<PAGE>Jangan lupa berikan itu
+tiap hari.<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_HAPPY>Jika kamu melakukannya,
+kamu akan semakin dekat
+dengan mereka!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Oh iya, aku hampir melupa-
+kan suatu yang penting!<PAGE>Sekarang dia itu masih kecil
+tapi disaat dia <RED>tumbuh
+besar,</COLOR> dia bisa mempunyai<PAGE><RED>anak ayam</COLOR> juga!<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Berikan ayamnya ketoko aku
+dan <RED>tinggalkan dia sela-
+ma dua minggu</COLOR> untuk mene-<PAGE>taskan seekor anak ayam.<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Dan hanya ayam yang <RED>sehat</COLOR>
+yang dapat menetaskannya.<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Itu semua yang perlu kamu
+ketahui mengenai ayam!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_HAPPY><FP_RIGHT>Maka, aku akan menjelaskan
+cara merawat seekor domba.<PAGE>Domba ini perawatannya ham-
+pir sama dengan sapi.<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Disaat cuacanya bagus, biar-
+kan domba-domba itu digemba-
+lakan diluar.<PAGE>Disaat cuacanya buruk, sese-
+geralah memasukkan kembali
+domba kedalam kandang. Lalu<PAGE>berikan <RED>Makanan Ternak</COLOR>.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Disaat anak domba tumbuh men-
+jadi domba dewasa, kamu da-
+pat mencukur bulunya untuk<PAGE>mendapatkan sebuah <RED>woll</COLOR>.<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_HAPPY><FP_RIGHT>Kualitas woll domba itu
+akan semakin bagus jika
+kamu lebih dekat dengannya.<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Anak domba ini masihlah
+bayi, tapi sedikit waktu
+untuk dia tumbuh menjadi<PAGE>domba dewasa yang sehat!

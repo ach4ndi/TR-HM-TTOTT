@@ -1,0 +1,75 @@
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>★ＥＲＲＯＲ！★</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho-ho!
+You brought the materials!
+Lemme see...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>★ＥＲＲＯＲ！★</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>★ＥＲＲＯＲ！★</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_SHENG><FACE_HAPPY><FP_RIGHT>Heh!
+Now I've got what I need!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>★ＥＲＲＯＲ！★</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Now for the money.
+Alrighty, I've got your
+<VAR_1>G!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>★ＥＲＲＯＲ！★</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>★ＥＲＲＯＲ！★</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>★ＥＲＲＯＲ！★</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>★ＥＲＲＯＲ！★</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>★ＥＲＲＯＲ！★</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_SHENG><FACE_HAPPY><FP_RIGHT>Nice job.
+You did what it took to get
+all the materials, eh?<PAGE><FACE_POS_RIGHT><FACE_SHENG><FACE_NORMAL>Now it's my turn to show
+what I can do!<PAGE><FACE_POS_RIGHT><FACE_SHENG><FACE_ANGRY>I may be old, but nobody
+can say Sheng's lost his
+touch with tools!<PAGE>You wait outside so I
+can focus on my work.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_SHENG><FACE_ANGRY><FP_RIGHT>Hooooboy... \u270aHoooboy...
+Hot dang!!
+That's mighty dazzling!!!<PAGE>I've poured my heart and
+soul into this piece of
+master craftsmanship!<PAGE><FACE_POS_RIGHT><FACE_SHENG><FACE_HAPPY><MYNAME>, this tool is
+gonna serve you well!
+Go on, take it!
+----------------------------|----------------------------------
+\u2137You received the
+ultimate <RED>Sickle</COLOR>!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_SHENG><FACE_ANGRY><FP_RIGHT>With this upgrade, you can
+charge up your sickle with
+even more power!<PAGE>Just like before,
+<RED>hold down the A Button</COLOR> to
+charge up...<PAGE>And when you get to the spot
+you want to mow, let 'er
+rip!<PAGE>In one mighty swing, you'll
+<RED>mow a bunch of squares</COLOR>!<PAGE><FACE_POS_RIGHT><FACE_SHENG><FACE_NORMAL>But the best explanation
+is a demonstration!
+\u270aJust...<PAGE>Give it a try!<PAGE><FACE_POS_RIGHT><FACE_SHENG><FACE_HAPPY>Hmmm...seems to me like this
+sickle has reached the
+<RED>maximum power</COLOR> possible!<PAGE><FACE_POS_RIGHT><FACE_SHENG><FACE_ANGRY>What a long, hard road to
+bring it to this point...
+A tool like no other!<PAGE><FACE_POS_RIGHT><FACE_SHENG><FACE_HAPPY><MYNAME>, you've put in a
+lot of hard work too!
+It's a real accomplishment!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_SHENG><FACE_NORMAL><FP_RIGHT>I don't mind patting myself
+on the back for this piece
+of work!<PAGE>Keep up the good work out on
+the farm!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>★ＥＲＲＯＲ！★</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>★ＥＲＲＯＲ！★</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>★ＥＲＲＯＲ！★</COLOR>

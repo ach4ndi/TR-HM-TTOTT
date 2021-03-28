@@ -1,0 +1,81 @@
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>Error!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>So you saw my request on
+the message board?<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_SAD>But it's getting late, so
+maybe I'll ask you another
+time.<PAGE>Sorry about that. I know how
+busy you are with your farm.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>Error!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_HAPPY><FP_RIGHT>So you saw my request on
+the message board?
+Thank you!<PAGE>Now let's get started!
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>Error!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>Error!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_HAPPY><FP_RIGHT>Here's our farm. It's
+lovely, isn't it?<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL>I'd like you to <RED>brush</COLOR>
+the animals.<PAGE>Now make sure you get <RED>every
+single one of them</COLOR>!
+<PAGE>Come tell me when you're
+finished.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_HAPPY><FP_RIGHT>Here's our farm. It's
+lovely, isn't it?<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL>I'd like you to do
+the <RED>milking</COLOR>.<PAGE>When you collect the milk,
+it'll automatically be sent
+to the farm's storage.<PAGE>Come tell me when you're
+finished.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>Error!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>Error!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_HAPPY><FP_RIGHT>So you're all done?
+Thanks!
+<PAGE>Well, I should give you
+your reward.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>So you're all done, then?
+You've been a big help.<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_SAD>Only I wish you could have
+let me know before the day
+was over.<PAGE>Please make sure to do that
+next time, alright?<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL>Well, I should give you
+your reward.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>So you're all done, then?
+You've been a big help.<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_SAD>Only I wish you could have
+let me know a little bit
+earlier.<PAGE>Please make sure to do that
+next time, alright?<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL>Well, I should give you
+your reward.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>Error!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>You've done a very nice job!
+Just what I would have
+expected from you!<PAGE>Well, here's your reward.
+Please take it!
+No need to be shy!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>Error!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>Error!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_HAPPY><FP_RIGHT>And here's something extra.
+You really helped me out
+by getting it done so soon!
+----------------------------|----------------------------------
+\u2137You got a <VAR_1>!
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>This was a big help.
+I may ask you to help
+out again some other time!
+----------------------------|----------------------------------
+\u2137You finished all the work
+you were asked to do!

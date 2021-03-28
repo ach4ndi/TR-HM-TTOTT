@@ -1,0 +1,134 @@
+<FACE_POS_RIGHT><FACE_ASH><FACE_SHY><FP_RIGHT>Ada yang salah?
+Kamu terlihat pucat...<PAGE><FACE_POS_RIGHT><FACE_ASH><FACE_ANGRY><FP_RIGHT>Kelihatannya tidak demam
+atau mengigil, tapi ayo
+pergi ke dokter untuk<PAGE>menyakinkan apa yang
+terjadi.
+Tunggu sebentar ya!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_SAD><FP_RIGHT>K-kamu tidak apa-apa?
+Kamu terlihat pucat!<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_SHY><FP_RIGHT>Kelihatannya tidak demam
+atau mengigil, Apa
+penyebabnya ya?<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_ANGRY><FP_RIGHT>Tunggu sebentar ya!
+Aku akan memanggil dokter
+Ayame.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_SHY><FP_RIGHT>Ada yang aneh...
+Kamu tampak pucat.<PAGE><FACE_POS_RIGHT><FACE_CAM><FACE_ANGRY><FP_RIGHT>Tunggu ya...
+Aku akan memanggilkan
+dokter!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_SAD><FP_RIGHT><MYNICKNAME>...apa kamu baik-baik saja?
+Kamu tampaknya...
+lebih buruk buruk buruknya.<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_ANGRY><FP_RIGHT>Aku akan memanggil dokter
+Ayame! Tunggu sebentar ya!
+Jangan kemana-mana!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MIKHAIL><FACE_SHY><FP_RIGHT>Ada apa ini? Kamu ... wajah
+mu putih seputih boneka
+lilin saja.<PAGE><FACE_POS_RIGHT><FACE_MIKHAIL><FACE_ANGRY><FP_RIGHT>Aku akan pergi kedokter.
+Tunggu disini ya, aku
+akan kembali.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_SAD><FP_RIGHT>Hee, ada apa?
+Kamu tampak pucat?!<PAGE><FACE_POS_RIGHT><FACE_DIRK><FACE_NORMAL><FP_RIGHT>Aku akan pergi ke tempatnya
+Ayame, dia tahu apa yang
+salah denganmu...<PAGE><FACE_POS_RIGHT><FACE_DIRK><FACE_ANGRY><FP_RIGHT>Tunggu disini ya, oke,
+okay, <MYNICKNAME>?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Apa kamu merasa tidak sehat?
+Kamu tampak pucat...
+Ayo kita cek apa ya...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Oh .....
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Aku harapkan kalian berdua
+siap-siap untuk mendengarkan
+berita duka atau kusebut ini<PAGE>berita yang membuat kalian
+penasaran dalam kehidupanmu
+... hahaha<PAGE><FACE_POS_RIGHT><FACE_AYAME><FACE_HAPPY><FP_RIGHT>Kalian berdua akan menjadi
+seorang bapak dan ibu,
+alias orang tua!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_AYAME><FACE_HAPPY><FP_LEFT>Selamat!
+Kamu akan memiliki seorang
+bayi!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL><FP_RIGHT>Ba... bayi?
+Apa, ... benarkah?<PAGE><FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT><MYNICKNAME>, apa ini bagus?
+Aku sangat senang!<PAGE><FACE_POS_RIGHT><FACE_ASH><FACE_SHOCK><FP_RIGHT>Aku tidak sabar untuk meli-
+hat anak kita seperti apa
+nantinya!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_NORMAL><FP_RIGHT>Aku sudah mengetahuinya!
+Tapi gak yakin... tapi aku
+sudah mencurigahinya itu...<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_SHOCK><FP_RIGHT>Aku sangat legah, kita
+akan memiliki bayi...<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_HAPPY><FP_RIGHT>Aku penasaran jika bayi
+kita itu laki-laki atau
+perempuan...<PAGE>Terserah itu apa, aku tahu
+semuanya itu akan pasti
+menggemaskan seperti pipi<PAGE>tembemnya alfi yang sering
+nongol di tv kota itu...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT>A...A~ ...
+Bayi?
+Benarkah?<PAGE><FACE_POS_RIGHT><FACE_CAM><FACE_HAPPY><FP_RIGHT>Aku tidak mempercayahinya,
+<MYNICKNAME> dan aku akan
+memiliki bayi...<PAGE><FACE_POS_RIGHT><FACE_CAM><FACE_SHOCK><FP_RIGHT>Aku sangat senang.
+Aku penasaran rupa bayi
+kita....
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>Benarkah?
+Oke, jadi itu kenapa...<PAGE>Yahoo! Itu sangatlah keren!
+Kita akan memiliki bayi.
+Kita akan memiliki bayi.<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_SHOCK><FP_RIGHT>Sangat penasaran saat ini!
+Apa rupanya seperti Hayate!
+Aku tidak sabar menunggunya!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>Kita akan memilki seekor
+bayi? eh maksudku bayi...<PAGE><FACE_POS_RIGHT><FACE_MIKHAIL><FACE_HAPPY><FP_RIGHT>Bagus! Aku merasakan aku
+bisa menuliskan sebuah
+simphony kesengan saat ini!<PAGE>Aku tahu! Aku akan menulis
+kan sebuah lagu buat bayi
+kita.<PAGE><FACE_POS_RIGHT><FACE_MIKHAIL><FACE_SHOCK><FP_RIGHT>Aku tidak sabar untuk
+harta karun kita tiba di
+dunia fanah ini :v
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_NORMAL><FP_RIGHT>Apaaa!?
+A...A Bayi!?<PAGE><FACE_POS_RIGHT><FACE_DIRK><FACE_HAPPY><FP_RIGHT>Wow. Aku sangat senang. 
+Ha ha!<PAGE>Jadi aku akan menjadi se-
+orang bapak donk....
+Hahaha!<PAGE><FACE_POS_RIGHT><FACE_DIRK><FACE_SHOCK><FP_RIGHT>Aku tidak sabar untuk meli-
+hat apa laki-laki atau
+perempuan.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_AYAME><FACE_HAPPY><FP_RIGHT>Heh heh. Maka aku akan
+pergi sekarang.<PAGE><FACE_POS_RIGHT><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Panggil aku disaat waktunya
+sudah tiba. Aku akan
+langsung datang kok.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>Terima kasih banyak.
+Kita akan melihatmu nanti.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_HAPPY><FP_RIGHT>Oke. Terima kasih banyak!
+Kita akan melihatmu nanti.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_HAPPY><FP_RIGHT>Terima kasih banyak.
+Kita akan melihatmu nanti.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>Kita juga!
+Makasih, Ayame!
+Sampai jumpa lagi!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MIKHAIL><FACE_HAPPY><FP_RIGHT>Terima kasih.
+Kamu sudah membantu banyak.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_HAPPY><FP_RIGHT>Terima kasih! Aku lega
+bahwa kamu datang kesini,
+Ayame!<PAGE>Kita akan bertemu
+lagi nanti!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_AYAME><FACE_HAPPY><FP_RIGHT>Dengan senang hati :3,
+jangan terlalu keras bekerja
+nya ya, jaga kesehatannya.<PAGE><FACE_POS_RIGHT><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Dan pastikan perhatikan
+kesehatannya,
+<MYNAME>!

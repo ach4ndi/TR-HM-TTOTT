@@ -1,0 +1,812 @@
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>Isn't spring the best?
+These warm, lazy days are
+awesome.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>Isn't spring awesome?<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>Riding a horse around on the
+mountain in spring is the
+best feeling!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>The cherry blossoms are
+just about in full bloom!<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>Let's take picnic lunches
+and go watch them sometime.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>Before summer gets too hot,
+I gotta clean up my house
+and stuff.<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_SHY><FP_RIGHT>Man, cleaning is such a
+bummer...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>It's hot these days!<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>Don't get heatstroke!!
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>Eating spicy food when it's
+hot outside gives you
+stamina!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>Nonstop muggy weather, yuck!<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_SHY><FP_RIGHT>My animals look like they're
+melting... I gotta
+do something for 'em.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>Know what's awesome in the
+summer?
+Camping on the mountain!<PAGE>We gotta go do something
+fun like that one of these
+days!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>Fall is here for real!
+Lotsa great food grows wild
+this time of year.<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>We should go to the mountain
+and see what we can find!
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>Great weather like this
+makes everything easier.<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>My horses have been loving
+it.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>The temperature changes in a
+flash these days.<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>It's chilly in the morning
+and evening. Careful you
+don't catch cold!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>A long time ago, I helped an
+injured fox.
+<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>It really took to me. It
+even followed me home!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>It's gotten way cold.<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>Lotsa work to do this time
+of year, so hang in there!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>Been cold recently, yeah?<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>Wear warm stuff or you'll
+catch a cold!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_ANGRY><FP_RIGHT>On cold days, you gotta
+keep moving!<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>You can't let cold stop ya
+from doing what you need
+to do!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>When it's cold, you gotta
+eat hot food to keep your
+strength up!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>When the weather's nice,
+I feel like singing!<PAGE>Wanna sing with me?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>I feel so mellow when the
+weather's nice.<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>Today's gonna be a good day!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>When the weather's nice, I
+feel like heading out to do
+something fun!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>Clear, sunny days make me
+wanna take a long ride on
+my horse.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>It's really raining hard.<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_SHY><FP_RIGHT>My horses were outside in
+it this morning. I had to
+bring 'em in fast!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>It's totally pouring rain!<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_SHY><FP_RIGHT>Looks like it's gonna keep
+coming down all day...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>On rainy days, it's easy to
+slip, so watch your step.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_SHY><FP_RIGHT>It's really coming down
+in buckets out there.<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>Hope the weather clears up!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>I love snow!<PAGE>Snowball fights are totally
+awesome!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>Snow's really coming down.<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>If we get enough snow, we
+can build igloos!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>Hey, this reminds me of this
+time I made an awesome
+bear out of snow.<PAGE>I showed it to Hiro...
+Guess what that guy did?<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>\u20d0He totally freaked out!
+He thought it was a real
+bear and ran away!<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_SAD><FP_RIGHT>Unreal... Sometimes I don't
+know where that guy's head
+is at.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>Making snowmen is seriously
+fun!<PAGE>But maybe I should try a
+snow horse instead! How
+awesome would that be?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_SHY><FP_RIGHT>I gotta say, this spot...<PAGE>Isn't it way boring?<PAGE>Let's go someplace else.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_SHY><FP_RIGHT>Hey, y'know...<PAGE>Don't you wanna go someplace
+more fun?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>Today was SERIOUSLY fun!
+Thanks!<PAGE>We gotta hang out more!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>See ya later!
+Be safe on your way home.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_SHY><FP_RIGHT>I'm outta here.
+Later.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>Today was SERIOUSLY fun!
+We gotta take quality time
+like this more often!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>...<MYNAME>...<PAGE>I got something important
+I wanna talk about.<PAGE>Will you go out with me?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>Talking to you totally gives
+me a boost.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>Talking to you totally gives
+me a boost.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>Talking to you totally gives
+me a boost.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>Talking to you totally gives
+me a boost.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>Talking to you totally gives
+me a boost.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>Talking to you totally gives
+me a boost.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>Talking to you totally gives
+me a boost.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>Talking to you totally gives
+me a boost.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>Talking to you totally gives
+me a boost.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>Talking to you totally gives
+me a boost.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>Talking to you totally gives
+me a boost.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>Talking to you totally gives
+me a boost.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>Talking to you totally gives
+me a boost.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>Talking to you totally gives
+me a boost.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>Talking to you totally gives
+me a boost.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>Aren't animals awesome?<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>If you raise 'em with tons
+of love, they love you back!<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>You should totally raise
+more animals! It's fun!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>Aren't animals awesome?<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>If you raise 'em with tons
+of love, they love you back!<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>You've got a good number
+of animals on your farm
+now.<PAGE>With any animal, you gotta
+take good care of it. No
+prob for someone like you!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>Aren't animals awesome?<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>I gotta say, though...
+You've got a TON of animals
+that you're raising.<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>I can't let you beat me!
+Awright! I'm gonna boost my
+herd to 300 horses...<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_SHY><FP_RIGHT>Huh? What's up with that
+look you're giving me?
+C'mon, I'm just joking!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>So I heard that you collect
+bugs...<PAGE>Huh...<PAGE>Looks like your collection's
+not so big yet.<PAGE>You know you can find
+different bugs in different
+places at different seasons?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>So I heard that you collect
+bugs...<PAGE>Huh...<PAGE>How about that?<PAGE>Looks like you got a pretty
+good collection.<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>Keep on looking, and I bet
+you'll find some more.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>So I heard that you collect
+bugs...<PAGE>Huh...<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>Whoa!<PAGE>You've seriously collected
+a massive number!<PAGE>You're really something!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>So I heard that you keep a
+record of all the fish that
+you've caught.<PAGE>Huh...<PAGE>Looks like there's
+a ton of kinds of fish that
+you haven't caught yet.<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>Remember that different fish
+are out there in different
+seasons!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>So I heard that you keep a
+record of all the fish that
+you've caught.<PAGE>Huh...<PAGE>Looks like you got a pretty
+good haul.<PAGE>Check some out-of-the-way
+spots, and you might find
+even more kinds of fish.<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>So go for it!
+I'm backing you all the way!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>So I heard that you keep a
+record of all the fish that
+you've caught.<PAGE>Huh...<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>Whoa!
+Awesome!<PAGE>You've collected a seriously
+massive haul!<PAGE>You and me should go out
+and try to catch some rare
+kinds of fish. How bout it?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>So is it true that you're
+good at coming up with
+new recipes for dishes?<PAGE>Huh...<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_SHY><FP_RIGHT>Looks like you're just
+getting started.
+<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>Tell me if you come up with
+some good recipes.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>So is it true that you're
+good at coming up with
+new recipes for dishes?<PAGE>......<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>Whoa!
+You've seriously cooked up
+a ton of new recipes!<PAGE>Hey, do you have any
+recipes for horse treats?<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_SHY><FP_RIGHT>No dice, huh? Bummer.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>So is it true that you're
+good at coming up with
+new recipes for dishes?<PAGE>......<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>Whoa-ho! Awesome!
+Check out the massive number
+of recipes you came up with!<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_SHY><FP_RIGHT>But...<PAGE>Still no recipe for horse
+treats?<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>Well, I'm impressed anyway.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>Talking to you totally gives
+me a boost.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>Talking to you totally gives
+me a boost.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>Talking to you totally gives
+me a boost.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>Talking to you totally gives
+me a boost.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>Talking to you totally gives
+me a boost.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>Talking to you totally gives
+me a boost.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>Talking to you totally gives
+me a boost.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>Talking to you totally gives
+me a boost.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>Talking to you totally gives
+me a boost.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>Talking to you totally gives
+me a boost.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>Talking to you totally gives
+me a boost.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>Talking to you totally gives
+me a boost.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>Talking to you totally gives
+me a boost.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>Talking to you totally gives
+me a boost.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>Talking to you totally gives
+me a boost.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>Talking to you totally gives
+me a boost.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>Talking to you totally gives
+me a boost.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>Talking to you totally gives
+me a boost.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>Talking to you totally gives
+me a boost.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>Talking to you totally gives
+me a boost.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>Talking to you totally gives
+me a boost.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>Talking to you totally gives
+me a boost.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>Talking to you totally gives
+me a boost.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>Talking to you totally gives
+me a boost.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>Talking to you totally gives
+me a boost.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>Talking to you totally gives
+me a boost.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>Talking to you totally gives
+me a boost.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>Talking to you totally gives
+me a boost.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>Talking to you totally gives
+me a boost.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>Talking to you totally gives
+me a boost.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>Talking to you totally gives
+me a boost.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>Talking to you totally gives
+me a boost.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>Talking to you totally gives
+me a boost.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>Talking to you totally gives
+me a boost.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>Talking to you totally gives
+me a boost.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>Talking to you totally gives
+me a boost.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>Talking to you totally gives
+me a boost.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>Talking to you totally gives
+me a boost.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>Horses are awesome!<PAGE>They can haul heavy stuff
+for you.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>The food at Yun's Tea House
+tastes awesome!<PAGE>I go there to eat a lot.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>Mayor Ina always dresses so
+sharp and looks so cool.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>If you want to rent a horse
+here in our village, come
+to my place.<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>Or drop by and talk with me
+about anything!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>Every year in the village,
+we go see the cherry
+blossoms.<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>It's tons of fun.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>Each kind of horse has its
+own special traits.<PAGE>They come in different
+colors, too. Pick whichever
+calls out to you.<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>They're all so lovable,
+y'know?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>That little girl Ying at
+Yun's Tea house is so nice.<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>Whenever I go to eat there,
+she brings me tea.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>Mayor Ina is an awesome
+horse rider.<PAGE>The horses never get
+skittish with her.<PAGE>Goes to show what an amazing
+mayor she is...
+She even knows horses!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>If you want to rent a horse
+here in Konohana, come
+to my place.<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>And also if you want a pet!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>At the Cherry Blossom
+Festival, everybody brings a
+dish they made.<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>Eating a meal while looking
+at the cherry blossoms is
+an awesome experience!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>I grew up around horses.<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>They're like part of my
+family.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>I got that Rahi kid all
+figured out...<PAGE>I ran into him at Yun's Tea
+House the other day...<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>He's always paying attention
+to little Ying, y'know?<PAGE>It's so neat how he
+looks out for her. What a
+great kid!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>Maybe you already know this,
+but...<PAGE>When a new person comes to
+the village, Mayor Ina helps
+them out with stuff.<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>She wants people from other
+places to know what a great
+village this is.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>If you get along well with
+your pet, it'll help you
+out with various chores.<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>They're just so lovable,
+I'm telling ya.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>At our Cherry Blossom
+Festival you get compliments
+on the food you brought.<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>It's cool to have people
+appreciate the dish that you
+made.<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>Y'know...<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>I'm mainly about eating food
+rather than cooking it, so
+I'm always appreciative!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_SHY><FP_RIGHT>Recently, my horse Hayate
+hasn't been feeling too
+well..<PAGE>I know that someday I'll
+have to say goodbye to her.<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_SAD><FP_RIGHT>I don't like to think about
+it.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>When I went to Yun's Tea
+House a while back...<PAGE>Sheng was apologizing
+to Yun.<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_SHY><FP_RIGHT>Seems like he forgot his
+wallet back at home.<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_SAD><FP_RIGHT>Happens to me ALL the time.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_SHY><FP_RIGHT>A while back, my cat
+got into the mayor's
+house and made a mess.<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_SAD><FP_RIGHT>Man, she was SO mad.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>I love getting to name a
+new pet.<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>My housecat first showed up
+on Spring 1st. I named him
+Happy, like Happy New Year!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>Oh hey, by the way...<PAGE>At the last Cherry Blossom
+Festival, Reina was, like,
+giddy with happiness...<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_SHY><FP_RIGHT>That's the first time I've
+ever seen her laugh like
+that.<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>Something must have happened
+to make her SERIOUSLY happy.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>I rode Hayate to the tea
+house the other day.<PAGE>I ate over there, and the
+gyoza were...
+\u270a\u270a<FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>AWESOME!! Best tasting EVER!<PAGE>Crisp on the outside!
+Scrumptious on the inside!<PAGE>Whoa-ho!
+Can't wait to eat 'em again.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>I went over to Yun's Tea
+House earlier...<PAGE>Rahi and Hiro were doing
+sumo wrestling.<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_SHY><FP_RIGHT>Hiro...
+Well, he lost.<PAGE>It must have been on purpose
+right? Sure, yeah...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>When I was a kid, a bear
+scared me one day up on the
+mountain.<PAGE>The mayor came to help me.<PAGE>With one blow, 
+she KO'ed that bear!!<PAGE>Even though I was just a
+kid, I knew...<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>With such a strong mayor,
+I'd always be safe living
+in Konohana!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>My shop is open from 10 am
+to 5 pm.<PAGE>What?
+You think those are short
+hours?<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_SAD><FP_RIGHT>Aw, I'm sorry about that.<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_SHY><FP_RIGHT>Cause of all the work it
+takes to care for my animals
+that's all I can manage.<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>But drop by any time when
+my shop's open!<PAGE>It's always cool to see you!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>Our Cherry Blossom Festival
+is totally a blast.<PAGE>But just when the party gets
+going, y'know, it's over.<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>I wish there was an after-
+party, and an after-after-
+party to keep the fun going!<PAGE>Yeah!
+I'm gonna ask the mayor
+about that.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>That dude who works with
+Dr. Ayame, right? Hiro?
+He's a trip, y'know?<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>We go eat at Yun's Tea House
+together a ton.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>Nori lives with her grandpa
+Gombe.<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>They really look out for
+each other. It's great!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>It feels awesome to ride a
+horse around the mountain.<PAGE>I go riding up there all
+the time.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>When I was kid, I went with
+my dad to see a play.<PAGE>We both rode on horseback to
+a town miles from here. It
+was a blast!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>My horses are all rugged
+stallions and lovely mares!!<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>And they all have a ton of
+energy!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_SHY><FP_RIGHT>Hiro is one of those guys
+that I always gotta keep
+an eye on, y'know?<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>He almost always needs a
+hand with something!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>Nori is clever with her
+hands. She's great at 
+needlework.<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>A while back she fixed some
+pants of Hiro's that
+had gotten ripped.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>Hayate is like the ideal
+girlfriend.<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_SHY><FP_RIGHT>She's strong, but also
+refined!<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>For real,
+the best horse EVER!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>When I was little...<PAGE>I saw a play about a warrior
+who beats down the bad guys
+with his sword.<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>It was totally awesome!<PAGE>For a long time after that,
+I would make believe I was a
+warrior all the time.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>Maybe I'm a little biased,
+but I think I've got the
+most gorgeous horses around.<PAGE>They're so well behaved,
+too. They're awesome!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_SHY><FP_RIGHT>A while back, my dog stole
+some sheets from Hiro's
+clinic.<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_SAD><FP_RIGHT>When I went over there to
+apologize, he actually
+thanked ME...<PAGE>That dude doesn't have a
+mean bone in his body.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>Hiro and Nori get along
+so awesome, y'know?<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>She acts like his mom or
+something.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_SAD><FP_RIGHT>*yawn*<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_SHY><FP_RIGHT>...Sorry 'bout that.<PAGE>Yesterday I was taking care
+of my horses and fell asleep
+in the stable.<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_SAD><FP_RIGHT>My neck is killing me.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>Isn't there a festival where
+horses are the main event?<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_SHY><FP_RIGHT>If there was, I would be
+ALL over it!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>To me...<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_ANGRY><FP_RIGHT>Hayate looks fantastic
+from every angle..<PAGE>There couldn't be a more
+beautiful horse in the whole
+world, y'know?<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_SHOCK><FP_RIGHT>I do get carried away when
+it comes to Hayate.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>A while back, during a heavy
+rain, I saw a cat swept away
+by the river.<PAGE>Hiro was with me and he
+tried to grab it...\u270b
+<FACE_POS_RIGHT><FACE_KANA><FACE_SAD><FP_RIGHT>But he got swept away too.<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_SHY><FP_RIGHT>In the end, I was able to
+rescue Hiro and the cat.
+So it turned out okay.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>A while back, I saw Reina...
+come running out of Nori's
+house in a fancy dress.<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_SHY><FP_RIGHT>She looked really beautiful,
+y'know? I didn't even
+know it was her at first...<PAGE>So I've been wondering
+what was the deal with her
+being in such a rush.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>Hayate can run like the
+wind.<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>When it comes to speed,
+no other horse can even
+come close!! No lie!!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>You ever heard of horseback
+archery?<PAGE>You shoot arrows from the
+back of a galloping horse...<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>Now that is the coolest
+thing ever!!<PAGE>I want to try that riding
+Hayate sometime.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_SHY><FP_RIGHT>Recently I've had my hands
+full with a lady...<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_SHOCK><FP_RIGHT>She can be kinda prickly
+to deal with usually.<PAGE>But she's actually nice...
+and has calm, kind eyes.<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>She's a really great
+horse, y'know?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>It may look like Hiro
+is like my sidekick...<PAGE>But I have a lot of respect
+for him.<PAGE>He's willing to do whatever
+he can to help people out.<PAGE>That's what's great about
+the dude.<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>I'm gonna get better at
+doing that stuff too!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>A while back, Hiro and I
+went to have tea over at
+Nori's place.<PAGE>She served us strawberry
+candy.<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_SHY><FP_RIGHT>Thing is, I really can't
+stand sweet stuff...<PAGE>So I gave him my strawberry
+candy...<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_SAD><FP_RIGHT>Know what he did?<PAGE>He ate all of his and mine
+too... 20 of them! Wonder if
+he got a stomach ache...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>A while back...<PAGE>I was riding Hayate on the
+mountain when some dude
+started tailgating me.<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_SHY><FP_RIGHT>That got me riled up
+right away...<PAGE>So I had a battle with him
+on the mountain pass.<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>His horse was wicked fast.<PAGE>It was an epic race. Things
+got seriously intense!<PAGE>Of course,
+Hayate and I won.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>It looks hard to swordfight
+from horseback.<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>Just once, I'd love to try
+it while riding on Hayate!<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_SHY><FP_RIGHT>But it's not like there's
+anybody to fight around
+here.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>I spend a lotta time
+teaching Rahi how to ride.<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>He's got skills!<PAGE>He gets on good terms with
+the horses right away,
+so I never worry about him.<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>I wish everyone was a
+natural like him...<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_SHY><FP_RIGHT>I'm trying to teach Hiro,
+but he can barely stay in
+the saddle for a minute!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>Yun and Ying sure are nice
+folks.<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>Time seems to fly by
+when I'm hanging around
+with those gals.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>When I was a kid, I went to
+a horse race in a faraway
+town.<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>Horse racing is just
+awesome, y'know?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>Being in the horse rental
+biz, I hear all kinds of
+stories and stuff.<PAGE>I hear what people who
+traveled to far-off villages
+did. It's interesting stuff!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>When I was a kid, I was
+always wild and reckless.<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>A lot of people say I
+haven't changed a bit!
+<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_SHY><FP_RIGHT>I dunno about that,
+though...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>So, <MYNAME>...<PAGE>You're, like,...\u270b
+<FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>...never boring, y'know?<PAGE>I always have a great time
+talking to you!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_SHY><FP_RIGHT>Sheng talks FOREVER, I'm
+telling you...<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_SAD><FP_RIGHT>Hiro went over to his
+house a while ago and still
+hasn't come back yet.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_SHOCK><FP_RIGHT>Your hair is...<PAGE>...totally pretty and stuff.<PAGE>......<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>That's what I thought
+when I saw a horse with a
+gorgeous coat.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>Being in the horse rental
+biz, I hear all kinds of
+stories and stuff.<PAGE>Other villages have events
+that are different from the
+ones around here...<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_SHY><FP_RIGHT>Ones that only the residents
+of those villages can enter.<PAGE>It's kinda too bad I can't
+enter one of those events.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>When I was a kid, I was
+always wild and reckless.<PAGE>Y'know, I once tested
+my strength against
+a wild boar.<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_SHY><FP_RIGHT>I still remember how it
+knocked me down and left me
+seeing stars...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>So, <MYNAME>...<PAGE>You're, like...\u270b
+<FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>...really cool, y'know?<PAGE>I know we're gonna have a
+ton of great talks.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_SHY><FP_RIGHT>I've been thinking
+recently...<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_SAD><FP_RIGHT>Know what's missing in
+this village?<PAGE>......<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_ANGRY><FP_RIGHT>\u20d0SOMEBODY WHO GETS MY JOKES!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_SHOCK><FP_RIGHT>Your eyes are, like...<PAGE>...totally gorgeous and I'm
+blown away by them.<PAGE>......<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>That's what I thought
+when I saw this seriously
+gorgeous horse.<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>Don't tell Hayate. I don't
+want her to get jealous.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>When folks come to Konohana,
+we welcome them big-time!<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>It's a great spot to settle
+down in or to visit.<PAGE>The more the merrier, yeah?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>When I was a kid, I was
+always wild and reckless.<PAGE>I loved to play around the
+river.<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>I was always bouncing around
+like a madman, so I fell in
+the river a TON of times...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>So, <MYNAME>...<PAGE>You're, like,...\u270b
+<FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>...really nice, y'know?<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>You do all that thoughtful
+stuff for people. You're
+totally awesome!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>You know about Doc Ayame's
+famous treatment?<PAGE>She gives the HUGEST
+shots you've ever seen!<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_SHY><FP_RIGHT>I seriously hope I never
+get sick...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>Wow, you...<PAGE>...are simply GORGEOUS.
+<PAGE>......<PAGE>That's what I said to some
+horse I've never seen before
+in this dream I had.<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_SHY><FP_RIGHT>Even in a dream, I can't
+believe I would say that to
+any horse other than Hayate!<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_SAD><FP_RIGHT>Like, what is WRONG with me?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>There's this violinist who
+comes to Konohana sometimes.
+Majorly interesting dude.<PAGE>A while back, he came to see
+my horses...<PAGE>He was muttering that he
+could hear a harmony in
+their whinnying.<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_SHY><FP_RIGHT>Beats me what he meant.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>When I was a kid I was
+always wild and reckless.<PAGE>One time I worked all night
+cleaning the stables and
+ended up collapsing!<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_SHY><FP_RIGHT>Gotta get enough sleep,
+that's the deal there...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>So, <MYNAME>...<PAGE>You're, like,...\u270b
+<FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>...really cute, y'know?<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>Like, not just I think so,
+EVERYBODY says it about you,
+<MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>A while back, Mako rented a
+horse from me.<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>What a total mountain man!
+He can really ride!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_ANGRY><FP_RIGHT>You're the only one for me!
+<PAGE>I'll never let you go!
+I'll take care of you for
+as long as I live.<PAGE>......<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_SHY><FP_RIGHT>I had a dream where I said
+that to a horse.<PAGE>Man, maybe I've been
+thinking about horses too
+much.<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_SAD><FP_RIGHT>Maybe I've been working too
+hard recently? I dunno...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>Raul and his brothers import
+stuff from all over the
+world for their shop.<PAGE>I don't know how they keep
+track of all that stuff.
+<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>But I'm glad they never
+forget about the animal
+feed!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>When I was a kid, I was
+always wild and reckless.<PAGE>But you know what I never
+ever skipped out on doing?
+Feeding the animals.<PAGE>It's like...<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>If they had to go without
+food, I'd feel terrible!
+I couldn't do that to 'em!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_SHOCK><FP_RIGHT>......
+So hey...<PAGE>If it's cool with you...<PAGE>You and I should hang out
+and talk and stuff more.<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>Let's do it, yeah?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT><MYNICKNAME>, how long's it been
+since we first met?<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>Being with you, the time
+totally flies by.<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_SHOCK><FP_RIGHT>No matter what, I want us to
+always be together.<PAGE>You and me, babe.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>Hey, <MYNICKNAME>.<PAGE>Being with you, I understand
+now how important family is.<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_SHOCK><FP_RIGHT>Work is important, but you
+gotta take care of yourself.<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>Know what?<PAGE>We should all take a family
+trip on horseback, totally!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT><MYNICKNAME>...<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_SHOCK><FP_RIGHT>It's awesome that we're
+together forever...<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>I'm always gonna treat you
+right, I swear!

@@ -1,0 +1,180 @@
+Hari ini adalah <RED>Festival
+Memasak</COLOR>! Pergi ke
+Pegunungan disaat siang hari.<PAGE>Temanya adalah:
+<VAR_4>.
+----------------------------|----------------------------------
+Hari ini adalah <RED>Festival
+bunga sakura</COLOR>! Bawalah
+sebuah hidanagn kebalai<PAGE>desa saat siang hari.
+----------------------------|----------------------------------
+Hari ini adalah <RED>Kontes
+Tangkap Ikan dengan Tangan</COLOR>!<PAGE>Pergi kebalai desa saat
+siang hari!
+----------------------------|----------------------------------
+Hari ini adalah <RED>Festival
+Bintang</COLOR>! Pergi ke
+balai desa saat malam hari.
+----------------------------|----------------------------------
+Hari ini adalah <RED>Festival
+Musik</COLOR>! Pergi kebalai
+desa saat siang hari.
+----------------------------|----------------------------------
+Hari ini adalah <RED>Festival
+Labu</COLOR>! Buatlah makanan
+yang manis!
+----------------------------|----------------------------------
+Hari ini adalah <RED>Hari
+Harmoni</COLOR>!<PAGE>Berikan coklat untuk memper-
+lihatkan ketertarikanmu itu!
+----------------------------|----------------------------------
+Hari ini adalah <RED>Hari
+Harmoni</COLOR>!<PAGE>Ini akan bagus jika sese-
+orang memberikanmu sebuah
+hadiah.
+----------------------------|----------------------------------
+Besok adalah <RED>Festival
+malam bintang</COLOR>! Ajaklah se-
+seorang untuk pergi bersama<PAGE>denganmu.
+----------------------------|----------------------------------
+Hari ini adalah <RED>Festival
+malam bintang</COLOR>!<PAGE>Kamu akan pergi bersama
+<RED><VAR_0></COLOR>.<PAGE>Pergilah ke 
+<RED><VAR_1></COLOR>
+di jam 8 PM!
+----------------------------|----------------------------------
+Hari ini adalah <RED>Festival
+malam bintang</COLOR>! Nikmati
+dengan keluargamu.
+----------------------------|----------------------------------
+Hari ini adalah <RED>Festival
+Tahun baru</COLOR>! Pergu kebalai
+desa dimalam hari.
+----------------------------|----------------------------------
+Hari ini adalah <RED>Festival
+Tanaman Musim Semi</COLOR>!<PAGE>Pergi kedesa sekitar siang
+hari!<PAGE>Temanya adalah:
+<VAR_3>.
+----------------------------|----------------------------------
+Hari ini adalah <RED>Festival
+Tanaman Musim Panas</COLOR>!<PAGE>Pergi kedesa sekitar siang
+hari!<PAGE>Temanya adalah:
+<VAR_3>.
+----------------------------|----------------------------------
+Hari ini adalah <RED>Festival
+Tanaman Musim Gugur</COLOR>!<PAGE>Pergi kedesa sekitar siang
+hari!<PAGE>Temanya adalah:
+<VAR_3>.
+----------------------------|----------------------------------
+Hari ini adalah <RED>Festival
+Anak-anak</COLOR>! Bawakan
+cemilan ke balai desa,<PAGE>Saat siang hari.
+----------------------------|----------------------------------
+Hari ini adalah <RED>Kontes
+Serangga</COLOR>! Tangkap yang
+banyak!<PAGE>Datang ke balai desa saat
+siang hari.
+----------------------------|----------------------------------
+Hari ini adalah <RED>Kontes
+memancing</COLOR>!<PAGE>Ambil pancinganmu dan pergi
+ke balai desa saat siang
+hari!
+----------------------------|----------------------------------
+Hari ini adalah <RED>Festival
+Memandang Rembulan</COLOR>!<PAGE>Pergi ke balai desa untuk
+melihat bulan yang indah
+itu.
+----------------------------|----------------------------------
+Hari ini adalah <RED>Festial
+Salju</COLOR>!<PAGE>Dan pastinya banyak yang 
+membuat sebuah patung salju!<PAGE>Datang ke balai desa saat
+siang hari.
+----------------------------|----------------------------------
+Hari ini adalah <RED>Festival
+Tahun baru</COLOR>!<PAGE>Makan mie soba dibalai desa
+dimalam ini.
+----------------------------|----------------------------------
+Sepertinnya ini sudah peng-
+hujung bulan ini. Aku harus
+memanen tanamanku.
+----------------------------|----------------------------------
+Sepertinnya ini sudah peng-
+hujung bulan ini. Aku harus
+memanen tanamanku.
+----------------------------|----------------------------------
+Hari ini adalah <RED>Festival
+Ayam</COLOR>!<PAGE>Datang ke balai desa saat
+siang hari.
+----------------------------|----------------------------------
+Hari ini adalah <RED>Festival
+Sapi</COLOR>!<PAGE>Datang ke balai desa saat
+siang hari.
+----------------------------|----------------------------------
+Hari ini adalah <RED>Festival
+Anjing</COLOR>!<PAGE>Datang ke balai desa saat
+siang hari.
+----------------------------|----------------------------------
+Hari ini adalah <RED>Festival
+Kucing</COLOR>!<PAGE>Datang ke balai desa saat
+siang hari.
+----------------------------|----------------------------------
+Hari ini adalah <RED>Festival
+Domba</COLOR>!<PAGE>Datang ke balai desa saat
+siang hari.
+----------------------------|----------------------------------
+Hari ini adalah <RED>Festival
+Alpaca</COLOR>!<PAGE>Datang ke balai desa saat
+siang hari.
+----------------------------|----------------------------------
+Ash
+----------------------------|----------------------------------
+Cam
+----------------------------|----------------------------------
+Laney
+----------------------------|----------------------------------
+Georgia
+----------------------------|----------------------------------
+balai desa
+----------------------------|----------------------------------
+Kafe
+----------------------------|----------------------------------
+Lobak Putih
+----------------------------|----------------------------------
+Kentang
+----------------------------|----------------------------------
+Mentimun
+----------------------------|----------------------------------
+Kubis
+----------------------------|----------------------------------
+Strawberri
+----------------------------|----------------------------------
+Lobak Merah
+----------------------------|----------------------------------
+Bawang
+----------------------------|----------------------------------
+Tomat
+----------------------------|----------------------------------
+Jagung
+----------------------------|----------------------------------
+Semangka
+----------------------------|----------------------------------
+Wortel
+----------------------------|----------------------------------
+Ubi
+----------------------------|----------------------------------
+Bayam
+----------------------------|----------------------------------
+Terong
+----------------------------|----------------------------------
+Paprika Hijau
+----------------------------|----------------------------------
+Hari ini adalah <RED>Hari Bunga</COLOR>!
+Berikan bunga kepada orang-
+orang yang ada didesa!
+----------------------------|----------------------------------
+Salad
+----------------------------|----------------------------------
+Sup (Soup)
+----------------------------|----------------------------------
+Makanan Utama (Main Dish)
+----------------------------|----------------------------------
+Makanan Penutup (Dessert)

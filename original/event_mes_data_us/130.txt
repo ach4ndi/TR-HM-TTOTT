@@ -1,0 +1,585 @@
+<FACE_POS_CENTER><HIDE_NAME><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>Huh? Who are you?
+Ooh, <MYNAME>.
+Nice to meet you!<PAGE><FACE_POS_CENTER><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>I'm <BLUE>Enrique</COLOR>. I'm the
+younger brother of Raul and
+Diego by several minutes.<PAGE>And I'm definitely the
+cutest!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_SAD><FP_RIGHT>I hate when it's stormy like
+it was yesterday!
+It makes me feel depressed.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>Can I help you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>Can I help you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>Can I help you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_HAPPY><FP_RIGHT>Yahoo!
+How exciting!
+It's so cute!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>Stop kidding around.
+Could you put that down?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>Can I help you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_HAPPY><FP_RIGHT>A blue feather!
+What great color.<PAGE>This is the nicest blue
+feather I've ever seen.
+You're lucky, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>No thanks.
+I don't need any gifts.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>That's okay. You've already
+given me enough today,
+<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>Can I help you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>Can I help you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>I don't want that.
+You should keep it.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_HAPPY><FP_RIGHT>Yahoo!
+I didn't think you'd get me
+a birthday present!<PAGE>And you even got me
+<RED>chocolate ice cream</COLOR>!
+Thank you so much!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_HAPPY><FP_RIGHT><RED>Chocolate ice cream</COLOR>!
+<RED>Chocolate ice cream</COLOR>!
+<RED>Chocolate ice cream</COLOR>!<PAGE>I'm so excited!
+Thank you soo much!
+
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>Can I help you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>Can I help you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>Yahoo!
+I didn't think you'd get me
+a birthday present!<PAGE>You're the best, <MYNAME>!
+I'm going to go brag about
+this to my brothers.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>I'm so happy! I was just
+thinking about how I wanted
+this!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>It's so great to get
+birthday presents!<PAGE>I'm going to go show this
+off to Raul and Diego.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>I'll be glad to take this.
+Thanks!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_SAD><FP_RIGHT>That's so mean!
+It's even worse than the
+pranks my brothers pull!<PAGE>I don't want a birthday
+present like this...
+*Sigh*...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_SAD><FP_RIGHT>I don't really like this,
+but I guess I'll be nice and
+take it.<PAGE>Don't give it to me again.
+Give it to Diego or Raul
+next time.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_ANGRY><FP_RIGHT><RED>Fried tofu</COLOR>...<PAGE>I've hated this ever since
+my brothers put it on my
+face when I was sleeping.<PAGE>I woke up soaked in oil!
+It was awful!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>Can I help you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>Can I help you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_HAPPY><FP_RIGHT>Marriage seems really nice.
+I'd love to get married, but
+I don't have anyone to ask.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>I hate typhoons. The rain
+just makes a mess of
+everything!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_SAD><FP_RIGHT>Once my brothers packed me
+inside a snowman.<PAGE>I get cold just thinking
+about it!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_HAPPY><FP_RIGHT>You're one of our regulars.
+You're partly to thank for
+our good sales.<PAGE>Thanks for shopping with us,
+<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_HAPPY><FP_RIGHT>You shop with us so often,
+I'll tell my brothers to
+give you a discount.<PAGE><FACE_POS_CENTER><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>Wait, they'll get mad at me,
+so maybe I'd better not.
+Sorry...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>Diego teaches me how to be
+a good salesman.
+Someday I'll go independent.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>When you're working with
+your brothers, you fight a
+lot.<PAGE>And we know just what to
+say to make each other
+angry. It can get ugly!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>It's hard being
+the youngest.<PAGE>I always have to be the
+mediator when my brothers
+fight.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>Diego and Raul are my
+older brothers.
+I hope you like them too!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>I help to stock the shop.
+It's a lot of work.
+
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>Can I help you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>Can I help you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>Can I help you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>Can I help you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>Can I help you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>Can I help you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>Can I help you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>Can I help you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>Can I help you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>Can I help you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>Can I help you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>Can I help you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>Can I help you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>Can I help you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>Can I help you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>Can I help you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>Can I help you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>Can I help you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>Can I help you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>Can I help you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>Can I help you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>Can I help you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>Can I help you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>Can I help you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>Can I help you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>Can I help you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>Can I help you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>Can I help you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>Can I help you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>Can I help you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>Can I help you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>Can I help you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>Can I help you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>Can I help you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>Can I help you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>Can I help you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>Can I help you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>Can I help you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>Can I help you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>We don't take pets here.
+Please take that somewhere
+else...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_HAPPY><FP_RIGHT>Very cute!
+Very, very cute!
+I want one too!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_SAD><FP_RIGHT>Please don't come any
+closer with that.
+Diego, Raul, save me!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>I've never seen one so tame.
+That's really rare.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>Can I help you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>Can I help you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>Can I help you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>Can I help you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>Can I help you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>Can I help you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>Can I help you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>Can I help you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>Can I help you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>Can I help you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>Can I help you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>Can I help you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_HAPPY><FP_RIGHT>A flower for me?
+Thank you!
+
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>Can I help you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>Can I help you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>Can I help you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>Can I help you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>Can I help you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>Can I help you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_HAPPY><FP_RIGHT>How exciting!
+I hope it's something great!
+
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_HAPPY><FP_RIGHT>You know your farm has my
+support! Good luck with it!
+
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>Can I help you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>What's Diego up to?
+Is he working hard?
+
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>Thank you for coming so far.
+You're very welcome here!
+
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>Can I help you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>Can I help you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>Stocking the shop is hard
+work. It takes a lot of
+stamina.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>I'm going to the other
+village with Diego and Raul.<PAGE>It will be like a little
+vacation.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>Diego and Raul can be kind
+of scary sometimes. That's
+older brothers for you!<PAGE>But I'm the youngest, so
+I'm the cutest.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_SAD><FP_RIGHT>I'm tired.
+Diego walks so fast!
+
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>It's tempting to go fast
+downhill, but if you get
+careless, you might trip!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>There's so many things I've
+never seen in this village!
+So much to sell...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>Time to head to
+Diego's shop.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_SAD><FP_RIGHT>All of the items we packed
+are so heavy...
+It's hard going uphill...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>We're finally over the hill!
+I wish Diego would carry
+some of this...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_SAD><FP_RIGHT>Th-These feel even heavier
+going downhill...
+Oooh, my legs hurt.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>We're finally there. I can
+finally put these down!
+I'm gonna be sore tomorrow!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>Can I help you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>Can I help you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>Can I help you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>Can I help you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>Can I help you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>Can I help you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>Can I help you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>Can I help you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>Can I help you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>Can I help you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>Can I help you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>Can I help you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>Can I help you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>Can I help you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>Can I help you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>Can I help you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>Can I help you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>Can I help you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>Can I help you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>Can I help you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>Can I help you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>Can I help you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>Can I help you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>Can I help you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>Can I help you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>Can I help you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>Can I help you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>Can I help you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>Can I help you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>Can I help you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>Can I help you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>Can I help you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>Can I help you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>Can I help you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>Can I help you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>Can I help you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>Can I help you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>Can I help you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>Can I help you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>Can I help you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>Can I help you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>Can I help you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>Can I help you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>Can I help you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>Can I help you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>Can I help you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>Can I help you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>Can I help you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>Can I help you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>Can I help you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>Can I help you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>Can I help you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>Can I help you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_SAD><FP_RIGHT>Good morning!
+I didn't sleep very well
+last night. I'm tired...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>Good morning, <MYNAME>!
+You know what they say about
+the early bird and the worm.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>Oh, good morning, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>Hello there.
+How can I make more money?
+That's the eternal question.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_HAPPY><FP_RIGHT>Hi, <MYNAME>.
+How are you today?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_HAPPY><FP_RIGHT>Hello there. You seem happy
+today, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>Evening!
+I always get good ideas for
+the shop at night.<PAGE>Ooh...\u270a...\u270a...\u270a Oh.
+I thought I had an idea, but
+it was just indigestion.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>Evening, <MYNAME>!
+Another busy day over...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>Evening there, <MYNAME>.
+What are you doing up so
+late?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>Can I help you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>Can I help you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>Can I help you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>So much to do...
+So much to do...<PAGE>If you need to buy
+something, can you talk to
+Diego?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>I'm the one who decides
+how to shelve things.
+It's not an easy task.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>Cleaning up the shop is
+a lot of work. I wish people
+wouldn't track dirt in.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>Can I help you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>Can I help you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>Can I help you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>My brothers spoil me.
+I get an allowance from
+them.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>I feel like I never get this
+place clean. I'm not giving
+up, though!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>They say I'm a neat freak,
+but Diego and Raul are just
+really messy.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>Can I help you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>Can I help you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>Can I help you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>Can I help you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>Can I help you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>Can I help you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>Can I help you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>Can I help you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>Can I help you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>My brothers spoil me.
+I get an allowance from
+them.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>Can I help you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>Can I help you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>My brothers spoil me.
+I get an allowance from
+them.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>Can I help you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>Can I help you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>My brothers spoil me.
+I get an allowance from
+them.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>Can I help you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>Can I help you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>My brothers spoil me.
+I get an allowance from
+them.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>Can I help you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>Can I help you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>My brothers spoil me.
+I get an allowance from
+them.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>Can I help you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>Can I help you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>My brothers spoil me.
+I get an allowance from
+them.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>Can I help you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>Can I help you?

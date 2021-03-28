@@ -1,0 +1,44 @@
+<FACE_POS_RIGHT><FACE_LANEY><FACE_NORMAL><FP_RIGHT>今日はね、あなたに
+渡したいものがあるの。
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_NORMAL><FP_RIGHT>これなんだけど…。
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_NORMAL><FP_RIGHT>わたしが作った、オリジナルの
+チーズケーキよ。今度お店で
+出そうと思ってるの。<PAGE><FACE_POS_RIGHT><FACE_LANEY><FACE_HAPPY><FP_RIGHT>けっこう、自信作なんだけど…
+良かったら、
+食べてみてもらえないかな？
+----------------------------|----------------------------------
+<CHOICE_AB> いただきます♪
+ おなかいっぱい…いらない
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_SHY><FP_RIGHT>ど、どう？
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_HAPPY><FP_RIGHT>おいしい？　良かった〜♪<PAGE><FACE_POS_RIGHT><FACE_LANEY><FACE_NORMAL><FP_RIGHT>…それにしても
+あなたって本当に、
+おいしそうに食べるのね。
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_NORMAL><FP_RIGHT>わたしね、お菓子を作るのが
+すごく好きなの。<PAGE>でもそれ以上に、自分の作った
+お菓子を食べた人が、
+笑顔になるのを見るとね…。<PAGE><FACE_POS_RIGHT><FACE_LANEY><FACE_HAPPY><FP_RIGHT>すごーく、幸せだなぁって
+思えるんだ。<PAGE><FACE_POS_RIGHT><FACE_LANEY><FACE_SHOCK><FP_RIGHT>んーと、うまく言えないけど
+こう…胸のあたりが、
+ぽかぽかってする感じ？<PAGE><FACE_POS_RIGHT><FACE_LANEY><FACE_HAPPY><FP_RIGHT>わたしでも、だれかを幸せに
+できるんだなぁって
+うれしくなるの。<PAGE>だから、<MYNAME>みたいに
+おいしそうに食べてもらえると
+わたしとってもうれしいんだ♪
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_NORMAL><FP_RIGHT>…不思議ね。あなたと
+話していると何だかいつも
+時間が過ぎるのが早いわ。<PAGE><FACE_POS_RIGHT><FACE_LANEY><FACE_HAPPY><FP_RIGHT>今日はすごく楽しかった！
+また、一緒にいろいろと
+お話ししましょう。それじゃ。
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_SHY><FP_RIGHT>そうなんだ…。
+じゃあ、食べられないわね。
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_NORMAL><FP_RIGHT>ほかの人に
+食べてもらう事にするわ。
+それじゃあ、わたしはこれで。

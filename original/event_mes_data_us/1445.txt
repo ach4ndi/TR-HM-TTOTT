@@ -1,0 +1,27 @@
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Hello,
+<MYNAME>!
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Hello,
+<MYNAME>!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Good job on collecting many
+Fun Points.<PAGE>You deserve a prize!
+Here you go.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Hello,
+<MYNAME>!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Good job on collecting many
+Fun Points!<PAGE>Pretty impressive!
+Here's a prize for you.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Hello,
+<MYNAME>!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Good job on collecting many
+Fun Points!<PAGE>You did a great job.
+Here's a prize for you.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Good luck on your next one.
+See you later.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_HGODDES><FACE_NORMAL><FP_LEFT>Oh,　<MYNAME>.
+You have something great in
+your hand.
+<PAGE>Then, you won't need this.
+I'll toss it for you.

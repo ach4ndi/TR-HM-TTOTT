@@ -1,0 +1,67 @@
+<FACE_POS_RIGHT><FACE_REINA><FACE_SAD><FP_RIGHT>I was afraid of this.
+It's looking unhealthy.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>Remember that plant I was
+studying here the other day?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_SAD><FP_RIGHT>I have come to observe it
+several times since, and
+it hasn't been doing well.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>No help for it.
+I'll have to take it home.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>There, I have the equipment
+that I need.<PAGE>I can examine it and perhaps
+figure out the reason it's
+unhealthy.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_SHY><FP_RIGHT>Look at this! The roots are
+diseased!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>It will be okay, though.
+I'll carefully replant it,
+and it will soon recover.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>Hmm? What?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>Oh, you're wondering about
+all these books.<PAGE>Yes, they're all my books
+about plants.
+----------------------------|----------------------------------
+<CHOICE_AB> Plants are fascinating!
+ Plants are so soothing!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>Yes, they are. Such a
+variety of interesting
+traits and adaptations.<PAGE>No matter how much I study
+them, I never cease to be
+fascinated.<PAGE>And I still read about new
+plants being discovered all
+over the world.<PAGE>If I search hard enough, I'm
+sure I can find a new
+species of plant.<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_HAPPY><FP_RIGHT>Then I could be published in
+a major journal!<PAGE>But who should I name the
+plant after? I shouldn't
+name it after myself...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>Oh, there I go getting all
+carried away.
+Sorry about that.<PAGE>But I'm glad to hear that
+you like plants too,
+<MYNAME>.<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_HAPPY><FP_RIGHT>Perhaps we could...if it's
+all right with you...go look
+at plants again sometime.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>It's true, a lot of people
+find plants soothing.<PAGE>But did you know that some
+plants actually sustain
+themselves by eating bugs?<PAGE>And some plants have poison.
+You know, <MYNAME>, you have
+to be careful around plants.<PAGE>Of course, most around
+here are perfectly safe.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>Well, I have things to do.
+I'll see you some other
+time, <MYNAME>.

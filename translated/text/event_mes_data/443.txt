@@ -1,0 +1,29 @@
+<FACE_POS_LEFT><FACE_LANEY><FACE_HAPPY><FP_LEFT>Ah... Sepertinya lebih baik
+menyendiri disaat ini...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><HIDE_NAME><FACE_CAM><FACE_NORMAL><FP_RIGHT><HIDE_FACE>Ah, disitu ya rupanya.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_LANEY><FACE_NORMAL><FP_LEFT>Ada apa, Cam?<PAGE><FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT>Aku lagi menyetok bunga
+itu yang lagi kamu cari
+kemarin.<PAGE>Aku hanya ingin memberitahu
+kan saja.<PAGE><FACE_POS_LEFT><FACE_LANEY><FACE_HAPPY><FP_LEFT>Wow, kamu sudah membawanya
+untuk aku? Itu bagus!<PAGE><FACE_POS_RIGHT><FACE_CAM><FACE_SHY><FP_RIGHT>Well, aku maksudnya tidak
+memberikannya itu keaku
+secara gratis atau apa...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT>Bwt, semuanya ada ditoko
+aku, jadi pilih dari
+semuanya yang kamu inginkan.<PAGE><FACE_POS_LEFT><FACE_LANEY><FACE_HAPPY><FP_LEFT>Okee!<PAGE><FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT>Juga...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_SHY><FP_RIGHT>Um, lupakan...<PAGE><FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT>btw, ayah kamu akan
+khawatir jika kamu masih
+diluar terlalu larut.<PAGE><FACE_POS_LEFT><FACE_LANEY><FACE_HAPPY><FP_LEFT>Oh, itu gak papa. Karena
+rumah aku dekat dari sini
+kok.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_LANEY><FACE_SHOCK><FP_LEFT>Ayah aku masih khawatir
+mengenai aku, karena ...
+dia merasa sendirian kupikir
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_LANEY><FACE_NORMAL><FP_LEFT>Well, aku kira aku harus
+kembali ke rumah...

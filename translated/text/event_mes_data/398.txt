@@ -1,0 +1,186 @@
+<FACE_POS_LEFT><HIDE_NAME><FACE_ROSE><FACE_SAD><FP_LEFT><HIDE_FACE>\u232e<MYNAME>, sayang,
+apakah kamu dirumah?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ROSE><FACE_SAD><FP_RIGHT>\u232d*Huff*...\u270a*Huff*...\u270a
+\u232e<MYNAME>...<PAGE>Suami aku telah pergi ke
+desa sebelah yang melewati
+pegunungan untuk berbicara<PAGE>kepada Ina!
+\u232cMereka sudah sedikit baikan
+, tapi sekarang aku pikir<PAGE>mereka bertengkar lagi!
+Tolong hentikan mereka!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><HIDE_NAME><FACE_RAHI><FACE_SAD><FP_LEFT><HIDE_FACE>\u232e<MYNAME>,
+apakah kamu ada disini!?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RAHI><FACE_SAD><FP_RIGHT>\u232dHuff...\u270aHuff...\u270a
+\u232e<MYNAME>...<PAGE>Ibu aku telah pergi ke
+desa sebelah yang melewati
+pegunungan untuk bertemu<PAGE>dengan Rutger!
+\u232cMereka sudah baikansih...
+tapi sekarang aku berpikir<PAGE>mereka bertengkar lagi!
+tolong buat mereka berhenti
+bertengkar!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_HOWARD><FACE_SAD><FP_LEFT>\u232e<MYNAME>!
+Kamu datang tepat waktunya!<PAGE><FACE_POS_RIGHT><FACE_YUN><FACE_SAD><FP_RIGHT>Kedua ketua desa sepertinya
+mereka akan berkelahi lagi..
+Tolong hentikan mereka!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_RUTGER><FACE_NORMAL><FP_LEFT>\u20d0Oh, apakah ini <MYNAME>!
+Kamu mengagetkan aku!<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>Kenapa kamu terburu-buru
+kesini sih?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_RUTGER><FACE_NORMAL><FP_LEFT>Eh? ada apa?
+Kita bertengkar lagi?
+Apa itu yang kamu pikirkan?<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>Ah-ha-ha-ha-ha!
+Tidak tidak kok, <MYNAME>.<PAGE>\u232dSebenarnya\u270a...\u270a
+\u232c...kita rujukan! 
+ini saatnya ditutup.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_RAHI><FACE_HAPPY><FP_LEFT>Apa itu beneran, bu?<PAGE><FACE_POS_RIGHT><FACE_ROSE><FACE_ANGRY><FP_RIGHT>Oh, Rutger!
+Apa kamu benar-benar bermak-
+sud begitu?<PAGE><FACE_POS_LEFT><FACE_RUTGER><FACE_SAD><FP_LEFT>Mengapa kamu begitu kaget,
+sayangku...?<PAGE><FACE_POS_LEFT><FACE_RAHI><FACE_NORMAL><FP_LEFT>Jika...jika kamu bermaksud
+untuk... itu bagus!<PAGE><FACE_POS_LEFT><FACE_RAHI><FACE_HAPPY><FP_LEFT>Aku punya papa baru! eh..
+maksudnya akhirnya perteng-
+karannya sudah selesai!<PAGE><FACE_POS_RIGHT><FACE_ROSE><FACE_SAD><FP_RIGHT>Oh gitu ya sayang? Aku
+rasa tadi prasangkaku salah.<PAGE><FACE_POS_RIGHT><FACE_ROSE><FACE_NORMAL><FP_RIGHT>Aku bergegas mengumpulkan
+warga Bluebell tadi!<PAGE><FACE_POS_LEFT><FACE_RAHI><FACE_SAD><FP_LEFT>Ternyata aku juga berpra-
+sangka buruk, dan membuat
+ide yang salah...<PAGE>karena aku tergesa-gesa
+mengumpulkan masa desa
+konoha juga!<PAGE><FACE_POS_LEFT><FACE_RUTGER><FACE_SAD><FP_LEFT>Aku tidak bermaksud membuat
+semua orang cemas.<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_SAD><FP_RIGHT>Hoo boy...
+Maaf untuk semua orang
+yang mengkhawatirkannya.<PAGE><FACE_POS_LEFT><FACE_RUTGER><FACE_SAD><FP_LEFT>\u232dSebenarnya...\u232c<PAGE><FACE_POS_LEFT><FACE_RUTGER><FACE_NORMAL><FP_LEFT>Dikarenakan kedatangannya
+<MYNAME>, yang membuat<PAGE>kita semua warga desa
+kembali bersatu.<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>Kita sudah memperlajari
+hal-hal yang bagus antar
+desa lainnya.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_HOWARD><FACE_HAPPY><FP_LEFT>Sekarang aku berpikir menge
+nai tentang hal ini, Ketua 
+desa Rutger sekarang memuji<PAGE>desa konoha!
+<RED>❤</COLOR><PAGE><FACE_POS_RIGHT><FACE_YUN><FACE_HAPPY><FP_RIGHT>Oh tuhan, ketua desa kita
+ina juga melakukan hal yang
+sama.<PAGE>Dia menjadi sering bersama
+hewal-hewan yang dibesarkan
+didesa Bluebell!<PAGE><FACE_POS_RIGHT><FACE_GOMBE><FACE_HAPPY><FP_RIGHT>Ah, dan kita semua menjadi
+lebih menyukai Bluebell
+juga, hmm!<PAGE><FACE_POS_LEFT><FACE_JESSICA><FACE_HAPPY><FP_LEFT>Aku lebih penasaran menge-
+nai tanaman daripada sebe-
+lumnya!<PAGE>Ini semua karena ketua desa
+sudah baikan!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_RUTGER><FACE_NORMAL><FP_LEFT>Itu......\u270a
+Apakah itu benar-benar
+dirasakan semua orang?<PAGE><FACE_POS_LEFT><FACE_RUTGER><FACE_HAPPY><FP_LEFT>Aku tebak sekarang kita
+tidak ada alasan lagi untuk
+bertengkat tentang semuanya!<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>Yakinkanlah semuanya 
+sudah baikan!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>Dummy
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_RUTGER><FACE_HAPPY><FP_LEFT>Dan hari ini kita mengumum-
+kan informasi bahagia.<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT><MYNAME>...
+telah...\u232dtelah...\u270a\u232e<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>\u20d0Membuka kembali
+terowongannya!\u270b
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>Terowongan ini akan membuat
+perjalanan antar desa lebih
+mudah.<PAGE><FACE_POS_LEFT><FACE_RUTGER><FACE_HAPPY><FP_LEFT>Emang benar! Kita tidak
+perluh dimana selalu mele-
+wati pegunungan dulu.<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>Kita harus merayakannya
+atas kembalinya persatuan
+kedua desa kita!<PAGE><FACE_POS_LEFT><FACE_RUTGER><FACE_HAPPY><FP_LEFT>Semuanya, tolong membantu
+untuk mempersiapkannya!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_RUTGER><FACE_NORMAL><FP_LEFT>Semuanya, mohon perhatiannya
+, tolong?<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>Aku ingin mengatakan...
+Sebuah kata "terima kasih"
+kepada <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_RUTGER><FACE_NORMAL><FP_LEFT>Karena <MYNAME>, kami berte-
+rima kasih atas usahanya
+untuk mempersatukan kedua<PAGE>desa kita yang 
+pernah konflik.<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>Jika tidak ada kamu, maka
+masing-masing desa berpikir
+an egois.<PAGE>Jadi aku ingin mengatakan...
+\u270aterima kasih, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_RUTGER><FACE_HAPPY><FP_LEFT>Dimulai hari ini, warga
+kedua desa akan selalu me-
+ngingatnya!<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>Semuanya yang dari masa lalu
+dikenang... Semoga kita
+beruntung!<PAGE><FACE_POS_LEFT><FACE_RUTGER><FACE_HAPPY><FP_LEFT>Nah ini dia\u270a...\u270a...\u270a...
+----------------------------|----------------------------------
+Pestanya sangat meriah!
+Hari ini hanya digunakan
+untuk bersantai, besok....<PAGE>kembali ke aktifitas biasa-
+nya!<PAGE><CHOICE_AB> Simpan dan tidur.
+ Tidur saja.
+----------------------------|----------------------------------
+INVALID MESSAGE
+----------------------------|----------------------------------
+\u1f43<FP_NONE>
+\u20d1HOORAY!!!!!!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_HOWARD><FACE_HAPPY><FP_LEFT>Ini sangat mengagumkan!<RED>❤</COLOR><PAGE><FACE_POS_RIGHT><FACE_GOMBE><FACE_HAPPY><FP_RIGHT>Terowongan!
+Terowongan!<PAGE>jadi inget, film terowongan
+kasablanka ...<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>Jadi merinding sendiri,
+padahal ingin melewati
+terowongnya...<PAGE>Jadi gak sabar kalau
+memang bisa ketemu sama...
+*glub*
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_JESSICA><FACE_NORMAL><FP_LEFT>Jadi ini, seperti apa penam-
+pakan terowongan yang selama
+ini tertutup batu...<PAGE><FACE_POS_RIGHT><FACE_YUN><FACE_HAPPY><FP_RIGHT>Oh ya ya ya.
+Aku sama sekali tidak
+tahu kayak apa diterowongan!<PAGE><FACE_POS_LEFT><FACE_HOWARD><FACE_NORMAL><FP_LEFT>Well, aku tidak pernah!
+<MYNAME> sudah memegang
+kita sama-sama!<PAGE><FACE_POS_LEFT><FACE_RUTGER><FACE_HAPPY><FP_LEFT>Aku ingin lebih memasuki
+ruangan lebih dalam.<PAGE><FACE_POS_LEFT><FACE_GOMBE><FACE_HAPPY><FP_LEFT>Heh-heh, sebuah terowongan!
+Orang tua ini ingin memasuki
+terowongannya lebih dulu!<PAGE><FACE_POS_RIGHT><FACE_HOWARD><FACE_HAPPY><FP_RIGHT>Lady first please...
+hahaha
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Sunggu mengagumkan!
+Aku penasaran, hewan apa
+yang tinggal disini...<PAGE><FACE_POS_LEFT><FACE_HIRO><FACE_SHY><FP_LEFT>Aku juga penasaran...
+Tidak bisa membayangkan
+bentuk dari pocong...<PAGE><FACE_POS_LEFT><FACE_HIRO><FACE_HAPPY><FP_LEFT>Aku akan melihat sarang
+disalamnya sebelum aku
+kembali pulang kerumah!<PAGE><FACE_POS_RIGHT><FACE_GEORGIA><FACE_HAPPY><FP_RIGHT>Aku juga! 
+Ini akan menarik jika bisa
+memperlajari sesuatu...<PAGE>selain kuda pastinya.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_AYAME><FACE_HAPPY><FP_LEFT>Semua orang sangat senang!<PAGE><FACE_POS_RIGHT><FACE_MAKO><FACE_HAPPY><FP_RIGHT>Memang...<PAGE><FACE_POS_RIGHT><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Ho, doker Ayame!
+Awas, lihat dong, makanya
+hati-hati! batu dimana-mana.<PAGE><FACE_POS_LEFT><FACE_AYAME><FACE_HAPPY><FP_LEFT>Mm-hmm.
+Terima kasih.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ini sangat cantik!<RED>❤</COLOR>
+Apa itu ...?<PAGE><FACE_POS_LEFT><FACE_YING><FACE_HAPPY><FP_LEFT>Itu batu... sangat cantik.
+Aku tidak pernah ...
+melihat itu sebelumnya.<PAGE><FACE_POS_RIGHT><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Disini pastinya ada banyak
+batu permata.<PAGE><FACE_POS_RIGHT><FACE_CHERYL><FACE_HAPPY><FP_RIGHT>Aku ingin memilikinya, satu
+saja! Karena ini pasti mem
+buat kakak aku kagum!<RED>❤</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_HAPPY><FP_RIGHT>Anak-anak sangat kelihatan
+menikmati dirinya sendiri.<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_SHY><FP_RIGHT>Aku pikir, batu permata itu
+oke, tapi apa bisa tanaman
+bisa tumbuh disini?<PAGE><FACE_POS_LEFT><FACE_CAM><FACE_NORMAL><FP_LEFT>Aku penasaran...<PAGE>Tapi disana ada bunga yang
+berbunga dimusim dingin,
+jadi apapun bisa aja ada.<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_HAPPY><FP_RIGHT>Kamu benar. Aku dengar-
+dengar ada perusahaan me-
+nanam dalam ruangan tertu-<PAGE>tup. Dan itu membuat aku
+berpikir tanaman sangat
+kuat beradaptasinya.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_EILEEN><FACE_NORMAL><FP_LEFT>Dummy
+
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_EILEEN><FACE_NORMAL><FP_LEFT>Dummy
+<PAGE><FACE_POS_LEFT><FACE_EILEEN><FACE_HAPPY><FP_LEFT>Dummy

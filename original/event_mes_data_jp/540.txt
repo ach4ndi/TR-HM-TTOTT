@@ -1,0 +1,22 @@
+<FACE_POS_LEFT><FACE_MAKO><FACE_NORMAL><FP_LEFT>何だね？
+<MYNAME>くんじゃないか。\u270a\u270a
+ん？　ここで何をしているか？<PAGE><FACE_POS_LEFT><FACE_MAKO><FACE_HAPPY><FP_LEFT>自然をかんさつしているんだ。
+この辺りは見てるだけでも
+楽しいんだよ。
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_MAKO><FACE_NORMAL><FP_LEFT>何だ？
+もっと近くで見たいのか。<PAGE><FACE_POS_LEFT><FACE_MAKO><FACE_HAPPY><FP_LEFT>それなら<RED>ジャンプ</COLOR>して
+飛び越えるだけだよ。
+簡単だろう？<PAGE><FACE_POS_LEFT><FACE_MAKO><FACE_NORMAL><FP_LEFT>木の実や花を探したい時や、
+浅い川に行きたい時なんかは
+こうやって移動すればいい。<PAGE><MYNAME>くんも、
+やってみたらどうだね。
+----------------------------|----------------------------------
+<FACE_POS_LEFT><HIDE_NAME><FACE_MAKO><FACE_NORMAL><FP_LEFT>何だね？　キミは。<PAGE>牧場を探して来た？
+ああ、キミが新しい牧場主の
+<MYNAME>くんか。<PAGE><FACE_POS_LEFT><FACE_MAKO><FACE_NORMAL><FP_LEFT>オレは果樹園をやっている
+<BLUE>ザウリ</COLOR>だ。
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_MAKO><FACE_NORMAL><FP_LEFT>ん？　ここで何をしているか？<PAGE><FACE_POS_LEFT><FACE_MAKO><FACE_HAPPY><FP_LEFT>自然をかんさつしているんだ。
+この辺りは見てるだけでも
+楽しいんだよ。

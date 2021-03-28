@@ -1,0 +1,47 @@
+<FACE_POS_LEFT><FACE_ULYSSA><FACE_NORMAL><FP_LEFT>So here's the reason I asked
+you to come today...<PAGE>I invented a new potion for
+you!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ULYSSA><FACE_HAPPY><FP_LEFT>And now you're going to
+drink it up, up, UP, my
+little guinea pig!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ULYSSA><FACE_SHY><FP_LEFT>Hmm?
+You're worried?<PAGE><FACE_POS_LEFT><FACE_ULYSSA><FACE_NORMAL><FP_LEFT>Just because you've never
+heard of this potion before?
+It'll be fine, I KNOW it!<PAGE>Because you're always such a
+big, big, BIG help to me!<PAGE><FACE_POS_LEFT><FACE_ULYSSA><FACE_HAPPY><FP_LEFT>I have to thank you
+somehow!<PAGE>Soooo...just drink this and
+all your fatigue will go
+bye-bye!
+----------------------------|----------------------------------
+<CHOICE_AB> Down the hatch!
+ I'd rather not.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ULYSSA><FACE_HAPPY><FP_LEFT>Oh yippee, you'll drink it!
+Here's the potion!
+Gulpity-gulp it right down!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ULYSSA><FACE_HAPPY><FP_LEFT>How's that?
+Don't you feel pep and pop
+pulsing through your body?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ULYSSA><FACE_HAPPY><FP_LEFT>Now you're all pepped up!
+Goody goody gumdrops!<RED>❤</COLOR><PAGE><FACE_POS_LEFT><FACE_ULYSSA><FACE_SHOCK><FP_LEFT>But...
+Being thanked so much makes
+me blush!<PAGE><FACE_POS_LEFT><FACE_ULYSSA><FACE_NORMAL><FP_LEFT>I can't even think how long
+it's been since somebody
+thanked me.<PAGE><FACE_POS_LEFT><FACE_ULYSSA><FACE_HAPPY><FP_LEFT>It's a good, tickly feeling!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ULYSSA><FACE_NORMAL><FP_LEFT>Whoopsie-do, as sad as I'll
+be to see you go, look how
+long I've kept you here!<PAGE>You better run home, my 
+litle guinea pig!<PAGE><FACE_POS_LEFT><FACE_ULYSSA><FACE_HAPPY><FP_LEFT>Come back soon!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ULYSSA><FACE_ANGRY><FP_LEFT>Why, why, WHY??
+WHY don't you want to drink
+the potion I made!?!?<PAGE><FACE_POS_LEFT><FACE_ULYSSA><FACE_SHY><FP_LEFT>If you can't even accept the
+nice thing I've done for
+you...<PAGE><FACE_POS_LEFT><FACE_ULYSSA><FACE_SAD><FP_LEFT>.........<PAGE><FACE_POS_LEFT><FACE_ULYSSA><FACE_ANGRY><FP_LEFT>...then FINE!!
+You can scuttle right back
+home! Shoo, shoo, SHOO!!!

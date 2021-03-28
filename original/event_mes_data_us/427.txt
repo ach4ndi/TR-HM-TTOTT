@@ -1,0 +1,37 @@
+<FACE_POS_LEFT><HIDE_NAME><FACE_INA><FACE_NORMAL><FP_LEFT><HIDE_FACE><MYNAME>, are you up?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT>Sorry to show up at your
+place so early in the
+morning, <MYNAME>.<PAGE>This is the gentleman who'll
+be performing at the next
+Music Festival.<PAGE>Let me introduce you to
+<BLUE>Mikhail</COLOR>.<PAGE><FACE_POS_LEFT><FACE_INA><FACE_HAPPY><FP_LEFT>He is a virtuoso violinist.
+He's traveled all over the
+world to master the violin.<PAGE>He's going to be staying at
+the town hall.<PAGE><FACE_POS_RIGHT><FACE_MIKHAIL><FACE_HAPPY><FP_RIGHT>I'm <BLUE>Mikhail</COLOR>.
+Nice to meet you.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT>I'm sure you two will get
+along great.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><HIDE_NAME><FACE_INA><FACE_NORMAL><FP_LEFT><HIDE_FACE>Are you awake yet,
+<MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_RUTGER><FACE_NORMAL><FP_LEFT>I apologize for coming so
+early in the morning,
+<MYNAME>.<PAGE>We've asked this gentleman
+to perform at the next
+Music Festival.<PAGE>Let me introduce you to
+<BLUE>Mikhail</COLOR>.<PAGE><FACE_POS_LEFT><FACE_RUTGER><FACE_HAPPY><FP_LEFT>He is a virtuoso violinist.
+He's traveled all over the
+world to master the violin.<PAGE>He's going to be staying at
+the town hall.<PAGE><FACE_POS_RIGHT><FACE_MIKHAIL><FACE_HAPPY><FP_RIGHT>I'm <BLUE>Mikhail</COLOR>.
+Nice to meet you.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_RUTGER><FACE_NORMAL><FP_LEFT>I'm sure you two will get
+along great.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>I'm staying at the town
+hall. If I'm not there, you
+can find me on the mountain.<PAGE><FACE_POS_RIGHT><FACE_MIKHAIL><FACE_HAPPY><FP_RIGHT>I'll see you at the Music
+Festival.

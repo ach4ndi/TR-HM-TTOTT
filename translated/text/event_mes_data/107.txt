@@ -1,0 +1,807 @@
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>Sebelumnya kita belum
+saling bertemu...<PAGE>Aku <BLUE>Reina</COLOR>.<PAGE>Aku seorang botanis, se-
+orang yang memperlajari
+tanaman.<PAGE>Senang bertemu denganmu.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>Kemarin, anginnya sangat
+kencang... sampai rokku ter-
+buka pas mau mengecek pohon<PAGE>yang ada didepan rumah.
+Aku harap semua tanaman di
+desa ini baik-baik saja.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>Gimana kabar mu, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>Gimana kabar mu, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>Gimana kabar mu, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_HAPPY><FP_RIGHT>Kucing ini sanngat imut, 
+benarkan?<PAGE>Hee hee! Hei, kau...<PAGE>Aku suka sama kucing karena
+mereka itu sangat mandiri,
+dan berbulu ❤
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_SHY><FP_RIGHT>Hey!
+Jauhkan i-ituu dari aku!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>Sepertinya itu sebuah bulu
+biru...<PAGE><FACE_POS_CENTER><FACE_REINA><FACE_SHOCK><FP_RIGHT>Tunggu, ehh...
+...ini beneran diberikan 
+keaku?!?<PAGE>Bentar! Tunggu dulu!
+Sepertinnya kita cari tempat
+lain untuk membicarakannya.<PAGE>Tempat rahasia ya, bukan tempat
+seperti ini.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>Apa yang kamu lakukan dengan
+bulu biru itu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>Secara mendadak kamu memberi
+kan ini keaku. Beneran?<PAGE>Aku tidak berpikiran 
+seperti itu...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_SHY><FP_RIGHT>Aku menghargainya, tapi
+aku gak bisa menerimanya.
+minimal untuk hari ini.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>Hadiah untukku?<PAGE><FACE_POS_CENTER><FACE_REINA><FACE_HAPPY><FP_RIGHT>Makasih, <MYNAME>.
+Kamu baik banget ^^.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>Hadiah...buatku?<PAGE><FACE_POS_CENTER><FACE_REINA><FACE_HAPPY><FP_RIGHT>Um...makasih.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>Apa yang kamu akan lakukan
+dengan itu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>Heiii, itu <RED>Salad Tahu</COLOR>kan?!
+FAVORITE gua itu njiir :v<PAGE>Apakah aku bisa memilikinya?
+bener? gak bohong? masa?<PAGE><FACE_POS_CENTER><FACE_REINA><FACE_HAPPY><FP_RIGHT>Oh, tepat bener, gak pake
+banget. Hari ini adalah
+juga hari ulang tahunku.<PAGE>Aku seneng banget 
+kamu mengingatnya :*!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_HAPPY><FP_RIGHT>Heiii, <RED>Salad Tahu</COLOR>!
+FAVORITE gua njiir :v!<PAGE>Apakah aku bisa memilikinya?
+beneran,apa bohong?<PAGE><FACE_POS_CENTER><FACE_REINA><FACE_HAPPY><FP_RIGHT>Makasih, <MYNAME>.
+Ini bener-bener banget.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>Gimana kabarmu, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>Gimana kabarmu, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>Waw hadiah ulang tahun?
+Oh, bener banget hari ini 
+itu ulang tahunku.<PAGE><FACE_POS_CENTER><FACE_REINA><FACE_HAPPY><FP_RIGHT>Ini bener-bener hadiah yang 
+bagus. Makasih!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>Hadiah!? Maksud kamu 
+aku bisa memiliknya?<PAGE><FACE_POS_CENTER><FACE_REINA><FACE_HAPPY><FP_RIGHT>ini bagus banget.
+Makasih.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>Apa, Hadiah Ulang tahun?
+Oh, iya, hari ini ulang 
+tahunku eh. makasih yaa
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>Hadiah?<PAGE><FACE_POS_CENTER><FACE_REINA><FACE_HAPPY><FP_RIGHT>Iya iya... Makasih.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>Apa? Hadiah ulang tahun
+Oh, iya bener banget, 
+hari ini ulang tahunku.<PAGE><FACE_POS_CENTER><FACE_REINA><FACE_SHY><FP_RIGHT>Tapi...tapi...barang ini...
+Ini... aku engga... AARRGH!<PAGE>Aku akan menerimanya, 
+kurasa.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>Apa? Sebuah hadiah?<PAGE><FACE_POS_CENTER><FACE_REINA><FACE_SHY><FP_RIGHT>Tapi...Tapi...Benda ini...
+itu... aku engga... AARRGH!
+Aku mungkin akan menerimanya
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>Hadiah?
+njiir ini menjijikan -_- ...
+<PAGE><FACE_POS_CENTER><FACE_REINA><FACE_SHY><FP_RIGHT>\u20d0Waaaaaahhhhh!?!?<PAGE>Ini kaya TAI yg berjerawat!
+Jangan... bawa itu LAGI!!
+Kamu...kamu...bodoh...<PAGE>...tapi kamu tidak 
+ingin mendapatkan masalah
+jadi aku terima aja...<PAGE>HANYA KALI INI AJA, 
+CAMKAN itu!!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>Gimana kabarmu, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>Gimana kabarmu, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>Apa pernikahan itu sangat 
+menyulitkanmu?<PAGE>Bicara aja sama walikota
+Ina, Dia akan menyelesaikan
+masalahmu.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>Aku mengkhawatirkan keadaan
+tanaman para warga desa, di-
+saat cuacanya seperti ini...<PAGE>Ini tidaklah baik untuk
+orang-orang. Kamu seharusnya
+mencoba diam didalam rumah.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>Kamu akan kesusahan melihat-
+ku disaat badai salju.<PAGE>Untungnya aku menelitih di
+dalam ruangan saat ini.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>Aku selalu canggung disaat
+didepan orang-orang.<PAGE>Tapi entah kenapa bicara 
+kepadamu aku merasa 
+nyaman.<PAGE><FACE_POS_CENTER><FACE_REINA><FACE_HAPPY><FP_RIGHT>Gimana aku bilangnya ya...?
+Aku merasa nyaman menjadi
+diri sendiri disaat bersama<PAGE>kamu, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_SHY><FP_RIGHT>Aku selalu menjaga
+emm..gajadi deh<PAGE>Aku hanya...merasa ketika 
+aku bicara sama orang lain..
+aku merasa malu...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>Ini akan memakan waktu sela-
+ma dua musim sebelum pohon-
+nya berbuah.<PAGE>Tentu saja mereka hanya ber-
+buah disaat musim yang tepat
+!<PAGE>Jadi kamu harus mempersiap-
+kan suatu rencana disaat
+kamu menanam pohon buah.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>Jika kamu menanam pohon yang
+lain, kamu bisa memetiknya
+ketika sudah berbuah.<PAGE>Dan juga, pohon tidak perlu 
+disirami dengan air.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>Kebun buah kami menanam ber-
+bagai jenis buah-buahan se-
+panjang tahun.<PAGE>Apa kamu sudah mencoba mena-
+nam pohon buahmu sendiri?<PAGE>Kurasa Gombe juga menjual
+benih-benihnya lo.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>Aku datang ke desa ini
+karena banyak jenis tanaman
+yang tumbuh di sini.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>Aku harus melakukan 
+penelitian. Aku gak punya 
+waktu untuk mengobrol.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>Gimana kabarmu, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_SHY><FP_RIGHT>Saat ini, bicara denganmu
+membuatku menjadi sebuah TNT
+siap meledak kapan-kapan!<PAGE>Jadi apa yang kamu ingin
+katakan padaku?
+----------------------------|----------------------------------
+<CHOICE_AB> Aku minta maaf!
+ Jika kamu seperti itu...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>Umm, iya...Jadi aku kira
+jika kamu meminta maaf, 
+aku bisa memaafkanmu.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_SAD><FP_RIGHT>kamu kaya tai...
+bodoh...ARRRGH!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>Gimana kabarmu, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>Kemarin cuacanya sangat me-
+ngerikan! Kuharap tanaman
+baik-baik saja.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>Gimana kabarmu, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>Gimana kabarmu, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>Gimana kabarmu, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>Gimana kabarmu, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>Hadiah untuk hari 
+keserasian?<PAGE><FACE_POS_CENTER><FACE_REINA><FACE_HAPPY><FP_RIGHT>Kamu benar benar
+suami yang baik!unncchh :*!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_HAPPY><FP_RIGHT><RED>Salad Tahu</COLOR>!?
+Untuk aku?<PAGE><FACE_POS_CENTER><FACE_REINA><FACE_SHOCK><FP_RIGHT>Kamu mengingat makanan favo-
+ritku! dan ini untuk ulang
+tahunku juga!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT><RED>Salad Tahu</COLOR>?!
+<FACE_POS_CENTER><FACE_REINA><FACE_HAPPY><FP_RIGHT>Kamu mengenal dengan baik
+apa yang aku suka.
+Makasih.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>Umm, <MYNICKNAME>, 
+Apa kita bisa jalan-jalan
+berdua?
+----------------------------|----------------------------------
+<CHOICE_AB> Boleh kok.
+ engga bisa.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>Sudah kuduga...
+Engga, engga, engga apa-apa 
+kok. mungkin lain waktu.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>Gimana kabarmu, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_SHY><FP_RIGHT>\u20d0APA INI NJING!?
+Aku benci ini huhu!<PAGE>Dan ini buat hadiah
+ULANG TAHUNKU!?
+Ugh. Tapi, um, makasih yaa.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_SHY><FP_RIGHT>Huh? \u20d0Apa ini!?
+Aku benci ini!<PAGE><FACE_POS_CENTER><FACE_REINA><FACE_SAD><FP_RIGHT>Kitakan sudah menikah, ingat?<PAGE>Kamu seharusnya memberi 
+hadiah yang lebih baik
+hmm..huhu :'(!!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>Aku punya sisi lain dari ke-
+pribadianku, Tapi itu cuman
+ilusi, gak percaya aku!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_HAPPY><FP_RIGHT>Apa kamu berpikir kita harus
+menamakan bayi kita seperti<PAGE>nama bunga? misalnya... 
+Mungkin kedengarannya 
+bagus...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>Bayi di dalam perut ini akan
+keluar secepatnya. Menurutmu<PAGE>dia akan mirip engga ya
+sama aku. atau sama kamu?
+atau sama sekali gak mirip?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_SHOCK><FP_RIGHT>Itu bagus sekali ketika kamu
+bangun tidur di pagi hari!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>Semenjak kamu memegang per-
+tanian ini, <MYNICKNAME><PAGE>Aku bisa melanjutkan peneli-
+tihanku ini.<PAGE><FACE_POS_CENTER><FACE_REINA><FACE_SHOCK><FP_RIGHT>Aku sunggu bersyukur dan
+menghargainya.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>Aku tidak perna berpikiran
+akan menikahi kamu. aku 
+selalu fokus kepenelitianku.<PAGE><FACE_POS_CENTER><FACE_REINA><FACE_HAPPY><FP_RIGHT>Tapi, aku merasa beruntung,
+<MYNICKNAME>.<PAGE>Karena aku bertemu 
+denganmu.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>Kamu selalu bekerja dengan 
+sangat keras. Jangan lupa 
+untuk mengecek kesehatanmu.<PAGE>Ketika kamu lelah
+usahakan untuk beristirahat.
+dan makan bersamaku.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>Aku sedang berbicara dengan
+tanamanmu disini. Tapi itu
+bukan hal yang menggilakan!<PAGE>Hal ini merupakan salah satu
+metode penelitihanku menge-
+nai sensitifan tanaman.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>Umm, <MYNICKNAME>?
+Gimana, rasanya masakanku?<PAGE><FACE_POS_CENTER><FACE_REINA><FACE_SHY><FP_RIGHT>Aku tahu ini bukanlah yang
+terbaik, aku akan terus
+mencoba sebaik mungkin.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>Karena diKonohana mempunyai
+iklim yang ramah dan stabil
+untuk berbagai jenis.<PAGE>Dan juga seperti biji kopi
+dan kakao. Di musim dingin
+ada jeruk.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_SHY><FP_RIGHT>Aku merasakan kita sudah
+lama tidak berkomunikasi...
+lagi ...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>Apa kamu lebih puas disaat
+kita menikah seperti hari-
+hari sebelumnya?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_ANGRY><FP_RIGHT>Apa ada sesuatu yang
+kamu butuhkan atau katakan 
+pada istrimu.
+----------------------------|----------------------------------
+<CHOICE_AB> aku...Aku minta maaf.
+ Entah apa yang aku pikirkan.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_HAPPY><FP_RIGHT>Jadi, meskipun kamu sering 
+minta maaf, Aku rasa aku 
+memaafkanmu untuk kali ini.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_ANGRY><FP_RIGHT>Tidak...? Sudah kuduga... Hmph!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>Apa itu?
+Apa kamu mengambilnya hari 
+ini <VAR_0>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>Gimana kabarmu, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>Gimana kabarmu <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>Umm, yeah.
+jadi...jadi kamu suka 
+kucing tah?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_HAPPY><FP_RIGHT>jika ini rakun!!
+lucu banget,!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_SHY><FP_RIGHT>Waaaah!?
+Ini burung, BURUNG!!!
+Jauhkan itu dari aku!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>Apa yang kamu lakukan
+menagkap hewan liar?<PAGE>Taruh lagi ya, saat kamu 
+ingin melepaskanya.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_HAPPY><FP_RIGHT>Ummm... Segitu mah
+bajunya lumayan. kelihatanya
+... cocok untuk kamu.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>Umm, hey...
+Apa kamu ingin berjalan 
+denganku sekarang?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>Apa kita bisa beristirahat?
+baik baik aja kan?
+benar?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>aku ingin berjalan.
+Kamu mau ikut atau engga?
+----------------------------|----------------------------------
+<CHOICE_AB> Okay, ayo.
+ Bodo amat.
+----------------------------|----------------------------------
+<CHOICE_AB> Tentu ayo kita bicara.
+ Bodo amat.
+----------------------------|----------------------------------
+<CHOICE_AB> Okay, aku ikut.
+ engga ah.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>Gimana kabarmu, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>Gimana kabarmu, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>sudah kuduga...
+oke kalau gitu. daahh
+met tinggal.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_SHOCK><FP_RIGHT>Aku mengerti. Itu bukan
+sesuatu yang penting juga.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>Umm...Iya iya...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_HAPPY><FP_RIGHT>Bunganya bagus.
+Oh, hari ini Hari Bunga kah?
+Ini buatku. Makasih.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_HAPPY><FP_RIGHT>Aku belajar tenang bunga
+setiap hari, tapi ini itu <PAGE>spesial kalo datangnya dari kamu.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>Besok, ada festival malam
+bintang, jadi...<PAGE>apa kamu ingin pergi 
+bersamaku, atau tidak?
+----------------------------|----------------------------------
+<CHOICE_AB> Tentu saja aku mau.
+ maaf gada waktu.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_HAPPY><FP_RIGHT>Beneran..w-wah aku 
+seneng banget?
+Makasih!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>Kamu menolaknya?
+oke fine..
+kamu gausah minta maaf.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_HAPPY><FP_RIGHT>Aku pengen cepet cepet ke
+Festival malam bintang!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_HAPPY><FP_RIGHT>Itu lumayan bagus.
+aku berpikir itu...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>Kamu hanya satu satunya 
+teman yang bisa menemaniku,
+<MYNAME>.<PAGE><FACE_POS_CENTER><FACE_REINA><FACE_HAPPY><FP_RIGHT>kamu harus selalu
+tinggal di Konohana.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>Gimana kabarmu, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>Tanaman yang tumbuh disisi
+lain gunung, di Bluebell
+berbeda dengan disini.<PAGE>Karena ekosistemnya agak
+berbeda.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>Kadang kadang aku lebih suka
+tanaman yang dberikan oleh 
+orang lain.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>Huh? Apa?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>Aku tau kamu khawatir,
+tapi jangan sampai bingung.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_HAPPY><FP_RIGHT>pada musim semi, bunga bunga
+bermekaran, dan ketika musim
+panas pasti akan layu.<PAGE>beda banget musim nya.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>Disaat musim panas, keadaan
+nya panas, jadi aku suka
+disaat hawanya sangat sejuk<PAGE>dipegunungan sambil melihat
+isi group WAH.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>Musim gugur, ketika daun 
+berjatuhan. aku sangat 
+senang dengan musim gugur<PAGE>karena musim gugur itu 
+sangat keren.<PAGE>merah, oranye, dan
+kuning sangat indah.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>saat musim dingin,
+banyak tanah yang berubah 
+jadi es, jadi hati hati yak.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>Kamu tau ga?
+kalo grub We Are Harvester
+itu adminya pada mastah loh.<PAGE>Aku aja sampe naksir
+eaaa :v.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>Hari ini aku mengorganisasi
+tanamanku.<PAGE>aku pergi ke bale kota
+untuk mencari bahan karena 
+aku gapunya bahan di rumah.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>Gimana kabarmu, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>Gimana kabarmu, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>Gimana kabarmu, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>Gimana kabarmu, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>Gimana kabarmu, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>Konohana menang Festival
+masak kali ini.<PAGE>Aku rasa kamu mengerjakanya 
+dengan baik.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>Konohana kalah dalam 
+festival masak kali ini.<PAGE>Mungkin kamu kurang
+semangat hari ini.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>Hari ini Festival Masak
+aku sangat senang.<PAGE>Semoga kamu menang
+dan membanggakan Konohana 
+amin.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>Gimana kabarmu, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>Gimana kabarmu, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>Hari ini kalah yak
+Festival masaknya.<PAGE>Mungkin lain kali 
+kamu menang!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>Gimana kabarmu, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>Hari ini sangat buruk.
+Coba lagi yak.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_HAPPY><FP_RIGHT><VAR_0>
+hari ini.
+aku benci orang-orang.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>kamu ga masuk hari ini
+<VAR_0>,yah?<PAGE>sangat buruk. lain kali 
+nanti mah harus ikut yak.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>Gimana kabarmu, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>Lupakan hari ini.
+Kamu <VAR_4>
+kelihatnya baik.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>Gimana kabarmu, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>Gimana kabarmu, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_REINA><FACE_NORMAL><FP_LEFT>Selamat datang di rumah, 
+<MYNICKNAME>.<PAGE>Hari ini ulang tahunmu,
+kan?
+Aku membawakanmu makanan.<PAGE>jangan hanya berdiri
+ayo duduk dan
+makan!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_SHY><FP_RIGHT>Kami tidak ingin makanannya 
+mubazir.<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>maksud aku,emm aku masih 
+bisa masak kok.. eh.maaf 
+salah kata .. maaf gaje.<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_ANGRY><FP_RIGHT>Apa? Apa yang lucu? hapus pandanganmu
+dan cepat makan!<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_SHOCK><FP_RIGHT>Aeh by the way, selamat
+ulang tahun, <MYNICKNAME>.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_REINA><FACE_NORMAL><FP_LEFT>Selamat datang, <MYNICKNAME>.<PAGE>Hari ini ULANG TAHUNKU dan
+kamu, apa aku bener?<PAGE>Jadi aku mmenyiapkan 
+makanan ini.<PAGE>jangan berdiri saja
+kayak patung. ayo
+duduk dan makan!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_SHY><FP_RIGHT>aku ga ingin makanannya
+jadi mubazir.<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>Maksud aku..aku gapernah
+kayak gini. panas ga..
+eh maaf gajelagi...<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_ANGRY><FP_RIGHT>Apa? Kenapa kamu tertawa?<PAGE>hh jangan membuatku gugup..
+udah makan aja yuk!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_REINA><FACE_NORMAL><FP_LEFT>Selamat datang, <MYNICKNAME>.
+<PAGE><FACE_POS_LEFT><FACE_REINA><FACE_HAPPY><FP_LEFT>Hari ini ulang tahunku.
+Aku yakin kamu ga akan lupa 
+sayang.<PAGE>Jangan berdiri aja
+kaya patung aja. cepetan
+duduk dan makan!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_SHY><FP_RIGHT><MYNICKNAME>, kamu selalu
+sibuk dengan pekerjaanmu.<PAGE>Aku senang karena kamu 
+kembali ke rumah hari ini.<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_SHOCK><FP_RIGHT>aku benar benar ingin 
+merayakan hari ini dengan 
+kamu seorang.<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_HAPPY><FP_RIGHT>Jadi ayuk makan!
+nantiny makanan nya dingin 
+loh..
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_REINA><FACE_NORMAL><FP_LEFT>Selamat datang di rumah, 
+<MYNICKNAME>.<PAGE><FACE_POS_LEFT><FACE_REINA><FACE_HAPPY><FP_LEFT>Hari ini ulang tahunya.
+\u2337.<PAGE>Aku yakin kamu mengingatnya,
+iya kan?<PAGE>Jangan berdiri saja
+kaya patung. ayo
+duduk dan makan!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_HAPPY><FP_RIGHT>Anak kita tumbuh dengan 
+cepat. Kita harus mengajar
+kanya sikap kebaikan.<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_SHOCK><FP_RIGHT>bekerja bersama sama,
+keduanya ya.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_REINA><FACE_NORMAL><FP_LEFT>Selamat Datang, <MYNICKNAME>.
+<PAGE><FACE_POS_LEFT><FACE_REINA><FACE_HAPPY><FP_LEFT>Hari ini \u2337 ulang tahun,
+benarkan?
+Jadi aku menyiapkan makanan.<PAGE>Jangan berdiri saja
+kaya patung.
+ayo makan!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_HAPPY><FP_RIGHT>Ga peduli kita selalu
+sibuk, \u2337 tetapi kita<PAGE>selalu saling mencintai satu 
+sama lain.
+Sekarang ayo kita makan<PAGE>sebelum makanan nya dingin!
+Selamat Ulang Tahun, 
+\u2337!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_REINA><FACE_NORMAL><FP_LEFT>Selamat Datang, <MYNICKNAME>.
+<PAGE><FACE_POS_LEFT><FACE_REINA><FACE_HAPPY><FP_LEFT>Hari ini...umm,
+hari jadi kita kan?<PAGE>Jangan berdiri aja sayang
+mending kita
+duduk dan makan.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>Aku gak tau besarnya
+keputusan ini. kita 
+merayakan hari jadi kita,<PAGE>tapi...aku sangat senang
+merayakan ini denganmu.
+Jadi aku cepat-cepat<PAGE>menyiapkan makan ini.<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_ANGRY><FP_RIGHT>Apa? jangan melihatku 
+seperti itu! aku bukan...
+emmm ya gitu deh..!<PAGE>Terserah deh!
+Cepat duduk! dan jangan 
+biarkan makanannya dingin!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>Gimana kabarmu, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>Gimana kabarmu, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>Gimana kabarmu, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>Gimana kabarmu, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>Gimana kabarmu, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>Gimana kabarmu, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>Gimana kabarmu, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>Hari ini
+<VAR_0>.
+Ga ada yang kaamu perlu tau.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>Gimana kabarmu, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>Gimana kabarmu, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>Gimana kabarmu, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>Gimana kabarmu, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>Gimana kabarmu, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>Gimana kabarmu, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>Gimana kabarmu, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>Gimana kabarmu, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>Gimana kabarmu, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>Gimana kabarmu, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>Gimana kabarmu, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>Gimana kabarmu, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>Gimana kabarmu, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>Gimana kabarmu, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>Gimana kabarmu, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>Gimana kabarmu, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>Gimana kabarmu, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>Gimana kabarmu, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>Gimana kabarmu, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>Selamat pagi, <MYNAME>.
+Gimana kabarmu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_SHY><FP_RIGHT>Huh...?\u270a\u270a
+Oh. Selamat Pagi.<PAGE>Maaf, aku kepikiran tentang
+penelitianku.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>Goedemorgen...
+Gimana kabarmu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>Mau pergi?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>Hello...
+Ugh. aku selalu merasa lelah
+ketika hari ini berakhir.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>Ah. Hello...
+Oh, maaf, aku tadi
+berpikir sesuatu.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>Selamat malam.
+Kamu telat...sudah aku duga.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>Ah...selamat malam.
+aku selalu ketiduran ketika
+menjelang gelap.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>Aaugh! jangan mengagetkanku
+seperti tadi!
+tadi itu aku sedang melamun.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>Mako belum percaya
+kalo aku itu akan
+menikah.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>Aku menikah... itu masih
+sulit beradaptasi
+yang ada di sekitar...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>Pernikahan kita telah datang
+Setelah menikah,dam akan me-
+lanjutkan penelitianku.<PAGE><FACE_POS_CENTER><FACE_REINA><FACE_HAPPY><FP_RIGHT>dan aku akan menjadi bagian
+dari kamu..!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>Benih buah buahan tersedia
+di Tokonya Gombe.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>Benih buah buahan tersedia
+di Tokonya Gombe.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>Benih buah buahan tersedia
+di Tokonya Gombe.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>Ini tempat yang bagus.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>Ini tempat yang bagus.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>ini tempat yang bagus.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>Aku lebih suka menghabiskan
+waktuku di luar.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>Buku di Balai Desa
+sangat bermanfaat ada juga 
+buku tentang tanaman.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>Aku harus membantu Mako
+karena dia itu
+lebih tua.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>Selamat Pagi. Bagaimana
+dengan kerja kamu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_HAPPY><FP_RIGHT>Selamat pagi, <MYNICKNAME>.
+aku selalu tenang
+sesudah tidur malam.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_HAPPY><FP_RIGHT>Selamat pagi.
+Apa kamu tidur dengan baik?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>Gimana perasaan kamu, <MYNICKNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT><MYNICKNAME>... Huh? Apa?
+Aku hanya memikirkan
+sesuatu.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>Hey, <MYNICKNAME>.
+Hari ini akan berakhir.
+Gimana pekerjaanmu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>Sudah malam...
+Apa pekerjaanmu sudah 
+selesei semua?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>Tadi udah telat kan?
+Aku tidak bisa...mmm
+gajadi.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>Hey, <MYNICKNAME>.
+Tunggu , ini pertama kalinya
+kita bicara kan?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_HAPPY><FP_RIGHT>Festival masak hari ini
+sangat bagus!
+Masakanmmu tetap yang terbaik!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_HAPPY><FP_RIGHT>Aku senang kamu menang.
+masakan Konohana's 
+terbaik lah!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_HAPPY><FP_RIGHT>Selamat!
+Konohana menang, makasih
+masakanmu terbaik.<PAGE>Aku berpikir gara gara
+masakan itu kita menang.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_HAPPY><FP_RIGHT>Aku benci kondisinya sangat 
+ramai.<PAGE>Tapi hari ini
+<VAR_0>
+sangat senang.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_HAPPY><FP_RIGHT>Gimana menurut kamu festival 
+nya? sangat senang 
+emmm..bersama.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>Aku belum selesai dengan
+pekerjaanku hari ini jadi 
+besok harus extra kerja.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>Selamat! kamu menang!
+selamat yakk, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>Selamat, <MYNAME>.
+Kamu <VAR_4>
+memang terbaik.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>Bagaimana kamu merawat
+<VAR_4>?<PAGE>Aku belum pernah melihatnya 
+<VAR_4> sebaik ini
+sebelumnya!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_HAPPY><FP_RIGHT>tadi <VAR_0>
+itu sangat menyenangkan loh.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_HAPPY><FP_RIGHT>orang orang sangat senang
+karena sekarang mereka 
+bersama.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>Kelihatnya orang orang
+mempunyai waktu yang baik.
+Kamu juga kan, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>Kamu menang <VAR_0>, 
+huh?<FACE_POS_CENTER><FACE_REINA><FACE_HAPPY><FP_RIGHT>Selamat.
+Aku senang.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_HAPPY><FP_RIGHT>Good job dah, tapi tadi itu 
+aku sangat terkesan karena 
+kamu menang yaa.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_HAPPY><FP_RIGHT>Selamat untuk kemenanganmu
+hari ini. penampilan kamu 
+sangat hebat.<PAGE><FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT>Kayak semua orang yang sudah
+dewasa berubah jadi anak 
+kecil lagi...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_HAPPY><FP_RIGHT>Selamat kamu menang!
+Kamu <VAR_2> memang yang
+terbaik dari semua orang.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_HAPPY><FP_RIGHT>Kamu menang <VAR_0>!!
+Selamat ya, <MYNAME>!<PAGE>kamu sungguh tau tentang 
+pertanian!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_REINA><FACE_NORMAL><FP_RIGHT><VAR_2> dari kebun
+<MYFARMNAME> itu sangat 
+fantastis!

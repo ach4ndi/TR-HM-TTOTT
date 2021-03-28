@@ -1,0 +1,191 @@
+<FACE_POS_LEFT><HIDE_NAME><FACE_KID><FACE_NORMAL><FP_LEFT><HIDE_FACE>Pa...
+Pa...pa!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><HIDE_NAME><FACE_KID><FACE_NORMAL><FP_LEFT><HIDE_FACE>Ma...
+Ma...ma.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KID><FACE_HAPPY><FP_RIGHT>Hee hee!
+\u2338...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL><FP_RIGHT>Selamat pagi, <MYNICKNAME>!
+<PAGE>Apa kamu mendengarnya juga?
+Aku kaget sekali.
+Papa dan mama? huh?<PAGE><FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>\u2337,
+bagus bagus sudah membuat
+mamamu bangun!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_NORMAL><FP_RIGHT>Selamat pagi, <MYNICKNAME>!
+<PAGE>Kamu pastinya tidak akan mem-
+percayahinya! Bayi kita
+barusan memanggilku "Papa"!<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_HAPPY><FP_RIGHT>Aku snagat tersentuh, aku
+hampir ingin menangis!<PAGE>Dan lalu \u2337 ingin
+membangunkanmu!<PAGE>Kamu sungguh hebat,
+\u2337!!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT>Selamat pagi, <MYNICKNAME>!
+<PAGE>Apa kamu mendengarnya juga?
+\u2337 mengatakan
+Mama dan Papa.<PAGE>\u2337,
+Bagus bagus dah membangunkan
+mamamu ini.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>Selamat pagi, <MYNICKNAME>!
+<PAGE>Gw sampai kaget... Aku tahu
+\u2337 sudah mulai me-
+ngatakan beberapa kata,tapi.<PAGE>Sekarang Papa dan Mama!<PAGE>Aku sungguh senang jika
+membuat \u2337 untuk
+membangunkanmu.<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>Dan ini berhasil!<PAGE>Kerja bagus untuk membangun-
+kan mamamu itu...
+\u2337!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>Selamat pagi, <MYNICKNAME>!
+<PAGE>Apa kamu tidak kaget?<PAGE>Aku sungguh kaget disaat
+\u2337 tiba-tiba
+mengatakan papa!<PAGE>Dihari sebelumnya,
+\u2337 masih belum me-
+ngucapkan sebuah kalimat...<PAGE>Kerja bagus sudah membangun-
+kan mamamu, \u2337.<PAGE>Kedepannya, bisakah kamu
+membangunkan papa juga?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_NORMAL><FP_RIGHT>Selamat pagi, <MYNICKNAME>!
+<PAGE>Uh?
+Apa kamu tidak kaget?<PAGE>Aku benar-benar terhendak
+tiba-tiba \u2337 
+memanggilku mama!<PAGE><FACE_POS_RIGHT><FACE_LANEY><FACE_HAPPY><FP_RIGHT>\u2337,
+bagus bagus sudah membangun-
+kan papamu.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>Selamat pagi, <MYNICKNAME>!
+<PAGE>Saat ini, uhm apa tadi
+barusan kagetmu membuatmu
+malu? huh?<PAGE>Tadi, disaat \u2337
+memanggilku dengan sebutan
+mama...<PAGE><FACE_POS_RIGHT><FACE_GEORGIA><FACE_SHY><FP_RIGHT>Kamu pastinya memojokkanku
+dengan bulu bulu ya!<PAGE><FACE_POS_RIGHT><FACE_GEORGIA><FACE_HAPPY><FP_RIGHT>Aku ingin kamu juga menda-
+patkan kejutan seperti itu,
+jadi kita membangunkanmu<PAGE>juga. Sepertinya rencana
+kita berhasil, huh,
+\u2337?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>Selamat pagi, <MYNICKNAME>!
+<PAGE>Apa itu mengejutkan?
+Disaat \u2337 memanggilku
+mama disaat yang lalu...<PAGE>Aku kaget looooh!<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_HAPPY><FP_RIGHT>\u2337,
+bagus, sudah membangunkan
+papamu.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>Selamat pagi, <MYNICKNAME>!
+<PAGE>Heh heh.
+Apa kamu terkejut?<PAGE>Aku dah memulai untuk menga-
+jari beberapa kata buat
+\u2337...<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Tapi hari ini \u2337
+mengatakan mama dan papa
+tanpa bantuan dariku.<PAGE>Benarkan, \u2337?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>Selamat pagi, <MYNICKNAME>!
+<PAGE>Well? itu apakah sebuah
+kejutan besar?<PAGE>\u2337 barusan memanggilku
+mama, dan aku berpikir
+sejenak tadi...<PAGE><FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>Bagus bagus dah membangunkan
+papamu, \u2337. Kamu
+memang anak yang hebat!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_NORMAL><FP_RIGHT>Selamat pagi, <MYNICKNAME>!
+<PAGE>Jadi? Apa tadi benar?
+\u2337 memanggilku papa,
+dan aku sungguh terkejut!<PAGE>Jadi aku berpikir kita
+datang kemari untuk memba-
+ngunkanmu sebagai kejutan.<PAGE><FACE_POS_RIGHT><FACE_DIRK><FACE_HAPPY><FP_RIGHT>Rencana kita berhasil,
+\u2337!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_KID><FACE_HAPPY><FP_LEFT>Papa<RED>❤</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL><FP_RIGHT>Ternyata anak-anak cepat
+tumbuhnya...<PAGE>Ini sama seperti Cheryl.<PAGE>Lihat berapa umurnya sekara-
+ng, dan aku masih merasa
+dia masih dilahirkan<PAGE>kemarin saja!<PAGE><FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>Kita harus menyisihkan waktu
+untuk memantaunya agar tidak
+telat melihat momentnya.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_NORMAL><FP_RIGHT>Anak anak sekarang memang
+tumbuh dengan cepat.<PAGE>Kamu pastinya sering mende-
+ngarkan itu, tapi ini agak
+berbeda disaat kamu melihat-<PAGE>nya dengan mata sendiri
+yang benar-benar nyata ini.
+hehehe...<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_HAPPY><FP_RIGHT><MYNICKNAME>, sisakan waktu luang
+kita untuk melihatnya tiap
+waktu agar tidak tertinggal<PAGE>moment-moment dimana 
+\u2337 bereaksi! :v
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT>\u2337 telah tumbuh
+besar dengan cepat...<PAGE>Aku hanya... tidak dapat
+mempercayahinya...<PAGE>Ini waktu-waktu membuatku
+merasa sesosok ayah saja...<PAGE><FACE_POS_RIGHT><FACE_CAM><FACE_HAPPY><FP_RIGHT><MYNICKNAME>, ayo merawat
+anak kita sampai dewasa
+^^!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>wew, anak-anak memang tum-
+buhnya benar-benar cepat...<PAGE>Aku pernah mendengarnnya
+sebelumnya, tapi ini agak
+berbeda disaat aku mengala-<PAGE>minya sendiri...<PAGE>Jika aku mengedipkan mataku
+maka aku melewatkan banyak
+moment berharga....<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT><MYNICKNAME>, ayo kita lihat
+\u2337 tumbuh besar
+bersama-sama!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>Wow. anak-anak memang tumbuh
+dengan cepat.<PAGE>Ini membuatku sangat senang
+untuk memikirkan musik apa
+yang akan dimainkan oleh<PAGE>anak kita...<PAGE><FACE_POS_RIGHT><FACE_MIKHAIL><FACE_HAPPY><FP_RIGHT>Aku tidak sabar untuk me-
+ngajari \u2337 sebuah
+instrument, maka kita dapat<PAGE>bermain bersama-sama.<PAGE><FACE_POS_RIGHT><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT><MYNICKNAME>, mari kita
+perhatikan dengan sesama
+malaikat kecil kita tumbuh.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_NORMAL><FP_RIGHT>Aku harus mengakui, anak-
+anak tumbuhnya sungguh
+cepat...<PAGE>Ini pastinya sama disaat
+aku masih kecil, tapi ini
+terasa berbeda, sangat.<PAGE><FACE_POS_RIGHT><FACE_LANEY><FACE_HAPPY><FP_RIGHT>Ayo kita rawat anak kita
+dengan benar.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>Oh dewi, anak kita tumbuhnya
+cepat sekali!<PAGE>Aku akan bertanya kepada
+ayah aku jika masa kecilku
+juga terasa cepat kepadanya.<PAGE><FACE_POS_RIGHT><FACE_GEORGIA><FACE_HAPPY><FP_RIGHT><MYNICKNAME>, mari kita
+bekerja sama untuk merawat
+anak kita ya!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>Anak-anak tumbuh dengan
+kecepatan yang tinggi ya!<PAGE>Dia menyerap segala sesuatu
+seperti spons yang ada di-
+dapur...<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_HAPPY><FP_RIGHT>Kita harus berhati-hati,
+agar kita tidak melewati
+apapun mengenainya.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>Aku mendengar bahwa anak-
+anak tumbuhnya cepat, tapi
+aku tidak pernah menyadari-<PAGE>nya gimana, secepat apa...<PAGE>Aku pikir ini seperti hal-
+nya aku membantu anak-anak
+diwarga desa ini...<PAGE>Tapi ini terasa berbeda di-
+saat anak itu adalah anak
+kita sendiri...<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Mari kita perhatikan
+\u2337 tumbuh bersama.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>Gosh, anak kita tumbuhnya
+cepat sekali...<PAGE>Aku tahu bahwa umurku sudah
+..., tapi tentu saja aku
+tidak mengingatnya :v<PAGE><FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>Jadi aku ingin melihatnya
+setiap momen anak kita
+tumbuh besar...<PAGE><FACE_POS_RIGHT><FACE_ULYSSA><FACE_SHOCK><FP_RIGHT>Bersama engkau sayang :v.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_NORMAL><FP_RIGHT>Anak-anak memang tumbuh
+dengan cepat!<PAGE>Aku jadi ingat disaat
+kakak aku mengatakan sesua-
+tu seperti itu sebelumnya...<PAGE>Ini memberikan memori lama
+yang terkennag lama...<PAGE><FACE_POS_RIGHT><FACE_DIRK><FACE_HAPPY><FP_RIGHT><MYNICKNAME>! Kita pastikan
+merawat \u2337
+dengan baik dan benar.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KID><FACE_HAPPY><FP_RIGHT>Papa, Mama.
+Sayang kepada kalian!<RED>❤</COLOR>

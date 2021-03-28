@@ -1,0 +1,341 @@
+<FACE_POS_LEFT><FACE_AYAME><FACE_NORMAL><FP_LEFT><HIDE_FACE>Dia mau melahirkan?
+Oke, Aku mengerti.
+Aku akan kesana, oke?!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_HIRO><FACE_ANGRY><FP_LEFT>Tolong percayakan istrimu ini
+dalam penangan kami untuk 
+saat ini. Tunggu disini!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_LANEY><FACE_NORMAL><FP_LEFT><HIDE_FACE>Uurrrghh! Ini mengelikan!
+eh maksudnya sakitttt
+sakit ...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_GEORGIA><FACE_NORMAL><FP_LEFT><HIDE_FACE>Uuuurrrghhh!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_REINA><FACE_NORMAL><FP_LEFT><HIDE_FACE>Uuurrghhh! Urrrghhh!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_NORI><FACE_NORMAL><FP_LEFT><HIDE_FACE>Urrgghhh! Ini uh sakit! Uurgh!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ULYSSA><FACE_NORMAL><FP_LEFT><HIDE_FACE>Aiieee!
+Itu sakit-sakit-sakit!!!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_AYAME><FACE_NORMAL><FP_LEFT><HIDE_FACE>Sabar dikit napa hehehe!
+Bayinya ini mau keluar!
+Tetap kuat ya!
+----------------------------|----------------------------------
+Waaah!
+Waaah!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_AYAME><FACE_HAPPY><FP_RIGHT>Kamu mempunyai bayi yang
+sehat! Kamu pastinya sudah
+melakukan hal yang hebat!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_HAPPY><FP_LEFT>Selamat! 
+Ini bayi laki-laki yang
+menggemaskan!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_HAPPY><FP_LEFT>Selamat! 
+Ini bayi perempuan yang
+menggemaskan!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_SHOCK><FP_RIGHT>Wow, ini bayi kecil kita!
+Tee-hee, lucunya!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_SHOCK><FP_RIGHT>Jadi ini bayi kecil kita?
+wow! Uh ini yang paling
+bahagia dalam hidupku!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_SHOCK><FP_RIGHT>Oh jadi ini bayi kita...
+Sungguh imut...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_SHOCK><FP_RIGHT>Oh jadi ini anak kita...
+Wow imut ya!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_SHOCK><FP_RIGHT>Bayi... Bayi kita...!
+Sungguuuuh kecil...!
+Dan imuuuuuut...! Seperti<PAGE>Alfi yang menjadi teman
+kecil 107 tahun yang lalu.
+jadi kangen sama dia...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_HAPPY><FP_RIGHT>Kita membutuhkan sebuah nama
+untuk bayi kita ini.<PAGE>Sebenarnya ada sebuah nama
+yang ingin kupakai...<PAGE>Apa kamu suka dengan nama
+ini <RED><VAR_0></COLOR>?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_HAPPY><FP_RIGHT>Jadi, menurutmu apa yang
+bagus buat menamai anak
+kita, <MYNICKNAME>?<PAGE>Sebenarnya, menyukai nama
+<RED><VAR_0></COLOR> ini...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_HAPPY><FP_RIGHT>Uh enaknya namanya apa ya?<PAGE>Aku ingin menamai bayinya
+dengan nama...
+<RED><VAR_0></COLOR>...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Oh, nama apa yang harus di
+pakai untuk bayi kita?<PAGE>Nama apa yang kamu pikir itu
+bagus, <MYNICKNAME>?<PAGE>Aku pikir <RED><VAR_0></COLOR>,
+nama ini cukup baik...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>Okey-dokey! 
+Waktunya memberikan nama pada
+bayi kita!<PAGE>Apa kamu memiliki beberapa
+nama yang kamu suka,
+<MYNICKNAME>?<PAGE>Jika tidak, aku ada satuIf
+yang kusuka, suka, sukai...
+<RED><VAR_0></COLOR>!
+----------------------------|----------------------------------
+<CHOICE_AB> Aku menyukainya!
+ Uh ada yang lainnya gak?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_HAPPY><FP_RIGHT>Bagus! Aku senang bahwa
+kamu menyukainya juga!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_HAPPY><FP_RIGHT>Wonderful! Aku sangat
+tersanjung bahwa kamu
+menyukainya! hehehe
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_HAPPY><FP_RIGHT>Kamu menerima nama itu juga?
+Bagus bagus...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Oh, baguslah! Aku sangat
+senang sekarang!<PAGE>Bayi kita sekarang sudah ada
+namanya!
+bukan anonim lagi!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>Itu, itu, maka! Selesai dan
+selesai sudah!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_HAPPY><FP_RIGHT>Hi, <VAR_0>!
+Ini ibumu!<PAGE><FACE_POS_RIGHT><FACE_LANEY><FACE_SHOCK><FP_RIGHT>Itu ayahmu dan aku sangat
+senang bahwa kamu sudah
+dilahirkan!<PAGE><FACE_POS_RIGHT><FACE_LANEY><FACE_HAPPY><FP_RIGHT>Sekarang ayahmu dan aku
+akan mengurusi kamu! ini
+menyenangkan bukan?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_HAPPY><FP_RIGHT>Hiii, halo yang disana, <VAR_0>!
+Ya ini aku! mamamu!<PAGE><FACE_POS_RIGHT><FACE_GEORGIA><FACE_SHOCK><FP_RIGHT>Papamu dan aku sudah menung-
+gu untuk bertemu denganmu,
+jika kamu ingin tahu!<PAGE><FACE_POS_RIGHT><FACE_GEORGIA><FACE_HAPPY><FP_RIGHT>Kita benar-benar senang
+bertemu denganmu!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_HAPPY><FP_RIGHT>Halo halo, <VAR_0>.
+Aku ini ibumu!<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_SHOCK><FP_RIGHT>Ayahmu dan aku sangat-sangat
+senang bahwa kamu sudah
+lahir didunia ini!<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_HAPPY><FP_RIGHT>Tumbuh menjadi orang yang
+baik hati dan kuat, ya!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Halo, <VAR_0> kecil. 
+Aku adalah ibumu.<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_SHOCK><FP_RIGHT>Akhirnya bisa melihatmu, ini
+yang membuat ayahmu dan aku
+sangat senang!<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Kita akan tetap melihatmu
+tumbuh besar yang sehat
+dan kuat!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT><VAR_0>! <VAR_0>!
+Aku ini mamamu!<PAGE><FACE_POS_RIGHT><FACE_ULYSSA><FACE_SHOCK><FP_RIGHT>Dan kamulah bayi kita!
+Ayahmu dan aku sangat
+senang, bangga BANGGA!<PAGE><FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>Ibu dan ayah tidak bersabar
+untuk melihatmu tumbuh
+besar menjadi besar besar!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_NORMAL><FP_RIGHT>Nama lainnya? Hmm...
+Aku sudah memikirikannya,
+sebenarnya ada banyak!<PAGE>Kenapa tidak kamu memilih
+satu dari itu semua?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>Nama lainnya, tadi? Oke,
+Aku sebenarnya sudah memper-
+siapkan banyak nama yang<PAGE>ada dalam pikiranku saat
+ini...<PAGE>Mungkin salah satunya nama
+pressdir jones di WAH, dan
+sama nama raja mangap....
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>Aku senang kamu bertanya.
+Faktanya, aku tidak berhen-
+ti dengan satu nama itu...<PAGE>Kamu harus memilih satu dari
+itu semua yang kamu setujui.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>Aku pikir kamu bakal berbi-
+cara seperti itu, jadi aku
+ada banyak nama yang sudah<PAGE>kusipakan sebelumnya!
+Aku harap kamu menyukai
+satu dari itu semuanya!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>Oh oke, jika kamu memaksa...<PAGE>Ta-da!<PAGE>Ini daftar nama yang bisa
+dipilih dalam daftar Ulyssa
+heheh! ayuk pilih!
+----------------------------|----------------------------------
+<CHOICE_ABC> Moon
+ Ongsin
+ Lainnya ea.
+----------------------------|----------------------------------
+<CHOICE_ABC> Aoba
+ Jauhar
+ Lainnya ea.
+----------------------------|----------------------------------
+<CHOICE_ABC> EGi
+ Ibnu
+ Lainnya ea.
+----------------------------|----------------------------------
+<CHOICE_ABC> Kenji
+ Jet
+ Lainnya ea.
+----------------------------|----------------------------------
+<CHOICE_ABC> Tony
+ Geordi
+ Lainnya ea.
+----------------------------|----------------------------------
+<CHOICE_AB> Hm, tidak ada yg cocok.
+ Lihat daftar namanya lagi.
+----------------------------|----------------------------------
+<CHOICE_ABC> Amelia
+ Tess
+ Lainnya ea.
+----------------------------|----------------------------------
+<CHOICE_ABC> Carly
+ Mariko
+ Lainnya ea.
+----------------------------|----------------------------------
+<CHOICE_ABC> Noelle
+ Kimi
+ Lainnya ea.
+----------------------------|----------------------------------
+<CHOICE_ABC> Molly
+ Klara
+ Lainnya ea.
+----------------------------|----------------------------------
+<CHOICE_ABC> Serena
+ Ling
+ Lainnya ea.
+----------------------------|----------------------------------
+<CHOICE_AB> Hm, tidak ada yang cocok.
+ Lihat nama lainnya.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_NORMAL><FP_RIGHT>Jadi kamu menyukai nama
+<RED><VAR_0></COLOR>?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>Jadi kamu menyukai nama
+<RED><VAR_0></COLOR>?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>Jadi ini <RED><VAR_0></COLOR> menurut-
+mu bagus?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>Jadi kamu menyukai nama
+<RED><VAR_0></COLOR>?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>Jadi kamu menyukai nama
+<RED><VAR_0></COLOR>?
+----------------------------|----------------------------------
+<CHOICE_AB> Yeah!
+ Mungkin lainnya.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_HAPPY><FP_RIGHT><VAR_0>, huh? ya,
+Itu nama yang bagus!
+Aku suka!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_HAPPY><FP_RIGHT><VAR_0>? Kenapa, pilih
+itu? Tapi itu sebuah
+nama yang sangat bagus!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_HAPPY><FP_RIGHT><VAR_0>? ya, aku
+juga setuju.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT><VAR_0>Waaa
+<VAR_0>? Aku suka
+nama itu!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>Ya aku setujuh, <VAR_0>!
+Yup yup yup, sebuah nama
+yang bagus!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_NORMAL><FP_RIGHT>Benarkah? Maka kamu
+harus memilih namanya,
+<MYNICKNAME>?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>Well! Aku kehabisan ide
+buat namanya, <MYNICKNAME>!<PAGE>Mungkin kamu ada ide buat
+nama yang cocok...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>Hmm... Kalau begitu, nama
+apa yang bagus buatnya?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>Oh, sepertinya tidak cocok
+ya... Apa ada nama yang
+cocok, <MYNICKNAME>?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>Oh? masa? Jadi nama apa yang
+kamu inginkan untuk bayi
+kita ini?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_NORMAL><FP_RIGHT>Jadi kamu menyukai nama
+\u2337?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>Jadi kamu menyukai nama
+\u2337?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>Jadi \u2337 
+ini dipakai?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>Jadi kamu menyukai nama
+\u2337?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>Jadi kamu menyukai nama
+\u2337?
+----------------------------|----------------------------------
+<CHOICE_AB> Yeeee!
+ Mungkin lainnya...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_HAPPY><FP_RIGHT>\u2337... Aku menyukai
+nama ini!
+Nama yang bagus!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_HAPPY><FP_RIGHT>\u2337? Uh, 
+itu sebuah nama yang terbaik!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_HAPPY><FP_RIGHT>\u2337? ya?,
+Aku terima. makasih.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>\u2337? 
+Nama yang bagus! Aku
+menyukainya!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>\u2337?! Okey-dokey!
+Jika kamu ingin seperti itu!
+Okelah!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_HAPPY><FP_RIGHT>Hi sayang, \u2337!
+Ini ibumu!
+mamamu!<PAGE><FACE_POS_RIGHT><FACE_LANEY><FACE_SHOCK><FP_RIGHT>Ayahmu dan aku sangat
+senang kamu sudah dilahir-
+kan!<PAGE><FACE_POS_RIGHT><FACE_LANEY><FACE_HAPPY><FP_RIGHT>Sekarang ayahmu dan aku
+akan menjagamu! Apakah ini
+menakjubkan? hehehe
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_HAPPY><FP_RIGHT>Hi sayang, \u2337!
+Ini aku! Ibumu!<PAGE><FACE_POS_RIGHT><FACE_GEORGIA><FACE_SHOCK><FP_RIGHT>Papamu dan aku sudah menan-
+ti-nantikan kehadiranmu,
+jika kamu tahu!<PAGE><FACE_POS_RIGHT><FACE_GEORGIA><FACE_HAPPY><FP_RIGHT>Kita berdua sungguh ingin
+menina bobokanmu setiap
+malam!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_HAPPY><FP_RIGHT>Halo, \u2337.
+Aku ibumu!<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_SHOCK><FP_RIGHT>Ayahmu dan aku sangat-
+sangat senang disaat kamu
+sudah dilahirkan ini!<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_HAPPY><FP_RIGHT>Tumbuh dengan baik dan kuat
+dari sejarang! Jangan di
+tunda!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Halo yang disini,
+\u2337 kecil. Aku ini
+ibumu.<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_SHOCK><FP_RIGHT>Akhirnya bisa melihat kamu
+yang membuat ayahmu dan aku
+sangat senang!<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Kita akan memperhatikanmu
+tumbuh dengan sehat dan
+kuat!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>\u2337! \u2337!
+ini niii ibumu!<PAGE><FACE_POS_RIGHT><FACE_ULYSSA><FACE_SHOCK><FP_RIGHT>Dan kamu adalah bayi kami!
+Ayahmu dan aku sangat
+senang, sangat bangga,bener!<PAGE><FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>Ibu dan ayah tidak sabar
+untuk melihatmu tumbuh
+TUMBUH menjadi raksasa.

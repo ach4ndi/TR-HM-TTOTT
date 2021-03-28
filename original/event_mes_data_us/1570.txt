@@ -1,0 +1,37 @@
+<FACE_POS_RIGHT><FACE_RAUL><FACE_NORMAL>Hello! Welcome to Raul's
+Shop.\u2390
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RAUL><FACE_NORMAL><CHOICE_AB> View items.
+ Never mind.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RAUL><FACE_NORMAL>Okay. Feel free to come by
+any time!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RAUL><FACE_SAD>You don't have enough
+money! Come back when
+you do!\u2390
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RAUL><FACE_HAPPY>Thank you very much!
+You made my day!\u2390
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RAUL><FACE_SAD>Oh?
+Your bag is full! You can't
+fit anything more in there!\u2390
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RAUL><FACE_NORMAL>Oh?
+You changed your mind?
+Do you need anything else?\u2390
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RAUL><FACE_NORMAL>Is <RED><VAR_0>G</COLOR> OK?
+<CHOICE_AB> Buy.
+ Never mind.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RAUL><FACE_HAPPY>That'll be <RED><VAR_1>G</COLOR>
+for each <VAR_0>.
+How many do you want?\u2390
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RAUL><FACE_SAD>Too bad.
+I can only sell one of them
+to you.\u2390
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RAUL><FACE_NORMAL>There's no items left.

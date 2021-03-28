@@ -1,0 +1,630 @@
+<FACE_POS_CENTER><HIDE_NAME><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Uh, Aku tidak pernah
+melihatmu sebelumnya, oh
+namamu, <MYNAME>?<PAGE><FACE_POS_CENTER><FACE_JESSICA><FACE_HAPPY><FP_RIGHT>Perkenalkan aku <BLUE>Jessica</COLOR>.<PAGE>Aku merawat hewan ternak di-
+sini, sungguh menyenangkan
+bisa bertemu denganmu.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_SAD><FP_RIGHT>Bukankah cuaca kemarin itu
+sesuatu yang buruk?<PAGE>Itu membuat binatang ternak-
+ku ketakutan setengah mati,
+dan membutuhkan tidak<PAGE>sedikit waktu untuk mene-
+nangkannya.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Oh,<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Oh,<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Oh,<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_HAPPY><FP_RIGHT>Betapa lucunya!
+Dan sungguh menyenangkan!
+Apakah ini sangat berharga?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_SAD><FP_RIGHT>Maaf. Aku tidak suka menga-
+takan hal ini, Tapi aku
+hanya tidak menyukainya.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Oh,<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_HAPPY><FP_RIGHT>Oh, sebuah kejutan!
+Bukankah ini sebuah bulu
+biru?!<PAGE>Itu membuatku teringat di-
+saat suamiku membawakan
+itu sebagai tanda dia akan<PAGE>melamarku...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Oh tidak, tidak usah
+mengawatirkanku.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Oh, Aku tidak dapat menerima
+hadiah lainnya dihari ini.<PAGE>Kenapa tidak memberikan
+hadiah itu kepada orang
+lain saja?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Oh,<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Oh,<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Sepertinya sesuatu hal yang
+tidak harus kamu bagikan
+kepada orang lain.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_HAPPY><FP_RIGHT>Oh apakah itu
+<RED>kue bola keju</COLOR>?
+Aku sungguh menyukainya!<PAGE>Oh, apakah itu sebuah
+hadiah ulang tahun untukku?
+Terima kasih, sayang!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_HAPPY><FP_RIGHT>Ini adalah favoritku!
+Terima kasih banyak, sayang!
+Itu sungguh menyenangkan!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Oh,<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Oh,<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_HAPPY><FP_RIGHT>Aku tidak mengira akan men-
+dapatkan sebuah hadiah
+ulang tahun dari orang lain,<PAGE>dihari ini. Biasanya hanya
+Ash dan Cheryl saja.<PAGE>Terima kasih, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_HAPPY><FP_RIGHT>Apakah kamu memberikan ini
+sebagai hadiah untukku?
+Terima kasih, sayang.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Bagaimana bisa kamu menge-
+tahui bahwa hari ini adalah
+hari ulang tahunku?<PAGE>Terima kasih sayang. Kamu
+sudah membuatku amat
+bahagia.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Makasih, sayang.
+Kamu seharusnya tidak me-
+lakukannya.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_SAD><FP_RIGHT>Untuk ulang tahunku?
+Sepertinya okelah...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_ANGRY><FP_RIGHT>Oh, untukku? Ini...
+sebuah hadiah yang tidak di-
+pikirkan terlebih dahulu.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_SAD><FP_RIGHT>Aku hanya membenci ini,
+Apakah kamu tidak bermaksud
+untuk menghinaku, iyakan?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Oh,<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Bagaimana? Apakah semakin
+dekatkah kamu dengan Ash?<PAGE>Karena Cheryl selalu ingin
+bermain petak umpet bersama
+dia. <PAGE>Aku harap dia tidak
+mengganggu kalian berdua.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_HAPPY><FP_RIGHT>Tampaknya pernikahan itu
+membuatmu tampak lebih
+terawat. Dan tampaknya<PAGE>kamu itu lebih baik dari
+pada sebelumnya.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_SAD><FP_RIGHT>Saat ini sedang badai angin,
+binatang ternak kami pada
+ketakutan. Kasihan...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_SAD><FP_RIGHT>Ini cukup melelahkan jika
+bekerja disaat cuacanya
+seperti ini.<PAGE>Apakah ditempatmu itu
+baik-baik saja, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_HAPPY><FP_RIGHT>Jika kamu ada masalah dengan
+perkebunanmu, datang dan
+bicara denganku.<PAGE>Aku akan senang untuk
+membantumu.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_HAPPY><FP_RIGHT>Disaat aku melihatmu, itu
+mengingatkanku diriku sen-
+diri yang masih seorang<PAGE>peternak muda.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Pekerjaan pertanian itu
+tidak ada momen yang tidak
+berguna, itu yang ingin<PAGE>kamu katakan?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Apakah kamu sudah cukup
+makannya? Kamu tahukan, aku
+terkadang mengawatirkanmu.<PAGE>Kamu harus makan secukupnya
+jangan sampai kurang,
+karena itu menjaga energimu.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Bagaimana kegiatanmu di-
+perkebunanmu, <MYNAME>?<PAGE><FACE_POS_CENTER><FACE_JESSICA><FACE_HAPPY><FP_RIGHT>Aku tidak mencoba untuk me-
+nantangmu.
+Hahahaha.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Semua binatang ternakku itu
+tampaknya subur-subur.<PAGE>Mereka menghasilkan susu
+yang berkualitas dan woll
+yang lembut.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Apakah desa ini sungguh
+bagus ditinggali? Kita
+semua ini adalah keluarga.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Oh,<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Oh,<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Oh,<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Oh,<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Oh,<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Oh,<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Oh,<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Oh,<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Oh,<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Oh,<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Oh,<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Oh,<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Oh,<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Oh,<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Oh,<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Oh,<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Oh,<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Oh,<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Oh,<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Oh,<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Oh,<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Oh,<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Oh,<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Oh,<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Oh,<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Oh,<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Oh,<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Oh,<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Oh,<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Oh,<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Oh,<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Oh,<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Oh,<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Oh,<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Oh,<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Oh,<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Oh, apakah ini untuk
+festival?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Oh,<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Oh,<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Oh, itu sungguh baik.
+Itu mengingatkan aku kepada-
+kamu, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_HAPPY><FP_RIGHT>Bolehkah aku memeliharanya?
+Hee hee.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_SAD><FP_RIGHT>Aku tidak tahu...
+Mungkin kamu harus melepas-
+kannya...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Oh, hewan yang luar biasa!
+Aku sungguh terkesan bahwa
+kamu bisa menangkapnya.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Oh,<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Oh,<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Oh,<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Oh,<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Oh,<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Oh,<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Oh,<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Oh,<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Oh,<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Oh,<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Oh,<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Oh,<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_HAPPY><FP_RIGHT>Oh, untukku?
+Kamu itu sungguh baik!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Oh,<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Oh,<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Oh,<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Oh,<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Oh,<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Oh,<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_HAPPY><FP_RIGHT>Ini selalu membuatku berse-
+mangat disaat aku membuka
+sebuah hadiah yang di-<PAGE>bungkus ini. Nah sekarang
+apa ya isinya?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_HAPPY><FP_RIGHT>Kamu seharusnya tidak ber-
+gantung kepada bapak-
+bapak dihari yang lalu.<PAGE>Jika kita ingin desa ini
+maju, kesemuanya itu ter-
+gantung kita maunya gimana.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Oh,<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Kesini untuk berbelanja?
+Atau memata-matai kami?<PAGE><FACE_POS_CENTER><FACE_JESSICA><FACE_HAPPY><FP_RIGHT>Hahaha.
+Tidak..tidak kok
+Aku hanya bercanda, sayang.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Oh,<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Oh,<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Oh,<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Cherylku itu sungguh
+mengidolakan kakaknya.<PAGE>Dia selalu mengikutinya ke-
+manapun seperti bayangannya
+semenjak dia bisa berjalan.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Sekarang, waktunya untuk
+menyelesaikannya...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Oh,<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Oh,<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Oh,<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Oh,<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Oh,<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Oh,<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Oh,<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Oh,<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Oh,<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Aku melihatmu sedang memberi
+kan semangat kepada kami.<PAGE>Kita tidak akan bisa
+memenangkan tanpa bantuanmu
+itu.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_SAD><FP_RIGHT>Oke, kita kalah...
+Jika kamu bisa lebih sedikit
+lebih mendukung, kita...<PAGE><FACE_POS_CENTER><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Oh, tidak apa-apa, sayang.
+Lupakan aja.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Aku mengharapkanmu untuk
+bisa ikutan difestival
+memasak selanjutnya.<PAGE>Untuk memperjuangkan desa
+kita ini.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Oh,<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Oh,<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_ANGRY><FP_RIGHT>Ya, hari ini kamu kalah,
+Tapi aku tahu bahwa kedepan-
+nya kamu akan menang!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Oh,<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Aku sungguh yakin kamu akan
+menang. Tapi itu tidaklah
+mudah. Semoga beruntung di-<PAGE>tahun depan ya, sayang.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_HAPPY><FP_RIGHT>Aku penasaran bagaimana kita
+melakukan ditahun ini. Aku
+hanya tidak bisa menunggu-<PAGE>nya untuk festivalnya di-
+mulai.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_HAPPY><FP_RIGHT>Apakah kamu tidak ikutan?
+Oke, Aku pikir ini cukup
+menyenangkan untuk dilihat.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Oh,<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Jangan biarkan itu membuat-
+mu bersedih. Kamu sudah
+melakukan yang terbaik.<PAGE>Aku tahu bahwa kamu sudah
+mengerahkan semua usahamu.
+Kamu harusnya bangga donk!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Oh,<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Oh,<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Oh,<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Oh,<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Oh,<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Oh,<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Oh,<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Oh,<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Oh,<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Oh,<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Oh,<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Oh,<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Oh,<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Oh,<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Oh,<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Oh,<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Oh,<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Oh,<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Oh,<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Oh,<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Oh,<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Apakah kamu datang kesini
+untuk melihat festivalnya,
+<MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Oh,<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Oh,<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Oh,<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Oh,<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Oh,<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Oh,<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Oh,<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Oh,<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Oh,<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Oh,<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Oh,<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Oh,<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Oh,<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Oh,<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Oh,<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Oh,<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Oh,<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Oh,<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Oh,<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Selamat pagi, <MYNAME>.<PAGE>Pagi hari ini merupakan
+waktu tersibuk dikebun atau
+dipeternakan.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Selamat pagi, <MYNAME>.
+Kamu terlihat sibuk ya,
+ya seperti seharusnya!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_HAPPY><FP_RIGHT>Dipagi hari ini kamu tampak
+ceria ya, berlarian kesana
+dan kesini.<PAGE>Ah, wajar aja masih mudah.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Halo.
+Kamu tampaknya sehat ya.<PAGE>Jaga baik-baik kesehatanmu
+ya. Seorang petani harus
+tidak sakit!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_HAPPY><FP_RIGHT>Halo, <MYNAME>.<PAGE>Bagaimana perkembangan per-
+tanianmu?<PAGE>Beritahuku jika kamu mem-
+butuhkan sesuatu.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_HAPPY><FP_RIGHT>Halo.<PAGE>Hari ini kamu benar-benar
+bekerja dengan keras.
+Itu membuatku termotivasi!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Selamat Malam, <MYNAME>.
+Sepertinya aku mau tidur
+sebentar lagi...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Tampaknya kamu bekerja
+sampai malam ya, <MYNAME>.<PAGE>Jangan memaksakan dirimu
+sendiri ya.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Oh, Selamat Malam.
+Apakah ini tidak mengganggu
+bangun tidurmu dipagi hari?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Oh,<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Oh,<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Oh,<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Saat ini aku sedang bekerja,
+seperti kamu lihat saat ini.
+Nanti saja ya bincang2nya.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Jika ingin membeli sesuatu,
+tinggal datang kekonter ya.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Bisakah kamu datang ke
+Cheryl juga?
+Makasih, sayang.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Oh,<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Oh,<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Oh,<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_HAPPY><FP_RIGHT>Aku? Aku sedang beristi-
+rahat sejenak. Aku sudah
+berlarian seharian.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_HAPPY><FP_RIGHT>Lihat betapa hidupnya mereka
+itu? Binatang kami itu
+sehat-sehat semuanya!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Oh, aku?
+Aku datang untuk berbincang-
+bincang bersama Rutger.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Oh,<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Oh,<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Oh,<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Oh,<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Oh,<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Oh,<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Oh,<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Oh,<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Oh,<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_HAPPY><FP_RIGHT>Aku sungguh terkesan bahwa
+kamu memenangkannya.
+Selamat!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_HAPPY><FP_RIGHT>Kamu itu pemasak yang
+handal!<PAGE>Aku akan memberikan
+bahan-bahannya jika kamu
+mau memasakannya untukku.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_HAPPY><FP_RIGHT>Apakah kamu belajar memasak
+sendiri? Mungkin aku bisa
+memberikan petunjuk.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_HAPPY><FP_RIGHT>Aku benar-benar menikmatinya
+dihari ini. Ini adalah hal
+terbaik sepanjang tahun ini.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_HAPPY><FP_RIGHT>Aku sangat senang bagaimana
+festival itu membuat semua-
+nya datang bersama-sama.<PAGE>Apakah kamu berpikiran
+hal yang sama juga?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Festival seperti ini akan
+menghilangkan stress dari
+pekerjaanmu itu.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_HAPPY><FP_RIGHT>Aku tidak terlalu banyak
+memproduksi sesuatu.<PAGE>Beritahuku bagaimana kamu
+merawat  <VAR_4>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Semua hal yang dibutuhkan
+untuk mendapatkan binatang
+dan produksinya bagus<PAGE>yaitu dengan bekerja
+dengan keras.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_HAPPY><FP_RIGHT>Terima kasih atas kerja
+kerasmu, kita akan makan
+beberapa produksi yang enak.<PAGE>Terima kasih. Aku benar-
+benar bersyukur atas itu.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Festival ini sungguh bagus.
+Ini sungguh romantis, apa
+kamu berpikiran hal yg sama?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Festival yang bagus. Semua
+orang terlihat senang.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Itu sungguh menyenangkan,
+bukan? Aku merasa tenang
+dan damai saat ini.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_HAPPY><FP_RIGHT>Ha ha ha.
+Kamu sudah melakukan yang
+terbaik difestival hari ini.<PAGE>Itu sungguh menghibur untuk
+melihatmu tadi.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Kamu pastinya kecapekkan
+sehabis menangkap sebanyak
+itu! Kerja yang bagus!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Aku sungguh senang aku
+datang untuk melihatmu di-
+hari ini! Sangat bagus!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_NORMAL><FP_RIGHT><VAR_2> milikmu
+itu sungguh luar biasa!
+Selamat!<PAGE>Aku dapat melihat bahwa aku
+mendapatkan banyak pekerja-
+an yang harus dilakukan<PAGE>jika aku ingin bersaing
+denganmu.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Festival hari ini sungguh
+sangat menarik.
+Aku sudah belajar banyak.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_JESSICA><FACE_NORMAL><FP_LEFT>Selamat, sayang!
+Kamu itu membuatku ingin
+bekerja lebih giat lagi!

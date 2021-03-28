@@ -1,0 +1,14 @@
+<FACE_POS_LEFT><HIDE_NAME><FACE_MIKHAIL><FACE_NORMAL><FP_LEFT><HIDE_FACE>起きているか、<MYNAME>。
+入らせてもらうよ。
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>夏の間、少し遠くへ
+旅に出ようと思うんだ。
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MIKHAIL><FACE_SHY><FP_RIGHT>暑いところはどうも苦手でね。<PAGE>暑さや虫の声が気になって、
+どうしても弾く事に
+集中できなくなるんだよ。<PAGE><FACE_POS_RIGHT><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>だから、おいしげる緑や
+川が流れる心地良い世界で
+過ごすようにしている。
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>秋には帰ってくるから、
+その時は、またよろしくな。

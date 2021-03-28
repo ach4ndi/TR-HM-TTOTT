@@ -1,0 +1,758 @@
+\u232f</COLOR>Unable to connect to
+Nintendo WFC. For help,
+check the software
+Instruction Booklet, or
+visit support.nintendo.com.
+Error code: <VAR_0>
+----------------------------|----------------------------------
+\u232f</COLOR>\u232f</COLOR>Unable to connect due to
+high traffic volumes or
+unavailable service.
+Please try again later.
+Error Code: <VAR_0>
+----------------------------|----------------------------------
+\u232f</COLOR>This Nintendo WFC ID was
+removed because it was
+inactive for a long time.
+For help, visit
+support.nintendo.com.
+Error code: 20108
+----------------------------|----------------------------------
+\u232f</COLOR>Nintendo WFC service for
+this software has been
+discontinued. Visit
+support.nintendo.com for a
+list of current Nintendo
+WFC-compatible software.
+Error code: 20110
+----------------------------|----------------------------------
+\u232f</COLOR>The access point is busy.
+Unable to connect. Please
+try again later. For help,
+visit support.nintendo.com.
+Error code: <VAR_0>
+----------------------------|----------------------------------
+\u232f</COLOR>No access point in range.
+Please try again when
+closer to an access point.
+For help, visit
+support.nintendo.com.
+Error code: <VAR_0>
+----------------------------|----------------------------------
+\u232f</COLOR>No compatible access point
+in range. Check your
+connection settings and try
+again. For help, visit
+support.nintendo.com.
+Error code: <VAR_0>
+----------------------------|----------------------------------
+\u232f</COLOR>No compatible access point
+in range. Check your
+connection settings and try
+again. For help, visit
+support.nintendo.com.
+Error code: 51103
+----------------------------|----------------------------------
+\u232f</COLOR>Unable to connect to
+Nintendo WFC. Check your
+connection settings and try
+again. For help, visit
+support.nintendo.com.
+Error code: <VAR_0>
+----------------------------|----------------------------------
+\u232f</COLOR>There is no response.
+Either the player has
+been disconnected or
+you have been
+removed from the
+player's friend roster.
+Error Code: 80430
+----------------------------|----------------------------------
+\u232f</COLOR>Communication error.
+For help, visit
+support.nintendo.com.
+Error code: <VAR_0>
+----------------------------|----------------------------------
+\u232f</COLOR>Communication error.
+For help, visit
+support.nintendo.com.
+Error code: <VAR_0>
+----------------------------|----------------------------------
+\u232f</COLOR>Download failed. For help,
+visit support.nintendo.com.
+Error code: <VAR_0>
+----------------------------|----------------------------------
+\u232f</COLOR>Nintendo Wi-Fi Connection
+cannot be used because an
+error has occurred. Turn off
+the power and try again.
+Error code: <VAR_0>
+----------------------------|----------------------------------
+\u232f</COLOR>Your Wi-Fi User Information
+may have been erased. Check
+your connection settings
+with the Nintendo
+Wi-Fi Connection setup.
+----------------------------|----------------------------------
+\u232f</COLOR>Connect to Nintendo
+Wi-Fi Connection?
+
+----------------------------|----------------------------------
+\u232e</COLOR>Nintendo Wi-Fi Connection
+treats your Game Card
+and the system as a set.
+Save this system's Wi-Fi
+User Information to this
+Game Card and connect
+to Nintendo WFC?
+----------------------------|----------------------------------
+\u232f</COLOR>Wi-Fi User Information for
+this system has been saved
+to the Game Card. From now
+on, please use this system
+to connect to Nintendo
+Wi-Fi Connection.
+----------------------------|----------------------------------
+\u232f</COLOR>Unable to connect to
+Nintendo Wi-Fi Connection
+because the Wi-Fi User
+Information from the system
+and the Game Card do not
+match.
+----------------------------|----------------------------------
+\u232f</COLOR>Update Wi-Fi User
+Information saved on the
+Game Card? When you update
+your Wi-Fi User Information,
+you will lose all data that
+was used to connect to
+Nintendo Wi-Fi Connection.
+
+----------------------------|----------------------------------
+\u232f</COLOR>Connect to Nintendo
+Wi-Fi Connection to update
+Wi-Fi User Information?
+----------------------------|----------------------------------
+\u232f</COLOR>Connecting to Nintendo
+Wi-Fi Connection.
+Please wait.
+----------------------------|----------------------------------
+\u232f</COLOR>You cannot use Nintendo WFC
+using the name <MYNAME>.
+Please change your
+user name.
+----------------------------|----------------------------------
+\u232f</COLOR>OK to disconnect from
+Nintendo Wi-Fi Connection?
+
+----------------------------|----------------------------------
+\u232f</COLOR>Disconnecting from
+Nintendo Wi-Fi Connection.
+----------------------------|----------------------------------
+\u232f</COLOR>You have been disconnected
+from Nintendo Wi-Fi
+Connection.
+----------------------------|----------------------------------
+\u232f</COLOR>How would you like to play?\u2390
+----------------------------|----------------------------------
+\u232f</COLOR>Play a local game
+with some
+<RED>nearby friends</COLOR>.\u2390
+----------------------------|----------------------------------
+\u232f</COLOR>Play a game over
+Nintendo Wi-Fi Connection
+with <RED>far away friends</COLOR>.\u2390
+----------------------------|----------------------------------
+\u232f</COLOR>View your friend code
+and register friend codes
+in your friend roster.\u2390
+----------------------------|----------------------------------
+\u232f</COLOR>Return to the title screen.\u2390
+----------------------------|----------------------------------
+\u232f</COLOR>Choose whether to host
+a game at your farm or
+go visit a friend's.\u2390
+----------------------------|----------------------------------
+\u232f</COLOR>Host a game at your
+farm. Up to three
+friends can join.\u2390
+----------------------------|----------------------------------
+\u232f</COLOR>Join a friend's hosted
+game at their farm.\u2390
+----------------------------|----------------------------------
+\u232f</COLOR>The game must save to the
+current file to continue.
+Save data?
+----------------------------|----------------------------------
+\u232f</COLOR>Saving...
+Please don't turn power OFF
+or remove Game Card.
+----------------------------|----------------------------------
+\u232f</COLOR>Error accessing data.
+Please turn power OFF,
+remove the Game Card,
+and reinsert the Game Card.
+----------------------------|----------------------------------
+\u232f</COLOR>During multiplayer, the game
+saves data automatically.
+Please do not turn power
+OFF during multiplayer, or
+your save data may be
+corrupted.
+----------------------------|----------------------------------
+\u232f</COLOR>Turn on
+DS Wireless Communications?
+----------------------------|----------------------------------
+\u232f</COLOR>Select "start game" when all
+of your friends have joined.
+----------------------------|----------------------------------
+\u232f</COLOR>Waiting for the host to
+start the game.
+----------------------------|----------------------------------
+\u232f</COLOR>Starting the game.
+Please wait.
+----------------------------|----------------------------------
+\u232f</COLOR>Communication error.
+----------------------------|----------------------------------
+\u232f</COLOR>Cancel?
+All connected friends
+will be disconnected.
+----------------------------|----------------------------------
+\u232f</COLOR>You need a friend code to
+use Nintendo WFC.
+Get a friend code?
+----------------------------|----------------------------------
+\u232f</COLOR>You don't have anyone else's
+friend code in your friend
+roster. Please register at
+least one friend in your
+friend roster. 
+----------------------------|----------------------------------
+\u232f</COLOR>Your friend code will
+change. Your friends will
+need to register your new
+friend code.
+----------------------------|----------------------------------
+\u232f</COLOR>Host a game at your
+farm. Up to three
+friends can join.\u2390
+----------------------------|----------------------------------
+\u232f</COLOR>Join a friend's hosted
+game at their farm.\u2390
+----------------------------|----------------------------------
+\u232f</COLOR>Delete information for
+<VAR_1>?
+----------------------------|----------------------------------
+\u232f</COLOR>Enter friend code.
+----------------------------|----------------------------------
+\u232f</COLOR>Enter friend's name.
+----------------------------|----------------------------------
+\u232f</COLOR>Enter friend's farm's name.
+----------------------------|----------------------------------
+\u232f</COLOR>This is your friend code.
+----------------------------|----------------------------------
+\u232f</COLOR>Incorrect friend code.
+----------------------------|----------------------------------
+\u232f</COLOR>Friend code already
+registered.
+----------------------------|----------------------------------
+\u232f</COLOR><VAR_0> went to sleep!
+----------------------------|----------------------------------
+\u232c</COLOR>Once you go to sleep, you'll
+wake up tomorrow morning.<PAGE>Do you want to go to sleep?
+<CHOICE_AB> Go to sleep
+ Don't go to sleep.
+----------------------------|----------------------------------
+\u232f</COLOR>Everyone went to sleep.
+Saving game.
+Please wait.
+----------------------------|----------------------------------
+\u232f</COLOR>Waiting for all players to
+exit the game...
+
+----------------------------|----------------------------------
+\u232f</COLOR>Game saved.
+----------------------------|----------------------------------
+\u232f</COLOR>Continue playing this
+multiplayer game?
+----------------------------|----------------------------------
+\u232f</COLOR>OK to disconnect from
+Nintendo Wi-Fi Connection?
+
+----------------------------|----------------------------------
+\u232f</COLOR>End this multiplayer game?
+You're sure?
+----------------------------|----------------------------------
+\u232f</COLOR>Please wait for the host to
+decide whether to continue
+or quit.
+----------------------------|----------------------------------
+\u232f</COLOR>The host chose to
+<RED>end the game</COLOR>.
+----------------------------|----------------------------------
+\u232f</COLOR>The host chose to
+<RED>continue the game</COLOR>.
+----------------------------|----------------------------------
+\u232f</COLOR>Starting the next day...
+----------------------------|----------------------------------
+\u232f</COLOR>Ending the game.
+Please wait...
+----------------------------|----------------------------------
+\u232f</COLOR>There's no data to load...
+----------------------------|----------------------------------
+\u232f</COLOR>Choose up to three items
+to sell to your friends at
+your stand at the Bazaar.
+----------------------------|----------------------------------
+\u232f</COLOR>You have not chosen any
+items to sell at the Bazaar.
+----------------------------|----------------------------------
+\u232f</COLOR>Continue anyway?
+You won't have anything
+to sell at the bazaar.
+----------------------------|----------------------------------
+\u232e</COLOR>AAAAAAAAAAAAAAAAAAAA
+----------------------------|----------------------------------
+\u232e</COLOR>Sell everything at the
+normal price?
+----------------------------|----------------------------------
+\u232e</COLOR>Sell at half price!
+----------------------------|----------------------------------
+\u232e</COLOR>You haven't selected any
+items to sell. Continue?
+----------------------------|----------------------------------
+\u232f</COLOR>Return to previous menu.\u2390
+----------------------------|----------------------------------
+<VAR_15> went to sleep.
+----------------------------|----------------------------------
+\u232f</COLOR>Ending the game because
+everyone left.
+----------------------------|----------------------------------
+Nintendo Wi-Fi Connection
+----------------------------|----------------------------------
+treats your Game Card
+----------------------------|----------------------------------
+and the system as a set.
+----------------------------|----------------------------------
+Save this system's Wi-Fi
+----------------------------|----------------------------------
+User Information to this
+----------------------------|----------------------------------
+Game Card and connect
+----------------------------|----------------------------------
+to Nintendo WFC?
+----------------------------|----------------------------------
+Update Wi-Fi User
+----------------------------|----------------------------------
+Information saved on the
+----------------------------|----------------------------------
+Game Card? When you update
+----------------------------|----------------------------------
+your Wi-Fi User Information,
+----------------------------|----------------------------------
+you will lose all data that
+----------------------------|----------------------------------
+was used to connect to
+----------------------------|----------------------------------
+Nintendo Wi-Fi Connection.
+----------------------------|----------------------------------
+\u232f</COLOR>Saving Wi-Fi User
+Information for this system
+to the Game Card. Please
+don't turn power OFF or
+remove Game Card.
+----------------------------|----------------------------------
+Communication error.
+
+----------------------------|----------------------------------
+There is no response.
+----------------------------|----------------------------------
+Either the player has
+----------------------------|----------------------------------
+been disconnected or
+----------------------------|----------------------------------
+you have been
+----------------------------|----------------------------------
+removed from the
+----------------------------|----------------------------------
+player's friend roster.
+----------------------------|----------------------------------
+Error code: 80430
+----------------------------|----------------------------------
+Either Nintendo WFC is
+----------------------------|----------------------------------
+experiencing high traffic
+----------------------------|----------------------------------
+volumes or the service is
+----------------------------|----------------------------------
+down. Please try again
+----------------------------|----------------------------------
+later. For help, visit
+----------------------------|----------------------------------
+support.nintendo.com.
+----------------------------|----------------------------------
+Error code: <VAR_0>
+----------------------------|----------------------------------
+\u232f</COLOR>Connecting to Nintendo
+Wi-Fi Connection...
+Please wait a moment...
+*Press the B Button
+to cancel.
+----------------------------|----------------------------------
+Return to the title screen?
+<CHOICE_AB> Yes
+ No
+----------------------------|----------------------------------
+You haven't collected the
+money from the last time
+you hosted yet. Please visit
+your Multiplayer Field
+before you host again.
+----------------------------|----------------------------------
+Starting DS Wireless
+Communications... During
+multiplayer, the game saves
+data automatically. Please
+do not turn power OFF during
+multiplayer, or your save
+data may be corrupted.
+----------------------------|----------------------------------
+Set the entrance fee.
+----------------------------|----------------------------------
+That's over the maximum.
+----------------------------|----------------------------------
+The entrance fee is
+<VAR_0>G.
+Okay?
+----------------------------|----------------------------------
+Getting ready to enter the
+ranch. Please wait.
+----------------------------|----------------------------------
+Starting Nintendo WFC...
+During multiplayer, the game
+saves data periodically.
+Please do not turn power
+OFF during multiplayer, or
+your save data may be
+corrupted.
+----------------------------|----------------------------------
+You'll be communicating with
+someone you don't know via
+Nintendo WFC.
+Is that okay?
+----------------------------|----------------------------------
+Friend Roster
+----------------------------|----------------------------------
+Select a ranch.
+----------------------------|----------------------------------
+Friend registration is full.
+----------------------------|----------------------------------
+Go home?
+<CHOICE_AB> Yes
+ No
+----------------------------|----------------------------------
+Waiting for other friends...
+Please wait.
+----------------------------|----------------------------------
+Saved.
+Ending DS Wireless
+Communications...
+----------------------------|----------------------------------
+Saved.
+Disconnecting from
+Nintendo Wi-Fi Connection...
+----------------------------|----------------------------------
+You have been disconnected
+from DS Wireless
+Communications.
+Please turn OFF your DS.
+----------------------------|----------------------------------
+You have been disconnected
+from Nintendo Wi-Fi
+Connection.
+
+Please turn OFF your DS.
+----------------------------|----------------------------------
+You harvested a lot!
+----------------------------|----------------------------------
+Time to go home.
+----------------------------|----------------------------------
+Return to previous menu?
+----------------------------|----------------------------------
+You don't have enough...
+Money
+　　　<VAR_0>G
+----------------------------|----------------------------------
+There's no space in your
+bag. You'll need at least
+12 empty slots.
+----------------------------|----------------------------------
+Entering the farm.
+Okay?
+----------------------------|----------------------------------
+Getting ready to enter the
+farm.
+Please wait.
+----------------------------|----------------------------------
+There's no crop ready to be
+harvested.
+Please connect again after
+raising some crops on the
+Multiplayer Field.
+----------------------------|----------------------------------
+Return to previous menu?
+----------------------------|----------------------------------
+Looking for a field.
+Please wait.
+----------------------------|----------------------------------
+DummyMessage
+*MES_139
+----------------------------|----------------------------------
+\u232e</COLOR>Nintendo Wi-Fi Connection
+
+----------------------------|----------------------------------
+treats your Game Card
+
+----------------------------|----------------------------------
+and the system as a set.
+
+----------------------------|----------------------------------
+Save this system's Wi-Fi
+
+----------------------------|----------------------------------
+User Information to this
+
+----------------------------|----------------------------------
+Game Card and connect
+
+----------------------------|----------------------------------
+to Nintendo WFC?
+----------------------------|----------------------------------
+\u232e</COLOR>Nintendo Wi-Fi Connection
+treats your Game Card
+and the system as a set.
+Save this system's Wi-Fi
+User Information to this
+Game Card and connect
+to Nintendo WFC?
+----------------------------|----------------------------------
+\u232e</COLOR>Nintendo Wi-Fi Connection
+treats your Game Card
+and the system as a set.
+Save this system's Wi-Fi
+User Information to this
+Game Card and connect
+to Nintendo WFC?
+----------------------------|----------------------------------
+\u232e</COLOR>Nintendo Wi-Fi Connection
+treats your Game Card
+and the system as a set.
+Save this system's Wi-Fi
+User Information to this
+Game Card and connect
+to Nintendo WFC?
+----------------------------|----------------------------------
+\u232f</COLOR>Update Wi-Fi User
+
+----------------------------|----------------------------------
+Information saved on the
+
+----------------------------|----------------------------------
+Game Card? When you update
+
+----------------------------|----------------------------------
+your Wi-Fi User Information,
+
+----------------------------|----------------------------------
+you will lose all data that
+
+----------------------------|----------------------------------
+was used to connect to
+
+----------------------------|----------------------------------
+Nintendo Wi-Fi Connection.
+----------------------------|----------------------------------
+\u232f</COLOR>Update Wi-Fi User
+Information saved on the
+Game Card? When you update
+your Wi-Fi User Information,
+you will lose all data that
+was used to connect to
+Nintendo Wi-Fi Connection.
+
+----------------------------|----------------------------------
+\u232f</COLOR>Update Wi-Fi User
+Information saved on the
+Game Card? When you update
+your Wi-Fi User Information,
+you will lose all data that
+was used to connect to
+Nintendo Wi-Fi Connection.
+
+----------------------------|----------------------------------
+\u232f</COLOR>Update Wi-Fi User
+Information saved on the
+Game Card? When you update
+your Wi-Fi User Information,
+you will lose all data that
+was used to connect to
+Nintendo Wi-Fi Connection.
+
+----------------------------|----------------------------------
+Starting DS Wireless
+
+----------------------------|----------------------------------
+Communications... During
+
+----------------------------|----------------------------------
+multiplayer, the game saves
+
+----------------------------|----------------------------------
+data automatically. Please
+
+----------------------------|----------------------------------
+do not turn power OFF during
+
+----------------------------|----------------------------------
+multiplayer, or your save
+
+----------------------------|----------------------------------
+data may be corrupted.
+----------------------------|----------------------------------
+Starting DS Wireless
+Communications... During
+multiplayer, the game saves
+data automatically. Please
+do not turn power OFF during
+multiplayer, or your save
+data may be corrupted.
+----------------------------|----------------------------------
+Starting DS Wireless
+Communications... During
+multiplayer, the game saves
+data automatically. Please
+do not turn power OFF during
+multiplayer, or your save
+data may be corrupted.
+----------------------------|----------------------------------
+Starting DS Wireless
+Communications... During
+multiplayer, the game saves
+data automatically. Please
+do not turn power OFF during
+multiplayer, or your save
+data may be corrupted.
+----------------------------|----------------------------------
+Starting Nintendo WFC...
+
+----------------------------|----------------------------------
+During multiplayer, the game
+
+----------------------------|----------------------------------
+saves data automatically.
+
+----------------------------|----------------------------------
+Please do not turn power
+
+----------------------------|----------------------------------
+OFF during multiplayer, or
+
+----------------------------|----------------------------------
+your save data may be
+
+----------------------------|----------------------------------
+corrupted.
+----------------------------|----------------------------------
+Starting Nintendo WFC...
+During multiplayer, the game
+saves data automatically.
+Please do not turn power
+OFF during multiplayer, or
+your save data may be
+corrupted.
+----------------------------|----------------------------------
+Starting Nintendo WFC...
+During multiplayer, the game
+saves data automatically.
+Please do not turn power
+OFF during multiplayer, or
+your save data may be
+corrupted.
+----------------------------|----------------------------------
+Starting Nintendo WFC...
+During multiplayer, the game
+saves data automatically.
+Please do not turn power
+OFF during multiplayer, or
+your save data may be
+corrupted.
+----------------------------|----------------------------------
+Select a season.
+----------------------------|----------------------------------
+Play with friends
+via Nintendo WFC.
+----------------------------|----------------------------------
+Play with someone you don't
+know via Nintendo WFC.
+----------------------------|----------------------------------
+Select a mode.
+----------------------------|----------------------------------
+Return to previous menu.
+----------------------------|----------------------------------
+There's no friend code.
+You'll need more than one
+friend code to play
+Nintendo WFC.
+----------------------------|----------------------------------
+
+----------------------------|----------------------------------
+
+----------------------------|----------------------------------
+
+----------------------------|----------------------------------
+
+----------------------------|----------------------------------
+<VAR_0>G
+----------------------------|----------------------------------
+<VAR_1>
+----------------------------|----------------------------------
+<VAR_0>G
+----------------------------|----------------------------------
+<VAR_2>
+----------------------------|----------------------------------
+<VAR_3> Ranch
+----------------------------|----------------------------------
+Your Wi-Fi User Information
+----------------------------|----------------------------------
+may have been erased.
+----------------------------|----------------------------------
+Check your connection
+----------------------------|----------------------------------
+settings with the
+----------------------------|----------------------------------
+Nintendo Wi-Fi Connection
+----------------------------|----------------------------------
+setup.
+----------------------------|----------------------------------
+OK to disconnect from
+Nintendo Wi-Fi Connection?
+----------------------------|----------------------------------
+Your friend code is
+<VAR_0><VAR_1><VAR_2>.
+----------------------------|----------------------------------
+Disconnect from
+DS Wireless Communications?
+----------------------------|----------------------------------
+</COLOR>No compatible access point
+----------------------------|----------------------------------
+in range. Check your
+----------------------------|----------------------------------
+connection settings and try
+----------------------------|----------------------------------
+again. For help, visit
+----------------------------|----------------------------------
+support.nintendo.com.
+----------------------------|----------------------------------
+Error Code: 51103
+----------------------------|----------------------------------
+Connecting to the host.

@@ -1,0 +1,23 @@
+<FACE_POS_LEFT><FACE_RAUL><FACE_NORMAL><FP_LEFT>I wanted to talk, but Diego
+and Enrique are already
+asleep!<PAGE><FACE_POS_LEFT><FACE_RAUL><FACE_ANGRY><FP_LEFT>AND they fell asleep without
+locking the door! How
+careless!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RAUL><FACE_NORMAL><FP_RIGHT>What are you doing there,
+<MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RAUL><FACE_HAPPY><FP_RIGHT>Did you come to hang out?
+Diego and Enrique would be
+glad, but it's so late.<PAGE><FACE_POS_RIGHT><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Sorry, but I'm about to
+wake up Enrique and Diego
+so I can talk to them.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RAUL><FACE_ANGRY><FP_RIGHT>Besides, it's late...\u270a...\u270a
+And you shouldn't come
+in without knocking!<PAGE><FACE_POS_RIGHT><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Can you just go home?
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Where are you going?<PAGE>You have to go out the
+front door, not the
+back door.

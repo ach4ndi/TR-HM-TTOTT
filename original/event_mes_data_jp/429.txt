@@ -1,0 +1,13 @@
+<FACE_POS_LEFT><HIDE_NAME><FACE_MIKHAIL><FACE_NORMAL><FP_LEFT><HIDE_FACE>起きているか、<MYNAME>。
+入らせてもらうよ。
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>久しぶりだな、<MYNAME>。<PAGE>秋になって涼しくなったから
+またしばらく、この村に
+住む事にしたんだ。
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MIKHAIL><FACE_HAPPY><FP_RIGHT>この村は、自然がとても
+豊かだからな。
+とても気にいっているんだ。<PAGE>また、この村で音楽が
+弾けるからとてもうれしいよ。<PAGE>役場に泊まっているから、
+何かあったら声をかけてくれ。
+よろしくな。

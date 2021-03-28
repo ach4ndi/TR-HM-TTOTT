@@ -1,0 +1,61 @@
+<FACE_POS_LEFT><HIDE_NAME><FACE_ULYSSA><FACE_SHY><FP_LEFT>\u20d0Aiiiiiyyeeeee!!<PAGE><FACE_POS_LEFT><HIDE_NAME><FACE_ULYSSA><FACE_SAD><FP_LEFT>Siapa kamu?
+Kamu membuatku jadi latah
+kek gini!<PAGE><FACE_POS_LEFT><HIDE_NAME><FACE_ULYSSA><FACE_ANGRY><FP_LEFT>Siapa yang bilang kepadamu
+bahwa kamu berdiri disitu
+saja? SINI! SINI!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><HIDE_NAME><FACE_ULYSSA><FACE_NORMAL><FP_LEFT>UH... KAMU bertanya aku
+sedang ngapain disini?<PAGE>Gak tau ya? apa gak bisa
+lihat? Aku sedang mencari
+bahan-bahan untuk alchemy!<PAGE><FACE_POS_LEFT><HIDE_NAME><FACE_ULYSSA><FACE_SHY><FP_LEFT>Alchemy itu apa? Hmm...
+Ini susah menjelaskannya!<PAGE><FACE_POS_LEFT><HIDE_NAME><FACE_ULYSSA><FACE_NORMAL><FP_LEFT>Sederhananya campur ini
+dan itu akan menjadi satu
+menjadi sesuatu yang lain!<PAGE>Aku sudah lama tinggal di-
+sini dipegunungan ini dah
+luaaaaaamaaa untuk menjadi<PAGE>masternya alchemy!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><HIDE_NAME><FACE_ULYSSA><FACE_HAPPY><FP_LEFT>Ooh, ooooh! Aku tahu, aku tahu!
+KAAAMUUU pastinya tertarik
+alchemy jugakan?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><HIDE_NAME><FACE_ULYSSA><FACE_HAPPY><FP_LEFT>Jangan menyembunyikan itu
+sekarang! Itu pastinya se-
+buah takdir yang membuat<PAGE>kita ini saling bertemu
+kek gini!<PAGE><FACE_POS_LEFT><HIDE_NAME><FACE_ULYSSA><FACE_NORMAL><FP_LEFT>Okey-dokey, mulai dari sekarang...\u270b
+<FACE_POS_LEFT><HIDE_NAME><FACE_ULYSSA><FACE_HAPPY><FP_LEFT>Kamu akan menjadi objek
+eksperimen alchemyku!
+----------------------------|----------------------------------
+<CHOICE_AB> Uh gw gak tahu ya..
+ Oke oke!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><HIDE_NAME><FACE_ULYSSA><FACE_ANGRY><FP_LEFT>A-A-A-A-A-Apaaaa!?
+Apa dengan itu membuatku
+menyerah? AKU!?<PAGE><FACE_POS_LEFT><HIDE_NAME><FACE_ULYSSA><FACE_HAPPY><FP_LEFT>Itu tidak seperti itu!
+Tidak seorangpun yang meno-
+lakku! Apa yang aku ucapkan!<PAGE><FACE_POS_LEFT><HIDE_NAME><FACE_ULYSSA><FACE_NORMAL><FP_LEFT>Jadi kamu akan menjadi
+objek percobaanku mulai
+hari ini!<PAGE>Sekarang...
+siapa namamu itu?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><HIDE_NAME><FACE_ULYSSA><FACE_NORMAL><FP_LEFT><MYNAME>?
+<MYNAME>, <MYNAME>, <MYNAME>...<PAGE><FACE_POS_LEFT><FACE_ULYSSA><FACE_HAPPY><FP_LEFT>Dan kamu bisa memanggilku
+dengan sebutan...
+<BLUE>Oracle</COLOR>!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ULYSSA><FACE_HAPPY><FP_LEFT>Mulai sekarang!
+<MYNAME>, akan sangat ber-
+guna untukku!<RED>❤</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_LEFT><HIDE_NAME><FACE_ULYSSA><FACE_HAPPY><FP_LEFT>Oooh!
+Sangat jawaban yang bagus!<PAGE>Kamu benar-benar pengertian!
+Tajam seperti silet!
+Aku senang denganmu!<PAGE><FACE_POS_LEFT><HIDE_NAME><FACE_ULYSSA><FACE_NORMAL><FP_LEFT>Tapi aku belum menanyakan
+namamukan? apa sudah?<PAGE>Uh orang-orang memanggilmu
+dengan nama apa?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><HIDE_NAME><FACE_ULYSSA><FACE_NORMAL><FP_LEFT><MYNAME>?
+<MYNAME>, <MYNAME>, <MYNAME>...<PAGE><FACE_POS_LEFT><FACE_ULYSSA><FACE_HAPPY><FP_LEFT>Dan kamu bisa memanggilku
+dengan sebutan...
+<BLUE>Oracle</COLOR>!<PAGE>Mulai sekarang!
+<MYNAME>, akan sangat ber-
+guna untukku!<RED>❤</COLOR>

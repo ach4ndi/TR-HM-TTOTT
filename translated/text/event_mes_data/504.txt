@@ -1,0 +1,268 @@
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Aku akan mengajarimu menge-
+nai bagaimana merawat se-
+buah tanaman pada hari ini.<PAGE>Apakah kamu tahu bagaimana
+caranya merawat tanaman,
+<MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Uh, kamu sudah tahu?
+Oke, baguslah kalau gitu.<PAGE>Maka aku hanya akan memberi-
+kanmu sebuah peralatan saja
+kalau gitu.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Ini, <RED>sabit</COLOR>mu. 
+Kamu akan membutuhkan ini
+untuk membersihkan lahan.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Ini, <RED>Cangkul</COLOR>mu.
+Kamu akan membutuhkan ini
+untuk menggemburkan tanah.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Ini, <RED>alat penyiram</COLOR>mu.
+Kamu akan membutuhkan ini
+untuk menyiram tanaman.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Ini ada beberapa <RED>pupuk</COLOR>.<PAGE>Pupuk ini akan menaikan kua-
+litas tanamanmu dimana itu
+diletakan disekitarnya.<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Selamat bertani ya!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Maka, aku akan mengajarimu!<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Ayo ikuti aku.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Ya disini! Tampaknya posisi
+nya bagus.<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Tahap untuk menumbuhkan se-
+buah tanaman, yaitu:<PAGE><RED>membersihkan</COLOR>, <RED>mancangkul</COLOR>,
+<RED>menabur</COLOR>, dan <RED>mengairi</COLOR>.<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Dan ini, biarkan aku membe-
+rikan ini kepadamu.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Inilah, <RED>sabit</COLOR>mu. 
+Kamu akan membutuhkan ini
+untuk membersihkan lahan.<PAGE>Cobalah...
+----------------------------|----------------------------------
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Apa yang kamu lakukan?
+Ayo lakukan dan bersihkan
+rumput itu!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Pertama pegang alatnya di-
+tanganmu.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Itu caranya!
+Sepertinya kamu sudah
+menguasainya!<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Selanjutnya aku akan mem-
+berikan ini kepadamu.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Ini adalah sebuah <RED>cangkul</COLOR>.
+Kamu dapat menggunakan untuk
+menggemburkan tanah.<PAGE>Cangkul tanahnya, dimana
+setelah membersihkan rerum-
+putannya.<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Cobalah! Gunakan cangkulnya
+ditempat yang kamu bersih-
+kan dari rumput tadi.<PAGE>Cara penggunaannya sama
+persis seperti sabit.
+Jadi cobalah.
+----------------------------|----------------------------------
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Kamu tidak tahu dimana
+tempat yang bagus dicangkul?
+Ya disini, dimana kamu<PAGE>sudah membersihkan rumput
+nya.<PAGE>Gunakan cangkulmu dengan me-
+nekan <RED>Tombol R</COLOR>, lalu
+tekan <RED>Tombol A</COLOR> untuk mencangkul.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Pertama, simpan semua apa
+yang sedang kamu pegang
+ya!
+----------------------------|----------------------------------
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Bagus! Kamu tampaknya
+memiliki bakat yang
+terpendam!<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Biarkan aku memberikan
+ini kepadamu!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Ini sebuah <RED>Bibit turnip putih</COLOR>.<PAGE>Kamu tabur ketanah yang su-
+dah digemburin barusan.<PAGE>Hanya pegang bibitnya, lalu
+tabur saja ketanah.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Pegang bibitnya, lalu tabur
+dengan menekan <RED>Tombol A</COLOR>.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_SAD><FP_RIGHT>Sekarang apa? Kamu menghi-
+langkan kantong bibitmu?<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_ANGRY>Aku akan memberikanmu bebe-
+rapa lagi, Sekarang jangan
+sampai hilang lagi!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Pertama, simpan semua apa
+yang sedang kamu pegang
+ya!
+----------------------------|----------------------------------
+
+----------------------------|----------------------------------
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Nah itu dia! Nah itu
+seharusnya cara untuk
+menaburnya!<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Sekarang tahap terakhir.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Ini sebuah <RED>alat penyiram</COLOR>.
+Gunakan ini untuk mengairi-
+tanamannya.<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Penuhi isi alat penyiram
+airnya dari sumber air yang
+dekat dengan kebunmu.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Nah itu sumurmu.<PAGE>Pegang alat penyiramnya,
+lalu tekan <RED>Tombol A</COLOR> di-
+dekat sumurnya.<PAGE>Disaat alat penyirammu penuh
+lalu tekan <RED>Tombol A</COLOR> untuk
+mengairi bibitnya.<PAGE>Dicoba ya.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Gunakan <RED>penyiram air</COLOR> untuk
+mengairi bibitmu itu.<PAGE>Gunakan <RED>Tombol R</COLOR> untuk
+memegangnya, atau mengguna-
+kan dari tasmu.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Pertama, simpan semua apa
+yang sedang kamu pegang
+ya!
+----------------------------|----------------------------------
+
+----------------------------|----------------------------------
+
+----------------------------|----------------------------------
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Ho ho ho!<PAGE>Betapa bagusnya cara
+mengairinya!<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Dan itulah dasar-dasar dari
+bagaimana kamu merawat dan
+menumbuhkan sebuah tanaman.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_RUTGER><FACE_NORMAL><FP_LEFT><HIDE_FACE>Jika kamu menyirami tanaman-
+mu dengan air tiap hari,
+semuanya akan memulai ber-<PAGE><RED>kecambah</COLOR>.<PAGE>Tapi jika kamu lupa menyiram-
+nya, contohnya satu hari
+lupa...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_RUTGER><FACE_NORMAL><FP_LEFT><HIDE_FACE>...Tanamanmu akan
+<RED>layu</COLOR>!<PAGE>Ini tandanya tanamanmu
+memburuhkan air!<PAGE>Jika kamu tetap melupa-
+kan untuk menyiramnya...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_RUTGER><FACE_NORMAL><FP_LEFT><HIDE_FACE>...pastinya mereka akan <RED>mati</COLOR>!
+Hati-hati ya!<PAGE>Disaat kondisi mereka sudah
+seperti itu, maka sudah
+telat untuk disiram oleh air!<PAGE>Gunakan <RED>Sabit</COLOR>mu untuk mem-
+bersihkan tanaman yang sudah
+mati itu.<PAGE>Agar kamu bisa menanam
+tanaman lainnya ditempat
+tanaman sebelumnya mati.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_RUTGER><FACE_NORMAL><FP_LEFT><HIDE_FACE>Disaat kamu mengairi dengan
+benar, sebuah turnip akan
+tumbuh seperti ini.<PAGE>Sekarang kamu bisa <RED>memanennya</COLOR>!<PAGE>Untuk memanennya, cuman hanya
+dekati tanamannya dan tekan
+<RED>Tombol A</COLOR>!<PAGE>Namun, beberapa tanaman
+membutuhkan <RED>sabit</COLOR> untuk
+memanennya..<PAGE>Contohnya yaitu gandum dan
+kacang kedelai.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Ada beberapa tips untukmu:
+siram tanamanmu dipagi hari.<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Dengan itu, nanti sorenya
+tanamnmu akan tampak
+kering tanahnya.<PAGE>Lalu kamu bisa menyirami
+nya kedua kalinya. dan itu
+akan lebih cepat tumbuhnya!
+----------------------------|----------------------------------
+
+----------------------------|----------------------------------
+
+----------------------------|----------------------------------
+
+----------------------------|----------------------------------
+
+----------------------------|----------------------------------
+
+----------------------------|----------------------------------
+
+----------------------------|----------------------------------
+
+----------------------------|----------------------------------
+
+----------------------------|----------------------------------
+
+----------------------------|----------------------------------
+
+----------------------------|----------------------------------
+
+----------------------------|----------------------------------
+
+----------------------------|----------------------------------
+
+----------------------------|----------------------------------
+
+----------------------------|----------------------------------
+
+----------------------------|----------------------------------
+
+----------------------------|----------------------------------
+
+----------------------------|----------------------------------
+
+----------------------------|----------------------------------
+
+----------------------------|----------------------------------
+
+----------------------------|----------------------------------
+
+----------------------------|----------------------------------
+
+----------------------------|----------------------------------
+
+----------------------------|----------------------------------
+
+----------------------------|----------------------------------
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Sekarang, kembali kedalam
+ya.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Ini ada beberapa pupuk yang
+bisa kamu gunakan nanti.<PAGE>Berusahalah yang terbaik
+untuk merawat dan menumbuh-
+kan tanaman ya!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Sepertinya tasmu tidak cukup
+untuk dimasukkan barang
+lagi.<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Aku ada <RED>empat</COLOR> alat
+yang akan kuberikan kepada-
+mu, jadi pastikan kamu mem-<PAGE>punyai tempat kosong 4
+slot ya.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Membersihkan rumput liar itu
+memakai sabit dimana arahkan
+kearah anak panah.<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Ada dua cara untuk mengguna-
+kan sabitmu.<PAGE>Apapun caranya, pindahkan
+sabit didalam tasmu keslot
+yang tertulis "Alat"...<PAGE>...atau gunakan <RED>Tombol R</COLOR>
+untuk menampilkan lapar per-
+alatan lalu pilih sabitnya!<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Setelah kamu memasang sa-
+bitnya, pergi arahkan ke-
+anak panahnya dan lalu<PAGE>tekan <RED>Tombol A</COLOR>.
+Dan itu caranya untuk mem-
+bersihkan rumput!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Oh, satu hal lagi mengenai
+cara menumbuhkan tanaman...<PAGE>Kamu bisa melihat adanya
+rating kualitas dari tana-
+manmu yaitu banyaknya<PAGE><RED>bintang kuning</COLOR> yang di-
+punyai.<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Untuk menaikkan kualitas
+tanamanmu, gunakan <RED>pupuk</COLOR>.<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Terapkan pupuk pada gunduk-
+kan tanah, dan kamu akan me-
+naikan kualitas tanaman di-<PAGE>sekitarnya!<PAGE>Untuk menggunakan pupuk,
+pegang pupuknya, seperti
+halnya sabit atau cangkul.<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_SAD><FP_RIGHT>Pastikan juga itu <RED>disaat
+tanamanmu sedang dalam ma-
+sa pertumbuhan</COLOR>, atau<PAGE>tidak memiliki efek.
+----------------------------|----------------------------------
+<CHOICE_AB> Aku tak tau caranya.
+ Aku dah tahu caranya.

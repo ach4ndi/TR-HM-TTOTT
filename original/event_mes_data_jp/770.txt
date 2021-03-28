@@ -1,0 +1,6 @@
+<FACE_POS_CENTER><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>よし。では場所は
+お前が決めるのじゃ！
+----------------------------|----------------------------------
+<CHOICE_ABC> <VAR_0>
+ <VAR_1>
+ <VAR_2>

@@ -1,0 +1,54 @@
+<FACE_POS_LEFT><FACE_GRADY><FACE_HAPPY><FP_LEFT>Oh, <MYNAME>.
+Perfect timing!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_GRADY><FACE_NORMAL><FP_LEFT>I've got some useful info to
+tell you about horses and
+carts!<PAGE>Maybe you already know this
+information, though... You
+still want me to explain?
+----------------------------|----------------------------------
+<CHOICE_AB> Yes, please!
+ No thanks, I know it.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_GRADY><FACE_HAPPY><FP_LEFT>All right, let me explain
+it to you, then...<PAGE><FACE_POS_LEFT><FACE_GRADY><FACE_NORMAL><FP_LEFT>First, there are different
+<RED>types</COLOR> of horses
+and carts.<PAGE>The horse you have now is
+a <RED>pony</COLOR>. It's the smallest
+type of horse.<PAGE>There are horses stronger
+than ponies that can pull
+carts at higher <RED>speeds</COLOR>.<PAGE><FACE_POS_LEFT><FACE_GRADY><FACE_HAPPY><FP_LEFT>If you want to change your
+horse, come to my shop and
+I'll get you a new one.<PAGE><FACE_POS_LEFT><FACE_GRADY><FACE_NORMAL><FP_LEFT>Also, each type of cart has
+its own <RED>weight</COLOR> and <RED>load</COLOR>
+that it can carry.<PAGE>You can even <RED>modify</COLOR> the cart
+you have now so it can hold
+more items!<PAGE><FACE_POS_LEFT><FACE_GRADY><FACE_HAPPY><FP_LEFT>You can have your cart
+modified at my shop!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_GRADY><FACE_NORMAL><FP_LEFT>That about covers what you
+need to know about carts and
+horses. Do you understand?
+----------------------------|----------------------------------
+<CHOICE_AB> Yep, I got it!
+ Can you explain it again?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_GRADY><FACE_NORMAL><FP_LEFT>Of course! Now, listen
+closely...<PAGE>First, there are different
+<RED>types</COLOR> of horses
+and carts.<PAGE>The horse you have now is
+a <RED>pony</COLOR>. It's the smallest
+type of horse.<PAGE>There are horses stronger
+than ponies that can pull
+carts at higher <RED>speeds</COLOR>.<PAGE><FACE_POS_LEFT><FACE_GRADY><FACE_HAPPY><FP_LEFT>If you want to change your
+horse, come to my shop and
+I'll get you a new one.<PAGE><FACE_POS_LEFT><FACE_GRADY><FACE_NORMAL><FP_LEFT>Also, each type of cart has
+its own <RED>weight</COLOR> and <RED>load</COLOR>
+that it can carry.<PAGE>You can even <RED>modify</COLOR> the cart
+you have now so it can hold
+more items!<PAGE><FACE_POS_LEFT><FACE_GRADY><FACE_HAPPY><FP_LEFT>You can have your cart
+modified at my shop!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_GRADY><FACE_HAPPY><FP_LEFT>Great! Feel free to have
+a look around my shop,
+then!

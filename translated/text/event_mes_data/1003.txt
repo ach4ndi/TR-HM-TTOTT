@@ -1,0 +1,45 @@
+<FACE_POS_RIGHT><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Dan mari kita mulai...<PAGE>Kita disini hari ini untuk meng-
+hadiri pernikahan Kana and
+<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Kana...<PAGE>Apakah kamu akan menjadikan
+<MYNAME> seorang istri,yang
+dicintai dan menyemangati<PAGE>dia dengan seluruh hidupmu?<PAGE><FACE_POS_LEFT><FACE_KANA><FACE_HAPPY><FP_LEFT>Ya pasti, aku ...
+lakukan!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NATHAN><FACE_NORMAL><FP_RIGHT><MYNAME>...<PAGE>Apakah kamu akan menjadikan
+Kana menjadi suami, yang 
+dicintai dan disayangi<PAGE>dengan seluruh kehidupanmu?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Maka, Sekarang aku umumkan
+kalian seorang suami dan
+istri!<PAGE><FACE_POS_RIGHT><FACE_NATHAN><FACE_HAPPY><FP_RIGHT>Semoga Dewi Panen memberkati
+pasangan yang bahagia ini!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_KANA><FACE_SHOCK><FP_LEFT><MYNAME>,
+Aku akan membuatmu sangat
+bahagia, benarkan?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_SHOCK><FP_RIGHT>Hari ini kamu dan aku akan
+memulai kehidupan baru kita
+bersama!<PAGE>Itu memang berat! Jadi kita
+harus memiliki nama panggil-
+an satu sama lainkan, ka...<PAGE>karena sudah menikah? huh?<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>Uh apa ya enaknya memanggil-
+kamu itu?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT><MYNICKNAME>.
+Itu nama panggilan yang
+ingin kamu pakai?
+----------------------------|----------------------------------
+<CHOICE_AB> Ya, Kana.
+ Mungkin yang lainnya aja...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>Oke tidak masalah buatku!<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_SHOCK><FP_RIGHT>Kehidupan kita akan menjadi
+KEREN, <MYNICKNAME>!!
+----------------------------|----------------------------------
+Kehidupan baru kita sudah
+dimulai! Kita akan ber-
+istirahat sejenak hari ini.<PAGE>Besok akan kembali bekerja!
+----------------------------|----------------------------------
+<CHOICE_AB> Simpan dan tidur.
+ Tidur saja ah, capek.

@@ -1,0 +1,121 @@
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Dum-Da-Da-DAA! You finally
+collected all 6 Wonderfuls!
+Congratulations!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>I knew you could do it,
+<MYNAME>!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>As a reward, I'll grant you
+one wish!
+
+----------------------------|----------------------------------
+<CHOICE_ABC> <VAR_0>
+ <VAR_1>
+ <VAR_2>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>That's a pretty big wish!
+<PAGE>If that's what you want...
+Yah!!!!!!!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>There you go! All set!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>It must be tiring doing
+farm work every day...<PAGE>I can help with that!
+Yah!!!!!!!!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>See? That only took a
+second!<PAGE>Now you'll be able to work
+as hard as you want to!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Ah! I see, so you've got a
+crush on someone, do you?
+Tee-hee!<PAGE>Well, just let me know which
+girl you want to get closer
+to!
+----------------------------|----------------------------------
+<CHOICE_ABC> Laney
+ Georgia
+ Next.
+----------------------------|----------------------------------
+<CHOICE_ABC> Reina
+ Nori
+ Next.
+----------------------------|----------------------------------
+<CHOICE_ABC> Reina
+ Nori
+ See the options again.
+----------------------------|----------------------------------
+<CHOICE_ABC> Ulyssa
+ Alisa
+ See the options again.
+----------------------------|----------------------------------
+<CHOICE_AB> Ulyssa
+ See the options again.
+----------------------------|----------------------------------
+<CHOICE_AB> Alisa
+ See the options again.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>There! That was easy!<PAGE>Now she likes you a lot
+more! You should go talk
+to her right now!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Ah! I see, so you've got a
+crush on someone, do you?
+Tee-hee!<PAGE>Well, just let me know which
+boy you want to get closer
+to!
+----------------------------|----------------------------------
+<CHOICE_ABC> Ash
+ Hiro
+ Next.
+----------------------------|----------------------------------
+<CHOICE_ABC> Cam
+ Kana
+ Next.
+----------------------------|----------------------------------
+<CHOICE_ABC> Cam
+ Kana
+ See the options again.
+----------------------------|----------------------------------
+<CHOICE_ABC> Mikhail
+ Dirk
+ See the options again.
+----------------------------|----------------------------------
+<CHOICE_AB> Mikhail
+ See the options again.
+----------------------------|----------------------------------
+<CHOICE_AB> Dirk
+ See the options again.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>There! That was easy!<PAGE>Now he likes you a lot
+more! You should go talk
+to him right now!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>\u232dLa\u270a laa♪\u270b La la laa\u270a laa♪\u270b
+La la laa\u270b laa laa♪\u270b<PAGE>Laa laa♪\u270b La la la\u270a laa♪\u270a\u270a
+La la\u270a laa♪\u232c
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>Is that what you wanted?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_HGODDES><FACE_HAPPY>Watch closely!\u270b\u270b<PAGE><FACE_POS_CENTER><FACE_HGODDES><FACE_NORMAL>Is that what you wanted?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>Is that what you wanted?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Ooh, so THAT'S who you have
+a crush on! Tee-hee!<PAGE>Just leave it to me! I'll
+fix things up for you!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>You're going to have to
+propose to her yourself,
+though!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Remember, she's a sensitive
+girl, so don't go hurting
+her feelings, now!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>Well, you've gotten your
+wish, so I've hidden the
+Wonderfuls again!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>If you want another wish,
+you'll have to find them
+again!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>I know it's difficult, but
+just do the best you can!
+I'll be waiting!
+----------------------------|----------------------------------
+<CHOICE_ABC> Oracle
+ Alisa
+ See the options again.
+----------------------------|----------------------------------
+<CHOICE_AB> Oracle
+ See the options again.

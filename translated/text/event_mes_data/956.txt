@@ -1,0 +1,51 @@
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>Apakah kamu seorang petani?
+apakah itu benar,
+<MYNAME>?<PAGE>Sepertinya bertani itu se-
+buah pekerjaan yang berat.<PAGE>Kamu pastinya memperhatikan
+semua tanaman itu tumbuh,dan
+serta bintanag ternakmu juga.
+----------------------------|----------------------------------
+<CHOICE_AB> Ya sangat sibuk.
+ Santai aja mah!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_SHY><FP_RIGHT>Kan sudah tertebak!<PAGE><FACE_POS_RIGHT><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>Dan aku tak pernah mendengar
+keluhanmu, satupun keluhan
+dari kamu.<PAGE><FACE_POS_RIGHT><FACE_GEORGIA><FACE_HAPPY><FP_RIGHT>Kamu itu benar-benar hebat,
+<MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>Sayapun disibukan untuk mem-
+perhatikan binatang
+ternak.<PAGE><FACE_POS_RIGHT><FACE_GEORGIA><FACE_HAPPY><FP_RIGHT>Mereka tampak lucu, mengge-
+maskan, jadi aku sih oke-
+oke saja! hehehe
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>Apakah kamu suka kuda,
+iya kan?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>Lain kali aku akan kutemukan
+kuda kesayanganku kepadamu!
+Dia benar-benar imut loh!<PAGE><FACE_POS_RIGHT><FACE_GEORGIA><FACE_HAPPY><FP_RIGHT>Ini adalah janji!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_HAPPY><FP_RIGHT>Aku senang atas waktu untuk
+berbincang-bincang denganmu,
+<MYNAME>.<PAGE>Kita harus bicara lagi
+nanti! Sampai jumpa lagi
+yo!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_ANGRY><FP_RIGHT>Oh jadi begitu ya?<PAGE>Uh, jangan anggap pekerjaan
+itu hanya sebuah bercanda
+ya.<PAGE><FACE_POS_RIGHT><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>Kenapa? Aku sendiri juga
+merawat binatang juga...<PAGE>Tapi itu sangat banyak yang
+harus dilakukan agar mereka
+tumbuh sehat dan senang.<PAGE>Dan juga tanaman butuh
+cukup cinta dan perhatian.<PAGE><FACE_POS_RIGHT><FACE_GEORGIA><FACE_SAD><FP_RIGHT>Jadi jika kamu benar-benar
+menjalankan pekerjaanmu,
+aku pikir jawabanmu "santai<PAGE>saja" itu sepertinya gak
+relevan...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>Maaf untuk berkata seperti
+itu. Mungkin ini bukanlah
+urusanku juga.<PAGE>Tapi aku berhak untuk mengu-
+tarkan pendapatku.<PAGE>Tampaknya hari sudah mulai
+gelap, dan tampaknya aku
+akan segera pulang.<PAGE>Bye, <MYNAME>.

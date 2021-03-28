@@ -1,0 +1,26 @@
+<FACE_POS_LEFT><HIDE_NAME><FACE_NATHAN><FACE_NORMAL><FP_LEFT><HIDE_FACE>Good morning, my child!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><HIDE_NAME><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Your name is <MYNAME>,
+is it not?<PAGE><FACE_POS_RIGHT><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>My name is <BLUE>Nathan</COLOR>. I am a
+dedicated follower of
+the Harvest Goddess!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>I came because I heard the
+Harvest Goddess makes her
+home here.<PAGE><FACE_POS_RIGHT><FACE_NATHAN><FACE_HAPPY><FP_RIGHT>My lot in life is to sing
+the praises of the Harvest
+Goddess, so here I am!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NATHAN><FACE_HAPPY><FP_RIGHT>I've moved into the nearby
+church so I can be closer
+to the Harvest Goddess.<PAGE>I'm there rain or shine, so
+come by whenever you like!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NATHAN><FACE_HAPPY><FP_RIGHT>I've moved into the church
+in Bluebell to be closer
+to the Harvest Goddess.<PAGE>I'm there rain or shine, so
+come on in if you're ever
+by the church!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Well, I'll be going now.
+I hope to see you soon!

@@ -1,0 +1,29 @@
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>Oh my, this plant...!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>It was just a bud two days
+ago.<PAGE>Now it's simply enormous!
+Fascinating!<PAGE>Presumably, then, this is a
+favorable environment?
+Or could it be...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>*sigh*
+How did it get so late?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_SHY><FP_RIGHT>Sorry, <MYNAME>.<PAGE>Once I get wrapped up in
+studying plants, I lose
+track of everything else...
+----------------------------|----------------------------------
+<CHOICE_AB> Not a problem.
+ Not my idea of fun.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>I'm so relieved to hear you
+say that. I'm sorry I
+dragged you along today.<PAGE>But thanks to you, I made an
+interesting discovery.
+...Well, gotta go.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_ANGRY><FP_RIGHT>I'm no fun, I guess.<PAGE>But if you were bored, why
+didn't you just go home,
+then?<PAGE>That's what I'm gonna do...
+go home.
+So goodbye, <MYNAME>.

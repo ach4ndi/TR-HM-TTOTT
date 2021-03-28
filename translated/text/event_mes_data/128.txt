@@ -1,0 +1,599 @@
+<FACE_POS_CENTER><HIDE_NAME><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Halo. <MYNAME>,
+Apa benar itu namamu?<PAGE><FACE_POS_CENTER><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Aku <BLUE>Diego</COLOR>. <PAGE>Aku menjalankan sebuah toko.
+Aku harap kamu beli barang
+ditokoku :3
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_ANGRY><FP_RIGHT>Cuaca kemarin benar-benar
+sesuatu! Anginnya sungguh
+luar biasa kencangnya!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Apa bisa kubantu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Apa bisa kubantu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Apa bisa kubantu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_HAPPY><FP_RIGHT>Itu sungguh lucu!
+Lucunya!
+Sangat sangat lucu!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_ANGRY><FP_RIGHT>Aduh! Aku tidak menyukai
+itu, apapun dari itu!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Apa bisa kubantu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_HAPPY><FP_RIGHT>Oh, sebuah Bulu Biru.<PAGE>Aku harap bisa menggu-
+nakan disuatu saat nanti.
+Semoga beruntung!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Maaf. Aku tidak membutuhkannya.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Hadiah lainnya untuk hari
+ini? Maaf aku tidak bisa.<PAGE>Aku sudah mendapatkan lebih
+dari cukup.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Apa bisa kubantu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Apa bisa kubantu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Apa bisa kubantu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_HAPPY><FP_RIGHT>Wow! Sebuah hadiah ulang tahun
+untukku?<PAGE><RED>Salad Daikon</COLOR>?
+Aku sungguh beruntung!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_HAPPY><FP_RIGHT><RED>Salad Daikon</COLOR>!
+<RED>Salad Daikon</COLOR>!
+<RED>Salad Daikon</COLOR>!<PAGE>Ooh...
+Sepertinya aku terlalu
+berlebihan. Makasih banyak!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Apa bisa kubantu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Apa bisa kubantu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_HAPPY><FP_RIGHT>Wow! 
+Sebuah hadiah ulang tahun
+Untukku?<PAGE>Dan kamu membawakanku sebuah
+hadiah yang mengesankan...<PAGE>Kamu benar-benar teman
+yang baik.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_HAPPY><FP_RIGHT>Oh!
+Bagaimana kamu tahu bahwa
+aku menyukai ini?<PAGE>Tidak masalah. Terima kasih
+banyak! Asyeeekk!!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Ini sebuah hadiah ulang
+tahun?<PAGE>Oh, terima kasih, <MYNAME>!
+Terima kasih banyak!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Apa kamu memberikan ini keaku??
+Aku tidak menerima suap.
+Aku tidak akan kasih diskon.<PAGE>Huh? Bukan itu?
+Maka aku akan menerimanya.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_SAD><FP_RIGHT>Aku sungguh kuciwa.
+Ini adalah hari ulang tahun-
+ku, <MYNAME>...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_ANGRY><FP_RIGHT>Apaa...?
+Apa kamu benar-benar memberi-
+kan ini keaku?<PAGE>Karena kamu tahu jika aku
+tidak benci itu. Jadi aku
+sangat kecewa denganmu,<PAGE><MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_SAD><FP_RIGHT>Aku benci ini. Semenjak
+saudaraku menaburnya dimuka
+ku disaat aku tidur...<PAGE>Itu sungguh luar biasa
+perih dimata dan pedas
+sekali, yang membuat<PAGE>kulitku mengelupas dan
+seperti dibakar saja!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Apa bisa kubantu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Apa bisa kubantu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_HAPPY><FP_RIGHT>Hu bagaimana rasanya sudah
+menikah?<PAGE><FACE_POS_CENTER><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Aku harap dapat men-
+cari cinta sejati-ku kelak.
+Sedih jones mulu.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Badai yang mengerihkan!
+Aku harap tidak ada yang
+rusak...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Hari ini saljunya sungguh
+lebat. Aku ingin itu
+segera berakhir.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_HAPPY><FP_RIGHT>Terima kasih telah menjadi
+temanku.<PAGE>Dengan melihatmu itu membuat
+ku merasa selalu senang.<PAGE>Tapi tidak ada diskon untuk
+kamu. bisnis tetaplah
+bisnis.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_HAPPY><FP_RIGHT>Aku sangat senang disaat
+kamu sering datang.<PAGE>Aku lebih senang lagi jika
+kamu membeli sesuatu
+sekarang.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Enrique dan Raul tidak
+begitu serius menjadi seorang
+salesman.<PAGE>Aku berharap mereka belajar
+dariku dan menerapkannya
+sesuai yang aku terapkan.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Sebagai kakak tertua, aku
+mempunyai tanggung jawab
+terhadap adik-adikku.<PAGE>Karena mereka tidak bisa
+diandalkan.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Tokoku telah membantu warga
+desa ini. Aku menjual sesu-
+atu yang mereka butuhkan.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Aku suka menjual sesuatu.
+Disaat aku mengadakan
+penjualan, aku merasa<PAGE>lebih hidup.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Terkadang membuat sebuah
+penjualan itu susah. Kamu
+harus belajar dari kesalahan.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Apa bisa kubantu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Apa bisa kubantu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Apa bisa kubantu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Apa bisa kubantu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Apa bisa kubantu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Apa bisa kubantu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Apa bisa kubantu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Apa bisa kubantu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Apa bisa kubantu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Apa bisa kubantu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Apa bisa kubantu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Apa bisa kubantu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Apa bisa kubantu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Apa bisa kubantu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Apa bisa kubantu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Apa bisa kubantu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Apa bisa kubantu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Apa bisa kubantu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Apa bisa kubantu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Apa bisa kubantu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Apa bisa kubantu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Apa bisa kubantu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Apa bisa kubantu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Apa bisa kubantu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Apa bisa kubantu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Apa bisa kubantu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Apa bisa kubantu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Apa bisa kubantu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Apa bisa kubantu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Apa bisa kubantu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Apa bisa kubantu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Apa bisa kubantu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Apa bisa kubantu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Apa bisa kubantu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Apa bisa kubantu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Apa bisa kubantu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Apa bisa kubantu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Apa bisa kubantu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Apa bisa kubantu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Aku tidak bisa menjualnya.
+Disayangkan.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_HAPPY><FP_RIGHT>Aku sudah mengincarnya.
+Itu bakalan bisa dijual
+dengan harga tinggi.<PAGE><FACE_POS_CENTER><FACE_DIEGO><FACE_SAD><FP_RIGHT>Huh? Tidak dijual?
+Disayangkan...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_ANGRY><FP_RIGHT>Bukan bukan itu!
+Silahkan ambil saja.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Hmph.
+Kamu seharusnya melepaskan
+nya.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Apa bisa kubantu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Apa bisa kubantu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Apa bisa kubantu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Apa bisa kubantu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Apa bisa kubantu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Apa bisa kubantu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Apa bisa kubantu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Apa bisa kubantu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Apa bisa kubantu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Apa bisa kubantu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Apa bisa kubantu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Apa bisa kubantu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_HAPPY><FP_RIGHT>Ooh, untukku?
+Asyeeek! Aku sangat senang!
+Makasih!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Apa bisa kubantu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Apa bisa kubantu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Apa bisa kubantu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Apa bisa kubantu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Apa bisa kubantu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Apa bisa kubantu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_HAPPY><FP_RIGHT>Sebuah hadiah untukku?
+Ooh!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_HAPPY><FP_RIGHT>Kamu seorang teman yang 
+terbaik, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Apa bisa kubantu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Hi, <MYNAME>.
+Bagaimana keadaannya Raul?
+Aku agak mengkhawatirkannya.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Aku suka menjual apapun.
+Favoritku adalah disaat
+mendapatkan uang yang banyak!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Apa bisa kubantu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Apa bisa kubantu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Aku akan datang berkunjung
+ke tokonya Raul. Aku
+khawatir jika dia tidak<PAGE>mengerjakan pekerjaannya
+dengan benar.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Beritahu aku ya, jika kamu
+menemukan sesuatu yang bisa
+dijual.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_SAD><FP_RIGHT>Oomph.<PAGE>Aku butuh istirahat nih.
+Dikarenakan ini perjalanan
+yang panjang.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Disana ada banyak hal-hal
+yang tidak biasa. Ini cukup
+menyenangkan untuk melihat<PAGE>satu persatu dari kesemua-
+nya itu :3
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Raul seharusnya bekerja
+dengan lebih giat.
+Ini cukup berat untuk<PAGE>seorang kaka yang bertang-
+gung jawab atas adiknya itu.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_HAPPY><FP_RIGHT>Aku harap toko Raul ber-
+jalan dengan baik...
+Tugas ini cukup berat<PAGE>untuk mengawasinya atas
+tanggung jawabku sebagai
+seorang saudara tertua.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Raul seharusnya bekerja
+dengan lebih giat.
+Ini cukup berat untuk<PAGE>seorang kaka yang bertang-
+gung jawab atas adiknya itu.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Aku bertaruh jika sebuah
+gambar dari pemandangan ini
+akan mendapatkan uang yang<PAGE>banyak. Aku harapkan se-
+seorang yang mau menggambar
+kannya untukku.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_SAD><FP_RIGHT>Ini cukup panjang ya...
+Aku dah kecapekan.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_SAD><FP_RIGHT>Akhirnya sudah sampai di-
+rumah.
+Aku dah kelelahan.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Apa bisa kubantu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Apa bisa kubantu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Apa bisa kubantu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Apa bisa kubantu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Apa bisa kubantu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Apa bisa kubantu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Apa bisa kubantu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Apa bisa kubantu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Apa bisa kubantu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Apa bisa kubantu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Apa bisa kubantu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Apa bisa kubantu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Apa bisa kubantu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Apa bisa kubantu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Apa bisa kubantu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Apa bisa kubantu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Apa bisa kubantu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Apa bisa kubantu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Apa bisa kubantu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Apa bisa kubantu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Apa bisa kubantu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Apa bisa kubantu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Apa bisa kubantu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Apa bisa kubantu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Apa bisa kubantu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Apa bisa kubantu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Apa bisa kubantu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Apa bisa kubantu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Apa bisa kubantu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Apa bisa kubantu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Apa bisa kubantu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Apa bisa kubantu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Apa bisa kubantu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Apa bisa kubantu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Apa bisa kubantu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Apa bisa kubantu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Apa bisa kubantu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Apa bisa kubantu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Apa bisa kubantu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Apa bisa kubantu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Apa bisa kubantu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Apa bisa kubantu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Apa bisa kubantu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Apa bisa kubantu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Apa bisa kubantu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Apa bisa kubantu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Apa bisa kubantu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Apa bisa kubantu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Apa bisa kubantu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Apa bisa kubantu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Apa bisa kubantu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Apa bisa kubantu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Apa bisa kubantu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Apa bisa kubantu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Selamat pagi!
+Kamu tampak sehat ya hari
+ini.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_HAPPY><FP_RIGHT>Selamat pagi, <MYNAME>!<PAGE>Hey, beritahuku jika kamu
+mendengarkan skema yang
+bagus untuk mendapat-<PAGE>kan uang yang banyak!
+hehehehe
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Selamat pagi, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Hey!<PAGE>Kamu selalu dapatkan apapun
+yang kamu cari ditokoku!
+Jangan lupakan itu ya!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_HAPPY><FP_RIGHT>Halo, <MYNAME>!<PAGE>Sapaan yang baik ini adalah
+sebuah langkah awal untuk
+sebagai penjual yang baik!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_HAPPY><FP_RIGHT>Halo, <MYNAME>.<PAGE>Jika kamu berteman denganku,
+Keberuntungan akan mengikuti
+mu. mungkin.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Halo.
+Aku sudah bekerja dengan
+giat hari ini.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Halo, <MYNAME>.
+Aku bekerja agak berat
+hari ini.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Halo, <MYNAME>.<PAGE>Aku ingatkan, tokoku sudah
+menyetok apapun yang kamu
+butuhkan!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Apa bisa kubantu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Apa bisa kubantu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Apa bisa kubantu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Jika kamu ada disini untuk
+membeli, pindah keposisi
+lainnya dikonter dan bicara<PAGE>denganku disitu.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Aku harus mengecek tempat
+penyimpananku dan melihat
+apa yang perlu distok lagi.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Aku sedang bekerja saat ini.
+Jika kamu ada keperluan
+denganku,apa bisa nanti aja?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Apa bisa kubantu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Apa bisa kubantu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Apa bisa kubantu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Aku agak capek.
+Apa kamu bisa datang lagi
+nanti?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Mengawasi Raul dan Enrique
+itu sebuah tanggung jawab
+yang besar.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Sebagai kakak tertua, ini
+adalah tugasku untuk membuat
+Raul dan Enrique menjadi<PAGE>seorang salesman atau
+penjual yang hebat!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Apa bisa kubantu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Apa bisa kubantu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Apa bisa kubantu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Apa bisa kubantu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Apa bisa kubantu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Apa bisa kubantu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Apa bisa kubantu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Apa bisa kubantu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Apa bisa kubantu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Aku agak capek. Apa bisa
+bicaranya nanti saja?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Sebagai kakak tertua, ini
+adalah tugasku untuk membuat
+Raul dan Enrique menjadi<PAGE>seorang salesman atau
+penjual yang hebat!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Apa bisa kubantu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Aku agak capek. Apa bisa
+bicaranya nanti saja?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Sebagai kakak tertua, ini
+adalah tugasku untuk membuat
+Raul dan Enrique menjadi<PAGE>seorang salesman atau
+penjual yang hebat!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Apa bisa kubantu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Aku agak capek. Apa bisa
+bicaranya nanti saja?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Sebagai kakak tertua, ini
+adalah tugasku untuk membuat
+Raul dan Enrique menjadi<PAGE>seorang salesman atau
+penjual yang hebat!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Apa bisa kubantu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Aku agak capek. Apa bisa
+bicaranya nanti saja?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Sebagai kakak tertua, ini
+adalah tugasku untuk membuat
+Raul dan Enrique menjadi<PAGE>seorang salesman atau
+penjual yang hebat!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Apa bisa kubantu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Aku agak capek. Apa bisa
+bicaranya nanti saja?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Sebagai kakak tertua, ini
+adalah tugasku untuk membuat
+Raul dan Enrique menjadi<PAGE>seorang salesman atau
+penjual yang hebat!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Apa bisa kubantu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Aku agak capek. Apa bisa
+bicaranya nanti saja?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Sebagai kakak tertua, ini
+adalah tugasku untuk membuat
+Raul dan Enrique menjadi<PAGE>seorang salesman atau
+penjual yang hebat!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Apa bisa kubantu?

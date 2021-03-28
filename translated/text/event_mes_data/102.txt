@@ -1,0 +1,862 @@
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Heiii, Perkenalkan namaku
+<BLUE>Cam</COLOR>.<PAGE>Oh ya, aku juga berjualan
+bunga di Bluebell.<PAGE>Semoga kita bisa bertemu
+denganmu lagi...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Kemarin cuacanya cukup
+kencang ya anginnya...<PAGE>Apakah kamu baik-baik saja?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Hi, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Hi, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Hi, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_HAPPY><FP_RIGHT>Hm...
+ini cukup imut ya kalau di-
+perhatikan...<PAGE>Ternyata kucing itu cukup
+imut juga ya...<PAGE>...<PAGE>kalau tidak lagi musim
+kawinnya....
+hahahaha
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_SHY><FP_RIGHT>Apakah ini hewan peliharaan-
+mu?<PAGE>Apakah kamu yakin...
+untuk memeliharanya?<PAGE>Uh... sebenarnya...
+Aku tidak menyukai hewan
+yang kamu pelihara itu...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_SHY><FP_RIGHT>Sebuah... bulu biru? Tunggu,
+Apa kamu benar-benar yakin
+memberikannya keaku?<PAGE><FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Oke, um, mungkin kita harus
+pindah ketempat yang lebih
+aman untuk membicarakannya.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Ini apa ya?
+Sebuah bulu biru?<PAGE><FACE_POS_CENTER><FACE_CAM><FACE_HAPPY><FP_RIGHT>Oh jadi...<PAGE>kamu sudah menemukan
+pasangan hatimu ya?
+Selamat ya!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Hmmm? maafkan aku,
+saat ini aku tidak ingin
+menginginkannya...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Terima kasih ya,
+tapi apakah bisa memberikan
+itu dilain waktu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Apakah ini buatku? oh yee,
+untuk hari ini, hari harmo-
+ni ya?<PAGE>Terima kasih, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Apakah ini buatku?
+untuk hari harmoni?
+...<PAGE><FACE_POS_CENTER><FACE_CAM><FACE_SHY><FP_RIGHT>Um...
+apakah kamu yakin akan hal
+ini buatku? ...<PAGE>Okelah kalau kamu tetap
+memaksanya...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Ini buat apaan sih?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Huh?
+Sebuah hadiah ulang tahun?
+Buatku?<PAGE><FACE_POS_CENTER><FACE_CAM><FACE_HAPPY><FP_RIGHT>Sup ini, uh aku lupa nama-
+nya... kalau tidak salah
+...<PAGE>ini <RED>tom yum goong
+bukan?</COLOR><PAGE>Aku menyukainya!
+Makasih ya!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Hei, apakah ini <RED>tom yum
+goong?<PAGE><FACE_POS_CENTER><FACE_CAM><FACE_HAPPY><FP_RIGHT>Apa? apakah ini buatku?
+makasih!<PAGE>Soalnya...
+ini makanan favoritku!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Hi, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Hi, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Itu terlihat bagus...
+Uh... apakah ini sebuah
+hadiah ulang tahunku?<PAGE><FACE_POS_CENTER><FACE_CAM><FACE_HAPPY><FP_RIGHT>Wow, bisakah aku memiliki-
+nya?
+Makasih!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Apakah ini buatku?
+Benarkah?<PAGE><FACE_POS_CENTER><FACE_CAM><FACE_HAPPY><FP_RIGHT>Wow, itu sangat bagus.
+Makasih.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Oh, apakah ini sebuah
+hadiah buat ulang tahunku?<PAGE>Makasih...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Apakah ini buatku?
+Makasih...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Apakah itu buatku?
+dan sebuah hadiah ulang
+tahunku?<PAGE><FACE_POS_CENTER><FACE_CAM><FACE_SHY><FP_RIGHT>Oke, jika kamu memaksa...
+aku akan menerimanya.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Apa itu untukku?<PAGE><FACE_POS_CENTER><FACE_CAM><FACE_SHY><FP_RIGHT>Um... Makasih?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_SHY><FP_RIGHT>Um, aku sangat tidak mau
+menerimanya, aku aku kira
+jika menolaknya sepertinya<PAGE>kelihatan agak kasar. jadi
+aku menerimanya 
+apa adanya....<PAGE>Makasih.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Hi, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Gimana kabarnya? kamu dan
+Laney?, apakah semakin
+dekat?<PAGE>Aku bisa menebak bahwa dia
+akan selalu membuatkanmu
+makanan yang lezat tiap<PAGE>malamnya, huh?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Bagaimana kehidupan setelah
+menikah, <MYNAME>?<PAGE>Mungkin aku harus bersiap-
+siap dan menikah juga ya?
+...<PAGE><FACE_POS_CENTER><FACE_CAM><FACE_HAPPY><FP_RIGHT>Mungkin berkelana kekota
+tree oak ya...<PAGE>Moga-moga dapat jodoh disana.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_ANGRY><FP_RIGHT>Oh dewi...
+Hari ini kita kedatangan
+tamu yang bernama badai!<PAGE><FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Aku berharap toko bungaku
+tidak tertiup kemana-mana
+...<PAGE>Dan...
+Kamu juga harus berhati-
+hati juga, <MYNAME>...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Kamu seharusnya tidak 
+keluar disaat badai salju
+seperti ini.<PAGE>Jika memaksa, bisa-bisa
+yang tertinggal namamu.
+Itupun jika selamat juga.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Apakah kamu suka bunga,
+<MYNAME>?<PAGE>Aku menginginkan semua
+orang untuk mengetahui be-
+tapa indahnya bunga itu.<PAGE>Karena itu aku bekerja di-
+sini. Untuk menjual dan me-
+nyusun bunga yang dimana<PAGE>dapat menjernihkan suasana
+dan jiwa.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>... hanya satu bunga saja
+yang tampak elok jika tidak
+dikasih dekorasi tambahan.<PAGE>Namun, jika kamu mengombina-
+sikan dengan yang lainnya,
+maka akan tampak lebih<PAGE>cantik.<PAGE>Karena itulah aku mencoba
+untuk mencari, gimana mem-
+buatnya tampak lebih cantik.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Aku tinggal didesa ini di-
+karenakan bunga-bunga yang
+ada disii cukup menarik.<PAGE><FACE_POS_CENTER><FACE_CAM><FACE_HAPPY><FP_RIGHT>Dan aku ini sangat menyukai
+bunga, apakah kamu juga?<PAGE>Jangan-jangan kamu tertarik
+cewek-cewek disini ya?
+hihihi...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Heiiii, bagaimana pendapat-
+mu mengenai si Howard itu,
+<MYNAME>?<PAGE><FACE_POS_CENTER><FACE_CAM><FACE_SHY><FP_RIGHT>Jangan salah sangkah ya...
+Aku ini sudah menganggap-
+nya sebagai ayahku sendiri,<PAGE>tetapi...<PAGE>Disaat kamu hidup bersama
+seseorang...<PAGE>uuuu, kamu tahu maksud
+aku kan, kan?<PAGE>Mereka, itu dibagaikan...<PAGE>terkadang bisa membuatmu
+mendorong sebuah tembok
+besi tanpa ampun...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Apakah kamu pernah mencoba
+salah satu makanan yang di-
+buat oleh Laney?<PAGE>Aku pikir hidangannya
+benar-benar lezat...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Jika kamu menginginkan mem-
+balas kebaikan seseorang
+atau mau berterima kasih.<PAGE>Kamu bisa memberikan sebuah
+karangan bunga kepada
+mereka.<PAGE>Uhm, bukannya mau promosi...
+aku juga bisa memilihkan
+karangan bunga untukmu.<PAGE>Pastinya yang segar
+dan bagus.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Apakah kamu mempunyai vas
+bunga didalam rumahmu,
+<MYNAME>?<PAGE>Bunga merupakan sesuatu
+yang dapat mencerahkan
+sebuah ruangan...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Hi, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Saat ini aku tidak ingin
+berbicara. Maaf.
+----------------------------|----------------------------------
+<CHOICE_AB> Maafkan aku ...
+ OK...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Oke oke tidak apa apa kok.<PAGE>Mungkin aku saja yang ter-
+lalu membaca sampai kemana-
+mana jadinya...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_SAD><FP_RIGHT>...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Hi, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Kemarin keadaannya benar-
+benar buruk...<PAGE>Aku senang jika semuanya
+baik-baik saja...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Hi, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Hi, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Hi, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Hi, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Sebuah hadiah <BLUE>Hari Harmoni</COLOR>?<PAGE><FACE_POS_CENTER><FACE_CAM><FACE_HAPPY><FP_RIGHT>Aku tidak mengira aku akan
+mendapatkannya setelah
+menikah. Makasih .. .. ..
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Huh? Sebuah hadiah ulang tahun?<PAGE><FACE_POS_CENTER><FACE_CAM><FACE_HAPPY><FP_RIGHT>Dan kamu mengingat apa yang
+aku sukai juga...
+Makasih...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Huh? 
+Sebuah hadiah untukku?<PAGE><FACE_POS_CENTER><FACE_CAM><FACE_HAPPY><FP_RIGHT>Sepertinya kamu tahu dengan
+pasti apa yang aku sukai...
+Makasih...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Hey, apa kamu mau pergi
+sama aku kesuatu tempat
+bersama?
+----------------------------|----------------------------------
+<CHOICE_AB> Yeah, oke kalau gitu!
+ Sepertinya pengen dirumah..
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_SHY><FP_RIGHT>Oke, well, oke kalau gitu.
+Beritahukan aku jika kamu
+sedang tidak lagi bete.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Hi, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Apa itu? Sebuah hadiah
+ulang tahun? buatku?<PAGE><FACE_POS_CENTER><FACE_CAM><FACE_SAD><FP_RIGHT>Um, ini sangat baik jika
+kamu mengingat ulang tahun-
+ku, tapi...<PAGE>tidak...tidak, lupakan...
+Aku harus bersyukur kalau
+kamu masih mengingatnya...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Apa itu? sebuah hadiah?
+Untukku?<PAGE>Um, ..., Aku senang untuk
+menerimanya, tapi...<PAGE>Oke, aku kira akan tetap
+mengambilnya... makasih...
+gw rasa ...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Wow, kamu sedang hamil ya...
+Ini kelihatannya tidak
+nyata...<PAGE>Tapi itu tetap menarik kok.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Saat ini kamu dah ada bayi
+menemanimu. Seharusnya kamu
+jangan terlalu memaksakan<PAGE>diri untuk bekerja 
+terlalu berat.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Aku tidak dapat percaya
+jika aku menjadi seorang
+ayah nantinya...<PAGE>Kita harus meluangkan waktu
+dan berpikir sebuah nama
+yang bagus buatnya!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_HAPPY><FP_RIGHT>Melihat wajahmu dipagi hari
+membuatku bersemangat,
+walaupn aku capek.<PAGE>Itu juga membuatku
+bekerja lebih giat lagi.
+semuanya untukmu.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Aku sangat sibuk disiang
+hari, itu kenapa tidak
+bisa sering ketemu satu<PAGE>sama lainnya...
+Kamu seharusnya jika ada
+waktu bisa bertemu di<PAGE>toko bunga...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Aku selalu suka jika di
+saat memandangi wajahmu
+setelah selesai bekerja<PAGE>dan saat mau pulang ke
+rumah...<PAGE><FACE_POS_CENTER><FACE_CAM><FACE_HAPPY><FP_RIGHT>Semua kekhawatiran aku
+langsung sirna disaat
+melihatmu...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Aku tidak pernah merasakan
+seperti ini sebelumnya...<PAGE><FACE_POS_CENTER><FACE_CAM><FACE_SHOCK><FP_RIGHT>Aku akhirnya menemukan
+sesuatu yang aku sukai
+dan cintai lebih dari<PAGE>setangkai bunga.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Disaat aku berada dirumah
+bersama kamu, aku merasakan
+seperti di taman, yang di<PAGE>kelilingi berbagai bunga
+disana-sini. pastinya
+tidak ada bunga bangkai ya!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Kita seharusnya menanam bebe
+rapa bunga dipot bunga, di
+dalam rumah biar wangi...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Pernikahan ini membuat
+semua mimpi kita menjadi
+kenyataan...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Mungkin aku salah, tapi ini
+membuat aku merasa kamu
+berubah setelah kita menikah
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_SAD><FP_RIGHT>Ini apakah benar-benar yang
+aku rasakan setelah
+menikah?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_ANGRY><FP_RIGHT>...APAA?
+----------------------------|----------------------------------
+<CHOICE_AB> Tolong jangan marah...
+ lupakan...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Aku tidak marah...
+ini hanyalah...<PAGE>Tidak, ini gakpapa kok...
+lupakan...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_ANGRY><FP_RIGHT>Lupakan? Jika kamu mempunyai
+sesuatu yang mau dibicarakan,
+kamu seharuskan utarkan...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Apa kamu sudah membawa itu
+ke festival hari ini?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Hi, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Hi, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Ini hewan peliharaanmu?
+betapa lucunya...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_HAPPY><FP_RIGHT>Kamulah yang terimut disini,
+apa benar? hihihi
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_SHY><FP_RIGHT>Dimanakah kamu mendapatkan
+itu...?<PAGE>Apa bisa jauhkan itu
+dariku?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Kamu seharusnya benar-benar
+melepaskan yang malang itu
+pergi...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Bajumu terlihat bagus.
+Aku benar-benar
+menyukainya.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Hey, <MYNAME>, apakah kamu
+bisa diajak pergi bersama-
+sama ke suatu tempat?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Apa kamu mau pergi kesuatu
+tempat dan berbicara,
+<MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Apa kamu ingin pergi untuk
+berjalan-jalan bersamaku,
+<MYNAME>?
+----------------------------|----------------------------------
+<CHOICE_AB> Iya!
+ Tidak terlalu...
+----------------------------|----------------------------------
+<CHOICE_AB> Kedengarannya bagus!
+ Mungkin lain waktu ya?
+----------------------------|----------------------------------
+<CHOICE_AB> Iya! Ayo!
+ Tidak sekarang...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Hi, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Hi, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_SAD><FP_RIGHT>Oh, OK...<PAGE>Tidak, tidak usah risauh
+mengenai itu...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Ok, kita akan lakukannya di
+waktu lainnya.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Oh, hm... mungkin diwaktu
+lainnya disaat kamu ada
+waktu luang?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Hari ini Hari Bunga, jadi
+aku sangat-sangat sibuk
+sekarang.<PAGE>...\u270a\u270aApa? 
+Bunga untukku?<PAGE><FACE_POS_CENTER><FACE_CAM><FACE_HAPPY><FP_RIGHT>Terima kasih banyak. Aku
+akan menyakinkan kamu bahwa
+aku akan menyimpannya<PAGE>ini ditempat yang aman!
+walaupun nantinya juga
+layu hihihi.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_HAPPY><FP_RIGHT>Ah, ya benar, hari ini
+adalah hari bunga!
+Terima kasih banyak!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Besok adalah harinya festival
+malam bintang. Jadi kamu
+mau datang bersama aku?
+----------------------------|----------------------------------
+<CHOICE_AB> Kedengarannya asyik!
+ Maaf ...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_HAPPY><FP_RIGHT>Beneran? asyeekk. Aku akan
+ada di kafe disekitar jam
+8 PM (malem), besok hari.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>hm... Jangan khawatir menge-
+nai hal ini, ini tak pa pa.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Aku akan tunggu kamu ya
+besok.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_HAPPY><FP_RIGHT>Pembungkus kado ini sangat
+bagus... Aku penasaran
+apa yang didalamnya...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_HAPPY><FP_RIGHT>Aku selalu merasa tenang
+jika bersama kamu...<PAGE><FACE_POS_CENTER><FACE_CAM><FACE_SHOCK><FP_RIGHT>Aku kira apa yang aku
+maksud adalah kamu paling
+penting, orang terpenting<PAGE>dalam kehidupanku, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Hi, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Maaf, tapi kamu bisa biarkan
+aku sendirian hari ini...?<PAGE>aku ulangi
+S E N D I R I A N ...
+OK?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Sejak hari ini adalah
+hari bunga nasional,<PAGE>maka aku menjual banyak 
+bunga hari ini.<PAGE>Aku pikir ini bagus jika 
+kita mempunyai hari yang
+dimana memberikan bunga<PAGE>kesemua orang.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_SAD><FP_RIGHT>Persiapkan dirimu sendiri
+dirumahmu juga...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Aku sedikit sibuk hari ini,
+tapi persiapkan dirimu ya
+dirumah.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Aku sekarang sedang
+bekerja, Kamu bekerja dengan
+giat juga kan?...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Oh, kamu datang bertemu
+dengan aku?
+Makasih...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Disaat hari libur, aku
+menyukai disaat berjalan-
+jalan disekitar.<PAGE>Itu sangat-sangat tenang
+dan damai.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Sekarang terowongan antar
+desa telah dibuka, Aku
+menginginkan untuk menjual<PAGE>bunga di konohana juga.<PAGE><FACE_POS_CENTER><FACE_CAM><FACE_SHY><FP_RIGHT>Tapi aku tidak tahu dimana
+tempat yang cocok untuk
+berjualan disana...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Hi, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Hi, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Hi, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Hi, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Hi, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Hi, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Hi, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_SAD><FP_RIGHT>Aku inginkan sendirian hari
+ini. maaf...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Apa yang kamu pikirkan menge-
+nai makanan dari konohana?<PAGE>Secara pendapat pribadi,
+Makanan disana lebih baik.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Jadi aku mendengarkan kamu
+menyemangati kami dihari ini
+... Makasih...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Hi, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Hi, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Makanan konohana terlihat
+enak, tapi aku lebih memi-<PAGE>lih makan desa kita yang
+terbaik.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Hi,<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Maaf jika kamu tidak menang
+hari ini. jangan khawatir
+mengenai ini.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_HAPPY><FP_RIGHT>hari ini adalah 
+<VAR_0><PAGE>Apa yang kamu datang? Ini
+akan menyenangkan loh!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Jadi hari ini kamu tidak 
+datang ke
+<VAR_0>?<PAGE>Padahal bisa bersenang
+senang tadi.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Hi, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Tidak terlalu buruk kok,
+jika kamu tidak menang hari
+ini...<PAGE>selalu ada dilain
+waktu untuk berusaha
+untuk menang.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Hi, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Hi, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_CAM><FACE_NORMAL><FP_LEFT>Selamat datang, <MYNICKNAME>...<PAGE>Hari ini adalah ulang tahun
+kamu...<PAGE>Ayo rayakan ini bersama-
+sama...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_HAPPY><FP_RIGHT>Aku tahu bahwa aku tidak
+bisa memasak disaat bersama
+an kamu jago masak...<PAGE>Tapi aku sudah berusaha
+sebaik mungkin untuk bisa.<PAGE>Aku sangat berharap kamu
+menyukainya.<PAGE><FACE_POS_RIGHT><FACE_CAM><FACE_SHOCK><FP_RIGHT>Selamat ulang tahun
+<MYNICKNAME>...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_CAM><FACE_NORMAL><FP_LEFT>Selamat datang, 
+<MYNICKNAME>...<PAGE>Ini ulang tahun kita loh,
+benarkan...?<PAGE>btw, aku sudah menunggumu
+disini jadi kita bisa
+merayakan bersama-sama...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_HAPPY><FP_RIGHT>Aku tahu aku tidak bisa me-
+masak seperti halnya yang
+kamu bisa, tapi aku sudah<PAGE>mencobanya dengan baik.
+dan aku sangat berharap
+kamu menyukainya.<PAGE>Jadi ini rasanya disaat
+kita lahir ditanggal yang
+sama.<PAGE>Aku merasakan kita seperti
+diatur hidup bersama,
+apakah kamu mengetahuinya?<PAGE><FACE_POS_RIGHT><FACE_CAM><FACE_SHOCK><FP_RIGHT>Lupakan... Apa yang aku
+katakan tadi...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_CAM><FACE_NORMAL><FP_LEFT>Selamat datang, <MYNICKNAME>...<PAGE><FACE_POS_LEFT><FACE_CAM><FACE_HAPPY><FP_LEFT>Apakah kamu mengingat hari
+ini hari apa? Hari ini 
+adalah ulang tahun aku...<PAGE><FACE_POS_LEFT><FACE_CAM><FACE_NORMAL><FP_LEFT>Ayo rayakan bersama-sama,
+<MYNICKNAME>...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT>Aku membuatkan beberapa
+makanan untuk kita makan,
+Karena aku tahu bahwa<PAGE>kamu super sibuk
+orangnya...<PAGE><FACE_POS_RIGHT><FACE_CAM><FACE_SHOCK><FP_RIGHT>Jadi aku bangga jika aku
+bisa bersamamu disaat peraya
+an ulang tahun aku...<PAGE>Aku memikirkan sesuatu
+disaat sedang memasak, dan
+waktu sudah sampai mana...<PAGE><FACE_POS_RIGHT><FACE_CAM><FACE_SHOCK><FP_RIGHT>well, ayo dimakan, jangan
+sampai dingin.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_CAM><FACE_NORMAL><FP_LEFT>Selamat datang, <MYNICKNAME>...<PAGE><FACE_POS_LEFT><FACE_CAM><FACE_HAPPY><FP_LEFT>Apakah kamu ingat hari ini,
+hari apa? Yup hari ini
+ulang tahun \u2337...<PAGE><FACE_POS_LEFT><FACE_CAM><FACE_NORMAL><FP_LEFT>Ayo kita rayakan bersama
+sama, <MYNICKNAME>...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_HAPPY><FP_RIGHT>\u2337 telah besar...<PAGE>Ternyata anak-anak tumbuh
+menjadi besar begitu cepat,
+benarkan?<PAGE><FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT>Apakah kamu berpikir bahwa
+matanya \u2337 mirip
+kamu, <MYNICKNAME>?<PAGE><FACE_POS_RIGHT><FACE_CAM><FACE_SHOCK><FP_RIGHT>btw, ayo kita pertahankan
+menjadi orang tua terbaik
+untuknya ...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_CAM><FACE_NORMAL><FP_LEFT>Selamat datang, <MYNICKNAME>...<PAGE><FACE_POS_LEFT><FACE_CAM><FACE_HAPPY><FP_LEFT>Hari ini ulang tahunnya
+\u2337...<PAGE>Datang dan gabung dengan
+kita, <MYNICKNAME>.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT>Aku benar-benar berusaha
+untuk memasak sesuatu yang
+enak,<PAGE>karena hari ini adalah
+ulang tahunnya
+\u2337.<PAGE><FACE_POS_RIGHT><FACE_CAM><FACE_HAPPY><FP_RIGHT>Aku harapkan rasanya enak,
+Well, ayo dimakan sebelum
+menjadi dingin.<PAGE>Selamat ulang tahun,
+\u2337.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_CAM><FACE_NORMAL><FP_LEFT>Selamat datang, <MYNICKNAME>...<PAGE><FACE_POS_LEFT><FACE_CAM><FACE_SHOCK><FP_LEFT>Jadi, hari ini adalah hari
+dimana kita merayakan hari
+pernikahan kita...<PAGE><FACE_POS_LEFT><FACE_CAM><FACE_HAPPY><FP_LEFT>Aku membuatkan sesuatu untuk
+merayakannya. Aku harapkan
+sesuai dengan harapan...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_HAPPY><FP_RIGHT>Aku habiskan hampir seharian
+untuk memikirkan pernikahan
+kita tiba...<PAGE><FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT>Ini serasa kita bertemu
+barusan kemarin, benarkan?<PAGE><FACE_POS_RIGHT><FACE_CAM><FACE_SHOCK><FP_RIGHT>Sekarang dah berapa tahun
+ya. <MYNICKNAME>...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Hi, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Hi, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Hi, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Hi, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Hi, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Hi, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Hi, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Hari ini
+<VAR_0>
+pastinya akan menyenangkan!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Hi, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Hi, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Hi, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Hi, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Hi, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Hi, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Hi, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Hi, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Hi, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Hi, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Hi, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Hi, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Hi, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Hi, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Hi, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Hi, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Hi, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Hi, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Hi, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Selamat pagi.
+Apa yang kamu lakukan
+hari ini?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Oh, Selamat pagi.
+Bagaimana keadaanmu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Oh, Selamat pagi,
+<MYNAME>. Bagaimana
+perkerjaanmu sekarang?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Hi, <MYNAME>. 
+Apakah kamu hari ini
+bekerja juga?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Selamat sore. 
+Apa bekerja dengan giat
+hari ini?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Oh, <MYNAME>. 
+Gimana keadaanmu? dan
+Gimana pekerjaamu sekarang?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Selamat Malam. 
+Apa kamu bekerja keras
+hari ini?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Selamat Malam. 
+Apa semua pekerjaanmu
+sudah selesai?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Hey, <MYNAME>. 
+Selamat malam.<PAGE>Apa kamu masih keyuluran
+dilarut malam ini?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_HAPPY><FP_RIGHT>Aku tida percaya jika kita
+akan menikah sebentar lagi..<PAGE>Ini seperti mimpi menjadi
+kenyataan...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Biarkan aku membuat karang-
+an bunga untuk pernikahanmu.<PAGE>Aku yakin bisa membuatnya
+sesuai denganmu dengan
+sempurna!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_SHOCK><FP_RIGHT>Aku sedikit gugup mengenai
+pernikahan nanti...<PAGE>Semua orang akan melihat
+kita...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Seperti kita, bunga juga
+mempunyai karakteristik...
+Kelopaknya bisa berubah<PAGE>sesuai dengan apa yang
+dirasakan bunga itu dengan
+lingkungan sekitar.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Aku mendapatkan banyak
+bunga cantik untuk dijual
+disini.<PAGE>Kamu dapat membeli beberapa
+bibit disini dan<PAGE>menanamnya dikebunmu jika 
+kamu ingin mengembang-
+biakan bunga itu.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Secara pendapat probadi, 
+mengembangbiakan tanaman
+sendiri, lalu memilih yang<PAGE>terbaik untuk dijual ditoko
+ini. Itu kenapa setiap
+bunga disini tidak hanyalah<PAGE>canti tapi juga masih
+segar kondisinya seperti<PAGE>habis dipotong dihari yang
+sama.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Hi, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Hi, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Hi, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Aku merasa santai disni.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Apa kamu sering datang ke
+sini?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Untuk membesarkan bunga,
+yang dibutuhkan adalah
+cintah dan sentuan lembut...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_HAPPY><FP_RIGHT>Selamat pagi. 
+Apa kamu tidurnya tepat
+waktu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_HAPPY><FP_RIGHT>Selamat pagi. 
+Aku merasa serba bisa
+hari ini.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Selamat pagi, <MYNICKNAME>.<PAGE>Apa yang kamu lakukan
+sekarang?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_HAPPY><FP_RIGHT>Hei disana, <MYNICKNAME>. 
+Bagaimana pekerjaanmu
+hari ini?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Oh, sekarang sudah sore hari
+Apa saja yang kamu lakukan
+dari pagi hari?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Jangan beritahu aku jika
+kamu barusan bangun tidur,
+<MYNICKNAME>...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Kelihatannya kamu sibuk ya
+hari ini? Baru sekarang aja
+kamu bicara dengan aku.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_HAPPY><FP_RIGHT>Apa kamu sudah menyelesaikan
+pekerjaanmu? Sepertinya hari
+ini kamu bekerja keras.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Bagaimana pekerjaanmu hari
+ini? Jangan mencoba terlalu
+berat ya, ok?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Jadi kamu lihat <VAR_1>
+memenangkan festival memasak
+hari ini.<PAGE>Pastinya kamu seorang koki
+yang terbaik. Aku ingin
+mencoba masakanmu kedepannya.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Jadi kamu memenangkan
+festival memasak? 
+Selamat!<PAGE>Aku inginkan aku juga 
+beberapa...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Semua orang membicarakan
+tentang masakanmu yang ter-
+enak itu, <MYNAME>.<PAGE>Kamu pastinya telah memper-
+siapkan segalanya untuk
+festival memasak hari ini...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_HAPPY><FP_RIGHT>Aku telah bersenang-
+senang di <VAR_0>
+hari ini!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_HAPPY><FP_RIGHT>Apakah kamu juga bersenang-
+senang di <VAR_0>
+hari ini?<PAGE>Aku selalu memiliki waktu
+yang berharga.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Hari ini sangatlah 
+menyenangkan. Aku selalu 
+merasakan sedikit sedih<PAGE>jika cepatnya selesai 
+festival hari ini.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_HAPPY><FP_LEFT>Selamat atas kemenanganmu
+hari ini, <MYNAME>.<PAGE>Kamu membuat 
+<VAR_4>
+yang terbaik.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Kita mempunyai banyak
+masakan yang terbaik 
+didesa.<PAGE>Tapi aku pikir kamu yang
+terbaik, <MYNAME>.<PAGE>Fatanya, kamu mungkin
+terbaik di seluruh
+dunia!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Hari ini kamu menang
+karena kamu sudah
+mencobanya sebaik mungkin!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Hari sudah cukup menyenang-
+kan, bagaimana menurutmu?<PAGE>Melihat semua orang bersama-
+sama, itu membuatku senang.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Semua orang memiliki
+waktu-waktu yang terbaik
+hari ini.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Aku tidak dapat menunggumu
+ditahun depan,
+<VAR_0>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_HAPPY><FP_LEFT>Selamat atas kemenanganmu,
+<MYNAME>!<PAGE><FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Keahlian mancingmu cukup
+bertalenta ya!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Aku kaget disaat melihatmu
+jago dalam hal
+memancing!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Aku sangat buruk dalam
+hal memancing...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_LEFT>Selamat atas kemenanganmu!
+<VAR_2> milikmu
+sangat hebat.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Hari ini sangat keren, kamu
+telah merawat binatangmu
+dengan baik.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Festival binatang hari ini
+sangat menyenangkan ya!<PAGE>Aku pikir <VAR_2> 
+milikmu yang terbaik.

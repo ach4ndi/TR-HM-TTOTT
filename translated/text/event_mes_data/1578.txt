@@ -1,0 +1,132 @@
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL>Selamat datang ke toko
+hewan ternak jessica!
+<INPUT_KEYPAD>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><CHOICE_ABC> Beli binatang.
+ Jual/kawin binatang.
+ Lupakan.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_SAD>Aku tidak mempunyai
+binatang yang dijual pada
+hari ini, coba besok ya.<INPUT_KEYPAD>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_SAD>Kita tidak mempunyai bina-
+tang yang siap jual pada
+hari ini. Maaf...<INPUT_KEYPAD>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL>Oke...Oke. Datang lagi ya
+nanti.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL>Maaf, kamu kehabisan uang.
+Datang kembali jika mempu-
+nyai uang berlebih.<INPUT_KEYPAD>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL>Sepertinya kamu tidak mempu-
+nyai tempat untuknya.<PAGE>Aku tidak bisa menjualnya 
+kepada kamu.<INPUT_KEYPAD>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL>Oh? Kamu berubah pikiran?
+Ingin binatang yang lain?<INPUT_KEYPAD>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL>Biayanya <RED><VAR_0>G</COLOR>, OK?
+<CHOICE_AB> Ya.
+ Lupakan.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_HAPPY>Sebutan nama apa untuk
+menamainya?<INPUT_KEYPAD>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL>Biayanya <RED><VAR_0></COLOR>, OK?
+<CHOICE_AB> Ya!
+ Tidak!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL>Kamu belum pernah memiliki
+binatang ini sebelumnya,
+bener kan?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL>Apa mau dijelaskan cara
+merawatnya?<PAGE><CHOICE_AB> Aku sudah tahu.
+ Ya, kumohon.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_SAD>Kamu tidak mempunyai hewan
+ternak yang dapat hamil.<INPUT_KEYPAD>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_HAPPY>Terima kasih!
+Jaga baik-baik ya!<INPUT_KEYPAD>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL>Kamu tidak bisa menjualnya
+karena dia sedang hamil
+saat ini.<INPUT_KEYPAD>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL>Huh? kamu berubah pikiran?
+Oke. ada yang lainnya?<INPUT_KEYPAD>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL>Semuanya itu, <RED><VAR_0>G</COLOR>.
+<CHOICE_AB> Jual.
+ Lupakan.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL>Terima kasih banyak.
+Ada yang dibutuhkan?<INPUT_KEYPAD>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><CHOICE_ABC> Hamili ternaknya.
+ Jual ternaknya.
+ Lupakanlah.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL>Itu terlalu mudah untuk
+hamil. Maaf...<INPUT_KEYPAD>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_SAD>Maaf, tapi ternak sakit
+tidak dapat hamil.<INPUT_KEYPAD>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_SAD>Bagaimana hewanmu lakukan?
+Aku harap kamu merawatnya
+dengan baik.<INPUT_KEYPAD>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL>Kamu tidak mempunyai ruang
+yang cukup untuk hewan baru.<INPUT_KEYPAD>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_SAD>Sayangnya aku tidak memper-
+bolehkan dua ternak hamil
+dalam waktu bersamaan.<INPUT_KEYPAD>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL>Oh? Kamu berubah pikiran?
+Apa ada hal yang lainnya?<INPUT_KEYPAD>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL>Binatang apa yang kamu
+sukai?<INPUT_KEYPAD>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL>Semuanya itu, <RED><VAR_0>G</COLOR>.
+<CHOICE_AB> Hamili dia.
+ Lupakan.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_HAPPY>Oke, maka biarkan aku men-
+jaganya sementara waktu!<INPUT_KEYPAD>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL>Sepertinya tasmu penuh.
+Aku tidak bisa memberikanmu
+sebuah peralatan untuk<PAGE>binatang. Datang kembali
+disaat kamu mempunyai ruang
+kosong.<INPUT_KEYPAD>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_SAD>Sepertinya dia sedang sakit.
+Aku rekomendasikan berikan
+dia disaat sedang sehat.<INPUT_KEYPAD>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_SAD>Apakah kamu merawatnya
+dengan benar? Datang kembali
+disaat kamu menggosoknya.<INPUT_KEYPAD>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_HAPPY>Aku akan tunjukkan kamu
+bagaimana cara merawat se-
+ekor alpaca.<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_HAPPY>Well, sebenarnya ini sama
+seperti merawat seekor
+domba.<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_HAPPY>Disaat hari ceah, gembalak-
+an mereka kererumputan. <PAGE>Disaat cuaca hujan, beri
+makan rumput dikandang.<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL>Kamu bisa mencukur untuk men
+dapatkan <RED>wol alpaca</COLOR> 
+disaat kamu memilikinya.<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_HAPPY>Semakin dekat dengan alpaca
+kamu, semakin bagus kualitas
+wol yang didapatkan.<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL>Bicara kepada mereka setiap
+harinya untuk membangun per-
+sahabatan dengan mereka.<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL>Kelihatannya itu semua hal
+yang untuk diketahui menge-
+nai alpaca.<INPUT_KEYPAD>

@@ -1,0 +1,54 @@
+<FACE_POS_LEFT><HIDE_NAME><FACE_INA><FACE_NORMAL><FP_LEFT><HIDE_FACE>おはよう、<MYNAME>。
+おじゃまするよ。
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>この村の住み心地はどうだ？
+とてもいいところだろう？
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>まあ、<MYNAME>は
+この村にいてくれると思うが、<PAGE>引越し（ひっこし）について
+今日は、教えておこうと
+思ってな。<PAGE>引越しのやり方は
+知っているか？
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>じゃあ、１から教えよう！
+<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT><RED>各季節の２３日〜３０日</COLOR>に
+役場で<BLUE>ブルーベル村</COLOR>への
+引越しを受け付けている。<PAGE>引越しをした翌日から
+ブルーベル村で暮らせるぞ。<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>役場は村の右上の
+１番大きな建物だ。<PAGE>もし、引越したければ
+<RED>各季節の２３日〜３０日</COLOR>に
+役場に来てくれ。
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>これを出すとは流石だな！
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_HAPPY>これを出すとは流石だな！
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_SAD><FP_RIGHT>あと、引越しは準備や片付けで
+いそがしくなるから、
+１日がかりになるだろう…。<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>引越し前にやっておきたい事が
+あれば、全てすませて
+おいた方がいいぞ。
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>引越しについては
+こんなところだ。<PAGE>もう一度、説明を聞くか？
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>わかった。
+じゃあ、もう一度教えよう。<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT><RED>各季節の２３日〜３０日</COLOR>に
+役場で<BLUE>ブルーベル村</COLOR>への
+引越しを受け付けている。<PAGE>引越しをした翌日から
+ブルーベル村で暮らせるぞ。<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>役場は村の右上の
+１番大きな建物だ。<PAGE>もし、引越したければ
+<RED>各季節の２３日〜３０日</COLOR>に
+役場に来てくれ。
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>そうか。
+もし、引越したいなら
+役場まで来てくれ。<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>まぁ、うちの村の方が
+すばらしいから、ずっと
+こちらにいてもかまわないぞ！
+----------------------------|----------------------------------
+<CHOICE_AB> 知りません
+ 知ってます
+----------------------------|----------------------------------
+<CHOICE_AB> もう１回お願いします
+ わかったから大丈夫♪

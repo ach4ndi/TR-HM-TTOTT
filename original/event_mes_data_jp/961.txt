@@ -1,0 +1,44 @@
+<FACE_POS_LEFT><FACE_NATHAN><FACE_NORMAL><FP_LEFT>それでは、これより…<PAGE>新郎<MYNAME>と、
+新婦ラズベリーの結婚式を
+行います。
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_NATHAN><FACE_NORMAL><FP_LEFT>…新郎<MYNAME>。<PAGE>あなたは、ラズベリーを
+一生愛し、明るく幸せな家庭を
+築く事を誓いますか？
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_NATHAN><FACE_NORMAL><FP_LEFT>…新婦ラズベリー。<PAGE>あなたは<MYNAME>を
+一生愛し、明るく幸せな家庭を
+築く事を誓いますか？<PAGE><FACE_POS_RIGHT><FACE_GEORGIA><FACE_HAPPY><FP_RIGHT>…うん、誓うわ。
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_NATHAN><FACE_NORMAL><FP_LEFT>それでは、今ここに
+新しい夫婦が生まれた事を
+認めましょう！<PAGE><FACE_POS_LEFT><FACE_NATHAN><FACE_HAPPY><FP_LEFT>この幸福な２人に、
+女神さまの祝福が
+あらんことを！
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_SHOCK><FP_RIGHT><MYNAME>…どうしよう。
+うち、幸せすぎて
+死んじゃいそうや…。
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_SHOCK><FP_RIGHT>今日から、うちら２人の
+新しい生活がはじまるんやね。<PAGE>…その、せっかくやから
+新しい呼び方に変えへん？<PAGE><FACE_POS_RIGHT><FACE_GEORGIA><FACE_HAPPY><FP_RIGHT>うちの事は、ラズベリーで！
+<MYNAME>の事は、
+何て呼んだらえぇかな？
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT><MYNICKNAME>。
+…これでいい？
+----------------------------|----------------------------------
+<CHOICE_AB> いいよ
+ もう１回考えなおす
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_HAPPY><FP_RIGHT>それじゃあ、
+これで決まりやな♪<PAGE><FACE_POS_RIGHT><FACE_GEORGIA><FACE_SHOCK><FP_RIGHT>これから、よろしくな。
+……<MYNICKNAME>。
+----------------------------|----------------------------------
+さあ、新生活のスタートだ！
+今日はゆっくり休んで、
+明日からまた頑張ろう♪
+----------------------------|----------------------------------
+<CHOICE_AB> セーブして寝る
+ セーブしないで寝る

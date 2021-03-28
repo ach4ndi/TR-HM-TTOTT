@@ -1,0 +1,100 @@
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>★ＥＲＲＯＲ！★</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_NORMAL><FP_RIGHT>Kamu melihat permintaan aku
+dipapan pesan, huh?<PAGE><FACE_POS_RIGHT><FACE_DIRK><FACE_SAD>Tapi sayang kamu telat,
+mungkin kita akan melewati
+nya untuk hari ini, oke?<PAGE>Maaf sampai kamu kesini, di
+saat kulihat kamu sangat
+sibuk dikebunmu.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_NORMAL><FP_RIGHT>Kamu melihat permintaan aku
+dipapan pesan, huh?<PAGE><FACE_POS_RIGHT><FACE_DIRK><FACE_SAD>Semenjak sekarang sedang
+hujan, yang sedang meng-
+hujani para jones, maka<PAGE>tamanannya cukup air
+dan tidak butuh disirami
+lagi.<PAGE><FACE_POS_RIGHT><FACE_DIRK><FACE_NORMAL>Tapi, kamu tetap datang ke-
+sini, jadi biarkan aku mem-
+berikanmu hadiah atas<PAGE>kerepotanmu datang kesini.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_HAPPY><FP_RIGHT>Kamu melihat permintaan aku
+dipapan pesan, huh?
+Makasih.<PAGE>Oke kalau gitu, kenapa
+kita masih disini, ayo.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_NORMAL><FP_RIGHT>Itu semua adalah tanah yang
+kupunya dan jangan bicara
+kalau itu sempit!<PAGE>Apa kamu mau <RED>menyirami</COLOR>
+nya untukku, kumohon?<PAGE><FACE_POS_RIGHT><FACE_DIRK><FACE_HAPPY>Beritahuku disaat kamu
+menyelesaikannya.<PAGE>Terima kasih untuk mengambil
+pekerjaan ini!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_NORMAL><FP_RIGHT>Itu semua adalah tanah yang
+kupunya dan jangan bicara
+kalau itu sempit!<PAGE>Apa kamu mau <RED>memanen</COLOR>
+nya untukku, kumohon?<PAGE>Tanaman yang akan kamu panen
+akan <RED>secara otomatis ter
+kirim kepenyimpananku</COLOR>.<PAGE><FACE_POS_RIGHT><FACE_DIRK><FACE_HAPPY>Beri tahuku disaat kamu
+sudah menyelesaikannya.<PAGE>Terima kasih untuk mengambil
+pekerjaan ini!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>★ＥＲＲＯＲ！★</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>★ＥＲＲＯＲ！★</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>★ＥＲＲＯＲ！★</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>★ＥＲＲＯＲ！★</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_HAPPY><FP_RIGHT>Kamu selesaikan semua, huh?
+Itu merupakan bantuan yang
+sangat membantuku.<PAGE>Aku seharusnya memberikanmu
+sebuah hadiah, ayo sini!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_NORMAL><FP_RIGHT>Kamu selesaikan semuanya!
+Makasih!<PAGE><FACE_POS_RIGHT><FACE_DIRK><FACE_SAD>Tapi aku berharapkan kamu
+menyelesaikan sebelum men-
+jelang malam...<PAGE>Aku benar-benar khawatir
+jika saat aku tidak dapat
+tidur...<PAGE><FACE_POS_RIGHT><FACE_DIRK><FACE_NORMAL>Tapi kamu tetap mendapatkan
+sebuah hadiah kok.
+Ayo ikuti aku!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_NORMAL><FP_RIGHT>Kamu selesaikan semuanya!
+Makasih!<PAGE><FACE_POS_RIGHT><FACE_DIRK><FACE_SAD>Tapi aku lebih berharap
+kamu datang lebih cepat
+lagi!<PAGE>Aku barusan mau pergi tidur
+kekasur! Itu hampir saja loh
+HAMPIR!<PAGE><FACE_POS_RIGHT><FACE_DIRK><FACE_NORMAL>Tapi kamu tetap mendapatkan
+hadiah kok, ayo sini!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_HAPPY><FP_RIGHT>Kamu selesaikan semua!
+Makasih!<PAGE><FACE_POS_RIGHT><FACE_DIRK><FACE_SAD>Tapi hari ini sedang hujan,
+tapi aku merasa tidak
+enak disaat kamu datang ke<PAGE>sini dan akhirnya tidak
+jadi dikerjakan. Oke,
+aku akan mengirimkan<PAGE>sebuah hadiah untukmu.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_HAPPY><FP_RIGHT>Itu sebuah pekerjaan yang
+mengesankan yang aku 
+harapkan dari kamu!<PAGE>Terima kasih atas bantuan
+nya!<PAGE>Ini hadiahmu, sini ambil
+saja, jangan dibuang ya!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>★ＥＲＲＯＲ！★</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>★ＥＲＲＯＲ！★</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_NORMAL><FP_RIGHT>Dan ini sedikit bonus karena 
+selesai dengan cepat.
+Kamu penyelamatku hari ini!
+----------------------------|----------------------------------
+<FP_NONE>Kamu mendapatkan sebuah
+<VAR_1>!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_NORMAL><FP_RIGHT>Makasih!
+Mungkin kedepannya aku mem-
+butuhkan bantuanmu lagi.
+----------------------------|----------------------------------
+<FP_NONE>Kamu telah menyelesaikan
+semua pekerjaan yang
+diminta!

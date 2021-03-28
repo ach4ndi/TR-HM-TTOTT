@@ -1,0 +1,697 @@
+　<GREEN>HMTV <RED>4 <BLUE>Debug</COLOR>
+----------------------------|----------------------------------
+(1)Initial Start
+(2)Load Start
+(3)Wi-Fi Test
+(4)Sound Test
+(5)Bit Flag
+(6)Animals
+(7)Connection Test
+(8)Event Test
+
+----------------------------|----------------------------------
+(9)Hero Settings
+(10)Villager Settings
+(11)Logo
+(12)Opening Movie
+(13)Title Screen
+(14)None
+(15)None
+(16)None
+
+----------------------------|----------------------------------
+Be Host Machine
+Be Client Machine
+Wi-Fi Mode Host
+Wi-Fi Mode Client
+Friend Code Settings
+
+----------------------------|----------------------------------
+Host connecting. A to start.
+----------------------------|----------------------------------
+Client connect. Pick a Host
+----------------------------|----------------------------------
+None available.
+----------------------------|----------------------------------
+Client would like to join
+----------------------------|----------------------------------
+Host Found
+----------------------------|----------------------------------
+Connecting to Host
+----------------------------|----------------------------------
+Connected to Host.
+----------------------------|----------------------------------
+Connecting to all Clients.
+----------------------------|----------------------------------
+Connected to all Clients.
+----------------------------|----------------------------------
+<VAR_0><VAR_1><VAR_2>
+----------------------------|----------------------------------
+My Code (Tell a Friend)
+----------------------------|----------------------------------
+<VAR_3>－<VAR_4>－<VAR_5>
+----------------------------|----------------------------------
+Konohana Farm
+Konohana Farm Paddy
+Asian Style
+Foot of Konohana
+First Konohana Mountain
+Second Konohana Mountain
+Third Konohana Mountain
+Mountaintop
+
+----------------------------|----------------------------------
+Bluebell Farm
+Western Style
+Foot of Bluebell
+First Bluebell Mountain
+Second Bluebell Mountain
+Third Bluebell Mountain
+Tunnel (Konohana Entrance)
+Tunnel (Top)
+
+----------------------------|----------------------------------
+Tunnel (Center)
+Tunnel (Bottom)
+Tunnel (Bluebell Entrance)
+Konohana House
+×
+Animal Barn
+Watermill
+Town Hall 1st Floor Entrance
+
+----------------------------|----------------------------------
+Town Hall 1
+Town Hall 2
+Town Hall Big
+Town Hall 2
+Farmhouse
+Orchard 1
+Orchard 2
+General Store
+
+----------------------------|----------------------------------
+Doctor 1
+Doctor 2
+Restaurant
+Stable
+Stable Barn
+Blacksmith
+Post Office
+Bluebell House
+
+----------------------------|----------------------------------
+×
+Barn (Cows/Sheep)
+Chicken Coop
+Maker Shed
+Town Hall
+Town Hall 1
+Town Hall 2
+Town Hall Big
+
+----------------------------|----------------------------------
+Town Hall 2
+Farm
+Farm Barn
+Carpenter's House
+Cafe 1_Cafe
+Cafe 2_Cafe
+General Store
+Stable
+
+----------------------------|----------------------------------
+Stable Barn
+Church
+Alchemist
+Mine Mini-Game?
+
+----------------------------|----------------------------------
+<VAR_0> Month <VAR_1> Day （<VAR_2>）<VAR_3><VAR_4>:<VAR_5>
+----------------------------|----------------------------------
+Money <VAR_0>GOLD
+----------------------------|----------------------------------
+PaletteR<VAR_0>,G<VAR_1>,B<VAR_2>
+----------------------------|----------------------------------
+None
+----------------------------|----------------------------------
+Red
+----------------------------|----------------------------------
+Green
+----------------------------|----------------------------------
+Blue
+----------------------------|----------------------------------
+<CHOICE_ABC>　Save and go to bed.
+　Go to bed without saving.
+　Don't go to bed yet.
+
+----------------------------|----------------------------------
+\u232e"Draw on the sign?"
+<CHOICE_AB>　Give it a try.
+　No thanks.
+
+----------------------------|----------------------------------
+Draw on the board!
+B to finish, SELECT to erase
+
+----------------------------|----------------------------------
+Caution!
+"Don't let your animals out
+ when there's a hurricane!"
+
+----------------------------|----------------------------------
+You can refill your
+watering can here.
+----------------------------|----------------------------------
+I can't go on...
+I... I think...
+\u232dI'm passing out...
+----------------------------|----------------------------------
+It's no good...
+Please disband soon...
+----------------------------|----------------------------------
+<VAR_0>x PLAY
+
+----------------------------|----------------------------------
+<VAR_0>/<VAR_1>Page
+
+----------------------------|----------------------------------
+Year   <VAR_6>
+Season <VAR_0>
+Day   <VAR_1>
+Hour   <VAR_2>
+Minutes   <VAR_3>
+Weather <VAR_4>
+Wind Power <VAR_5>
+Hometown <VAR_7>
+
+----------------------------|----------------------------------
+BGM_NON
+BGM_TITLE
+BGM_ENDING_KARI
+BGM_NORTH_VILLAGE
+BGM_ASIA_VILLAGE
+BGM_NORTH_VILLAGE2
+BGM_ASIA_VILLAGE2
+BGM_SPRING
+
+----------------------------|----------------------------------
+BGM_SUMMER
+BGM_AUTUMN
+BGM_WINTER
+BGM_INDOR_NORTG
+BGM_INDOR_ASIA
+BGM_NIGHT
+BGM_REQUIEM
+BGM_WEDDING_MARCH
+
+----------------------------|----------------------------------
+BGM_LOVEEVENT1
+BGM_LOVEEVENT2
+BGM_LOVEEVENT3
+BGM_LOVEEVENT4
+BGM_DATE
+BGM_OTHEREVENT
+BGM_FESTIVAL_HAPPY
+BGM_FESTIVAL_CEREMONY
+
+----------------------------|----------------------------------
+BGM_FESTIVAL_CONTEST1
+BGM_FESTIVAL_CONTEST2
+BGM_MINIGAME1
+BGM_MINIGAME2
+BGM_CONCERT_1
+BGM_CONCERT_2
+BGM_CONCERT_3
+BGM_CONCERT_4
+
+----------------------------|----------------------------------
+BGM_CONCERT_5
+BGM_CONCERT_6
+BGM_CONCERT_7
+BGM_CONCERT_8
+BGM_CONCERT_9
+BGM_RIVER
+BGM_WATERFALL
+BGM_RAIN
+
+----------------------------|----------------------------------
+BGM_TYPHOON
+BGM_MINE
+SE_DUMMY
+SE_DECIDE
+SE_CANCEL
+SE_WARNING
+SE_WINDOW_OPEN
+SE_MESSEGE_OPEN
+
+----------------------------|----------------------------------
+SE_PAGE_CHANGE
+SE_CURSOR_MOVE
+SE_TOUCH
+SE_MEMO
+SE_USE_SICKLE
+SE_USE_HOE
+SE_USE_HAMMER
+SE_USE_AXE
+
+----------------------------|----------------------------------
+SE_USE_WATERING_CAN
+SE_USE_SEED
+SE_USE_ANIMAL_DRUG
+SE_USE_BELL
+SE_USE_MILK_MACHINE
+SE_USE_HAIR_CLIP
+SE_USE_BRUSH
+SE_JUMP
+
+----------------------------|----------------------------------
+SE_CART
+SE_MECHA
+SE_SISIMAI
+SE_UFO
+SE_SLIPS
+SE_PATYA
+SE_JUMP_SHIYOU
+SE_SKATING
+
+----------------------------|----------------------------------
+SE_WHISTLE
+SE_RAISE
+SE_PUTIN
+SE_THROW
+SE_THROW_WATER
+SE_WALK_SNOW
+SE_HORSE
+SE_BOARD
+
+----------------------------|----------------------------------
+SE_COW_MOO
+SE_COW_CRY
+SE_SHEEP_BLEAT
+SE_SHEEP_CRY
+SE_HEN_S
+SE_HEN_CACKLE
+SE_HEN_CRY
+SE_ALPACA_BLEAT
+
+----------------------------|----------------------------------
+SE_ALPACA_CRY
+SE_HORSE_NEIGH
+SE_HORSE_CRY
+SE_DOG_BARK
+SE_DOG_CRY
+SE_CAT_BLEAT
+SE_CAT_CRY
+SE_DOG_B_BARG
+
+----------------------------|----------------------------------
+SE_DOG_B_CRY
+SE_OWL_BLEAT
+SE_OWL_CRY
+SE_CICADA
+SE_CRICKET
+SE_DOOR_OPEN
+SE_DOOR_CLOSE
+SE_CASHIER
+
+----------------------------|----------------------------------
+SE_CHIN_N
+SE_GOOD
+SE_THUNDER
+SE_CONNECTION
+SE_ICEBREAK
+SE_USE_FISHING_ROD
+SE_USE_FISHING_FINISH
+SE_EAT
+
+----------------------------|----------------------------------
+SE_DRINK
+SE_BATAN
+SE_PIG_BOO
+SE_MOUSE
+SE_SPAROOW
+SE_DUCK
+SE_MONKEY
+SE_FOX
+
+----------------------------|----------------------------------
+SE_BEAR
+SE_PANDA
+SE_FANFARE
+SE_ZAWAZAWA
+SE_WAAAAH
+SE_APPLAUSE
+SE_MINIGAME_FINISH
+SE_MINIGAME_START1
+
+----------------------------|----------------------------------
+SE_MINIGAME_START2
+SE_COUNTDOWN
+SE_MORNING
+SE_BORN_BABY
+SE_HYUUU
+SE_DOOON_PARAPARA
+SE_WEDDING_BELL
+SE_COOKING
+
+----------------------------|----------------------------------
+dummy
+dummy
+dummy
+dummy
+dummy
+VOICE_FARMER_BOY_01
+VOICE_FARMER_BOY_02
+VOICE_FARMER_BOY_03
+
+----------------------------|----------------------------------
+VOICE_FARMER_BOY_04
+VOICE_FARMER_BOY_05
+VOICE_FARMER_BOY_06
+VOICE_FARMER_BOY_07
+VOICE_FARMER_BOY_08
+VOICE_FARMER_GIRL_01
+VOICE_FARMER_GIRL_02
+VOICE_FARMER_GIRL_03
+
+----------------------------|----------------------------------
+VOICE_FARMER_GIRL_04
+VOICE_FARMER_GIRL_05
+VOICE_FARMER_GIRL_06
+VOICE_FARMER_GIRL_07
+VOICE_FARMER_GIRL_08
+VOICE_SHELFA_01
+VOICE_SHELFA_02
+VOICE_SHELFA_03
+
+----------------------------|----------------------------------
+VOICE_SHELFA_04
+VOICE_SHELFA_05
+VOICE_SHELFA_06
+VOICE_SHELFA_07
+VOICE_SHELFA_08
+VOICE_ENJYU_01
+VOICE_ENJYU_02
+VOICE_ENJYU_03
+
+----------------------------|----------------------------------
+VOICE_ENJYU_04
+VOICE_ENJYU_05
+VOICE_ENJYU_06
+VOICE_ENJYU_07
+VOICE_ENJYU_08
+VOICE_FREIYA_01
+VOICE_FREIYA_02
+VOICE_FREIYA_03
+
+----------------------------|----------------------------------
+VOICE_FREIYA_04
+VOICE_FREIYA_05
+VOICE_FREIYA_06
+VOICE_FREIYA_07
+VOICE_FREIYA_08
+VOICE_ANEMONE_01
+VOICE_ANEMONE_02
+VOICE_ANEMONE_03
+
+----------------------------|----------------------------------
+VOICE_ANEMONE_04
+VOICE_ANEMONE_05
+VOICE_ANEMONE_06
+VOICE_ANEMONE_07
+VOICE_ANEMONE_08
+VOICE_KAGETU_01
+VOICE_KAGETU_02
+VOICE_KAGETU_03
+
+----------------------------|----------------------------------
+VOICE_KAGETU_04
+VOICE_KAGETU_05
+VOICE_KAGETU_06
+VOICE_KAGETU_07
+VOICE_KAGETU_08
+VOICE_YURIS_01
+VOICE_YURIS_02
+VOICE_YURIS_03
+
+----------------------------|----------------------------------
+VOICE_YURIS_04
+VOICE_YURIS_05
+VOICE_YURIS_06
+VOICE_YURIS_07
+VOICE_YURIS_08
+VOICE_DIRKA_01
+VOICE_DIRKA_02
+VOICE_DIRKA_03
+
+----------------------------|----------------------------------
+VOICE_DIRKA_04
+VOICE_DIRKA_05
+VOICE_DIRKA_06
+VOICE_DIRKA_07
+VOICE_DIRKA_08
+VOICE_LOYD_01
+VOICE_LOYD_02
+VOICE_LOYD_03
+
+----------------------------|----------------------------------
+VOICE_LOYD_04
+VOICE_LOYD_05
+VOICE_LOYD_06
+VOICE_LOYD_07
+VOICE_LOYD_08
+VOICE_AGI_01
+VOICE_AGI_02
+VOICE_AGI_03
+
+----------------------------|----------------------------------
+VOICE_AGI_04
+VOICE_AGI_05
+VOICE_AGI_06
+VOICE_AGI_07
+VOICE_AGI_08
+VOICE_SYUMITTO_01
+VOICE_SYUMITTO_02
+VOICE_SYUMITTO_03
+
+----------------------------|----------------------------------
+VOICE_SYUMITTO_04
+VOICE_SYUMITTO_05
+VOICE_SYUMITTO_06
+VOICE_SYUMITTO_07
+VOICE_SYUMITTO_08
+VOICE_BABY_01
+VOICE_BABY_02
+VOICE_BABY_03
+
+----------------------------|----------------------------------
+VOICE_BABY_04
+VOICE_BOY_01
+VOICE_BOY_02
+VOICE_BOY_03
+VOICE_BOY_04
+VOICE_GIRL_01
+VOICE_GIRL_02
+VOICE_GIRL_03
+
+----------------------------|----------------------------------
+VOICE_GIRL_04
+VOICE_FELIX_01
+VOICE_FELIX_02
+VOICE_FELIX_03
+VOICE_FELIX_04
+VOICE_ERICH_01
+VOICE_ERICH_02
+VOICE_ERICH_03
+
+----------------------------|----------------------------------
+VOICE_ERICH_04
+VOICE_STUART_01
+VOICE_STUART_02
+VOICE_STUART_03
+VOICE_STUART_04
+VOICE_SANIA_01
+VOICE_SANIA_02
+VOICE_SANIA_03
+
+----------------------------|----------------------------------
+VOICE_SANIA_04
+VOICE_MUCHO_01
+VOICE_MUCHO_02
+VOICE_MUCHO_03
+VOICE_MUCHO_04
+VOICE_MERYNI_01
+VOICE_MERYNI_02
+VOICE_MERYNI_03
+
+----------------------------|----------------------------------
+VOICE_MERYNI_04
+VOICE_MINA_01
+VOICE_MINA_02
+VOICE_MINA_03
+VOICE_MINA_04
+VOICE_WILBER_01
+VOICE_WILBER_02
+VOICE_WILBER_03
+
+----------------------------|----------------------------------
+VOICE_WILBER_04
+VOICE_CLEA_01
+VOICE_CLEA_02
+VOICE_CLEA_03
+VOICE_CLEA_04
+VOICE_KEVYN_01
+VOICE_KEVYN_02
+VOICE_KEVYN_03
+
+----------------------------|----------------------------------
+VOICE_KEVYN_04
+VOICE_AIZACK_01
+VOICE_AIZACK_02
+VOICE_AIZACK_03
+VOICE_AIZACK_04
+VOICE_NERINE_01
+VOICE_NERINE_02
+VOICE_NERINE_03
+
+----------------------------|----------------------------------
+VOICE_NERINE_04
+VOICE_SYGYUN_01
+VOICE_SYGYUN_02
+VOICE_SYGYUN_03
+VOICE_SYGYUN_04
+VOICE_LALAMY_01
+VOICE_LALAMY_02
+VOICE_LALAMY_03
+
+----------------------------|----------------------------------
+VOICE_LALAMY_04
+VOICE_SHELFA_01B
+VOICE_SHELFA_02B
+VOICE_ENJYU_07B
+VOICE_FREIYA_03B
+VOICE_FREIYA_07B
+VOICE_KAGETU_01B
+VOICE_KAGETU_08B
+
+----------------------------|----------------------------------
+VOICE_SANIA_03B
+VOICE_MERYNI_01B
+VOICE_MERYNI_02B
+VOICE_NERINE_04B
+VOICE_SYGYUN_03B
+VOICE_FARMER_GIRL_05B
+VOICE_FARMER_GIRL_06B
+VOICE_FARMER_GIRL_07B
+
+----------------------------|----------------------------------
+VOICE_ANEMONE_07B
+VOICE_ANEMONE_08B
+VOICE_YURIS_08B
+VOICE_DIRKA_04B
+VOICE_DIRKA_07B
+VOICE_LOYD_04B
+VOICE_AGI_04B
+VOICE_SYUMITTO_08B
+
+----------------------------|----------------------------------
+VOICE_GIRL_01B
+VOICE_GIRL_04B
+VOICE_FELIX_01B
+VOICE_FELIX_01C
+VOICE_FELIX_01D
+VOICE_FELIX_02B
+VOICE_FELIX_03B
+VOICE_FELIX_04B
+
+----------------------------|----------------------------------
+VOICE_FELIX_04C
+VOICE_MUCHO_01B
+VOICE_MUCHO_01C
+VOICE_MUCHO_02B
+VOICE_MUCHO_04B
+VOICE_CLEA_03B
+VOICE_AIZACK_01B
+VOICE_AIZACK_02B
+
+----------------------------|----------------------------------
+VOICE_AIZACK_03B
+VOICE_AIZACK_04B
+VOICE_TITLE_CALL_BOY
+VOICE_TITLE_CALL_GIRL
+
+----------------------------|----------------------------------
+Buy Calf(N)
+Buy Calf(M)
+Buy Cow(N)
+Buy Cow(M)
+Buy Lamb(N)
+Buy Lamb(B)
+Buy Sheep(N)
+Buy Sheep(B)
+
+----------------------------|----------------------------------
+Buy Chicken
+Buy Silkie
+Buy Chick
+Buy Black Chick
+Keep Mii-chan
+Keep Kuro-chan
+Keep Kuma-chan
+Keep Kii-chan
+
+----------------------------|----------------------------------
+Buy Dog
+Buy Dog
+Buy Dog
+Buy Dog
+Buy Stray Dog
+Buy Stray Dog
+Buy Stray Dog
+Buy Stray Dog
+
+----------------------------|----------------------------------
+System
+Animal
+Date Events
+Story
+Tutorial
+Yearly Events
+Love Events
+Request Events
+----------------------------|----------------------------------
+<VAR_0>     Gender
+<VAR_1>     Married
+<VAR_6>     Have Child
+<VAR_2>     Times Windmill Used
+<VAR_3>     Number of Recipes
+<VAR_4>     Number of Critters
+<VAR_5>     Number of Fish
+None
+
+----------------------------|----------------------------------
+<VAR_0>Gender
+None
+None
+None
+None
+None
+None
+None
+
+----------------------------|----------------------------------
+Asia
+----------------------------|----------------------------------
+Europe
+----------------------------|----------------------------------
+Flag Clear
+Flag Page Display
+Flag Individual Settings
+
+----------------------------|----------------------------------
+Flag NO:<VAR_0><VAR_1>
+    Condition:<VAR_2>
+How to Use:
+　Left/Right LR:Up/Down
+Y+Left/Right LR:100 xUp/Down

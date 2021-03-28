@@ -1,0 +1,94 @@
+<FACE_POS_RIGHT><FACE_GRADY><FACE_NORMAL>Selamat datang ke 
+Bintanag ternak Grady<PAGE>Luangkan waktumu untuk
+melihat-lihatnya!<INPUT_KEYPAD>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GRADY><FACE_NORMAL><CHOICE_ABC> Aku lihat gerobaknya.
+ Aku lihat hewan peliharaan.
+ Lupakan saja wajahku.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GRADY><FACE_SAD>Apakah kamu bisa sedikit
+lebih baik menyayanginya?
+Aku merasa kasian kudanya.<INPUT_KEYPAD>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GRADY><FACE_SAD>Mohon maaf, semua barangnya
+sudah habis hari ini.<INPUT_KEYPAD>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GRADY><FACE_NORMAL>Maka, datang kesini diwaktu
+lainnya.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GRADY><FACE_NORMAL><CHOICE_ABC> Sewa kuda.
+ Beli binatang peliharaan.
+ Lupakan.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GRADY><FACE_NORMAL>Hm? Maaf.
+Kamu tidak mempunyai uang
+yang cukup.<INPUT_KEYPAD>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GRADY><FACE_NORMAL>Berubah pikiran?
+Oke. Apa ada hal lain yang
+diinginkan?<INPUT_KEYPAD>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GRADY><FACE_NORMAL>Biayanya <RED><VAR_0>G</COLOR>, apa oke?
+<CHOICE_AB> Ya.
+ Tidak.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GRADY><FACE_NORMAL>Apakah kamu ingin memberikan
+nama panggilan untuk satu
+ini? Apa ada nama yg bagus?<INPUT_KEYPAD>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GRADY><FACE_NORMAL><VAR_0>? Yakin?
+<CHOICE_AB> Ya.
+ Tidak.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GRADY><FACE_HAPPY>Terima kasih.
+Jaga baik-baik ya!<INPUT_KEYPAD>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GRADY><FACE_NORMAL>Apa kamu berubah pikiran?
+Oke. Apa ada hal lain yang
+diinginkan?<INPUT_KEYPAD>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GRADY><FACE_NORMAL>Semuanya itu, <RED><VAR_0>G</COLOR>.
+<CHOICE_AB> Beli.
+ Lupakan.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GRADY><FACE_NORMAL>Kamu tidak bisa menambahkan
+lagi dari jenis ini.<INPUT_KEYPAD>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GRADY><FACE_NORMAL>Apakah kamu ingin memberikan
+nama panggilan untuk satu
+ini? Apa ada nama yg bagus?<INPUT_KEYPAD>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GRADY><FACE_NORMAL><CHOICE_ABC> Beli gerobak.
+ Upgrade gerobak.
+ Lupakan.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GRADY><FACE_NORMAL>Semuanya itu, <RED><VAR_0>G</COLOR>.
+<CHOICE_AB> Upgrade.
+ Lupakan.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GRADY><FACE_NORMAL>Sepertinya tidak ada gerobak
+yang bisa diupgrade. Apa ada
+hal lain yang dibutuhkan?<INPUT_KEYPAD>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GRADY><FACE_NORMAL>Berubah pikiran ya? Oke.
+Apa ada yang lain?<INPUT_KEYPAD>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GRADY><FACE_NORMAL>Aku mempunyai bintang yang
+jarang ditemukan, hari ini
+ada ditoko.<INPUT_KEYPAD>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GRADY><FACE_HAPPY>Nama yang bagus!<PAGE>Sekarang aku akan memberi-
+tahumu bagaimana cara
+mewarat seekor burung hantu.<PAGE><FACE_POS_RIGHT><FACE_GRADY><FACE_NORMAL><RED>Makanan burung hantu</COLOR> untuk
+burung hantumu.<PAGE>Hanya taruh makanannya ke
+lantai, dan...<PAGE><FACE_POS_RIGHT><FACE_GRADY><FACE_HAPPY>...burung hantumu akan men-
+datangi kekamu dan memakan-
+nya.<PAGE><FACE_POS_RIGHT><FACE_GRADY><FACE_NORMAL>Kamu dapat membeli makanan
+burung hantu di tokonya
+Raul atau Diego.<PAGE>Dah segitu saja yang perlu
+kamu ketahui.<PAGE><FACE_POS_RIGHT><FACE_GRADY><FACE_HAPPY>Oh, ya satu hal lagi...
+latih burung hantumu, dan...<PAGE><FACE_POS_RIGHT><FACE_GRADY><FACE_NORMAL>...itu bisa membawamu dari
+puncak pegunungan ke salah
+satu desa.<PAGE><FACE_POS_RIGHT><FACE_GRADY><FACE_HAPPY>Cukup hebatkan? Aku yakin
+kamu akan menggunakannya
+sebaik mungkin!<INPUT_KEYPAD>

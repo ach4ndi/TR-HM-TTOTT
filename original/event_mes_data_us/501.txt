@@ -1,0 +1,403 @@
+<FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>There, this looks like a
+good spot.<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>I'm going to teach you how
+to <RED>grow crops</COLOR>.<PAGE>Do you know how to grow
+crops, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>You do, huh? Well, good for
+you. I'll give you your
+tools, then.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>Here's your <RED>sickle</COLOR>. You'll
+need it for clearing
+grass.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>Here's your <RED>hoe</COLOR>. You'll need
+it to till your fields.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>Here's your <RED>watering can</COLOR>.
+You'll need it to water your
+crops.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>Here's some <RED>fertilizer</COLOR>.<PAGE>Fertilizer will improve the
+quality of the crops near
+where it is applied.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT><FP_RIGHT>それじゃあ、
+１から教えてあげるよ！<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>あたしについて来てくれ。
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>In that case, I'll start at
+the very basics.<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>The steps to growing crops
+are: clearing, tilling,
+sowing, and watering.<PAGE>Here, let me give you this.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>This is a <RED>sickle</COLOR>. You use it
+for <RED>clearing grass</COLOR>.<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>Give it a try.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT><FP_RIGHT>そこじゃない。
+あたしの前だ。
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>First, clear the grass in
+front of me.<PAGE>There are two ways to equip
+your sickle.<PAGE>Either move the sickle in
+your bag to where it says
+"Equip"...<PAGE>...Or use the <RED>R Button</COLOR> to
+bring up the equip screen,
+and select the sickle!<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>After you equip your sickle,
+go where the pointing arrow
+is and push the <RED>A Button</COLOR>.<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>And that's how you clear
+grass!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>First, put away what you're
+holding.<PAGE>Holding something and
+equipping something are
+two different things.<PAGE>Either move the sickle in
+your bag to where it says
+"Equip"...<PAGE>...Or use the <RED>R Button</COLOR> to
+bring up the equip screen,
+and select the sickle!<PAGE>After you equip your sickle,
+go where the pointing arrow
+is and push the <RED>A Button</COLOR>.<PAGE>And that's how you clear
+grass!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>That's the way to do it!
+Looks like you got it!<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>Let me give you this next.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>This is a <RED>hoe</COLOR>. You use it to
+till soil.<PAGE>Till the ground where you
+just cleared the grass.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT><FP_RIGHT>そこじゃない。
+<PAGE>今、草をかった場所を
+たがやしてくれ。
+あたしの前だ。
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>You don't know where you
+need to till? Right where
+you just cleared the grass.<PAGE>Equip your hoe with the
+<RED>R Button</COLOR>, then press the
+<RED>A Button</COLOR> to till the ground.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>First, put away what you're
+holding.<PAGE>Holding something and
+equipping something are
+two different things.<PAGE>Equip your hoe with the
+<RED>R Button</COLOR>, then press the
+<RED>A Button</COLOR> to till the ground.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT><FP_RIGHT>今はたがやすんだ。
+カマは、使わないな。<PAGE>そうびは、<RED>Ｒボタン</COLOR>だ。
+<RED>クワ</COLOR>をそうびしてくれ。
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>Great! You look like a
+natural!<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>Next, let me give you these.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>These are <RED>turnip seeds</COLOR>. You
+sow them on tilled ground.<PAGE>Sow them on the ground you
+just tilled.<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>Equip the seeds, then sow
+them with the <RED>A Button</COLOR>.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>Equip the seeds, then sow
+them with the <RED>A Button</COLOR>.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>You lost your seeds?<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_SAD><FP_RIGHT>Oh, for goodness sake...
+Don't lose these, now!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>First, put away what you're
+holding.<PAGE>Holding something and
+equipping something are
+two different things.<PAGE>Equip the seeds, then sow
+them with the <RED>A Button</COLOR>.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT><FP_RIGHT>種まきにカマは使わない。
+<RED>かぶの種</COLOR>をそうびしてくれ。<PAGE>そうびは、<RED>Ｒボタン</COLOR>だ。
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT><FP_RIGHT>種まきにクワは使わない。
+<RED>かぶの種</COLOR>をそうびするんだ。<PAGE>そうびは、<RED>Ｒボタン</COLOR>だ。
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>There you go! That's how you
+sow!<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>Now for the last step.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>This is a <RED>watering can</COLOR>. Use
+it to water crops.<PAGE>Fill the watering can with
+water from the water source
+near your fields.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>This is your water source.<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>Equip the watering can, then
+push the <RED>A Button</COLOR> near the
+water source to fill it up.<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>Once your watering can is
+full, use the <RED>A Button</COLOR> to
+water your crops.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>Use the <RED>watering can</COLOR> to
+water the seeds.<PAGE>Use the <RED>R Button</COLOR> to equip
+it, or equip it from your
+bag.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>First, put away what you're
+holding.<PAGE>Holding something and
+equipping something are
+two different things.<PAGE>Use the <RED>R Button</COLOR> to equip
+it, or equip it from your
+bag.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT><FP_RIGHT><MYNAME>は、
+水まきにカマを使うんだな。<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT><FP_RIGHT><RED>じょうろ</COLOR>をそうびしてくれ。<PAGE>そうびは、<RED>Ｒボタン</COLOR>だ。
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT><FP_RIGHT><MYNAME>は、
+水まきにクワを使うんだな。<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT><FP_RIGHT><RED>じょうろ</COLOR>をそうびしてくれ。<PAGE>そうびは、<RED>Ｒボタン</COLOR>だ。
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT><FP_RIGHT>そこに水はまけないね。<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT><FP_RIGHT>種をまいた場所に
+水をまいてくれ。
+あたしの前だ。
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>That's the way!<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>And that's the basics of how
+you grow crops.<PAGE>Now, I'll explain how your
+crops grow.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT><HIDE_FACE>If you water them every day,
+they'll start to <RED>sprout</COLOR>.<PAGE>But if you forget to water
+them, even for a single
+day...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT><HIDE_FACE>...your crops will <RED>dry out</COLOR>!<PAGE>That's a sign that your
+crops need watering!<PAGE>If you continue to neglect
+your crops...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT><HIDE_FACE>...they'll eventually <RED>die</COLOR>!
+Be careful!<PAGE>Once they get like this,
+it's too late to water
+them...<PAGE>Use your <RED>sickle</COLOR> to clear
+dead crops. You can then
+plant new seeds.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT><HIDE_FACE>When watered properly, a
+turnip will grow to look
+like this.<PAGE>Now you can <RED>harvest</COLOR> it!<PAGE>To harvest a crop, just
+stand near it and press
+the <RED>A Button</COLOR>!<PAGE>However, some crops are
+harvested using your
+<RED>sickle</COLOR>.<PAGE>Examples of such crops are
+wheat and soybeans.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>Here's some advice: water
+your crops early in the
+morning.<PAGE>That way, by the evening,
+your crops will be dry
+again.<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>Then you can water your
+crops a second time, and
+they'll grow even faster!<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>Oh, one more thing about
+growing crops...<PAGE>You can tell the <RED>quality</COLOR>
+of your crops by the amount
+of <RED>yellow stars</COLOR> they have.<PAGE>To improve the quality of
+your crops, use <RED>fertilizer</COLOR>.<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>Apply fertilizer to tilled
+ground, and you'll raise the
+quality of nearby crops!<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>To use fertilizer, equip it,
+just like your sickle or
+hoe.<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_SAD><FP_RIGHT>Be sure to apply fertilizer
+<RED>while your crops are
+growing</COLOR>, or it won't work.<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>Keep that in mind!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT><FP_RIGHT>せっかくだ。
+ひりょうもさしてみよう。
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT><FP_RIGHT>まずは、さっき種をまいた、
+となりの草をかりなさい。
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT><FP_RIGHT>どうかしたかい？
+場所は先ほどのとなりだよ。
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT><FP_RIGHT>まずは、持っているものを、
+おろしなさい。<PAGE>持ち上げるのと、
+そうびは別だからね。
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT><FP_RIGHT>草をかるのは、<RED>カマ</COLOR>だよ。
+クワじゃないな。
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT><FP_RIGHT>草をかるのは、<RED>カマ</COLOR>だよ。
+じょうろじゃないな。
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT><FP_RIGHT>そこじゃないよ。<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>やじるしのところだ。
+さっきやった、となりだよ。
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT><FP_RIGHT>いい感じだね！
+では、次はたがやしなさい。
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT><FP_RIGHT>どうかしたのかい？
+今、草をかったところだよ。
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_ANGRY><FP_RIGHT><FP_RIGHT>まずは、持っているものを、
+おろしなさい。<PAGE>持ち上げるのと、
+そうびは別だからね。
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT><FP_RIGHT>たがやすのは、<RED>クワ</COLOR>だよ。
+カマじゃないな。
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT><FP_RIGHT>たがやすのは、<RED>クワ</COLOR>だよ。
+じょうろじゃないな。
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_ANGRY><FP_RIGHT><FP_RIGHT>そこじゃないね。<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>やじるしのところだよ。
+さっきやった、となりだよ。
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT><FP_RIGHT>それでいいよ！
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT><FP_RIGHT>これで、ひりょうが、
+使えるようになったぞ。
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT><FP_RIGHT><RED>ひりょう</COLOR>だ。
+たがやした場所にさせるよ！<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>たがやした場所に、
+さしなさい。<PAGE>ひりょうももそうびすれば、
+使えるよ。
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT><FP_RIGHT>どうかしたのかい？
+今たがやしたところだよ。
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_ANGRY><FP_RIGHT><FP_RIGHT>まずは、持っているものを、
+おろしなさい。<PAGE>持ち上げるのと、
+そうびは別だからね。
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT><FP_RIGHT>ひりょうをさしなさい。<PAGE>カマは使わないな。
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT><FP_RIGHT>ひりょうをさしなさい。<PAGE>クワは使わないな。
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT><FP_RIGHT>ひりょうをさしなさい。<PAGE>じょうろは使わないな。
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_ANGRY><FP_RIGHT><FP_RIGHT>そこじゃないね。<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>やじるしのところだよ。
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT><FP_RIGHT>無事にひりょうがさせたね。
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_ANGRY><FP_RIGHT><FP_RIGHT>…ひりょうをなくしたのかい？
+<FACE_POS_RIGHT><FACE_INA><FACE_SAD><FP_RIGHT>仕方ないね…。
+次は、なくすなよ。
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT><FP_RIGHT>ひりょうの近くにある作物は、
+品質があがるからね。<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>有効に使いなさい。
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT><FP_RIGHT><RED>ひりょう</COLOR>だ。
+<PAGE>ひりょうの近くにある作物は、
+品質があがるからね。
+あとで、さしてみるといい。<PAGE><FP_RIGHT>作物の育て方は、
+こんなところだね。<PAGE>それでは部屋に戻ろうか。\u270e<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT><FP_RIGHT>育てた作物には品質があるよ。
+品質は、<RED>星の数</COLOR>で
+あらわされる。<PAGE>もし、品質を上げたいなら
+<RED>ひりょう</COLOR>をさすといいぞ。<PAGE>使い方は、まず作物の近くを
+たがやすんだ。<PAGE>そうすれば、ひりょうが
+させるようになる
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>Here's some fertilizer.
+You can try it out later.<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>This farm has plenty of room
+to grow crops, so grow as
+many as you can!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>Clear the grass with your
+sickle where the arrow is
+pointing.<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>There are two ways to equip
+your sickle.<PAGE>Either move the sickle in
+your bag to where it says
+"Equip"...<PAGE>...Or use the <RED>R Button</COLOR> to
+bring up the equip screen,
+and select the sickle!<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>After you equip your sickle,
+go where the pointing arrow
+is and push the <RED>A Button</COLOR>.<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>And that's how you clear
+grass!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>そうそう。
+育てた作物だが…。<PAGE>育てた作物には品質がある。
+品質は、<RED>星の数</COLOR>で
+あらわされるぞ。<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>もし、品質を上げたいなら
+<RED>ひりょう</COLOR>をやると
+いいだろう。<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>ひりょうをたがやした地面に
+さす事で、周りに植えた作物の
+品質をあげる事ができるぞ！<PAGE>ちなみに、そうびの仕方は、
+カマやクワと同じだ。<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_SAD><FP_RIGHT>ただし、ひりょうはその作物が
+<RED>成長している間</COLOR>しか効果が
+ないから気をつけてくれ。
+----------------------------|----------------------------------
+<CHOICE_AB> I don't know how.
+ I know how.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>そうだ。
+まだ、話しておかなければ
+ならない事があるんだ。<PAGE>上画面の左上を見てくれ。
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>では、出荷箱を
+置いている場所に案内しよう。
+ついて来てくれ。
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT>これが、このはな村の
+<RED>出荷箱</COLOR>だ。<PAGE>近づいて、<RED>Ａボタン</COLOR>を押すと
+下画面に出荷箱画面が
+出てくるよ。<PAGE><FACE_POS_LEFT><FACE_INA><FACE_HAPPY><FP_LEFT>そこに、とれた作物等の
+出荷したいものを入れると
+出荷ができるぞ。<PAGE>かんたんだろう？<PAGE><FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT>それから、一度出荷箱に
+入れた物は取り出せないから
+気をつけてくれ。<PAGE><FACE_POS_LEFT><FACE_INA><FACE_HAPPY><FP_LEFT>出荷した物のお金だが、
+朝一でキミの自宅に届くよう
+あたしの方で手配しておこう。<PAGE><FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT>出荷箱はいつでも使えるから
+自由に使ってくれ。<PAGE>作物のほかにも、
+山で見つけたものも
+ここで出荷できるぞ。<PAGE>山に行けば
+いろんなものが手に入る。<PAGE><FACE_POS_LEFT><FACE_INA><FACE_HAPPY><FP_LEFT>たけのこ、しめじ、
+クルミやハーブ…
+まさに山の幸（さち）だ！<PAGE>いっぱい手に入るから、
+<RED>荷馬γを連れて行くと
+便利</COLOR>だぞ。
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT>…ん？
+出荷箱はここにしかないのか
+\u270aだって？<PAGE>…そうだな。
+この村の出荷箱は
+ここにしかない。<PAGE>そういえば…、出荷箱は
+<BLUE>ブルーベル村</COLOR>にもあるぞ。<PAGE>出荷箱は、村に関係なく
+自由に使えるから、
+気にせず使うといい。<PAGE>山を降りた辺りに
+あるはずだ。<PAGE>きっとブルーベル村の村人は
+出荷箱に入った
+すばらしい作物を見て…、<PAGE><FACE_POS_LEFT><FACE_INA><FACE_HAPPY><FP_LEFT>あまりの美しさに
+腰をぬかすに違いない！！
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>And that fulfills my request
+from the message board!<PAGE>Oh, and I put some
+housewarming gifts
+in your <RED>storage</COLOR>.<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>I'll get around to putting
+other requests on the board,
+so go and take a look.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>On the upper left of
+the top screen is a
+blue gauge.<PAGE>That gauge tells you how
+much <RED>Stamina</COLOR> you have
+left.<PAGE>When you use a tool, <RED>it
+reduces your Stamina</COLOR>. You'll
+<RED>pass out</COLOR> if it gets empty.<PAGE>If you pass out, you <RED>won't
+be able to work anymore
+that day</COLOR>, so be careful.<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>However, you can recover
+some Stamina by eating
+something.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>Which reminds me...there's
+something I want to explain
+to you...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>You can <RED>eat</COLOR> or <RED>cook</COLOR>
+the crops you grow
+and harvest, or...<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>...You can <RED>ship them to earn
+money</COLOR>!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>If you forget how to take on
+requests, ask <RED>at the counter
+in Town Hall</COLOR>.<PAGE>You can also find out where
+villagers' houses are there.<PAGE>That's handy when you want
+to know where a requester
+lives.<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>Farming is hard work, but
+I'm sure you'll do great!
+Good to have you in town!<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>Well, I have to get back to
+Town Hall. See you later,
+<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>Over there are some turnips
+ready to harvest, so try
+harvesting them later.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>By the way, you can use
+harvested crops for cooking
+or get money for them.

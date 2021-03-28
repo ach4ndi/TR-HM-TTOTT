@@ -1,0 +1,64 @@
+<FACE_POS_RIGHT><FACE_NORI><FACE_SHY><FP_RIGHT>Umm, <MYNAME>...?
+Kamu tahukan arti dari pem-
+berian sebuah bulu inikan?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>Apakah aku ini yang kamu
+inginkan itu?<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Aku senang...
+sungguh senang!
+Terima kasih!<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_SHOCK><FP_RIGHT>Aku sudah jatuh cinta kepa-
+damu sejak lama. lamaaa.<PAGE>Jadi aku sungguh bersyukur
+bahwa kamu memiliki perasa-
+an yang sama denganku!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Oh, <MYNAME>!
+Kita harus memberitahukan
+kakekku mengenai hal ini!<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_SHOCK><FP_RIGHT>Apakah kamu akan ikut dengan-
+ku untuk datang kepadanya,
+iya kan?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_GOMBE><FACE_NORMAL><FP_LEFT>Ah, apa yang kamu bicarakan?<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>Kita akan menikah kek!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_GOMBE><FACE_NORMAL><FP_LEFT>Akhir-akhir ini aku tidak
+membersihkan telingaku,
+hmm?<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_SAD><FP_RIGHT>Oh, kakek, jijik banget deh!
+Tapi kamu dapat mendengarnya
+dengan jelas kan?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_GOMBE><FACE_NORMAL><FP_LEFT>Aku tak dengar apapun!<PAGE>Bagaimana seorang orang tua
+ini mengetahui apa para
+pemuda yang ingin lakukan?<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_SHY><FP_RIGHT>Kamu kan DAPAT mendengarkan
+perkataan kami!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_GOMBE><FACE_NORMAL><FP_LEFT>Hmmm...?<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_SAD><FP_RIGHT>Kakek, masa kakek sama
+sekali tidak mau mengucapkan
+selamat kepada kami?<PAGE>terhadap pertunangan kami?<PAGE><FACE_POS_LEFT><FACE_GOMBE><FACE_NORMAL><FP_LEFT>Ah, pastinya, hmmm?
+Tentu saja kok.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_GOMBE><FACE_NORMAL><FP_LEFT>Disaat kamu pindah, Nori,
+rumah ini akan menjadi
+sangat sepi tanpa kamu,hmm?<PAGE>Benar-benar kesepian...<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>Oh, Kakek...<PAGE><FACE_POS_RIGHT><FACE_GOMBE><FACE_HAPPY><FP_RIGHT>Aku akan baik-baik saja kok!
+Kalau kalian ada disekitar
+sini, mampir ya.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_GOMBE><FACE_NORMAL><FP_LEFT>Ah, hmm. Apa yang harus aku
+katakan ya?<PAGE><FACE_POS_LEFT><FACE_GOMBE><FACE_HAPPY><FP_LEFT>Yang bisa kulakukan sekarang
+adalah memberkati kalian
+saja!!<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Terima kasih, Kakek Gombe!<PAGE><FACE_POS_LEFT><FACE_GOMBE><FACE_NORMAL><FP_LEFT>Ah, hmm! Kapan pernikahan-
+nya dilaksanakan, hmm?<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT><MYNAME> dan aku sudah
+membicarakannya, uhm
+satu minggu dari sekarang.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_GOMBE><FACE_HAPPY><FP_LEFT>Ah, ahh.<PAGE><FACE_POS_LEFT><FACE_GOMBE><FACE_NORMAL><FP_LEFT>Dengarkan baik-baik ya,
+wahai pemuda <MYNAME>!<PAGE>Kamu akan sangat sibuk di-
+hari pernikahanmu,hmm?<PAGE>Jangan lupakan selesaikan
+masalahmu dan pekerjaanmu
+sebelum harinya tiba.<PAGE>Ikutilah saran dari seorang
+orang tua ini, hmm?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_GOMBE><FACE_HAPPY><FP_LEFT><MYNAME>!
+Jadilah seorang suami yang
+baik kepada istrimu, Nori.<PAGE>Dia satu-satunya yang kumi-
+liki yang mengingatkanku
+mendiang istriku, hmm?<PAGE>Itu harta karunku!<PAGE>Orang tua ini menginginkan
+dia menjadi seorang gadis
+yang paling senang diselu-<PAGE>ruh dunia!<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_SHOCK><FP_RIGHT>Kakek...<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Imut deh...

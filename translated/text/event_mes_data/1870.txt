@@ -1,0 +1,132 @@
+<FP_NONE>Tanya tentang permintaan?
+<CHOICE_AB> Ya
+ Tidak
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Ah, kamu datang kesini untuk
+ingin diajari mengenai
+...<PAGE><RED>menangkap serangga dengan
+cara lompat</COLOR>, hmm?<PAGE><FACE_POS_RIGHT><FACE_GOMBE><FACE_HAPPY>Ah, oke kalau gitu, orang
+tua ini akan mengajarimu
+semuanya yang kamu butuhkan..<PAGE>...<RED>menangkap serangga dengan
+cara lompat</COLOR>!<PAGE>Gimana kalau ini, hmm?
+Siap untuk memperlajarinya?
+----------------------------|----------------------------------
+<FP_NONE><CHOICE_AB> Tolong ajari aku!
+ Tidak, terima kasih.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_HAPPY><FP_RIGHT>Ah! Aku akan mengajarimu, 
+ayo!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Dan itu semua mengenai cara
+menangkap serangga dengan
+melompat!<PAGE>Apa ingin mendengarkan
+hal itu lagi?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_HAPPY><FP_RIGHT>Ah! Kalau begitu, kamu pasti-
+nya ingin menangkap kupu-
+kupu yang ku<RED>minta</COLOR>!<PAGE><FACE_POS_RIGHT><FACE_GOMBE><FACE_NORMAL>Aku akan langsung memberi-
+kan petunjuk aja ya, hmm?<PAGE>Seperti namanya, kupu-kupu
+yang kuminta itu berwarna
+<RED>putih</COLOR>!<PAGE>Jika kamu memiliki masalah,
+ingat-ingat petunjuk dari
+orang tua ini mengenai warna!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Ah, halo,
+<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Ah, halo,
+<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Ah, halo,
+<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Ah, halo,
+<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>woho wehe! kamu menangkap
+serangga yang ngibas-ngibas
+itu ya?<PAGE>Ah, mari kulihat...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_HAPPY><FP_RIGHT>Ah, ya ya itu!
+Selamat ya!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_HAPPY><FP_RIGHT>Ternyata kamu memiliki bakat,
+benarkan? Aku terkejut!<PAGE>Kamu pastinya suka menangkap
+serangga, <MYNAME>!<PAGE><FACE_POS_RIGHT><FACE_GOMBE><FACE_NORMAL>Beberapa serangga yang memang
+cukup sudah dicari, tapi...\u270a
+cobalah untuk menangkapnya!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Ah, kamu memenuhi permintaan
+ku, jadi ini hadiahmu!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_HAPPY><FP_RIGHT>Ah... kamu melakukannya
+dengan bagus!<PAGE>Aku akan memasang lebih
+banyak permintaanku diwaktu
+mendatang ya! hmmmmmm!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Ah, halo,
+<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Ah, halo,
+<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Ah, halo,
+<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Ah, halo,
+<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Ah, halo,
+<MYNAME>.
+----------------------------|----------------------------------
+<FP_NONE>Eheem! Selamat datang di
+kelas tangkap serangga!
+----------------------------|----------------------------------
+<FP_NONE>Apakah kamu mengetahui kupu-
+kupu melakukan sesuatu yang
+tidak dilakukan oleh<PAGE>belalang? yaitu mengenai
+cara mereka terbang!
+----------------------------|----------------------------------
+<FP_NONE>Disaat kamu mencoba menangkap
+serangga yang sedang berter-
+bangan disekitar, seperti<PAGE>kupu-kupu...
+Kamu tidak dapat menangkap-
+nya dengan hanya menekan<PAGE>tombol A. Disaat kamu
+menemukan kupu-kupu, jika
+sudah cukup dekat ...<PAGE><RED>Tekan tombol B</COLOR> untuk
+loncat ke udara!\u270a BOING!<PAGE>Disaat kamu melompat, <RED>tekan
+tombol A</COLOR>, dan kamu akan
+menangkapnya!<PAGE>Hal itu memang mudah, untuk
+menangkap mereja jika timing
+nya tepat disaat kamu lompat!
+----------------------------|----------------------------------
+<FP_NONE>Tapi jika kamu tidak menang-
+kap dengan cepat, maka itu
+akan menghilang darimu!<PAGE>jadi perhatikan lebih
+cermat lagi!
+Tapi, jangan khawatir,<PAGE>karena di pegunungan masih
+banyak tempat lain yang
+bisa untuk menemukannya kok!<PAGE>Jadi rajin-rajin melihat
+sana dan kesini ya!
+pastinya kamu menemukan<PAGE>serangga yang kamu cari
+yang pernah hilang itu!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Ah, halo,
+<MYNAME>.
+----------------------------|----------------------------------
+<FP_NONE>Untuk saat ini, permintaanku
+adalah <GREEN>kupu-kupu
+kecil putih</COLOR>...
+----------------------------|----------------------------------
+<FP_NONE>Sepertinya kamu dapat menemu-
+kannya jika melihat disekitar
+sini, hmm?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Ah, halo,
+<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Ah, halo,
+<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Ah, halo,
+<MYNAME>.

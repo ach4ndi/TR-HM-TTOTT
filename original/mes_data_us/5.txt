@@ -1,0 +1,1918 @@
+<VAR_0> <BLUE>-Not in use-</COLOR>
+<VAR_1> Bought a bed
+<VAR_2> Bought Extra Large Bed
+<VAR_3> <BLUE>-Not in use-</COLOR>
+<VAR_4> <BLUE>-Not in use-</COLOR>
+<VAR_5> <BLUE>-Not in use-</COLOR>
+<VAR_6> House: Pot
+<VAR_7> House: Pan
+
+----------------------------|----------------------------------
+<VAR_0> House: Spice
+<VAR_1> House: Flower Girl's Mind
+<VAR_2> House: Innocence
+<VAR_3> House: Flower Justice
+<VAR_4> House: Flower Sunny Smile
+<VAR_5> House: Flower Pure White
+<VAR_6> House: Flower Clrfl Land
+<VAR_7>  Have lived in Asia
+
+----------------------------|----------------------------------
+<VAR_0> Have lived in Bluebell
+<VAR_1> <BLUE>-Not in use-</COLOR>
+<VAR_2> <BLUE>-Not in use-</COLOR>
+<VAR_3> Alisa s allowed to marry
+<VAR_4> <BLUE>-Not in use-</COLOR>
+<VAR_5> Calf
+<VAR_6> Veal
+<VAR_7> Chicken
+
+----------------------------|----------------------------------
+<VAR_0> Dog
+<VAR_1> Cat
+<VAR_2> Flag after ending
+<VAR_3> Oracle's name
+<VAR_4> 0x01c
+<VAR_5> 0x01d
+<VAR_6> 0x01e
+<VAR_7> <BLUE>-Not in use-</COLOR>
+
+----------------------------|----------------------------------
+<VAR_0> <BLUE>-Not in use-</COLOR>
+<VAR_1> <BLUE>-Not in use-</COLOR>
+<VAR_2> 0x022
+<VAR_3> <BLUE>-Not in use-</COLOR>
+<VAR_4> Toughness in Effect
+<VAR_5> Angler Pill in Effect
+<VAR_6> Waiting for Fish
+<VAR_7> Clear Vision in Effect
+
+----------------------------|----------------------------------
+<VAR_0> K. Mt. 2Ice Upper 0=割
+<VAR_1> K. Mt. 2Ice Bottom 0=割
+<VAR_2> Konohana Mt. Ice 0=割
+<VAR_3> Bluebell Mt. Ice 0=割
+<VAR_4> <BLUE>-DUMMY-</COLOR>
+<VAR_5> <BLUE>-DUMMY-</COLOR>
+<VAR_6> <BLUE>-DUMMY-</COLOR>
+<VAR_7> <BLUE>-DUMMY-</COLOR>
+
+----------------------------|----------------------------------
+<VAR_0> <BLUE>-DUMMY-</COLOR>
+<VAR_1> <BLUE>-DUMMY-</COLOR>
+<VAR_2> <BLUE>-DUMMY-</COLOR>
+<VAR_3> <BLUE>-DUMMY-</COLOR>
+<VAR_4> <BLUE>-DUMMY-</COLOR>
+<VAR_5> <BLUE>-DUMMY-</COLOR>
+<VAR_6> <BLUE>-DUMMY-</COLOR>
+<VAR_7> 0x037
+
+----------------------------|----------------------------------
+<VAR_0> 0x038
+<VAR_1> 0x039
+<VAR_2> 0x03a
+<VAR_3> 0x03b
+<VAR_4> Hot Spring Description End
+<VAR_5> Towl Hall Stay End
+<VAR_6> Drawing Description End
+<VAR_7> Asset Descritpion End
+
+----------------------------|----------------------------------
+<VAR_0> Calendar Description End
+<VAR_1> Bath Description End
+<VAR_2> Bathroom Description End
+<VAR_3> Cooking Description End
+<VAR_4> Vase Description End
+<VAR_5> Animal Description End
+<VAR_6> Owl Delivery End
+<VAR_7> Animal Purchase End
+
+----------------------------|----------------------------------
+<VAR_0> Aquafarming Descrptn End
+<VAR_1> Beekeeping Description End
+<VAR_2> Cart Park Description End
+<VAR_3> 0x04b
+<VAR_4> 0x04c
+<VAR_5> 0x04d
+<VAR_6> 0x04e
+<VAR_7> 0x04f
+
+----------------------------|----------------------------------
+<VAR_0> Get Sickle
+<VAR_1> Get Axe
+<VAR_2> Get Hammer
+<VAR_3> <BLUE>-Not in use-</COLOR>
+<VAR_4> Get Fishing Rod
+<VAR_5> Get Stethoscope
+<VAR_6> Get Brush
+<VAR_7> Get Bell
+
+----------------------------|----------------------------------
+<VAR_0> Get Snowboard
+<VAR_1> Get Skateboard
+<VAR_2> Get Dog Bone
+<VAR_3> Get Cat Bell
+<VAR_4> Get Milker
+<VAR_5> Get Shearer
+<VAR_6> Get Long Fishing Rod
+<VAR_7> <BLUE>-SYSTEM-</COLOR>
+
+----------------------------|----------------------------------
+<VAR_0> 0x060
+<VAR_1> <BLUE>-SYSTEM-</COLOR>
+<VAR_2> Paddy is watered
+<VAR_3> 0x063
+<VAR_4> 0x064
+<VAR_5> 0x065
+<VAR_6> 0x066
+<VAR_7> 0x067
+
+----------------------------|----------------------------------
+<VAR_0> 0x068
+<VAR_1> 0x069
+<VAR_2> 0x06a
+<VAR_3> 0x06b
+<VAR_4> 0x06c
+<VAR_5> 0x06d
+<VAR_6> 0x06e
+<VAR_7> 0x06f
+
+----------------------------|----------------------------------
+<VAR_0> Alpaca
+<VAR_1> Owl
+<VAR_2> Buy Blue Feather
+<VAR_3> Buy Summer Sun
+<VAR_4> Buy Fall Sun
+<VAR_5> Buy Winter Sun
+<VAR_6> 0x076
+<VAR_7> 0x077
+
+----------------------------|----------------------------------
+<VAR_0> 0x078
+<VAR_1> 0x079
+<VAR_2> 0x07a
+<VAR_3> 0x07b
+<VAR_4> 0x07c
+<VAR_5> 0x07d
+<VAR_6> Konohana Outfit for Women
+<VAR_7> Bluebell Outfit for Women
+
+----------------------------|----------------------------------
+<VAR_0> Radio is set up.
+<VAR_1> Work Outfit for Men
+<VAR_2> Casual Outfit for Men
+<VAR_3> Urban Outfit for Men
+<VAR_4> Classy Outfit for Men
+<VAR_5> Wild Outfit for Women
+<VAR_6> Work Outfit for Women
+<VAR_7> Casual Outfit for Women
+
+----------------------------|----------------------------------
+<VAR_0> Hip Outfit for Women
+<VAR_1> Classy Outfit for Women
+<VAR_2> TraditionalOutfit W
+<VAR_3> Get UFO Cart
+<VAR_4> Get Cardboard Cart
+<VAR_5> Konohana Outfit for Men
+<VAR_6> Bluebell Outfit for Men
+<VAR_7> 0x08f
+
+----------------------------|----------------------------------
+<VAR_0> Child's Name 0!
+<VAR_1> Child's Name 1!
+<VAR_2> Child's Name 2!
+<VAR_3> Child's Name 3!
+<VAR_4> Child's Name 4!
+<VAR_5> Child's Name 5!
+<VAR_6> Child's Name 6!
+<VAR_7> Child's Name 7!
+
+----------------------------|----------------------------------
+<VAR_0> Child's Name 8!
+<VAR_1> Child's Name 9!
+<VAR_2> Child's Name 10!
+<VAR_3> 0x09b
+<VAR_4> 0x09c
+<VAR_5> 0x09d
+<VAR_6> 0x09e
+<VAR_7> 0x09f
+
+----------------------------|----------------------------------
+<VAR_0> Get Bamboo Cart.
+<VAR_1> Get Expensive Cart.
+<VAR_2> Get Simple Cart.
+<VAR_3> Get Big Cart.
+<VAR_4> Get Dragon Cart.
+<VAR_5> Get Robot Chicken Cart.
+<VAR_6> Get Sled Cart.
+<VAR_7> Get second house!
+
+----------------------------|----------------------------------
+<VAR_0> 0x0a8
+<VAR_1> 0x0a9
+<VAR_2> 0x0aa
+<VAR_3> 0x0ab
+<VAR_4> 0x0ac
+<VAR_5> 0x0ad
+<VAR_6> 0x0ae
+<VAR_7> 0x0af
+
+----------------------------|----------------------------------
+<VAR_0> 0x0b0
+<VAR_1> 0x0b1
+<VAR_2> 0x0b2
+<VAR_3> 0x0b3
+<VAR_4> 0x0b4
+<VAR_5> 0x0b5
+<VAR_6> 0x0b6
+<VAR_7> 0x0b7
+
+----------------------------|----------------------------------
+<VAR_0> 0x0b8
+<VAR_1> 0x0b9
+<VAR_2> 0x0ba
+<VAR_3> 0x0bb
+<VAR_4> 0x0bc
+<VAR_5> 0x0bd
+<VAR_6> 0x0be
+<VAR_7> 0x0bf
+
+----------------------------|----------------------------------
+<VAR_0> 0x0c0
+<VAR_1> 0x0c1
+<VAR_2> 0x0c2
+<VAR_3> 0x0c3
+<VAR_4> 0x0c4
+<VAR_5> 0x0c5
+<VAR_6> 0x0c6
+<VAR_7> 0x0c7
+
+----------------------------|----------------------------------
+<VAR_0> 0x0c8
+<VAR_1> 0x0c9
+<VAR_2> 0x0ca
+<VAR_3> 0x0cb
+<VAR_4> 0x0cc
+<VAR_5> 0x0cd
+<VAR_6> 0x0ce
+<VAR_7> 0x0cf
+
+----------------------------|----------------------------------
+<VAR_0> 0x0d0
+<VAR_1> 0x0d1
+<VAR_2> 0x0d2
+<VAR_3> 0x0d3
+<VAR_4> 0x0d4
+<VAR_5> 0x0d5
+<VAR_6> 0x0d6
+<VAR_7> 0x0d7
+
+----------------------------|----------------------------------
+<VAR_0> 0x0d8
+<VAR_1> 0x0d9
+<VAR_2> 0x0da
+<VAR_3> 0x0db
+<VAR_4> 0x0dc
+<VAR_5> 0x0dd
+<VAR_6> 0x0de
+<VAR_7> 0x0df
+
+----------------------------|----------------------------------
+<VAR_0> 0x0e0
+<VAR_1> 0x0e1
+<VAR_2> 0x0e2
+<VAR_3> 0x0e3
+<VAR_4> 0x0e4
+<VAR_5> 0x0e5
+<VAR_6> 0x0e6
+<VAR_7> 0x0e7
+
+----------------------------|----------------------------------
+<VAR_0> 0x0e8
+<VAR_1> 0x0e9
+<VAR_2> 0x0ea
+<VAR_3> 0x0eb
+<VAR_4> 0x0ec
+<VAR_5> 0x0ed
+<VAR_6> 0x0ee
+<VAR_7> 0x0ef
+
+----------------------------|----------------------------------
+<VAR_0> 0x0f0
+<VAR_1> 0x0f1
+<VAR_2> 0x0f2
+<VAR_3> 0x0f3
+<VAR_4> 0x0f4
+<VAR_5> 0x0f5
+<VAR_6> 0x0f6
+<VAR_7> 0x0f7
+
+----------------------------|----------------------------------
+<VAR_0> 0x0f8
+<VAR_1> 0x0f9
+<VAR_2> 0x0fa
+<VAR_3> 0x0fb
+<VAR_4> 0x0fc
+<VAR_5> 0x0fd
+<VAR_6> 0x0fe
+<VAR_7> 0x0ff
+
+----------------------------|----------------------------------
+<VAR_0> Stepping on animals
+<VAR_1> Get Small Dog (Black)
+<VAR_2> Get Small Dog (Gold)
+<VAR_3> Get Small Dog (Gray)
+<VAR_4> Get Small Dog (Chocolate)
+<VAR_5> Get Big Dog (Brown 1)
+<VAR_6> Get Big Dog (Brown 2)
+<VAR_7> Get Big Dog (Black)
+
+----------------------------|----------------------------------
+<VAR_0> Get Big Dog (Gray)
+<VAR_1> Get Cat (White)
+<VAR_2> Get Cat (Black)
+<VAR_3> Get Cat (Red)
+<VAR_4> Get Cat (Gold)
+<VAR_5> 0x10d
+<VAR_6> 0x10e
+<VAR_7> 0x10f
+
+----------------------------|----------------------------------
+<VAR_0> Kono. House Expansion
+<VAR_1> Blue. House Expansion
+<VAR_2> Trophy in House (Left)
+<VAR_3> Trophy in House (Center)
+<VAR_4> Trophy in House (Right)）
+<VAR_5> 0x115
+<VAR_6> 0x116
+<VAR_7> 0x117
+
+----------------------------|----------------------------------
+<VAR_0> 0x118
+<VAR_1> 0x119
+<VAR_2> 0x11a
+<VAR_3> 0x11b
+<VAR_4> 0x11c
+<VAR_5> 0x11d
+<VAR_6> 0x11e
+<VAR_7> 0x11f
+
+----------------------------|----------------------------------
+<VAR_0> Kono. Farm Expansion 1
+<VAR_1> Kono. Farm Expansion 2
+<VAR_2> Kono. Farm Expansion 3
+<VAR_3> Kono. Farm Expansion 4
+<VAR_4> Kono. Farm Expansion 5
+<VAR_5> Kono. Pond Expansion
+<VAR_6> Kono. Paddy Expansion 1
+<VAR_7> 0x127
+
+----------------------------|----------------------------------
+<VAR_0> Kono. Paddy Expansion 2
+<VAR_1> Kono. Paddy Expansion 3
+<VAR_2> Kono. Paddy Expansion 4
+<VAR_3> 0x12b
+<VAR_4> 0x12c
+<VAR_5> 0x12d
+<VAR_6> 0x12e
+<VAR_7> 0x12f
+
+----------------------------|----------------------------------
+<VAR_0> Tunnel 1
+<VAR_1> Tunnel 2
+<VAR_2> Tunnel 3 Open!
+<VAR_3> Tunnel 4　South Path
+<VAR_4> Tunnel 5　North Path
+<VAR_5> 0x135
+<VAR_6> 0x136
+<VAR_7> 0x137
+
+----------------------------|----------------------------------
+<VAR_0> 0x138
+<VAR_1> 0x139
+<VAR_2> 0x13a
+<VAR_3> 0x13b
+<VAR_4> 0x13c
+<VAR_5> 0x13d
+<VAR_6> 0x13e
+<VAR_7> 0x13f
+
+----------------------------|----------------------------------
+<VAR_0> Bluebell Grazing 1
+<VAR_1> Bluebell Grazing 2
+<VAR_2> Bluebell Pet
+<VAR_3> Bluebell Maker
+<VAR_4> Bluebell Farm
+<VAR_5> Bluebell Beekeeping 1
+<VAR_6> Bluebell Beekeeping 2
+<VAR_7> Bluebell Beekeeping 3
+
+----------------------------|----------------------------------
+<VAR_0> Bluebell Beekeeping 4
+<VAR_1> Bluebell Beekeeping 5
+<VAR_2> Bluebell Beekeeping 6
+<VAR_3> 0x14b
+<VAR_4> 0x14c
+<VAR_5> 0x14d
+<VAR_6> 0x14e
+<VAR_7> 0x14f
+
+----------------------------|----------------------------------
+<VAR_0> Bluebell Drink Maker
+<VAR_1> Konohana Pickling Pot
+<VAR_2> 0x152
+<VAR_3> 0x153
+<VAR_4> 0x154
+<VAR_5> 0x155
+<VAR_6> 0x156
+<VAR_7> 0x157
+
+----------------------------|----------------------------------
+<VAR_0> 0x158
+<VAR_1> 0x159
+<VAR_2> 0x15a
+<VAR_3> 0x15b
+<VAR_4> 0x15c
+<VAR_5> 0x15d
+<VAR_6> 0x15e
+<VAR_7> 0x15f
+
+----------------------------|----------------------------------
+<VAR_0> Hot Spring Expansion
+<VAR_1> 0x161
+<VAR_2> 0x162
+<VAR_3> 0x163
+<VAR_4> 0x164
+<VAR_5> 0x165
+<VAR_6> 0x166
+<VAR_7> 0x167
+
+----------------------------|----------------------------------
+<VAR_0> 0x168
+<VAR_1> 0x169
+<VAR_2> 0x16a
+<VAR_3> 0x16b
+<VAR_4> 0x16c
+<VAR_5> 0x16d
+<VAR_6> 0x16e
+<VAR_7> 0x16f
+
+----------------------------|----------------------------------
+<VAR_0> 0x170
+<VAR_1> K. Mt.2 Rock Up Left　1=割
+<VAR_2> K. Mt.2 Rock BtmLBck 1=割
+<VAR_3> K. Mt.2 Rock BtmLfrnt 1=割
+<VAR_4> K. Mt.2 Rock Mushroom 1=割
+<VAR_5> K. Mt.3 Rock Uprrght 1=割
+<VAR_6> K. Mt.3 Rock Bttmrght 1=割
+<VAR_7> B. Mt.3 Rock Mushroom 1=割
+
+----------------------------|----------------------------------
+<VAR_0> 0x178
+<VAR_1> 0x179
+<VAR_2> 0x17a
+<VAR_3> 0x17b
+<VAR_4> 0x17c
+<VAR_5> 0x17d
+<VAR_6> 0x17e
+<VAR_7> 0x17f
+
+----------------------------|----------------------------------
+<VAR_0> 0x180
+<VAR_1> 0x181
+<VAR_2> 0x182
+<VAR_3> 0x183
+<VAR_4> 0x184
+<VAR_5> 0x185
+<VAR_6> 0x186
+<VAR_7> 0x187
+
+----------------------------|----------------------------------
+<VAR_0> 0x188
+<VAR_1> 0x189
+<VAR_2> 0x18a
+<VAR_3> 0x18b
+<VAR_4> 0x18c
+<VAR_5> 0x18d
+<VAR_6> 0x18e
+<VAR_7> 0x18f
+
+----------------------------|----------------------------------
+<VAR_0> 0x190
+<VAR_1> 0x191
+<VAR_2> 0x192
+<VAR_3> 0x193
+<VAR_4> 0x194
+<VAR_5> 0x195
+<VAR_6> 0x196
+<VAR_7> 0x197
+
+----------------------------|----------------------------------
+<VAR_0> 0x198
+<VAR_1> 0x199
+<VAR_2> 0x19a
+<VAR_3> 0x19b
+<VAR_4> 0x19c
+<VAR_5> 0x19d
+<VAR_6> 0x19e
+<VAR_7> 0x19f
+
+----------------------------|----------------------------------
+<VAR_0> 0x1a0
+<VAR_1> 0x1a1
+<VAR_2> 0x1a2
+<VAR_3> 0x1a3
+<VAR_4> 0x1a4
+<VAR_5> 0x1a5
+<VAR_6> 0x1a6
+<VAR_7> 0x1a7
+
+----------------------------|----------------------------------
+<VAR_0> 0x1a8
+<VAR_1> 0x1a9
+<VAR_2> 0x1aa
+<VAR_3> 0x1ab
+<VAR_4> 0x1ac
+<VAR_5> 0x1ad
+<VAR_6> 0x1ae
+<VAR_7> 0x1af
+
+----------------------------|----------------------------------
+<VAR_0> 0x1b0
+<VAR_1> 0x1b1
+<VAR_2> 0x1b2
+<VAR_3> 0x1b3
+<VAR_4> 0x1b4
+<VAR_5> 0x1b5
+<VAR_6> 0x1b6
+<VAR_7> 0x1b7
+
+----------------------------|----------------------------------
+<VAR_0> 0x1b8
+<VAR_1> 0x1b9
+<VAR_2> 0x1ba
+<VAR_3> 0x1bb
+<VAR_4> 0x1bc
+<VAR_5> 0x1bd
+<VAR_6> 0x1be
+<VAR_7> 0x1bf
+
+----------------------------|----------------------------------
+<VAR_0> 0x1c0
+<VAR_1> 0x1c1
+<VAR_2> 0x1c2
+<VAR_3> 0x1c3
+<VAR_4> 0x1c4
+<VAR_5> 0x1c5
+<VAR_6> 0x1c6
+<VAR_7> 0x1c7
+
+----------------------------|----------------------------------
+<VAR_0> 0x1c8
+<VAR_1> 0x1c9
+<VAR_2> 0x1ca
+<VAR_3> 0x1cb
+<VAR_4> 0x1cc
+<VAR_5> 0x1cd
+<VAR_6> 0x1ce
+<VAR_7> 0x1cf
+
+----------------------------|----------------------------------
+<VAR_0> 0x1d0
+<VAR_1> 0x1d1
+<VAR_2> 0x1d2
+<VAR_3> 0x1d3
+<VAR_4> 0x1d4
+<VAR_5> 0x1d5
+<VAR_6> 0x1d6
+<VAR_7> 0x1d7
+
+----------------------------|----------------------------------
+<VAR_0> 0x1d8
+<VAR_1> 0x1d9
+<VAR_2> 0x1da
+<VAR_3> 0x1db
+<VAR_4> 0x1dc
+<VAR_5> 0x1dd
+<VAR_6> 0x1de
+<VAR_7> 0x1df
+
+----------------------------|----------------------------------
+<VAR_0> 0x1e0
+<VAR_1> 0x1e1
+<VAR_2> 0x1e2
+<VAR_3> 0x1e3
+<VAR_4> 0x1e4
+<VAR_5> 0x1e5
+<VAR_6> 0x1e6
+<VAR_7> 0x1e7
+
+----------------------------|----------------------------------
+<VAR_0> 0x1e8
+<VAR_1> 0x1e9
+<VAR_2> 0x1ea
+<VAR_3> 0x1eb
+<VAR_4> 0x1ec
+<VAR_5> 0x1ed
+<VAR_6> 0x1ee
+<VAR_7> 0x1ef
+
+----------------------------|----------------------------------
+<VAR_0> 0x1f0
+<VAR_1> 0x1f1
+<VAR_2> 0x1f2
+<VAR_3> 0x1f3
+<VAR_4> 0x1f4
+<VAR_5> 0x1f5
+<VAR_6> 0x1f6
+<VAR_7> 0x1f7
+
+----------------------------|----------------------------------
+<VAR_0> 0x1f8
+<VAR_1> 0x1f9
+<VAR_2> 0x1fa
+<VAR_3> 0x1fb
+<VAR_4> 0x1fc
+<VAR_5> 0x1fd
+<VAR_6> 0x1fe
+<VAR_7> 0x1ff
+
+----------------------------|----------------------------------
+<VAR_0> <BLUE>-Not in use-</COLOR>
+<VAR_1> <BLUE>-Not in use-</COLOR>
+<VAR_2> <BLUE>-Not in use-</COLOR>
+<VAR_3> <BLUE>-Not in use-</COLOR>
+<VAR_4> <BLUE>-Not in use-</COLOR>
+<VAR_5> <BLUE>-Not in use-</COLOR>
+<VAR_6> <BLUE>-Not in use-</COLOR>
+<VAR_7> <BLUE>-Not in use-</COLOR>
+
+----------------------------|----------------------------------
+<VAR_0> <BLUE>-Not in use-</COLOR>
+<VAR_1> <BLUE>-Not in use-</COLOR>
+<VAR_2> <BLUE>-Not in use-</COLOR>
+<VAR_3> <BLUE>-Not in use-</COLOR>
+<VAR_4> <BLUE>-Not in use-</COLOR>
+<VAR_5> <BLUE>-Not in use-</COLOR>
+<VAR_6> <BLUE>-Not in use-</COLOR>
+<VAR_7> <BLUE>-Not in use-</COLOR>
+
+----------------------------|----------------------------------
+<VAR_0> <BLUE>-Not in use-</COLOR>
+<VAR_1> <BLUE>-Not in use-</COLOR>
+<VAR_2> <BLUE>-Not in use-</COLOR>
+<VAR_3> <BLUE>-Not in use-</COLOR>
+<VAR_4> <BLUE>-Not in use-</COLOR>
+<VAR_5> <BLUE>-Not in use-</COLOR>
+<VAR_6> <BLUE>-Not in use-</COLOR>
+<VAR_7> <BLUE>-Not in use-</COLOR>
+
+----------------------------|----------------------------------
+<VAR_0> <BLUE>-Not in use-</COLOR>
+<VAR_1> <BLUE>-Not in use-</COLOR>
+<VAR_2> <BLUE>-Not in use-</COLOR>
+<VAR_3> <BLUE>-Not in use-</COLOR>
+<VAR_4> <BLUE>-Not in use-</COLOR>
+<VAR_5> <BLUE>-Not in use-</COLOR>
+<VAR_6> <BLUE>-Not in use-</COLOR>
+<VAR_7> <BLUE>-Not in use-</COLOR>
+
+----------------------------|----------------------------------
+<VAR_0> <BLUE>-Not in use-</COLOR>
+<VAR_1> <BLUE>-Not in use-</COLOR>
+<VAR_2> <BLUE>-Not in use-</COLOR>
+<VAR_3> <BLUE>-Not in use-</COLOR>
+<VAR_4> <BLUE>-Not in use-</COLOR>
+<VAR_5> <BLUE>-Not in use-</COLOR>
+<VAR_6> <BLUE>-Not in use-</COLOR>
+<VAR_7> <BLUE>-Not in use-</COLOR>
+
+----------------------------|----------------------------------
+<VAR_0> <BLUE>-Not in use-</COLOR>
+<VAR_1> <BLUE>-Not in use-</COLOR>
+<VAR_2> <BLUE>-Not in use-</COLOR>
+<VAR_3> <BLUE>-Not in use-</COLOR>
+<VAR_4> <BLUE>-Not in use-</COLOR>
+<VAR_5> <BLUE>-Not in use-</COLOR>
+<VAR_6> <BLUE>-Not in use-</COLOR>
+<VAR_7> <BLUE>-Not in use-</COLOR>
+
+----------------------------|----------------------------------
+<VAR_0> <BLUE>-Not in use-</COLOR>
+<VAR_1> <BLUE>-Not in use-</COLOR>
+<VAR_2> <BLUE>-Not in use-</COLOR>
+<VAR_3> <BLUE>-Not in use-</COLOR>
+<VAR_4> <BLUE>-Not in use-</COLOR>
+<VAR_5> <BLUE>-Not in use-</COLOR>
+<VAR_6> <BLUE>-Not in use-</COLOR>
+<VAR_7> <BLUE>-Not in use-</COLOR>
+
+----------------------------|----------------------------------
+<VAR_0> <BLUE>-Not in use-</COLOR>
+<VAR_1> <BLUE>-Not in use-</COLOR>
+<VAR_2> <BLUE>-Not in use-</COLOR>
+<VAR_3> <BLUE>-Not in use-</COLOR>
+<VAR_4> <BLUE>-Not in use-</COLOR>
+<VAR_5> <BLUE>-Not in use-</COLOR>
+<VAR_6> <BLUE>-Not in use-</COLOR>
+<VAR_7> <BLUE>-Not in use-</COLOR>
+
+----------------------------|----------------------------------
+<VAR_0> Stayed at K. T Hall
+<VAR_1> Stay at B. T Hall
+<VAR_2> Stayed @ 2nd house
+<VAR_3> Stayed at THall Horse
+<VAR_4> Stayed at THall Cart
+<VAR_5> 0x245
+<VAR_6> 0x246
+<VAR_7> 0x247
+
+----------------------------|----------------------------------
+<VAR_0> 0x248
+<VAR_1> 0x249
+<VAR_2> 0x24a
+<VAR_3> 0x24b
+<VAR_4> 0x24c
+<VAR_5> 0x24d
+<VAR_6> 0x24e
+<VAR_7> 0x24f
+
+----------------------------|----------------------------------
+<VAR_0> 0x250
+<VAR_1> 0x251
+<VAR_2> 0x252
+<VAR_3> 0x253
+<VAR_4> 0x254
+<VAR_5> 0x255
+<VAR_6> 0x256
+<VAR_7> 0x257
+
+----------------------------|----------------------------------
+<VAR_0> 0x258
+<VAR_1> 0x259
+<VAR_2> 0x25a
+<VAR_3> 0x25b
+<VAR_4> 0x25c
+<VAR_5> 0x25d
+<VAR_6> 0x25e
+<VAR_7> 0x25f
+
+----------------------------|----------------------------------
+<VAR_0> 0x260
+<VAR_1> 0x261
+<VAR_2> 0x262
+<VAR_3> 0x263
+<VAR_4> 0x264
+<VAR_5> 0x265
+<VAR_6> 0x266
+<VAR_7> 0x267
+
+----------------------------|----------------------------------
+<VAR_0> 0x268
+<VAR_1> 0x269
+<VAR_2> 0x26a
+<VAR_3> 0x26b
+<VAR_4> 0x26c
+<VAR_5> 0x26d
+<VAR_6> 0x26e
+<VAR_7> 0x26f
+
+----------------------------|----------------------------------
+<VAR_0> 0x270
+<VAR_1> 0x271
+<VAR_2> 0x272
+<VAR_3> 0x273
+<VAR_4> 0x274
+<VAR_5> 0x275
+<VAR_6> 0x276
+<VAR_7> 0x277
+
+----------------------------|----------------------------------
+<VAR_0> 0x278
+<VAR_1> 0x279
+<VAR_2> 0x27a
+<VAR_3> 0x27b
+<VAR_4> 0x27c
+<VAR_5> 0x27d
+<VAR_6> 0x27e
+<VAR_7> 0x27f
+
+----------------------------|----------------------------------
+<VAR_0> <BLUE>-SYSTEM-</COLOR>
+<VAR_1> <BLUE>-SYSTEM-</COLOR>
+<VAR_2> <BLUE>-SYSTEM-</COLOR>
+<VAR_3> <BLUE>-SYSTEM-</COLOR>
+<VAR_4> <BLUE>-SYSTEM-</COLOR>
+<VAR_5> <BLUE>-SYSTEM-</COLOR>
+<VAR_6> <BLUE>-SYSTEM-</COLOR>
+<VAR_7> <BLUE>-SYSTEM-</COLOR>
+
+----------------------------|----------------------------------
+<VAR_0> <BLUE>-SYSTEM-</COLOR>
+<VAR_1> <BLUE>-SYSTEM-</COLOR>
+<VAR_2> <BLUE>-SYSTEM-</COLOR>
+<VAR_3> <BLUE>-SYSTEM-</COLOR>
+<VAR_4> <BLUE>-SYSTEM-</COLOR>
+<VAR_5> <BLUE>-SYSTEM-</COLOR>
+<VAR_6> <BLUE>-SYSTEM-</COLOR>
+<VAR_7> <BLUE>-SYSTEM-</COLOR>
+
+----------------------------|----------------------------------
+<VAR_0> <BLUE>-SYSTEM-</COLOR>
+<VAR_1> <BLUE>-SYSTEM-</COLOR>
+<VAR_2> 0x292
+<VAR_3> 0x293
+<VAR_4> <BLUE>-SYSTEM-</COLOR>
+<VAR_5> <BLUE>-SYSTEM-</COLOR>
+<VAR_6> <BLUE>-SYSTEM-</COLOR>
+<VAR_7> <BLUE>-SYSTEM-</COLOR>
+
+----------------------------|----------------------------------
+<VAR_0> <BLUE>-SYSTEM-</COLOR>
+<VAR_1> <BLUE>-SYSTEM-</COLOR>
+<VAR_2> <BLUE>-SYSTEM-</COLOR>
+<VAR_3> <BLUE>-SYSTEM-</COLOR>
+<VAR_4> <BLUE>-SYSTEM-</COLOR>
+<VAR_5> 0x29d
+<VAR_6> 0x29e
+<VAR_7> 0x29f
+
+----------------------------|----------------------------------
+<VAR_0> 0x2a0
+<VAR_1> 0x2a1
+<VAR_2> 0x2a2
+<VAR_3> 0x2a3
+<VAR_4> 0x2a4
+<VAR_5> 0x2a5
+<VAR_6> 0x2a6
+<VAR_7> 0x2a7
+
+----------------------------|----------------------------------
+<VAR_0> 0x2a8
+<VAR_1> 0x2a9
+<VAR_2> 0x2aa
+<VAR_3> 0x2ab
+<VAR_4> 0x2ac
+<VAR_5> 0x2ad
+<VAR_6> 0x2ae
+<VAR_7> 0x2af
+
+----------------------------|----------------------------------
+<VAR_0> 0x2b0
+<VAR_1> 0x2b1
+<VAR_2> 0x2b2
+<VAR_3> 0x2b3
+<VAR_4> 0x2b4
+<VAR_5> 0x2b5
+<VAR_6> 0x2b6
+<VAR_7> 0x2b7
+
+----------------------------|----------------------------------
+<VAR_0> 0x2b8
+<VAR_1> 0x2b9
+<VAR_2> 0x2ba
+<VAR_3> 0x2bb
+<VAR_4> 0x2bc
+<VAR_5> 0x2bd
+<VAR_6> 0x2be
+<VAR_7> 0x2bf
+
+----------------------------|----------------------------------
+<VAR_0> 0x2c0
+<VAR_1> 0x2c1
+<VAR_2> 0x2c2
+<VAR_3> 0x2c3
+<VAR_4> 0x2c4
+<VAR_5> 0x2c5
+<VAR_6> 0x2c6
+<VAR_7> 0x2c7
+
+----------------------------|----------------------------------
+<VAR_0> 0x2c8
+<VAR_1> 0x2c9
+<VAR_2> 0x2ca
+<VAR_3> 0x2cb
+<VAR_4> 0x2cc
+<VAR_5> 0x2cd
+<VAR_6> 0x2ce
+<VAR_7> 0x2cf
+
+----------------------------|----------------------------------
+<VAR_0> 0x2d0
+<VAR_1> 0x2d1
+<VAR_2> 0x2d2
+<VAR_3> 0x2d3
+<VAR_4> 0x2d4
+<VAR_5> 0x2d5
+<VAR_6> 0x2d6
+<VAR_7> 0x2d7
+
+----------------------------|----------------------------------
+<VAR_0> 0x2d8
+<VAR_1> 0x2d9
+<VAR_2> 0x2da
+<VAR_3> 0x2db
+<VAR_4> 0x2dc
+<VAR_5> 0x2dd
+<VAR_6> 0x2de
+<VAR_7> 0x2df
+
+----------------------------|----------------------------------
+<VAR_0> 0x2e0
+<VAR_1> 0x2e1
+<VAR_2> 0x2e2
+<VAR_3> 0x2e3
+<VAR_4> 0x2e4
+<VAR_5> 0x2e5
+<VAR_6> 0x2e6
+<VAR_7> 0x2e7
+
+----------------------------|----------------------------------
+<VAR_0> 0x2e8
+<VAR_1> 0x2e9
+<VAR_2> 0x2ea
+<VAR_3> 0x2eb
+<VAR_4> 0x2ec
+<VAR_5> 0x2ed
+<VAR_6> 0x2ee
+<VAR_7> 0x2ef
+
+----------------------------|----------------------------------
+<VAR_0> 0x2f0
+<VAR_1> 0x2f1
+<VAR_2> 0x2f2
+<VAR_3> 0x2f3
+<VAR_4> 0x2f4
+<VAR_5> 0x2f5
+<VAR_6> 0x2f6
+<VAR_7> 0x2f7
+
+----------------------------|----------------------------------
+<VAR_0> 0x2f8
+<VAR_1> 0x2f9
+<VAR_2> 0x2fa
+<VAR_3> 0x2fb
+<VAR_4> 0x2fc
+<VAR_5> 0x2fd
+<VAR_6> 0x2fe
+<VAR_7> 0x2ff
+
+----------------------------|----------------------------------
+<VAR_0> Make irrigation trench
+<VAR_1> 0x301
+<VAR_2> 0x302
+<VAR_3> 0x303
+<VAR_4> 0x304
+<VAR_5> 0x305
+<VAR_6> 0x306
+<VAR_7> 0x307
+
+----------------------------|----------------------------------
+<VAR_0> 0x308
+<VAR_1> 0x309
+<VAR_2> 0x30a
+<VAR_3> 0x30b
+<VAR_4> 0x30c
+<VAR_5> 1 if sunny or snowy
+<VAR_6> Had a wedding ceremony
+<VAR_7> Trigger animal death
+
+----------------------------|----------------------------------
+<VAR_0> Aanimal death 1=Sick 0=Age
+<VAR_1> Saw death event
+<VAR_2> Have a child
+<VAR_3> <BLUE>-SYSTEM-</COLOR>
+<VAR_4> Wedding day is set
+<VAR_5> 31 days after getting 
+<VAR_6> 0x316
+<VAR_7> 0x317
+
+----------------------------|----------------------------------
+<VAR_0> 0x318
+<VAR_1> 0x319
+<VAR_2> 0x31a
+<VAR_3> 0x31b
+<VAR_4> 0x31c
+<VAR_5> 0x31d
+<VAR_6> 0x31e
+<VAR_7> 0x31f
+
+----------------------------|----------------------------------
+<VAR_0> Cow Birth 1=Trigger
+<VAR_1> Jar Cow Birth 1=Trigger
+<VAR_2> Sheep Birth 1=Trigger
+<VAR_3> Black Sheep Birth 1=Trig
+<VAR_4> Chicken Egg 1=Trigger
+<VAR_5> Black Chicken Egg 1=Trig
+<VAR_6> Finished Birth Event
+<VAR_7> 0x327
+
+----------------------------|----------------------------------
+<VAR_0> 0x328
+<VAR_1> 0x329
+<VAR_2> 0x32a
+<VAR_3> 0x32b
+<VAR_4> 0x32c
+<VAR_5> 0x32d
+<VAR_6> 0x32e
+<VAR_7> 0x32f
+
+----------------------------|----------------------------------
+<VAR_0> 0x330
+<VAR_1> 0x331
+<VAR_2> 0x332
+<VAR_3> 0x333
+<VAR_4> 0x334
+<VAR_5> 0x335
+<VAR_6> 0x336
+<VAR_7> 0x337
+
+----------------------------|----------------------------------
+<VAR_0> 0x338
+<VAR_1> 0x339
+<VAR_2> 0x33a
+<VAR_3> 0x33b
+<VAR_4> 0x33c
+<VAR_5> 0x33d
+<VAR_6> 0x33e
+<VAR_7> 0x33f
+
+----------------------------|----------------------------------
+<VAR_0> <BLUE>-SYSTEM-</COLOR>
+<VAR_1> <BLUE>-SYSTEM-</COLOR>
+<VAR_2> 0x342
+<VAR_3> 0x343
+<VAR_4> 0x344
+<VAR_5> 0x345
+<VAR_6> 0x346
+<VAR_7> 0x347
+
+----------------------------|----------------------------------
+<VAR_0> 0x348
+<VAR_1> 0x349
+<VAR_2> 0x34a
+<VAR_3> 0x34b
+<VAR_4> 0x34c
+<VAR_5> 0x34d
+<VAR_6> 0x34e
+<VAR_7> 0x34f
+
+----------------------------|----------------------------------
+<VAR_0> 0x350
+<VAR_1> 0x351
+<VAR_2> 0x352
+<VAR_3> 0x353
+<VAR_4> 0x354
+<VAR_5> 0x355
+<VAR_6> 0x356
+<VAR_7> 0x357
+
+----------------------------|----------------------------------
+<VAR_0> 0x358
+<VAR_1> 0x359
+<VAR_2> 0x35a
+<VAR_3> 0x35b
+<VAR_4> 0x35c
+<VAR_5> 0x35d
+<VAR_6> 0x35e
+<VAR_7> 0x35f
+
+----------------------------|----------------------------------
+<VAR_0> 0x360
+<VAR_1> 0x361
+<VAR_2> 0x362
+<VAR_3> 0x363
+<VAR_4> 0x364
+<VAR_5> 0x365
+<VAR_6> 0x366
+<VAR_7> 0x367
+
+----------------------------|----------------------------------
+<VAR_0> 0x368
+<VAR_1> 0x369
+<VAR_2> 0x36a
+<VAR_3> 0x36b
+<VAR_4> 0x36c
+<VAR_5> 0x36d
+<VAR_6> 0x36e
+<VAR_7> 0x36f
+
+----------------------------|----------------------------------
+<VAR_0> 0x370
+<VAR_1> 0x371
+<VAR_2> 0x372
+<VAR_3> 0x373
+<VAR_4> 0x374
+<VAR_5> 0x375
+<VAR_6> 0x376
+<VAR_7> 0x377
+
+----------------------------|----------------------------------
+<VAR_0> 0x378
+<VAR_1> 0x379
+<VAR_2> 0x37a
+<VAR_3> 0x37b
+<VAR_4> 0x37c
+<VAR_5> 0x37d
+<VAR_6> 0x37e
+<VAR_7> 0x37f
+
+----------------------------|----------------------------------
+<VAR_0> 0x380
+<VAR_1> 0x381
+<VAR_2> 0x382
+<VAR_3> 0x383
+<VAR_4> 0x384
+<VAR_5> 0x385
+<VAR_6> 0x386
+<VAR_7> 0x387
+
+----------------------------|----------------------------------
+<VAR_0> 0x388
+<VAR_1> 0x389
+<VAR_2> 0x38a
+<VAR_3> 0x38b
+<VAR_4> 0x38c
+<VAR_5> 0x38d
+<VAR_6> 0x38e
+<VAR_7> 0x38f
+
+----------------------------|----------------------------------
+<VAR_0> 0x390
+<VAR_1> 0x391
+<VAR_2> 0x392
+<VAR_3> 0x393
+<VAR_4> 0x394
+<VAR_5> 0x395
+<VAR_6> 0x396
+<VAR_7> 0x397
+
+----------------------------|----------------------------------
+<VAR_0> 0x398
+<VAR_1> 0x399
+<VAR_2> 0x39a
+<VAR_3> 0x39b
+<VAR_4> 0x39c
+<VAR_5> 0x39d
+<VAR_6> 0x39e
+<VAR_7> 0x39f
+
+----------------------------|----------------------------------
+<VAR_0> 0x3a0
+<VAR_1> 0x3a1
+<VAR_2> 0x3a2
+<VAR_3> 0x3a3
+<VAR_4> 0x3a4
+<VAR_5> 0x3a5
+<VAR_6> 0x3a6
+<VAR_7> 0x3a7
+
+----------------------------|----------------------------------
+<VAR_0> 0x3a8
+<VAR_1> 0x3a9
+<VAR_2> 0x3aa
+<VAR_3> 0x3ab
+<VAR_4> 0x3ac
+<VAR_5> 0x3ad
+<VAR_6> 0x3ae
+<VAR_7> 0x3af
+
+----------------------------|----------------------------------
+<VAR_0> 0x3b0
+<VAR_1> 0x3b1
+<VAR_2> 0x3b2
+<VAR_3> 0x3b3
+<VAR_4> <BLUE>-SYSTEM-</COLOR>
+<VAR_5> <BLUE>-SYSTEM-</COLOR>
+<VAR_6> <BLUE>-SYSTEM-</COLOR>
+<VAR_7> <BLUE>-SYSTEM-</COLOR>
+
+----------------------------|----------------------------------
+<VAR_0> <BLUE>-SYSTEM-</COLOR>
+<VAR_1> <BLUE>-SYSTEM-</COLOR>
+<VAR_2> <BLUE>-SYSTEM-</COLOR>
+<VAR_3> <BLUE>-SYSTEM-</COLOR>
+<VAR_4> <BLUE>-SYSTEM-</COLOR>
+<VAR_5> <BLUE>-SYSTEM-</COLOR>
+<VAR_6> <BLUE>-SYSTEM-</COLOR>
+<VAR_7> <BLUE>-SYSTEM-</COLOR>
+
+----------------------------|----------------------------------
+<VAR_0> <BLUE>-SYSTEM-</COLOR>
+<VAR_1> <BLUE>-SYSTEM-</COLOR>
+<VAR_2> 0x3c2
+<VAR_3> Thanks from Mouse 1=Trig
+<VAR_4> Thanks from Sparrow 1=Trig
+<VAR_5> Thanks from Rabbit 1=Trig
+<VAR_6> Thanks from Monkey 1=Trig
+<VAR_7> Thanks from Racoon 1=Trig
+
+----------------------------|----------------------------------
+<VAR_0> Thanks from Weasel 1=Trig
+<VAR_1> Thanks from Fox 1=Trigger
+<VAR_2> Thanks from Boar 1=Trigger
+<VAR_3> Thanks from Bear 1=Trigger
+<VAR_4> Thanks from Panda 1=Trig
+<VAR_5> Thanks from Duck 1=Trigger
+<VAR_6> Trigger Move Event
+<VAR_7> Can't Move
+
+----------------------------|----------------------------------
+<VAR_0> Animal switch while moving
+<VAR_1> 0x3d1
+<VAR_2> 0x3d2
+<VAR_3> 0x3d3
+<VAR_4> 0x3d4
+<VAR_5> 0x3d5
+<VAR_6> 0x3d6
+<VAR_7> 0x3d7
+
+----------------------------|----------------------------------
+<VAR_0> 0x3d8
+<VAR_1> 0x3d9
+<VAR_2> 0x3da
+<VAR_3> 0x3db
+<VAR_4> 0x3dc
+<VAR_5> 0x3dd
+<VAR_6> 0x3de
+<VAR_7> 0x3df
+
+----------------------------|----------------------------------
+<VAR_0> 0x3e0
+<VAR_1> 0x3e1
+<VAR_2> 0x3e2
+<VAR_3> 0x3e3
+<VAR_4> 0x3e4
+<VAR_5> 0x3e5
+<VAR_6> 0x3e6
+<VAR_7> 0x3e7
+
+----------------------------|----------------------------------
+<VAR_0> 0x3e8
+<VAR_1> 0x3e9
+<VAR_2> 0x3ea
+<VAR_3> 0x3eb
+<VAR_4> 0x3ec
+<VAR_5> 0x3ed
+<VAR_6> 0x3ee
+<VAR_7> 0x3ef
+
+----------------------------|----------------------------------
+<VAR_0> 0x3f0
+<VAR_1> 0x3f1
+<VAR_2> 0x3f2
+<VAR_3> 0x3f3
+<VAR_4> 0x3f4
+<VAR_5> 0x3f5
+<VAR_6> 0x3f6
+<VAR_7> 0x3f7
+
+----------------------------|----------------------------------
+<VAR_0> 0x3f8
+<VAR_1> 0x3f9
+<VAR_2> 0x3fa
+<VAR_3> 0x3fb
+<VAR_4> 0x3fc
+<VAR_5> 0x3fd
+<VAR_6> 0x3fe
+<VAR_7> 0x3ff
+
+----------------------------|----------------------------------
+<VAR_0> <BLUE>-SYSTEM-</COLOR>
+<VAR_1> <BLUE>-SYSTEM-</COLOR>
+<VAR_2> <BLUE>-SYSTEM-</COLOR>
+<VAR_3> <BLUE>-SYSTEM-</COLOR>
+<VAR_4> Yun wins at Cook Fes
+<VAR_5> Town Hall Start
+<VAR_6> Didn't go to Cook Fes
+<VAR_7> Tunnel Request Cook Fes
+
+----------------------------|----------------------------------
+<VAR_0> 0x408
+<VAR_1> 0x409
+<VAR_2> 0x40a
+<VAR_3> 0x40b
+<VAR_4> 0x40c
+<VAR_5> 0x40d
+<VAR_6> 0x40e
+<VAR_7> 0x40f
+
+----------------------------|----------------------------------
+<VAR_0> 0x410
+<VAR_1> 0x411
+<VAR_2> 0x412
+<VAR_3> 0x413
+<VAR_4> 0x414
+<VAR_5> 0x415
+<VAR_6> 0x416
+<VAR_7> 0x417
+
+----------------------------|----------------------------------
+<VAR_0> 0x418
+<VAR_1> 0x419
+<VAR_2> 0x41a
+<VAR_3> 0x41b
+<VAR_4> 0x41c
+<VAR_5> 0x41d
+<VAR_6> 0x41e
+<VAR_7> 0x41f
+
+----------------------------|----------------------------------
+<VAR_0> 0x420
+<VAR_1> 0x421
+<VAR_2> 0x422
+<VAR_3> 0x423
+<VAR_4> 0x424
+<VAR_5> 0x425
+<VAR_6> 0x426
+<VAR_7> 0x427
+
+----------------------------|----------------------------------
+<VAR_0> 0x428
+<VAR_1> 0x429
+<VAR_2> 0x42a
+<VAR_3> 0x42b
+<VAR_4> 0x42c
+<VAR_5> 0x42d
+<VAR_6> 0x42e
+<VAR_7> 0x42f
+
+----------------------------|----------------------------------
+<VAR_0> 0x430
+<VAR_1> 0x431
+<VAR_2> 0x432
+<VAR_3> 0x433
+<VAR_4> 0x434
+<VAR_5> 0x435
+<VAR_6> 0x436
+<VAR_7> 0x437
+
+----------------------------|----------------------------------
+<VAR_0> 0x438
+<VAR_1> 0x439
+<VAR_2> 0x43a
+<VAR_3> 0x43b
+<VAR_4> 0x43c
+<VAR_5> 0x43d
+<VAR_6> 0x43e
+<VAR_7> 0x43f
+
+----------------------------|----------------------------------
+<VAR_0> 0x440
+<VAR_1> 0x441
+<VAR_2> 0x442
+<VAR_3> 0x443
+<VAR_4> 0x444
+<VAR_5> 0x445
+<VAR_6> 0x446
+<VAR_7> 0x447
+
+----------------------------|----------------------------------
+<VAR_0> 0x448
+<VAR_1> 0x449
+<VAR_2> 0x44a
+<VAR_3> 0x44b
+<VAR_4> 0x44c
+<VAR_5> 0x44d
+<VAR_6> 0x44e
+<VAR_7> 0x44f
+
+----------------------------|----------------------------------
+<VAR_0> 0x450
+<VAR_1> 0x451
+<VAR_2> 0x452
+<VAR_3> 0x453
+<VAR_4> 0x454
+<VAR_5> 0x455
+<VAR_6> 0x456
+<VAR_7> 0x457
+
+----------------------------|----------------------------------
+<VAR_0> 0x458
+<VAR_1> 0x459
+<VAR_2> 0x45a
+<VAR_3> 0x45b
+<VAR_4> 0x45c
+<VAR_5> 0x45d
+<VAR_6> 0x45e
+<VAR_7> 0x45f
+
+----------------------------|----------------------------------
+<VAR_0> 0x460
+<VAR_1> 0x461
+<VAR_2> 0x462
+<VAR_3> 0x463
+<VAR_4> 0x464
+<VAR_5> 0x465
+<VAR_6> 0x466
+<VAR_7> 0x467
+
+----------------------------|----------------------------------
+<VAR_0> 0x468
+<VAR_1> 0x469
+<VAR_2> 0x46a
+<VAR_3> 0x46b
+<VAR_4> 0x46c
+<VAR_5> 0x46d
+<VAR_6> 0x46e
+<VAR_7> 0x46f
+
+----------------------------|----------------------------------
+<VAR_0> 0x470
+<VAR_1> 0x471
+<VAR_2> 0x472
+<VAR_3> 0x473
+<VAR_4> 0x474
+<VAR_5> 0x475
+<VAR_6> 0x476
+<VAR_7> 0x477
+
+----------------------------|----------------------------------
+<VAR_0> 0x478
+<VAR_1> 0x479
+<VAR_2> 0x47a
+<VAR_3> 0x47b
+<VAR_4> 0x47c
+<VAR_5> 0x47d
+<VAR_6> 0x47e
+<VAR_7> 0x47f
+
+----------------------------|----------------------------------
+<VAR_0> 0x480
+<VAR_1> 0x481
+<VAR_2> 0x482
+<VAR_3> 0x483
+<VAR_4> 0x484
+<VAR_5> 0x485
+<VAR_6> 0x486
+<VAR_7> 0x487
+
+----------------------------|----------------------------------
+<VAR_0> 0x488
+<VAR_1> 0x489
+<VAR_2> 0x48a
+<VAR_3> 0x48b
+<VAR_4> 0x48c
+<VAR_5> 0x48d
+<VAR_6> 0x48e
+<VAR_7> 0x48f
+
+----------------------------|----------------------------------
+<VAR_0> 0x490
+<VAR_1> 0x491
+<VAR_2> 0x492
+<VAR_3> 0x493
+<VAR_4> 0x494
+<VAR_5> 0x495
+<VAR_6> 0x496
+<VAR_7> 0x497
+
+----------------------------|----------------------------------
+<VAR_0> 0x498
+<VAR_1> 0x499
+<VAR_2> 0x49a
+<VAR_3> 0x49b
+<VAR_4> 0x49c
+<VAR_5> 0x49d
+<VAR_6> 0x49e
+<VAR_7> 0x49f
+
+----------------------------|----------------------------------
+<VAR_0> 0x4a0
+<VAR_1> 0x4a1
+<VAR_2> 0x4a2
+<VAR_3> 0x4a3
+<VAR_4> 0x4a4
+<VAR_5> 0x4a5
+<VAR_6> 0x4a6
+<VAR_7> 0x4a7
+
+----------------------------|----------------------------------
+<VAR_0> 0x4a8
+<VAR_1> 0x4a9
+<VAR_2> 0x4aa
+<VAR_3> 0x4ab
+<VAR_4> 0x4ac
+<VAR_5> 0x4ad
+<VAR_6> 0x4ae
+<VAR_7> 0x4af
+
+----------------------------|----------------------------------
+<VAR_0> 0x4b0
+<VAR_1> 0x4b1
+<VAR_2> 0x4b2
+<VAR_3> 0x4b3
+<VAR_4> 0x4b4
+<VAR_5> 0x4b5
+<VAR_6> 0x4b6
+<VAR_7> 0x4b7
+
+----------------------------|----------------------------------
+<VAR_0> Pumpkin Festival (Cheryl)
+<VAR_1> Pumpkin Festival (Child)
+<VAR_2> Harmony Day (Ash)
+<VAR_3> Harmony Day (Cam)
+<VAR_4> Harmony Day (Mikhail)
+<VAR_5> Harmony Day (Laney)
+<VAR_6> Harmony Day (Georgia)
+<VAR_7> Harmony (Alisa)
+
+----------------------------|----------------------------------
+<VAR_0> 0x4c0
+<VAR_1> 0x4c1
+<VAR_2> 0x4c2
+<VAR_3> 0x4c3
+<VAR_4> 0x4c4
+<VAR_5> 0x4c5
+<VAR_6> 0x4c6
+<VAR_7> 0x4c7
+
+----------------------------|----------------------------------
+<VAR_0> 0x4c8
+<VAR_1> 0x4c9
+<VAR_2> 0x4ca
+<VAR_3> 0x4cb
+<VAR_4> 0x4cc
+<VAR_5> 0x4cd
+<VAR_6> 0x4ce
+<VAR_7> 0x4cf
+
+----------------------------|----------------------------------
+<VAR_0> 0x4d0
+<VAR_1> 0x4d1
+<VAR_2> 0x4d2
+<VAR_3> 0x4d3
+<VAR_4> 0x4d4
+<VAR_5> 0x4d5
+<VAR_6> 0x4d6
+<VAR_7> 0x4d7
+
+----------------------------|----------------------------------
+<VAR_0> 0x4d8
+<VAR_1> 0x4d9
+<VAR_2> 0x4da
+<VAR_3> 0x4db
+<VAR_4> 0x4dc
+<VAR_5> 0x4dd
+<VAR_6> 0x4de
+<VAR_7> 0x4df
+
+----------------------------|----------------------------------
+<VAR_0> 0x4e0
+<VAR_1> 0x4e1
+<VAR_2> 0x4e2
+<VAR_3> 0x4e3
+<VAR_4> 0x4e4
+<VAR_5> 0x4e5
+<VAR_6> 0x4e6
+<VAR_7> 0x4e7
+
+----------------------------|----------------------------------
+<VAR_0> 0x4e8
+<VAR_1> 0x4e9
+<VAR_2> 0x4ea
+<VAR_3> 0x4eb
+<VAR_4> 0x4ec
+<VAR_5> 0x4ed
+<VAR_6> 0x4ee
+<VAR_7> 0x4ef
+
+----------------------------|----------------------------------
+<VAR_0> 0x4f0
+<VAR_1> 0x4f1
+<VAR_2> 0x4f2
+<VAR_3> 0x4f3
+<VAR_4> 0x4f4
+<VAR_5> 0x4f5
+<VAR_6> 0x4f6
+<VAR_7> 0x4f7
+
+----------------------------|----------------------------------
+<VAR_0> 0x4f8
+<VAR_1> 0x4f9
+<VAR_2> 0x4fa
+<VAR_3> 0x4fb
+<VAR_4> 0x4fc
+<VAR_5> 0x4fd
+<VAR_6> 0x4fe
+<VAR_7> 0x4ff
+
+----------------------------|----------------------------------
+<VAR_0> Ayame's Favorite
+<VAR_1> Big Panda?!
+<VAR_2> Bigger Panda
+<VAR_3> Thinking of Parents
+<VAR_4> Rahi and Ying
+<VAR_5> Yun's Husband
+<VAR_6> Mayor's Dignity
+<VAR_7> Want to Play with Kids!
+
+----------------------------|----------------------------------
+<VAR_0> Reina is Talking to Plants
+<VAR_1> Invitation from Ash
+<VAR_2> <BLUE>x Gone x</COLOR>
+<VAR_3> Requested Flower
+<VAR_4> <BLUE>x Gone x</COLOR>
+<VAR_5> <BLUE>x Gone x×</COLOR>
+<VAR_6> Horse Lovers
+<VAR_7> <BLUE>x Gone x</COLOR>
+
+----------------------------|----------------------------------
+<VAR_0> Studying to be a doctor
+<VAR_1> Happy Family
+<VAR_2> Fathers' Concern
+<VAR_3> Encounter with Kitten
+<VAR_4> Girl's Mind
+<VAR_5> Happy Old Couple
+<VAR_6> Floral Language
+<VAR_7> Monument in Bluebell
+
+----------------------------|----------------------------------
+<VAR_0> Reliable Brother
+<VAR_1> Grady and Pet
+<VAR_2> Magician Rutger
+<VAR_3> Mikhail in Town
+<VAR_4> Nathan in Town
+<VAR_5> Harvest Goddess Pond
+<VAR_6> No matter how many time
+<VAR_7> Carpenter Eileen
+
+----------------------------|----------------------------------
+<VAR_0> Welcome Back, Mikhail
+<VAR_1> Mikhail's Journey
+<VAR_2> I didn't mean to...
+<VAR_3> To Be a Doctor
+<VAR_4> Nathan and Alisa
+<VAR_5> True Sound
+<VAR_6> Goofy Oracle
+<VAR_7> Oracle's name
+
+----------------------------|----------------------------------
+<VAR_0> Time with Family
+<VAR_1> Foot Racing with Kids
+<VAR_2> Taking a Bath with Kids
+<VAR_3> Always Late
+<VAR_4> <BLUE>-DUMMY-</COLOR>
+<VAR_5> <BLUE>-DUMMY-</COLOR>
+<VAR_6> <BLUE>-DUMMY-</COLOR>
+<VAR_7> <BLUE>-DUMMY-</COLOR>
+
+----------------------------|----------------------------------
+<VAR_0> <BLUE>-DUMMY-</COLOR>
+<VAR_1> <BLUE>-DUMMY-</COLOR>
+<VAR_2> <BLUE>-DUMMY-</COLOR>
+<VAR_3> <BLUE>-DUMMY-</COLOR>
+<VAR_4> <BLUE>-DUMMY-</COLOR>
+<VAR_5> <BLUE>-DUMMY-</COLOR>
+<VAR_6> <BLUE>-DUMMY-</COLOR>
+<VAR_7> <BLUE>-DUMMY-</COLOR>
+
+----------------------------|----------------------------------
+<VAR_0> <BLUE>-DUMMY-</COLOR>
+<VAR_1> <BLUE>-DUMMY-</COLOR>
+<VAR_2> <BLUE>-DUMMY-</COLOR>
+<VAR_3> <BLUE>-DUMMY-</COLOR>
+<VAR_4> <BLUE>-DUMMY-</COLOR>
+<VAR_5> <BLUE>-DUMMY-</COLOR>
+<VAR_6> <BLUE>-DUMMY-</COLOR>
+<VAR_7> <BLUE>-DUMMY-</COLOR>
+
+----------------------------|----------------------------------
+<VAR_0> <BLUE>-DUMMY-</COLOR>
+<VAR_1> <BLUE>-DUMMY-</COLOR>
+<VAR_2> <BLUE>-DUMMY-</COLOR>
+<VAR_3> <BLUE>-DUMMY-</COLOR>
+<VAR_4> <BLUE>-DUMMY-</COLOR>
+<VAR_5> <BLUE>-DUMMY-</COLOR>
+<VAR_6> <BLUE>-DUMMY-</COLOR>
+<VAR_7> <BLUE>-DUMMY-</COLOR>
+
+----------------------------|----------------------------------
+<VAR_0> <BLUE>-DUMMY-</COLOR>
+<VAR_1> <BLUE>-DUMMY-</COLOR>
+<VAR_2> <BLUE>-DUMMY-</COLOR>
+<VAR_3> <BLUE>-DUMMY-</COLOR>
+<VAR_4> <BLUE>-DUMMY-</COLOR>
+<VAR_5> <BLUE>-DUMMY-</COLOR>
+<VAR_6> <BLUE>-DUMMY-</COLOR>
+<VAR_7> <BLUE>-DUMMY-</COLOR>
+
+----------------------------|----------------------------------
+<VAR_0> <BLUE>-DUMMY-</COLOR>
+<VAR_1> <BLUE>-DUMMY-</COLOR>
+<VAR_2> <BLUE>-DUMMY-</COLOR>
+<VAR_3> <BLUE>-DUMMY-</COLOR>
+<VAR_4> <BLUE>-DUMMY-</COLOR>
+<VAR_5> <BLUE>-DUMMY-</COLOR>
+<VAR_6> <BLUE>-DUMMY-</COLOR>
+<VAR_7> <BLUE>-DUMMY-</COLOR>
+
+----------------------------|----------------------------------
+<VAR_0> <BLUE>-DUMMY-</COLOR>
+<VAR_1> <BLUE>-DUMMY-</COLOR>
+<VAR_2> <BLUE>-DUMMY-</COLOR>
+<VAR_3> <BLUE>-DUMMY-</COLOR>
+<VAR_4> <BLUE>-DUMMY-</COLOR>
+<VAR_5> <BLUE>-DUMMY-</COLOR>
+<VAR_6> <BLUE>-DUMMY-</COLOR>
+<VAR_7> <BLUE>-DUMMY-</COLOR>
+
+----------------------------|----------------------------------
+<VAR_0> <BLUE>-DUMMY-</COLOR>
+<VAR_1> <BLUE>-DUMMY-</COLOR>
+<VAR_2> <BLUE>-DUMMY-</COLOR>
+<VAR_3> <BLUE>-DUMMY-</COLOR>
+<VAR_4> <BLUE>-DUMMY-</COLOR>
+<VAR_5> <BLUE>-DUMMY-</COLOR>
+<VAR_6> <BLUE>-DUMMY-</COLOR>
+<VAR_7> <BLUE>-DUMMY-</COLOR>
+
+----------------------------|----------------------------------
+<VAR_0> <BLUE>-DUMMY-</COLOR>
+<VAR_1> <BLUE>-DUMMY-</COLOR>
+<VAR_2> <BLUE>-DUMMY-</COLOR>
+<VAR_3> <BLUE>-DUMMY-</COLOR>
+<VAR_4> <BLUE>-DUMMY-</COLOR>
+<VAR_5> <BLUE>-DUMMY-</COLOR>
+<VAR_6> <BLUE>-DUMMY-</COLOR>
+<VAR_7> <BLUE>-DUMMY-</COLOR>
+
+----------------------------|----------------------------------
+<VAR_0> <BLUE>-DUMMY-</COLOR>
+<VAR_1> <BLUE>-DUMMY-</COLOR>
+<VAR_2> <BLUE>-DUMMY-</COLOR>
+<VAR_3> <BLUE>-DUMMY-</COLOR>
+<VAR_4> <BLUE>-DUMMY-</COLOR>
+<VAR_5> <BLUE>-DUMMY-</COLOR>
+<VAR_6> <BLUE>-DUMMY-</COLOR>
+<VAR_7> <BLUE>-DUMMY-</COLOR>
+
+----------------------------|----------------------------------
+<VAR_0> <BLUE>-DUMMY-</COLOR>
+<VAR_1> <BLUE>-DUMMY-</COLOR>
+<VAR_2> <BLUE>-DUMMY-</COLOR>
+<VAR_3> <BLUE>-DUMMY-</COLOR>
+<VAR_4> <BLUE>-DUMMY-</COLOR>
+<VAR_5> <BLUE>-DUMMY-</COLOR>
+<VAR_6> <BLUE>-DUMMY-</COLOR>
+<VAR_7> <BLUE>-DUMMY-</COLOR>
+
+----------------------------|----------------------------------
+<VAR_0> <BLUE>-DUMMY-</COLOR>
+<VAR_1> <BLUE>-DUMMY-</COLOR>
+<VAR_2> <BLUE>-DUMMY-</COLOR>
+<VAR_3> <BLUE>-DUMMY-</COLOR>
+<VAR_4> <BLUE>-DUMMY-</COLOR>
+<VAR_5> <BLUE>-DUMMY-</COLOR>
+<VAR_6> <BLUE>-DUMMY-</COLOR>
+<VAR_7> <BLUE>-DUMMY-</COLOR>
+
+----------------------------|----------------------------------
+<VAR_0> <BLUE>-DUMMY-</COLOR>
+<VAR_1> <BLUE>-DUMMY-</COLOR>
+<VAR_2> <BLUE>-DUMMY-</COLOR>
+<VAR_3> <BLUE>-DUMMY-</COLOR>
+<VAR_4> <BLUE>-DUMMY-</COLOR>
+<VAR_5> <BLUE>-DUMMY-</COLOR>
+<VAR_6> <BLUE>-DUMMY-</COLOR>
+<VAR_7> <BLUE>-DUMMY-</COLOR>
+
+----------------------------|----------------------------------
+<VAR_0> <BLUE>-DUMMY-</COLOR>
+<VAR_1> <BLUE>-DUMMY-</COLOR>
+<VAR_2> <BLUE>-DUMMY-</COLOR>
+<VAR_3> <BLUE>-DUMMY-</COLOR>
+<VAR_4> <BLUE>-DUMMY-</COLOR>
+<VAR_5> <BLUE>-DUMMY-</COLOR>
+<VAR_6> <BLUE>-DUMMY-</COLOR>
+<VAR_7> <BLUE>-DUMMY-</COLOR>
+
+----------------------------|----------------------------------
+<VAR_0> <BLUE>-DUMMY-</COLOR>
+<VAR_1> <BLUE>-DUMMY-</COLOR>
+<VAR_2> <BLUE>-DUMMY-</COLOR>
+<VAR_3> <BLUE>-DUMMY-</COLOR>
+<VAR_4> <BLUE>-DUMMY-</COLOR>
+<VAR_5> <BLUE>-DUMMY-</COLOR>
+<VAR_6> <BLUE>-DUMMY-</COLOR>
+<VAR_7> <BLUE>-DUMMY-</COLOR>
+
+----------------------------|----------------------------------
+<VAR_0> <BLUE>-DUMMY-</COLOR>
+<VAR_1> <BLUE>-DUMMY-</COLOR>
+<VAR_2> <BLUE>-DUMMY-</COLOR>
+<VAR_3> <BLUE>-DUMMY-</COLOR>
+<VAR_4> <BLUE>-DUMMY-</COLOR>
+<VAR_5> <BLUE>-DUMMY-</COLOR>
+<VAR_6> <BLUE>-DUMMY-</COLOR>
+<VAR_7> <BLUE>-DUMMY-</COLOR>
+
+----------------------------|----------------------------------
+<VAR_0> <BLUE>-DUMMY-</COLOR>
+<VAR_1> <BLUE>-DUMMY-</COLOR>
+<VAR_2> <BLUE>-DUMMY-</COLOR>
+<VAR_3> <BLUE>-DUMMY-</COLOR>
+<VAR_4> <BLUE>-DUMMY-</COLOR>
+<VAR_5> <BLUE>-DUMMY-</COLOR>
+<VAR_6> <BLUE>-DUMMY-</COLOR>
+<VAR_7> <BLUE>-DUMMY-</COLOR>
+
+----------------------------|----------------------------------
+<VAR_0> <BLUE>-DUMMY-</COLOR>
+<VAR_1> <BLUE>-DUMMY-</COLOR>
+<VAR_2> <BLUE>-DUMMY-</COLOR>
+<VAR_3> <BLUE>-DUMMY-</COLOR>
+<VAR_4> <BLUE>-DUMMY-</COLOR>
+<VAR_5> <BLUE>-DUMMY-</COLOR>
+<VAR_6> <BLUE>-DUMMY-</COLOR>
+<VAR_7> <BLUE>-DUMMY-</COLOR>
+
+----------------------------|----------------------------------
+<VAR_0> <BLUE>-DUMMY-</COLOR>
+<VAR_1> <BLUE>-DUMMY-</COLOR>
+<VAR_2> <BLUE>-DUMMY-</COLOR>
+<VAR_3> <BLUE>-DUMMY-</COLOR>
+<VAR_4> <BLUE>-DUMMY-</COLOR>
+<VAR_5> <BLUE>-DUMMY-</COLOR>
+<VAR_6> <BLUE>-DUMMY-</COLOR>
+<VAR_7> <BLUE>-DUMMY-</COLOR>
+
+----------------------------|----------------------------------
+<VAR_0> <BLUE>-DUMMY-</COLOR>
+<VAR_1> <BLUE>-DUMMY-</COLOR>
+<VAR_2> <BLUE>-DUMMY-</COLOR>
+<VAR_3> <BLUE>-DUMMY-</COLOR>
+<VAR_4> <BLUE>-DUMMY-</COLOR>
+<VAR_5> <BLUE>-DUMMY-</COLOR>
+<VAR_6> <BLUE>-DUMMY-</COLOR>
+<VAR_7> <BLUE>-DUMMY-</COLOR>
+
+----------------------------|----------------------------------
+<VAR_0> <BLUE>-DUMMY-</COLOR>
+<VAR_1> <BLUE>-DUMMY-</COLOR>
+<VAR_2> <BLUE>-DUMMY-</COLOR>
+<VAR_3> <BLUE>-DUMMY-</COLOR>
+<VAR_4> <BLUE>-DUMMY-</COLOR>
+<VAR_5> <BLUE>-DUMMY-</COLOR>
+<VAR_6> <BLUE>-DUMMY-</COLOR>
+<VAR_7> <BLUE>-DUMMY-</COLOR>
+
+----------------------------|----------------------------------
+<VAR_0> <BLUE>-DUMMY-</COLOR>
+<VAR_1> <BLUE>-DUMMY-</COLOR>
+<VAR_2> <BLUE>-DUMMY-</COLOR>
+<VAR_3> <BLUE>-DUMMY-</COLOR>
+<VAR_4> <BLUE>-DUMMY-</COLOR>
+<VAR_5> <BLUE>-DUMMY-</COLOR>
+<VAR_6> <BLUE>-DUMMY-</COLOR>
+<VAR_7> <BLUE>-DUMMY-</COLOR>
+
+----------------------------|----------------------------------
+<VAR_0> <BLUE>-DUMMY-</COLOR>
+<VAR_1> <BLUE>-DUMMY-</COLOR>
+<VAR_2> <BLUE>-DUMMY-</COLOR>
+<VAR_3> <BLUE>-DUMMY-</COLOR>
+<VAR_4> <BLUE>-DUMMY-</COLOR>
+<VAR_5> <BLUE>-DUMMY-</COLOR>
+<VAR_6> <BLUE>-DUMMY-</COLOR>
+<VAR_7> <BLUE>-DUMMY-</COLOR>
+
+----------------------------|----------------------------------
+<VAR_0> <BLUE>-DUMMY-</COLOR>
+<VAR_1> <BLUE>-DUMMY-</COLOR>
+<VAR_2> <BLUE>-DUMMY-</COLOR>
+<VAR_3> <BLUE>-DUMMY-</COLOR>
+<VAR_4> <BLUE>-DUMMY-</COLOR>
+<VAR_5> <BLUE>-DUMMY-</COLOR>
+<VAR_6> <BLUE>-DUMMY-</COLOR>
+<VAR_7> <BLUE>-DUMMY-</COLOR>
+
+----------------------------|----------------------------------
+<VAR_0> <BLUE>-DUMMY-</COLOR>
+<VAR_1> <BLUE>-DUMMY-</COLOR>
+<VAR_2> <BLUE>-DUMMY-</COLOR>
+<VAR_3> <BLUE>-DUMMY-</COLOR>
+<VAR_4> <BLUE>-DUMMY-</COLOR>
+<VAR_5> <BLUE>-DUMMY-</COLOR>
+<VAR_6> <BLUE>-DUMMY-</COLOR>
+<VAR_7> <BLUE>-DUMMY-</COLOR>
+
+----------------------------|----------------------------------
+<VAR_0> <BLUE>-DUMMY-</COLOR>
+<VAR_1> <BLUE>-DUMMY-</COLOR>
+<VAR_2> <BLUE>-DUMMY-</COLOR>
+<VAR_3> <BLUE>-DUMMY-</COLOR>
+<VAR_4> <BLUE>-DUMMY-</COLOR>
+<VAR_5> <BLUE>-DUMMY-</COLOR>
+<VAR_6> <BLUE>-DUMMY-</COLOR>
+<VAR_7> <BLUE>-DUMMY-</COLOR>
+
+----------------------------|----------------------------------
+<VAR_0> <BLUE>-DUMMY-</COLOR>
+<VAR_1> <BLUE>-DUMMY-</COLOR>
+<VAR_2> <BLUE>-DUMMY-</COLOR>
+<VAR_3> <BLUE>-DUMMY-</COLOR>
+<VAR_4> <BLUE>-DUMMY-</COLOR>
+<VAR_5> <BLUE>-DUMMY-</COLOR>
+<VAR_6> <BLUE>-DUMMY-</COLOR>
+<VAR_7> <BLUE>-SYSTEM-</COLOR>

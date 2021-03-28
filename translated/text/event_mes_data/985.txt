@@ -1,0 +1,44 @@
+<FACE_POS_RIGHT><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Kita serang berkumpul disini
+hari ini untuk menjadi saksi
+pernikahan Ash dan <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Ash...<PAGE>Apakah kamu akan menjadikan
+<MYNAME> sebagai istrimu,
+untuk mencintainya selamanya?<PAGE><FACE_POS_LEFT><FACE_ASH><FACE_HAPPY><FP_LEFT>Aku akan menerimanya.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NATHAN><FACE_NORMAL><FP_RIGHT><MYNAME>...<PAGE>Apa kamu menerima ash
+sebagai suami kamu, untuk
+mencintainya selamanya?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Maka sekarang aku akan me-
+ngumumkan kalian sebagai
+suami dan istri!<PAGE><FACE_POS_RIGHT><FACE_NATHAN><FACE_HAPPY><FP_RIGHT>Semoga Dewi panen akan
+tersenyum atas kebersamaan
+kalian!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ASH><FACE_SHOCK><FP_LEFT>Aku menyukaimu, <MYNAME>.
+Aku akan berjanji akan
+membuatmu senang.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_SHOCK><FP_RIGHT>Hari ini kita akan memulai
+hidup sebagai berkeluarga,
+hidup bersama.<PAGE>Oh yeah, sejak kita sudah
+menikah, apa panggilan buat
+kamu ya?<PAGE><FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>Enaknya memanggilnya apa
+ya?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL><FP_RIGHT><MYNICKNAME>?
+Apa kamu yakin?
+----------------------------|----------------------------------
+<CHOICE_AB> Yeaaah.
+ Mungkin lainnya aja?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>Kedengarannya bagus.
+<PAGE><FACE_POS_RIGHT><FACE_ASH><FACE_SHOCK><FP_RIGHT>Sekarang sangat senang,
+<MYNICKNAME>...
+----------------------------|----------------------------------
+Ayo memulai kehidupan baru
+bersama!
+----------------------------|----------------------------------
+<CHOICE_AB> Tidur dan simpan.
+ Tidur saja.

@@ -1,0 +1,25 @@
+<FACE_POS_LEFT><FACE_RAUL><FACE_NORMAL><FP_LEFT>Aku ingin berbicara
+denganmu, tapi Diego dan
+Enrique sudah bobo.<PAGE><FACE_POS_LEFT><FACE_RAUL><FACE_ANGRY><FP_LEFT>DAN mereka tertidur tanpa
+mengunci pintunya!
+Betapa tidak pedulinya!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Apa kamu lakukan disini,
+<MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RAUL><FACE_HAPPY><FP_RIGHT>Apa kamu datang untuk menga-
+jak jalan-jalan keluar?<PAGE>Diego dan Enrique pastinya
+akan senang, tapi ini
+sudah sangat larut malam.<PAGE><FACE_POS_RIGHT><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Maaf, tapi aku mau memba-
+ngunkan Enrique dan Diego
+untuk bisa berbicara dengan<PAGE>mereka untuk masalah
+ini.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RAUL><FACE_ANGRY><FP_RIGHT>Karena ini sudah larut...\u270a...\u270a
+Dan seharusnya kamu tidak
+datang tanpa mengetok pintu!<PAGE><FACE_POS_RIGHT><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Apa kamu bisa langsung 
+pulang kerumah?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Apa yang kamu lakukan?<PAGE>Kamu seharusnya keluar dari
+pintu depan, bukan dari
+pintu belakang.

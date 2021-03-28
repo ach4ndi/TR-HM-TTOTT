@@ -1,0 +1,54 @@
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>Hey, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>You got a horse too, yeah?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>Horses are awesome!
+Those big, soft eyes,
+those powerful legs...<PAGE>Those handsome muzzles!
+It's just, like, wow!<PAGE>And every horse has its
+own unique coat coloring,
+body type, even face.<PAGE>I could just stare at horses
+for, like, hours!<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>So, <MYNAME>,
+you like horses too, right?
+----------------------------|----------------------------------
+<CHOICE_AB> You bet I do!
+ I'm not really into them.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>Oh!
+Great!<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>In that case...
+I gotta show you my best
+horse!<PAGE>Her name is Hayate.
+She's a real beauty.<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_ANGRY><FP_RIGHT>I'm telling you straight up!
+I have NEVER seen a horse as
+beautiful as my girl here!<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>You are going to love
+meeting my Hayate!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>Well, guess I'll head home.<PAGE>Today was fun!
+Thanks, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>...Huh!?
+Not into horses?<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_SHY><FP_RIGHT>So why do you keep a horse?
+Just 'cause it's convenient
+for getting around?<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_SAD><FP_RIGHT>Huh. Whoa.
+I guess you totally don't
+get what makes horses great.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_ANGRY><FP_RIGHT>Listen up!
+A horse is not just a
+way to get around.<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>It's a living animal with
+feelings, you know!<PAGE>Take a good long look at
+your horse.<PAGE>...Uh, no.
+Hold up, I got it.
+Here's what we'll do.<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_ANGRY><FP_RIGHT>You better come see MY
+horse!!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>My best horse is named
+Hayate!
+<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>Compared to other horses,
+she is waaay more beautiful!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_SHY><FP_RIGHT>Hey, whoa, <MYNAME>!!
+We weren't done talking!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_SAD><FP_RIGHT>Aw, there I go again.<PAGE>When it comes to horses,
+I get all revved up.<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_SHY><FP_RIGHT>My bad, <MYNAME>...

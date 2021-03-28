@@ -1,0 +1,127 @@
+\u2137Talk about the request?
+<CHOICE_AB> Yes
+ No
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Ah, you came! So you want
+me to teach you <RED>critter
+catching</COLOR>, hmm?<PAGE><FACE_POS_RIGHT><FACE_GOMBE><FACE_HAPPY>All right, then! This old
+man can teach you all you
+need to know about it!<PAGE>How about it, hmm? Ready to
+learn?
+----------------------------|----------------------------------
+\u2137<CHOICE_AB> Please teach me!
+ No thanks.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_HAPPY><FP_RIGHT>Well, I'll teach you, then!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>And that's how you catch
+critters! Want to hear
+it again?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_HAPPY><FP_RIGHT>In that case, you should try
+to catch the critter written
+in the <RED>request</COLOR>!<PAGE><FACE_POS_RIGHT><FACE_GOMBE><FACE_NORMAL>Ah, but wait! You're new at
+this, so I'll give you a
+hint, hmm?<PAGE>Critters come in many
+colors, but the locust in
+the request is <RED>green</COLOR>!<PAGE>If you're having trouble,
+remember my hint about
+the color, hmm?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Ah, hello,
+<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Ah, hello,
+<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Ah, hello,
+<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Ah, hello,
+<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Woo-wee! You caught that
+critter, did ya? Let me
+see it, then...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_HAPPY><FP_RIGHT>Ah, that's the one!
+Congratulations!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_HAPPY><FP_RIGHT>You're a capable one, aren't
+you, <MYNAME>?<PAGE><FACE_POS_RIGHT><FACE_GOMBE><FACE_NORMAL>By the way, there are lots
+of other critters out there
+than the one I requested!<PAGE><FACE_POS_RIGHT><FACE_GOMBE><FACE_HAPPY>Some critters are quite
+difficult to catch,
+but \u270aTRY TO CATCH 'EM ALL!!!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Ah, you fulfilled my
+request! Here's your
+reward, then!<PAGE>Just select your reward from
+the <RED>Reward Screen</COLOR>!<PAGE><FACE_POS_RIGHT><FACE_GOMBE><FACE_HAPPY>Then just put it in your
+<RED>bag</COLOR>! Easy, right? Easy as
+pie!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_HAPPY><FP_RIGHT>Ah, you did a good job!<PAGE>I'll be making plenty of
+requests to you in the
+future!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Ah, hello,
+<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Ah, hello,
+<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Ah, hello,
+<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Ah, hello,
+<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Ah, hello,
+<MYNAME>.
+----------------------------|----------------------------------
+\u2137Ahem! Gombe's critter
+catching class is
+starting!
+----------------------------|----------------------------------
+\u2137Ah! Did you see that bug
+appear just now?
+----------------------------|----------------------------------
+\u2137Most critters hide in the
+grass.<PAGE>When something surprises
+them, they jump out!<PAGE>When you spot a critter,
+get up close to it,
+and...<PAGE>BAM!\u270a
+<RED>Push that A Button</COLOR>!
+You'll grab the critter!
+----------------------------|----------------------------------
+\u2137But if you don't catch it
+quick, it'll get away from
+you! Stay alert!<PAGE>But, if it does get away
+from you, don't worry!
+It's a big mountain!<PAGE>Keep looking, and you'll
+find more critters!
+----------------------------|----------------------------------
+\u2137When you walk around the
+kind of grassy area critters
+like, one might jump out!
+----------------------------|----------------------------------
+\u2137This time, my request is for
+a <GREEN>Piggyback Locust</COLOR>...
+----------------------------|----------------------------------
+\u2137Walking around here is how
+you're most likely to find
+one!<PAGE>However, if you look and
+look, but just can't find
+one...<PAGE>...Move to the <RED>next screen</COLOR>,
+then come back. It should
+show up again!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Ah, hello,
+<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Ah, hello,
+<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Ah, hello,
+<MYNAME>.

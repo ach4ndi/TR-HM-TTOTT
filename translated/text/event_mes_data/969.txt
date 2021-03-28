@@ -1,0 +1,63 @@
+<FACE_POS_RIGHT><FACE_REINA><FACE_SAD><FP_RIGHT>Hmm aku takut.
+kelihatanya sakit.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>Ingat tanaman ini pas aku 
+belajar?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_SAD><FP_RIGHT>Pas aku melihatnya lagi eh 
+tiba tiba udah layu 
+gitu aja.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>Hmm kayaknya, aku akan
+membawanya pulang.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>Di rumah mungkin ada obat-
+nya.<PAGE>Aku bisa mencampurkan obat-
+obatan agar tanamannya
+sembuh.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_SHY><FP_RIGHT>Lihat ini!
+Akarnya mulai membaik!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>Mungkin akan baik baik saja, 
+aku akan menempatkannya 
+itu nanti.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>Hmm? Apa?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>Oh kamu berpikir tentang
+buku-buku ini.<PAGE>Ya, itu bukuku tentang
+tanaman.
+----------------------------|----------------------------------
+<CHOICE_AB> Tanaman begitu mempesona!
+ Tanaman itu lumayan!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>Ya, mereka sangat beragam
+dan juga mempesona.<PAGE>Nggak peduli apapun mereka
+selalu terlihat mempesona.<PAGE>dan aku masih mempelajari
+seluruh tanaman yang ada
+di dunia.<PAGE>Jika aku mencari lagi, aku
+bisa menemukan spesies baru.<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_HAPPY><FP_RIGHT>dan nanti aku akan
+merilisnya dijurnal terke-
+nal!<PAGE>Tapi apa ya nama tanamanya, 
+aku pikir-pikir namanya...
+"Reina Vyaxvacaxa"
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>Oh, aku ada yang kelupaan
+nih. maaf ya.<PAGE>Tapi aku senang kamu
+menyukai tanaman,
+<MYNAME>.<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_HAPPY><FP_RIGHT>Mungkin kita bisa bersama-
+sama lagi dalam hal 
+mengobrol tanamanan.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>Itu benar, banyak orang
+menemukan begitu.<PAGE>Tapi lumayan apaan
+sih? lumayan jelek?
+asw njir?<PAGE>ya kelihatannya kamu.
+gasuka tanaman ya, 
+<MYNAME>?<PAGE>kalo kamu gasuka 
+jan' munafik.<PAGE>Jujur lebih baik eaaa.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>Bye Bye.
+Bye asw, kamvret, taek,<PAGE>Nanti ketemu lagi ya asw, 
+<MYNAME>.

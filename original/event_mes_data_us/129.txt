@@ -1,0 +1,574 @@
+<FACE_POS_CENTER><HIDE_NAME><FACE_RAUL><FACE_NORMAL><FP_RIGHT>I haven't met you before.
+What's your name?
+<MYNAME>?<PAGE><FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>I'm <BLUE>Raul</COLOR>.
+Nice to meet you.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>That was a bad storm
+yesterday.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>What can I do for you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>What can I do for you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>What can I do for you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_HAPPY><FP_RIGHT>Wow!
+How cute!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_SAD><FP_RIGHT>I'm...a little scared.
+I really don't like this...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>What can I do for you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_HAPPY><FP_RIGHT>Oh. I once tried to give one
+of those to a woman who
+captured my heart.<PAGE><FACE_POS_CENTER><FACE_RAUL><FACE_SAD><FP_RIGHT>I...I don't like to talk
+about it.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>No thanks...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>I can't take another gift
+today. It's too much.
+Thanks, but no thanks.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>What can I do for you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>What can I do for you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Hey, don't give that away!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_HAPPY><FP_RIGHT>Hey, a birthday present!
+You remembered!<PAGE>And it's <RED>Croquette</COLOR>! My
+favorite! These remind me
+of my mom.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_HAPPY><FP_RIGHT><RED>Croquette</COLOR>!!!
+<RED>Croquette</COLOR>!!!
+<RED>Croquette</COLOR>!!!<PAGE>Oops, I got a bit too
+excited...
+But thank you so much!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>What can I do for you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>What can I do for you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_HAPPY><FP_RIGHT>Hey, a birthday present!
+You remembered!<PAGE><FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Don't tell Diego and
+Enrique about this.<PAGE>I don't want them to get
+jealous.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_HAPPY><FP_RIGHT>Woohoo!
+What a great gift!
+Thank you so much!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Thank you for the birthday
+present.<PAGE>My parents always gave
+me and my brothers the exact
+same thing for our birthday.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Thanks, <MYNAME>.
+This is a nice gift.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_SAD><FP_RIGHT>Are you playing a prank on
+me or something?<PAGE>I was hoping for a better
+present for my birthday.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_ANGRY><FP_RIGHT>Did Enrique and Diego
+tell you to give this to
+me?<PAGE>Those guys are always trying
+to play pranks on me.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_ANGRY><FP_RIGHT><RED>Scrap metal</COLOR>...?!
+This is the worst gift ever!
+Why would you give me this?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>What can I do for you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>What can I do for you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Being married must be so
+nice...<PAGE>Oh, Marion, I wonder what
+you're up to now...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>I'm afraid of losing my hat
+in weather like this!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Nobody shops in weather
+like this. It's terrible!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_HAPPY><FP_RIGHT>You and I are the best
+of friends!<PAGE>But I still can't give you
+any discounts at the shop.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_HAPPY><FP_RIGHT>You've been hanging out with
+me a lot lately, <MYNAME>.<PAGE>You must think I'm a cool
+guy. So I AM a cool guy!
+Yahoo!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>I've traveled all over the
+world to find things to sell
+at my store.<PAGE>I've seen some amazing
+things!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>You've got to have a good
+plan in business.<PAGE>If you don't, your business
+will end up being a
+disaster.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>I think of ways to expand
+my business all the time.<PAGE>You've got to keep
+innovating if you want to
+survive!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Diego is the oldest, and
+Enrique is the youngest.<PAGE>Some people say we look
+a lot alike, but we're very
+different in personalities.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>How's your farm going?<PAGE>In the last town I lived in,
+I had a friend who was a
+great farmer.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>What can I do for you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>What can I do for you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>What can I do for you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>What can I do for you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>What can I do for you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>What can I do for you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>What can I do for you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>What can I do for you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>What can I do for you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>What can I do for you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>What can I do for you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>What can I do for you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>What can I do for you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>What can I do for you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>What can I do for you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>What can I do for you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>What can I do for you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>What can I do for you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>What can I do for you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>What can I do for you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>What can I do for you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>What can I do for you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>What can I do for you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>What can I do for you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>What can I do for you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>What can I do for you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>What can I do for you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>What can I do for you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>What can I do for you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>What can I do for you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>What can I do for you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>What can I do for you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>What can I do for you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>What can I do for you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>What can I do for you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>What can I do for you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>What can I do for you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>What can I do for you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>What can I do for you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Not interested.
+Bye!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_HAPPY><FP_RIGHT>Hey, it's really cute! I
+don't get much chance to
+see animals like this.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_ANGRY><FP_RIGHT>Yikes! I...I don't like
+this animal. Take it away,
+please.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>It's better to let it go.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>What can I do for you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>What can I do for you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>What can I do for you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>What can I do for you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>What can I do for you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>What can I do for you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>What can I do for you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>What can I do for you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>What can I do for you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>What can I do for you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>What can I do for you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>What can I do for you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_HAPPY><FP_RIGHT>For me?
+This is great!
+Thank you.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>What can I do for you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>What can I do for you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>What can I do for you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>What can I do for you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>What can I do for you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>What can I do for you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Ooh, a mystery present!
+Neat!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_HAPPY><FP_RIGHT>I'm thankful to have you as
+my friend, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>What can I do for you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>How's Diego doing?
+He'd better not be saying
+mean stuff about me.<PAGE>If he is, I'll come and
+get him!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Diego is a real trickster.
+Watch out if you're doing
+business with him.<PAGE>You can always trust me,
+though.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>What can I do for you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>What can I do for you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>I'm going over to Diego's
+now. I haven't seen him
+in a long time.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>If you find anything
+that looks valuable, let
+me know.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>The air up here is so
+refreshing.<PAGE>I wonder if there's a way
+I could sell it...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Everything is so different
+here. 
+<PAGE>Maybe I can find something
+that will sell for a high 
+price at my store.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Phew. I could use
+a rest.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>I've got to get back to the
+village tomorrow.
+My customers are waiting.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>I've got to get back to the
+village tomorrow.
+My customers are waiting.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>If I bottle up some of
+this spring water, I'm sure
+it will sell.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>The air is so clear and pure
+here. Too bad you can't
+charge for it...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Phew. Finally home.
+Crossing the mountain sure
+takes a lot out of you.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>What can I do for you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>What can I do for you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>What can I do for you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>What can I do for you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>What can I do for you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>What can I do for you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>What can I do for you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>What can I do for you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>What can I do for you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>What can I do for you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>What can I do for you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>What can I do for you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>What can I do for you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>What can I do for you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>What can I do for you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>What can I do for you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>What can I do for you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>What can I do for you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>What can I do for you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>What can I do for you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>What can I do for you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>What can I do for you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>What can I do for you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>What can I do for you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>What can I do for you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>What can I do for you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>What can I do for you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>What can I do for you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>What can I do for you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>What can I do for you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>What can I do for you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>What can I do for you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>What can I do for you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>What can I do for you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>What can I do for you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>What can I do for you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>What can I do for you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>What can I do for you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>What can I do for you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>What can I do for you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>What can I do for you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>What can I do for you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>What can I do for you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>What can I do for you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>What can I do for you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>What can I do for you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>What can I do for you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>What can I do for you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>What can I do for you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>What can I do for you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>What can I do for you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>What can I do for you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>What can I do for you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>What can I do for you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Good morning!
+I'm Raul!<PAGE>Please don't confuse me with
+my brothers! I hate when
+people do that.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Good morning, <MYNAME>!
+I'm a morning person.
+I get up with the sun.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Good morning, <MYNAME>.
+You like my outfit?<PAGE>I think it's a little over
+the top, but the customers
+seem to like it.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_HAPPY><FP_RIGHT>Hi there, <MYNAME>.
+How are you doing?<PAGE>I'm doing great. So great,
+I almost feel like dancing!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Hi there. I'm not feeling
+all that well today. I may
+have eaten something bad.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Hi there, <MYNAME>.
+How are you doing?
+Me? I'm doing great! 
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Good evening.
+Hm, it's been a while since
+I've played guitar.<PAGE>You should hear me sometime.
+I'm pretty good.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Hi there, <MYNAME>...
+Sunsets always make me feel
+a little sad.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Good evening, <MYNAME>.
+...
+......<PAGE>Oh, sorry. I was spacing
+out a bit.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>What can I do for you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>What can I do for you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>What can I do for you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>I can't concentrate with you
+here. It's bad for business.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Uno, dos, tres...
+...<PAGE>I lost count of the money
+because you spoke to me.
+I'll talk to you later.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>If you want to buy
+something, go up to
+the counter.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>What can I do for you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>What can I do for you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>What can I do for you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>My brothers and I are
+getting along better now.
+
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_SAD><FP_RIGHT>Enrique's always been the
+cleverest. He never got in
+trouble when we were kids.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>The sales in my shop are
+getting worse than my
+brothers'. Not good!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>What can I do for you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>What can I do for you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>What can I do for you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>What can I do for you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>What can I do for you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>What can I do for you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>What can I do for you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>What can I do for you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>What can I do for you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>My brothers and I are
+getting along better now.
+
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>What can I do for you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>What can I do for you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>My brothers and I are
+getting along better now.
+
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>What can I do for you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>What can I do for you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>My brothers and I are
+getting along better now.
+
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>What can I do for you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>What can I do for you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>My brothers and I are
+getting along better now.
+
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>What can I do for you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>What can I do for you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>My brothers and I are
+getting along better now.
+
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>What can I do for you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>What can I do for you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>My brothers and I are
+getting along better now.
+
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>What can I do for you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_RAUL><FACE_NORMAL><FP_RIGHT>What can I do for you?

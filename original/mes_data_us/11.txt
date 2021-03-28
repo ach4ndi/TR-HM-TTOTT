@@ -1,0 +1,710 @@
+000Wake Up
+001Go to Sleep
+002Bath
+003Toilet
+004Warp to Emiko Map
+005Don't choose this
+006Don't choose this
+007Windmill Rank
+----------------------------|----------------------------------
+008
+009
+010
+011
+012Hot Springs
+013
+014
+15
+----------------------------|----------------------------------
+016
+017
+018
+019
+020
+021
+022
+23
+----------------------------|----------------------------------
+024
+025
+026
+027
+028
+029
+030
+31
+----------------------------|----------------------------------
+032
+033
+034
+035
+036
+037
+038
+39
+----------------------------|----------------------------------
+040
+041
+042
+043
+044
+045
+046
+47
+----------------------------|----------------------------------
+048
+049
+050
+051
+052
+053
+054
+55
+----------------------------|----------------------------------
+000
+001
+002
+003
+004
+005
+006
+7
+----------------------------|----------------------------------
+008
+009
+010
+011
+012
+013
+014
+15
+----------------------------|----------------------------------
+016
+017
+018
+019
+020
+021
+022
+23
+----------------------------|----------------------------------
+024
+025
+026
+027
+028
+029
+030
+31
+----------------------------|----------------------------------
+032
+033
+034
+035
+036
+037
+038
+39
+----------------------------|----------------------------------
+040
+041
+042
+043
+044
+045
+046
+47
+----------------------------|----------------------------------
+048
+049
+050
+051
+052
+053
+054
+55
+----------------------------|----------------------------------
+000
+001
+002
+003
+004
+005
+006
+7
+----------------------------|----------------------------------
+008
+009
+010
+011
+012
+013
+014
+15
+----------------------------|----------------------------------
+016
+017
+018
+019
+020
+021
+022
+23
+----------------------------|----------------------------------
+024
+025
+026
+027
+028
+029
+030
+31
+----------------------------|----------------------------------
+032
+033
+034
+035
+036
+037
+038
+39
+----------------------------|----------------------------------
+040
+041
+042
+043
+044
+045
+046
+47
+----------------------------|----------------------------------
+048
+049
+050
+051
+052
+053
+054
+55
+----------------------------|----------------------------------
+056
+057
+058
+059
+060
+061
+062
+63
+----------------------------|----------------------------------
+064
+065
+066
+067
+068
+069
+070
+71
+----------------------------|----------------------------------
+072
+073
+074
+075
+076
+077
+078
+79
+----------------------------|----------------------------------
+080
+081
+082
+083
+084
+085
+086
+87
+----------------------------|----------------------------------
+088
+089
+090
+091
+092
+093
+094
+95
+----------------------------|----------------------------------
+096
+097
+098
+099
+
+
+
+
+----------------------------|----------------------------------
+000Opening (Before)
+001
+002Opening (Bluebell)
+003Opening (Konohana)
+004Ending
+005
+006
+7
+----------------------------|----------------------------------
+008Move-Blue→Hana
+009Move-Hana→Blue
+010Mayor's Dignity
+011I want to play!
+012Plants and Licorice
+013A Big Panda?!
+014Ayame's Pleasure
+015Even Bigger Panda?!
+----------------------------|----------------------------------
+016Memory of Parents
+017Liu and Mao
+018Sona's Husband
+019Bluebell's Monument
+020Happy Home
+021Pets and Grani
+022A Girl's Mind
+023Fathers' Worries
+----------------------------|----------------------------------
+024Reliable Brother
+025Language of Flowers
+026×Encounter with a Cat
+027Happy Old Couple
+028Rudger the Magician
+029I Didn't Mean to...
+030How Many Times?
+031×Road to Medicine
+----------------------------|----------------------------------
+032Irene the Carpenter
+033Mikhail Appears
+034Mikhail's Journey
+035Mikhail Returns
+036Nathan Appears
+037Original Timbre
+038Scatterbrained Sage
+039The Sage's Name
+----------------------------|----------------------------------
+040Nathan and Alisa
+041×A Letter to Kiriku?
+042The Goddess' Spring
+043Ash's Invitation
+044×Plant Observation
+045×I Want to Help
+046The Two Horse Lovers
+047×Hardworking Chihiro
+----------------------------|----------------------------------
+048Want to Be a Doctor
+049Requested Flower
+050×Flower Arrangement
+051Always Too Late!
+052
+053
+054
+55
+----------------------------|----------------------------------
+056Animal Achievement
+057Recipe Achievement
+058Clothing Achievement
+059Foraging Achievement
+060Fishing Achievement
+061Handfish Achievement
+062Horse Achievement
+063Fainting Achievement
+----------------------------|----------------------------------
+064Critter Achievement
+065Maker Achievement
+066Device Achievement
+067Pet Achievement
+068Request Achievement
+069Crop Achievement
+070Wonderful Achieve
+071Item Throw Achieve
+----------------------------|----------------------------------
+072All Crop Achieve
+073All Fish Achieve
+074All Bug Achieve
+075×Shipping Achieve
+076
+077
+078
+79
+----------------------------|----------------------------------
+080
+081Rock Break 1
+082Rock Break 2
+083Rock Break 3
+084Rock Break 4
+085
+086
+87
+----------------------------|----------------------------------
+088
+089
+090
+091
+092
+093
+094
+95
+----------------------------|----------------------------------
+096
+097
+098
+099
+
+
+
+
+----------------------------|----------------------------------
+000_Tutorial_D
+001_Tutorial_S
+002_MorningD
+003_MorningS
+004_TownHall_D
+005_TownHall_S
+006_VillageTutorial_D
+007_VillageTutorial_S
+----------------------------|----------------------------------
+008_Moving_D
+009_Moving_S
+010_Crops_D
+011_Wireless
+012_Requests_D
+013_Requests_S
+014_Fishing_D
+015_Fishing_S
+----------------------------|----------------------------------
+016_CartRental_D
+017_CartRental_S
+018_LivestockCow
+019_LivestockSheep
+020_LivestockAlpaca
+021_LivestockChicken
+022_PetDog_D
+023_PetCat_D
+----------------------------|----------------------------------
+024_PetDog_S
+025_PetCat_S
+026_Drawing
+027_Diary(Barn)
+028_FlowerBasket
+029_Bookshelf
+030_ShengComes
+031_EileenComes
+----------------------------|----------------------------------
+032_Toilet
+033_Kitchen
+034_Radio
+035_Storage
+036_FoodDish(ForPets)
+037_Beehives
+038_FishPond
+039_MakerShed(1)
+----------------------------|----------------------------------
+040_MakerShed(2)
+041_MakerShed(3)
+042_Watermill(1)
+043_Watermill(2)
+044_Watermill(3)
+045_PetPlayground
+046_Paddy
+047_WaterGate
+----------------------------|----------------------------------
+048Irrigation-D
+049Irrigation-S
+050
+051
+052
+053
+054
+55
+----------------------------|----------------------------------
+000None
+001None
+002Mayor-Spring-Animal
+003Mayor-Summer-Animal
+004Mayor-Fall-Animal
+005Mayor-Spring-Crop
+006Mayor-Summer-Crop
+007Mayor-Fall-Crop
+----------------------------|----------------------------------
+008Moon Viewing
+009Moon (After Marriage)
+010Children's Day
+011Kid's Day (After M.)
+012Spring Crop Festival
+013Summer Crop Festival
+014Fall Crop Festival
+015Chicken Festival
+----------------------------|----------------------------------
+016Dog Festival
+017Sheep Festival
+018Cow Festival
+019Cat Festival
+020Alpaca Festival
+021
+022Bug Catching (Before)
+023Bug Catching (After)
+----------------------------|----------------------------------
+024Fishing (Before)
+025Fishing (After)
+026Hand Fishing (Before)
+027Hand Fishing (After)
+028New Year's Eve
+029New Year's (After M.)
+030Countdown
+031Countdown (After M.)
+----------------------------|----------------------------------
+032Snow Festival
+033
+034
+035
+036
+037
+038Pumpkin Fest-Cheryl
+039Pumpkin Fest-Child
+----------------------------|----------------------------------
+040
+041
+042
+043
+044
+045
+046SpringCook-Blue-Enter
+047SpringCook-Blue-Watch
+----------------------------|----------------------------------
+048SpringCook-Kono-Enter
+049SpringCook-Kono-Watch
+050FallCook-Blue-Enter
+051FallCook-Blue-Watch
+052FallCook-Kono-Enter
+053FallCook-Kono-Watch
+054SpringHarmonyDay-Boy
+055SpringHarmony-Girl-Ash
+----------------------------|----------------------------------
+056SpringHarmony-Girl-Cam
+057SpringHarm-Girl-Mikhail
+058SpringHarm-Girl-Married
+059WinterHarmonyDay-Girl
+060WinterHarm-Boy-Lauren
+061WinterHarm-Boy-Georgia
+062WinterHarm-Boy-Alisa
+063WinterHarm-Boy-Married
+----------------------------|----------------------------------
+064StarryNight(Town Hall)
+065StarryNight(Cafe)
+066Star(BeforeHouseExpand)
+067Star(AfterHouseExpand)
+068Moon Viewing (Single)
+069Moon Viewing (Married)
+070Star Viewing (Single)
+071Star Viewing (Married)
+----------------------------|----------------------------------
+072MusicFest-Blue-Single
+073MusicFest-Blue-Married
+074MusicFest-Kono-Single
+075MusicFest-Kono-Married
+076
+077
+078
+79
+----------------------------|----------------------------------
+080
+081
+082
+083
+084
+085
+086
+87
+----------------------------|----------------------------------
+088
+089
+090
+091
+092
+093
+094
+95
+----------------------------|----------------------------------
+096
+097
+098
+099
+
+
+
+
+----------------------------|----------------------------------
+000Love Alisa 1-Bluebell
+001Love Alisa 1-Konohana
+002×Love Alisa 3
+003×Love Alisa 4
+004Love Alisa 5
+005Alisa Wedding
+006Love Nori 1
+007Love Nori 2
+----------------------------|----------------------------------
+008Love Nori 3
+009Love Nori 4
+010Love Nori 5
+011Nori Wedding
+012Love Georgia 1
+013Love Georgia 2
+014Love Georgia 3
+015Love Georgia 4
+----------------------------|----------------------------------
+016Love Georgia 5
+017Georgia Wedding
+018Love Lauren 1
+019Love Lauren 2
+020Love Lauren 3
+021Love Lauren 4
+022Love Lauren 5
+023Lauren Wedding
+----------------------------|----------------------------------
+024Love Reina 1
+025Love Reina 2
+026Love Reina 3
+027Love Reina 4
+028Love Reina 5
+029Reina Wedding
+030Love Ulyssa 1
+031Love Ulyssa 2
+----------------------------|----------------------------------
+032Love Ulyssa 3
+033Love Ulyssa 4
+034Love Ulyssa 5
+035Ulyssa Wedding
+036Love Ash 1
+037Love Ash 2
+038Love Ash 3
+039Love Ash 4
+----------------------------|----------------------------------
+040Love Ash 5A
+041Ash Wedding
+042Love Dirk 1
+043×Love Dirk 2
+044×Love Dirk 3
+045×Love Dirk 4
+046Love Dirk 5
+047Dirk Wedding
+----------------------------|----------------------------------
+048Love Cam 1
+049Love Cam 2
+050Love Cam 3
+051Love Cam 4
+052Love Cam 5
+053Cam Wedding
+054Love Kana 1
+055Love Kana 2
+----------------------------|----------------------------------
+056Love Kana 3
+057Love Kana 4
+058Love Kana 5A
+059Kana Wedding
+060Love Mikhail 1
+061Love Mikhail 2
+062Love Mikhail 3
+063Love Mikhail 4
+----------------------------|----------------------------------
+064Love Mikhail 5
+065Mikhail Wedding goto74,75
+066Love Hiro 1
+067Love Hiro 2
+068Love Hiro 3
+069Love Hiro 4
+070Love Hiro 5A
+071Wedding Hiro
+----------------------------|----------------------------------
+072Don't choose!AfterWedKono
+073Don't choose!AfterWedBlue
+074Mikhail Wedding Konohana
+075Mikhail Wedding Bluebell
+076×Love Nori 5B
+077×Love Nori 5C
+078×Love Nori 5 After
+79
+----------------------------|----------------------------------
+080×Love Georgia 5B
+081×Love Georgia 5C
+082×Love Georgia 5 After
+083
+084×Love Lauren 5B
+085×Love Lauren 5C
+086×Love Lauren 5 After
+87
+----------------------------|----------------------------------
+088×Love Reina 5B
+089×Love Reina 5C
+090×Love Reina 5 After
+091
+092×Love Reina 5B
+093×Love Reina 5C
+094
+95
+----------------------------|----------------------------------
+096Love Ash 5B
+097Love Ash 5C
+098Love Ash 5 After
+099
+100×Love Dirk 5B
+101×Love Dirk 5C
+102
+103
+----------------------------|----------------------------------
+104×Love Cam 5B
+105×Love Cam 5C
+106×Love Cam 5 After
+107
+108Love Kana 5B
+109Love Kana 5C
+110
+111
+----------------------------|----------------------------------
+112×Love Mikhail 5B
+113×Love Mikhail 5C
+114
+115
+116Love Hiro 5B
+117Love Hiro 5C
+118Love Hiro 5 After
+119
+----------------------------|----------------------------------
+120Hero's BDay-BeforeUpgrade
+121Hero's BDay-AfterUpgrade
+122Spouse'sBDayBeforeUpgrade
+123Spouse'sBDay-AfterUpgrade
+124Anniversary-BeforeUpgrade
+125Anniversary-AfterUpgrade
+126Child's BDay-Level 0
+127Child's BDay-Level 1,2
+----------------------------|----------------------------------
+128Spouse Sick-BeforeUpgrade
+129Spouse Sick-AfterUpgrade
+130Pregnancy: Male Hero
+131Pregnancy: Female Hero
+132Birth: Male Hero
+133Birth: Female Hero
+134Birth: Hiro
+135
+----------------------------|----------------------------------
+136Child Growth 1
+137Child Growth 2
+138Family Outing
+139Race-Konohana
+140Race-Bluebell
+141Bathing Child
+142
+143
+----------------------------|----------------------------------
+144
+145
+146
+147
+148
+149
+150
+151

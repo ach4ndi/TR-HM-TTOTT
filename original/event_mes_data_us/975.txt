@@ -1,0 +1,48 @@
+<FACE_POS_LEFT><FACE_ULYSSA><FACE_SHY><FP_LEFT>Arrgh...
+It's just NOT going right...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ULYSSA><FACE_SHY><FP_LEFT>I worked ALLLLLLL night
+on an alchemy experiment!<PAGE>But it JUST...WON'T...WORK!<PAGE>In theory, the formula
+is correct...<PAGE><FACE_POS_LEFT><FACE_ULYSSA><FACE_ANGRY><FP_LEFT>ARRRRGGGGGHHHHHHHH!!
+Why oh why oh why can't I
+DOOOOOOO this!?!?
+----------------------------|----------------------------------
+<CHOICE_AB> Maybe you measured wrong?
+ Beats me.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ULYSSA><FACE_ANGRY><FP_LEFT>PHOOEY!!
+I am a mighty, MIGHTY
+alchemist!<PAGE>I've been studying alchemy
+since long before you were
+born!<PAGE>You think I would make some
+novice mistake like
+measuring wrong?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ULYSSA><FACE_HAPPY><FP_LEFT>Hmmph. Well, why not?<PAGE>If you're going to accuse me
+of that, I guess I should
+re-measure it!<PAGE>You wait there!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ULYSSA><FACE_NORMAL><FP_LEFT>I can't believe it...\u270a\u270a...\u270a\u270a...\u270a\u270a
+<FACE_POS_LEFT><FACE_ULYSSA><FACE_ANGRY><FP_LEFT>I MEASURED WROOOOONNNNGGG!!!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ULYSSA><FACE_NORMAL><FP_LEFT>B-But anybody can make a
+mistake, right...RIGHT???<PAGE>But...<MYNAME>...<PAGE><FACE_POS_LEFT><FACE_ULYSSA><FACE_HAPPY><FP_LEFT>How could you tell I
+measured wrong? I must have
+underestimated you!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ULYSSA><FACE_NORMAL><FP_LEFT>From now on, you won't just
+be my guinea pig, but my
+assistant, helping me out!<PAGE>I know you'll do a great
+job, <MYNAME>!<RED>❤</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ULYSSA><FACE_SHY><FP_LEFT>That's no help!!<PAGE><FACE_POS_LEFT><FACE_ULYSSA><FACE_NORMAL><FP_LEFT>There shouldn't be a problem
+with the ingredients...<PAGE><FACE_POS_LEFT><FACE_ULYSSA><FACE_ANGRY><FP_LEFT>GrrrrrrrRRRR...!!!
+WHAT...IS...WRONG!?!?
+I CAN'T FIGURE IT OUT!!!!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ULYSSA><FACE_SHY><FP_LEFT><MYNAME>, I figured that you
+could be of some help with
+your sharp, young eyes...<PAGE><FACE_POS_LEFT><FACE_ULYSSA><FACE_SAD><FP_LEFT>Awwww....
+I just can't count on good
+input from anybody else...<PAGE><FACE_POS_LEFT><FACE_ULYSSA><FACE_NORMAL><FP_LEFT>Okey-dokey, <MYNAME>...
+you can run on home.

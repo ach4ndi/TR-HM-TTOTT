@@ -1,0 +1,161 @@
+<FACE_POS_LEFT><HIDE_NAME><FACE_ROSE><FACE_SAD><FP_LEFT><HIDE_FACE>\u232e<MYNAME>, dear,
+are you home!?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ROSE><FACE_SAD><FP_RIGHT>\u232d*Huff*...\u270a*Huff*...\u270a
+\u232e<MYNAME>...<PAGE>My husband has gone to the
+mountaintop to talk to Ina!<PAGE>\u232cThey'd been getting along
+better...but now I think
+they're fighting again!<PAGE>Please stop them!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><HIDE_NAME><FACE_RAHI><FACE_SAD><FP_LEFT><HIDE_FACE>\u232e<MYNAME>,
+are you here!?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RAHI><FACE_SAD><FP_RIGHT>\u232dHuff...\u270aHuff...\u270a
+\u232e<MYNAME>...<PAGE>My mom has gone to the
+mountaintop to talk to
+Rutger!<PAGE>\u232cThey'd been getting along
+better...but now I think
+they're fighting again!<PAGE>Please make them stop!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_HOWARD><FACE_SAD><FP_LEFT>\u232e<MYNAME>!
+You came JUST in time!<PAGE><FACE_POS_RIGHT><FACE_YUN><FACE_SAD><FP_RIGHT>Those mayors look like
+they're going to fight
+again... Please stop them!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_RUTGER><FACE_NORMAL><FP_LEFT>\u20d0Oh, it's <MYNAME>!
+You surprised me!<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>What are you in such a rush
+about?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_RUTGER><FACE_NORMAL><FP_LEFT>Eh? What's that?
+We're fighting again? Is
+that what you thought?<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>Ah-ha-ha-ha-ha!
+That's not it, <MYNAME>.<PAGE>\u232dActually\u270a...\u270a
+\u232c...we're reconciling! It's
+time to end this feud.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_RAHI><FACE_HAPPY><FP_LEFT>Is that really true, Mom?<PAGE><FACE_POS_RIGHT><FACE_ROSE><FACE_ANGRY><FP_RIGHT>Oh, Rutger!
+Do you really, really mean
+it?<PAGE><FACE_POS_LEFT><FACE_RUTGER><FACE_SAD><FP_LEFT>Why do you have to act so
+surprised, my dear...?<PAGE><FACE_POS_LEFT><FACE_RAHI><FACE_NORMAL><FP_LEFT>If...If you really mean
+it...that's great!<PAGE><FACE_POS_LEFT><FACE_RAHI><FACE_HAPPY><FP_LEFT>They're not fighting after
+all!<PAGE><FACE_POS_RIGHT><FACE_ROSE><FACE_SAD><FP_RIGHT>Oh dear me...
+I had it all wrong.<PAGE><FACE_POS_RIGHT><FACE_ROSE><FACE_NORMAL><FP_RIGHT>I rushed to gather up
+everyone in Bluebell!<PAGE><FACE_POS_LEFT><FACE_RAHI><FACE_SAD><FP_LEFT>I got the wrong idea too! I
+called everyone in Konohana!<PAGE><FACE_POS_LEFT><FACE_RUTGER><FACE_SAD><FP_LEFT>I didn't mean to make anyone
+worry.<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_SAD><FP_RIGHT>Hoo boy...
+Sorry to get people all
+worked up.<PAGE><FACE_POS_LEFT><FACE_RUTGER><FACE_SAD><FP_LEFT>\u232dActually...\u232c<PAGE><FACE_POS_LEFT><FACE_RUTGER><FACE_NORMAL><FP_LEFT>It was <MYNAME>'s arrival
+that brought the villages
+back together.<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>We learned the good things
+about each other's villages.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_HOWARD><FACE_HAPPY><FP_LEFT>Now that I think about it,
+Mayor Rutger's had nothing
+but praise for Konohana!<RED>❤</COLOR><PAGE><FACE_POS_RIGHT><FACE_YUN><FACE_HAPPY><FP_RIGHT>Oh my goodness, our Mayor
+Ina's been the same way.<PAGE>She's become so taken with
+the darling animals raised
+in Bluebell!<PAGE><FACE_POS_RIGHT><FACE_GOMBE><FACE_HAPPY><FP_RIGHT>Ah, and the rest of us have
+come to like Bluebell too,
+hmm!<PAGE><FACE_POS_LEFT><FACE_JESSICA><FACE_HAPPY><FP_LEFT>I'm more interested in crops
+than I've ever been before!<PAGE>All because the mayors are
+finally getting along!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_RUTGER><FACE_NORMAL><FP_LEFT>That's...\u270aThat's really
+how everyone feels?<PAGE><FACE_POS_LEFT><FACE_RUTGER><FACE_HAPPY><FP_LEFT>I guess we really don't
+have anything to fight
+about anymore!<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>That's for sure!
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>DUMMY
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_RUTGER><FACE_HAPPY><FP_LEFT>And today we have another
+happy announcement.<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT><MYNAME>...
+has...\u232dhas...\u270a\u232e<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>\u20d0Reopened the tunnel!\u270b
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>This tunnel will make
+traveling between the
+villages much easier.<PAGE><FACE_POS_LEFT><FACE_RUTGER><FACE_HAPPY><FP_LEFT>Very true! We won't have
+to go over the mountain
+anymore.<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>We should have a party to
+celebrate this new union
+between our villages!<PAGE><FACE_POS_LEFT><FACE_RUTGER><FACE_HAPPY><FP_LEFT>Everyone, please help with
+the preparations!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_RUTGER><FACE_NORMAL><FP_LEFT>Everyone, may I have your
+attention, please?<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>I would like to say...
+a word of thanks...
+to <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_RUTGER><FACE_NORMAL><FP_LEFT>It was thanks to you that
+our two villages were able
+to reconcile, <MYNAME>.<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>If it hadn't been for you,
+we would have kept thinking
+only of our own villages.<PAGE>So I want to say...\u270a
+thank you, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_RUTGER><FACE_HAPPY><FP_LEFT>This is a day that our two
+villages will always
+remember!<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>Everything from the past is
+water under the bridge now.
+Let's have a good time!<PAGE><FACE_POS_LEFT><FACE_RUTGER><FACE_HAPPY><FP_LEFT>Here we go\u270a...\u270a...\u270a...
+----------------------------|----------------------------------
+The party was a blast!
+Today was for relaxing,
+tomorrow it's back to work!<PAGE><CHOICE_AB> Go to bed and save.
+ Go to bed without saving.
+----------------------------|----------------------------------
+INVALID MESSAGE
+----------------------------|----------------------------------
+\u1f43\u2137
+\u20d1HOORAY!!!!!!
+
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_HOWARD><FACE_HAPPY><FP_LEFT>This is fabulous!<RED>❤</COLOR><PAGE><FACE_POS_RIGHT><FACE_GOMBE><FACE_HAPPY><FP_RIGHT>The tunnel!
+Ah, the tunnel!!<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>Well then, let's go see
+the tunnel!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_JESSICA><FACE_NORMAL><FP_LEFT>So this is what it looks
+like inside the tunnel...
+What a surprise!<PAGE><FACE_POS_RIGHT><FACE_YUN><FACE_HAPPY><FP_RIGHT>Oh my, yes.
+I hadn't the faintest idea!<PAGE><FACE_POS_LEFT><FACE_HOWARD><FACE_NORMAL><FP_LEFT>Well, I never!
+<MYNAME> has been holding
+out on us!<PAGE><FACE_POS_LEFT><FACE_RUTGER><FACE_HAPPY><FP_LEFT>I want to go a little
+further inside.<PAGE><FACE_POS_LEFT><FACE_GOMBE><FACE_HAPPY><FP_LEFT>Heh-hee, a tunnel!
+This old man gets to go
+first!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Amazing.
+I wonder what kinds of
+animals live here...<PAGE><FACE_POS_LEFT><FACE_HIRO><FACE_SHY><FP_LEFT>I'm curious as well.
+I can't imagine...<PAGE><FACE_POS_LEFT><FACE_HIRO><FACE_HAPPY><FP_LEFT>I'm going to look up cave-
+dwelling animals as soon as
+I get home!<PAGE><FACE_POS_RIGHT><FACE_GEORGIA><FACE_HAPPY><FP_RIGHT>Me too! It'll be interesting
+to learn about something
+other than horses!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_AYAME><FACE_HAPPY><FP_LEFT>Everyone's so excited!<PAGE><FACE_POS_RIGHT><FACE_MAKO><FACE_HAPPY><FP_RIGHT>Indeed.<PAGE><FACE_POS_RIGHT><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Ho, Dr. Ayame!
+Watch your footing!
+There are rocks everywhere.<PAGE><FACE_POS_LEFT><FACE_AYAME><FACE_HAPPY><FP_LEFT>Mm-hmm.
+Thanks.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>It's so beeeautiful!<RED>❤</COLOR>
+What is it?<PAGE><FACE_POS_LEFT><FACE_YING><FACE_HAPPY><FP_LEFT>This stone...is pretty.
+I've never...seen one...
+like it before.<PAGE><FACE_POS_RIGHT><FACE_RAHI><FACE_NORMAL><FP_RIGHT>There must be lots of gems
+in here.<PAGE><FACE_POS_RIGHT><FACE_CHERYL><FACE_HAPPY><FP_RIGHT>I want one!
+It'll look great on me and
+impress my brother!<RED>❤</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_HAPPY><FP_RIGHT>The children are obviously
+enjoying themselves.<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_SHY><FP_RIGHT>Gems are okay, I guess,
+but can any plants grow in
+a place like this?<PAGE><FACE_POS_LEFT><FACE_CAM><FACE_NORMAL><FP_LEFT>I wonder...<PAGE>But there are flowers that
+bloom amid winter snows,
+so anything is possible.<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_HAPPY><FP_RIGHT>You're right. Plants
+are stronger than we think.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_EILEEN><FACE_NORMAL><FP_LEFT>DUMMY
+
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_EILEEN><FACE_NORMAL><FP_LEFT>DUMMY
+<PAGE><FACE_POS_LEFT><FACE_EILEEN><FACE_HAPPY><FP_LEFT>DUMMY

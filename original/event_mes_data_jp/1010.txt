@@ -1,0 +1,37 @@
+<FACE_POS_RIGHT><FACE_HIRO><FACE_HAPPY><FP_RIGHT>ソナさんの料理って、
+本当においしいですよね！
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_NORMAL><FP_RIGHT>じつはボク、時々
+ソナさんに秘伝のレシピを
+教えてもらいに来るんです。<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_HAPPY><FP_RIGHT>休日には、よくそのレシピを
+使って、アヤメ先生に料理を
+ふるまっているんですよ。<PAGE>自分で言うのも何ですが
+料理には、けっこう
+自信があるんです♪
+----------------------------|----------------------------------
+<CHOICE_AB> 料理は楽しいよね
+ 女の子みたいな趣味だね
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_HAPPY><FP_RIGHT>そうですよね！<PAGE><MYNAME>さんなら、
+きっとそう言ってくれると
+思っていました！<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_NORMAL><FP_RIGHT>あ！　良かったら、
+<MYNAME>さんも、うちに
+ご飯を食べに来てください。<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_HAPPY><FP_RIGHT>お口に合うかはわかりませんが
+腕によりをかけて、ごちそうを
+作らせてもらいますよ♪
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_NORMAL><FP_RIGHT>…あ、もうこんな時間ですね。<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_HAPPY><FP_RIGHT>何だか今日はすごく時間が
+過ぎるのが、早かったです。
+良い息抜きになりました。<PAGE>また、お誘いしても
+良いですか？
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_NORMAL><FP_RIGHT>ありがとうございます。
+では、ボクはこれで
+失礼しますね。
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_SHY><FP_RIGHT>…そうですか？　別に
+そうは思いませんけど…。<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_SAD><FP_RIGHT>いえ。そういった事は
+言われなれているんで、
+大丈夫です。<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_NORMAL><FP_RIGHT>…それじゃあ、
+ボクは用事があるので。
+今日はこれで失礼しますね。

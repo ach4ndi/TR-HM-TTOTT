@@ -1,0 +1,179 @@
+<FACE_POS_LEFT><HIDE_NAME><FACE_INA><FACE_NORMAL><FP_LEFT><HIDE_FACE>Selamat pagi, <MYNAME>.
+Sepertinya aku ingin mampir
+bentar.
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>Pagi ini aku datang untuk
+memberitahukan seputar bebe-
+rapa informasi festival.
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT><RED>Festival Panen</COLOR> akan diadakan
+pada tanggal 25 pada bulan ini.<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>Dan temanya untuk bulan ini
+<RED>wortel</COLOR>.<PAGE>Jadi, jika kamu ingin ikut,
+kamu sebaiknya mempunyai 
+wortel yang siap dihari-25.<PAGE>Dan perlu diingatkan, kamu
+<RED>Tidak dapat memasukkan
+tanaman yang sudah layu</COLOR>!<PAGE>Jangan lupakan itu ya!
+titik.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT><RED>Festival Panen</COLOR> akan diadakan
+pada tanggal 25 pada bulan ini.<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>Dan temanya untuk bulan ini
+<RED>ubi</COLOR>.<PAGE>Jadi, jika kamu ingin ikut,
+kamu sebaiknya mempunyai ubi
+yang siap dihari-25.<PAGE>Dan perlu diingatkan, kamu
+<RED>Tidak dapat memasukkan
+tanaman yang sudah layu</COLOR>!<PAGE>Jangan lupakan itu ya!
+titik.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT><RED>Festival Panen</COLOR> akan diadakan
+pada tanggal 25 pada bulan ini.<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>Dan temanya untuk bulan ini
+<RED>bayam</COLOR>.<PAGE>Jadi, jika kamu ingin ikut,
+kamu sebaiknya mempunyai 
+bayam yang siap dihari-25.<PAGE>Dan perlu diingatkan, kamu
+<RED>Tidak dapat memasukkan
+tanaman yang sudah layu</COLOR>!<PAGE>Jangan lupakan itu ya!
+titik.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT><RED>Festival Panen</COLOR> akan diadakan
+pada tanggal 25 pada bulan ini.<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>Dan temanya untuk bulan ini
+<RED>terong</COLOR>.<PAGE>Jadi, jika kamu ingin ikut,
+kamu sebaiknya mempunyai 
+terong yang siap dihari-25.<PAGE>Dan perlu diingatkan, kamu
+<RED>Tidak dapat memasukkan
+tanaman yang sudah layu</COLOR>!<PAGE>Jangan lupakan itu ya!
+titik.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT><RED>Festival Panen</COLOR> akan diadakan
+pada tanggal 25 pada bulan ini.<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>Dan temanya untuk bulan ini
+<RED>paprika hijau</COLOR>.<PAGE>Jadi, jika kamu ingin ikut,
+kamu sebaiknya mempunyai 
+paprika yang siap dihari-25.<PAGE>Dan perlu diingatkan, kamu
+<RED>Tidak dapat memasukkan
+tanaman yang sudah layu</COLOR>!<PAGE>Jangan lupakan itu ya!
+titik.
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT><RED>Festival Memasak</COLOR> akan
+diadakan pada tanggal 29 di
+bulan ini.<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>Tema untuk festival yang
+memasak yang akan mendatang
+yaitu <RED>sup</COLOR>.<PAGE>Jika kamu ingin ikutan untuk
+Konohana, jangan lupa untuk
+mempersiapkannya.<PAGE>Tapi diingat-ingat,<RED>kamu
+tidak bisa memakai makanan
+basi</COLOR> Jangan lupa!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT><RED>Festival Memasak</COLOR> akan
+diadakan pada tanggal 29 di
+bulan ini.<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>Tema untuk festival yang
+memasak yang akan mendatang
+yaitu <RED>cemilan</COLOR>.<PAGE>Jika kamu ingin ikutan untuk
+Konohana, jangan lupa untuk
+mempersiapkannya.<PAGE>Tapi diingat-ingat,<RED>kamu
+tidak bisa memakai makanan
+basi</COLOR> Jangan lupa!
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>Itu semua yang bisa aku
+katakan saat ini. Apa kamu
+sudah paham semuanya?<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>Jika kamu lupa, tinggal cek
+<RED>kalendar</COLOR>mu.<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>Well, sepertinya aku ada
+urusan sebentar lagi. Maka
+sampai jumpa lagi.
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy

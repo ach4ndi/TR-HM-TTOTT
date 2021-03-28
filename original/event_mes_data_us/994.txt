@@ -1,0 +1,99 @@
+<FACE_POS_RIGHT><FACE_CAM><FACE_SAD><FP_RIGHT>*Sigh*...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_SHY><FP_RIGHT>Oh, it's just...<PAGE><FACE_POS_RIGHT><FACE_CAM><FACE_SAD><FP_RIGHT>To be honest, my shop isn't
+doing too well lately...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT>And I think I know why.
+It's the way I interact
+with the customers.<PAGE><FACE_POS_RIGHT><FACE_CAM><FACE_SAD><FP_RIGHT>Unfortunately, I'm just not
+very good at it...
+<PAGE><FACE_POS_RIGHT><FACE_CAM><FACE_SHY><FP_RIGHT>I want to fix that, but
+I'm not sure how...
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT>Huh? What is it?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT>You want to help me out
+with the store? Really?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT>...<PAGE>Well, you're so good with
+people, maybe I'll learn
+something with you there.<PAGE>Would you mind helping
+out a little right now?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_CAM><FACE_SHY><FP_LEFT>Huh? Oh, that's right...
+I need to drum up some
+business...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_CAM><FACE_NORMAL><FP_LEFT>Um, let's see... C-Come one,
+come all to Cam's Flowers!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_CAM><FACE_SAD><FP_LEFT>See, I'm just not cut
+out for this...
+----------------------------|----------------------------------
+<CHOICE_AB> Leave it to me!
+ You can do it!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_CAM><FACE_NORMAL><FP_LEFT>Wow, with your help, we were
+able to sell everything!<PAGE><FACE_POS_LEFT><FACE_CAM><FACE_SAD><FP_LEFT>I don't think I learned
+much about dealing with
+customers, though...<PAGE>I just don't think I
+can do it like you do.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_CAM><FACE_NORMAL><FP_LEFT>But you really helped me out
+today, and for that, I thank
+you. I'll see you later.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_CAM><FACE_HAPPY><FP_LEFT>Th-Thanks for the support...<PAGE><FACE_POS_LEFT><FACE_CAM><FACE_NORMAL><FP_LEFT>It's so strange...<PAGE>When I'm with you, I can do
+things that I could normally
+never do...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_CAM><FACE_NORMAL><FP_LEFT>All right, let's see what
+we can sell!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Well, well! You two seem to
+be raring to go today!
+<PAGE><FACE_POS_LEFT><FACE_CAM><FACE_NORMAL><FP_LEFT>Oh, well, that is...<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Hmm?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>You've really changed
+recently, Cam!
+<PAGE><FACE_POS_LEFT><FACE_CAM><FACE_NORMAL><FP_LEFT>Huh?<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Even as a child, you never
+let your emotions show much.<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>But lately, you seem a lot
+more animated!
+<PAGE>It must be thanks to
+you, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_CAM><FACE_HAPPY><FP_LEFT>Well, if you say so, Mayor,
+then it must be true.
+<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Ha ha ha! Ah, to be young
+and in love...<PAGE><FACE_POS_LEFT><FACE_CAM><FACE_SHY><FP_LEFT>Huh?! I...I think you've
+got the wrong idea, Mayor!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Anyway, I think I'll buy
+Rose some flowers! I haven't
+done that in a while now!<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>I'll take this one here!<PAGE><FACE_POS_LEFT><FACE_CAM><FACE_NORMAL><FP_LEFT>Thank you very much, Mayor.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_CAM><FACE_SHY><FP_LEFT>It looks like he got the
+wrong idea about us...
+Sorry about that...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_CAM><FACE_SHOCK><FP_LEFT>Oh, well, if it doesn't
+bother you, never mind,
+then! Let's keep working!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_CAM><FACE_HAPPY><FP_LEFT>Wow! I never thought we'd be
+able to sell everything!<PAGE><FACE_POS_LEFT><FACE_CAM><FACE_NORMAL><FP_LEFT>It's all because of
+your help, <MYNAME>...<PAGE>And I think I handled the
+customers better than I
+usually do.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_CAM><FACE_NORMAL><FP_LEFT>I'm so glad I asked you
+for advice.<PAGE><FACE_POS_LEFT><FACE_CAM><FACE_HAPPY><FP_LEFT>Thank you, <MYNAME>.
+
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_CAM><FACE_SHOCK><FP_LEFT>Hey, want to stop by the
+caf on our way home?<PAGE>I'd like to buy you tea
+or something to thank you.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_CAM><FACE_HAPPY><FP_LEFT>Great! Let's go then,
+<MYNAME>!

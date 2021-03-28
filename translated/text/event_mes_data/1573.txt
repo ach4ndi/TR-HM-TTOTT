@@ -1,0 +1,37 @@
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_NORMAL>Selamat datang ke toko
+bibit Gombe. Apa yang aku
+bisa membantumu?<INPUT_KEYPAD>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_NORMAL><CHOICE_AB> Lihat Barang.
+ Lupakan.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_NORMAL>Okay. Jika ada perlu, bisa
+kapan saja kesini ya!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_SAD>Oh tidak, uangmu tidak men-
+cukupi. Aku sunggu minta 
+maaf, tidak bisa kredit.<INPUT_KEYPAD>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_HAPPY>Terima kasih banyak. Semoga
+beruntung untuk memanen
+dengan hasil terbaik!<INPUT_KEYPAD>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_SAD>Oh, tas kamu penuh...<INPUT_KEYPAD>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_NORMAL>Well, apa ada yang lain yang
+anda inginkan dari aku?<INPUT_KEYPAD>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_HAPPY>Harganya <RED><VAR_0>G</COLOR>.
+<CHOICE_AB> Beli.
+ Tidak, makasih.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_NORMAL>Totalnya <RED><VAR_1>G</COLOR> untuk
+tiap <VAR_0>.
+Berapa banyak yang dibeli?<INPUT_KEYPAD>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_SAD>Maafkan ane, saat ini hanya
+satu barang yang bisa dijual
+hari ini.<INPUT_KEYPAD>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_NORMAL>Maaf tidak ada barang
+yang tersisa.

@@ -1,0 +1,595 @@
+<FACE_POS_CENTER><HIDE_NAME><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Oh, are you <MYNAME>?
+My brother was saying there
+was someone new around.<PAGE><FACE_POS_CENTER><FACE_CHERYL><FACE_HAPPY><FP_RIGHT>I'm <BLUE>Cheryl</COLOR>.
+I'm Ash's little sister.
+
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_HAPPY><FP_RIGHT>I couldn't go out yesterday,
+but I got to play inside
+with Ash all day!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_HAPPY><FP_RIGHT>Ooh, sooo cute!<RED>❤</COLOR>
+You should show it to Ash
+too!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_SAD><FP_RIGHT>H-Hey...
+Can you take that away?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_HAPPY><FP_RIGHT>Ooh, is that a blue feather?
+Cool!
+I want one too!<RED>❤</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Umm, I don't really want
+that right now. Sorry...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Wow, another gift today?
+Oh, I guess I shouldn't,
+though.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>What's that?
+I don't get it...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_HAPPY><FP_RIGHT>Oooh, I looove this!<RED>❤</COLOR>
+It's the perfect birthday
+present!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_HAPPY><FP_RIGHT>Ooh, for me?
+This is great! I love it!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_HAPPY><FP_RIGHT>A present for me?
+Yay!<PAGE>It's my birthday today!<RED>❤</COLOR>
+Thank you sooo much,
+<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_HAPPY><FP_RIGHT>Thanks!
+I'm gonna go show
+my brother! Hee hee.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>A birthday present?
+Ooh! Thanks!<RED>❤</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Yay! Thank you!
+This is kinda neat.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_SAD><FP_RIGHT>What!? Why would you give
+me this on my birthday?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_SAD><FP_RIGHT>Um, for me? This just makes
+me kind of sad.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_SAD><FP_RIGHT>Why would you give me such
+an awful thing? This makes
+me really sad.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_ANGRY><FP_RIGHT>You better be nice to my
+brother, <MYNAME>.<PAGE>If you're mean to him,
+I'm gonna get you!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_HAPPY><FP_RIGHT>What's it like to
+be married?<PAGE>I wanna get married too!
+
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>It's sooo windy today! I bet
+it could blow you away!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_HAPPY><FP_RIGHT>I loove snow! Ash and I
+usually build snowmen and
+stuff.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_HAPPY><FP_RIGHT>I'm so glad we're friends,
+<MYNAME>!
+<PAGE>Let's always be friends!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_HAPPY><FP_RIGHT>La la laaa♪
+Let's play sometime,
+<MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Mom told me to stop talking
+to Ash while he's working,
+cuz I'm bothering him.<PAGE>Isn't that mean,
+<MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>When I was out playing the
+other day, I tripped and
+hurt my ankle.<PAGE>But then my brother gave me
+a piggyback ride! That made
+it all better!<RED>❤</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Hmm...what kind of game
+should I play with my
+brother today?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Isn't my brother cool?
+He's the best brother in the
+world!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>My brother is the best
+farmer in the world!
+No one is better than him!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>What's this?
+I don't want it.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Oooh.
+Hee hee! It's so cute!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Oooh, did you catch that?
+Neat!
+I wanna catch one too!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_ANGRY><FP_RIGHT>Eek!
+Take that away!
+I hate those!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Poor thing!
+You should let it go!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_HAPPY><FP_RIGHT>Is this for me?
+Oooh, this flower's sooo
+pretty! Thanks!<RED>❤</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_HAPPY><FP_RIGHT>Ooh, what is it?
+I'm so excited!<RED>❤</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_HAPPY><FP_RIGHT><MYNAME>, will you talk to
+me about girl stuff?
+Like cute boys?<RED>❤</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>I've heard that <VAR_1>
+is totally different from
+our village. Neat!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_HAPPY><FP_RIGHT>What game should I play with
+my brother today?
+Hee hee.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>The shop is closed today.
+What should I do? I'm
+gonna have sooo much fun!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>This tunnel is sooo amazing!
+Did Eileen dig it?
+She's so amazing too!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>This place is weird...
+And everyone's wearing weird
+clothes, too! It's so funny!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Let's go home.
+I'm soo hungry...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Today was sooo much fun!
+I spent all day playing,
+and now I'm sooo hungry...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Today's a day off.
+What should I do for fun?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>*Sigh*
+I never see my brother now
+that he's married...<PAGE>Let him come and play with
+me sometimes, okay,
+<MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_HAPPY><FP_RIGHT>Hee hee.
+Look, look!
+Isn't this umbrella cute?<PAGE>My brother bought it for me!
+
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>You were cheering sooo loud!
+You helped us win,
+<MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_SAD><FP_RIGHT>You were cheering us on,
+but we still lost!
+Too bad!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Was the Cooking Festival
+fun? You should compete for
+Bluebell next time.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Too bad about the Cooking
+Festival. I wonder why you
+didn't win.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, too bad!
+You almost won!
+I bet you'll win next time!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_HAPPY><FP_RIGHT>Yay, a festival! Ash
+always takes me to
+festivals!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Huh? Why didn't you
+enter this time?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>You almost won, <MYNAME>!
+Don't be sad, okay?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>There's a festival in
+Bluebell today. Yay!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Goood mooorning, <MYNAME>!
+What's up?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Goood mooorning, <MYNAME>!
+Don't I always look so cute?
+Hee hee.<RED>❤</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Goood mooorning!
+Ooh, I'm sleepy!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Hi, <MYNAME>! My mom told
+me to tell you to buy
+something!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_HAPPY><FP_RIGHT>Hi, <MYNAME>!
+Did you hear my tummy
+growl? I'm so hungry!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_HAPPY><FP_RIGHT>Hi!<PAGE>Can I come over some time?
+Your farm is so cool!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Hello...
+Oooh, I'm soo sleepy...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Hi, <MYNAME>!
+What? I should be in bed?<PAGE>Grr...
+I'm not a baby!
+I can stay up if I want!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Good evening!<PAGE>Why can grownups stay up
+so late? That's not fair!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_HAPPY><FP_RIGHT>Welcome to our store!
+If you need something, go
+up to the counter, okay?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_HAPPY><FP_RIGHT>Welcome to our store!
+If you need something, go
+up to the counter, okay?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_HAPPY><FP_RIGHT>Welcome to our store!
+If you need something, go
+up to the counter, okay?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_HAPPY><FP_RIGHT>Mmm, it's so yummy!
+I looove the food here!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_HAPPY><FP_RIGHT>Mmm, it's so yummy!
+I looove the food here!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_HAPPY><FP_RIGHT>Mmm, it's so yummy!
+I looove the food here!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Did you come to play,
+<MYNAME>?
+Hee hee! Me too!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Isn't it neat in here?
+They're all sooo cute!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>I brush all the animals in
+here every day!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, I'm soo hungry...
+<MYNAME>, make me the dish
+that you won with!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_HAPPY><FP_RIGHT>Wow, you won, <MYNAME>!
+<PAGE>Teach me how to cook!
+I wanna cook for my brother!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_HAPPY><FP_RIGHT>All the food looked sooo
+yummy!
+I wanted to eat everything!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Aww, the festival's over.
+It was sooo much fun...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_HAPPY><FP_RIGHT>Today was sooo much fun!
+I wish we had a festival
+every day!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_HAPPY><FP_RIGHT>When I get older, I wanna
+enter a festival too!
+
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>I don't get how they choose
+which vegetables win.
+I hate all of them!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Maybe I'd like vegetables if
+you made them,
+<MYNAME>...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Yay! You won,
+<MYNAME>.
+I'm so happy for you!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>I'm getting sleepy...
+*Yawn*...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>I wish I got to go to the
+festival with just my
+brother...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_HAPPY><FP_RIGHT>The festival today was
+kinda sweet...
+Hee hee.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>You got sooo many!
+Everyone was surprised!
+
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>How'd you get so many?
+I was sooo surprised!
+
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_HAPPY><FP_RIGHT>Yay! You won, <MYNAME>.
+I'm so happy for you!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_HAPPY><FP_RIGHT>Yay, you won!
+You were sooo amazing today!<PAGE>I know, 'cuz my mom is
+a farmer!
+
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Teach me how to raise a
+<VAR_2> like that!<PAGE>We could use it on our farm.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Your <VAR_2>
+was sooo amazing!

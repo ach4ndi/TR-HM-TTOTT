@@ -1,0 +1,27 @@
+<FACE_POS_RIGHT><HIDE_NAME><FACE_DIRK><FACE_HAPPY><FP_RIGHT>Yo! Jangan mengirah kita
+sudah bertemu!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_NORMAL><FP_RIGHT>Mulai sekarang aku akan
+tinggal didesa ini. Nama aku
+<BLUE>Dirk</COLOR>.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_HAPPY><FP_RIGHT>Dan kamu pastinya ...
+<MYNAME>?<PAGE>Tadi kamu bilang namamukan?
+hihihi..<PAGE>Oke, kedepannya pastinya
+kamu akan sering ketemu
+dengan aku, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_NORMAL><FP_RIGHT>Jadi, rumah aku itu atapnya
+genteng merah disitu.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_NORMAL><FP_RIGHT>Mungkin aku jarang ada di
+rumah, karena aku keluar
+untuk mengantarkan surat.<PAGE>Tapi kapan-kapan pas ada 
+waktu bisa datang kerumah
+untuk mengajak keluar sama2.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_NORMAL><FP_RIGHT>Whoa!
+Aku lebih baik pergi
+sekarang.<PAGE>Kita akan lebih mengenal
+satu sama lain nanti ya.
+Setelah selesai.<PAGE><FACE_POS_RIGHT><FACE_DIRK><FACE_HAPPY><FP_RIGHT>Sampai jumpa, <MYNAME>!

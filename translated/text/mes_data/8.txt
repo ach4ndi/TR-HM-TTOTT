@@ -1,0 +1,1379 @@
+<CHOICE_ABC> Simpan dan Tidur.
+ Tidur tanpa menyimpan.
+ Tidak jadi.
+----------------------------|----------------------------------
+\u232eGambar dipapan ini? 
+<CHOICE_AB> Ya
+ Tidak
+
+----------------------------|----------------------------------
+Mode Menggambar!
+Tekan tombol B untuk keluar
+Tekan Select untuk menghapus
+----------------------------|----------------------------------
+<CHOICE_ABC> Biodata Binatang Ternak
+ Cara untuk memelihara?
+ Keluar
+
+----------------------------|----------------------------------
+Taruh <RED>Alat penyiram</COLOR> 
+disini untuk mengisinya.
+----------------------------|----------------------------------
+\u232e<RED><VAR_1></COLOR> jam, <RED><VAR_2></COLOR> menit sampai
+<GREEN><VAR_0></COLOR> ini siap.
+
+----------------------------|----------------------------------
+\u232eTaruh bunga di vas?
+<CHOICE_AB> Ya
+ Tidak
+
+----------------------------|----------------------------------
+\u232eLihat Aset yang ada?
+<CHOICE_AB> Ya
+ Tidak
+
+----------------------------|----------------------------------
+\u232ePeriksa penyimpanan? 
+<CHOICE_AB> Ya
+ Tidak
+
+----------------------------|----------------------------------
+\u232eLihat kalendar?
+<CHOICE_AB> Ya
+ Tidak
+
+----------------------------|----------------------------------
+\u232eBuka stand?
+<CHOICE_AB> Ya
+ Tidak
+
+----------------------------|----------------------------------
+
+----------------------------|----------------------------------
+\u232eMandi?
+<CHOICE_AB> Ya
+ Tidak
+
+----------------------------|----------------------------------
+\u232ePakai ruangan istirahat?
+<CHOICE_AB> Ya
+ Tidak
+
+----------------------------|----------------------------------
+<CHOICE_ABC> Masak dari resep.
+ Masak tanpa resep.
+ Keluar.
+
+----------------------------|----------------------------------
+Bisa memancing disini jika
+ada Alat pancing ikan.
+----------------------------|----------------------------------
+\u232eApa mau memancing disini?
+<CHOICE_AB> Ya
+ Tidak
+
+----------------------------|----------------------------------
+Kelihatannya spot ini tidak
+bagus untuk memancing.
+----------------------------|----------------------------------
+Berhasil lolos ...
+----------------------------|----------------------------------
+\u2070Disuatu tempat di alam
+semesta yang jauh banget.</COLOR>
+----------------------------|----------------------------------
+Face color test. 
+
+----------------------------|----------------------------------
+Membuat produk? 
+<CHOICE_AB> Ya
+ Tidak
+
+----------------------------|----------------------------------
+<CHOICE_AB> Pasang Wonderful.
+ Keluar
+----------------------------|----------------------------------
+<CHOICE_ABC> Pasang Wonderful.
+ Lepas Wonderful.
+ Keluar
+----------------------------|----------------------------------
+Ambil produk yang selesai?
+<CHOICE_AB> Ya
+ Tidak
+
+----------------------------|----------------------------------
+Boarding Course
+Currently Closed
+----------------------------|----------------------------------
+Hari ini sangat menyenang-
+kan tapi sudah larut malam.
+Saatnya harus tidur.<PAGE><CHOICE_AB> Simpan dan tidur. 
+ Langsung tidur tanpa simpan.
+
+----------------------------|----------------------------------
+Saat ini menggunakan <RED><VAR_0></COLOR>.<PAGE>Ganti dengan musim yg lain?
+<CHOICE_AB> Ya
+ Tidak
+
+----------------------------|----------------------------------
+Raul's Shop
+Open 7:00 AM - 11:00 PM
+Closed Fridays, Bazaar Days<INPUT_KEYPAD>
+----------------------------|----------------------------------
+<SHOW_INSTANT>Zephyr Cafe
+Open 10:00 AM - 11:00 PM
+Closed Thurs., Bazaar Days<INPUT_KEYPAD>
+----------------------------|----------------------------------
+<SHOW_INSTANT>Hotel
+Open 6:00 AM - 11:00 PM
+Open every day!<INPUT_KEYPAD>
+----------------------------|----------------------------------
+\u232e Buka pintu air ini?
+<CHOICE_AB> Ya
+ Tidak
+----------------------------|----------------------------------
+\u232ePanggil burung hantumu?
+<CHOICE_AB> Ya
+ Tidak
+----------------------------|----------------------------------
+\u232e<CHOICE_ABC> Ke Desa Bluebell.
+ Ke Desa Konohana.
+ Keluar
+----------------------------|----------------------------------
+Mengisi buku tamu?<PAGE><CHOICE_ABC> Menginap dan simpan.
+ Menginap tanpa menyimpan.
+ Bubar :v
+----------------------------|----------------------------------
+\u232e Masuk ke kolam panas?
+<CHOICE_AB> Ya
+ Tidak
+----------------------------|----------------------------------
+\u232e Mengecek gerobak?
+<CHOICE_AB> Ya
+ Tidak
+----------------------------|----------------------------------
+Diperkebunanmu atau pertani-
+anmu ada sebuah <RED>Papan</COLOR>
+yang dapat ditulis sesuatu<PAGE>atau digambar sesuai
+dengan keinginan kamu!<PAGE>Kamu dapat memperlihatkannya
+kepada temanmu didalam
+Mode Multiplayer, walaupun<PAGE>sekarang tidak bisa diguna-
+kan karena membutuhkan WCF
+Nintendo.<PAGE>\u232eMenggambar di papan?
+<CHOICE_AB> Ya
+ Tidak
+
+----------------------------|----------------------------------
+Kamu bisa melihat beberapa
+informasi seputar biodata
+binatang dan peliharanmu<PAGE>dibuku statistik ini.
+Pastikan selalu dicek tiap
+hari kondisinya ya.<PAGE>Apakah sedang sehat, hamil,
+stress ataupun sakit.<PAGE><CHOICE_ABC> Biodata Binatang Ternak
+ Cara untuk memelihara?
+ Keluar
+----------------------------|----------------------------------
+Ini adalah <RED>Vas Bunga</COLOR>,
+kamu dapat menaruh sebuah
+bunga jenis apapun yang<PAGE>ada didalam tasmu.
+Namun, bunga yang ditaruh
+divas bunga akan layu dalam<PAGE>jangka beberapa hari. Jadi
+kamu harus rajin-rajin
+untuk menggantinya.<PAGE>\u232eTaruh bunga dalam vas ini?
+<CHOICE_AB> Ya
+ Tidak
+
+
+----------------------------|----------------------------------
+Kamu bisa mengecek <RED>Aset</COLOR>
+yang kamu punyai disini.
+Kamu dapat melihat seberapa<PAGE>jauh perkembangan perke-
+bunanmu itu, dan jumlah par-
+tisipasi pada sebuah fes-<PAGE>tival yang pernah kamu
+ikuti.<PAGE>Ingat ya! Disini terdapat
+banyak informasi yang ber-
+guna, jadi dicek selalu ya!<PAGE>\u232eLihat aset kamu?
+<CHOICE_AB> Ya
+ Tidak
+
+----------------------------|----------------------------------
+Ini adalah sebuah <RED>Kalendar</COLOR>.
+Tiap tahun ada empat musim.
+Kamu bisa menggunakan ini<PAGE>untuk mengetahui kapan
+festival diadakan atau bisa
+mengetahui tanggal ulang<PAGE>tahun seseorang.<PAGE>\u232eMengecek kalender? 
+<CHOICE_AB> Ya
+ Tidak
+
+----------------------------|----------------------------------
+Ini adalah sebuah <RED>Kamar Mandi</COLOR>. 
+Jika kamu mandi, maka bau
+badanmu akan hilang!<PAGE>Dan staminamu sedikit fresh!
+Tapi kegiatan ini membutuh-
+kan waktu tidak sedikit...<PAGE>\u232eMau mandi? 
+<CHOICE_AB> Ya
+ Tidak
+
+----------------------------|----------------------------------
+Ini adalah sebuah <RED>Tempat 
+Istirahat</COLOR>.<PAGE>Jika digunakan, stamina akan
+bertambah.<PAGE>Namun, waktu akan cepat
+berlalu jika kamu 
+menggunakannya.<PAGE>\u232eGunakan tempat istirahat ini?
+<CHOICE_AB> Ya
+ Tidak
+
+ 
+----------------------------|----------------------------------
+<RED>Dapur</COLOR> ini digunakan untuk
+memasak, pastinya memasak
+sesuatu donk :v<PAGE><RED>Memasak tanpa resep</COLOR>,
+memasak dengan bahan apapun
+untuk menemukan resep baru.<PAGE>Namun, jika kombinasinya
+tidak cocok maka gagal.<PAGE><RED>Memasak dengan resep</COLOR>, di-
+mana memasak dengan hal
+yang sudah ditentukan.<PAGE>Jika masakanmu yang dibuat
+itu sukses, kamu bisa <RED>me-
+nulis ulang resep</COLOR> itu jika<PAGE>dirasa lebih baik daripada
+sebelumnya.<PAGE>Dan, kamu bisa memodifi-
+kasi dengan menambah bahan-
+bahan keresep tersebut.<PAGE>Jika sukses, kamu bisa me-
+nulis ulang resepnya.<PAGE>Jika kamu memasak beberapa
+kali, maka kamu akan men-
+dapatkan sebuah inspirasi<PAGE>untuk membuat sebuah
+resep yang baru.<PAGE><CHOICE_ABC> Masak dari resep.
+ Masak tanpa resep.
+ Keluar.
+----------------------------|----------------------------------
+Ini sebuah <RED>Radio</COLOR>.<PAGE>Digunakan untuk mendengarkan
+laporan cuaca hari ini dan
+besok.<PAGE>Dengarkan radio?
+<CHOICE_AB> Ya
+ Tidak
+----------------------------|----------------------------------
+<RED>Tempat Penyimpanan</COLOR> ini
+Dapat menyimpan berbagai
+jenis barang disini.<PAGE>Jika kamu menyimpan barang
+yang memiliki tingkat kese-
+garan, maka status kese-<PAGE>garan barangnya akan ber-
+tahan lebih lama.<PAGE>Mengecek tempat penyimpanan? 
+<CHOICE_AB> Ya
+ Tidak
+
+----------------------------|----------------------------------
+Sebuah <RED>Tempat Makan
+Peliharaan</COLOR> Digunakan untuk
+menaruh makanan kucing atau<PAGE>anjing.
+----------------------------|----------------------------------
+Gunakan <RED>Sarang Lebah</COLOR> untuk
+memanen madu.<PAGE>Periksa kondisi sarang lebah
+disaat masih memegang
+sarang madu tersebut lalu<PAGE>taruh kedalamnya.<PAGE>Lebah akan lebih senang jika
+dikasih sebuah <RED>Parfum</COLOR>.<PAGE>Karena tidak kuat men-
+cium bau kecutmu...
+----------------------------|----------------------------------
+Ini sebuah <RED>Kolam</COLOR> untuk
+tempat tinggalnya ikan.<PAGE>Untuk memasukkan ikan ke-
+dalamnya, diperlukan meme-
+gang ikan sambil pas di-<PAGE>depan kolamnya, lalu
+lepaskan kedalam kolam.<PAGE>Hanya saja kolam tersebut
+hanya bisa menampung satu
+spesies ikan saja dan<PAGE>jumlah panennya maksimal
+10 ekor.<PAGE>Jangan lupa kasih <RED>Makanan
+Ikan</COLOR> tiap harinya agar
+mereka senang.
+----------------------------|----------------------------------
+Sebuah <RED>Alat Fermentasi</COLOR>.<PAGE>Digunakan untuk membuat keju
+dan produk lainnya.<PAGE>Kamu dapat menggunakannya 
+untuk membuat <RED>Coklat</COLOR>
+dari cocoa.
+----------------------------|----------------------------------
+Sebuah <RED>Alat Pemintal</COLOR>.<PAGE>Digunakan untuk pembuatan <RED>Woll</COLOR>
+dari domba atau lainnya un-
+tuk membuat sebuah <RED>benang</COLOR>.
+----------------------------|----------------------------------
+Sebuah <RED>Alat Pembuat Minuman</COLOR>.<PAGE>Digunakan untuk pembuatan 
+wine dan teh.<PAGE>Dan juga bisa membuat
+<COLOR>bubuk kopi</COLOR> dari
+<COLOR>biji kopi</COLOR>.
+----------------------------|----------------------------------
+Sebuah <RED>Alat Pembuat Bibit</COLOR>.<PAGE>Digunakan untuk menjadikan
+1 tanaman menjadi 2 bibit 
+tanaman.
+----------------------------|----------------------------------
+Sebuah <RED>Alat Penggiling</COLOR>.<PAGE>Menggiling sebuah barang
+menjadi bentuk bubuk.
+----------------------------|----------------------------------
+Sebuah <RED>Alat Pengawet</COLOR>.<PAGE>Untuk mengawetkan bahan
+tertentu.
+----------------------------|----------------------------------
+Sebuah <RED>Tempat Bermain</COLOR>.<PAGE>Taruh binatang peliharaan
+didekat Alat ini,maka mereka
+akan lebih menyukaimu.
+----------------------------|----------------------------------
+Sebuah <RED>Sawah</COLOR>.<PAGE>Digunakan untuk menanam
+padi.
+----------------------------|----------------------------------
+Sebuah <RED>Pintu Air</COLOR>.<PAGE>Kamu dapat membukanya untuk
+memercikan air ke sawah.<PAGE>Disaat air mengaliri sawahmu
+maka dapat ditanami padi.<PAGE>\u232eBuka pintu airnya?
+<CHOICE_AB> Ya
+ Tidak
+
+----------------------------|----------------------------------
+Cek status gerobak disini.
+<PAGE>Mengecek status gerobak?
+<CHOICE_AB> Ya
+ Tidak
+----------------------------|----------------------------------
+\u232eJika kamu mempunyai burung 
+hantu, kamu dapat memanggil-
+nya disini.<PAGE>Panggil burung hantu?
+<CHOICE_AB> Ya
+ Tidak
+----------------------------|----------------------------------
+Sebuah <RED>Buku Tamu</COLOR>.<PAGE>Gunakan buku tamu jika kamu
+mengiginkan menginap di
+balai desa semalaman.<PAGE>Gunakan buku tamu ini?<PAGE><CHOICE_ABC> Menginap dan menyimpan.
+ Menginap tanpa menyimpan.
+ Tutup, tidak menginap.
+----------------------------|----------------------------------
+Sebuah <RED>Kolam Air Panas</COLOR>.
+Jika kamu memasukinya. maka
+meningkatkan staminamu.<PAGE>Namun, menghabiskan waktu di
+saat kamu di kolam air
+panas.<PAGE>\u232eMasuk ke kolam air panas?
+<CHOICE_AB> Ya
+ Tidak
+----------------------------|----------------------------------
+Disini tempatnya untuk menge
+cek status gerobak dan meng
+ganti <RED>Gerobak</COLOR>.<PAGE>Namun, asalkan kapasitas
+gerobaknya lebih banyak
+daripada gerobak sebelumnya<PAGE>Mengecek gerobak?
+<CHOICE_AB> Ya
+ Tidak
+ 
+----------------------------|----------------------------------
+<SHOW_INSTANT><BLUE>Toko Diego</COLOR>
+Buka 8:00 AM - 8:00 PM
+Tutup Sabtu, Festival
+----------------------------|----------------------------------
+<SHOW_INSTANT><BLUE>Kafe Howard</COLOR>
+Buka 10:00 AM - 10:00 PM
+Tutup Kamis, Festival
+----------------------------|----------------------------------
+<SHOW_INSTANT><BLUE>Toko Binatang Grady</COLOR>
+Buka 10:00 AM - 5:00 PM
+Tutup Senin, Kamis, Festival
+
+----------------------------|----------------------------------
+<SHOW_INSTANT><BLUE>Toko Ternak Jessica</COLOR>
+Buka 10:00 AM - 5:00 PM
+Tutup Rabu, Festival
+----------------------------|----------------------------------
+<SHOW_INSTANT><BLUE>Toko Bunga Cam</COLOR>
+Buka 10:00 AM - 5:00 PM
+Tutup Senin, Kamis, Jumat
+----------------------------|----------------------------------
+<SHOW_INSTANT><BLUE>Toko Bangunan Eileen</COLOR>
+Mampir untuk kebutuhan Alat
+pertukangan dan bangunan.
+----------------------------|----------------------------------
+<SHOW_INSTANT><BLUE>Balai Desa Bluebell</COLOR>
+Buka 7:00 AM - 5:00 PM
+Tutup Senin, Festival
+----------------------------|----------------------------------
+<SHOW_INSTANT><BLUE>Tempat Pengiriman Bluebell</COLOR>
+Taruh barang apa saja yang
+ingin dijual disini.
+----------------------------|----------------------------------
+<SHOW_INSTANT>↑ Desa Bluebell
+
+   → Jalur Gunung
+----------------------------|----------------------------------
+<SHOW_INSTANT>Tidak pernah melihat tulisan
+seperti ini sebelumnya ...
+----------------------------|----------------------------------
+<SHOW_INSTANT><BLUE>Toko Raul</COLOR>
+Buka 8:00 AM - 8:00 PM
+Tutup Minggu, Festival
+----------------------------|----------------------------------
+<SHOW_INSTANT><BLUE>Rumah Kedai Yun</COLOR>
+Buka 10:00 AM - 10:00 PM
+Tutup Selasa, Festival
+----------------------------|----------------------------------
+<SHOW_INSTANT><BLUE>Toko Binatang Kana</COLOR>
+Buka 10:00 AM - 5:00 PM
+Tutup Jumat, Sabtu, Festival
+----------------------------|----------------------------------
+<SHOW_INSTANT><BLUE>Toko Bibit Gombe</COLOR>
+Buka 10:00 AM - 5:00 PM
+Tutup Senin, Selasa,Festival
+----------------------------|----------------------------------
+<SHOW_INSTANT><BLUE>Klinik Konohana</COLOR>
+Kunjungi jika kamu merasakan
+sakit.
+----------------------------|----------------------------------
+<SHOW_INSTANT><BLUE>Kebun Buah Mako</COLOR>
+Berikan semua pertanyaanmu
+tentang pohon buah kesaya!
+----------------------------|----------------------------------
+<SHOW_INSTANT><BLUE>Tukang Besi Sheng</COLOR>
+Semua kebutuhan tempah besi 
+disini
+----------------------------|----------------------------------
+<SHOW_INSTANT><BLUE>Balai Desa Konohana</COLOR>
+Buka 7:00 AM - 5:00 PM
+Tutup Kamis, Festival
+----------------------------|----------------------------------
+<SHOW_INSTANT><BLUE>Tempat Pengiriman Konohana</COLOR>
+Taruh barang apa saja yang
+ingin dijual disini.
+----------------------------|----------------------------------
+<SHOW_INSTANT>Kelihatannya tidak ada 
+apa-apa disini
+----------------------------|----------------------------------
+<SHOW_INSTANT>← Jalur Gunung
+
+  ↓ Desa Konohana
+----------------------------|----------------------------------
+<SHOW_INSTANT><BLUE>Toko Bunga Cam</COLOR>
+Kehidupan setelah menikah 
+semakin sibuk, tapi akan ada<PAGE>Saat di siang hari.
+Tutup Senin, Kamis,
+Jumat dan Festival
+----------------------------|----------------------------------
+<SHOW_INSTANT>Buka 4:00 PM - 10:00 PM
+Tutup Selasa, Kamis,
+Minggu, Festival
+----------------------------|----------------------------------
+<SHOW_INSTANT>Akan buka di siang hari!
+Tutup Selasa, Kamis,
+Minggu, Festival
+----------------------------|----------------------------------
+<SHOW_INSTANT><BLUE>Toko Binatang Kana</COLOR>
+Setelah menikah saya tetap
+sibuk, tetapi akan hadir di<PAGE>saat siang hari!
+Tutup Jumat, Sabtu,
+dan Festival
+----------------------------|----------------------------------
+<SHOW_INSTANT>Beri tahu saya jika kamu
+ingin sesuatu terkirimkan!
+　　　　　　　- Dirk
+----------------------------|----------------------------------
+<SHOW_INSTANT>Datang sebagai pemilik
+kebun <MYFARMNAME> untuk
+mengirimkan sesuatu! - Dirk
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>TELOLETLOLETLET!<PAGE>Pertanian Multiplayer ini
+miliknya <BLUE><MYNAME></COLOR>
+dari kebun <BLUE><MYFARMNAME></COLOR>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>TELOLETLOLETLET!
+Apakah kamu melihat papan
+gambar?<PAGE>Ayo luangkan
+waktu untuk menggambarnya!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>TELOLETLOLETLET!
+Apakah kamu senang dengan 
+mode multiplayer?<PAGE><FACE_POS_CENTER><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Saya sangat senang jika
+tanahnya dipenuhi dengan
+berry merah yang manis...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>TELOLETLOLETLET!
+Sudah mau keluar?<PAGE>Disaat kamu mau keluar,
+cek jalur batu map di paling
+bawah.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>TELOLETLOLETLET!
+Bagaimana keadaan tanah mode
+multiplayer?<PAGE>Harusnya dapat memanennya
+dari berbagai musim.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>TELOLETLOLETLET!
+Apakah itu mode multiplayer?<PAGE>Semakin banyak bermain dengan
+player lain, semakin mudah
+mendapatkan hadiah dari gw!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>TELOLETLOLETLET!
+Well, Saya harapkan ente me
+nikmati mode multiplayernya!<PAGE><FACE_POS_CENTER><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Semoga beruntung!
+TELOLETLOLETLET!!
+TELOLETLOLETLET!!
+----------------------------|----------------------------------
+Surat ini terkirim ke balai
+desa...<PAGE>...?<PAGE>Tampaknya ada sebuah gambar
+disuratnya.
+----------------------------|----------------------------------
+Surat ini telah terkirim ke
+balai desa...
+----------------------------|----------------------------------
+Buku ini berjudul "Bagaimana
+cara merawat hewan ternak."<PAGE>Baca buku ini?
+<CHOICE_AB> Ya
+ Tidak
+----------------------------|----------------------------------
+<CHOICE_ABC> Baca > hewan ternak
+ Baca > hewan peliharaan
+ Urungkan membacanya
+----------------------------|----------------------------------
+Beri <RED>makan</COLOR> dan <RED>sikati</COLOR> hewan-
+mu tiap hari.<PAGE>Jika kamu membiarkannya di-
+luar kandang, maka mereka
+akan mencari makanannya<PAGE>sendiri. Namun saat hujan,
+mereka akan stress jika di-
+biarkan diluar.<PAGE>Maka, disaat hujan mereka
+harus berada didalam
+kandang dengan menaruh<PAGE>pakan rumput ditempat
+makannya.<PAGE>Jika menaruh beberapa
+rumput ditempat penyimpanan,
+itu akan bisa diambil<PAGE>dengan mudah dari
+<RED>dispenser.</COLOR><PAGE>Oh ya, sapi, domba dan
+alpaca bisa menjadi kumuh
+jika tidak menggosok bulu<PAGE>mereka <RED>tiap hari</COLOR>.<PAGE>Jika membiarkan mereka
+kotor, maka mereka akan
+<RED>sakit</COLOR>.<PAGE>Jadi pastikan sikati mereka
+sekali tiap hari.<PAGE>Jika merawat mereka dengan
+baik, setiap hari juga...<PAGE>Kamu akan dapat telur, susu,
+woll dari binatang ternak
+yang sudah dewasa.<PAGE>Memerah dan menggosok mem-
+butuhkan Stamina loh,<PAGE>jadi perhatikan juga
+kondisimu.<PAGE>Jika kehabisan stamina,
+kamu akan sakit dan pingsan.<PAGE>dan terbangun besok hari<PAGE>Aktifitas berkebumu juga
+menghabiskan stamina!<PAGE>Disaat mengurus kebun yang
+luas, pastinya membutuhkan
+stamina yang tidak sedikit.<PAGE>Karena tidak cukup untuk
+mengurusi semuanya...<PAGE>Maka persiapkan makanan
+yang telah dibuat sebelum-
+nya untuk menggantikan<PAGE>stamina yang hilang itu.<PAGE>Jumlah stamina yang didapat
+tergantung makanan apa yang
+dimakan.<PAGE>Makanan dengan bahan yang
+banyak, pastinya menambahkan
+paling banyak loh.<PAGE>Jadi masak berbagai jenis
+makanan untuk mencari mana
+yang menambahkan terbanyak!
+----------------------------|----------------------------------
+Hadirin, bapak dan ibu yang
+ada disini. Saya Felicia,
+pemelihara kucing terkenal.<PAGE>Kucing kesayangan saya 
+bernama Isis yg telah meme-
+gang bolpoin untuk mencoret<PAGE>Kalian Semua <3.
+Hanya untuk mempedulikan
+kasih sayangmu dengan kucing<PAGE>Tentu saja itu termasuk 
+anjing juga...<PAGE>Hee hee. jadi pertama,
+hal apa yg paling terpenting
+...<PAGE>disaat memelihara kucing
+dan kucing?<PAGE>Kontak fisik. kamu butuh
+berinteraksi dengan mereka
+tiap hari.<PAGE>Sangat mudah dilakukan.
+Semuanya hanya dibutuhkan
+dipegang lalu dilepas.<PAGE>Kamu dapat bermain dengan
+mereka, dengan memakai main
+an yang disukainya.<PAGE>Beli sebuah <RED>Lonceng kucing</COLOR>
+untuk kucingmu dan sebuah
+<RED>tulang</COLOR> untuk anjingmu.<PAGE>Lempar mainan tersebut di,
+sekitar mereka. mereka akan
+senang dengan mainan itu.<PAGE>Peliharaanmu suka untuk 
+bermain, jadi sering-sering
+melakukan hal tersebut.<PAGE>Dan juga ada tempat
+bermain yang dapat dibangun
+untuk mereka.<PAGE>Bangun pertemanan dengan
+mereka untuk memperkuat
+kasih sayang antar makhluk.<PAGE>Tentu saja untuk Isis, tetapi
+beberapa peliharaan dapat
+membantumu di kebun.<PAGE>Kamu dapat memperlajari
+peliharaanmu di buku 
+<RED>kandang ternak</COLOR>.<PAGE>Saat ini, belum pernah
+memilikinya, tapi...
+<PAGE>Saya dengar beberapa
+orang memelihara burung
+hantu sebagai peliharaan.<PAGE>Jangan lupakan semua jenis
+spesies binatang membutuhkan
+kontak fisik yang membukti<PAGE>kan kamu menyanyanginya!
+karena hal tersebut sangat
+penting terutama pemberian<PAGE>makanan pada hewan
+peliharaanmu. Dan diinget
+selalu berikan makanan tiap<PAGE>harinya, sekali di
+setiap harinya biar mereka
+tidak kelaparan.<PAGE>Dan kurasa itu sudah
+cukup yang saya sampaikan
+mengenai basicnya.<PAGE>Yang saya mau dari
+hadirin, yaitu mencintai
+mereka dari lubuk hati<PAGE>paling terdalam.
+Bye bye meowww! telolet!
+----------------------------|----------------------------------
+Buku ini berjudul "Apa saja
+yang ada di Pegunungan".<PAGE>Baca buku ini?
+<CHOICE_AB> Ya
+ Tidak
+----------------------------|----------------------------------
+<CHOICE_ABC> Menangkap ikan/serangga
+ Memungut barang
+ Tutup buku saja
+----------------------------|----------------------------------
+Apakah kamu tahu mengenai
+apa saja yang ditemukan di
+sebuah pegunungan?<PAGE>Oke, akan diberitahukan
+satu persatu!<PAGE>Pertama, kamu dapat menang
+kap berbagai jenis ikan dan
+serangga.<PAGE>Kedua, kamu dapat juga memu-
+ngut barang seperti tanaman,
+batu atau barang lainnya.<PAGE>Untuk menangkap serangga, di
+haruskan mendekatinya dan me
+nekan <RED>Tombol A</COLOR>.<PAGE>Kamu juga diharuskan melom-
+pat untuk menangkap beberapa
+jenis serangga.<PAGE>Beberapa serangga sangat sen
+sitif dengan suara, jadi ber
+gerak <RED>perlahan-lahan</COLOR><PAGE>untuk mendekatinya.
+Agak menyusahkan hihihi.<PAGE>Dan sekarang cara menangkap
+ikan. Disini ada 2 cara :<PAGE>1. memakai tangan kosong.
+2. memakai pancingan.<PAGE>Untuk menangkap menggunakan
+tangan kosong, dengan mende
+kati ikan di genangan air<PAGE>secara perlahan dan menekan
+<RED>Tombol A</COLOR> untuk menang-
+kapnya.<PAGE>Jika kamu bisa lebih ber-
+sabar, mungkin dengan Alat
+pancing di tempat pemancing.<PAGE>Tunggu dengan sabar sampai
+ikan mengigit umpannya, lalu
+tekan <RED>Tombol A</COLOR>,<PAGE>secepat mungkin. Namun bebe-
+rapa ikan ada yang hanya di-
+dapatkan dengan tangan<PAGE>kosong, dan beberapa dari 
+Alat pancingan.<PAGE>Jika kamu mau mencoba kedua
+nya, maka pelajari sampai
+ahli kedua cara tersebut!
+----------------------------|----------------------------------
+Kamu dapat memungut barang
+apapun yang ada di pegunung
+-an.<PAGE>Hanya melihat disekitarnya
+dan kamu dapat menemukan
+tanaman atau yang lainnya<PAGE>dimana bernilai dan berguna.
+Seperti bunga yang indah dan
+beberapa barang tambang.<PAGE>Dapat ditemukan juga sebuah
+bangunan aneh. Coba telusuri
+semua arenanya!
+----------------------------|----------------------------------
+Buku ini berjudul "Mengenai
+Request Misi"<PAGE>Baca Buku ini?
+<CHOICE_AB> Ya
+ Tidak
+----------------------------|----------------------------------
+<CHOICE_ABC> Basic > misi permintaan
+ Leveling dan ranking
+ Urungkan untuk membacanya
+----------------------------|----------------------------------
+Untuk memenuhi sebuah misi
+permintaan, pertama mengecek
+<RED>Papan Misi</COLOR><PAGE>Kedua desa, Bluebell dan 
+Konohana memiliki papan misi<PAGE>Papan yang berisikan permintaan
+<RED>Misi</COLOR> untuk membantu
+atau keinginan warga desa.<PAGE>Pilih permintaan (request)
+yang diinginkan untuk di-
+selesaikan dan berikan<PAGE>barang yang dicari ke
+pencarinya dengan durasi 
+sesuai <RED>Batas Waktu</COLOR>nya<PAGE>Disaat kamu memberikan
+barang yang dicarinya,
+kamu dapat memberikan<PAGE>barang dari <RED>Gerobak</COLOR>
+jika ada disekitarmu.<PAGE>Tidak semua yang dicari
+sebuah barang. beberapa
+orang meminta bantuan<PAGE>dengan berbagai jenis
+pekerjaan untuk dipenuhi
+untuk dirinya atau orang<PAGE>lain.
+Walaupun kamu gagal
+memenuhi permintaannya<PAGE>sebelum batas waktu,
+tidak ada denda untuk
+kegagalan memenuhi misi<PAGE>yang diambil. Jadi
+berusaha memenuhi misi
+yang diambil jika<PAGE>kamu tidak yakin sukses me
+menuhinya.<PAGE>Jika kamu sukses memenuhi
+misinya, kamu akan mendapat
+kan <RED>Hadiah</COLOR> yang bagus!<PAGE>Namun jika tasmu penuh di
+saat kamu mendapatkan hadiah
+,maka kamu harus menyisih-<PAGE>kan beberapa barang yang ada
+ditas untuk menerima hadiah
+tersebut.<PAGE>Beri <RED>Ruang Kosong</COLOR> di tasmu
+sebelum memenuhi misi ter-
+sebut.<PAGE>Atau bawa gerobak dengan
+ruang yang mencukupi.
+----------------------------|----------------------------------
+Jika kamu menyelesaikan ber-
+bagai permintaan yang di-
+terima. maka <RED>permintaan<PAGE>level</COLOR>mu<PAGE>akan naik ke level
+selanjutnya.<PAGE>Disaat levelnya naik, kamu
+akan dapat menerima per-
+mintaan misi yang lebih<PAGE>tinggi <RED>rank</COLOR>nya.<PAGE><RED>Rank</COLOR> menampilkan tingkat
+kesulitan misi tersebut.<PAGE>Disini terdappat 5 macam,
+yaitu :
+  D, C, B, A, dan S<PAGE>Pada umumnya, semakin tinggi
+ranking misinya, semakin<PAGE>sulit untuk terpenuhi.
+Dan permintaannya semakin susah<PAGE>Misi rank tertinggi, memberi
+kan kesempatan untuk menda-
+patkan barang langka...<PAGE>Jadi coba dan penuhi banyak
+misi yang kamu bisa dari 
+misi rank tertinggi.<PAGE>Semakin tinggi levelmu, se
+makin banyak kesempatan me
+ngambil banyak misi.<PAGE>Diawal, kamu hanya dapat
+mengambil 10 permintaan dalam
+satu waktu.<PAGE>Tetapi, jika kamu mendapat
+kan rank tertinggi. kamu da
+pat menerima slot lebih.<PAGE>Namun, disaat kamu menerima
+permintaan tersebut. kamu tidak
+dapat membatalkannya.<PAGE>Jadi, hati-hati untuk me-
+ngambil banyak-banyak misi.
+----------------------------|----------------------------------
+Buku ini berjudul "Saya dan
+Madu"<PAGE>Baca buku ini?
+<CHOICE_AB> Ya
+ Tidak
+----------------------------|----------------------------------
+Madu ... betapa indah dan
+manisnya sebuah madu ini!<PAGE>Saya telah lama terobsesi
+dengan madu dan akhirnya mem
+buat sarang lebah.<PAGE>Tidak butuh waktu lama, men
+cari sarang madu di
+pegunungan.<PAGE>Setelah itu, semuanya anda
+dapat lakukan hanyalah me
+nunggunya dan itu sangat<PAGE>sangat tidak menarik diceri
+takan hihi. betul tidak?
+lol<PAGE>Lebah menyukai <RED>parfum</COLOR>,
+jadi saya memutuskan menaruh<PAGE>beberapa didalam sarang
+setiap hari.<PAGE>Dan apakah kamu percaya
+bahwa saya mendapatkan madu
+<RED>berkualitas tinggi</COLOR>!<PAGE>Saya juga kaget dengan madu
+spesial yang didapatkan sete
+lah menanam <RED>bunga</COLOR><PAGE>dan pohon buah-buahan di
+dekat sarang lebah.<PAGE>Setelah itu, saya memanen
+madu tiap harinya.<PAGE>Sampai disaat musim dingin,
+semua lebah saya menghilang!<PAGE>Yup, disaat musim dingin
+tiba. kamu tidak dapat mema
+nen madu.<PAGE>Sayang tetapi itu kebenaran
+nya...<PAGE>Jadi Saya menunggu sampai
+musim semi berikutnya, dan
+akan menghabiskan waktu<PAGE>untuk memikirkan ide untuk
+mendapatkan madu yang bagus.
+----------------------------|----------------------------------
+Buku ini berjudul "Mengenai
+Mode Multiplayer".<PAGE>Baca buku ini?
+<CHOICE_AB> Ya
+ Tidak
+----------------------------|----------------------------------
+<CHOICE_ABC> Apa yg bisa dilakukan
+ Cara merawat tanaman
+ Urungkan untuk membaca
+----------------------------|----------------------------------
+Didalam mode Multiplayer, 
+kamu dapat mengundang teman-
+mu ke <RED>Lahan multiplayer</COLOR>.<PAGE>Lalu mereka dapat mengambil 
+hasil panen yang kamu 
+tanamkan di lahan tersebut.<PAGE>Kamu juga dapat mengunjungi 
+lahan temanmu dan memanennya.<PAGE>Untuk memulai Mode 
+multiplayer, pilih <RED>Mode Multiplayer</COLOR> 
+dari <RED>Main Menu</COLOR><PAGE>Terdapat 2 cara untuk 
+menggunakan mode 
+multiplayer.<PAGE>Bermain dengan <RED>Teman disekitar</COLOR>, 
+pilih <RED>Local Wireless</COLOR>.<PAGE>Untuk memainkan dengan 
+<RED>Teman jauh</COLOR>, pilih <RED>Nintendo WFC</COLOR>.<PAGE>
+Kamu membutuhkan <RED>Friend Code</COLOR> temanmu untuk bermain dengannya.<PAGE>Kamu akan mendapatkan friend
+code pertama kalinya saat<PAGE>koneksi ke Nintendo WFC 
+dalam game ini.<PAGE>Kamu dapat memasukan secara 
+manual friend code temanmu 
+di <RED>friend roster</COLOR>...<PAGE>Atau, disaat bermain dengan 
+temanmu secara dekat, friend<PAGE>codenya akan secara otomatis
+ditambahkan ke friend roster 
+kamu.<PAGE>Tetapi, jika kamu memiliki 
+30 teman yang terdaftar, 
+friend code yang baru<PAGE>tidak otomatis terdaftar 
+di friend rostermu.
+----------------------------|----------------------------------
+Untuk menjadi host ditanahmu
+,kamu diharuskan mempunyai
+tanaman untuk dipanen.<PAGE>Masuk ke tanah Multiplayer
+Mode dengan loncati ke kolam
+di bukit.<PAGE>Disaat kamu disana, gunakan
+<RED>Sun</COLOR> untuk mengubah musim
+sesuai keinginan.<PAGE>Lalu hanya memacul dan mena
+nami tanaman serta menyirami
+sampai mereka tumbuh.<PAGE>Tapi ingat, kamu tidak dapat
+menanam <RED>Gandum</COLOR>, <RED>Soba</COLOR>,<RED>Kedelai</COLOR>
+atau menggunakan <RED>Pupuk</COLOR>.<PAGE>Disaat tanaman siap dipanen,
+undang temanmu untuk memanen
+tanamanmu!
+----------------------------|----------------------------------
+Buku ini berjudul "Bagaimana
+menumbuhkan tanaman"<PAGE>Baca buku ini?
+<CHOICE_AB> Ya
+ Tidak
+----------------------------|----------------------------------
+<CHOICE_ABC> Cara menumbuhkan Tanaman
+ Mengenai pupuk
+ Urungkan niat untuk baca
+----------------------------|----------------------------------
+Dasar dari pertumbuhan 
+tanaman adalah <RED>membersihkan 
+rumput</COLOR>, <RED>memancul tanah</COLOR>, <RED>menyemai</COLOR><PAGE><RED>bibit</COLOR> dan <RED>penyiraman</COLOR>.
+<PAGE>Pakai sebuah <RED>sabit</COLOR> untuk member-
+sihkan rumput apapun, lalu 
+<PAGE>gunakan <RED>cangkul</COLOR> untuk 
+memetak tanah.<PAGE>Setelah <RED>memetak tanah</COLOR>, tanam 
+<RED>bibit</COLOR> yang telah disediakan.<PAGE>Setiap tipe bibit dapat 
+ditanam pada musim tertentu.<PAGE>Jika bibitnya tidak tumbuh, 
+maka nanamnya pada musim 
+yang salah.<PAGE>Setelah menanam bibit, 
+gunakan <RED>Alat penyiram</COLOR><PAGE>untuk membasahi tanah yang 
+ada bibitnya<PAGE>Bibitmu akan tumbuh selama 
+disirami tiap hari secara 
+hati-hati.<PAGE>Tanaman tersebut akan tumbuh 
+secara baik jika kamu 
+menyiramnya 2x sehari.<PAGE>Untuk melakukannya, siramlah
+disaat pagi hari. dan siram 
+lagi nanti sore hari.<PAGE>Namun, memelihara tanaman 
+butuh stamina... jadi 
+perhatikan staminamu.<PAGE>Jika kamu menggunakan semua 
+stamina, nanti akan pingsan 
+dan bangun di esok harinya.<PAGE>Tentu juga, berkebun 
+membutuhkan banyak stamina!<PAGE>disaat mengurusi tanamanmu, 
+tidak akan cukup stamina 
+yang dipunyai...<PAGE>Hal terbaiknya untuk 
+menambah stamina dengan cara
+memakan makanan yang banyak.<PAGE>Makanan yang dibuat dengan 
+banyak variasi bahannya akan<PAGE>memberikan stamina yang 
+lebih.<PAGE>Jadi coba memasak makanan 
+yang berbeda untuk mencari<PAGE>mana yang menambahkan 
+stamina paling banyak!
+----------------------------|----------------------------------
+Jika ingin menaikan kualitas
+dari tanaman, gunakan
+<RED>pupuk</COLOR> sebelum ditanam.<PAGE>Cara penggunaannya, seperti
+halnya barang yang lainnya.<PAGE>Disaat kamu menggunakannya,
+didaerah disekitarnya akan
+terpupuki.<PAGE>Mari kita illustrasikan
+kedalam sebuah gambar 
+berikut ini:<PAGE><SHOW_INSTANT>■■■
+■❤■
+■■■\u232c<PAGE>Objek ❤ adalah titik pupuk,
+dan ■ sebuah area yang
+terpupuki.<PAGE>Lebih banyak pupuk yang
+dipakai, semakin efektif
+penggunaan pupuknya.<PAGE>Jika kamu pasang pupuknya di
+kedua sisi dari tanaman,<PAGE>maka tanaman tersebut akan
+terpupuki dari kedua sisi
+tersebut. seperti ini:<PAGE><SHOW_INSTANT>■★■■
+❤★❤■
+■★■■\u232c<PAGE>object ★  yang mendapatkan
+efek dari 2 pupuk.
+<PAGE>Jika menumbuhkan seperti itu
+Tanaman ★ akan memiliki<PAGE>kualitas lebih tinggi daripada
+tanaman ■.<PAGE>Jadi jika mau menaikan kuali
+tas dari tanamanmu, pasangi 
+banyak pupuk disekitarnya<PAGE>Jika kamu pasang pupuk
+disekitarain petak
+irigasi<PAGE>semua tanah yang ada di
+daerah irigasi tersebut akan
+terpupuki.<PAGE>Kamu harus mencobanya 
+sendiri.
+----------------------------|----------------------------------
+Buku ini berjudul "Indahnya
+Kolam Ikan"<PAGE>Baca buku ini?
+<CHOICE_AB> Ya
+ Tidak
+----------------------------|----------------------------------
+Ah, ikan. indahnya nama
+spesies satu ini!<PAGE>Saya terobsesi dengan
+kegiatan memancing. tidak
+hanya terpaku ke Alat<PAGE>Pancing atau dengan
+tangan kosong...<PAGE>Akhirnya saya membuat
+kolam untuk memasukan ikan
+kedalamnya<PAGE>Saya telah membuang
+buang waktu menaruh ikan yg
+lemah kedalam kolam,<PAGE>Saya yakin menaruhnya
+dikolam dalam keadaan hidup.<PAGE>Setelah menaruhnya, mereka
+akan berkembang biak hari
+per harinya.<PAGE>Tapi hal tersebut tidak ter
+lalu menarik karena hanya 
+menunggunya saja.<PAGE>Jadi, saya tetap memberikan
+makanan ke ikan di kolam<PAGE>dengan <RED>makanan ikan</COLOR>
+setiap hari<PAGE>Dan tiba-tiba ikan didalam
+kolam memiliki <RED>kualitas
+terbaik</COLOR>!<PAGE>Well, Saatnya menambah
+lebih banyak ikan kedalam
+kolamku lagi!
+----------------------------|----------------------------------
+Buku ini berjudul
+"Bayangan di pegunungan"<PAGE>Baca buku ini?
+<CHOICE_AB> Ya
+ Tidak
+----------------------------|----------------------------------
+Malam itu, saya keluar dari
+rumah disaat malam hari 
+dengan keluarga saya.<PAGE>Saya memutuskan menghilang-
+kan rasa takut dari kepala
+ketika melintasi hutan<PAGE>Tiba-tiba, saya mendengar
+suara seperti pintu terbuka<PAGE>*telolet**kreakkk*
+   \u20d0*Slam!*<PAGE>Tegang, saya menghadap ke
+arah suara tersebut.<PAGE>Sesuatu hal yang terasa mem
+perhatikan dan langsung
+menghadap saya.<PAGE>Itu membuat saya ketakutan,
+dan akhirnya lari menjauh.<PAGE>Saya dapat mendengar sesuatu
+membisik ke saya.<PAGE>dan suaranya tidak dikenal
+pelan pelan membentuk sebu-
+ah kalimat:<PAGE>Tolong\u270a\u270a saya!\u270b<PAGE>
+Seperti itulah yang saya
+dengar...<PAGE>Tapi saya sangat ketakutan,
+Terpaku membeku tidak gerak..<PAGE>Akhirnya saya berlari kem
+bali kerumah dan memeluk
+orang tua gw.<PAGE>Tidak disangka, yang saya
+peluk ternyata ...<PAGE><RED>...</COLOR>
+halaman selanjutnya tidak
+dapat dibaca.<PAGE>karena kena tumbahan kopi.
+----------------------------|----------------------------------
+Buku ini berjudul "Parfum
+dan bunga"<PAGE>Baca buku ini?
+<CHOICE_AB> Ya
+ Tidak
+----------------------------|----------------------------------
+<CHOICE_ABC> Cara membuat buket
+ Cara membuat parfum
+ Urungkan untuk membacanya
+----------------------------|----------------------------------
+Halo, semuanya!
+Ini marietta, ratunya bunga!<PAGE>Disini saya menjelaskan 
+dasar pembuatam karangan 
+bunga<PAGE>Taruh beberapa bunga bersa
+maan, lalu ikat jadi satu!<PAGE>Sebelum melakukan hal itu,
+pertama perhatikan <RED>warna</COLOR>
+dasar bunga yang dipakai!<PAGE>Apakah merah?putih? atau
+bahkan biru?<PAGE>Pemula berpikiran lebih baik
+mencampurkan kesemuanya ber
+samaan...<PAGE>Tetapi terkadang bagus jika
+membuat karangan bunga dari
+berbagai jenis bunga yang<PAGE><RED>warnanya sama</COLOR>.
+Contohnya warnanya hanya
+merah dan pink.<PAGE>Sekian, makasih.
+----------------------------|----------------------------------
+Hallo semuanya!
+ini Marietta, ratunya bunga!<PAGE>jadi kamu ingin mengetahui
+dasar-dasar pembuatan
+parfum?<PAGE>Serahkan semua kepada saya!
+Membuat parfum yang disukai
+itu mudah!<PAGE>Apakah bunga kamu mekar pada
+musim semi?panas? atau musim
+gugur? atau dingin?<PAGE>Jika kamu mengombinasi 
+beberapa bunga di <RED>musim
+yang sama</COLOR> maka di<PAGE>sebut sebagai parfum 
+seasonal.<PAGE>Tentu saja kamu dapat
+mengombinasikan dari tipe
+bunga yang sama. seperti ...<PAGE>rose merah dan pink dimana
+berbeda warna tetapi kedua
+nya sama sama rose.<PAGE>Walupun juga, keduanya memi
+liki bau yang sama!<PAGE>Apakah ini membantumu?
+Ciao bye bye!
+----------------------------|----------------------------------
+Buku ini terlabeli
+"Diari rahasia Howard"<PAGE>Baca buku ini?
+<CHOICE_AB> Ya
+ Tidak
+----------------------------|----------------------------------
+<CHOICE_ABC> Mengenai kekasihnya
+ Tentang temannya
+ ... (Langsung tutup buku)
+----------------------------|----------------------------------
+Musim semi, hari yg cerah.<PAGE>Saya memutuskan mencatat apa
+yang dilakukan anak tersa
+yang agar dapat mengenalnya<PAGE>lebih baik. Tidak terlalu
+suka dengan merahasiakannya,
+tapi ini pekerjaan seorang<PAGE>ayah kepada anaknya!<PAGE>Hmm, dari apa yang saya
+katakan pada hari <RED>senin dan</COLOR>
+<RED>kamis</COLOR> dari <RED>siang</COLOR> sampai<PAGE><RED>malam hari</COLOR>, dan pada
+hari <RED>rabu sore</COLOR> setelah
+dia selesai bekerja di cafe<PAGE>dia terlihat menunggu sese-
+orang menunggu dengan dia.<PAGE>Jika dia teman baik, dia 
+bakal mengundangnya untuk
+keluar bareng.<PAGE>Saya sangat senang dia sudah
+besar menjadi orang suka ber
+sosialisasi dengan sekitar!<PAGE>Tetapi dia terlalu banyak
+makan makanan manis ...<PAGE>Kebiasaan itu tidak berubah
+dari saat dia kecil...<PAGE>Saya penasaran, kenapa berat
+badannya tidak naik ... dia
+pasti seperti ibunya...<PAGE>Heh heh. itu bagus! <RED>❤</COLOR><PAGE>Kelihatannya saya tidak
+perlu mengkhawatirkan
+keadaannya lagi.<PAGE>Mulai saat ini saya berhen
+ti menulisnya. dan sekarang
+waktunya makan malam! <RED>❤</COLOR>
+----------------------------|----------------------------------
+Musim gugur, siang hari.
+Grady dan saya bercakapan
+tentang anak selama 3 jam<PAGE>Dia bilang kesaya untuk me
+nyimpan catatan seperti ini,<PAGE>tapi saya tidak yakin ini
+hal yang penting...<PAGE>Apapun itu dia terlihat
+seperti mencari seseorang
+untuk keluar bersamanya.<PAGE>Di hari senin, rabu dan 
+minggu sore sampai malam
+hari,<PAGE>Seharusnya dia beristirahat
+dulu. Kalau dipikir-pikir
+lagi, saya selalu melihatnya<PAGE>berbincang-bincang dengan
+orang-orang disekitarnya...<PAGE>Lalu dia menyukai banyak 
+makan terbuat dari susu dan
+telur...<PAGE>Heh heh. dia menjadi benar
+benar anak dari bluebell!<PAGE>Saya jadi ingat disaat kita
+pindah kesini, dia bilang ke
+saya bahwa dia tidak suka<PAGE>susu! dia menjadi suka susu
+disini karena semuanya masih
+segar!<PAGE>Wll, Saya menulis semuanya
+disini, tapi saya tidak 
+yakin dengan saya sendiri...
+----------------------------|----------------------------------
+<CHOICE_ABC> Tentang Cam.
+ Tentang Ash.
+ Jangan baca.
+----------------------------|----------------------------------
+Musim semi, cuaca hujan.<PAGE>Dia kembali dari perjalanan
+untuk memperlajari penyusun-
+an karangan bunga.<PAGE>Saya tidak percaya dia sudah
+menjadi dewasa hanya dalam
+satu tahun!<PAGE>Tapi dia tetap lucu seperti
+biasanya... <RED>❤</COLOR><PAGE>Untuk merayakan kepulangan-
+nya saya membuat beberapa
+masakan pedas yang dia sukai<PAGE>dan dia sangat menyukainya!<PAGE>Musim semi, hari cerah.
+dia tidak pernah keluar,
+kecuali untuk belajar dan<PAGE>bekerja. Sampai dia ke rumah
+, dia tidak pernah beristi
+rahat, hanya belajar dan<PAGE>bekerja. Jadi saya memberi-
+tahu ke dia untuk beristira-
+hat pada hari tertentu...<PAGE>Dia berjanji dia akan menen-
+tukan harinya, <RED>kamis dan 
+jumat sore hari</COLOR><PAGE>Dan dia mempunyai waktu 
+untuk beristirahat pada
+<RED>Selasa malam</COLOR>...<PAGE>Saya harapkan ini menjauhkan
+nya dari stress gegara keba-
+nyakan mikir sesuatu ...<PAGE>Jadi saya mendekat dengannya
+sebagai seorang ayah, jadi
+saya mempunyai kewajiban<PAGE>untuk mengawasinya. <RED>❤</COLOR>
+----------------------------|----------------------------------
+Musim dingin, bersalju.
+Salju dari badai salju kema-
+rin menutupi apapun.<PAGE>Disaat saya keluar untuk me-
+nyekopnya, saya melihat dia
+dan anaknya.<PAGE>Tidak diketaui oleh kakaknya
+memberikan serangga kepada
+gadis yang dekat dengannya.<PAGE>Dilain pihak, itu sangat
+manis dilihatnya dari mereka
+sangat dekat...<PAGE>Tapi disisi lainnya, saya me
+rasakan kasihan kepadanya.<PAGE>Dia tidak mendapatkan pacar
+dengan adik yang selalu ber
+sama-sama seperti itu.<PAGE>Saya akan memperhatikannya,
+Jika ada gadis ingin mende-
+katinya, saya akan berusaha<PAGE>memisahkan adiknya untuk se
+mentara waktu. Dan saatnya
+menjadi makcomblang buatnya.<PAGE>Dia kelihatannya memiliki
+waktu luang saat <RED>sore</COLOR> di
+hari <RED>selasa</COLOR>, <RED>rabu</COLOR> dan <RED>sabtu</COLOR>.<PAGE>Dia seorang petani, jadi sa-
+ya pikir hadiah yang bagus
+buat dia adalah hasil produk<PAGE>binatang ternak.
+Saya harapkan dia menemukan
+seseorang yang spesial.
+----------------------------|----------------------------------
+Buku ini tertulis "Cara 
+romantis mendekati cewek ala
+Ayame!"<PAGE>Baca buku ini?
+<CHOICE_AB> Ya
+ Tidak
+----------------------------|----------------------------------
+<CHOICE_ABC> Tentang Nori
+ Tentang Reina
+ Jangan baca
+----------------------------|----------------------------------
+Jadi kamu menemukan buku ca-
+tatan saya. Anda sangat-
+sangat beeeruntung!!!!<PAGE>Buku ini memberitahukanmu
+cara mendekati seseorang
+gadis yang sangat spesial!<PAGE>Jadi? Kamu ingin tahu menge-
+nai Nori?<PAGE>Apakah menurutmu dia elegant
+dan tampak lebih dewasa?<PAGE>Jika kamu ingin mendekatinya
+kamu seharusnya berbicara ke
+dia saat sore atau malam<PAGE>di hari senin, rabu atau
+jumat.<PAGE>Jika kamu menjadi teman
+dekat. Saya yakin dia akan
+menanyakanmu untuk keluar<PAGE>bersama-sama dengan dia. dan
+juga dia menyukai makanan
+yang terbuat dari nasi.<PAGE>Berikan dia hidangan yang
+ada nasinya sebagai hadiah
+yang bagus untuk mendekati<PAGE>nya. Dan itu semua yang saya
+dapat beritahu. Semuanya 
+tergantung usahamu!<PAGE>Selamat mencobanya!
+----------------------------|----------------------------------
+Jadi kamu menemukan buku ca-
+tatan saya. Kamu sedang be-
+runtung menemukannya!<PAGE>Buku ini akan memberitahukan
+kamu mengenai mendekati
+gadis yang sangat spesial!<PAGE>Jadi?
+Apakah kamu ingin mengetahui
+lebih lanjut mengenai Reina?<PAGE>Apakah kamu terpaku dengan
+jarak diantara sikapnya yang
+keren dan membingungkan?<PAGE>Jika kamu ingin mengajaknya
+keluar, kamu harus bertanya
+kepadanya disaat<PAGE><RED>sore hari atau malam di hari
+senin, sabtu atau minggu</COLOR>.<PAGE>Jika kamu lebih berteman de-
+ngannya, saya yakin dia akan
+mengajakmu keluar bersama-<PAGE>sama. Dia menyukai hidangan
+sup dan salad.<PAGE>Berikan dia salah satu di
+antaranya, salah satu hal
+dapat mendekatinya.<PAGE>Dan itu semua hal mengenai
+dia, lainnya terserah anda!
+Selamat mengejarnya!
+----------------------------|----------------------------------
+<CHOICE_ABC> Tentang Kana
+ Tentang Hiro
+ Jangan dibaca!
+----------------------------|----------------------------------
+Jadi kamu menemukan buku
+catatan saya ini, kamu
+sangat beruntung!<PAGE>Buku ini akan memberitahukan
+mu mengetahui cara mendekati
+seorang pria yg spesial!<PAGE>Jadi?
+Apakah kamu ingin mengetahui
+mengenai Kana?<PAGE>Yup, kamu pastinya jatuh
+hati dengan kesukaan dan
+passionnya ke kuda...<PAGE>Jika kamu ingin mengajaknya
+keluar sama-sama, coba ber
+bicanya kepadanya disaat<PAGE><RED>sore atau malam</COLOR> di hari
+<RED>jumat atau sabtu</COLOR>, atau saat
+hari <RED>selasa malam</COLOR>.<PAGE>dan disaat dia selesai 
+bekerja. Dia sukai pergi ja-
+lan-jalan, saya yakin dia<PAGE>akan mengajakmu jalan bareng
+jika menjadi temannya.<PAGE>Dia menyukai hidangan dengan
+tema ikan, memberikan hida
+ngan tersebut maka semakin<PAGE>mudah mendekatinya dan men
+jadi teman dekatnya.<PAGE>Itu semua hal mengenainya.
+Sisanya terserah anda apa
+yang dilakukan.<PAGE>Selamat mengejarnya :p !!!
+----------------------------|----------------------------------
+Jadi kamu menemukan buku
+catatan saya ini, kamu
+sangat beruntung!<PAGE>Buku ini akan memberitahukan
+mu mengetahui cara mendekati
+seorang pria yg spesial!<PAGE>Jadi?
+Apa kamu ingin mengetahui
+mengenai Hiro, asistenku?<PAGE>Jadi kamu menyukai pria yang
+manis, dia memiliki insting
+menahan dirinya...<PAGE>Dikasus saya, ini membuatku
+ingin mencoba hal buruk ke
+padanya! hihihihi<RED>❤</COLOR><PAGE>Pada hari jumat, dia libur.
+Jadi cobalah berbicara kepa
+danya saat <RED>jumat sore</COLOR> atau<PAGE><RED>malam</COLOR>....
+atau pada hari <RED>senin atau
+minggu malam</COLOR> disaat dia<PAGE>selesai bekerja.
+Dia sangat suka berbicara
+ke orang-orang, saya yakin<PAGE>dia akan mengundangmu keluar
+jika lebih dekat dengan dia.<PAGE>Oh, jika ingin lebih dekat
+dengannya, coba berikan ma-
+kanan kesukaannya.<PAGE>Yaitu makanan yang manis!
+walaupun tidak semua jenis
+hidangan tersebut<PAGE>Tapi terlihat menyukai
+banyak jenis dari hidangan
+tersebut.<PAGE>Dan cukup mengenai dia, sisa
+nya tergantung usahamu.
+Selamat dikejar <3 :p
+----------------------------|----------------------------------
+Buku ini berjudul "Ukuran
+Gerobakmu"<PAGE>Baca buku ini?
+<CHOICE_AB> Ya
+ Tidak
+----------------------------|----------------------------------
+Sepertinya, kamu terlihat
+keberatan ketika memakai
+gerobak?<PAGE>Benar, gerobak merupakan
+Alat yang memudahkan peker-
+jaan sehari-hari tapi ter<PAGE>terkadang membuat kelelahan
+penggunanya.<PAGE>Mungkin kamu berpikiran jika
+disaat gerobakmu sangat
+ringan dipakai...<PAGE>Buku ini menjelasmu kenapa
+gerobak menjadi sangat berat
+dipakai oleh kamu.<PAGE>Tiap gerobak memiliki <RED>berat</COLOR>
+sendiri. Jika kamu mengecek
+berat gerobakmu di toko atau
+dirumah.<PAGE>Semakin berat, semakin lama
+durasi kesegaran barang yang
+tersimpan didalamnya.<PAGE>Dilain pihak, selalu, jika
+kamu mengiginkan gerobak
+yang bagis, artinya gerobak<PAGE>nya pastinya berat. dan se
+waktu waktu gerobakmu ter
+lalu berat untuk digerakan.<PAGE>Tapi jangan takut! Semua 
+yang anda butuhkan meningkat
+kan kecepatan gerobakmu<PAGE>dengan memilih <RED>Kuda terkuat</COLOR>!
+Disini ada beberapa jenis<PAGE>kuda, yaitu: Poni, Kuda, 
+Shetland Poni.<PAGE>Setiap jenisnya memiliki 
+<RED>tingkat kekuatan</COLOR> untuk menarik 
+gerobak.<PAGE> Kuda poni ukurannya kecil, 
+imut dan murah, tapi mereka 
+tidak terlalu kuat.<PAGE>Kuda lebih kuat daripada 
+kuda poni, tapi kuat dengan 
+gerobak yang berat.<PAGE>Shetland Poni adalah kuda 
+yang sangat kuat dan tidak 
+memiliki masalah dengan<PAGE>gerobak yang paling berat 
+sekalipun!<PAGE>Tapi mereka tidak murah 
+dibeli, sekarang apa kamu<PAGE>mengerti tentang ukuran 
+gerobak?<PAGE>Yakinkanlah gerobak dan kuda 
+yang dipakai cocok 
+digunakan!
+----------------------------|----------------------------------
+Buku ini berjudul "Gerobak
+adalah aku"<PAGE>Baca buku ini?
+<CHOICE_AB> Ya
+ Tidak
+----------------------------|----------------------------------
+Apakah kamu memiliki gerobak
+tua yang tercinta yang
+ramping dan menggoda?<PAGE>Saya tahu apa yang dilakukan
+karena gerobak itu telah<PAGE>digunakan untuk seluruh
+hidupku.<PAGE>Umurnya sudah tua dan sedi-
+kit patah, dan apapun muat
+ditaruh disitu.<PAGE>Saya tidak sanggup melihat
+nya yang terlalu banyak yg
+patah pada pondasinya.<PAGE>Maka diperluhkan perawatan
+dan memperbaikinya sesegera
+mungkin.<PAGE>Dan saya mempelajari sesuatu
+yang bagus!.<PAGE>Mereka memberitahukan saya
+dapat menambah kapasitas
+ke gerobak saya!.<PAGE>Sekarang gerobak tua saya
+dapat menampung 2x kapasitas
+daripada sebelumnya!<PAGE>Berapa banyak kapasitas yang
+kamu tambah itu tergantung
+jenis gerobaknya, juga.<PAGE>Sekarang saya dapat tetap
+menggunakan gerobak ini
+untuk sisa kehidupanku!<PAGE>Jadi jika kamu tidak meng
+ganti model gerobakmu, apa
+yang kamu tunggu?<PAGE>Lakukan Sekarang!
+----------------------------|----------------------------------
+Buku ini berjudul "Berteman
+dengan hewan liar"<PAGE>Baca buku ini?
+<CHOICE_AB> Ya
+ Tidak
+----------------------------|----------------------------------
+Hewan liar di pegunungan 
+kelihatan imut banget.. 
+benerkan? hehe<PAGE>Menurut gw hewan liar yang 
+menjadi favorit gw adalah 
+beruang!<PAGE>Beruang kelihatan sangat 
+menggemaskan!<PAGE>Tapi itu tidak memudahkan 
+saya menjinakkannya saat gw 
+menemui salah satunya.<PAGE>Saat pertama kali bertemu, 
+gw berusaha mendekatinya 
+tapi gw ditendang!<PAGE>Itu membuat gw sangat shock 
+berat hampir gw baper!
+Kejadian tersebut tidak<PAGE>membuat patah arang untuk 
+membalasnya ...<PAGE>eh mendekatinya! hihihi
+Setiap hari saya mencoba 
+berbicara dengannya. Tapi<PAGE>tetap menutup perasaannya 
+ke gw.<PAGE>Jadi saya mencoba memberikan 
+beberapa makana nuntuk 
+dimakan beruang tersebut.<PAGE>Seperti biasa, mencoba 
+mendekatinya selalu dipukul 
+sama doi.<PAGE>Jadi saya mencoba meninggal
+kan makanan tersebut cukup<PAGE>dekat dengannya dan memantau
+nya dari kejauhan.<PAGE>Dan ternyata cara tersebut 
+berhasil! Beruang tersebut 
+memakan semuanya!<PAGE>Jadi gw memberikan makanan 
+tersebut secara rutin dengan
+cara tersebut.<PAGE>Pada suatu ketika, beruang 
+tiba-tiba mendekati gw dan 
+memberikan sebuah hadiah.<PAGE>Walupun tidak jelas 
+hadiahnya, tapi ini tandanya 
+kita sudah menjadi teman!<PAGE>Tapi suatu ketika secara 
+tidak sengaja menyerang 
+beruang memakai Alat kebun.<PAGE>Dan kelihatannya si beruang 
+tersebut mulai membenci gw, 
+sedikit sih.<PAGE>Atau membuang sampah ke 
+sungai juga berpengaruh.
+Jadi jika memakai Alat,<PAGE>perhatikan sekitar agar 
+tidak mengenainya.<PAGE>Okay! Saya mencoba lebih 
+giat berteman binatang 
+yang lainnya juga!
+----------------------------|----------------------------------
+Buku catatan ini berjudul
+"Resep rahasia Howard"<PAGE>Baca buku catatan ini?
+<CHOICE_AB> Ya
+ Tidak
+----------------------------|----------------------------------
+Jadi kamu ingin mengetahui
+resep rahasia dari cafe saya
+yang sangat enak itu?<PAGE>Oke, akan saya beritahu ke
+kamu sebagai hadiah telah
+menemukan catatan ini.<PAGE>Hmmm dimulai dari mana ya
+...
+...<PAGE>...
+...
+...<PAGE>Mungkin resep mengenai mem
+buat omelet...
+*melet* *melet*<PAGE>Pertama, siapkan minyak ke
+<RED>penggorengan</COLOR>, lalu tambahkan
+susu dan telur.<PAGE>Yakinkan posisinya dengan
+benar dan membuatnya dengan
+penuh cinta.<PAGE>BTW, rasa omelet lebih enak
+jika menggunakan telur yang
+berwarnah.<PAGE>Larilah ke rumah, pecahkan
+telur dan menjilati minyak
+untuk membuat resep rahasia<PAGE>ala howard!
+----------------------------|----------------------------------
+Catatan ini tertuliskan 
+"Tulisan cicipan makanan:
+Marinated Fish (Advanced)."<PAGE>Baca buku catatan ini?
+<CHOICE_AB> Ya
+ Tidak
+----------------------------|----------------------------------
+Sekarang saya mau membagikan
+resep spesial marianated
+fish dengan kamu.<PAGE>Pertama, campurkan <RED>minyak</COLOR>
+dan <RED>bawang</COLOR> seperti
+biasanya.<PAGE>Tapi disini letak rahasianya
+Hampir semua orang memakai<PAGE>ikan <RED>tuna</COLOR> untuk me
+masak hidangan ini.<PAGE>Tapi trik saya menggunakan
+<RED>sashimi</COLOR> sebagai penggantinya!<PAGE>Dan sekarang kamu berpikir
+kenapa memakai bahan
+tersebut?<PAGE>Karena sashimu lebih menye-
+hatkan daripada tuna, dan
+lebih mudah didapatkan!<PAGE>Saya harapkan kamu mencoba
+resep dari saya ini!
+----------------------------|----------------------------------
+Catatan ini tertuliskan 
+"Tulisan cicipan makanan:
+Tempura."<PAGE>Baca buku catatan ini?
+<CHOICE_AB> Ya
+ Tidak
+----------------------------|----------------------------------
+Ini musimnya memasak tempura,
+dan saya mau membagikan
+resep untuk membuatnya!<PAGE>Pertama, tuangkan minya ke
+<RED>penggorengan</COLOR>.
+Disaat menunggunya panas,<PAGE>campurkan dengan <RED>tepung</COLOR>
+dan <RED>telur</COLOR><PAGE>Lalu masukkan ikan <RED>smelt</COLOR>
+dan jamur <RED>shiitake</COLOR>,
+masukkan semua kedalam minya,<PAGE>dan kamu akan mendapatkan
+tempura!<PAGE>Coba dengan campuran bahan
+lainnya ya!
+----------------------------|----------------------------------
+Buku catatan ini tertuliskan
+"Sashimi ala Yun".<PAGE>Baca catatan ini?
+<CHOICE_AB> Ya
+ Tidak
+----------------------------|----------------------------------
+Hampir semua orang memakai
+tuna untuk membuat sashimi
+...<PAGE>Tapi saya rekomendasikan
+ikan <RED>goby</COLOR> ketimbang tuna
+untuk membuat sashimi.<PAGE>Dikarenakan goby lebih
+mudah ditemukan.<PAGE>Yang tercinta Ying
+menyukai sashimi, jadi
+kubuatkan yang banyak.<PAGE>Saya harap kamu
+mencobanya...
+----------------------------|----------------------------------
+Topik apa yang ingin dibaca?
+----------------------------|----------------------------------
+Disini tidak ada untuk
+dibaca lagi.
+----------------------------|----------------------------------
+Ini <RED>tempat tidur</COLOR>mu.
+Disaat kamu menggunakannya,
+kamu akan tidur sampai pagi.<PAGE>Jika kamu masih bangun saat
+sampai jam 5:00 AM, kamu ba
+kal pingsan.<PAGE><CHOICE_ABC> Simpan dan Tidur
+ Tidur tanpa menyimpan
+ Tidak jadi kekasur

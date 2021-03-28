@@ -1,0 +1,68 @@
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>Maaf ya, sudah datang sepagi
+ini. Bagaimana pertumbuhan
+tanamanmu sekarang?<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>Aku akan mengajarimu menge-
+nai teknik <RED>Penumpukan Tanah</COLOR>
+untuk hari ini.<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>Apakah kamu tahu mengenai
+penumpukkan tanah?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>Dan inilah penampakan teknik
+penumpukan tanah yang mem-
+bentuk parit disampingnya!<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>Disaat kamu menanam dengan
+teknik ini, kamu bisa menga-
+liri dan kasih pupuk bersa-<PAGE>ma-sama!<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>Sangat praktiskan?<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>Gundukkan tanah ini sangat
+mudah dibuat kok.<PAGE>Disaat kamu mencangkul ta-
+nah dengan cangkul, bisa
+tetap menekan <RED>+Control Pad</COLOR><PAGE>sambil kearah tertentu!<PAGE>Lalu tekan <RED>Tombol A</COLOR> tiap
+kotak yang kamu langkahi
+itu.<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>Tiap kotak yang baru kamu
+pacul, itu akan ditambah-
+kan kedalam alur gundukkan.<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_SAD><FP_RIGHT>Tapi kamu harus memperha-
+tikan satu hal ini...<PAGE>Posisi paritnya harus di-
+garis lurus...
+tanpa celah.<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>Kamu tidak dapat menghu-
+bungkan beberapa gundukan,
+dengan kata lain...<PAGE>Jika kamu melakukan sebuah
+kesalahan, salah satu cara
+untuk merapikannya yaitu<PAGE>menggunakan palu untuk me-
+ratakan gundungan yang
+gagal itu dan buat lagi.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>Jadi untuk membuat gundukkan
+seperti ini, kamu sampai
+membentuk sebuah <RED>garis</COLOR> yang<PAGE>tersambung dengan lainnya.<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>Tapi...\u270ajika kamu membiar-
+kan gundukkan itu seminggu
+...<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_SAD><FP_RIGHT>Gundukannya akan hilang di-
+posisi disitu...<PAGE>Jika kamu memotong alur
+gundukkan yang berada di-
+tengahnya, maaf!<PAGE>itu tidak bisa diperbaiki.<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>Itu kenapa kamu harus ber-
+hati-hati.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>Dan itulah dasar-dasarnya
+yang kamu perlu ketahui me-
+ngenai teknik gundukkan<PAGE>tanah.<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>Apakah kamu ingin kujelas-
+kan lagi sekali lagi?
+----------------------------|----------------------------------
+<CHOICE_AB> Jelaskan lagi dong!
+ Tidak makasih, dah paham!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>Oke, aku akan menjelaskan
+hal ini lagi.<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>Teknik ini membuah gundukkan
+tanah berbentuk garis dari
+susunan kotak-kotak.<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>Mari kutunjukkan kepadamu
+itu dan menjelaskannya ke-
+padamu.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>Bagus! Selamat Berkebun!
+----------------------------|----------------------------------
+<CHOICE_AB> Tidak, mohon jelaskan lagi.
+ Ya, Aku dah tahu.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>Oke, aku akan menjelaskan
+hal ini lagi.<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>Teknik ini membuah gundukkan
+tanah berbentuk garis dari
+susunan kotak-kotak.<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>Ini cukup mudah dipahami
+jika aku tunjukkan contoh
+nyatanya. hehehe
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>Apa benar? Kamu terburu-buru
+atau ...?<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>Okeee, selamat berkebun!

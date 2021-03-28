@@ -1,0 +1,98 @@
+<FACE_POS_LEFT><HIDE_NAME><FACE_GEORGIA><FACE_NORMAL><FP_LEFT><HIDE_FACE>Why, Laney!
+I've been looking for you!
+What are you doing?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_NORMAL><FP_RIGHT>Oh, Georgia.
+What do you mean?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_HAPPY><FP_RIGHT>I'm just taking a walk
+with <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_GEORGIA><FACE_NORMAL><FP_LEFT>Well, Howard's been
+looking for you.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_GEORGIA><FACE_NORMAL><FP_LEFT>He says you're supposed to
+be working at the caf
+right now!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_SHY><FP_RIGHT>\u20d0Oh no!<PAGE>I can't believe I forgot!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_SHY><FP_RIGHT>I'm so sorry, <MYNAME>,
+but I've got to get back.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_NORMAL><FP_RIGHT>What? You want to help?
+Oh no, I couldn't
+possibly...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_HAPPY><FP_RIGHT>Thanks, <MYNAME>.
+Maybe you should
+come with me, then...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_NORMAL><FP_RIGHT>Thanks for telling me,
+Georgia!<PAGE><FACE_POS_LEFT><FACE_GEORGIA><FACE_HAPPY><FP_LEFT>Why you're quite welcome.
+Good luck!<PAGE><FACE_POS_RIGHT><FACE_LANEY><FACE_HAPPY><FP_RIGHT>Thanks!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_SHY><FP_RIGHT>I'm so sorry, Dad. I
+completely forgot I promised
+to help you today.<PAGE><FACE_POS_LEFT><FACE_HOWARD><FACE_NORMAL><FP_LEFT>Oh, that's alright, Laney.
+I shouldn't have asked you
+to help out on your day off.<PAGE>But it's not like you not to
+come in when you say you
+will, so I was worr--
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_HOWARD><FACE_NORMAL><FP_LEFT>Now don't tell me that the
+two of you were together!?<PAGE><FACE_POS_RIGHT><FACE_LANEY><FACE_NORMAL><FP_RIGHT>Huh? Yeah.<PAGE>Actually, <MYNAME>
+says he wants to help out.<PAGE><FACE_POS_LEFT><FACE_HOWARD><FACE_NORMAL><FP_LEFT>Does he, now?
+Hmmm...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_SHY><FP_RIGHT>Why are you staring at him
+like that, Dad?<PAGE>You're making <MYNAME>
+uncomfortable.<PAGE>Go on, get back to work.
+There are customers waiting!
+<PAGE><FACE_POS_LEFT><FACE_HOWARD><FACE_HAPPY><FP_LEFT>So there are. Excuse me.
+I think I'll take you up
+on your offer to help out.<PAGE>Thank you sooo much,
+<MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_HOWARD><FACE_NORMAL><FP_LEFT>Phew. What a crowd!
+<PAGE><FACE_POS_LEFT><FACE_HOWARD><FACE_HAPPY><FP_LEFT>I don't know what we
+would've done without you,
+<MYNAME>.<PAGE>You're a natural!
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_NORMAL><FP_RIGHT>I hope we didn't tire you
+out!
+----------------------------|----------------------------------
+<CHOICE_AB> I'm too tired to move.
+ I'm fine. This was fun.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_SHY><FP_RIGHT>Really? Farm work seems
+like it would take a lot
+more out of you...<PAGE><FACE_POS_RIGHT><FACE_LANEY><FACE_NORMAL><FP_RIGHT>Anyway, you were a big help.
+Thanks so much.
+See you later, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_HAPPY><FP_RIGHT>I can always count on
+you, <MYNAME>.<PAGE>You must be used to
+working hard on your
+farm...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_HOWARD><FACE_HAPPY><FP_LEFT>How about ditching the farm
+and working here as
+Laney's husband?<PAGE>It would be wonderful to
+have you here every day!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_SHOCK><FP_RIGHT>D-Dad!!
+Don't say things like that!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_HAPPY><FP_RIGHT>Sorry, <MYNAME>.
+Don't pay any attention
+to my dad!<PAGE><FACE_POS_RIGHT><FACE_LANEY><FACE_NORMAL><FP_RIGHT>A-Anyway, thanks so much
+for giving us a hand today.
+You were a huge help!<PAGE>So...sorry today turned
+into this.<PAGE><FACE_POS_RIGHT><FACE_LANEY><FACE_SHOCK><FP_RIGHT>Next time we hang out,
+we'll do something fun.
+That's a promise, okay?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_HAPPY><FP_RIGHT>Hee hee. See you soon,
+<MYNAME>!

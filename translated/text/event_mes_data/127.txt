@@ -1,0 +1,627 @@
+<FACE_POS_CENTER><HIDE_NAME><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Jadi namamu, eh?
+<MYNAME>, tadi kamu 
+bilang?<PAGE><FACE_POS_CENTER><FACE_SHENG><FACE_HAPPY><FP_RIGHT>Aku? Aku seorang pandai
+besi disekitar sini.<PAGE>Nama aku <BLUE>Sheng</COLOR>, dan nama
+ini sebuah nama yang kuat.<PAGE><FACE_POS_CENTER><FACE_SHENG><FACE_ANGRY><FP_RIGHT>Dan lebih baik kamu tidak
+berkomentar apa-apa menge-
+nai pakaian yang aku pakai!<PAGE>Jangan sekali-kalinya
+menghina kekuatan seekor
+panda!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Cuaca seperti kemarin itu
+sangat tidak bagus untuk
+peralatanku. Aku sebaiknya<PAGE>merawatnya aja didalam
+rumah daripada dipakai
+diluar.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_HAPPY><FP_RIGHT>Tidak buruk. Itu hampir se-
+imut panda sih!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Jika itu bukanlah panda,
+maka menurutku itu tidak
+imut lucu atau menggemaskan.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Apakah kamu berpikiran untuk
+segera menikah? Apa itu ter-
+lalu dini untukmu?<PAGE><FACE_POS_CENTER><FACE_SHENG><FACE_HAPPY><FP_RIGHT>Well, jika itu cocok dan
+mantep, Aku harap kamu
+mendapatkan keberuntungan.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Untukku? Nah, aku merasa
+tidak enak nih.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Kamu sudah memberikanku
+sesuatu untuk hari ini.
+Cukup ya. Makasih.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Apa yang kamu pikirkan
+dengan melakukan itu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_HAPPY><FP_RIGHT>Sebuah hadiah ulang tahun 
+untukku? dan lihat itu
+sebuah batu <RED>Agate</COLOR>!<PAGE>Aku suka itu!<PAGE>ternyata kamu seorang pemuda
+yang cerdik merayu panda
+tua ini. Makasih!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_HAPPY><FP_RIGHT>Apa ini sudah bagus sekarang?
+Kamu sungguh bijaksana, eh?<PAGE>Aku hargai itu kok.
+Terima kasih banyak!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Untuk ulang tahunku, eh?
+Kamu bijaksana ya nak.<PAGE><FACE_POS_CENTER><FACE_SHENG><FACE_HAPPY><FP_RIGHT>Sangat bagus! Aku berterima
+kasih kepada kamu. Hal ini
+sangat penting untuk menun-<PAGE>jukkan bahwa kamu masih
+peduli dan menghargai para
+sesepuhmu.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_HAPPY><FP_RIGHT>Bagaimana kamu mengetahui
+apa yang aku sukai?
+Makasih!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Sebuah hadiah ulang tahun, 
+eh? Tampaknya bagus. Aku 
+akan menerimanya,makasih.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Kamu bersikeras ya, eh?
+Aku akan menerima hadiahmu.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_ANGRY><FP_RIGHT>Kamu mendapatkan apa yang
+menentangku ya, eh? Jika
+benar, jauhkan itu ya!<PAGE>Jika tidak, persetan lo,
+kenapa memberikan ini di
+hari ulang tahunku?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_SAD><FP_RIGHT>Alasanmu apa memberikan aku
+barang ini? Apa mau mematah
+kan kakiku?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_ANGRY><FP_RIGHT>Tolong hancurkan itu! Aku
+tidak suka kicauannya!<PAGE>Ini membuatku kehilangan 
+kosentrasi!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>!
+Aku senang bahwa kamu akan
+menikah.<PAGE>Disaat kamu sudah menikah,
+kamu akan melindungi keluar-
+ga-mu itu hal yang krusial.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_SAD><FP_RIGHT>Hmm. Apakah panda diluar
+sana apa tetap aman? Angin
+ini semoga tidak merusak<PAGE>disekitar lintasannya itu.
+...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_SAD><FP_RIGHT>Apakah panda akan baik-baik
+saja ya dengan semua salju
+itu? Aku harap mereka<PAGE>tidak tertimbun banyak
+salju diluar.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_HAPPY><FP_RIGHT>Aku tidak pernah bertemu
+dengan seseorang, sebelumnya
+aku hanya berbicara<PAGE>dengan panda saja, dan ini
+akhirnya aku berbicara
+denganmu sekarang.<PAGE>Aku akan melihat panda
+yang berembang bersama
+dengan kamu. amin.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_HAPPY><FP_RIGHT>Apa yang kamu pikirkan jika
+panda hanya makan bambu?
+Mereka juga memakan buah-<PAGE>buahan. Kamu tahu kan,
+benar kan? eh?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_HAPPY><FP_RIGHT>Panda yang baru lahir itu
+benar benar kecil. Tapi itu
+benar-benar menakjubkan<PAGE>disaat mereka tumbuh menjadi
+sangat-sangat besar.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_HAPPY><FP_RIGHT>Panda memanjat pohon, tapi
+tidak baik disaat turun.
+Ini yang membuatnya imut.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Panda suka minum air.
+Kamu tahukan?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Bagaimana bisa panda terlihat
+benar benar imut?
+Beritahu aku, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Sekarang APA?
+Aku mencoba berpikir!
+Bicaranya nanti saja!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Oh, untuk festival?
+Apa tujuan kamu menunjukan
+itu keaku?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Sesuatu yang bukan banda,
+aku tidak akan mengatakan
+apa-apa.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_HAPPY><FP_RIGHT>Tidak ada yang selucu
+panda. TIDAK BAKAL ADA!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_ANGRY><FP_RIGHT>Aiiieee!
+Jauhkan itu!!
+Itu bukan PANDA!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Tidak tampak seperti hewan
+peliharaan. Kenapa susah-
+susah menunjukkannya keaku?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_HAPPY><FP_RIGHT>Untukku, eh?
+Jangan sering berikan keaku
+ya. Makasih!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_HAPPY><FP_RIGHT>Semuanya ini apa?
+Uh dibungkus, eh?
+Apa ya dalamnya...?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_HAPPY><FP_RIGHT><MYNAME>, kamu seorang
+gadis yang berani! Aku
+suka itu!<PAGE>Kamu pastinya berlari dari
+kebunmu dan sampai kesini.
+Dan aku akan membantumu<PAGE>sebisa aku ya.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Aku beritahu, <MYNAME>...<PAGE>Pindah kedesa ini, dan kamu
+akan melihat panda 
+setiap hari!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Panda itu sungguh lembut dan
+suka dipeluk. Apa kamu ber-
+pikiran apa mereka membiar-<PAGE>kanku tidur bersamanya?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Alasan kenapa aku ada di-
+sini : karena ada panda
+yang hidup disini!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Alasan kenapa aku ada di-
+sini : karena ada panda
+yang hidup disini!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Terowongannya sangat bagus.
+Benar-benar pekerjaan yang
+terampil!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ini tidak sama dengan
+Konohana disini. karena
+tidak ada panda!!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Eileen memiliki potensial
+sebagai pengerajin. Dia
+layak diajari.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Kupikir aku akan pulang
+saja. Aku puas bahwa
+terowongannya sudah selesai.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Sekarang terowongannya sudah
+selesai dibangun, orang-
+orang dari Bluebell akan<PAGE>bisa melihat seekor panda!
+Itu bagus sekali!<PAGE>Apa kamu setuju juga,
+<MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Lihat semua bambu yang ada
+disekitar sini! Ada gigitan
+Panda! WOW!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_HAPPY><FP_RIGHT>Ho, <MYNAME>.<PAGE>Terima kasih sudah menyema-
+ngati kita. Konohana akan me
+menangkan festival memasak!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_ANGRY><FP_RIGHT>Sudahlah, <MYNAME>!
+Kamu tidak niat menyemangati
+kita dalam festival!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Kita ini saingan di festival
+memasak tahun ini. Kedepan-
+nya mari setim ya!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_SAD><FP_RIGHT>Kenapa kita kalah dalam
+festival memasaknya ya?
+Kurang cukup cerdik, eh?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Eh, bukan hal besar.
+Latihan lebih giat.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_HAPPY><FP_RIGHT>Bagaimana bisa festival 
+bisa menyenangkan disaat
+tidak ada panda yang ikut?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_HAPPY><FP_RIGHT>Kemana saja kamu hari ini?
+Tidak sempat ikut festival,
+eh?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Kamu tidak bakal menang jika
+kamu tidak bersemangat
+yang membara.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ingin mengikuti festival ini,
+eh, <MYNAME>?
+Maka pindah ke Konohana.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Met pagi, <MYNAME>.
+Sudah mendapatkan rencana
+bagus hari ini?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Met pagi, <MYNAME>.
+Ingin latihan dengan panda
+bersamaku?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Met pagi. *ngantuk*<PAGE>Seperti panda, aku agak
+mengantuk dipagi hari.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, Halo, <MYNAME>!<PAGE>Aku harap energi masa muda
+mu digunakan hal yang baik.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_HAPPY><FP_RIGHT>Halo, <MYNAME>.
+Apapun disaat melihat wajah
+mu itu, Aku berpikiran<PAGE>sebuah tanaman yang enak
+dimakan bersama panda!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Oh, itu kamu, <MYNAME>.
+Tidak sekarang.
+Aku lagi memikirkan panda.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Selamat Malam, <MYNAME>.<PAGE>Panda menetap berlindung di
+saat malam hari, dan aku
+juga melakukannya.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Lihat waktunya, <MYNAME>!
+Segeralah pulang kerumah!
+Sekarang!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Malam.
+Aku merasa ngatuk sekarang.
+Kamu bisakan.. besok...<PAGE>zzzzzzzzzzzzzzzzzz
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_ANGRY><FP_RIGHT>Apa tujuanmu kesini?
+Jika ini untuk bisnis,
+...<PAGE>bicarakannya di depan
+konter ya!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Aku sedang bekerja sekarang!
+Tidak ada waktu untuk
+chitchat ya!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_ANGRY><FP_RIGHT>Apa yang kamu mau?
+Aku sibuk.
+Datang nanti aja ya, eh?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Hmm, ...
+Simpan waktumu, sekarang!
+Tidak akan ada apa-apa loh.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Hmm, ...
+Simpan waktumu, sekarang!
+Tidak akan ada apa-apa loh.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Hmm, ...
+Simpan waktumu, sekarang!
+Tidak akan ada apa-apa loh.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Aku tidak menyangka!
+Kamu, pemenangnya? Apa
+kamu tidak berpikir<PAGE>bahwa hoki masih ada pada
+dirimu.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_HAPPY><FP_RIGHT>Juri masak difestival ini
+sangat tahu mengenai makanan.<PAGE>Sangat mengagumkan jika
+memenangkannya!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_HAPPY><FP_RIGHT>Disaat melihat sajianmu itu,
+membuatku kelaparan...!<PAGE>Bisakah memasakannya untuk-
+ku, eh?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Semuanya sudah berakhir.
+Kerja yang bagus.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Aku ingin melihat festival
+dengan pandaku yang imut
+itu...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Festival ini membuatku selalu
+bersemangat. Selalu ada hal
+yang menarik.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_HAPPY><FP_RIGHT>Apakah itu sesuatukan !?
+Sekarang lihat ahlinya beker-
+ja! Kerja bagus!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Sekarang, <MYNAME>,
+Selamat atas kemenanganmu.<PAGE>Aku tahu bahwa kamu akan
+mengukir namamu.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Merawat tanaman tampaknya
+mudah, tapi itu susah.<PAGE><MYNAME>, telah bekerja
+dengan keras itu tampak
+yang kamu lakukan hari ini!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Well, Aku tidak peduli
+festival akan seperti apa.
+Yang penting seninya!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Seni adalah pengembangan
+karakter! Tidak sebanyak
+sebagai ahli besi.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Itu cukup menakjubkan,
+benarkan?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Kecewa, aku kalah!
+Aku akan memenangkannya
+ditahun depan! amin!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Kenapa aku bisa kalah ya?
+Mungkin aku tidak mempersi-
+apkannya. Kedepannya aku<PAGE>tidak akan kalah.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_SAD><FP_RIGHT>Aku kalah kepada kamu dari
+semua orang! Itu menyakitkan.<PAGE>Aku akan berlatih lagi
+kedepannya.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho, <MYNAME>.

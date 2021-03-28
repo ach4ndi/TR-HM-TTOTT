@@ -1,0 +1,46 @@
+<FACE_POS_LEFT><FACE_NATHAN><FACE_NORMAL><FP_LEFT>Dan marih kita mulai...<PAGE>Kita disisi dihari ini untuk
+menjadi saksi pernikahan
+dari <MYNAME> dan Reina.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_NATHAN><FACE_NORMAL><FP_LEFT><MYNAME>...<PAGE>Apakah kamu menerima Reina
+sebagai istri kamu, untuk
+dicintai dan dukung dia<PAGE>dengan seluruh kehidupanmu
+untuk selama-lamanya?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_NATHAN><FACE_NORMAL><FP_LEFT>Reina...<PAGE>Apakah kamu menerima
+<MYNAME> sebagai suamimu,
+untuk dicintai<PAGE>dengan seluruh kehidupanmu
+untuk selama-lamanya?<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Aku terima.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_NATHAN><FACE_NORMAL><FP_LEFT>Maka, aku akan mengumumkan
+bahwa kamu suami dan istri!<PAGE><FACE_POS_LEFT><FACE_NATHAN><FACE_HAPPY><FP_LEFT>Semoga dewi panen memberkati
+kalian pasangan yang sedang
+berbahagia ini!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_SHOCK><FP_RIGHT><MYNAME>...<PAGE>Menikahimu ini membuatku me-
+rasa benar-benar...
+senang.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_SHOCK><FP_RIGHT>Hari ini kita berdua akan
+memulai se...sebuah kehidup-
+an baru bersama, benarkan?<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_HAPPY><FP_RIGHT>Tapi lebih enaknya memanggil-
+mu dengan nama panggilan,
+enaknya memanggilmu apa ya?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT><MYNICKNAME>. Itu kedengaran-
+nya bagus. Yakin?
+----------------------------|----------------------------------
+<CHOICE_AB> Ya, Reina.
+ ... mungkin yang lainnya.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_HAPPY><FP_RIGHT>Jadi sudah diputuskan.<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_SHOCK><FP_RIGHT>Kita akan bersama-sama mulai
+sekarang...
+<MYNICKNAME>.
+----------------------------|----------------------------------
+Kehidupan baru kita akan di-
+mulai! Untuk hari ini kita
+akan beristirahat seharian.<PAGE>Besok akan memulai pekerjaan
+kembali!
+----------------------------|----------------------------------
+<CHOICE_AB> Simpan dan tidur
+ tidur tidur tidur.

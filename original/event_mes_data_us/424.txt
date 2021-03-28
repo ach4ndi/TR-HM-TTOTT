@@ -1,0 +1,26 @@
+<FACE_POS_LEFT><FACE_RAUL><FACE_HAPPY><FP_LEFT>Things are selling like
+hotcakes today!<PAGE><FACE_POS_RIGHT><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Let's keep it up!<PAGE><FACE_POS_RIGHT><FACE_ENRIQUE><FACE_HAPPY><FP_RIGHT>I'll leave the animals
+up to you, Diego.<PAGE><FACE_POS_LEFT><FACE_RAUL><FACE_NORMAL><FP_LEFT>That's a plan!<PAGE>Hey...you remembered to
+lock the door, right?<PAGE><FACE_POS_RIGHT><FACE_DIEGO><FACE_HAPPY><FP_RIGHT>Of course!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ENRIQUE><FACE_SAD><FP_RIGHT>But...I think I'm seeing
+things!
+
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_RAUL><FACE_ANGRY><FP_LEFT>You're not seeing things!<PAGE>How many times do I have to
+remind you?<PAGE><FACE_POS_RIGHT><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>Be more careful next time!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RAUL><FACE_NORMAL><FP_RIGHT>How long have you been
+there, <MYNAME>?<PAGE>It's rude to listen in on
+people's conversations!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RAUL><FACE_NORMAL><FP_RIGHT>I know. Did you come to
+hang out?<PAGE>It's too late, you know.
+You need to come earlier.
+<PAGE>You should just head home
+for today.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIEGO><FACE_HAPPY><FP_RIGHT>You remember, right,
+<MYNAME>?<PAGE>When you leave, go through
+the front door, not
+the back.

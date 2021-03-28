@@ -1,0 +1,60 @@
+<FACE_POS_LEFT><FACE_KANA><FACE_HAPPY><FP_LEFT>Hey, <MYNAME>!
+Ini waktunya sangat tepat!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_KANA><FACE_NORMAL><FP_LEFT>Aku ada beberapa informasi
+penting yang ingin kuberi-
+tahu kekamu mengenai<PAGE>kuda dan gerobak!<PAGE>Mungkin kamu sudah mengeta-
+hui mengenai informasi ini,
+...<PAGE>Tapi apakah mau aku jelas-
+kan hal ini kepadamu?
+hehehe
+----------------------------|----------------------------------
+<CHOICE_AB> Yaaaa!
+ Tidak, makasih makasih.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_KANA><FACE_HAPPY><FP_LEFT>Bagus! Bagus! oke, biarkan
+ane menjelaskan...<PAGE><FACE_POS_LEFT><FACE_KANA><FACE_NORMAL><FP_LEFT>Pertama, perbedaan <RED>tipe</COLOR>
+dari kuda dan gerobak.<PAGE>Saat ini kamu mempunyai kuda
+jenis yang disebut sebagai
+"poni", tipe terkecil.<PAGE>Ada kuda yang lebih kuat
+daripada poni yang dapat
+menarik gerobak dengan<PAGE><RED>speeds</COLOR> yang lebih
+cepat. kuat diranjang.<PAGE><FACE_POS_LEFT><FACE_KANA><FACE_HAPPY><FP_LEFT>Jika kamu ingin mengganti
+kudamu, datang ketokoku
+dan kamu akan bisa memilih-<PAGE>kuda yang baru.<PAGE><FACE_POS_LEFT><FACE_KANA><FACE_NORMAL><FP_LEFT>Dan juga, tiap tipe gerobak
+itu ada <RED>berat</COLOR> dan
+<RED>kapasitas</COLOR> yang dapat<PAGE>ditampung.<PAGE>Kamu juga dapat <RED>memodifi-
+kasi</COLOR> gerobak yang sudah
+ada jadi bisa menampung le-<PAGE>bih banyak barang yang bisa
+dibawa.<PAGE><FACE_POS_LEFT><FACE_KANA><FACE_HAPPY><FP_LEFT>Kamu dapat memodifikasi ge-
+robaknya ditempatku. ya 
+apalagi tokoku lah!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_KANA><FACE_NORMAL><FP_LEFT>Dan itu saja yang perlu kamu
+ketahui mengenai gerobak
+dan kuda, mengerti?
+----------------------------|----------------------------------
+<CHOICE_AB> Oi yo yo!
+ Puyeng, bisa diulangi?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_KANA><FACE_NORMAL><FP_LEFT>Kamu ingin dijelaskan lagi
+ya? Oke gak masalah!<PAGE>Pertama, perbedaan <RED>tipe</COLOR>
+dari kuda dan gerobak.<PAGE>Saat ini kamu mempunyai kuda
+jenis yang disebut sebagai
+"poni", tipe terkecil.<PAGE>Ada kuda yang lebih kuat
+daripada poni yang dapat
+menarik gerobak dengan<PAGE><RED>speeds</COLOR> yang lebih
+cepat. kuat diranjang.<PAGE><FACE_POS_LEFT><FACE_KANA><FACE_HAPPY><FP_LEFT>Jika kamu ingin mengganti
+kudamu, datang ketokoku
+dan kamu akan bisa memilih-<PAGE>kuda yang baru.<PAGE><FACE_POS_LEFT><FACE_KANA><FACE_NORMAL><FP_LEFT>Dan juga, tiap tipe gerobak
+itu ada <RED>berat</COLOR> dan
+<RED>kapasitas</COLOR> yang dapat<PAGE>ditampung.<PAGE>Kamu juga dapat <RED>memodifi-
+kasi</COLOR> gerobak yang sudah
+ada jadi bisa menampung le-<PAGE>bih banyak barang yang bisa
+dibawa.<PAGE><FACE_POS_LEFT><FACE_KANA><FACE_HAPPY><FP_LEFT>Kamu dapat memodifikasi ge-
+robaknya ditempatku. ya 
+apalagi tokoku lah!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_KANA><FACE_HAPPY><FP_LEFT>Baguslah! Silahkan berkun-
+jung ditokoku untuk lihat-
+lihat!

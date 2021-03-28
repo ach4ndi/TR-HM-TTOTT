@@ -1,0 +1,379 @@
+<FACE_POS_LEFT><FACE_INA><FACE_HAPPY><FP_LEFT>All right, let's begin,
+everyone.\u270b<PAGE><FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT>Today is the Snow Festival.<PAGE>This year's snow sculpture
+was made by Sheng.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_INA><FACE_HAPPY><FP_LEFT>All right, let's begin,
+everyone.\u270b<PAGE><FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT>Today is the Snow Festival.<PAGE>This year's snow sculpture
+was made by Mako.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_INA><FACE_HAPPY><FP_LEFT>All right, let's begin,
+everyone.\u270b<PAGE><FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT>Today is the Snow Festival.<PAGE>This year's snow sculpture
+was made by Kana.
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_INA><FACE_HAPPY><FP_LEFT>Let's see what you've made,
+Sheng.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_INA><FACE_HAPPY><FP_LEFT>Let's see what you've made,
+Mako.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_INA><FACE_HAPPY><FP_LEFT>Let's see what you've made,
+Kana.
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Time to show all of you my
+masterpiece!<PAGE><FACE_POS_RIGHT><FACE_SHENG><FACE_HAPPY><FP_RIGHT>Come this way!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Certainly. Come this way.<PAGE><FACE_POS_RIGHT><FACE_MAKO><FACE_HAPPY><FP_RIGHT>Let's see if you people can
+appreciate the artistic
+genius of my creation.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>Check it out, everyone!<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>You have GOT to see it! It's
+way sweet!
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_SHENG><FACE_HAPPY><FP_LEFT>Take a look, everyone!
+Fantastic and inspired,
+is it not?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_MAKO><FACE_HAPPY><FP_LEFT>Here's my sculpture! Made
+with the sweat of my
+brow! A true work of art!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_KANA><FACE_HAPPY><FP_LEFT>Here's my awesome sculpture!
+This thing'll BLOW YOUR
+MINDS!
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_SHENG><FACE_HAPPY><FP_LEFT>Well, what do you think,
+everyone? I call it...
+"<RED>The Fighting Panda</COLOR>"!<PAGE><FACE_POS_LEFT><FACE_SHENG><FACE_NORMAL><FP_LEFT>Look at its smooth structure
+and its fierce expression!<PAGE><FACE_POS_LEFT><FACE_SHENG><FACE_HAPPY><FP_LEFT>It's got everything that
+makes a panda great!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_MAKO><FACE_HAPPY><FP_LEFT>Heh, how about this? My
+masterpiece entitled...
+"<RED>The Harvest of the Earth</COLOR>"!<PAGE><FACE_POS_LEFT><FACE_MAKO><FACE_NORMAL><FP_LEFT>Each individual leaf has
+been delicately carved,
+giving a sense of realism.<PAGE><FACE_POS_LEFT><FACE_MAKO><FACE_HAPPY><FP_LEFT>A match for the real thing!
+No, even BETTER than the
+real thing, I daresay!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_KANA><FACE_HAPPY><FP_LEFT>So, whaddya think? I call it
+"<RED>The Winged Horse</COLOR>"! I used
+Hayate as the model!<PAGE><FACE_POS_LEFT><FACE_KANA><FACE_NORMAL><FP_LEFT>Check out the sleek, strong
+body! Look at the intrepid,
+noble face!<PAGE><FACE_POS_LEFT><FACE_KANA><FACE_HAPPY><FP_LEFT>You can just picture it
+flying across the sky,
+can't ya? Sweet, huh?!
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_YING><FACE_HAPPY><FP_LEFT>It's a huge panda...
+Tee-hee! It's so cute!<PAGE><FACE_POS_RIGHT><FACE_RAHI><FACE_HAPPY><FP_RIGHT>Wow, it's so huge and
+detailed!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_YING><FACE_HAPPY><FP_LEFT>It's a huge panda...
+Tee-hee! It's so cute!<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_SHY><FP_RIGHT>Cute...? \u270a Hmm, I don't
+know... It looks kind
+of threatening to me...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_GOMBE><FACE_NORMAL><FP_LEFT>It wasn't really surprising
+what kind of sculpture Sheng
+made, was it?<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Yeah, it's pretty much what
+we expected. Still, it's
+very well sculpted!
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>What a marvelous sculpture!
+It's so large, and it looks
+absolutely delicious!<PAGE><FACE_POS_LEFT><FACE_YUN><FACE_HAPPY><FP_LEFT>Oh, gracious yes! Something
+that big would be lovely to
+cook up!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>Wow, even the leaves are
+the correct shape...
+Amazing...<PAGE><FACE_POS_LEFT><FACE_GOMBE><FACE_NORMAL><FP_LEFT>They are! I've grown
+turnips for decades,
+so I should know!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_HAPPY><FP_RIGHT>It truly does look like it's
+growing out of the soil.<PAGE><FACE_POS_LEFT><FACE_AYAME><FACE_HAPPY><FP_LEFT>I know! Looking at it makes
+me want to harvest it!
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_HAPPY><FP_RIGHT>Amazing! It looks like it's
+going to fly into the sky
+any second!<PAGE><FACE_POS_LEFT><FACE_REINA><FACE_HAPPY><FP_LEFT>Indeed. You can tell it
+was painstakingly
+sculpted.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Kana really likes horses,
+doesn't he?<PAGE><FACE_POS_LEFT><FACE_GOMBE><FACE_HAPPY><FP_LEFT>Maybe even more than Sheng
+likes pandas...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_YING><FACE_HAPPY><FP_LEFT>A horsie...but with wings!<PAGE><FACE_POS_RIGHT><FACE_RAHI><FACE_HAPPY><FP_RIGHT>It's super! It looks like
+it would be fun to ride!
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_INA><FACE_HAPPY><FP_LEFT>What a fantastic sculpture!
+Thanks, Sheng.<PAGE><FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT>All right, that wraps up
+this year's snow festival.<PAGE><FACE_POS_LEFT><FACE_INA><FACE_HAPPY><FP_LEFT>We can all look forward to
+next year's sculpture.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_INA><FACE_HAPPY><FP_LEFT>What a fantastic sculpture!
+Thanks, Mako.<PAGE><FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT>All right, that wraps up
+this year's snow festival.<PAGE><FACE_POS_LEFT><FACE_INA><FACE_HAPPY><FP_LEFT>We can all look forward to
+next year's sculpture.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_INA><FACE_HAPPY><FP_LEFT>What a fantastic sculpture!
+Thanks, Kana.<PAGE><FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT>All right, that wraps up
+this year's snow festival.<PAGE><FACE_POS_LEFT><FACE_INA><FACE_HAPPY><FP_LEFT>We can all look forward to
+next year's sculpture.
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_SHENG><FACE_NORMAL><FP_LEFT>How do you like it? Don't
+feel shy about giving me
+compliments.<PAGE><FACE_POS_LEFT><FACE_SHENG><FACE_HAPPY><FP_LEFT>Don't hold back, now!
+Speak your mind!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_MAKO><FACE_NORMAL><FP_LEFT>Heh, everyone is astounded
+by my stunning masterpiece!<PAGE><FACE_POS_LEFT><FACE_MAKO><FACE_HAPPY><FP_LEFT>And no wonder! Even the
+parts that no one can see
+are exquisitely sculpted!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_KANA><FACE_NORMAL><FP_LEFT>Man, everyone thought my
+sculpture was wicked!
+Sweet!<PAGE><FACE_POS_LEFT><FACE_KANA><FACE_HAPPY><FP_LEFT>It was SO the right call to
+use Hayate as my model!<PAGE>If the model's great, of
+course the sculpture's gonna
+be great, too!
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_AYAME><FACE_NORMAL><FP_LEFT>That is quite a
+fierce-looking panda.<PAGE><FACE_POS_LEFT><FACE_AYAME><FACE_HAPPY><FP_LEFT>It looks like it's going to
+come to life and run riot.<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_SHY><FP_RIGHT>If this panda went on a
+rampage, there would be a
+lot of injured people.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>Look, Sheng even colored in
+the black parts of the
+panda. That's a lot of work.<PAGE><FACE_POS_LEFT><FACE_YUN><FACE_NORMAL><FP_LEFT>Oh dear me, yes! It wouldn't
+be a panda if it were all
+white, would it?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Why in the world did he give
+it that expression?<PAGE>Shouldn't he have made it
+look a bit cuter?<PAGE><FACE_POS_LEFT><FACE_RAHI><FACE_HAPPY><FP_LEFT>I like it! It looks
+super-strong!
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT>A fantastic sculpture, as
+usual. Look, even the leaves
+have so much detail!<PAGE><FACE_POS_RIGHT><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Yes! But how did he get the
+leaves so thin without
+breaking them?<PAGE><FACE_POS_RIGHT><FACE_GOMBE><FACE_HAPPY><FP_RIGHT>I could never sculpt with
+such skill!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_NORI><FACE_NORMAL><FP_LEFT>So, what does the part
+that's underground look
+like?<PAGE><FACE_POS_LEFT><FACE_NORI><FACE_HAPPY><FP_LEFT>It looks like he dug a hole,
+and then buried the entire
+sculpture in it...<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_SHY><FP_RIGHT>No, that's physically
+impossible...<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_HAPPY><FP_RIGHT>But...when you look at how
+he did the upper part, I
+guess you can't rule it out.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_AYAME><FACE_NORMAL><FP_LEFT>Tee-hee! I'm so tempted to
+try to pull it up out
+of the ground!<PAGE><FACE_POS_LEFT><FACE_AYAME><FACE_HAPPY><FP_LEFT>But I guess I shouldn't,
+should I?<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_SHY><FP_RIGHT>Certainly not! It would
+definitely break!<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_NORMAL><FP_RIGHT>Mako would be very angry at
+you if you did!
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT>Now that's what I call a
+sculpture! Look at the
+strength in the legs<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_HAPPY><FP_RIGHT>Quite remarkable. It gives
+the piece an unmistakable
+power.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>The mane and the wings are
+so beautifully sculpted!<PAGE><FACE_POS_LEFT><FACE_GOMBE><FACE_NORMAL><FP_LEFT>Kana doesn't look like the
+sculpting type, but this is
+amazing!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_AYAME><FACE_NORMAL><FP_LEFT>A pegasus...\u270a<PAGE><FACE_POS_LEFT><FACE_AYAME><FACE_HAPPY><FP_LEFT>Kana must be a real romantic
+after all!<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>He told me that when he was
+a kid, he dreamt of flying
+through the sky on Hayate.<PAGE>That must have been his
+inspiration for the piece.
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY

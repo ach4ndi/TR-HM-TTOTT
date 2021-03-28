@@ -1,0 +1,516 @@
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_NORMAL>Oh, a new face!
+My name is Pierre.
+It's a pleasure to meet you.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_NORMAL>Was your farm spared by that
+awful weather yesterday?
+What a storm!
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_HAPPY>What a nice pet!
+I'd love to have one just
+like it!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_NORMAL>I don't get along with pets
+of this sort. I'm sorry.
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_HAPPY>What happy news!
+<MYNAME>, who is the apple
+of your eye?<PAGE>Whoever it is, I'm sure
+you'll choose well, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_NORMAL>Is that for me?
+No, don't even bother.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_NORMAL>I can't carry one single
+thing more! I'm sorry!
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_NORMAL>I don't mean to be rude, but
+don't you need to keep that
+right now?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_HAPPY>FAVORITE MESSAGE (BIRTHDAY)
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_HAPPY>FAVORITE MESSAGE
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_NORMAL>LIKE MESSAGE (BIRTHDAY)
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_NORMAL>LIKE MESSAGE
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_NORMAL>AVERAGE MESSAGE (BIRTHDAY)
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_NORMAL>AVERAGE MESSAGE
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_NORMAL>DISLIKE MESSAGE (BIRTHDAY)
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_NORMAL>DISLIKE MESSAGE
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_NORMAL>HATE MESSAGE
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_HAPPY><MYNAME>, are you enjoying
+married life?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_NORMAL>How could anyone sleep in
+that howling wind?
+I know I couldn't.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_HAPPY>When I was little, I loved
+big snows like yesterday's.<PAGE><FACE_POS_RIGHT><FACE_PIERRE><FACE_NORMAL>But now that I'm grown up,
+the thought of all that snow
+shoveling makes me cringe.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_HAPPY>I talk with Rutger all the
+time.<PAGE>He's so glad to have you in
+the village, <MYNAME>.<PAGE>You should be proud of the
+job you've done.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_HAPPY>Rutger and Rose are so
+fond of you, <MYNAME>.<PAGE>They talk about you all the
+time around the house.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_NORMAL><MYNAME>, you're a fun
+person to talk to.<PAGE>I always enjoy our talks
+about life on the farm.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_NORMAL><MYNAME>, you have such a
+kind way with people, and
+everyone likes you.<PAGE><FACE_POS_RIGHT><FACE_PIERRE><FACE_HAPPY>It makes me happy to know
+that other people think
+highly of you.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_NORMAL>Is life going okay for you?
+If you ever have problems,
+you can always talk to me.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_NORMAL>Looks like you're in good
+health, and that's what
+really matters in life.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_NORMAL>Working at the town hall
+may sound boring, but it's
+really quite fun.
+----------------------------|----------------------------------
+
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_NORMAL>Ah-ha, that's for today's
+festival isn't it?
+Good luck!
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_NORMAL>AVERAGE PET MESSAGE
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_NORMAL>LIKE WILD ANIMAL MESSAGE
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_NORMAL>DISLIKE WILD ANIMAL MESSAGE
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_NORMAL>AVERAGE WILD ANIMAL MESSAGE
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_HAPPY>How nice to receive such a
+beautiful flower!
+Merci beaucoup!
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_HAPPY>Oooh-la-la!
+What is this?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_HAPPY>I look forward to many more
+heartfelt conversations with
+you.
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_NORMAL>I feel at peace when I spend
+time here.<PAGE>It's the town hall, but it's
+also my home.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_NORMAL>I help out Rutger and Rose.
+It's fun!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_NORMAL>And what brings you here?
+Business with Rutger?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_NORMAL>You seem to be in a rush.
+Slow down a little.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_NORMAL>OUTDOORS MESSAGE 1
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_NORMAL>OUTDOORS MESSAGE 2
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_NORMAL>OUTDOORS MESSAGE 3
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_NORMAL>OUTDOORS MESSAGE 4
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_NORMAL>OUTDOORS MESSAGE 5
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_NORMAL>OUTDOORS MESSAGE 6
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_NORMAL>OUTDOORS MESSAGE 7
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_NORMAL>OUTDOORS MESSAGE 8
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_NORMAL>OUTDOORS MESSAGE 9
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_NORMAL>OUTDOORS MESSAGE 10
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_NORMAL>OUTDOORS MESSAGE 11
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_NORMAL>INDIVIDUAL MESSAGE 1
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_NORMAL>INDIVIDUAL MESSAGE 2
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_NORMAL>INDIVIDUAL MESSAGE 3
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_NORMAL>Ah, what a shame!
+Better luck next year!
+Turn that frown upside down!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_HAPPY>I can't help getting excited
+at this time of year.<PAGE>I wonder how it will go
+this time?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_HAPPY>You didn't enter?<PAGE>What a shame.
+You should enter next time.
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_NORMAL>And I really thought yours
+was the best, <MYNAME>...<PAGE>Luck wasn't on your side.
+You'll win next time!
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_NORMAL>Ah, <MYNAME>.
+Good luck today.
+Our village won't lose.
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_NORMAL>Good morning,
+<MYNAME>.<PAGE>Working hard this morning?
+Keep at it!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_NORMAL>Good morning,
+<MYNAME>.<PAGE>How's your day going?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_NORMAL>Good morning.
+Busy morning for you?<PAGE>Don't push yourself too
+hard!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_NORMAL>Hello,
+<MYNAME>.<PAGE>You're looking energetic.
+Keep it up!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_HAPPY><MYNAME>,
+hello there.<PAGE>Have you eaten yet today?
+Farm-fresh food is hard
+to beat!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_HAPPY>Hello.<PAGE>You must invite me over to
+your farm sometime.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_NORMAL>Good evening,
+<MYNAME>.<PAGE>It's already so late!
+Time really flies by!
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_NORMAL><MYNAME>,
+good evening.<PAGE>What are you up to at this
+hour?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_NORMAL>Good evening.<PAGE>It's dark outside, so watch
+your footing!
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_NORMAL>SHOP OPEN MESSAGE 1
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_NORMAL>SHOP OPEN MESSAGE 2
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_NORMAL>SHOP OPEN MESSAGE 3
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_NORMAL>CAFE MESSAGE 1
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_NORMAL>CAFE MESSAGE 2
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_NORMAL>CAFE MESSAGE 3
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_NORMAL>OTHER INDOOR MESSAGE 1
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_NORMAL>OTHER INDOOR MESSAGE 2
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_NORMAL>OTHER INDOOR MESSAGE 3
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_HAPPY>Congratulations,
+<MYNAME>!!!<PAGE>Your cooking was the most
+delicious!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_HAPPY>Congratulations!<PAGE>You'll have to show me your
+cooking technique sometime.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_HAPPY>Congratulations,
+<MYNAME>!!!<PAGE>You produce wonderful
+ingredients from your farm!
+Let me eat them some time!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_HAPPY>Today's weather was perfect
+for a festival!
+A nice warm day!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_HAPPY>Did you enjoy yourself
+today? From the look on your
+face, I'd say you did!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_NORMAL>It's always a little sad
+when a festival comes to an
+end.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_NORMAL>DUMMY
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_NORMAL>DUMMY
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_NORMAL>DUMMY
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_NORMAL>DUMMY
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_NORMAL>DUMMY
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_NORMAL>DUMMY
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_NORMAL>DUMMY
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_NORMAL>DUMMY
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_NORMAL>DUMMY

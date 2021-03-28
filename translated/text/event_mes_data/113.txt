@@ -1,0 +1,630 @@
+<FACE_POS_CENTER><HIDE_NAME><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Oh, apakah kamu itu si
+si <MYNAME>?<PAGE>Kakakku barusan ngomong
+bahwa ada orang baru yang
+berkeliaran disini.<PAGE><FACE_POS_CENTER><FACE_CHERYL><FACE_HAPPY><FP_RIGHT>Aku <BLUE>Cheryl</COLOR>.
+Aku adik cantik gemesnya
+Ash.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_HAPPY><FP_RIGHT>Kemarin aku dirumah sehari-
+an, Tapi aku bisa bermain
+dengan Ash sepanjang hari!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_HAPPY><FP_RIGHT>Ooh, luucunya!<RED>❤</COLOR>
+Kamu harus menunjukkan itu
+kepada Ash juga!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_SAD><FP_RIGHT>H-Hei...
+Apakah kamu menjauhkan itu,
+oke?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_HAPPY><FP_RIGHT>Ooh, Apakah itu sebuah
+Bulu Biru? Keren!
+Aku menginginkan itu juga!<RED>❤</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Umm, Aku tidak benar-
+benar menginginkannya.
+Maaf...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Wow, hadiah lainnya?
+Oh, aku harus menolaknya.<PAGE>Karena menerima lebih satu
+hadiah itu tidak baik.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Apa itu?
+Aku tidak mengerti...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_HAPPY><FP_RIGHT>Oooh, Aku menyukainya!<RED>❤</COLOR>
+Itu sebuah kado ulang tahun
+yang sangat sempurna!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_HAPPY><FP_RIGHT>Ooh, untukku?
+Itu bagus! Aku menyukainya!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_HAPPY><FP_RIGHT>Sebuah hadiah untukku?
+Yay!<PAGE>Hari ini adalah hari ulang
+tahunku!<RED>❤</COLOR><PAGE>Terima kasih banyak,
+<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_HAPPY><FP_RIGHT>Makasih!
+Aku akan menunjukkannya
+kepada kakakku! Hee hee.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Sebuah hadiah ulang tahun?
+Ooh! Makasih!<RED>❤</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Yay! Terima kasih!
+Itu sungguh ditunggu-tunggu.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_SAD><FP_RIGHT>Apa!? Kenapa kamu mem-
+berikan itu dihari ulang
+tahunku? Kenapa? kenapa?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_SAD><FP_RIGHT>Um, untukku? Ini hanya
+membuatku makin bersedih.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_SAD><FP_RIGHT>Kenapa kamu memberikan sesu-
+atu yang aneh itu kepadaku?
+Ini hanya membuatku sedih.<PAGE>Sedihnya itu disini.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_ANGRY><FP_RIGHT>Kamu lebih baik ramah kepada
+kakakku, <MYNAME>.<PAGE><FACE_POS_CENTER><FACE_CHERYL><FACE_HAPPY><FP_RIGHT>Jika kamu membuatnya marah,
+Maka aku akan memakanmu!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_HAPPY><FP_RIGHT>Seperti apa ya pernikahan
+itu?<PAGE>Aku juga ingin menikah
+juga!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Hari ini sungguh kencang
+anginnya! Aku tebak, kamu
+akan berterbangan diluar!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_HAPPY><FP_RIGHT>Aku menyukai salju! Ash dan
+Aku biasanya membuat manusia
+salju dan beberapa lainnya.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_HAPPY><FP_RIGHT>Aku senang bahwa kita ini
+berteman, <MYNAME>!<PAGE>Mari pertahankan perte-
+manan kita ini!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_HAPPY><FP_RIGHT>La la laaa?
+Jika ada waktu, yuk main
+sama aku, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ibuku bilang untuk berhenti
+ajak bicara Ash disaat dia
+sedang bekerja, karena itu<PAGE>dapat mengganggunya.
+Apakah maksudnya, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Disaat aku bermain dibebera-
+pa hari yang lalu, aku ter-
+pleset dan dengkulku luka.<PAGE>Lalu kakakku menggendongku!
+Itu semua membuatku makin
+lebih baik!<RED>❤</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Hmm...jenis hame apa
+yang harus aku mainkan
+dengan kakakku dihari ini?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Apakah kakakku itu keren?
+Dia itu seorang kakak yang
+terbaik diseluruh dunia!<PAGE><FACE_POS_CENTER><FACE_CHERYL><FACE_HAPPY>Di duniaku lah :3
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Kakakku itu seorang petani
+yang terhebat diseluruh
+dunia!<PAGE>Tidak seorangpun yang
+lebih baik daripadanya!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Apa ini?
+Aku tidak menginginkannya.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Oooh.
+Hee hee! Itu sungguh lucu!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Oooh, apakah kamu menang-
+kapnya? Bagus! Aku junga
+ingin menangkapnya!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_ANGRY><FP_RIGHT>Eek!
+Jauhkan itu dariku!
+Aku membencinya!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Kasihan!
+Kamu seharusnya membiarkan-
+nya!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_HAPPY><FP_RIGHT>Apakah ini untukku?
+Ooh, bunga ini sungguh
+cantik! Makasih!<RED>❤</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_HAPPY><FP_RIGHT>Ooh, Apa ini?
+Aku sungguh bersemangat!<RED>❤</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_HAPPY><FP_RIGHT><MYNAME>, apakah kamu akan
+bicara denganku mengenai
+hal-hal seorang gadis?<PAGE>Atau cowok cakep?<RED>❤</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Aku mendengarkan bahwa
+<VAR_1> ini sangat
+berbeda dengan yang berasal<PAGE>dari desa kita.
+Keren!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_HAPPY><FP_RIGHT>Permainan apa yang harus
+aku main bersama dengan
+kakakku untuk hari ini?<PAGE>Hehehehehehehehe
+Hehehehehehehehe
+Hehehehehehehehe
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Hari ini tokonya tutup.
+Apa yang harus aku lakukan?<PAGE>Aku harus mencari sesuatu
+yang menyenangkan dihari
+ini!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Terowongan ini sungguh luar
+biasa! Apakah Eileen yang
+menggalinya?<PAGE>Dia juga sungguh luar
+biasa juga!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Tempat ini sungguh aneh...
+Dan semua orang menggunakan
+baju yang aneh juga!<PAGE>Itu sungguh menggelikan!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ayo pulang kerumah.
+Aku sungguh kelaparan ini
+...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Hari ini sungguh menyenang-
+kan! Aku menghabiskan
+waktu sepanjang hari untuk<PAGE>bermain, dan sekarang aku
+amat kelaparan...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Hari ini adalah hari libur.
+Apa yang harus kulakukan
+ya?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>*Sigh*<PAGE>Aku tidak pernah melihat
+kakakku sekarang disaat dia
+sudah menikah...<PAGE>Biarkan dia datang kesini
+dan bermain denganku kalau
+ada waktu, oke, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_HAPPY><FP_RIGHT>Hee hee.
+Lihat, lihat!
+Apakah payung ini imut?<PAGE>Kakakku yang membelikannya!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Kamu itu teriaknya sungguh
+kencang sekali!<PAGE>Itu membuat kami dapat
+memenangkannya,
+<MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_SAD><FP_RIGHT>Kamu sudah menyemangati
+kami, tapi kita tetap
+kalah! Sungguh disayangkan!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Apakah festival memasak tadi
+sungguh menyenangkan? Kamu
+harus ikutan berkompetisi<PAGE>untuk Bluebell kedepannya.
+oke?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Disayangkan tadi kamu kalah
+dalam festival memasak. Aku
+penasaran aja, kok bisa?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, tidak!
+Kamu itu hampir memnangkan-
+nya! Kedepannya semangat ya!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_HAPPY><FP_RIGHT>Yay, sebuah festival!
+Ash selalu mengantarkanku
+disaat ada festival!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Huh? Kenapa kamu tidak
+ikutan?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Kamu barusan hampir meme-
+nangkannya, <MYNAME>!
+Jangan bersedih, oke?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Dihari ini diBluebel sedang
+merayakan sebuah festival.
+Yay!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Selamaaat pagiii, <MYNAME>!
+Ada apa?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Selamaaat pagiii, <MYNAME>!
+Apakah aku ini selalu imut?
+Hee hee.<RED>❤</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Selamaaat pagiii!
+Ooh, Aku masih mengantuk!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Hi, <MYNAME>! Ibuku mem-
+bilang untuk memberitahukan
+kamu untuk membeli sesuatu!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_HAPPY><FP_RIGHT>Hi, <MYNAME>!
+Apakah kamu mendengarkan
+perutku keroncongan?<PAGE>Aku sungguh kelaparan...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_HAPPY><FP_RIGHT>Hi!<PAGE>Dapatkah aku mengunjungi
+pertanianmu itu?<PAGE>Perkebunanmu itu sungguhlah
+keren!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Halo...
+Oooh, Aku sungguh mengantuk
+...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Hi, <MYNAME>!
+Apa? Aku harus dikasur?<PAGE>Grr...<PAGE>Aku ini bukanlah bayi!
+Aku dapat melekkan jika
+itu yang kuinginkan!<PAGE>...
+...
+...<PAGE>...
+...zzzzzzzzz
+zzzzzzzzzzzz
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Selamat Malam!<PAGE>Kenapa orang dewasa tetap
+melekkan semalam ya?
+itu tidak adil!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_HAPPY><FP_RIGHT>Selamat datang ditoko
+kami! Jika kamu membutuh-
+kan sesuatu, bisa menuju<PAGE>kekonter disini, oke?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_HAPPY><FP_RIGHT>Selamat datang ditoko
+kami! Jika kamu membutuh-
+kan sesuatu, bisa menuju<PAGE>kekonter disini, oke?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_HAPPY><FP_RIGHT>Selamat datang ditoko
+kami! Jika kamu membutuh-
+kan sesuatu, bisa menuju<PAGE>kekonter disini, oke?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_HAPPY><FP_RIGHT>Mmm, itu sungguh meng-
+giurkan! Aku sangat suka
+makanan disini!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_HAPPY><FP_RIGHT>Mmm, itu sungguh meng-
+giurkan! Aku sangat suka
+makanan disini!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_HAPPY><FP_RIGHT>Mmm, itu sungguh meng-
+giurkan! Aku sangat suka
+makanan disini!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Apakah kamu datang kesini
+untuk bermain denganku,
+<MYNAME>?<PAGE>Hee hee! Aku juga!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Apakah disini ini sungguh
+nyaman? Mereka semua itu
+sungguh imut!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Setiap hari aku menggosok
+semua binatang ternak
+yang ada disini!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, hi, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ooh, ...
+Aku sungguh kelaparan...
+<MYNAME>, buatkan aku<PAGE>sesuatu hidangan yang
+kamu menangkan itu!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_HAPPY><FP_RIGHT>Wow, kamu memenangkannya,
+<MYNAME>!<PAGE>Ajari aku bagaimana cara
+memasak! Karena aku ingin
+memasakkan untuk kakaku!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_HAPPY><FP_RIGHT>Semua makan disini ini
+tampak menggiurkan!
+Aku ingin memakan semuanya!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Aww, festivalnya sudah ber-
+akhir. Itu sungguh menye-
+nangkan...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_HAPPY><FP_RIGHT>Hari ini sungguh menyenang-
+kan! Aku harap kita mengada-
+kan festival setiap hari!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_HAPPY><FP_RIGHT>Disaat aku semakin dewasa,
+Aku ingin ikut bagian
+dalam festivalnya!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Aku tetap tidak mengerti
+bagaimana cara mereka untuk
+menentukan sayuran mana<PAGE>yang terbaik. Aku membenci
+semuanya!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Mungkin aku akan menyukai
+sayuran jika itu kamu yang
+buat, <MYNAME>...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Yay! Kamu menang,
+<MYNAME>.
+Aku ikutan senang!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Aku mulai mengantuk...
+*Yawn*...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Aku berharap bisa pergi ke-
+festival dengan kakak se-
+orang...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_HAPPY><FP_RIGHT>Festival hari ini sungguh
+menyenangkan...
+Hee hee.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Semua orang terkejut bahwa
+kamu kumpulkan itu sungguh
+banyak!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Bagaimana caranya kamu men-
+dapat sebanyak ini?
+Aku sungguh terkejut!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_HAPPY><FP_RIGHT>Yay! Kamu menang, <MYNAME>.
+Aku juga ikutan senang!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_HAPPY><FP_RIGHT>Yay, Kamu menang!
+Hari ini kamu itu sungguh
+luar biasa!<PAGE>Aku tahu kok, karena ibuku-
+juga seorang petani!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Ajari aku bagaimana merawat
+seperti <VAR_2> itu!<PAGE>Kita dapat menggunakan cara
+itu untuk peternakan kita.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CHERYL><FACE_NORMAL><FP_RIGHT><VAR_2> milikmu
+itu sungguh luar biasa!

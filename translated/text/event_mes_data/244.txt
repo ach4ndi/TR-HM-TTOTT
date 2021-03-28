@@ -1,0 +1,67 @@
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_SAD><FP_RIGHT>Aku ada berita buruk,
+<MYNAME>. Mohon heluskan
+dada dan dengarkan.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_SAD><FP_RIGHT><VAR_0> kamu, <VAR_1>,
+telah mati...
+karena sakit.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_SAD><FP_RIGHT><VAR_0> kamu, <VAR_1>,
+telah mati...
+karena umurnya ketuaan
+----------------------------|----------------------------------
+<VAR_1> datang ke kehidupan-
+mu pada <VAR_3> <VAR_4>, 
+Tahun <VAR_2>.<INPUT_KEYPAD>
+----------------------------|----------------------------------
+Dia telah memenangkan <VAR_2>x
+dalam festival 
+<VAR_0><PAGE>Dia memenangkan :<PAGE>posisi pertama <VAR_3>x
+posisi dua <VAR_4>x
+posisi ketiga <VAR_5>x<PAGE>Itu merupakan riwayat yang
+sangat bagus!<INPUT_KEYPAD>
+----------------------------|----------------------------------
+<VAR_1> sudah percaya
+kepadamu.<INPUT_KEYPAD>
+----------------------------|----------------------------------
+Tapi kamu seharusnya merawat
+nya dengan lebih baik.
+----------------------------|----------------------------------
+Jangan resahkan apapun. Dia
+sudah hidup lama dengan
+umur yang cukup ... tua.
+----------------------------|----------------------------------
+Dia telah ikut <VAR_2>x 
+dalam festival
+<VAR_0>.<INPUT_KEYPAD>
+----------------------------|----------------------------------
+<VAR_1> tidak mengetahui
+tentang kamu.<INPUT_KEYPAD>
+----------------------------|----------------------------------
+<VAR_1> telah mengenalimu,
+tapi tidak tahu kamu terlalu
+dalam.<INPUT_KEYPAD>
+----------------------------|----------------------------------
+<VAR_1> mengenalimu,
+dan sangat nyaman disekitar
+mu.<INPUT_KEYPAD>
+----------------------------|----------------------------------
+<VAR_1> mengenalimu
+sebagai pemiliknya.<INPUT_KEYPAD>
+----------------------------|----------------------------------
+<VAR_1> mengenalimu
+sebagai pemilik yang baik.<INPUT_KEYPAD>
+----------------------------|----------------------------------
+<VAR_1> mengenalimu
+sebagai pemilik yang me-
+nyenangkan.<INPUT_KEYPAD>
+----------------------------|----------------------------------
+<VAR_1> mengenalimu
+sebagai pemiliki terbaik.<INPUT_KEYPAD>
+----------------------------|----------------------------------
+<VAR_1> mengenalimu
+sebagai pemilik yang
+sangat terbaik.<INPUT_KEYPAD>
+----------------------------|----------------------------------
+<VAR_1> sangat 
+menyukaimu.<INPUT_KEYPAD>

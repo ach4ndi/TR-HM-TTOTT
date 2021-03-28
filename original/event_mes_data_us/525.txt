@@ -1,0 +1,121 @@
+<FACE_POS_LEFT><HIDE_NAME><FACE_SHENG><FACE_NORMAL><FP_LEFT><HIDE_FACE>You awake, <MYNAME>?
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_SHENG><FACE_NORMAL><FP_RIGHT>I hate to pester you so
+early in the morning...<PAGE>...But what do you think of
+that hammer I made for you?
+Pretty handy, eh?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_SHENG><FACE_NORMAL><FP_RIGHT>I hate to pester you so
+early in the morning...<PAGE>...But I'm here today to
+tell you about a note about
+a <RED>hammer</COLOR> that I posted.<PAGE>A hammer is just the thing
+to break rocks and pound
+tilled fields back down!<PAGE>Every farmer needs a hammer!
+So check out my note on the
+<RED>Konohana message board</COLOR>!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Listen up! I'm gonna teach
+you something you'll wanna
+know!<PAGE>It'll make your farm work go
+real easy. It's called an
+<RED>upgrade</COLOR>.<PAGE>Do you want me to explain
+all about upgrades? Do ya?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_SHENG><FACE_SAD><FP_RIGHT>But they've been in use for
+so long that they've gotten
+all rusty.<PAGE><FACE_POS_RIGHT><FACE_SHENG><FACE_ANGRY><FP_RIGHT>A master blacksmith like me
+can tune them up to work
+better than ever, y'see...<PAGE><FACE_POS_RIGHT><FACE_SHENG><FACE_NORMAL><FP_RIGHT>You're just a cub brand new
+to farming, <MYNAME>...<PAGE>Even if I upgrade your tools
+now, you won't be able to
+make full use of 'em.<PAGE><FACE_POS_RIGHT><FACE_SHENG><FACE_HAPPY><FP_RIGHT>But when the time comes and
+you're ready, I'll do it.<PAGE>I'll post a note on the
+Konohana message board
+then, so keep an eye out.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_SHENG><FACE_NORMAL><FP_RIGHT>I figure you'll be needing
+those upgrades in due time.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><HIDE_NAME><FACE_SHENG><FACE_NORMAL><FP_RIGHT>I hate to pester you so
+early in the morning...<PAGE>...But Mayor Ina told me
+that a new farmer had come
+to town.<PAGE><FACE_POS_RIGHT><FACE_SHENG><FACE_NORMAL><FP_RIGHT>I'm the blacksmith of
+Konohana. The name's
+<BLUE>Sheng</COLOR>.<PAGE><FACE_POS_RIGHT><FACE_SHENG><FACE_HAPPY><FP_RIGHT>You're impressed, eh?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_SHENG><FACE_ANGRY><FP_RIGHT>What?! My outfit's weird?!
+So you're mocking pandas?!
+I won't stand for that!!!<PAGE>...\u270a\u270a<FACE_POS_RIGHT><FACE_SHENG><FACE_NORMAL><FP_RIGHT>*cough*
+Easy, Sheng, easy... Can't
+let this cub rile me...<PAGE>I came to say hello and tell
+you about a note regarding a
+<RED>hammer</COLOR> that I posted.<PAGE>A hammer is just the thing
+to break rocks and pound
+tilled fields back down!<PAGE>Every farmer needs a hammer!
+Go check it out on the
+<RED>Konohana message board</COLOR>.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><HIDE_NAME><FACE_EILEEN><FACE_NORMAL><FP_LEFT><HIDE_FACE>Hello, <MYNAME>.
+Are you up?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Sorry to bother you so
+early...<PAGE>How's your new life as a
+farmer going?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_EILEEN><FACE_HAPPY><FP_RIGHT>Glad to hear that!<PAGE><FACE_POS_RIGHT><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>I'm here today to teach
+you about <RED>expansion</COLOR>,
+<MYNAME>.<PAGE>Did you know that you can
+make your farm a bigger and
+better place to live?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_EILEEN><FACE_HAPPY><FP_RIGHT>I knew you'd want to know!
+OK, let me explain...<PAGE><FACE_POS_RIGHT><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Expansion is how you <RED>make
+your fields or farm bigger</COLOR>!<PAGE><FACE_POS_RIGHT><FACE_EILEEN><FACE_HAPPY><FP_RIGHT>Is there something you want
+to expand, <MYNAME>?<PAGE>Well, just leave it to me!
+Tee-hee!<PAGE><FACE_POS_RIGHT><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>It'll take me a little bit
+to prepare everything,
+though...<PAGE>When I'm ready, I'll post a
+note on the <RED>Bluebell message
+board</COLOR>.<PAGE><FACE_POS_RIGHT><FACE_EILEEN><FACE_HAPPY><FP_RIGHT>Oh, but you're going to need
+lumber and material stone if
+you want to expand.<PAGE>Sheng just posted a request
+about a <RED>hammer</COLOR> on
+the Konohana message board.<PAGE>You can use the hammer to
+break rocks into material
+stone for building.<PAGE>If you want to expand, you
+should get the hammer from
+him first, OK?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_EILEEN><FACE_HAPPY><FP_RIGHT>Well, good luck with your
+farming! I know you'll do
+well!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><HIDE_NAME><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Sorry to bother you so
+early, <MYNAME>...<PAGE>Mayor Rutger told me that a
+new farmer came to town, so
+I came by to say hello.<PAGE><FACE_POS_RIGHT><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>My name's <BLUE>Eileen</COLOR>. I work as
+a carpenter in Bluebell.<PAGE><FACE_POS_RIGHT><FACE_EILEEN><FACE_HAPPY><FP_RIGHT>How do you like living in
+your new house?
+----------------------------|----------------------------------
+<CHOICE_AB> Please explain.
+ No thanks.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_SHENG><FACE_HAPPY><FP_RIGHT>Great, then I'll teach you!<PAGE><FACE_POS_RIGHT><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Now, both villages farm with
+<RED>sickles</COLOR>, <RED>hoes</COLOR>, and <RED>watering
+cans</COLOR> used for generations.<PAGE><FACE_POS_RIGHT><FACE_SHENG><FACE_HAPPY><FP_RIGHT>With these tools, they
+made the wilderness into
+productive farmland!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_SHENG><FACE_NORMAL><FP_RIGHT>No, eh? Well, in that case,
+I'll be about my business.
+See you later.
+----------------------------|----------------------------------
+<CHOICE_AB> Tell me how!
+ I'm not interested.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>You're not? Oh, OK.<PAGE><FACE_POS_RIGHT><FACE_EILEEN><FACE_HAPPY><FP_RIGHT>If you do want to expand,
+go take a look at the
+<RED>Bluebell message board</COLOR>.<PAGE><FACE_POS_RIGHT><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Well, good luck with your
+farming! I know you'll do
+well!

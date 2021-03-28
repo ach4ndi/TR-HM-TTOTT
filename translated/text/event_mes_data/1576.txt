@@ -1,0 +1,38 @@
+<FACE_POS_RIGHT><FACE_HOWARD><FACE_NORMAL>Selamat datang di kafenya
+howard!<RED>❤</COLOR>
+<INPUT_KEYPAD>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HOWARD><FACE_NORMAL><CHOICE_AB> Lihat daftar.
+ Lupakan.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HOWARD><FACE_NORMAL>Waa disayangkan.
+Datang kemari ya nanti.<RED>❤</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HOWARD><FACE_SAD>Kelihatannya uang kamu dalam
+keadaan kritis ya?
+Disayangkan ya.<INPUT_KEYPAD>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HOWARD><FACE_HAPPY>Terima kasih!<RED>❤</COLOR>
+Aku harap kamu 
+menyukainya!<RED>❤</COLOR><INPUT_KEYPAD>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HOWARD><FACE_SAD>Oh, sepertinya isi tasmu dah
+penuh.<INPUT_KEYPAD>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HOWARD><FACE_NORMAL>Oh? tidak jadi memilih?
+Apa ada hal lain yang
+diinginkan?<INPUT_KEYPAD>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HOWARD><FACE_NORMAL>Harganya <RED><VAR_0>G</COLOR> OK?
+<CHOICE_AB> Yup.
+ Tidak, makasih.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HOWARD><FACE_NORMAL>Itu semuanya <RED><VAR_1>G</COLOR>
+untuk perbiji
+<VAR_0>.<PAGE>Jadi, berapa banyak?<INPUT_KEYPAD>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HOWARD><FACE_SAD>Maafkan adinda, semuanya
+sudah terjual habis...
+untuk hari ini...<INPUT_KEYPAD>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HOWARD><FACE_NORMAL>No item left MSG

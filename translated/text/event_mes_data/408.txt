@@ -1,0 +1,34 @@
+<FACE_POS_LEFT><FACE_AYAME><FACE_NORMAL><FP_LEFT>Hey, datang kesini,
+kiddo!<PAGE>Apa tidak keberatan jika
+aku meminta beberapa teh
+atau sesuatu untuk aku?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_AYAME><FACE_NORMAL><FP_LEFT>Jika kamu mencari hiro,
+aku menyuruhnya untuk ber
+belanja.<PAGE>sebentar lagi dia
+datang, kurasa.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_AYAME><FACE_HAPPY><FP_LEFT>Betapa lucunya bajunya! Apa
+kamu selalu berpakaian seper
+ti itu?, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_HIRO><FACE_HAPPY><FP_LEFT>Oh, aku tidak tahu kalau
+kamu disitu, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_HIRO><FACE_NORMAL><FP_LEFT>Diskusi apa he wahai dua
+makhluk disitu?<PAGE><FACE_POS_RIGHT><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Kita sedang membicarakan
+mengenai pakaian.<PAGE><MYNAME> memiliki selera
+modis sekali, Hiro! kamu
+seharusnya mencatatnya!<PAGE>Memperlajari obat-obatan
+saja itu tidak membuat
+seorang doktor hebat,hiro.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_HIRO><FACE_SHY><FP_LEFT>Obat-obatan dan fashion,
+semuanya tidak ada hubungan-
+nya!<PAGE>Aku tidak akan merubah
+model penampilan aku!<PAGE><FACE_POS_RIGHT><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Oh? Aku tidak begitu yakin
+dengan itu...<PAGE><FACE_POS_LEFT><FACE_HIRO><FACE_ANGRY><FP_LEFT>Aku bilang jangan berbicara
+seperti aku masih anak-
+anak, MAKASIH BANYAK!<PAGE><FACE_POS_RIGHT><FACE_AYAME><FACE_HAPPY><FP_RIGHT>Siapa yang menganggapmu
+seperti anak kecil, hi
+sayangku hiroku?

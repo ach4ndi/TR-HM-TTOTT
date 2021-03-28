@@ -1,0 +1,15 @@
+\u232fEnter a name!
+Use the <RED>+Control Pad</COLOR>
+and press the <RED>A Button</COLOR>.
+----------------------------|----------------------------------
+\u232fIs <MYNAME> OK?
+<CHOICE_AB>　Yes, it is.
+　No, it's not.
+
+----------------------------|----------------------------------
+\u232fEnter a name!
+Use the <RED>+Control Pad</COLOR>
+and press the <RED>A Button</COLOR>.
+----------------------------|----------------------------------
+\u232fYou did not enter a name.
+\u2390\u2329

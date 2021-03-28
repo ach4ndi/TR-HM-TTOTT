@@ -1,0 +1,315 @@
+<FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT>Hari ini yang kamu tunggu-
+tunggu :
+festival tanaman musim gugur!<PAGE>Kali ini, tanamannya 
+<RED>wortel</COLOR>.<PAGE><FACE_POS_LEFT><FACE_INA><FACE_HAPPY><FP_LEFT>Kita memiliki beberapa
+tanaman yang bagus ditahun 
+ini.<PAGE><FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT>Dan sekarang, waktunya 
+kontestan maju kedepan!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT>Hari ini yang kamu tunggu-
+tunggu :
+festival tanaman musim gugur!<PAGE>Kali ini, tanamannya 
+<RED>ubi</COLOR>.<PAGE><FACE_POS_LEFT><FACE_INA><FACE_HAPPY><FP_LEFT>Kita memiliki beberapa
+tanaman yang bagus ditahun 
+ini.<PAGE><FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT>Dan sekarang, waktunya 
+kontestan maju kedepan!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT>Hari ini yang kamu tunggu-
+tunggu :
+festival tanaman musim gugur!<PAGE>Kali ini, tanamannya 
+<RED>bayam</COLOR>.<PAGE><FACE_POS_LEFT><FACE_INA><FACE_HAPPY><FP_LEFT>Kita memiliki beberapa
+tanaman yang bagus ditahun 
+ini.<PAGE><FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT>Dan sekarang, waktunya 
+kontestan maju kedepan!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT>Hari ini yang kamu tunggu-
+tunggu :
+festival tanaman musim gugur!<PAGE>Kali ini, tanamannya 
+<RED>terong</COLOR>.<PAGE><FACE_POS_LEFT><FACE_INA><FACE_HAPPY><FP_LEFT>Kita memiliki beberapa
+tanaman yang bagus ditahun 
+ini.<PAGE><FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT>Dan sekarang, waktunya 
+kontestan maju kedepan!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT>Hari ini yang kamu tunggu-
+tunggu :
+festival tanaman musim gugur!<PAGE>Kali ini, tanamannya 
+<RED>paprika hijau</COLOR>.<PAGE><FACE_POS_LEFT><FACE_INA><FACE_HAPPY><FP_LEFT>Kita memiliki beberapa
+tanaman yang bagus ditahun 
+ini.<PAGE><FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT>Dan sekarang, waktunya 
+kontestan maju kedepan!
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT>Aku akan memperkenalkan
+kontestannya satu per satu.<PAGE>Peserta nomer satu!
+Lefie!
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT>Peserta nomer dua!
+<MYNAME>!
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT>Peserta nomer tiga!
+Gombe!
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT>Itu semua peserta kita!<PAGE><FACE_POS_LEFT><FACE_INA><FACE_HAPPY><FP_LEFT>Tanaman mana yang akan
+menjadi paling terbaik?<PAGE><FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT>Waktunya untuk menilainya!
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT>Aku akan mengumumkan hasil
+penilaian dari festival
+tanaman kali ini!<PAGE>Diposisi ketiga...\u270b
+Gombe!!<PAGE>Diposisi kedua...\u270b
+Lefie!!<PAGE>Diposisi pertama...\u270b
+yang memasukan tanaman
+terbaik dari semuanya...\u270b<PAGE><FACE_POS_LEFT><FACE_INA><FACE_HAPPY><FP_LEFT>Adalah <RED><MYNAME></COLOR>!!
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT>Aku akan mengumumkan hasil
+penilaian dari festival
+tanaman kali ini!<PAGE>Diposisi ketiga...\u270b
+Lefie!!<PAGE>Diposisi kedua...\u270b
+<MYNAME>!!<PAGE>Diposisi pertama...\u270b
+yang memasukan tanaman
+terbaik dari semuanya...\u270b<PAGE><FACE_POS_LEFT><FACE_INA><FACE_HAPPY><FP_LEFT>Adalah <RED>Gombe</COLOR>!!
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT>Aku akan mengumumkan hasil
+penilaian dari festival
+tanaman kali ini!<PAGE>Diposisi ketiga...\u270b
+<MYNAME>!!<PAGE>Diposisi kedua...\u270b
+Gombe!!<PAGE>Diposisi pertama...\u270b
+yang memasukan tanaman
+terbaik dari semuanya...\u270b<PAGE><FACE_POS_LEFT><FACE_INA><FACE_HAPPY><FP_LEFT>Adalah <RED>Lefie</COLOR>!!
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_INA><FACE_HAPPY><FP_LEFT>Dari segi warna, bentuk,
+rasa... tanaman itu memiliki
+semuanya!!<PAGE><FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT>Tanaman dari peserta lainnya
+juga hebat kok. Aku tidak
+bersabar untuk festival<PAGE>berikutnya! Dan sekarang mari
+menutup festivalnya dengan
+tepuk tangan untuk para<PAGE>peserta festivalnya!
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_INA><FACE_HAPPY><FP_LEFT>Selamat, <MYNAME>.
+Kamu melakukan hal yang
+terbaik.<PAGE>Dan sekarang kamu berhak
+mendapatkan hadiah utamanya!
+Ayo sini ^^ :v
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT>Aku harapkan kamu tetap
+menghasilkan tanaman yang
+terbaik!<PAGE>Aku akan menantinya
+dilain waktu festival yang
+lainnya!
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT><MYNAME>, kamu sudah lima
+kali juara pertama loh!<PAGE><FACE_POS_LEFT><FACE_INA><FACE_HAPPY><FP_LEFT>Itu sungguh catatan kemenangan
+yang hebat! Orang-orang di
+konohana bangga loh.<PAGE><FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT>Sebagai bentuk penghargaan,
+kita mempunyai sebuah hadiah
+untuk kamu.<PAGE>Semuanya sudah dikirimkan ke
+rumahmu. Kamu bisa mengecek
+nya disaat kamu ada dirumah.<PAGE><FACE_POS_LEFT><FACE_INA><FACE_HAPPY><FP_LEFT>Selamat ya, <MYNAME>.
+Tetap hasilkan tanaman yang
+terbaik!
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy

@@ -1,0 +1,359 @@
+<FACE_POS_LEFT><HIDE_NAME><FACE_RUTGER><FACE_NORMAL><FP_LEFT><HIDE_FACE>Good morning, <MYNAME>.
+Can I come in?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>How are things going?<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>I've brought you a special
+housewarming gift, <MYNAME>!
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>I've brought you a special
+housewarming gift, <MYNAME>!
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>I'm glad to see you're so
+happy about it!
+Now come with me!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_HAPPY><FP_RIGHT><HIDE_FACE>\u232dHey now!\u20d1
+\u232cThere's no need to run!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Let me introduce you to
+<BLUE>Jessica</COLOR> here, <MYNAME>!<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>She runs a farm here in
+Bluebell, just like you!<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Her family also runs a store
+where you can buy things for
+your livestock.<PAGE><FACE_POS_LEFT><FACE_JESSICA><FACE_NORMAL><FP_LEFT>Nice to meet you, <MYNAME>!<PAGE><FACE_POS_LEFT><FACE_JESSICA><FACE_HAPPY><FP_LEFT>Come to our store if you
+want animals, or if you need
+things like feed for them.<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Speaking of animals...<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>...I'd like to give you
+this cow and chicken as
+a housewarming gift!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>I'm glad you like them!<PAGE>Now you just need to name
+them!
+----------------------------|----------------------------------
+Please enter a name for your
+cow.
+----------------------------|----------------------------------
+Please enter a name for your
+chicken.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>You'd like to name your
+chicken <RED><VAR_1></COLOR>?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Great! They're both
+fantastic names!<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Well then, I'll let Jessica
+explain how to take care of
+your animals to you.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_JESSICA><FACE_NORMAL><FP_LEFT>So, <MYNAME>...<PAGE>I'm going to explain how
+to take care of your new
+animals. Are you ready?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>This is the <RED>barn</COLOR>.<PAGE>It's where you keep your
+cows and sheep.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Well? What do you think?
+Isn't it magnificent?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>I'll let you explain all
+about how to raise these
+animals, then!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>First, let me explain how
+to put your cow out to
+graze...<PAGE>If you stand next to your
+cow and push it, it'll move
+in the direction you push.<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_HAPPY><FP_RIGHT>Here's where you take them
+when you want them to
+graze...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>...This area right here.<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_HAPPY><FP_RIGHT>You don't have to give them
+feed on sunny days, because
+they'll eat the grass here.<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Make sure you bring them in
+for the night, though.<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_ANGRY><FP_RIGHT>One thing you have to watch
+out for when letting your
+animals out is the weather.<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_SAD>Don't let them out when the
+weather's bad.<PAGE>If you let your animals out
+when it's raining, they'll
+get stressed.<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>The weather can be nice in
+the morning, but it can
+still rain in the afternoon.<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_HAPPY><FP_RIGHT>When the weather's too bad
+to let your animals out,
+feed them <RED>fodder</COLOR>.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Take the fodder...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>...And throw it in the feed
+box.<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_HAPPY><FP_RIGHT>Then, your animals will come
+and eat it!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Oh, and if you put your
+fodder in <RED>storage</COLOR>...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>...You can take it out of
+that dispenser there!<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_HAPPY><FP_RIGHT>I sell fodder at my store,
+so stop by and buy some!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_HAPPY><FP_RIGHT>But first, I'll give you
+some as a housewarming
+gift!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>One bag of fodder will last
+5 meals, so you can hold 10
+meals worth in the feed box.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Now, let me tell you how to
+keep your animals healthy.<PAGE>First, make sure to feed
+your animals once a day.<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_ANGRY><FP_RIGHT>And don't forget to talk
+to them, either!<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>If you forget to feed them,
+or don't talk to them,
+they'll get stressed.<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_SAD>If they become too stressed,
+they'll get sick.<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>If one of your animals gets
+sick, be sure to give them
+<RED>Animal Medicine</COLOR>.<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_SAD>If you don't help them,
+they'll get sicker and
+sicker, and eventually die.<PAGE>You don't want that, so make
+sure your animals have a
+long and happy life.<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>But keep this in mind...<PAGE>No matter how well you take
+care of your animals, they
+can't live forever...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>You can get milk from
+healthy, adult cows.<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_HAPPY><FP_RIGHT>The stronger your bond, the
+better the milk will be!<PAGE>That's why you need to make
+sure to take care of your
+animals every day!<PAGE>Now, I have a few things to
+give you. Let me do that
+before I forget!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_HAPPY><FP_RIGHT>This is a <RED>milker</COLOR>!<PAGE>Use this to milk your cow.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_HAPPY><FP_RIGHT>This is a <RED>brush</COLOR>! Use this to
+brush your animals and keep
+them clean.<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Make sure to brush them
+every day, because they can
+get sick if they're dirty.<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Also, let me explain
+something important to
+you...<PAGE>On the upper left of
+the top screen is a
+blue gauge.<PAGE>That gauge tells you how
+much <RED>Stamina</COLOR> you have
+left.<PAGE>When you use a tool, <RED>it
+reduces your Stamina</COLOR>. You'll
+<RED>pass out</COLOR> if it gets empty.<PAGE>If you pass out, you <RED>won't
+be able to work anymore
+that day</COLOR>, so be careful.<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_HAPPY><FP_RIGHT>However, you can recover
+some Stamina by eating
+something.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>This is the chicken coop.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_RUTGER><FACE_NORMAL><FP_LEFT>The chicken coop is quite
+magnificent as well, don't
+you think?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Here's the basics of how to
+care for your chickens.<PAGE>Put your chickens outside on
+sunny days, just like you do
+with your cows.<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_HAPPY><FP_RIGHT>If you do that, they'll find
+food on the ground to eat
+automatically!<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Just pick up your chickens
+and put them in the fenced
+area outside.<PAGE>Here's the area you want to
+take them...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_HAPPY><FP_RIGHT>This area here!<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Just like cows, make sure
+you bring your chickens back
+into the coop at night.<PAGE>Remember, though! Don't let
+them out when the weather's
+bad!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>When the weather's too bad
+to let your chickens out,
+give them <RED>chicken feed</COLOR>.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_HAPPY><FP_RIGHT><RED>This area</COLOR> is where the
+chicken feed should be
+spread.<PAGE>Just like with fodder, if
+you put your chicken feed
+in <RED>storage</COLOR>...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Just like with the fodder
+if you put the chicken feed
+into <RED>storage</COLOR>...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_HAPPY><FP_RIGHT>...You can take it out of
+that dispenser there!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_HAPPY><FP_RIGHT>Let me give you some chicken
+feed to start with!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_HAPPY><FP_RIGHT>One bag of chicken feed will
+last 5 meals.<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>That means you can hold
+10 meals worth in each
+feeding area.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_HAPPY><FP_RIGHT>In addition, healthy
+chickens will lay
+<RED>eggs</COLOR>!<PAGE>The stronger your bond, the
+better their eggs will be!<PAGE>That's why you need to make
+sure to take care of your
+animals every day!<PAGE>And that's the basics
+of taking care of
+chickens!<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_HAPPY><FP_RIGHT>You should also give your
+animals <RED>treats</COLOR> to become
+more friendly with them!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_HAPPY><FP_RIGHT>Here's some <RED>treats</COLOR>. Give
+some to your animals
+later.<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>You can only give an animal
+<RED>one treat a day</COLOR>.<PAGE>Animals like different kinds
+of treats, so feel free to
+experiment!<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_HAPPY><FP_RIGHT>If you give them treats they
+like, they'll give you more
+milk and eggs than usual!<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>And that's basically all
+you need to know about
+caring for animals!<PAGE><FACE_POS_LEFT><FACE_RUTGER><FACE_NORMAL><FP_LEFT>That was quite detailed!
+Thank you, Jessica!<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Don't mention it!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_RUTGER><FACE_NORMAL><FP_LEFT>Well then, we should
+be getting back...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Oh dear! I forgot to tell
+you something important!<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_HAPPY><FP_RIGHT>Once your animals are
+<RED>fully grown</COLOR>, they can
+<RED>have babies</COLOR>!<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>The animals I brought you
+are already full grown.<PAGE>They can have babies
+whenever you want.<PAGE>If you want an animal to
+have a baby, just bring
+it to my shop.<PAGE>I'll <RED>keep it for about
+2 weeks.</COLOR><PAGE>But remember, only <RED>healthy</COLOR>
+animals can have babies!<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_HAPPY><FP_RIGHT>They can't be dirty, either.<PAGE>So make sure you brush them
+before you bring them to
+the shop.<PAGE><FACE_POS_LEFT><FACE_RUTGER><FACE_NORMAL><FP_LEFT>And that's how you have baby
+animals!<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_HAPPY><FP_RIGHT>Well, I'll be heading back
+to the shop now!<PAGE>You've got a lot of work
+ahead of you! Good luck,
+<MYNAME>!
+----------------------------|----------------------------------
+<CHOICE_AB> Please tell me.
+ I already know.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_JESSICA><FACE_HAPPY><FP_LEFT>Just leave it to me! I'll
+explain everything!<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Sounds good! Let's head to
+the barn, then!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_JESSICA><FACE_HAPPY><FP_LEFT>Great to hear!<PAGE><FACE_POS_LEFT><FACE_JESSICA><FACE_NORMAL><FP_LEFT>Let me give you everything
+you'll need to raise them,
+then!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_JESSICA><FACE_NORMAL><FP_LEFT>Here's some <RED>fodder</COLOR>. Put it
+in your storage. One bag
+lasts 5 meals.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_JESSICA><FACE_NORMAL><FP_LEFT>Here's a <RED>milker</COLOR>. Use it to
+get milk from your cows!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_JESSICA><FACE_NORMAL><FP_LEFT>Here's a <RED>brush</COLOR>. Use it
+to keep your livestock
+clean.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_JESSICA><FACE_NORMAL><FP_LEFT>Here's some <RED>chicken feed</COLOR>.
+Put it in your storage.
+One bag lasts 5 meals.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_JESSICA><FACE_NORMAL><FP_LEFT>Here are some <RED>treats</COLOR>.
+Animals love to snack
+on these.<PAGE><FACE_POS_LEFT><FACE_JESSICA><FACE_HAPPY><FP_LEFT>And that's about everything
+you need!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_JESSICA><FACE_HAPPY><FP_LEFT>Once your animals are
+<RED>fully grown</COLOR>, they can
+<RED>have babies</COLOR>!<PAGE><FACE_POS_LEFT><FACE_JESSICA><FACE_NORMAL><FP_LEFT>The animals I brought you
+are already full grown.<PAGE>They can have babies
+whenever you want.<PAGE>If you want an animal to
+have a baby, just bring
+it to my shop.<PAGE>I'll <RED>keep it for about
+2 weeks.</COLOR><PAGE>But remember, only <RED>healthy</COLOR>
+animals can have babies!<PAGE><FACE_POS_LEFT><FACE_JESSICA><FACE_HAPPY><FP_LEFT>They can't be dirty, either.<PAGE>So make sure you brush them
+before you bring them to
+the shop.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>You'd like to name your cow
+<RED><VAR_0></COLOR>?
+----------------------------|----------------------------------
+<CHOICE_AB> Yes! That's right!
+ I changed my mind.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>And that's how you have baby
+animals!<PAGE><FACE_POS_LEFT><FACE_JESSICA><FACE_HAPPY><FP_LEFT>Well, I'll be heading back
+to the shop now!<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Thank you, Jessica!<PAGE><FACE_POS_LEFT><FACE_JESSICA><FACE_NORMAL><FP_LEFT>Don't mention it!<PAGE>You've got a lot of work
+ahead of you! Good luck,
+<MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Sorry to keep you waiting.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_RUTGER><FACE_NORMAL><FP_LEFT>There's one more thing I
+need to tell you.
+<PAGE>Once you get eggs and milk
+you can use them to
+<RED>eat or cook with,</COLOR>or...<PAGE><FACE_POS_LEFT><FACE_RUTGER><FACE_HAPPY><FP_LEFT>You can
+<RED>ship them and get money</COLOR>
+for them!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_RUTGER><FACE_NORMAL><FP_LEFT>Now let me show you where
+the shipping bin is.
+Follow me.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_RUTGER><FACE_NORMAL><FP_LEFT>This is the Bluebell Village
+<RED>Shipping Bin</COLOR>.<PAGE>Go near the Shipping Bin and
+press the <RED>A Button</COLOR> and the
+Shipping Bin screen will<PAGE>appear on the bottom screen.<PAGE><FACE_POS_LEFT><FACE_RUTGER><FACE_HAPPY><FP_LEFT>Just put the milk or other
+items you want to ship in
+and you can ship them.<PAGE>Isn't that easy?<PAGE><FACE_POS_LEFT><FACE_RUTGER><FACE_NORMAL><FP_LEFT>But watch out, because you
+can't an item back once you
+put it in the Shipping Bin.<PAGE><FACE_POS_LEFT><FACE_RUTGER><FACE_HAPPY><FP_LEFT>The money you receive for
+items you ship will be<PAGE>delivered to your house
+first thing in the morning.<PAGE><FACE_POS_LEFT><FACE_RUTGER><FACE_NORMAL><FP_LEFT>Feel free to use the
+shipping bin whenever you
+you want!<PAGE>You can also ship things
+you've found in the
+mountains here.<PAGE>You can find all kinds of
+things in the mountains.<PAGE><FACE_POS_LEFT><FACE_RUTGER><FACE_HAPPY><FP_LEFT>bamboo shoots, shimeji
+walnuts and herbs...<PAGE>The mountains are full of
+delicious things!<PAGE>You can find a lot, so you
+should<RED> bring your cart</COLOR>
+when you go.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_RUTGER><FACE_NORMAL><FP_LEFT>Hmm? Is this the 
+only shipping bin?<PAGE>Well...this is the
+only shipping bin here
+in Bluebell Village.<PAGE>But I believe there's
+one in <BLUE>Konohana Village</COLOR>.
+<PAGE>Villagers from either town
+can use the shipping bins,
+so feel free to use it.<PAGE>I think it's right there
+when you come down the
+mountain.<PAGE>I'm sure when the villagers
+see the beautiful milk and
+eggs in their Shipping Bin,<PAGE><FACE_POS_LEFT><FACE_RUTGER><FACE_HAPPY><FP_LEFT>They'll be bowled over by
+just how amazing they are!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_RUTGER><FACE_HAPPY><FP_LEFT>And that fulfills my request
+from the message board!<PAGE>Oh, and I put some
+housewarming gifts
+in your storage.<PAGE><FACE_POS_LEFT><FACE_RUTGER><FACE_NORMAL><FP_LEFT>I'll get around to putting
+other requests on the board,
+so go and take a look.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_RUTGER><FACE_NORMAL><FP_LEFT>If you forget how to take on
+requests, take a look at the
+<RED>Town Hall bookshelf.</COLOR><PAGE>You can also find out where
+villagers' houses are there.<PAGE>That's handy when you want
+to know where a requester
+lives.<PAGE>Town Hall is closed today,
+though, so you'll have
+to come tomorrow.<PAGE>Well, I'll see you later
+then, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>And that's the basics of how
+you take care of cows.<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_HAPPY><FP_RIGHT>Let me explain how you take
+care of chickens next!

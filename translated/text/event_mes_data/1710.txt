@@ -1,0 +1,92 @@
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>Kesalahan!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Kamu datang ya, eh?
+Aku tahu pastinya kamu
+akan datang.<PAGE>Aku tahu alasanmu kesini,
+<MYNAME>. Mau upgrade per-
+alatanmu, eh?<PAGE>Apa kamu butuh dijelaskan
+bagaimana cara kerjanya?<PAGE><CHOICE_AB> Ya
+ Tidak
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ada 2 peralatan yang dapat
+diupgrade:<PAGE>the alat penyiram, sabit,
+dan cangkul.<PAGE>Disaat kamu mengupgrade
+salah satunya, alatnya akan
+bekerja lebih baik!<PAGE>Contohnya, jika kamu meng-
+upgrade cangkulmu...<PAGE><FACE_POS_RIGHT><FACE_SHENG><FACE_HAPPY>...kamu dapat cangkul
+dengan luas cangkulannya
+lebih luas disaat kamu<PAGE>mengayungkannya!
+Gimana, eh?<PAGE><FACE_POS_RIGHT><FACE_SHENG><FACE_NORMAL>Kamu bisa mencobanya nanti.<PAGE>Well...
+Peralatan apa yang ingin
+diupgrade?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_SHENG><FACE_HAPPY><FP_RIGHT>Tentu saja, pemuda sepertimu
+masih memiliki pikiran yang
+tajam, jadi tidak usah<PAGE>dijelaskan!<PAGE><FACE_POS_RIGHT><FACE_SHENG><FACE_NORMAL>Well...
+Peralatan apa yang ingin
+diupgrade?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_SHENG><FACE_ANGRY><FP_RIGHT>\u20d0Yee-haw!<PAGE>Aku akan memberikanmu
+sebuah permintaan yang kamu
+butuhkan untuk itu!
+----------------------------|----------------------------------
+<FP_NONE>Kamu mendapatkan permintaan
+untuk upgrade
+<RED><VAR_0></COLOR>!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>Kesalahan!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>Kesalahan!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>Kesalahan!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>Kesalahan!</COLOR>
+----------------------------|----------------------------------
+<FP_NONE><CHOICE_AB> <VAR_0>
+ <VAR_1>
+----------------------------|----------------------------------
+<FP_NONE><CHOICE_ABC> <VAR_0>
+ <VAR_1>
+ <VAR_2>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>Kesalahan!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>Kesalahan!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>Kesalahan!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>Kesalahan!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>Kesalahan!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>Kesalahan!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>Kesalahan!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>Kesalahan!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Hmph.
+Saat ini kamu hanya bisa
+mengupgrade <RED>Cangkul</COLOR>mu.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Hmph.
+Saat ini kamu hanya bisa
+mengupgrade <RED>alat penyiram</COLOR>mu.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Hmph.
+Saat ini kamu hanya bisa
+mengupgrade <RED>sickle</COLOR>mu.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>Kesalahan!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>Kesalahan!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>Kesalahan!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>Kesalahan!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>Kesalahan!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>Kesalahan!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>Kesalahan!</COLOR>

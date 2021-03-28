@@ -1,0 +1,89 @@
+<FACE_POS_LEFT><HIDE_NAME><FACE_INA><FACE_NORMAL><FP_LEFT><HIDE_FACE>Selamat pagi, <MYNAME>.
+Mungkin dipagi ini aku mam-
+pir bentar kesini.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>Akhirnya dihari festival mema-
+sak diadakan lagi!<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>Apakah ini pertama kali-
+nya kamu ikutkan?<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>Aku datang kesini untuk
+memberitahukan bahan-bahan
+apa yang dibutuhkan untuk<PAGE>tema hari ini : salad!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>Akhirnya dihari festival mema-
+sak diadakan lagi!<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>Apakah ini pertama kali-
+nya kamu ikut dengan tema
+sup, benarkan?<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>Aku datang kesini untuk
+memberitahukan bahan-bahan
+apa yang dibutuhkan untuk<PAGE>supmu!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>Akhirnya dihari festival mema-
+sak diadakan lagi!<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>Apakah ini pertama kali-
+nya kamu ikut dengan tema
+makanan utama, benarkan?<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>Aku datang kesini untuk
+memberitahukan bahan-bahan
+apa yang dibutuhkan untuk<PAGE>makanan utamamu (main dish)!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>Akhirnya dihari festival mema-
+sak diadakan lagi!<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>Apakah ini pertama kali-
+nya kamu ikut dengan tema
+makanan penutup, benarkan?<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>Aku datang kesini untuk
+memberitahukan bahan-bahan
+apa yang dibutuhkan untuk<PAGE>makanan penutupmu (dessert)!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>Huh? Tasmu tampaknya sudah
+mau memuntahkan isinya...<PAGE>Kosongi <RED>2 ruang</COLOR> untuk
+bahan-bahan yang aku kasih
+ini ya.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>Apakah kamu bisa menyisah-
+kan <RED>2 ruang</COLOR> yang
+kosong?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>sekarang aku bisa memberikan
+bahan-bahan itu kepadamu!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>Aku ada <RED>mentimun</COLOR> dan <RED>minyak</COLOR>.
+Dengan dua bahan itu, kamu
+dapat membuat <RED>mentimun namul</COLOR>!<PAGE>Kamu dapat membuatnya dengan
+cara <RED>memilih bahan-bahan
+-nya</COLOR>, dan memasaknya!<PAGE>Aku ingin kamu ikutan festi-
+val memasak hari ini dengan
+membawa mentimun namul!<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>Aku mengandalkanmu!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>Aku ada <RED>chamomile</COLOR> dan <RED>bawang</COLOR>
+untukmu.<PAGE>Jika kamu mencampurkan
+chamomile dan bawang di
+<RED>panci</COLOR>mu, kamu dapat<PAGE>membuat sebuah <RED>sup herbal</COLOR>!<PAGE>Kamu dapat membuatnya dengan
+cara <RED>memilih bahan-bahan
+-nya</COLOR>, dan memasaknya!<PAGE>Aku ingin kamu ikutan festi-
+val memasak hari ini dengan
+membawa sup herbal!<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>Aku mengandalkanmu!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>Aku ada <RED>flour</COLOR> dan <RED>minyak</COLOR>
+untukmu.<PAGE>Jika kamu mencampurkan
+tepung dan minyak didalam
+<RED>panci</COLOR>mu, kamu dapat mem-<PAGE>buat <RED>spaghetti</COLOR>!<PAGE>Kamu dapat membuatnya dengan
+cara <RED>memilih bahan-bahan
+-nya</COLOR>, dan memasaknya!<PAGE>Aku ingin kamu ikutan festi-
+val memasak hari ini dengan
+membawa spaghetti!<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>Aku mengandalkanmu!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>Aku ada <RED>susu</COLOR> dan <RED>telur</COLOR>
+untukmu.<PAGE>Jika kamu mencampurkan
+susu dan telur di<RED>panci</COLOR>mu,
+kamu dapat membuat sebuah<PAGE><RED>pudding</COLOR>!<PAGE>Kamu dapat membuatnya dengan
+cara <RED>memilih bahan-bahan
+-nya</COLOR>, dan memasaknya!<PAGE>Aku ingin kamu ikutan festi-
+val memasak hari ini dengan
+membawa pudding!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>Tampaknya sekarang kamu bisa
+memasak, <MYNAME>.<PAGE>Jadi aku tidak akan memberi-
+kanmu sebuah bahan-bahan
+lagi. Kebunmu sudah cukup<PAGE>suplai bahan-bahannya
+sekarang!<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>Tapi jangan khawatir! Aku
+tahu kamu dapat melakukan-
+nya! Aku mengandalkanmu!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>Sekarang jangan terlalu di-
+pikirkan! Letakkan sejenak
+beban yang kamu pikul itu.

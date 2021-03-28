@@ -1,0 +1,5 @@
+<FACE_POS_CENTER><FACE_MIKHAIL><FACE_HAPPY><FP_RIGHT>Dimanakah kita akan pergi?
+----------------------------|----------------------------------
+<CHOICE_ABC> <VAR_0>
+ <VAR_1>
+ <VAR_2>

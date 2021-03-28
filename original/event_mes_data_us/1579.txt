@@ -1,0 +1,37 @@
+<FACE_POS_RIGHT><FACE_CHERYL><FACE_NORMAL>Welcome to Jessica's
+Livestock!<RED>❤</COLOR>
+\u2390
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CHERYL><FACE_NORMAL><CHOICE_AB> View items.
+ Never mind.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CHERYL><FACE_NORMAL>Okay. Come by again
+any time.<RED>❤</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CHERYL><FACE_SAD>It looks like you don't have
+enough money.
+Sorry...\u2390
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CHERYL><FACE_HAPPY>Great!
+Thanks!<RED>❤</COLOR>\u2390
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CHERYL><FACE_SAD>Your bag is full. Come back
+when you have some space
+in your bag.\u2390
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CHERYL><FACE_NORMAL>Oh, you changed your mind?
+Anything else you need?\u2390
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CHERYL><FACE_NORMAL>That'll be <RED><VAR_0>G</COLOR>!
+<CHOICE_AB> Buy.
+ Never mind.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CHERYL><FACE_NORMAL>That'll be <RED><VAR_1>G</COLOR> for
+each <VAR_0>.
+How many would you like?\u2390
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CHERYL><FACE_NORMAL>Sorry...
+I sold out everything
+today.\u2390
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CHERYL><FACE_NORMAL>No item left MSG

@@ -1,0 +1,27 @@
+<FACE_POS_LEFT><FACE_MAKO><FACE_NORMAL><FP_LEFT>Ah, halo, <MYNAME>.
+Hm? Apa yang aku lakukan
+disini?<PAGE><FACE_POS_LEFT><FACE_MAKO><FACE_HAPPY><FP_LEFT>Aku hanya menikmati peman-
+dangan alam disini.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_MAKO><FACE_NORMAL><FP_LEFT>Disini tempat terbaik untuk
+<RED>lompat</COLOR> disekitar
+dan dijelajahi.<PAGE><FACE_POS_LEFT><FACE_MAKO><FACE_HAPPY><FP_LEFT>Disini tempatnya penuh
+dengan kejutan jika kamu
+ingin sedikit petualangan<PAGE>liar ala bolang, nanti
+akan direkam ditv!
+Sayang disini tidak ada tv.<PAGE><FACE_POS_LEFT><FACE_MAKO><FACE_NORMAL><FP_LEFT>Aku anjurkan kamu menjela-
+jahi pegunungan untuk mene-
+mukan kacang dan bunga.<PAGE>Disana juga ada sungai, kamu
+dapat menangkap ikan juga
+disitu.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><HIDE_NAME><FACE_MAKO><FACE_NORMAL><FP_LEFT>Apa urusan kamu disini?<PAGE>Oh, kamu <MYNAME>, apa
+benar? kamu bekerja dikebun,
+iyakan?<PAGE><FACE_POS_LEFT><FACE_MAKO><FACE_NORMAL><FP_LEFT>Aku<BLUE>Mako</COLOR>. 
+Aku pemilik kedai minum
+di konohana.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_MAKO><FACE_NORMAL><FP_LEFT>Huh? 
+Apa yang aku lakukan
+disini, pertanyaanmu kan?<PAGE><FACE_POS_LEFT><FACE_MAKO><FACE_HAPPY><FP_LEFT>Aku hanya mencari pemandang-
+an alam yang indah disini.

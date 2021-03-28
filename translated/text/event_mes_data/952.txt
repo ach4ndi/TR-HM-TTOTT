@@ -1,0 +1,65 @@
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>Aku senang disaat aku ada di-
+sekitar sungai ini.<PAGE>Suara airnya, dan udara
+yang segar dan pemandangan-
+nya yang hijau...<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Apapun aku membutuhkan kete-
+nangan, disinilah tempatku
+untuk menenangkan diri.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_SHY><FP_RIGHT>Oh, kamu tidak bisa memba-
+yangkan aku sedang marah,
+huh...?<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>Well, tentunya aku bisa
+marah loh.<PAGE>Banyak orang berpikir bahwa
+aku ini tidak pernah marah,
+tapi tidak seorangpun itu<PAGE>bisa kalem dan tenang
+sepanjang waktu.<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_SHY><FP_RIGHT>Sering kali aku merasa
+gugup sehingga itu membuat
+orang-orang kecewa.<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_SAD><FP_RIGHT>Terutama disaat mereka mem-
+butuhkan hal yang susah
+buatku.<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Dan terkadang aku panik di-
+saat aku terlalu tergesa-
+gesa untuk segera selesai.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>Dan apakah kamu akan percaya,
+bahwa disaat aku masih kecil
+aku tidak sekalem sekarang!<PAGE>Hahaha aku disaat itu kek
+kucing liar!<PAGE>Sungai ini bukanlah tempat
+untukku menjadi lebih tenang
+disaat itu.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>Tempat ini dijadikan untuk
+tempat bermain, melempar
+batu dan menjadi liar!<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Disaat aku mencoba menangkap
+ikan, Aku malah tenggelam
+disana!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Ha ha!
+Apakah ini mengagetkan?
+----------------------------|----------------------------------
+<CHOICE_AB> Uh itu bukanlah kamu.
+ Sisi lain darimu. Keren!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_SHY><FP_RIGHT>Benarkah? Maaf ya.<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_ANGRY><FP_RIGHT>Tapi inilah aku sebenarnya
+...<PAGE>Apakah sosok yang tenang
+dan bertanggung jawab ini-
+kah yang kamu bayangkan?<PAGE>Ini agak gimana gitu memak-
+sakan orang menjadi orang
+yang dibayangkannya...<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_SAD><FP_RIGHT>...Wow, Aku mungkin
+terlalu banyak bicara ya...<PAGE>Aku pikir ini cukup untuk
+hari ini. Bye!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_SHOCK><FP_RIGHT>A-Apakah kamu berpikiran
+seperti itu? Aku lega bahwa
+kamu mengatakan itu.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_SHOCK><FP_RIGHT>Oh, Aku tahu...<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Ya itu benar!
+<MYNAME>, apa bisa kamu
+menceritkan dirimu kepadaku?<PAGE>Aku ingin... lebih ingin me-
+ngetahui dirimu.<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_SHOCK><FP_RIGHT>Ini tidak adil bahwa kamu
+sudah tahu semua tentang aku
+dan Aku tidak mengetahui<PAGE>mengenai dirimu itu.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Ha ha!
+Kenapa tidak kamu ikut
+denganku ke Rumah teh yun?<PAGE>Kamu dapat memberitahuku
+semua hal mengenai dirimu
+sendiri disaat kita makan.<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>Ayo, <MYNAME>!

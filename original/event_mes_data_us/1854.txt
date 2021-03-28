@@ -1,0 +1,87 @@
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>Error!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>You saw my request, huh?
+
+<PAGE>But it's too late, so I'll
+ask you for a favor some
+other time, okay?<PAGE><FACE_POS_RIGHT><FACE_CHERYL><FACE_SAD>Sorry. I bet you're busy
+wih stuff on your farm...
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>Error!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CHERYL><FACE_HAPPY><FP_RIGHT>You saw the message board?
+Thanks!
+<PAGE>Well, come on!
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>Error!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>Error!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CHERYL><FACE_HAPPY><FP_RIGHT>This is our farm!
+<PAGE>Heh heh. Isn't it awesome?
+After all, my brother is the
+best farmer in the world!<PAGE><FACE_POS_RIGHT><FACE_CHERYL><FACE_NORMAL>I want you to do the
+<RED>brushing</COLOR>, okay?<PAGE>Brush <RED>every singe animal</COLOR>,
+okay, <MYNAME>?
+<PAGE>Let me know when you're all
+done!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CHERYL><FACE_HAPPY><FP_RIGHT>This is our farm!
+<PAGE>Heh heh. Isn't it awesome?
+After all, my brother is the
+best farmer in the world!<PAGE><FACE_POS_RIGHT><FACE_CHERYL><FACE_NORMAL>I want you to do the
+<RED>brushing</COLOR>, okay?<PAGE>When you collect the milk,
+it'll automatically be sent
+to the farm's storage.<PAGE>Let me know when you're all
+done!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>Error!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>Error!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CHERYL><FACE_HAPPY><FP_RIGHT>Yay, you're all done!
+
+<PAGE>I've got a reward for you!
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CHERYL><FACE_HAPPY><FP_RIGHT>Oh, you're done!
+Good job!<PAGE><FACE_POS_RIGHT><FACE_CHERYL><FACE_ANGRY>But you're supposed to let
+me know as soon as you're
+all done!<PAGE>I was so worried, I couldn't
+fall asleep! Now I'm tired!<PAGE><FACE_POS_RIGHT><FACE_CHERYL><FACE_NORMAL>Oh well. I've still got
+a reward for you.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CHERYL><FACE_HAPPY><FP_RIGHT>Oh, you're done!
+Good job!<PAGE><FACE_POS_RIGHT><FACE_CHERYL><FACE_ANGRY>But you're supposed to let
+me know as soon as you're
+all done!<PAGE>What took you so long?
+<PAGE><FACE_POS_RIGHT><FACE_CHERYL><FACE_NORMAL>Oh well. I've still got
+a reward for you.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>Error!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CHERYL><FACE_HAPPY><FP_RIGHT>Not bad. You're a pretty
+good farmer!
+<PAGE><FACE_POS_RIGHT><FACE_CHERYL><FACE_ANGRY>Not as good as my brother,
+though!<PAGE><FACE_POS_RIGHT><FACE_CHERYL><FACE_NORMAL>Oh, I gotta give you your
+reward. Here!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>Error!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>Error!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CHERYL><FACE_HAPPY><FP_RIGHT>And here's something extra!
+Thanks for finishing so
+fast!
+----------------------------|----------------------------------
+\u2137You got a <VAR_1>!
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Thanks for helping out!
+Maybe you can help us out
+again sometime!
+----------------------------|----------------------------------
+\u2137You finished all the work
+you were asked to do!

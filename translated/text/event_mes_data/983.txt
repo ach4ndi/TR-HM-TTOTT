@@ -1,0 +1,133 @@
+<FACE_POS_LEFT><FACE_CHERYL><FACE_SAD><FP_LEFT>Waaa!!!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL><FP_RIGHT>Cheryl?<PAGE><FACE_POS_RIGHT><FACE_ASH><FACE_SHY><FP_RIGHT>Apa yang terjadi?
+Apa kamu merasa sakit?<PAGE>Atau seseorang mengerjain
+kamu?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_CHERYL><FACE_SAD><FP_LEFT>Tidak...*sniff*... Itu...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_CHERYL><FACE_ANGRY><FP_LEFT>Sekarang kamu selalu bersama
+dengan, <MYNAME>!!<PAGE>Kamu lebih menyukai
+<MYNAME> daripada aku!<PAGE>kamu...<PAGE>kamu...\u270b
+<FACE_POS_LEFT><FACE_CHERYL><FACE_SAD><FP_LEFT>\u20d0KAMU ITU KAKAK YANG 
+BURUK!!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_SHY><FP_RIGHT>Cheryl!?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_SHY><FP_RIGHT>Maaf, <MYNAME>.
+Terkadang Cheryl memang
+begitu...<PAGE>Aku harus mengejarnya
+dan menenangkannya dulu!
+----------------------------|----------------------------------
+<CHOICE_AB> Aku ikut denganmu.
+ Aku akan tunggu disini.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>Makasih, <MYNAME>!<PAGE>Kalau begitu, ayo!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_SAD><FP_RIGHT>Kita sudah kehilangan
+jejak dia...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL><FP_RIGHT>Aku akan mencari disekitar
+sini.<PAGE>Apakah kamu bisa mencarinya
+disekitar jalan dipegunung-
+an?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CHERYL><FACE_SAD><FP_RIGHT>......
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CHERYL><FACE_ANGRY><FP_RIGHT>A-apaaaa?
+Apa yang kamu mau?<PAGE><FACE_POS_RIGHT><FACE_CHERYL><FACE_SAD><FP_RIGHT>Dimana Ash? Dia seharusnya
+yang menemukan aku!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CHERYL><FACE_SAD><FP_RIGHT>Aku benci kamu, <MYNAME>!
+Dia itu kakak aku,
+bukan milikmu!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CHERYL><FACE_ANGRY><FP_RIGHT>Jauhi aku!
+Aku benci kamu!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CHERYL><FACE_SAD><FP_RIGHT>Ahh!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ASH><FACE_SAD><FP_LEFT>Itu hampir saja.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CHERYL><FACE_SAD><FP_RIGHT>Um...Aku...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ASH><FACE_ANGRY><FP_LEFT>Cheryl, bagaimana bisanya
+kamu melakukan itu?<PAGE><FACE_POS_LEFT><FACE_ASH><FACE_SAD><FP_LEFT>Kamu tahukan ini bukanlah
+hal yang benar untuk mendo-
+rong orang seperti itu.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ASH><FACE_NORMAL><FP_LEFT>Cheryl?<PAGE><FACE_POS_RIGHT><FACE_CHERYL><FACE_SAD><FP_RIGHT>Aku sungguh kesepian...<PAGE><FACE_POS_RIGHT><FACE_CHERYL><FACE_ANGRY><FP_RIGHT>Kamu selalu bermain dengan
+<MYNAME> akhir-akhir
+ini!<PAGE>Aku juga ingin bermain de-
+nganmu juga!<PAGE><FACE_POS_RIGHT><FACE_CHERYL><FACE_SAD><FP_RIGHT>Aku i-ingin kamu tetap ber-
+main denganku, juga!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CHERYL><FACE_SAD><FP_RIGHT>Aku tidak bermaksud sesuatu
+terhadap <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CHERYL><FACE_SAD><FP_RIGHT>Waa... aku benar-benar minta
+maaf, <MYNAME>!
+Maafkan aku!!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ASH><FACE_SAD><FP_LEFT>Bukannya aku tidak peduli
+sama kamu, Cheryl.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CHERYL><FACE_SAD><FP_RIGHT>Apaa?<PAGE><FACE_POS_LEFT><FACE_ASH><FACE_NORMAL><FP_LEFT>Huh? Kamu juga ingin bermain
+bersama Cheryl juga,
+<MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Apakah kamu akan bermain
+bersama aku? Dan Ash juga?<PAGE>Dapatkah kita bermain ber-
+sama?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CHERYL><FACE_SAD><FP_RIGHT>T-tapi... Aku sudah terlalu
+mementaki kamu tadi,
+<MYNAME>...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Apakah kamu akan memaafkan
+aku? Wow! Kamu benar-benar
+seseorang yang baik!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Tapi yee, mari kita bermain
+bersama nanti!<PAGE><FACE_POS_RIGHT><FACE_CHERYL><FACE_ANGRY><FP_RIGHT>Janji ya! Janji kita akan
+bermain bersama, oke?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CHERYL><FACE_HAPPY><FP_RIGHT>Yay!<PAGE><FACE_POS_RIGHT><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Oke, Ash. Aku akan bertemu
+denganmu dirumah.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ASH><FACE_HAPPY><FP_LEFT>Wow. Sepertinya Cheryl sudah
+tidak marah denganmu!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ASH><FACE_NORMAL><FP_LEFT>Kamu memang luar biasa.<PAGE>Aku tidak tahu harus bagai-
+mana cara untuk mengatasi-
+nya.<PAGE><FACE_POS_LEFT><FACE_ASH><FACE_SHOCK><FP_LEFT>Makasih, <MYNAME>.
+Aku sungguh senang kamu 
+selalu ada disini.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ASH><FACE_HAPPY><FP_LEFT>Heh heh.
+Aku akan mengantarkanmu
+pulang. Mari, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL><FP_RIGHT>Oke.
+Aku akan kembali sesegera
+mungkin setelah aku menemu-<PAGE>kan dia.
+Maaf, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ASH><FACE_NORMAL><FP_LEFT>Maaf sudah membuatmu menung-
+gu. Kita sudah menyelesaikan
+masalahnya.<PAGE>Cheryl telah marah bahwa aku
+telah menghabiskan banyak
+waktu denganmu.<PAGE><FACE_POS_LEFT><FACE_ASH><FACE_SAD><FP_LEFT>Aku merasa bermasalah menge-
+nai membuat dia merasa ter-
+lantar.<PAGE><FACE_POS_LEFT><FACE_ASH><FACE_NORMAL><FP_LEFT>Aku akan mencoba dan meng-
+habiskan sedikit waktu de-
+ngar Cherly mulai dari<PAGE>sekarang.<PAGE><FACE_POS_LEFT><FACE_ASH><FACE_HAPPY><FP_LEFT>Dia masihlah muda, dan
+dia satu satunya adik
+perempuan yang aku dapatkan.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ASH><FACE_NORMAL><FP_LEFT>Well, Sepertinya aku akan
+pulang kerumah. Maaf kalau
+sudah membuatmu tampak gila<PAGE>untuk hari ini.
+Sampai jumpa lagi nanti.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CHERYL><FACE_HAPPY><FP_RIGHT>Nyah nyah!

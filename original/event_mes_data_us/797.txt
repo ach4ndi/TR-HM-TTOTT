@@ -1,0 +1,793 @@
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>Spring is so warm, and so
+full of new life.<PAGE>It's a gift from the Harvest
+Goddess.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>I do love spring.<PAGE>How has work been going?
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>The cherry blossoms are in
+full bloom now.<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>I'm sure the Harvest Goddess
+must be in a good mood...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>I just love spring.<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>How lucky we are! The cold
+winter is behind us, and
+warm days are ahead!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>It's so hot...<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>The Harvest Goddess must
+stay so nice and cool in
+her spring.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>It's been quite muggy out.<PAGE>How is your work going?
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>It's so hot out.<PAGE>Please be careful not to
+get dehydrated.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_SAD><FP_RIGHT>It's so hot out lately.<PAGE>Do you think the Harvest
+Goddess is in a bad mood?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>It's the season of bounty.<PAGE>I think the season puts the
+Harvest Goddess in a good
+mood, don't you?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>It's much nicer out now.
+<PAGE>How has work been going?
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>The mornings and nights are
+getting colder now...<PAGE>Please be careful not to
+catch a cold...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>Fall is finally here.<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>The autumn leaves in the
+village are so pretty.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>It's gotten quite cold...<PAGE>How is your work going?
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>It's so cold out now.<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Please be careful not to
+catch a cold...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_SAD><FP_RIGHT>Winter can be so cold...<PAGE>I'm sure the cold is a
+trial given to us by the
+Harvest Goddess...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>It's really winter now.<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>The sight of the snowy
+mountain is so cleansing
+to the soul...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>I think the good weather
+means that the Harvest
+Goddess' mood is also good.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>The weather has been
+so changeable these days.<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_SAD><FP_RIGHT>I wonder if the Harvest
+Goddess is in a bad mood...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>The weather is subject to
+the whims of the Goddess.<PAGE>But no matter what the
+weather is like, we must
+never forget to be thankful.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>The weather is subject to
+the whims of the Goddess.<PAGE>But no matter what the
+weather is like, we must
+never forget to be thankful.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>It's so rainy today.<PAGE>I wonder if the Harvest
+Goddess is in a bad mood...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>The ground gets terribly
+slippery on rainy days.<PAGE>Please be careful!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>It's raining today.<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>I hope this rain brings down
+a shower of blessings on us.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>It's raining today.<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>I hope this rain brings down
+a shower of blessings on us.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>It's really rainy today.<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Do your best to stay dry.
+You don't want to catch
+cold!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>When this snow melts, the
+world will be bursting with
+new life.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>The snow is so beautiful.<PAGE>The other day I saw the
+most adorable snowman in
+the village.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>The snow is so beautiful.<PAGE>The other day I saw the
+most adorable snowman in
+the village.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ALISA><FACE_SAD><FP_LEFT>There's something...
+not quite right about
+this place...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ALISA><FACE_SAD><FP_LEFT>U-Um...<PAGE>It was so sweet of you to
+invite me here, but...
+could we go somewhere else?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>I had a lot of fun today.
+Please come and talk with
+me again soon!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>I'll see you later.
+
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ALISA><FACE_SAD><FP_LEFT>I should be getting back.
+<PAGE>I'll see you later...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>I had so much fun today.<PAGE>I hope we have time to talk
+again soon, <MYNICKNAME>...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>I'm so happy right now.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>I'm so happy right now.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>I'm so happy right now.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>I'm so happy right now.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>I'm so happy right now.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>I'm so happy right now.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>I'm so happy right now.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>I'm so happy right now.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>I'm so happy right now.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>I'm so happy right now.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>I'm so happy right now.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>I'm so happy right now.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>I'm so happy right now.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>I'm so happy right now.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>I'm so happy right now.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>I'm so happy right now.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>Animals are so wonderful.<PAGE>If you give them love, they
+return it so earnestly.<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>I'll bet a little more
+livestock would brighten
+up your farm.<PAGE>I believe in you, and I know
+you can become a wonderful
+farmer.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>Animals are so wonderful.<PAGE>If you give them love, they
+return it so earnestly.<PAGE>Don't you think raising more
+animals has made you a
+better farmer?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>Animals are so wonderful.<PAGE>If you give them love, they
+return it so earnestly.<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>You know just how your
+animals are feeling.
+<PAGE>It's a really wonderful
+thing. I hope you never lose
+that ability.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>I heard that you collect
+bugs...
+<PAGE>It looks like you've still
+got some bugs left to find.
+<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>But we all have to start
+somewhere. Good luck!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>I heard that you collect
+bugs...
+<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Hee hee. I hear your
+collection is going pretty
+well.<PAGE>This is more proof of
+just how much effort you
+put into everything you do.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>I heard that you collect
+bugs...
+<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Oh! I'm surprised at how
+many you've collected!
+<PAGE>I'm really impressed! You're
+such a diligent worker.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>I heard you keep a record
+of all the fish you catch...
+<PAGE>...<PAGE>It looks like you've still
+got some fish left to catch.
+<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>But we all have to start
+somewhere. Good luck!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>I heard you keep a record
+of all the fish you catch...
+<PAGE>...<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Hee hee. I hear your
+collection is going pretty
+well.<PAGE>This is more proof of
+just how much effort you
+put into everything you do.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>I heard you keep a record
+of all the fish you catch...
+<PAGE>...<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Oh...I'm surprised at how
+many you've caught!
+<PAGE>I'm really impressed! You're
+such a diligent worker.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>I heard you've got a talent
+for thinking up new recipes.
+<PAGE>That's amazing! That takes a
+lot of talent and
+creativity.<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>Oh, but it doesn't look like
+you've got that many recipes
+just yet...<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>But we all have to start
+somewhere. Good luck!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>I heard you've got a talent
+for thinking up new recipes.
+<PAGE>That's amazing! That takes a
+lot of talent and
+creativity.<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Hee hee. I hear your recipe
+collection is going pretty
+well.<PAGE>This is more proof of
+just how much effort you
+put into everything you do.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>I heard you've got a talent
+for thinking up new recipes.
+<PAGE>That's amazing! That takes a
+lot of talent and
+creativity.<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Oh...I'm really surprised to
+see just how many recipes
+you've got! Wow!<PAGE>I'm really impressed! You're
+such a diligent worker.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>I'm so happy right now.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>I'm so happy right now.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>I'm so happy right now.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>I'm so happy right now.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>I'm so happy right now.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>I'm so happy right now.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>I'm so happy right now.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>I'm so happy right now.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>I'm so happy right now.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>I'm so happy right now.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>I'm so happy right now.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>I'm so happy right now.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>I'm so happy right now.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>I'm so happy right now.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>I'm so happy right now.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>I'm so happy right now.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>I'm so happy right now.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>I'm so happy right now.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>I'm so happy right now.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>I'm so happy right now.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>I'm so happy right now.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>I'm so happy right now.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>I'm so happy right now.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>I'm so happy right now.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>I'm so happy right now.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>I'm so happy right now.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>I'm so happy right now.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>I'm so happy right now.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>I'm so happy right now.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>I'm so happy right now.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>I'm so happy right now.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>I'm so happy right now.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>I'm so happy right now.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>I'm so happy right now.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>I'm so happy right now.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>I'm so happy right now.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>I'm so happy right now.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>I'm so happy right now.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>The flowers over here are
+so pretty.<PAGE>I always feel at peace here.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>I'm still in training, so
+I've got a lot to learn.
+<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>I'll do my best to be a
+help to everyone!
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_SAD><FP_RIGHT>Sometimes I get so focused
+on my training that I lose
+sight of everything else.<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>I want to try and keep an
+eye focused on what other
+people around me need.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>The people of this village
+make me see how wonderful
+family is...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>The Harvest Goddess has
+blessed us with a quiet and
+peaceful life.<PAGE>Isn't that wonderful?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>People in this village
+are so generous.<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>I really love it here.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_SAD><FP_RIGHT>*Yawn*...<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>Oh, excuse me.<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_SAD><FP_RIGHT>I get so tired when I have
+to get up early...<PAGE>I suppose it's something
+I'll have to get used to.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_SAD><FP_RIGHT>Sometimes I get so focused
+on one thing that I lose
+sight of everything else.<PAGE>The other day I saw a boar
+chasing a raccoon...
+<PAGE>I tried to help the raccoon,
+but it disappeared so
+quickly...<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_SAD><FP_RIGHT>I was so worried about the
+raccoon that I couldn't get
+to sleep that night...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>The people of this village
+make me see how wonderful
+family is...<PAGE>Jessica's family is so
+full of life!<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>They're always so kind and
+loving to each other!
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT><MYNAME>, have you
+ever given an offering to
+the Harvest Goddess?<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>It's good to show her
+how thankful you are.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>Eileen was fixing up the
+flower beds here the other
+day.<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>The villagers all work
+together to make these
+flower beds beautiful...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>I'm still in training, so
+I've got a lot to learn.
+<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_SAD><FP_RIGHT>But lately I've been feeling
+a vain desire for some cute
+clothes...<PAGE>I know I shouldn't desire
+such material things...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_SAD><FP_RIGHT>Sometimes I get so focused
+on one thing that I lose
+sight of everything else.<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>I ran into Rutger the other
+day, and there was something
+moving under his hat!<PAGE>He said it was nothing...
+<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_SAD><FP_RIGHT>But I couldn't stop thinking
+about it all morning, and I
+couldn't concentrate...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>The people of this village
+make me see how wonderful
+family is...<PAGE>Howard and his daughter are
+so close.<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>I saw him and Laney going
+for a walk together the
+other day.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT><MYNAME>, you work so hard
+every day.<PAGE>The Harvest Goddess loves
+those who work hard.<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>So I'm sure she's noticed
+all your efforts.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>When I came by here the
+other day, Cam was tending
+to the flowers.<PAGE>And before that, Laney was
+watering them.<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>These flower beds here are
+full of the villagers'
+kindness, aren't they?<PAGE>It's so wonderful.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>I'm still in training, so
+I've got a lot to learn.
+<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_SAD><FP_RIGHT>But lately I've been feeling
+an unbecoming craving
+for chocolate.<PAGE>I know I shouldn't desire
+such material things...
+This training is hard.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_SAD><FP_RIGHT>Sometimes I get so focused
+on one thing that I lose
+sight of everything else.<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>Yesterday, when I was in
+the mountains, I came across
+a boy talking to himself.<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_SAD><FP_RIGHT>Maybe something sad had
+happened to him, because it
+looked like he was crying.<PAGE>He left right away, but...
+<PAGE>I was so worried about him
+that I couldn't sleep last
+night.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>The people of this village
+make me see how wonderful
+family is...<PAGE>Grady's and Georgia are
+funny.<PAGE>The other day they were
+having a staring contest.<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>They let me join in, but
+I couldn't beat them...
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT><MYNAME>, do you
+know about the Wonderfuls?<PAGE>They say if you collect all
+6, your wish will
+be granted.<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>The Wonderfuls must be
+really wonderful...<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_SHOCK><FP_RIGHT>Oh...e-excuse me.
+That sounded a little silly.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>The villagers take such good
+care of these flower beds.
+<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>It makes me happy to see
+how tenderly these flowers
+are cared for.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>I'm still in training, so
+I've got a lot to learn.
+<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_SAD><FP_RIGHT>But recently, it's getting
+hard for me to relinquish
+the desire to talk to you.<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_SHOCK><FP_RIGHT>I know I shouldn't desire
+such things...
+This training is so hard.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_SAD><FP_RIGHT>Sometimes I get so focused
+on one thing that I lose
+sight of everything else.<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>I spent all day thinking
+about what I'd talk to you
+about today.<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>But now I'm having so much
+fun, I forget what I was
+thinking of saying.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>The people of this village
+make me see how wonderful
+family is...<PAGE>Don't you agree?<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Hee hee.
+I'm glad I came to this
+village.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>The Harvest Goddess gives us
+so many wonderful things.
+<PAGE>I feel so lucky to be able
+appreciate it all.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>Isn't this fountain lovely?<PAGE>Its cool spray cleanses
+the soul.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT><MYNAME>, how is
+work going lately?<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>You know you always have
+my support.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>Nathan is such a good man.
+<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>I have so much respect
+for him.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>Friends are so wonderful.<PAGE>How many people here do you
+consider close friends,
+<MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT><MYNAME>...
+Everything in our lives has
+meaning...<PAGE>I feel like you were born
+for a very important reason.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT><MYNAME>, the Harvest
+Goddess is always watching
+over us.<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>So she sees everything, even
+sneaky pranks you try to
+play.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>You work so hard every day,
+<MYNAME>.<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>All your hard work inspires
+me to work hard too!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>I've served the Harvest
+Goddess with Nathan since
+I was little...<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>And it's always brought me
+so much happiness.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>Friends are so wonderful.<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>All the villagers are so
+friendly with each other.
+It always makes me smile.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT><MYNAME>...
+everything in our lives has
+meaning.<PAGE>I think I came here to this
+village for a reason.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT><MYNAME>, the Harvest
+Goddess knows just how hard
+you always work.<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>So remember that you are
+never alone in your labors.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT><MYNAME>, do you feel like
+you're making the most of
+your life?<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>I feel like my life in the
+village is very fulfilling.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>Nathan says that all those
+who believe in the Harvest
+Goddess are family.<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Isn't family wonderful?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>Laney and Georgia are such
+good friends.<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>The other day they gave me
+some cookies they baked
+together.<PAGE>They were really delicious.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT><MYNAME>...
+everything in our lives has
+meaning.<PAGE>Once Nathan and I went to
+an island to start another
+church there.<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>I know it was a meaningful
+trip.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT><MYNAME>, have you ever
+met the Harvest Goddess? 
+<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>I hope I get to meet her.
+<PAGE>She must be so graceful and
+elegant...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT><MYNAME>, you always
+work so hard.<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>If you ever need to rest,
+you can always come to the
+church.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>Nathan always asks the
+Harvest Goddess to give
+happiness to the villagers.<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>And that includes you,
+of course, <MYNAME>.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>Ash and Cam are such good
+friends.<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>I often see them talking,
+and they always look like
+they're have so much fun.<PAGE>I hear they've been close
+since they were toddlers!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT><MYNAME>...
+everything in our lives has
+meaning.<PAGE>You know, I met Diego before
+we came to this village.
+<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>I'm sure there's some reason
+that he and I are both
+in this village now.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>I always feel so calm here.
+<PAGE>I hope we can come here
+again.<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Hee hee. You're so sweet,
+<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>No one can live without
+other people.<PAGE>Remember that you are never
+alone.<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>I'm always wishing for your
+happiness.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>Nathan says that happiness
+comes from treating others
+with love.<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>As long as you have a loving
+heart, happiness will find
+you more than sadness.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>Howard and Grady are very
+good friends.<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>I was in the town square,
+and I heard their laughter
+coming from the caf.<PAGE>They must have been telling
+some amusing stories!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT><MYNAME>...
+everything in our lives has
+meaning.<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>I'm sure I met you for a
+reason.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT><MYNAME>, has something been
+troubling you lately?<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>You know you can always
+talk to me about anything.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Come give thanks to the
+Harvest Goddess with me,
+<MYNAME>!<PAGE>I'm sure she'll bless you!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>The Harvest Goddess is
+always watching over us.<PAGE>When I close my eyes and
+listen closely...<PAGE>I can almost hear the
+Goddess speaking to me.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>Do you like books,
+<MYNAME>?<PAGE>When I was little, I used to
+read the books in the church
+all the time.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT><MYNAME>...<PAGE>You're so...\u270b
+<FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>interesting.<PAGE>I have so much fun talking
+to you.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_SAD><FP_RIGHT>You seem tired lately,
+<MYNAME>.<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>Please take care of yourself
+and don't work too hard.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>I think people who are
+confident in themselves are
+so wonderful.<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_SHOCK><FP_RIGHT>I can tell you're confident.
+It shows in everything you
+do.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>Last night, the Harvest
+Goddess told me to help
+someone in trouble.<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_ANGRY><FP_RIGHT><MYNAME>, has anything
+been troubling you lately?<PAGE>Or do you know anyone who's
+going through some trouble?<PAGE>I can't let the Goddess'
+message go to waste...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>I love books.
+They can take you places
+you can only imagine.<PAGE>When I was little, I really
+wanted a gingerbread house
+like the one I read about.<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>No children would ever go
+hungry in a gingerbread
+house!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT><MYNAME>...<PAGE>You're such...\u270b
+<FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>a good person.<PAGE>Talking to you always warms
+my heart.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>It's easy to be angry at
+people, but it's not so
+easy to forgive them.<PAGE><MYNAME>, what do you do
+when you're angry with
+someone?<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>It helps to take a deep
+breath and try to take a
+step back from yourself.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT><MYNAME>,
+I think people who have a
+goal are so impressive.<PAGE>When I watch someone trying
+their hardest, I want to
+cheer them on.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>Last night, the Harvest
+Goddess asked me to help
+the hungry.<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_ANGRY><FP_RIGHT><MYNAME>,
+are you hungry?<PAGE>Or do you know anyone who
+is hungry?<PAGE>I can't let the Goddess'
+message go to waste...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>I love books.
+They can take you places
+you can only imagine.<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>I love the story about the
+three little pigs.<PAGE>I like that the pigs all end
+up safe together in the
+brick house.<PAGE>They look out for each other
+like brothers should!<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_SAD><FP_RIGHT>But...<PAGE>Couldn't they have made
+friends with the wolf?
+<PAGE>That would have been a nicer
+ending, don't you think?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT><MYNAME>...<PAGE>You're such...\u270b
+<FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>a kind person.<PAGE>I really respect how you're
+always thinking of others.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT><MYNAME>, do you like
+yourself?<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Remember, in order to love
+others, you must first love
+yourself.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>I'm so satisfied with my
+life right now.<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>I know the Harvest Goddess
+has led me here.<PAGE>I'm so thankful to everyone
+I've met.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>Last night, the Harvest
+Goddess told me to really
+live it up.<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_SAD><FP_RIGHT>To really...
+live it...
+up?<PAGE>M-Maybe she meant
+that I should relax more?<PAGE><MYNAME>, do you know
+what she meant?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>I love books.
+They can take you places
+you can only imagine.<PAGE>What kind of books did
+you read as a child?
+<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Tell me the next time we
+talk!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT><MYNAME>...<PAGE>You're...<PAGE>Um...\u270b
+<FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>You're a wonderful person.<PAGE>I know just why everyone
+loves you the way they do.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>Everyone is welcome at
+the church.<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Please come any time.
+<PAGE>I know Nathan would be
+happy to see you too.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>Are you happy that you
+met me?<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>I know that I'm happy I
+met you.<PAGE>I'm sure the Harvest Goddess
+led me to you.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>Last night, the Harvest
+Goddess told me to be more
+honest with myself.<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>So I'm going to do just what
+I want today.
+<PAGE>Thank you for coming along
+with me.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>I love books.
+They can take you places
+you can only imagine.<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_SAD><FP_RIGHT>I want children all over the
+world to see how amazing
+reading can be...<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>I hope they do someday.
+I really do.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_SHOCK><FP_RIGHT>...
+Um...<PAGE>I have so much fun with you.
+<PAGE>If you want...\u270a\u270a<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>I'd love it if you
+would be my conversation
+partner forever...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT><MYNICKNAME>, how long
+has it been since we met?<PAGE>Remember to keep the promise
+you made to me.<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Hee hee.
+Don't tell me you forgot.
+<PAGE>I trust you, <MYNICKNAME>.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>You work so hard every day,
+<MYNICKNAME>.<PAGE>But be careful not to work
+too hard!<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>I don't want you hurting
+yourself.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>...<PAGE>I give thanks for being able
+to be with the one I love
+today<PAGE>.And I hope that I can be
+with the one I love
+tomorrow, too.<PAGE>My gratitude to you grows
+daily, Harvest Goddess.
+<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Because I know that I have
+the Goddess to thank for
+all this happiness<PAGE>.And of course, I have you
+by my side, <MYNICKNAME>.<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_SHOCK><FP_RIGHT><MYNICKNAME>, thank you
+so much for making me so
+happy...

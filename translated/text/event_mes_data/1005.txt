@@ -1,0 +1,67 @@
+<FACE_POS_RIGHT><FACE_MIKHAIL><FACE_SAD><FP_RIGHT>*Menguap*...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>Oh, maafkan aku.
+Aku akhir-akhir ini kurang
+tidur. Aku sedang menulis<PAGE>sebuah lagu, tapi sampai
+saat ini satupun belum
+menghasilkan sebuah lagu...<PAGE><FACE_POS_RIGHT><FACE_MIKHAIL><FACE_SHY><FP_RIGHT>Jadi aku terjaga sampai
+larut malam...
+----------------------------|----------------------------------
+<CHOICE_AB> Apa bisa kubantu?
+ Mungkin kurang bertalenta?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>Oh? Kamu ingin memberikan
+bantuan kepadaku?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MIKHAIL><FACE_HAPPY><FP_RIGHT>Terima kasih. Ini benar-
+benar baik deh.<PAGE>Aku pikir akan menerima
+tawaran bantuanmu itu.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MIKHAIL><FACE_SHY><FP_RIGHT>Pertanyaannya... uh membantu
+dengan cara itu...?<PAGE>Hmmm.
+Uh, aku ada sebuah ide...<PAGE><FACE_POS_RIGHT><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>Aku sangat menghargai jika
+kamu dapat menemuban bebera-
+pa suara yang bisa membuat-<PAGE>ku mendapatkan sebuah inspi-
+rasi.<PAGE>Suara keras, suara lembut,
+suara aneh, suara menyakit-
+kan, ...suara apapun.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>Hmm?
+Kamu berpikir ada satu
+yang menarik?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_MIKHAIL><FACE_NORMAL><FP_LEFT>Bell ini?<PAGE>Kalau dipikir-pikir aku
+tidak pernah mendengarkannya
+diloncengkan...<PAGE>Tapi, bagaimana suaranya
+jika kita bunyikan itu?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_MIKHAIL><FACE_SHY><FP_LEFT>Terkadang kamu benar-benar
+melakukan yang hal-hal
+mengagumkan...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_MIKHAIL><FACE_NORMAL><FP_LEFT>Aku sudah mendapatkannya
+...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_MIKHAIL><FACE_HAPPY><FP_LEFT>Frase musik itu belum aja
+sampai ke aku! Tapi itu
+sebuah keajaiban!<PAGE><FACE_POS_LEFT><FACE_MIKHAIL><FACE_NORMAL><FP_LEFT>Sekarang aku merasakan
+bisa menyelesaikan musikku.<PAGE><FACE_POS_LEFT><FACE_MIKHAIL><FACE_HAPPY><FP_LEFT>Terima kasih, <MYNAME>!<PAGE>Sungguh luar biasa ini mem-
+buatku semakin mudah
+sekarang...<PAGE>Aku benar benar senang
+sudah berbicara dengan kamu!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_MIKHAIL><FACE_NORMAL><FP_LEFT>Akhirnya aku bisa kembali
+dan menulis lagu itu saat
+ini juga. Sampai jumpa<PAGE>lagi, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MIKHAIL><FACE_ANGRY><FP_RIGHT>Bagaimana bisa kamu berpikir-
+kan seperti itu?
+Betapa kasarnya ucapan kamu!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MIKHAIL><FACE_SAD><FP_RIGHT>Suara kamu agak menjengkel-
+kan ditelingaku hari ini,
+jangan ganggu harmoniku.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MIKHAIL><FACE_SAD><FP_RIGHT>Maafkan aku, tapi aku akan
+pulang kerumah sekarang.
+Selamat tinggal, <MYNAME>.

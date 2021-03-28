@@ -1,0 +1,66 @@
+<FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT>A <RED>blue feather</COLOR>...?
+Y-You know what this means,
+right?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_SHY><FP_RIGHT>S-Sorry I doubted you...
+It's just that...<PAGE>It's just that I never
+thought you'd ever give
+one to me...<PAGE><FACE_POS_RIGHT><FACE_CAM><FACE_SHOCK><FP_RIGHT>You've made me so happy,
+<MYNAME>...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_HAPPY><FP_RIGHT>Is it all right if I go tell
+Laney and Howard?<PAGE><FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT>If I don't tell Howard about
+this right away, I'll never
+hear the end of it...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_HOWARD><FACE_HAPPY><FP_LEFT>Oh my! You're getting
+married, Cam?! This is
+certainly a surprise!<PAGE><FACE_POS_LEFT><FACE_HOWARD><FACE_NORMAL><FP_LEFT>I thought you were a late
+bloomer, and here you are
+engaged all of a sudden!<PAGE><FACE_POS_LEFT><FACE_HOWARD><FACE_HAPPY><FP_LEFT>But why didn't you tell me
+sooner? You know how I love
+all the latest gossip!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_HOWARD><FACE_NORMAL><FP_LEFT>But all joking aside...<PAGE><FACE_POS_LEFT><FACE_HOWARD><FACE_HAPPY><FP_LEFT>Congratulations, Cam
+and <MYNAME>!<PAGE><FACE_POS_RIGHT><FACE_LANEY><FACE_HAPPY><FP_RIGHT>Congratulations, you two!
+But, <MYNAME>...<PAGE><FACE_POS_RIGHT><FACE_LANEY><FACE_SHY><FP_RIGHT>...I can't believe you
+didn't tell me anything
+about this!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_HAPPY><FP_RIGHT>Tee-hee! Just kidding!
+Congratulations to
+the both of you!<PAGE><FACE_POS_RIGHT><FACE_LANEY><FACE_ANGRY><FP_RIGHT>But If you ever make <MYNAME>
+upset, you'll have to answer
+to me, Cam!<PAGE><FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT>Don't worry. I'd never do
+anything to make <MYNAME>
+upset, Laney.<PAGE><FACE_POS_LEFT><FACE_HOWARD><FACE_HAPPY><FP_LEFT>Oh, how romantic! You two
+are SO in love! Isn't
+this fabulous?!<PAGE><FACE_POS_LEFT><FACE_HOWARD><FACE_NORMAL><FP_LEFT>So, out with it, then! When
+will the wedding be?<PAGE><FACE_POS_RIGHT><FACE_CAM><FACE_HAPPY><FP_RIGHT>We were talking about
+having it about a
+week from now.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_HOWARD><FACE_HAPPY><FP_LEFT>A week?! Well, you'd better
+start getting ready,
+then!<PAGE>You'll be so busy the
+day of the wedding,
+<MYNAME>!<PAGE>So make sure you finish all
+of your work at the farm
+the day before, OK?<PAGE>Oh! And I'VE got to figure
+out what I'm going to wear
+to this joyous occasion!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_HAPPY><FP_RIGHT>Dad! The wedding's not for
+a whole week!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_HOWARD><FACE_NORMAL><FP_LEFT>Nonsense, my dear! You can
+never start planning these
+things too early!<PAGE>Besides, I love Cam like he
+was my own son!<PAGE><FACE_POS_LEFT><FACE_HOWARD><FACE_HAPPY><FP_LEFT>It's only natural that I'm
+excited for my son's
+wedding!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_HOWARD><FACE_NORMAL><FP_LEFT>Anyway, congratulations
+again, you two!<PAGE><FACE_POS_LEFT><FACE_HOWARD><FACE_HAPPY><FP_LEFT>And if Cam ever makes you
+cry, you come straight
+to me, honey!

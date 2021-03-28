@@ -1,0 +1,42 @@
+<FACE_POS_LEFT><FACE_NATHAN><FACE_NORMAL><FP_LEFT>And now let us begin...<PAGE>We are here today to witness
+the marriage of <MYNAME> and
+Reina.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_NATHAN><FACE_NORMAL><FP_LEFT><MYNAME>...<PAGE>Do you take Reina to be
+your wife, to love and
+cherish her all your life?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_NATHAN><FACE_NORMAL><FP_LEFT>Reina...<PAGE>Do you take <MYNAME> to be
+your husband, to love and
+cherish him all your life?<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>I do.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_NATHAN><FACE_NORMAL><FP_LEFT>In that case, I now
+pronounce you husband and
+wife!<PAGE><FACE_POS_LEFT><FACE_NATHAN><FACE_HAPPY><FP_LEFT>May the Harvest Goddess
+bless this happy couple!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_SHOCK><FP_RIGHT><MYNAME>...
+Marrying you makes me feel
+remarkably...happy.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_SHOCK><FP_RIGHT>Today the two of us start
+a...a new life together,
+don't we?<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_HAPPY><FP_RIGHT>But is there a nickname
+you'd like me to call you
+now?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT><MYNICKNAME>. That sounds
+nice. Are you sure?
+----------------------------|----------------------------------
+<CHOICE_AB> Yes, Reina.
+ I changed my mind.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_HAPPY><FP_RIGHT>So it's decided.<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_SHOCK><FP_RIGHT>We're together from now on
+...<MYNICKNAME>.
+----------------------------|----------------------------------
+Our new life has started!
+We'll take it easy today.
+Tomorrow it's back to work!
+----------------------------|----------------------------------
+<CHOICE_AB> Save and go to bed.
+ Go to bed without saving.

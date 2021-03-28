@@ -1,0 +1,752 @@
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Hey, I'm <BLUE>Cam</COLOR>.
+I run a flower shop around
+here. Nice to meet you...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Yesterday was pretty windy.
+You all right...?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Hi, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Hi, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Hi, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_HAPPY><FP_RIGHT>It's pretty cute... I like
+flowers the best, but
+cats are nice, too.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_SHY><FP_RIGHT>Is this your pet?<PAGE>Um... Could you make sure
+it doesn't get loose? I'm
+not a big fan of these...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_SHY><FP_RIGHT>A... A Blue Feather? Wait,
+are you really giving
+this to me?<PAGE><FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Well, um, maybe we should
+go somewhere more private
+to talk about this...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Is that a Blue Feather?<PAGE><FACE_POS_CENTER><FACE_CAM><FACE_HAPPY><FP_RIGHT>So you found your soul mate,
+did you? Congratulations!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Hmm? Sorry, I don't want
+that right now...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Thanks, but can you give
+this to me another time?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Is this for me? Oh yeah,
+it's Harmony Day today,
+isn't it?<PAGE>Thank you, <MYNAME>.
+
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>For me? For Harmony Day...?<PAGE><FACE_POS_CENTER><FACE_CAM><FACE_SHY><FP_RIGHT>Um... Are you sure this
+is for me...? Well,
+if you insist...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>What's that for...?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Huh? A birthday present...?
+For me...?<PAGE><FACE_POS_CENTER><FACE_CAM><FACE_HAPPY><FP_RIGHT>This soup... It's <RED>tom yum
+goong!</COLOR> I love this stuff!
+Thanks a lot!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Hey, isn't this <RED>tom yum
+goong?<PAGE><FACE_POS_CENTER><FACE_CAM><FACE_HAPPY><FP_RIGHT>What? It's for me? Thanks!
+I love this! That's so
+nice of you...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Hi, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Hi, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Hey, that's really nice.
+What? It's my birthday
+present?<PAGE><FACE_POS_CENTER><FACE_CAM><FACE_HAPPY><FP_RIGHT>Wow, can I really have
+this...? Thanks!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>That's for me?
+Really?<PAGE><FACE_POS_CENTER><FACE_CAM><FACE_HAPPY><FP_RIGHT>Wow, that's so nice.
+Thanks.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Oh, for my birthday?<PAGE>Thanks...
+
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>For me? Thanks...
+
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Is that for me? It's a
+birthday present, you
+say...?<PAGE><FACE_POS_CENTER><FACE_CAM><FACE_SHY><FP_RIGHT>Well, if you insist...
+
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>That's for me?<PAGE><FACE_POS_CENTER><FACE_CAM><FACE_SHY><FP_RIGHT>Um... Thanks?
+
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_SHY><FP_RIGHT>Um, I really don't want
+this, but I guess it'd be
+rude not to accept it...<PAGE>Thanks.
+
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Hi, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>How are you and Laney
+getting along?<PAGE>I bet she makes you
+delicious desserts
+every night, huh?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>How's married life treating
+you, <MYNAME>?<PAGE>Maybe I should settle down
+and get married, too...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_ANGRY><FP_RIGHT>Boy, we're having a pretty
+bad storm today!<PAGE>I hope my flowers don't blow
+away... You be careful too,
+<MYNAME>...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>You shouldn't be out when
+there's a blizzard like
+this.<PAGE>You could be swallowed up
+by the snow!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Do you like flowers,
+<MYNAME>?<PAGE>I want people to know just
+how beautiful flowers can
+be.<PAGE>That's why I work here.
+A nice flower arrangement
+can really warm the heart.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>A single flower is beautiful
+just by itself.<PAGE>However, if you combine
+them, they can become
+even more beautiful.<PAGE>That's what I'm trying to
+find: The way to best bring
+out a flower's beauty.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>I live in this village
+because of all the
+beautiful flowers here.<PAGE><FACE_POS_CENTER><FACE_CAM><FACE_HAPPY><FP_RIGHT>I love flowers. Don't you?
+
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Hey, what do you think of
+Howard, <MYNAME>?<PAGE><FACE_POS_CENTER><FACE_CAM><FACE_SHY><FP_RIGHT>Don't get me wrong...
+I like him and all, but when
+you live with someone...<PAGE>Well, you know what I mean,
+right? They can sometimes
+drive you up the wall...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Have you ever tried one
+of Laney's desserts?<PAGE>I think they're really
+good...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>When you want to thank
+someone, give them a
+bouquet.<PAGE>Make it one of my bouquets,
+though, of course.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Do you have any flowers in
+your house, <MYNAME>?<PAGE>Flowers are a great way to
+brighten up a place...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Hi, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>I'm not in the mood to talk.
+Sorry.
+----------------------------|----------------------------------
+<CHOICE_AB> I'm sorry...
+ OK...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>It's OK... Maybe I was
+reading too much into
+things...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_SAD><FP_RIGHT>...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Hi, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>It was really bad out
+yesterday... I'm glad
+everyone's okay.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Hi, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Hi, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Hi, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Hi, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>A Harmony Day present?<PAGE><FACE_POS_CENTER><FACE_CAM><FACE_HAPPY><FP_RIGHT>I didn't expect to get one
+of these after I got
+married... Thank you...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Huh? A birthday present?<PAGE><FACE_POS_CENTER><FACE_CAM><FACE_HAPPY><FP_RIGHT>And you remembered what
+I like... Thanks...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Huh? A present for me?<PAGE><FACE_POS_CENTER><FACE_CAM><FACE_HAPPY><FP_RIGHT>You know exactly what
+I like... Thanks...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Hey, do you want to go
+somewhere together?
+----------------------------|----------------------------------
+<CHOICE_AB> Yeah, that'd be fun!
+ I don't feel like it...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_SHY><FP_RIGHT>I see... Well, that's OK.
+Just let me know when
+you're in the mood...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Hi, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>What's that? It's a birthday
+present? For me?<PAGE><FACE_POS_CENTER><FACE_CAM><FACE_SAD><FP_RIGHT>Um, it's nice that you
+remembered my birthday
+and all, but...<PAGE>No, never mind... I should
+be thankful that you
+remembered...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>What's that? A present?
+For me?<PAGE>Um, well, I appreciate the
+thought, but...<PAGE>Well, I guess I have to
+take it... Thanks,
+I guess...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Wow, you're pregnant...
+It doesn't quite seem
+real yet...<PAGE>It's still pretty exciting,
+though.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>You've got the baby to think
+of now. You shouldn't push
+yourself.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>I can't believe I'm going
+to be a father soon...<PAGE>We have to think of a name
+for our child!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_HAPPY><FP_RIGHT>Seeing your face in the
+morning makes me feel great,
+even when I'm tired.<PAGE>It makes me want to work
+hard for you.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>I'm so busy during the day
+that we don't get to see
+each other that much...<PAGE>You should come visit me at
+the flower shop...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>I always love seeing your
+face after I come home
+from work...<PAGE><FACE_POS_CENTER><FACE_CAM><FACE_HAPPY><FP_RIGHT>All my worries melt away
+when I see you...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>I've never felt like this
+before...<PAGE><FACE_POS_CENTER><FACE_CAM><FACE_SHOCK><FP_RIGHT>I've finally found something
+that I love more than
+flowers...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>When I'm at home with you,
+I feel like I'm in field,
+surrounded by flowers...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>We should plant some flowers
+in our flower beds here at
+the house...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Marriage is all about making
+our dreams come true
+together...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Maybe I'm wrong, but it
+feels like you've changed
+since we got married...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_SAD><FP_RIGHT>Is this really what marriage
+is supposed to feel like...?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_ANGRY><FP_RIGHT>...What?
+----------------------------|----------------------------------
+<CHOICE_AB> Please don't be angry...
+ Never mind...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>I'm not angry... It's
+just that...<PAGE>No, it's OK...
+Never mind...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_ANGRY><FP_RIGHT>Never mind? If you have
+something to say to me,
+you should say it...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Aren't you bringing that to
+the festival today?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Hi, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Hi, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Is this your pet?
+How cute...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_HAPPY><FP_RIGHT>You're a cute one,
+aren't you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_SHY><FP_RIGHT>Where'd you get that
+thing...? Can you please
+get it away from me?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>You should really let that
+poor thing go...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>That's a nice outfit.
+I really like it.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Hey, <MYNAME>, do you
+want to go hang out
+somewhere?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Would you like to go
+somewhere and talk,
+<MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Would you like to go
+for a walk with me,
+<MYNAME>?
+----------------------------|----------------------------------
+<CHOICE_AB> Sure!
+ Not really...
+----------------------------|----------------------------------
+<CHOICE_AB> Sounds good!
+ Maybe some other time?
+----------------------------|----------------------------------
+<CHOICE_AB> Sure! Let's go!
+ Not right now...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Hi, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Hi, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_SAD><FP_RIGHT>Oh, OK...<PAGE>No, don't worry about it...
+
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>OK, we'll do it some
+other time, then.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Oh, I see... Maybe sometime
+later when you're free?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>It's Flower Day, so I'm
+really busy today.
+...\u270a\u270aWhat? A flower for me?<PAGE><FACE_POS_CENTER><FACE_CAM><FACE_HAPPY><FP_RIGHT>Thank you very much. I'll
+make sure to keep this
+flower in a safe place!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_HAPPY><FP_RIGHT>Ah, that's right, it's
+Flower Day today! Thank
+you so much!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Tomorrow is the Starry Night
+Festival. Do you want to
+go with me?
+----------------------------|----------------------------------
+<CHOICE_AB> Sounds fun!
+ I'm sorry...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_HAPPY><FP_RIGHT>Really? Great. I'll be at
+the caf around 8 PM
+tomorrow.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>I see... Don't worry about
+it. It's fine...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>I'll see you tomorrow, then.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_HAPPY><FP_RIGHT>This wrapping paper is
+really nice... I wonder
+what's inside...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_HAPPY><FP_RIGHT>I always feel at peace when
+I'm with you...<PAGE><FACE_POS_CENTER><FACE_CAM><FACE_SHOCK><FP_RIGHT>I guess what I mean is that
+you're a really important
+person in my life, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Hi, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Sorry, but could you leave
+me alone today...?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Since it's Flower Day today,
+I sold a lot of flowers.<PAGE>I think it's great that we
+have a day when we give
+people flowers.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_SAD><FP_RIGHT>Make yourself at home.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>I'm a bit busy today, but
+make yourself at home.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>I'm on my way to work now.
+You work hard, too...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Oh, you came to get me?
+Thanks...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>On my days off, I like
+to take a walk here.
+It's so peaceful.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Now that the tunnel is open,
+I'd like to sell flowers
+in Konohana, too.<PAGE><FACE_POS_CENTER><FACE_CAM><FACE_SHY><FP_RIGHT>But I don't know where
+to set up shop there,
+though...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Hi, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Hi, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Hi, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Hi, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Hi, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Hi, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Hi, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_SAD><FP_RIGHT>I'd like to be alone today.
+Sorry...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>What do you think of
+Konohana's food?<PAGE>Personally, I like the
+food here better...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>So I heard you cheered us
+on today... Thanks...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Hi, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Hi, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Konohana's food looks pretty
+good, but I still like our
+village's food best.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Hi,<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Sorry you didn't win today.
+Don't worry about it,
+though.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_HAPPY><FP_RIGHT>The <VAR_0>
+is today. Are you going? It
+should be a lot of fun!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>So you didn't come to the
+<VAR_0>
+today? It was a lot of fun.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Hi, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Too bad you didn't win
+today. There's always
+next time, though...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Hi, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Hi, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_CAM><FACE_NORMAL><FP_LEFT>Welcome home, <MYNICKNAME>...<PAGE>It's your birthday today...<PAGE>Let's celebrate it
+together...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_HAPPY><FP_RIGHT>I know I can't cook the way
+you can, but I tried my
+best...<PAGE>I really hope you like it.<PAGE><FACE_POS_RIGHT><FACE_CAM><FACE_SHOCK><FP_RIGHT>Happy birthday,
+<MYNICKNAME>...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_CAM><FACE_NORMAL><FP_LEFT>Welcome home, <MYNICKNAME>...<PAGE>It's our birthday today...
+You remembered, right...?<PAGE>Anyway, I've been waiting
+here so we could celebrate
+together...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_HAPPY><FP_RIGHT>I know I can't cook the way
+you can, but I tried my
+best...<PAGE>I really hope you like it.<PAGE>It's so amazing that we were
+born on the same day.<PAGE>I feel like we were destined
+to be together, you know...?<PAGE><FACE_POS_RIGHT><FACE_CAM><FACE_SHOCK><FP_RIGHT>N-Never mind... Forget I
+said anything...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_CAM><FACE_NORMAL><FP_LEFT>Welcome home, <MYNICKNAME>...<PAGE><FACE_POS_LEFT><FACE_CAM><FACE_HAPPY><FP_LEFT>Do you remember what today
+is? It's my birthday...<PAGE><FACE_POS_LEFT><FACE_CAM><FACE_NORMAL><FP_LEFT>Let's celebrate together,
+<MYNICKNAME>...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT>I made some food for us,
+because I know how
+busy you are...<PAGE><FACE_POS_RIGHT><FACE_CAM><FACE_SHOCK><FP_RIGHT>I'm so glad I can be with
+you on my birthday...<PAGE>I thought about that while I
+was cooking, and the time
+just flew by...<PAGE><FACE_POS_RIGHT><FACE_CAM><FACE_SHOCK><FP_RIGHT>Well, let's eat, then.
+
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_CAM><FACE_NORMAL><FP_LEFT>Welcome home, <MYNICKNAME>...<PAGE><FACE_POS_LEFT><FACE_CAM><FACE_HAPPY><FP_LEFT>Do you remember what today
+is? It's \u2337's
+birthday...<PAGE><FACE_POS_LEFT><FACE_CAM><FACE_NORMAL><FP_LEFT>Let's all celebrate
+together, <MYNICKNAME>...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_HAPPY><FP_RIGHT>\u2337 has gotten
+so big... Kids grow up
+so fast, don't they?<PAGE><FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT>Don't you think \u2337
+has your eyes, <MYNICKNAME>?<PAGE><FACE_POS_RIGHT><FACE_CAM><FACE_SHOCK><FP_RIGHT>Anyway, let's keep trying
+to be the best parents
+we can be...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_CAM><FACE_NORMAL><FP_LEFT>Welcome home, <MYNICKNAME>...<PAGE><FACE_POS_LEFT><FACE_CAM><FACE_HAPPY><FP_LEFT>Today's \u2337's
+birthday...<PAGE>Come and join us,
+<MYNICKNAME>.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT>I worked really hard to cook
+something nice, since it's
+\u2337's birthday.<PAGE><FACE_POS_RIGHT><FACE_CAM><FACE_HAPPY><FP_RIGHT>I hope it tastes good...
+Well, let's eat before
+it gets cold.<PAGE>Happy birthday,
+\u2337.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_CAM><FACE_NORMAL><FP_LEFT>Welcome home, <MYNICKNAME>...<PAGE><FACE_POS_LEFT><FACE_CAM><FACE_SHOCK><FP_LEFT>So, today's our wedding
+anniversary...<PAGE><FACE_POS_LEFT><FACE_CAM><FACE_HAPPY><FP_LEFT>I made us something to
+celebrate. I hope it turned
+out all right...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_HAPPY><FP_RIGHT>I spent all day today
+thinking about our
+wedding day...<PAGE><FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT>It feels like we met just
+yesterday, doesn't it?<PAGE><FACE_POS_RIGHT><FACE_CAM><FACE_SHOCK><FP_RIGHT>Here's to another year,
+<MYNICKNAME>...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Hi, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Hi, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Hi, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Hi, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Hi, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Hi, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Hi, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>The <VAR_0>
+is today. It should be a
+lot of fun.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Hi, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Hi, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Hi, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Hi, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Hi, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Hi, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Hi, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Hi, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Hi, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Hi, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Hi, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Hi, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Hi, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Hi, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Hi, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Hi, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Hi, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Hi, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Hi, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Good morning.
+How's it going?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Oh, good morning.
+How are you today?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Oh, good morning,
+<MYNAME>. How's
+work going?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Hi, <MYNAME>. Are you
+working today, too?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Good afternoon. Working
+hard today?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Oh, <MYNAME>. How are
+you? How's work
+going?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Good evening. Did you
+work hard today?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Good evening. You all
+done with work?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Hey, <MYNAME>. Good
+evening. What are you<PAGE>doing out so late?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_HAPPY><FP_RIGHT>I can't believe we're
+getting married soon... It's
+like a dream come true...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Let me make your wedding
+bouquet. I'll make sure it
+suits you perfectly.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_SHOCK><FP_RIGHT>I'm kind of nervous about
+the wedding... Everyone
+will be watching us...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Like us, flowers have many
+different moods...<PAGE>Their petals change
+depending on how they
+are feeling...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>I've got lots of beautiful
+flowers for sale here.<PAGE>You can buy some seeds and
+raise your own flowers if
+you'd like, though.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>I personally grow and select
+each flower I sell here.<PAGE>That's why every flower here
+is not only beautiful, but
+also freshly cut.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Hi, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Hi, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Hi, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>I feel so relaxed here.
+
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Do you come here often?
+
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>To grow flowers, you need
+love and a gentle touch.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_HAPPY><FP_RIGHT>Good morning. Did you sleep
+well?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_HAPPY><FP_RIGHT>Good morning. I feel great
+today.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Good morning, <MYNICKNAME>.<PAGE>How are you doing?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_HAPPY><FP_RIGHT>Hey there, <MYNICKNAME>. How
+is work going today?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Oh, it's already afternoon.
+What have you been up to
+this morning?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Don't tell me you just woke
+up, <MYNICKNAME>...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>This is the first time we've
+talked all day. I guess you
+were busy today, huh?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_HAPPY><FP_RIGHT>Did you just finish work?
+Looks like you worked hard
+today.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>How was work today?
+Try not to work
+so hard, OK?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>So I heard that <VAR_1>
+won at the Cooking Festival
+today.<PAGE>You must be a great cook...
+I'd love try your cooking
+sometime...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>So you won the Cooking
+Festival? Congratulations.<PAGE>I wish I could have had
+some...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Everyone's talking about
+what an amazing cook you
+are, <MYNAME>.<PAGE>You must have done really
+well at the Cooking Festival
+today...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_HAPPY><FP_RIGHT>I had a lot of fun at
+the <VAR_0>
+today!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_HAPPY><FP_RIGHT>Did you have fun at
+the <VAR_0>
+today?<PAGE>I always have a great
+time.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Today was so much fun, huh?
+I always feel a little sad
+when it's over, though...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_HAPPY><FP_RIGHT>Congratulations on your win
+today, <MYNAME>.<PAGE>You make the best
+<VAR_4>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>We have a lot of good cooks
+in this village, but I think
+you're the best, <MYNAME>.<PAGE>In fact, you're probably
+the best cook in the whole
+world!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>You won today because you
+worked so hard.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>I had so much fun today.
+How about you?<PAGE>It's nice to get everyone
+together like that.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Everyone had a great time
+today.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>I can't wait for next year's
+<VAR_0>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_HAPPY><FP_RIGHT>Congratulations on your win,
+<MYNAME>!<PAGE><FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>You're a pretty talented
+fisher.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>I was shocked to see how
+good you are at fishing!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>I'm terrible at fishing...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Congratulations on your win!
+Your <VAR_2>
+was really amazing.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>Today was great. You've
+raised your animals
+well.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_CAM><FACE_NORMAL><FP_RIGHT>The Animal Festival was
+a lot of fun today...<PAGE>I thought your
+<VAR_2> was
+the best...

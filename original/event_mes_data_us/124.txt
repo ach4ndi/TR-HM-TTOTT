@@ -1,0 +1,600 @@
+<FACE_POS_CENTER><HIDE_NAME><FACE_YUN><FACE_NORMAL><FP_RIGHT>My, my, you must be
+<MYNAME>.<PAGE><FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>I'm <BLUE>Yun</COLOR>.
+I run the Tea House.
+Please stop by for a meal.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>The weather was simply awful
+yesterday, so I had to close
+my tea house. What a shame.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Hello, dearie.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Hello, dearie.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Hello, dearie.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_HAPPY><FP_RIGHT>What a darling pet!
+It's simply adorable!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_SAD><FP_RIGHT>I'm terribly sorry, but
+please don't bring that pet
+around here.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Hello, dearie.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_HAPPY><FP_RIGHT>Oh, a blue feather?
+How lovely for you.<PAGE>Is the lucky recipient
+anyone I know?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Oh ho, I'm sorry, but
+I'm rather busy just now.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Another gift? That's simply
+too many today. I couldn't.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Hello, dearie.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Hello, dearie.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Oh my, what's this?
+You're an odd duck, dearie!
+What's this all about!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_HAPPY><FP_RIGHT>Oh my, for my birthday?
+You remembered!<PAGE>And it's <RED>mixed rice</COLOR>!
+Mmm, delicious.
+What a pleasure.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_HAPPY><FP_RIGHT>You made <RED>mixed rice</COLOR>
+for me?<PAGE>Ooh, it smells absolutely
+lovely! This is even better
+than mine!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Hello, dearie.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Hello, dearie.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_HAPPY><FP_RIGHT>A birthday present?
+Oh my goodness, so it is!<PAGE>What a pleasant surprise!
+It's very nice.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_HAPPY><FP_RIGHT>Oh my, what a nice gift!
+Thank you, dearie!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Birthday presents like this
+are nice to get at any age.
+Thank you.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Thank you, <MYNAME>.
+How nice!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_SAD><FP_RIGHT>Oh, this gift...
+You've made my birthday
+a sad one.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_SAD><FP_RIGHT>Oh, thank you.
+But why would you give me
+something like this?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_ANGRY><FP_RIGHT>I don't like this at all. At
+least Ying likes it. I'll
+have to give it to her.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Hello, dearie.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Hello, dearie.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>In a marriage, you need to
+consider each other's needs.
+Don't forget that!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_SAD><FP_RIGHT>Won't this wind ever die
+down? Ying is terrified.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Such a lot of snow!
+Plenty to frolic in,
+so Ying will be happy.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_HAPPY><FP_RIGHT><MYNAME>, it's always so
+good to see you stopping by.
+Thank you, dearie.<PAGE>I feel like I have two
+grandchildren.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>My husband passed away a
+long time ago.<PAGE>When I was grieving, all the
+villagers were there for me.<PAGE><FACE_POS_CENTER><FACE_YUN><FACE_HAPPY><FP_RIGHT>I wanted to repay their
+kindness, so I opened my
+tea house.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Ying is in delicate health.
+It's best for her to have a
+quiet life in our fresh air.<PAGE>So her parents asked me to
+care for her for a while.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_HAPPY><FP_RIGHT>I buy the crops I cook with
+here from Gombe.<PAGE>That man grows delicious
+crops, I'll tell you.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>You know little Ying?
+She's my granddaughter.
+What an adorable child!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>My shop means everything to
+me.<PAGE>I suppose just as your farm
+does to you, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>I'm sorry, the tea house is
+closed today.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Hello, dearie.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Hello, dearie.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Hello, dearie.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Hello, dearie.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Hello, dearie.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Hello, dearie.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Hello, dearie.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Hello, dearie.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Hello, dearie.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Hello, dearie.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Hello, dearie.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Hello, dearie.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Hello, dearie.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Hello, dearie.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Hello, dearie.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Hello, dearie.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Hello, dearie.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Hello, dearie.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Hello, dearie.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Hello, dearie.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Hello, dearie.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Hello, dearie.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Hello, dearie.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Hello, dearie.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Hello, dearie.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Hello, dearie.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Hello, dearie.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Hello, dearie.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Hello, dearie.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Hello, dearie.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Hello, dearie.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Hello, dearie.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Hello, dearie.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Hello, dearie.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Hello, dearie.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Hello, dearie.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>So that's for the festival?
+Good luck, dearie!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Hello, dearie.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Hello, dearie.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>You came to show me your
+pet? How nice.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_HAPPY><FP_RIGHT>I see these around the tea
+house often.
+Such cute little faces!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_SAD><FP_RIGHT>My goodness! Keep that away.
+I can't stand those!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Well, what do we have here?
+Did you find that somewhere?
+How nice.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Hello, dearie.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Hello, dearie.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Hello, dearie.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Hello, dearie.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Hello, dearie.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Hello, dearie.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Hello, dearie.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Hello, dearie.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Hello, dearie.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Hello, dearie.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Hello, dearie.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Hello, dearie.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_HAPPY><FP_RIGHT>For me? Thank you.
+What a pleasant fragrance.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Hello, dearie.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Hello, dearie.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Hello, dearie.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Hello, dearie.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Hello, dearie.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Hello, dearie.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_HAPPY><FP_RIGHT>For me?
+It's always so exciting to
+receive a wrapped present.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_HAPPY><FP_RIGHT>Whenever I need someone to
+talk to, I always know I can
+go to you, dearie.<PAGE>If you ever need my help,
+I'm happy to give it.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Hello, dearie.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT><MYNAME>, you must be tired
+after coming such a long
+way. Relax and have a rest.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Hello, dearie.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Hello, dearie.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Hello, dearie.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Another fine day's work!
+I'm just glad that everyone
+ate their food all up!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>I need to think up some new
+dishes to put on the menu.
+What would be good...?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Oh my, look at the time!
+I need to get things ready
+for tomorrow.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>My husband and I used to
+go on dates here.
+It hasn't changed a bit.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Hello, dearie.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Hello, dearie.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Hello, dearie.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Hello, dearie.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Hello, dearie.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Hello, dearie.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Hello, dearie.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_HAPPY><FP_RIGHT>I'm tickled pink that our
+cooking won out!
+Thanks for cheering for us!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_SAD><FP_RIGHT>Dear me, we lost.
+And you were cheering us on,
+too...what a shame.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Won't you enter the next
+Cooking Festival with me?
+We'd make a great team.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Hello, dearie.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Hello, dearie.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_SAD><FP_RIGHT>Oh, that Cooking Festival...
+what a heartbreaking loss.
+Next time will be different.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Hello, dearie.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Don't look so down.
+You'll do better next time.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_HAPPY><FP_RIGHT>Ha ha! I better cook enough
+for the whole town.
+Festivals make them hungry!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_HAPPY><FP_RIGHT><MYNAME>, you had better
+enter the next one.
+We're counting on you.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Hello, dearie.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Ying was rooting for you,
+so cheer up!
+Next time you'll win it.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Hello, dearie.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Hello, dearie.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Hello, dearie.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Hello, dearie.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Hello, dearie.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Hello, dearie.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Hello, dearie.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Hello, dearie.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Hello, dearie.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Hello, dearie.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Hello, dearie.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Hello, dearie.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Hello, dearie.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Hello, dearie.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Hello, dearie.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Hello, dearie.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Hello, dearie.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Hello, dearie.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Hello, dearie.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Hello, dearie.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Hello, dearie.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT><MYNAME>, you're going to
+observe our festival, hmm?
+Our festivals are very nice.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Hello, dearie.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Hello, dearie.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Hello, dearie.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Hello, dearie.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Hello, dearie.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Hello, dearie.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Hello, dearie.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Hello, dearie.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Hello, dearie.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Hello, dearie.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Hello, dearie.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Hello, dearie.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Hello, dearie.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Hello, dearie.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Hello, dearie.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Hello, dearie.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Hello, dearie.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Hello, dearie.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Hello, dearie.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>A very good morning to you,
+<MYNAME>.<PAGE>I'm busy preparing my
+ingredients for the day's
+cooking.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>A very good morning to you,
+<MYNAME>.<PAGE>Your workday starts early on
+your farm, doesn't it?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>A very good morning to you.
+Are you hungry?
+I'm feeling hungry.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Hello, hello,
+<MYNAME>.<PAGE>It's quite a chore to
+prepare all the ingredients
+for the caf.<PAGE>Maybe I need to hire some
+part-time help.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_HAPPY><FP_RIGHT><MYNAME>, dearie!
+Hello, hello!<PAGE>Can you spare some time to
+play with Ying? It would be
+a big favor to me.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_HAPPY><FP_RIGHT>Hello, hello!<PAGE><MYNAME>, you're growing
+crops at your farm, right?
+I'd love to cook with them!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Good evening, dearie.
+I'd better get the kitchen
+ready for tomorrow.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Good evening, dearie. 
+<PAGE>Don't eat late at night
+or you'll get bad dreams!
+
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_HAPPY><FP_RIGHT>Good evening.<PAGE>I sing lullabies to Ying
+at night. It helps her
+fall asleep.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Hello, dearie.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Hello, dearie.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Hello, dearie.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Are you hungry? Talk to
+me across the counter
+to order food.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>My, I'm always busy!<PAGE>Even when there are no
+customers, there's a lot
+of cleaning up to do!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT><MYNAME>, if you don't eat
+properly, you won't have
+enough energy for your work!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>We're not open right now.
+Sorry about that!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>We're not open right now.
+Sorry about that!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>We're not open right now.
+Sorry about that!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>My, my, how are you, dearie?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Rahi is a good friend to
+Ying. They spend a lot of
+time together.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Mayor Ina is so good at
+running the village.<PAGE>Even as a little girl, she
+loved to organize things.
+It was adorable!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Hello, dearie.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Hello, dearie.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Hello, dearie.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Hello, dearie.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Hello, dearie.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Hello, dearie.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Hello, dearie.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Hello, dearie.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Hello, dearie.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_HAPPY><FP_RIGHT>My goodness, how marvelous!
+I never would have thought
+that you'd win!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_HAPPY><FP_RIGHT>Congratulations!
+Your cooking was marvelous.
+Even I could learn from you.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_HAPPY><FP_RIGHT>With such good food, you
+could put me out of
+business!<PAGE>Hee hee! Oh, I'm just
+kidding, dearie. I know
+you wouldn't do that.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_HAPPY><FP_RIGHT>The festival is over.
+Did you have a good time,
+dearie?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_HAPPY><FP_RIGHT>Wasn't that a pleasant
+festival? It always is.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Everyone, young and old,
+gets involved in our
+festivals here in Konohana.<PAGE>Festivals bring us together
+as a community.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>You are growing some
+tasty-looking crops,
+<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>I wonder how it would turn
+out if I cooked something
+up using your crops?<PAGE>I'd like to try it
+sometime.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Congratulations!
+That was very impressive!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>My, that was a pleasure!
+Ying seemed to enjoy herself
+too. I'm glad I brought her.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>I haven't seen Ying so happy
+in a long time.
+Hee hee.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>That festival is always
+special to me. Ying loves
+it so.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>My goodness gracious,
+you're all muddy!
+You really went all out!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Congratulations!
+I can't say I'm surprised.<PAGE><FACE_POS_CENTER><FACE_YUN><FACE_HAPPY><FP_RIGHT>I wanted Ying to enter, but
+she didn't want to.<PAGE>I hope she'll get stronger
+and take part some time...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_HAPPY><FP_RIGHT>Congratulations, <MYNAME>!
+That was quite a win!<PAGE><FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>I used to love taking part
+in this festival, even
+though I never won.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Hello, dearie.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Hello, dearie.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YUN><FACE_NORMAL><FP_RIGHT>Hello, dearie.

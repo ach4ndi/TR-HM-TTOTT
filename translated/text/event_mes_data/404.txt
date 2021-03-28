@@ -1,0 +1,50 @@
+<FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT>Hari ini kamu akan diberi-
+tahukan bagaimana cara kerja
+balai desa.<PAGE>Apa kamu mengerti, Rahi?<PAGE><FACE_POS_RIGHT><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Ya, bu.<PAGE><FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT>Bagus.
+kalau kamu mengerti...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT>Disini kita akan mengecek
+tamu, membantu orang pindah-
+an dan menjawab pertanyaan<PAGE>seputar desa kita.<PAGE>Pekerjaan ketua desa nomer
+satu adalah selalu meres-
+pon keluhan dan masukan<PAGE>dan melihat kondisi warga
+desa ini.<PAGE><FACE_POS_RIGHT><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Sepanjang ketua desa ada
+disekitar, maka desa akan
+aman.<PAGE><FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT>Ya, itu benar.
+Sekarang, ruang tamu ada
+disana.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT>Pastikan kamu menunjukan ke
+ruangan yang benar untuk
+tamu.<PAGE><FACE_POS_RIGHT><FACE_RAHI><FACE_HAPPY><FP_RIGHT>Disini hanya ada 2 ruangan,
+jadi ini tidak akan menyu-
+litkanmu.<PAGE><FACE_POS_LEFT><FACE_INA><FACE_HAPPY><FP_LEFT>Well, ya itu benar!<PAGE><FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT>Sekarang untuk perpustakaan!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_INA><FACE_SAD><FP_LEFT>Kita biasanya meminjamkan
+buku, tapi...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_INA><FACE_SAD><FP_LEFT>Sekarang sedikit yang
+tinggal didesa, dan jarang
+ada yang berkunjung.<PAGE>Sunggu disayangkan, karena
+kita mempunyai koleksi yang
+bagus diperpustakaan kita.<PAGE><FACE_POS_RIGHT><FACE_RAHI><FACE_SAD><FP_RIGHT>Memang memalukan...<PAGE><FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT>Aku harapkan kedepannya,
+semoga akan lebih banyak
+orang yang menggunakannya.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT>Akhirnya, ruang berkumpul.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>Kita gunakan ini untuk
+event/acara, jadi ini tidak
+membutuhkan penjelasan.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>Bergaul dengan warga desa
+itu bagian terpenting menja-
+di bagian pekerjaan ketua<PAGE>desa. Sata selalu menerap-
+kan aturan yang ketat
+denganmu.<PAGE>Tapi kamu bisa di-
+longgarkan jika kamu berbi-
+cara sama orang-orang.<PAGE><FACE_POS_LEFT><FACE_RAHI><FACE_HAPPY><FP_LEFT>Aku mengerti, bu.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>Lihat waktunya!
+Saatnya dugem! eh maksudnya
+kembali kedalam.

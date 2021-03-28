@@ -1,0 +1,131 @@
+\u2137Talk about the request?
+<CHOICE_AB> Yes
+ No
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>So, you came to have me
+teach you about <RED>critter
+catching</COLOR>, did you?<PAGE><FACE_POS_RIGHT><FACE_GEORGIA><FACE_HAPPY>Did you know there are some
+tricks to <RED>critter catching</COLOR>?
+Would you like some tips?
+----------------------------|----------------------------------
+\u2137<CHOICE_AB> Please tell me!
+ No thanks.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_HAPPY><FP_RIGHT>Why, of course! I'd be
+pleased as punch to tell
+you!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>And that's the trick to it!
+Would you like to hear it
+again?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_HAPPY><FP_RIGHT>Well, in that case, go catch
+the critter written in my
+<RED>request</COLOR>!<PAGE><FACE_POS_RIGHT><FACE_GEORGIA><FACE_NORMAL>Hold your horses, though!
+Since you're new at this,
+I'll give you a hint, OK?<PAGE>Critters come in many
+colors, but...<PAGE>...The locust I requested is
+<RED>brown</COLOR>!<PAGE>If you run into any trouble,
+remember my hint about what
+color it is!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_HAPPY><FP_RIGHT>Hello!
+How's it going!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_HAPPY><FP_RIGHT>Hello!
+How's it going!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_HAPPY><FP_RIGHT>Hello!
+How's it going!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_HAPPY><FP_RIGHT>Hello!
+How's it going!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>Wow, you did it! You caught
+yourself a critter! Let's
+take a look!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_HAPPY><FP_RIGHT>Great job! You caught the
+right one!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_HAPPY><FP_RIGHT>My, it looks like you're
+quite good at catching
+critters, <MYNAME>!<PAGE>I thought it would be harder
+for you, since you're new to
+town and all. Guess not!<PAGE>By the way, there are lots
+of other critters besides
+the one I requested!<PAGE><FACE_POS_RIGHT><FACE_GEORGIA><FACE_HAPPY>Just explore the mountain a
+bit, and I reckon you'll
+come across a lot more!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>Anyway, you fulfilled my
+request, so you get a
+reward!<PAGE>Just select your reward from
+the <RED>Reward Screen</COLOR>...<PAGE><FACE_POS_RIGHT><FACE_GEORGIA><FACE_HAPPY>...And move it to your <RED>bag</COLOR>!
+Easy as making grits, right?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_HAPPY><FP_RIGHT>You did a fabulous job,
+<MYNAME>!<PAGE><FACE_POS_RIGHT><FACE_GEORGIA><FACE_NORMAL>I'm sure I'll be giving you
+lots more requests in the
+future!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_HAPPY><FP_RIGHT>Hello!
+How's it going!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_HAPPY><FP_RIGHT>Hello!
+How's it going!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_HAPPY><FP_RIGHT>Hello!
+How's it going!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_HAPPY><FP_RIGHT>Hello!
+How's it going!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_HAPPY><FP_RIGHT>Hello!
+How's it going!
+----------------------------|----------------------------------
+\u2137I say there's a trick to it,
+but, really, it's as easy as
+falling off a horse!
+----------------------------|----------------------------------
+\u2137There! Did you see that
+critter appear just now?
+----------------------------|----------------------------------
+\u2137Critters are always hiding
+in the grass.<PAGE>When you get close and
+surprise them, they'll
+jump right out!<PAGE>When you spot a critter, get
+right up close to it...<PAGE>...And grab it!\u270a
+<RED>Push the A Button</COLOR>!
+You'll catch that critter!
+----------------------------|----------------------------------
+\u2137But if you don't catch it
+right quick, it might get
+away from you! Careful!<PAGE>If it does get away, don't
+you fret! It's a big
+mountain!<PAGE>Just keep looking, and I'm
+sure you'll find plenty more
+critters!
+----------------------------|----------------------------------
+\u2137When you walk around grassy
+areas like this, critters
+might jump out!
+----------------------------|----------------------------------
+\u2137Remember, my request is for
+a <GREEN>Spotted Locust</COLOR>!
+----------------------------|----------------------------------
+\u2137The best way to find it is
+to walk all around this area
+here!<PAGE>But if you look and look and
+just can't find a critter...<PAGE>...Move to the <RED>next screen</COLOR>,
+then come back, and the
+critters will return!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_HAPPY><FP_RIGHT>Hello!
+How's it going!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_HAPPY><FP_RIGHT>Hello!
+How's it going!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_HAPPY><FP_RIGHT>Hello!
+How's it going!

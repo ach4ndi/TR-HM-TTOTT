@@ -1,0 +1,72 @@
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>★ＥＲＲＯＲ！★</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Ho-ho!
+You brought the materials!
+Lemme see...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>★ＥＲＲＯＲ！★</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>★ＥＲＲＯＲ！★</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_SHENG><FACE_HAPPY><FP_RIGHT>Heh!
+Now I've got what I need!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>★ＥＲＲＯＲ！★</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Now for the money.
+Alrighty, I've got your
+<VAR_1>G!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>★ＥＲＲＯＲ！★</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>★ＥＲＲＯＲ！★</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>★ＥＲＲＯＲ！★</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>★ＥＲＲＯＲ！★</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>★ＥＲＲＯＲ！★</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_SHENG><FACE_HAPPY><FP_RIGHT>Nice job.
+You did what it took to get
+all the materials, eh?<PAGE><FACE_POS_RIGHT><FACE_SHENG><FACE_NORMAL>Now it's my turn to show
+what I can do!<PAGE><FACE_POS_RIGHT><FACE_SHENG><FACE_ANGRY>I may be old, but nobody
+can say Sheng's lost his
+touch with tools!<PAGE>You wait outside so I
+can focus on my work.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_SHENG><FACE_ANGRY><FP_RIGHT>Hooooboy... \u270aHoooboy...
+Hot dang!!
+That's mighty dazzling!!!<PAGE>I've poured my heart and
+soul into this piece of
+master craftsmanship!<PAGE><FACE_POS_RIGHT><FACE_SHENG><FACE_HAPPY><MYNAME>, this tool is
+gonna serve you well!
+Go on, take it!
+----------------------------|----------------------------------
+\u2137You received a
+<RED>Watering Can (Lv.4)</COLOR>!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Now your watering can<RED> can
+hold more water</COLOR> than
+it did before.<PAGE>But the best explanation
+is a demonstration!
+\u270aJust...<PAGE>Give it a try!<PAGE><FACE_POS_RIGHT><FACE_SHENG><FACE_ANGRY>I can see there's still
+plenty of untapped potential
+in this watering can!<PAGE>Upgrade it again, and you'll
+be able to carry even more
+water in it!<PAGE><FACE_POS_RIGHT><FACE_SHENG><FACE_SAD>But...
+I've done all I can for the
+moment...<PAGE><FACE_POS_RIGHT><FACE_SHENG><FACE_ANGRY>I'll continue my research.
+When I'm ready to upgrade it
+again, I'll let you know!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_SHENG><FACE_NORMAL><FP_RIGHT>I don't mind patting myself
+on the back for this piece
+of work!<PAGE>I'm sure we'll be doing
+business again.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>★ＥＲＲＯＲ！★</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>★ＥＲＲＯＲ！★</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>★ＥＲＲＯＲ！★</COLOR>

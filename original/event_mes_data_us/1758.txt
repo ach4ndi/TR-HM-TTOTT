@@ -1,0 +1,70 @@
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>★ERROR!★</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>So you want to expand your
+farm? I've been expecting
+you!<PAGE><FACE_POS_RIGHT><FACE_EILEEN><FACE_HAPPY>Okay, go ahead and give me
+the materials.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>★ERROR!★</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>★ERROR!★</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_EILEEN><FACE_HAPPY><FP_RIGHT>Great! Thanks!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>★ERROR!★</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Now for the money.
+That'll be
+<VAR_0>G.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>★ERROR!★</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>★ERROR!★</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>★ERROR!★</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>★ERROR!★</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>★ERROR!★</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_EILEEN><FACE_HAPPY><FP_RIGHT>You brought everything
+I need for the expansion!
+Nicely done!<PAGE><FACE_POS_RIGHT><FACE_EILEEN><FACE_NORMAL>Now let's go to your farm!
+I'll get straight to work.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Now you just wait there...
+I'll be done in no time!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>★ERROR!★</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>★ERROR!★</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>All finished!
+And a fine piece of work,
+if I do say so myself!<PAGE>I built you a <RED>paddy</COLOR> and
+<RED>watermill</COLOR>.
+They look fantastic!<PAGE>You can use the watermill to
+<RED>grind wheat into flour</COLOR>.<PAGE>Or to <RED>extract seeds from
+crops</COLOR>.<PAGE>In the paddy you can grow
+<RED>rice</COLOR>.<PAGE>But keep in mind that
+growing rice is very
+difficult!<PAGE>In order to plant rice
+seedlings, you open the
+<RED>sluice gate</COLOR> to let in water.<PAGE>Once the paddy is full of
+water, you plant the rice
+seedlings.<PAGE>But the sluice can only be
+opened <RED>during the spring</COLOR>.
+Keep that in mind!<PAGE>And you harvest rice in
+<RED>fall</COLOR>. So it takes a lot of
+patience to grow rice.<PAGE><FACE_POS_RIGHT><FACE_EILEEN><FACE_SAD>Growing rice is no easy
+task!<PAGE><FACE_POS_RIGHT><FACE_EILEEN><FACE_HAPPY>Go take a look!
+You can use your new
+expansion right away.<PAGE>My job here is all done, so
+I'm going to go home.
+See you around.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>★ERROR!★</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>★ERROR!★</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>★ERROR!★</COLOR>

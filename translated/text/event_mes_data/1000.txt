@@ -1,0 +1,60 @@
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>Huh? Ada apa,
+<MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>Ah, oh iya.
+Ayahku membuat itu, kuda
+kayu...<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>Apakah itu keren?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>Disaat aku masih kecil, aku
+selalu menaikinya dan berpu-
+rapura mengendarainya. Ayah-<PAGE>ku langsung memarahiku.<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>Ayahku memang benar-benar
+menyukai kuda. Dia berkeli-
+ling dunia untuk mendapat-<PAGE>kan kuda terbaik.<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_SHY><FP_RIGHT>Ini sebenarnya sudah sangat
+lama sekali sejak aku men-
+dengar terakhir kalinya<PAGE>mengenaik dirinya...
+Aku sudah mengenal dirinya
+lama, jadi aku yakin dia<PAGE>baik-baik saja. Tapi...
+terkadang aku mengawatir-
+kan dirinya itu.
+----------------------------|----------------------------------
+<CHOICE_AB> .......
+ Aku yakin dia baik2 saja!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_SHY><FP_RIGHT>Whoo, ...
+Jangan menambah aku lebih
+mengawatirkannya...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_SHY><FP_RIGHT>Uhh...Jika kamu membuat ini
+semakin mengelisakan...
+Aku tidak akan mau gelisa.<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_SAD><FP_RIGHT>Maaf, bisakah kamu pulang
+kerumah? Ini tak menolongku
+sama sekali.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>Ya, kamu benar sekali!
+Aku yakin dia baik-baik
+saja!<PAGE>Dan dia akan kembali pulang
+dengan membawakan kuda yang
+terbaik diseluru dunia!<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>..., maaf membuatmu
+khawatir ... ini bukanlah
+gayaku sehari-hari.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>Kamu benar-benar enak diajak
+bicara, <MYNAME>.<PAGE>Disaat kamu tersenyum dan
+berkata bahwa dia baik-baik
+saja...<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>Aku merasa seperti, ye,
+dia pastinya baik-baik saja.
+Aku benar-benar legaaa.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_SHOCK><FP_RIGHT>Um, jadi, seperti...
+Apa ya aku ingin kubicara-
+kan ini...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>Kumaksud.
+Ini seperti ini,
+<MYNAME>!<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>Hayate benar-benar ingin
+bertemu denganmu lagi. Jadi
+kuharap kamu datang lagi.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>Well, Aku akan bertemu
+denganmu lagi nanti,
+<MYNAME>. Dan... makasih!

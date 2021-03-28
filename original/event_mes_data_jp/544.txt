@@ -1,0 +1,30 @@
+<FACE_POS_LEFT><FACE_ASH><FACE_NORMAL><FP_LEFT>少しひまなので、
+散歩しませんか？<PAGE><CHOICE_AB> はい
+ いいえ
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ASH><FACE_NORMAL><FP_LEFT>時間があったら、
+少しお話しませんか？<PAGE><CHOICE_AB> はい
+ いいえ
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ASH><FACE_NORMAL><FP_LEFT>お話したいのですけど、
+大丈夫ですか？<PAGE><CHOICE_AB> はい
+ いいえ
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ASH><FACE_NORMAL><FP_LEFT>お話したいのですけど、
+大丈夫ですか？<PAGE><CHOICE_AB> はい
+ いいえ
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ASH><FACE_NORMAL><FP_LEFT>ちょうどよかった、
+あなたのこと考えてたのですよ
+デートしませんか？<PAGE><CHOICE_AB> はい
+ いいえ
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ASH><FACE_NORMAL><FP_LEFT>ちょうどよかった、
+あなたのこと考えてたのですよ
+デートしませんか？<PAGE><CHOICE_AB> はい
+ いいえ
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ASH><FACE_NORMAL><FP_LEFT>ちょうどよかった、
+あなたのこと考えてたのですよ
+デートしませんか？<PAGE><CHOICE_AB> はい
+ いいえ

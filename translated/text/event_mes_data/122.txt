@@ -1,0 +1,644 @@
+<FACE_POS_CENTER><HIDE_NAME><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Apa urusanmu denganku?
+Dan kamu itu siapa?<PAGE><MYNAME>, ...?
+Aku akan mengingatnya.
+Oh Nama aku?<PAGE><FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Aku <BLUE>Mako</COLOR>. Aku
+pemilik dari kebun buah di-
+sini.<PAGE>Beritahu kepadaku jika kamu
+butuh sesuatu!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_ANGRY><FP_RIGHT>Cuaca kemarin itu sungguh
+merusak dimana-mana, tapi
+tidak ada kerusakan parah...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Apakah itu kamu, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Apakah itu kamu, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Apakah itu kamu, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_HAPPY><FP_RIGHT>Ah! Hewan peliharaan yang
+bagus! Jaga baik-baik ya.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_ANGRY><FP_RIGHT>Urk! Mundur!
+Itu aku tidak mau dekat-
+dekat hewan itu!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Apakah itu kamu, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_ANGRY><FP_RIGHT>Ah...sebuah Bulu Biru!
+Jadi kamu akan menikah ya
+sebentar lagi daripada aku?<PAGE>Tidak kuterima!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Untukku?
+Aku tidak membutuhkannya.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Untuk hari ini, aku harus
+menolaknya. Menerima banyak
+hadiah dihari yang sama<PAGE>itu akan memberikan
+kesialan keesokan harinya.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Apakah itu kamu, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Apakah itu kamu, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Apa bisnismu disini?
+Jangan berdiri disitu aja,
+bicaralah.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_HAPPY><FP_RIGHT>Kalau itu dijadikan sebagai
+hadiah ulang tahun, maka
+itu sebuah pilihan yg tepat!<PAGE>Itu lebih bagus daripada
+yang udah aku bayangkan!<PAGE>Maka kamu pantas
+mendapatkan ucapan terima
+kasihku!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_HAPPY><FP_RIGHT>Oh-ho, <RED>chop suey</COLOR>!
+Mmm, aku suka aku suka!
+Benar-benar hadiah super!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Apakah itu kamu, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Apakah itu kamu, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_HAPPY><FP_RIGHT>Apa ya yang kita dapatkan
+disini?!
+Sebuah hadiah ulang tahun!<PAGE>Dan itu hadiah yang bagus!
+Kamu pantas mendapatkan
+ucapan terima kasihku!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Apa yang kita punya disini?
+Tampaknya kamu tahu apa
+yang aku suka ya.<PAGE>Kamu pantas mendapatkan
+ucapan terima kasih dariku!
+Aku terima kedermawanmu.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Hari ini adalah ulang tahun-
+ku. Tapi aku tidak menyangka
+mendapatkan sebuah hadiah!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Jadi ini untukku?
+Makasih.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_SAD><FP_RIGHT>Ini dia, ulang tahunku...
+dan kamu menyakiti aku
+dengan ini! Kamu itu...<PAGE>tidak mempunyai rasa malu!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_ANGRY><FP_RIGHT>Apakah kamu ingin membuatku
+marah? Jika kamu ada hal
+yang gak disukai dariku,<PAGE>bicaralah dengan lantang
+didepanku!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_SAD><FP_RIGHT>Hmm, maafkan atas kekasaran
+ku barusan...<PAGE><RED>Susu</COLOR> segar, Aku tidak
+menyukainya.<PAGE>Aku akan menerimanya, tapi
+hanya digunakan untuk
+memasak saja.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Apakah itu kamu, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_HAPPY><FP_RIGHT>Apakah kamu dan Reina
+senang bersama?<PAGE>Ingat ya tunjukkan kepada-
+nya betapa besar cintamu
+kepada dia!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Kamu sudah memasuki masa-
+masa pernikahan sebelum aku
+melakukannya...<PAGE>Sekarang kamu harus memberi-
+tahukan aku rahasia untuk
+memenangkan hati seseorang.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_SAD><FP_RIGHT>Aku mencemaskan angin yang
+kencang itu merusak pohon
+buah-buahanku.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_SAD><FP_RIGHT>Disaat turun salju dengan
+lebatnya, itu membuatku
+lebih capek untuk mengurusi<PAGE>kebun buah-buahanku.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_HAPPY><FP_RIGHT>Sebagai seorang petani yang
+cemerlang dan inovatif, aku
+punya kemiripan denganmu.<PAGE>Itu sungguh langka untuk
+menemukan seorang yang
+memiliki jiwa yang baik.<PAGE>Mungkin persahabatan kita
+ini akan bertahan lama!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_HAPPY><FP_RIGHT>Datang dan bertemu denganku
+kapan aja jika kamu mempu-
+nyai pertanyaan seputar<PAGE>buah-buahan. Aku dapat mem-
+beritahu hal yang serius
+mengenai tanamanmu.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Reina itu memiliki insting
+yang tajam sebagai seorang
+peneliti.<PAGE>Aku harap bahwa dia bisa
+menggunakan kemampuan
+alaminya dengan baik.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Jadi kamu menanam berbagai
+variasi tanaman ya?<PAGE>Tampaknya kita melakukan
+hal yang sama.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Jika kamu belajar lebih
+banyak mengenai tanaman dan
+buah-uahan, kesemuanya itu<PAGE>akan tampak menjanjikan.
+Itu adalah hal yang dinan-
+tikan disaat melihatnya<PAGE>tumbuh dan siap untuk di-
+panen.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_ANGRY><FP_RIGHT>Ah-ha, jadi pastinya...!
+Eureka!!!<PAGE>Arrgh, sekarang apa?
+Aku hampir mendapatkan teori
+agronomi baru...!<PAGE>Dan sekarang semuanya
+kabur dari pikiranku!
+*Sob*
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Hmm, Apa itu?
+Apa kamu ingin mendengarkan
+cara kerjaku kek gimana?<PAGE>Tidak, aku pikir kamu tidak.
+Pada umumnya tidak akan
+melakukannya.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Apakah itu kamu, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Apakah itu kamu, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Apakah itu kamu, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Apakah itu kamu, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Apakah itu kamu, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Apakah itu kamu, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Apakah itu kamu, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Apakah itu kamu, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Apakah itu kamu, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Apakah itu kamu, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Apakah itu kamu, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Apakah itu kamu, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Apakah itu kamu, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Apakah itu kamu, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Apakah itu kamu, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Apakah itu kamu, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Apakah itu kamu, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Apakah itu kamu, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Apakah itu kamu, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Apakah itu kamu, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Apakah itu kamu, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Apakah itu kamu, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Apakah itu kamu, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Apakah itu kamu, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Apakah itu kamu, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Apakah itu kamu, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Apakah itu kamu, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Apakah itu kamu, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Apakah itu kamu, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Apakah itu kamu, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Apakah itu kamu, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Apakah itu kamu, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Apakah itu kamu, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Apakah itu kamu, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Apakah itu kamu, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Apakah itu kamu, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Apa ini ya?
+Ah, untuk festival...
+Semoga beruntung ya.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Apakah itu kamu, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Apakah itu kamu, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Ah, itu hewan
+peliharaanmu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_HAPPY><FP_RIGHT>Oh, hewan yang baik!
+Dan kamu menangkapnya
+dengan tanganmu sendiri?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_ANGRY><FP_RIGHT>Hama itu pastinya merusak
+perkebunanku dengan cara
+memakan semua buah-buahku!<PAGE>Basmi serangga itu!
+Atau kamu aja yang ku-
+basmi?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Apa yang kamu lakukan
+dengan itu? Kamu itu orang-
+yang aneh, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Apakah itu kamu, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Apakah itu kamu, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Apakah itu kamu, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Apakah itu kamu, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Apakah itu kamu, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Apakah itu kamu, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Apakah itu kamu, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Apakah itu kamu, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Apakah itu kamu, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Apakah itu kamu, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Apakah itu kamu, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Apakah itu kamu, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Sebuah bunga untukku?
+Itu kedengaran aneh jika
+kamu yang melakukannya.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Apakah itu kamu, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Apakah itu kamu, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Apakah itu kamu, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Apakah itu kamu, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Apakah itu kamu, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Apakah itu kamu, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Apa ini? Sebuah bungkusan
+hadiah? Oke oke!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_HAPPY><FP_RIGHT>Aku benar-benar bersyukur
+sudah bertemanan denganmu
+untuk diajak berbicara.<PAGE>Aku jarang berbicara dengan
+presepsi seorang wanita.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Apakah itu kamu, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Apakah buah-buahanmu didesa
+mu itu apakah berbeda
+dengan yang ada dikami ini?<PAGE>Kamu harus menunjukkannya
+kepadaku kalau sempat.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Apakah itu kamu, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Apakah itu kamu, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Apakah itu kamu, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Musim ini, waktu terbaik
+untuk buah-buah sepanjang
+tahun ini.<PAGE>Melihat mereka berkembang
+itu merupakan sebuah
+kesenangan yang tiada tara.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Musim dingin itu musim yang
+mencengkam untukku, pasti-
+nya kamu tahu alasannya.<PAGE>Musim semi tampaknya masih
+lama untuk muncul ya.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Hmm, apakah kamu mempu-
+nyai tanaman atau buah yang
+tidak umum disini?<PAGE>Tidak ada...?<PAGE>Jika kamu tahu hal itu,
+beritahukan kepadaku ya.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Hmm?
+Kamu bertanya, sedang apa
+aku lakukan? apa bisa?<PAGE>Aku sedang belajar mengenai
+tanaman diarea ini untuk
+kemungkinan mutasi acak.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Apakah itu kamu, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Apakah itu kamu, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Apakah itu kamu, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Apakah itu kamu, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Apakah itu kamu, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Apakah itu kamu, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Apakah itu kamu, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Heh heh heh.
+Seharusnya, kita menang di-
+festival memasak hari ini!<PAGE>Entah kenapa disaat aku dan
+kamu datang, <MYNAME>,...
+Malah sebaliknya...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_ANGRY><FP_RIGHT>Konohana sudah merasakan
+kekalahannya. <MYNAME>,
+dapatkah kamu mengatakan<PAGE>bahwa semangatmu itu
+sudah maksimal?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Jika kamu tidak ingin di-
+pihak yang kalah difestival
+memasak selanjutnya...<PAGE>Kamu lebih baik pindah ke-
+pihak desa kami saja.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Apakah itu kamu, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Apakah itu kamu, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_ANGRY><FP_RIGHT>Kalah disaat festival mema-
+sak...!
+Sungguh disayangkan!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Apakah itu kamu, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Betapa bodohnya jika lang-
+sung menyerah dari hal
+seperti ini!<PAGE>Ayo bersemangat !
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Disaat festivalnya mau di-
+mulai, ... Tampaknya aku
+harus bersabar!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Jadi kamu tidak ikutan
+ya...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Apakah itu kamu, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Dengarkan aku, <MYNAME>!<PAGE>Aku tahu bahwa aku tidak
+tahu aktifitasmu hari ini,
+tapi aku tahu bahwa kamu<PAGE>harus bangkit kembali dari
+kekalahanmu itu.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Apakah itu kamu, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Apakah itu kamu, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Apakah itu kamu, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Apakah itu kamu, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Apakah itu kamu, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Apakah itu kamu, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Apakah itu kamu, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Apakah itu kamu, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Apakah itu kamu, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Apakah itu kamu, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Apakah itu kamu, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Apakah itu kamu, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Apakah itu kamu, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Apakah itu kamu, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Apakah itu kamu, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Apakah itu kamu, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Apakah itu kamu, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Apakah itu kamu, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Apakah itu kamu, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Apakah itu kamu, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Apakah itu kamu, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT><MYNAME>, Apa itu?
+Tampaknya kamu melihatnya,
+tapi jangan mengganguinya.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Apakah itu kamu, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Apakah itu kamu, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Apakah itu kamu, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Apakah itu kamu, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Apakah itu kamu, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Apakah itu kamu, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Apakah itu kamu, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Apakah itu kamu, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Apakah itu kamu, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Apakah itu kamu, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Apakah itu kamu, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Apakah itu kamu, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Apakah itu kamu, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Apakah itu kamu, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Apakah itu kamu, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Apakah itu kamu, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Apakah itu kamu, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Apakah itu kamu, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Apakah itu kamu, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Apakah itu kamu, <MYNAME>?
+Apakah ada urusan denganku?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Selamat pagi.
+Aku memikirkan sesuatu.
+Apa yang kamu inginkan?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Selamat pagi!<PAGE>Mari berharap hari ini
+penuh dengan tantangan dan
+kejutan!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Grrr, <MYNAME>!<PAGE>Tanpa adanya waktu siang
+hari, tanaman dan buah-buah
+an tidak dapat tumbuh, dan<PAGE>sekarang apa? Kepentingan
+apa yang membawakanmu
+kesini?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_HAPPY><FP_RIGHT>Salam, <MYNAME>.
+Apa yang sedang kamu lakukan
+dihari ini?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Apakah itu kamu, <MYNAME>?
+Berdiskusi mengenai buah?
+Atau aku yang salah?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Sedang apa kamu kesini di-
+waktu malam seperti ini,
+<MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Selamat Malam, <MYNAME>.<PAGE>Aku senang memikirkan dengan
+tenang untuk memperlajari
+sesuatu dilarut malam.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Tampaknya dimalam hari,
+hawanya cukup dingin.
+Hmm, kamu mau apa hayo?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Apakah itu kamu, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Apakah itu kamu, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Apakah itu kamu, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Gak, gak, tidak disini!
+Bicara kepadaku didepan
+konter ya.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Maaf, aku belum siap untuk
+pelanggan ya.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Jangan bicara denganku ya
+untuk saat ini, karena
+aku sedang bekerja!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Mmm, nikmatnya!
+Itu seperti masakan ibuku.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Aku selalu memasak untuk
+diriky sendiri, tapi aku
+tidak dapat membuat seenak<PAGE>ini. Mmm, enaknya!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Aku menikmati datang kesini
+disaat libur. Kamu harusnya
+memakan disini juga!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Bagaimana progressnya,
+<MYNAME>?<PAGE>Bagaimana keadaanmu akhir-
+akhir ini?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Kesini untuk membeli,kan?
+Aku datang untuk membeli
+material untuk penelitihan.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Aku datang kemari untuk mem-
+beli material untuk peneli-
+tihan tapi..<PAGE>Tampaknya mereka sedang
+tutup dihari ini.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Apakah itu kamu, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Apakah itu kamu, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Apakah itu kamu, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Apakah itu kamu, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Apakah itu kamu, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Apakah itu kamu, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Apakah itu kamu, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Apakah itu kamu, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Apakah itu kamu, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_HAPPY><FP_RIGHT><MYNAME>, selamat!<PAGE>Aku mempertimbangkan bahwa
+makananmu itu membuatmu
+super!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_HAPPY><FP_RIGHT>Kamu telah memenangkannya!
+Masakanmu benar-benar mem-
+buat semuanya senang.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_HAPPY><FP_RIGHT>Masakkanmu itu sungguh
+nikmat sampai-sampai seper-
+ti masakan koki restorant.<PAGE>Tolong buatkan itu disetiap
+harinya ya!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Itu sungguh membuatku puas.
+Seperti mimpi yang menye-
+nyakkan itu.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_HAPPY><FP_RIGHT>Hari-hari yang sibuk!
+Maafkan aku kalau itu
+sudah berakhir.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Hmm, hari yang menyenangkan!
+Apakah kamu juga senang?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Super! kerja kerasmu itu
+membawamu kepada kemenang-
+an.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT><MYNAME>, kamu harus
+menunjukkan aku disekitaran
+perkebnanmu kalau sempat.<PAGE>Jadi aku dapat melihatnya
+secara langsung bagaimana
+kamu melakukannya!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Tanamanmu itu tampaknya me-
+miliki jiwa! Mereka sungguh
+luar biasa supernya!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Aku akan tidur dengan tenang
+nanti malem. Aku merasa
+spiritku sedang baik.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Sekarang waktunya bagus...
+Apakah kamu berpikiran hal
+yang sama?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Ah, tampaknya spiritku
+sedang bergairah!<PAGE>Nanti akan bisa tidur
+dengan nyenyak.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Aku memberi selamat kepada-
+mu, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Aku tidak pernah berpikiran
+bahwa kamu akan menang!
+selamat!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Kamu pastinya memiliki se-
+buah talenta, <MYNAME>.
+Aku sungguh terpesona.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Apakah itu kamu, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Apakah itu kamu, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Apakah itu kamu, <MYNAME>?

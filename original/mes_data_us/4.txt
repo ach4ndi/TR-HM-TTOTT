@@ -1,0 +1,20 @@
+\u232eChoose a season!
+Use the <RED>+Control Pad</COLOR>
+and press the <RED>A Button</COLOR>.\u2708
+----------------------------|----------------------------------
+\u232eChoose a day!
+Use the <RED>+Control Pad</COLOR>
+and press the <RED>A Button</COLOR>.\u2708
+----------------------------|----------------------------------
+\u232e<VAR_0> <VAR_1>? You're sure?
+<CHOICE_AB> Yes.
+ No.
+
+----------------------------|----------------------------------
+\u232eChoose a season!
+Use the <RED>+Control Pad</COLOR>
+and press the <RED>A Button</COLOR>.\u2708
+----------------------------|----------------------------------
+\u232eChoose a day!
+Use the <RED>+Control Pad</COLOR>
+and press the <RED>A Button</COLOR>.\u2708

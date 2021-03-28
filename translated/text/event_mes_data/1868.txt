@@ -1,0 +1,122 @@
+<FP_NONE>Tanya tentang permintaan?
+<CHOICE_AB> Ya.
+ Tidak.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_NORMAL><FP_RIGHT>Selamat datang, <MYNAME>! 
+Senang bertemu kamu disini!<PAGE>Dikarenakan kamu masih baru
+didesa ini, aku ada sebuah
+ide...<PAGE>Aku harus memberikanmu bebe-
+rapa saran mengenai pegunung-
+an disekitar sini!<PAGE>Walaupun aku jarang berper
+gian kesana... Tapi disaat
+aku muda dulu, aku sering<PAGE>kesana sambil joget joget
+hahahaha!<PAGE>Apa kamu ingin beberapa
+saran untuk membuat perjalan
+anmu kepegunungan?
+----------------------------|----------------------------------
+<FP_NONE><CHOICE_AB> Tolong beritahuku!
+ Tidak makasih.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_HAPPY><FP_RIGHT>Apa kamu mau? Bagus! 
+Biarkan aku menjelaskan,
+oke?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_NORMAL><FP_RIGHT>Dan itu semuanya yang kamu
+ketahui. Apa kamu ingin
+mendengarkannya lagi?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_NORMAL><FP_RIGHT>Menjelajahi disekitar untuk
+mencari sesuatu dipegunungan
+dengan usahamu sendiri!<PAGE><FACE_POS_RIGHT><FACE_LANEY><FACE_HAPPY>Jika kamu memperhatikan
+lebih teliti lagi, kamu
+dapat mencari sebuah bunga<PAGE>yang cantik bermekaran di
+tempat yang tidak terduga-
+duga!<PAGE><FACE_POS_RIGHT><FACE_LANEY><FACE_NORMAL>Aku harap kamu dapat men-
+cari barang yang aku
+<RED>mintai</COLOR> untukku!<PAGE><FACE_POS_RIGHT><FACE_LANEY><FACE_HAPPY>Selamat tuk mencarinya!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_NORMAL><FP_RIGHT>Hello.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_NORMAL><FP_RIGHT>Hello.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_NORMAL><FP_RIGHT>Hello.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_NORMAL><FP_RIGHT>Hello.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_HAPPY><FP_RIGHT>Ah, sepertinya kamu dapat me-
+nemukan apa yang aku cari-
+cari! Biarkan aku melihatnya!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_HAPPY><FP_RIGHT>Ya, ini ini dia! 
+Bagus-bagus!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_NORMAL><FP_RIGHT>Selain herbal, aku tebak
+kamu dapat bisa menemukan
+lebih banyak barang lainnya<PAGE>juga kan?
+Seperti bibit bambu yang
+tumbuh dimusim ini, lalu<PAGE>ada jamur dan kastanye!<PAGE><FACE_POS_RIGHT><FACE_LANEY><FACE_HAPPY>Ada banyak <RED>bahan-bahan
+untuk memasak</COLOR> yang dapat
+ditemukan, jadi cobalah<PAGE>untuk menemukan itu semua!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_NORMAL><FP_RIGHT>Ini hadiah untukmu karena
+telah memenuhi permintaanku!<PAGE>Coba pilih hadiahmu dari
+<RED>Layar hadiah</COLOR>!<PAGE>Lalu, pindahkan ke <RED>tasmu</COLOR>!
+Itu cukup mudah kok!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_NORMAL><FP_RIGHT>Lihatkan itu Lavender?
+Aku mengumpulkannya selama
+musim dingin!<PAGE>Apakah aromanya sungguh
+menyegarkan? dan kamu dapat
+menggunakannya untuk memasak
+juga loh!<PAGE>Kamu dapat menggunakan <RED>lavender</COLOR>
+dan <RED>herbal yang kuminta</COLOR>
+untuk memasak loh!<PAGE>Kesemuanya itu bisa membuat
+sebuah <RED>salad herbal</COLOR>! 
+kapan-kapan membuatnya ya!<PAGE><FACE_POS_RIGHT><FACE_LANEY><FACE_HAPPY>Aku tahu pekerjaan diper-
+kebunanmu itu sebuah peker-
+jaan yang berat, jadi<PAGE>lalukan yang terbaik
+ya!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_NORMAL><FP_RIGHT>Hello.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_NORMAL><FP_RIGHT>Hello.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_NORMAL><FP_RIGHT>Hello.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_NORMAL><FP_RIGHT>Hello.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_NORMAL><FP_RIGHT>Hello.
+----------------------------|----------------------------------
+<FP_NONE>Oke! Mari aku jelas-
+kan!
+----------------------------|----------------------------------
+<FP_NONE>Apakah kamu mengetahui cara
+untuk mengambil sebuah
+barang yang tergeletak di<PAGE>sekitar?
+Dengan hanya menekan 
+<RED>tombol A</COLOR>.<PAGE>Itu juga bisa digunakan
+untuk barang-barang yang ada
+dipegunungan.
+----------------------------|----------------------------------
+<FP_NONE>Disana terdapat sangat
+barang dipegunungan loh!<PAGE>Ingat, beberapa barang bisa
+dimakan dan ada
+yang tidak!<PAGE>Selain itu, ada hal yang
+menyenangkan kok disana!
+----------------------------|----------------------------------
+<FP_NONE>Kamu dapat menemukan bunga
+dan kacang diberbagai
+tempat disana!<PAGE>Jika kamu berpikiran sesuatu
+ada, carilah!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_NORMAL><FP_RIGHT>Hello.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_NORMAL><FP_RIGHT>Hello.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_NORMAL><FP_RIGHT>Hello.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_NORMAL><FP_RIGHT>Hello.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_NORMAL><FP_RIGHT>Hello.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_NORMAL><FP_RIGHT>Hello.

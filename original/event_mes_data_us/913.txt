@@ -1,0 +1,209 @@
+<FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT>There's not a cloud in the
+sky! It's perfect for the
+Moon Viewing Festival!<PAGE><FACE_POS_LEFT><FACE_INA><FACE_HAPPY><FP_LEFT>Let's forget about work for
+awhile and admire the
+majesty of the moon!
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>Man, the moon is way
+bright tonight!<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>Indeed. It's very clear
+tonight. All of the
+plants look very lovely.<PAGE><FACE_POS_LEFT><FACE_NORI><FACE_HAPPY><FP_LEFT>I love moonlight... It makes
+everything look like it's
+out of a storybook...<PAGE>It makes me feel a
+sense of warmth and
+happiness...<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>I was thinking about taking
+Hayate out tonight.<PAGE>Think about it... Me and my
+horse, riding together in
+the moonlight...<PAGE>Isn't that just an awesome
+image?!<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_SHY><FP_RIGHT>Kana, imagine if Hayate fell
+ill because of such an
+escapade! What would you do?<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_SHY><FP_RIGHT>Hey, whoa, it's all good.
+Chill out, Hiro.<PAGE><FACE_POS_LEFT><FACE_NORI><FACE_NORMAL><FP_LEFT>I think Hiro's concern is
+pretty reasonable...<PAGE>It's quite cold out now...
+Going horse riding at night
+can't be good for Hayate...<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_SHY><FP_RIGHT>Yeah, I guess when you put
+it like that, she could
+catch a cold...<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>Look, things are about to
+get started.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Ah, everyone moon-viewing
+together is a rare event!<PAGE><FACE_POS_LEFT><FACE_YUN><FACE_HAPPY><FP_LEFT>Yes! And the moon is so
+visible!<PAGE>It's a real treat that it's
+this clear out tonight.<PAGE><FACE_POS_LEFT><FACE_SHENG><FACE_HAPPY><FP_LEFT>Pandas look at the moon
+when they eat bamboo!<PAGE>They understand what moon
+viewing is all about!<PAGE><FACE_POS_RIGHT><FACE_AYAME><FACE_HAPPY><FP_RIGHT>Oh, really? Now there's
+a sight I'd like to see!
+Pandas are such cuties!<PAGE><FACE_POS_LEFT><FACE_YUN><FACE_HAPPY><FP_LEFT>Yes... When the moon looks
+this lovely, even the
+wildlife wants to see it!<PAGE><FACE_POS_RIGHT><FACE_GOMBE><FACE_ANGRY><FP_RIGHT>What are you talking about?!
+Pandas can't understand the
+subtleties of moon-viewing!<PAGE><FACE_POS_LEFT><FACE_SHENG><FACE_ANGRY><FP_LEFT>Wh-What did you say?!<PAGE>They are highly intelligent
+mammals! Of course they
+understand, you old coot!<PAGE><FACE_POS_RIGHT><FACE_GOMBE><FACE_ANGRY><FP_RIGHT>What did you call me, you
+batty old buzzard?! They
+DON'T understand!<PAGE><FACE_POS_LEFT><FACE_SHENG><FACE_ANGRY><FP_LEFT>Quiet, you old geezer!<PAGE><FACE_POS_LEFT><FACE_YUN><FACE_NORMAL><FP_LEFT>Oh my, that's quite enough!
+It's about to start.<PAGE>You two watch in peace.
+What do you say, boys?<PAGE><FACE_POS_RIGHT><FACE_GOMBE><FACE_ANGRY><FP_RIGHT>Phooey!<PAGE><FACE_POS_LEFT><FACE_SHENG><FACE_ANGRY><FP_LEFT>HMPH!<PAGE><FACE_POS_LEFT><FACE_YUN><FACE_ANGRY><FP_LEFT>I SAID, what do you SAY?<PAGE><FACE_POS_RIGHT><FACE_GOMBE><FACE_SAD><FP_RIGHT>Y-Yun's getting angry...!
+O-OK, I'll do it...<PAGE><FACE_POS_LEFT><FACE_SHENG><FACE_SAD><FP_LEFT>All right, I'll do it too.<PAGE><FACE_POS_LEFT><FACE_YUN><FACE_NORMAL><FP_LEFT>My, that's good to hear.
+Now, let's watch together.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_REINA><FACE_NORMAL><FP_LEFT>I have heard that the phases
+of the moon influence the
+growth of plants.<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>Whoa, seriously?<PAGE><FACE_POS_LEFT><FACE_REINA><FACE_SHY><FP_LEFT>Uh-huh. It hasn't really
+been studied scientifically,
+though.<PAGE><FACE_POS_RIGHT><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Will you do that research
+someday, Reina? It sounds
+interesting!<PAGE><FACE_POS_RIGHT><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Yeah, that would be amazing
+if you could prove it!<PAGE><FACE_POS_LEFT><FACE_REINA><FACE_SHY><FP_LEFT>Yeah... Maybe I'll look into
+it when I'm finished with
+what I'm researching now.<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>Hey, why don't you do
+some research on an
+easy way to make hay?<PAGE>Hayate would like that, too!<PAGE><FACE_POS_LEFT><FACE_REINA><FACE_ANGRY><FP_LEFT>I'd never waste my time on
+that kind of research!<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>Aw, where's the love, girl?<PAGE><FACE_POS_LEFT><FACE_REINA><FACE_ANGRY><FP_LEFT>What the heck are you even
+talking about?!<PAGE><FACE_POS_RIGHT><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hey, it's about to start.
+Let's not argue, and just
+enjoy the view together.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_NORI><FACE_HAPPY><FP_LEFT>Oh! I just remembered
+something, Hiro!<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_NORMAL><FP_RIGHT>Hmm? What did you remember?<PAGE><FACE_POS_LEFT><FACE_NORI><FACE_NORMAL><FP_LEFT>One time when you saw the
+moon in the sky, you got
+scared, so I gave you a hug.<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_ANGRY><FP_RIGHT>Wait, what?!<PAGE><FACE_POS_LEFT><FACE_YUN><FACE_HAPPY><FP_LEFT>Oh my! When did that happen?<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_ANGRY><FP_RIGHT>Yes, Nori! When did this
+alleged event happen?!<PAGE><FACE_POS_LEFT><FACE_NORI><FACE_HAPPY><FP_LEFT>When? When you were little,
+Hiro!<PAGE>You were such a cute kid
+back then!<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_SHY><FP_RIGHT>Why do you feel the need to
+ambush me with things that
+happened long in the past?!<PAGE><FACE_POS_LEFT><FACE_NORI><FACE_HAPPY><FP_LEFT>It just popped into my head.
+What's the big deal?<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_ANGRY><FP_RIGHT>It's not right!<PAGE><FACE_POS_LEFT><FACE_NORI><FACE_SAD><FP_LEFT>Don't get mad, Hiro. The kid
+I knew wouldn't get upset
+over it...<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_ANGRY><FP_RIGHT>I'm not upset! I merely
+insist that you refrain
+from such recollections!<PAGE><FACE_POS_LEFT><FACE_NORI><FACE_SAD><FP_LEFT>OK...<PAGE><FACE_POS_LEFT><FACE_SHENG><FACE_NORMAL><FP_LEFT>Confound it, quit your
+yapping, you two!
+It's about to start!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Ah, this time of year has
+come around once more.<PAGE><FACE_POS_LEFT><FACE_YUN><FACE_NORMAL><FP_LEFT>Yes, it has.<PAGE><FACE_POS_RIGHT><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>And moon-viewing means
+dumplings!<PAGE><FACE_POS_LEFT><FACE_YUN><FACE_NORMAL><FP_LEFT>Oh, yes! Dumplings are
+delicious.<PAGE><FACE_POS_RIGHT><FACE_GOMBE><FACE_HAPPY><FP_RIGHT>Yes they are! Well, whenever
+you're ready!<PAGE><FACE_POS_LEFT><FACE_YUN><FACE_NORMAL><FP_LEFT>Hmm? Ready for what? And
+why are you holding out
+your hand?<PAGE><FACE_POS_RIGHT><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>You brought the dumplings,
+right? Well, I want to eat
+them now!<PAGE><FACE_POS_LEFT><FACE_YUN><FACE_HAPPY><FP_LEFT>I didn't make any dumplings
+this year. Sorry!<PAGE><FACE_POS_RIGHT><FACE_GOMBE><FACE_ANGRY><FP_RIGHT>N-NO DUMPLINGS?!?! ARE YOU
+SURE?!<PAGE><FACE_POS_LEFT><FACE_YUN><FACE_HAPPY><FP_LEFT>Positive! I didn't make any!<PAGE><FACE_POS_RIGHT><FACE_GOMBE><FACE_ANGRY><FP_RIGHT>I-IT CAN'T BE!!! Without
+your dumplings, it's
+not...moon viewing!<PAGE>DUMPLINGS! DUMPLIIINGS!!
+DUMPLIIIIIIIINGS!!!<PAGE><FACE_POS_LEFT><FACE_SHENG><FACE_NORMAL><FP_LEFT>Well I'll be...!
+That old coot Gombe is
+actually crying!<PAGE><FACE_POS_RIGHT><FACE_AYAME><FACE_SAD><FP_RIGHT>What should we do? Do you
+have any ideas, Mayor?<PAGE><FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT>Can't you do anything to
+help him, Yun? He's spoiling
+the Moon Viewing Festival.<PAGE><FACE_POS_LEFT><FACE_YUN><FACE_HAPPY><FP_LEFT>Oh my, it was just a little
+joke!<PAGE>I just wanted to see how
+Gombe would react if I said
+there were no dumplings!<PAGE>Now, now, Gombe, I really
+did bring dumplings!<PAGE><FACE_POS_RIGHT><FACE_GOMBE><FACE_HAPPY><FP_RIGHT>Y-You did?! R-Really? You
+brought dumplings?!<PAGE><FACE_POS_RIGHT><FACE_AYAME><FACE_HAPPY><FP_RIGHT>And he quits crying just
+like that. What a relief...<PAGE><FACE_POS_LEFT><FACE_SHENG><FACE_SAD><FP_LEFT>Of all the childish things
+to cry over! You really are
+a piece of work, Gombe!<PAGE><FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT>Well, it seem the crisis
+has been averted. Let's
+begin now.
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Oh, the moon is so beautiful
+tonight! It's shining just
+like a precious gem!<PAGE><FACE_POS_LEFT><FACE_HIRO><FACE_HAPPY><FP_LEFT>It looks so close! I feel
+like I could just reach
+out and touch it!<PAGE><FACE_POS_RIGHT><FACE_AYAME><FACE_HAPPY><FP_RIGHT>Ah... Sometimes it's fun
+to just take some time to
+relax like this, huh?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_REINA><FACE_HAPPY><FP_LEFT>Wow, the moon is so
+beautiful... Looking at
+it is so mesmerizing!<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>The moon is looking good...
+The dumplings taste good...
+Oh yeah, it's ALL good!<PAGE><FACE_POS_LEFT><FACE_YUN><FACE_HAPPY><FP_LEFT>Oh my, I'm so happy you like
+the dumplings! There are
+plenty, so have some more!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>Ah, the breeze is so nice
+and crisp... It feels
+wonderful!<PAGE><FACE_POS_LEFT><FACE_SHENG><FACE_HAPPY><FP_LEFT>And bugs and frogs chirping
+in the background make it
+even nicer!<PAGE><FACE_POS_RIGHT><FACE_GOMBE><FACE_HAPPY><FP_RIGHT>Ah, I feel so peaceful...
+I think I could doze off at
+any moment...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_NORI><FACE_HAPPY><FP_LEFT>Yun's cooking really is
+great! It's so delicious!<PAGE><FACE_POS_RIGHT><FACE_GOMBE><FACE_HAPPY><FP_RIGHT>I look forward to dumplings
+at the Moon Viewing Festival
+all year long!<PAGE><FACE_POS_LEFT><FACE_HIRO><FACE_SHY><FP_LEFT>G-Gombe, I think you've
+eaten more than enough!
+Don't overstuff yourself!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>Some people say they can see
+things in the patterns of
+the moon. What do you see?<PAGE><FACE_POS_LEFT><FACE_SHENG><FACE_HAPPY><FP_LEFT>Hmm... I can clearly see a
+panda in the moon.<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>Sheng, dude... Do you ever
+have any non-panda related
+thoughts?
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_INA><FACE_HAPPY><FP_LEFT>That's all for this year's
+Moon Viewing Festival!<PAGE>Come again next year!
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY
+----------------------------|----------------------------------
+DUMMY

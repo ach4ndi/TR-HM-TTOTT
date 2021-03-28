@@ -1,0 +1,37 @@
+<FACE_POS_RIGHT><FACE_LANEY><FACE_NORMAL><FP_RIGHT>Ada sesuatu nih buat kamu.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_NORMAL><FP_RIGHT>Ini dia...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_NORMAL><FP_RIGHT>Kue Keju dari papaku, 
+sekarang tersedia di cafe.<PAGE><FACE_POS_RIGHT><FACE_LANEY><FACE_HAPPY><FP_RIGHT>Aku akan senang jika kamu
+menyukainya.
+----------------------------|----------------------------------
+<CHOICE_AB> Makasih ya!
+ Dih dari papa kamu! up aja.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_SHY><FP_RIGHT>Gi-gimana?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_HAPPY><FP_RIGHT>Aku senang kamu menyukainya!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_NORMAL><FP_RIGHT>Aku senang bikin kue.<PAGE>tapi favoritku ialah 
+melihat orang menyukai
+kueku.<PAGE><FACE_POS_RIGHT><FACE_LANEY><FACE_HAPPY><FP_RIGHT>Aku akan sangat senang.<PAGE><FACE_POS_RIGHT><FACE_LANEY><FACE_SHOCK><FP_RIGHT>Ya gitu deh.. aku gabisa.
+ngejelasinnya
+aku sangat senang.<PAGE><FACE_POS_RIGHT><FACE_LANEY><FACE_HAPPY><FP_RIGHT>Aku senang bisa melihat
+orang tersenyum karena
+makananku.<PAGE>atau makananku buatan
+papaku.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_NORMAL><FP_RIGHT>Hari ini sangat menye-
+nangkan jika aku mengobrol
+denganmu.<PAGE><FACE_POS_RIGHT><FACE_LANEY><FACE_HAPPY><FP_RIGHT>Terima kasih atas waktunya
+yak! Nanti kita mengbrol
+lagi. Bye!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_SHY><FP_RIGHT>Asw njing, masa cuma
+gara gara papaku kamu nolak, 
+asw.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_NORMAL><FP_RIGHT>Lu itu Asw<PAGE>lu bikin papaku kecewa,
+lain kali aku akan kasih
+racun biar lu mati.

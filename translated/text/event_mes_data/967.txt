@@ -1,0 +1,46 @@
+<FACE_POS_LEFT><FACE_NATHAN><FACE_NORMAL><FP_LEFT>Kita dikumpulkan dihari
+dimana pernikahan <MYNAME> 
+dan Laney.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_NATHAN><FACE_NORMAL><FP_LEFT><MYNAME>...<PAGE>Apa kamu akan menjadikan
+Laney menjadi suamimu,
+untuk mencintai selamanya?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_NATHAN><FACE_NORMAL><FP_LEFT>Laney...<PAGE>Apa kamu akan menjadikan
+<MYNAME> sebagai suamimu?
+untuk mencintai selamanya?<PAGE><FACE_POS_RIGHT><FACE_LANEY><FACE_HAPPY><FP_RIGHT>Aku terima.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_NATHAN><FACE_NORMAL><FP_LEFT>Maka sekarang aku umumkan
+kalian menjadi suami dan
+istri!<PAGE><FACE_POS_LEFT><FACE_NATHAN><FACE_HAPPY><FP_LEFT>Semoga Dewi Panen akan
+tersenyum atas pernikahan
+kalian.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_SHOCK><FP_RIGHT>Aku mencintaimu, <MYNAME>.
+Aku sangat senang.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_SHOCK><FP_RIGHT>Jadi kita serang mulai hidup
+bersama-sama.<PAGE>Oh yeee! Sekarang sudah me-
+nikah, jadi enaknya kamu
+dipanggil apa ya?<PAGE>Nama panggila apa yang kamu
+sukai, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_NORMAL><FP_RIGHT><MYNICKNAME>?
+Apa kamu yakin?
+----------------------------|----------------------------------
+<CHOICE_AB> Yeah, Aku yakin.
+ Mungkin yang lainnya.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_HAPPY><FP_RIGHT>Aku akan memanggilmu mulai
+sekarang dengan nama
+panggilan tersebut.<PAGE><FACE_POS_RIGHT><FACE_LANEY><FACE_SHOCK><FP_RIGHT>Aku mencintaimu, 
+<MYNICKNAME>.
+----------------------------|----------------------------------
+Hari-hari yang menyenangkan!
+Besok kita akan memulai
+kehidupan baru bersama!<PAGE>*plak*<PAGE>Hari ini sangat menyenangkan
+,dan besok akan memulai
+kehidupan yang baru!
+----------------------------|----------------------------------
+<CHOICE_AB> Tidur dan simpan.
+ Tidur aja.

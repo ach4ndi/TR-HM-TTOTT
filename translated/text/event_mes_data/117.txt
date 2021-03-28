@@ -1,0 +1,904 @@
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Mari kita memberikan rasa
+terima kasih kepada dewi
+panen.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Aku sungguh senang tidak ada
+seorangpun yang terluka
+kemarin.<PAGE>Aku sudah meminta kepada
+dewi panen untuk mengawasi
+kita.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Mari kita memberikan rasa
+terima kasih kepada dewi
+panen.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Mari kita memberikan rasa
+terima kasih kepada dewi
+panen.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Mari kita memberikan rasa
+terima kasih kepada dewi
+panen.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_HAPPY><FP_RIGHT>Binatang yang cantik!
+Menyenangkan dan menenangkan
+yang terpancar darimatanya!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_SAD><FP_RIGHT>Aku cukup tidak nyaman
+dengan binatang ini. Maaf,
+tapi bisakan menjauhkannya?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Mari kita memberikan rasa
+terima kasih kepada dewi
+panen.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_HAPPY><FP_RIGHT>Oh, sebuah bulu biru?
+Kuharap dewi panen memberi-
+kanmu sebuah keberuntungan<PAGE>atas bersatunya sebuah
+cinta kalian berdua.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Aku tidak butuh sebuah
+hadiah saat ini. Maafkan
+aku ya.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Hadiah lain untuk hari ini?<PAGE>Aku tidak dapat...
+Seorang pastur tidak
+seharusnya tamak.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Mari kita memberikan rasa
+terima kasih kepada dewi
+panen.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Mari kita memberikan rasa
+terima kasih kepada dewi
+panen.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Oh, Aku tidak dapat menerima
+nya. Itu sesuatu yang harus
+kamu lakukan sendiri.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_HAPPY><FP_RIGHT>Oh, sebuah hadiah untuk
+ulang tahunku?<PAGE>Terima kasih atas kederma-
+wananmu!<PAGE>Dan ini <RED>Roti bakar</COLOR>!
+Itu benar-benar sungguh
+amazeng!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_HAPPY><FP_RIGHT>Oh, <RED>Roti Bakar</COLOR>!
+Pastinya aku sedang ber-
+mimpi...<PAGE>Terima kasih banyak,
+<MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Mari kita memberikan rasa
+terima kasih kepada dewi
+panen.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Mari kita memberikan rasa
+terima kasih kepada dewi
+panen.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_HAPPY><FP_RIGHT>Untuk ulang tahunku?
+Oh, terima kasih,
+<MYNAME>!<PAGE><FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Betapa bagusnya! Dewi panen
+akan tersenyum atas keder-
+mawananmu ini!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_HAPPY><FP_RIGHT>Terima kasih! Siapa yang
+memberitahukanmu kesukaanku
+itu apa? Apakah Dewi panen?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Oh, Sebuah hadiah ulang
+tahun? Terima kasih atas
+kedermawananmu.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Terima kasih atas
+kedermawananmu.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_SAD><FP_RIGHT>Hadiah ulang tahun ini...
+Apakah ini sebuah cobaan
+untukku dari dewi panen?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_SAD><FP_RIGHT>Dewi panen...
+Apakah ini sebuah percobaan?
+Ooh, aku harus apa?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_ANGRY><FP_RIGHT>Itu sesuatu yang buruk...
+Kenapa kamu memberikan itu
+kepadaku? Itu sesuatu yang<PAGE>sungguh hina yang harus
+kamu hindari!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Mari kita memberikan rasa
+terima kasih kepada dewi
+panen.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Bagaimana keadaan Alisa,
+<MYNAME>?<PAGE><FACE_POS_CENTER><FACE_NATHAN><FACE_HAPPY><FP_RIGHT>Aku harap kamu menjaganya
+dengan baik.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_HAPPY><FP_RIGHT>Kamu tampaknya lebih wah
+gitu setelah kamu menikah,
+<MYNAME>.<PAGE>Aku sungguh senang bahwa
+kamu sudah menemukan pasang-
+an yang saling berbagi itu.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_SAD><FP_RIGHT>Dewi Panen...
+Tolong lindungi kita
+semua dari angin topan ini.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_SAD><FP_RIGHT>Dewi Panen...
+Tolong lindungi kita
+semua dari badai salju ini.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_HAPPY><FP_RIGHT><MYNAME>, kebaikanmu dan
+kedermawananmu itu seperti
+sinarnya lampu.<PAGE><FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Oh, Dewi panen, berikan
+keberkatanmu untuk
+<MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_HAPPY><FP_RIGHT>Dewi Panen ingin kita semua
+senang, hidup dengan
+produktif.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Ini harapanku bahwa gereja
+ini akan menjadi sebuah
+tepat yang nyaman u/ semua.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Semua orang dipersilahkan
+datang ke gereja kita.
+Kuharap atas kedatangannya.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Ah, bertani...
+Merawat hal yang hidup...
+dari ...<PAGE>Itu sungguh sebuah pekerjaan
+yang mulia, dan diberkati.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Ingat selalu bersyukur atas
+yang kamu punya saat ini.
+oke?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Dewi panen itu selalu ada
+dimana-mana. Jadi kuharap
+kamu tidak melupakannya.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Mari kita memberikan rasa
+terima kasih kepada dewi
+panen.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Mari kita memberikan rasa
+terima kasih kepada dewi
+panen.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Mari kita memberikan rasa
+terima kasih kepada dewi
+panen.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Mari kita memberikan rasa
+terima kasih kepada dewi
+panen.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Mari kita memberikan rasa
+terima kasih kepada dewi
+panen.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Mari kita memberikan rasa
+terima kasih kepada dewi
+panen.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Mari kita memberikan rasa
+terima kasih kepada dewi
+panen.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Mari kita memberikan rasa
+terima kasih kepada dewi
+panen.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Mari kita memberikan rasa
+terima kasih kepada dewi
+panen.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Mari kita memberikan rasa
+terima kasih kepada dewi
+panen.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Mari kita memberikan rasa
+terima kasih kepada dewi
+panen.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Mari kita memberikan rasa
+terima kasih kepada dewi
+panen.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Mari kita memberikan rasa
+terima kasih kepada dewi
+panen.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Mari kita memberikan rasa
+terima kasih kepada dewi
+panen.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Mari kita memberikan rasa
+terima kasih kepada dewi
+panen.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Mari kita memberikan rasa
+terima kasih kepada dewi
+panen.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Mari kita memberikan rasa
+terima kasih kepada dewi
+panen.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Mari kita memberikan rasa
+terima kasih kepada dewi
+panen.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Mari kita memberikan rasa
+terima kasih kepada dewi
+panen.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Mari kita memberikan rasa
+terima kasih kepada dewi
+panen.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Mari kita memberikan rasa
+terima kasih kepada dewi
+panen.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Mari kita memberikan rasa
+terima kasih kepada dewi
+panen.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Mari kita memberikan rasa
+terima kasih kepada dewi
+panen.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Mari kita memberikan rasa
+terima kasih kepada dewi
+panen.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Mari kita memberikan rasa
+terima kasih kepada dewi
+panen.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Mari kita memberikan rasa
+terima kasih kepada dewi
+panen.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Mari kita memberikan rasa
+terima kasih kepada dewi
+panen.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Mari kita memberikan rasa
+terima kasih kepada dewi
+panen.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Mari kita memberikan rasa
+terima kasih kepada dewi
+panen.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Mari kita memberikan rasa
+terima kasih kepada dewi
+panen.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Mari kita memberikan rasa
+terima kasih kepada dewi
+panen.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Mari kita memberikan rasa
+terima kasih kepada dewi
+panen.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Mari kita memberikan rasa
+terima kasih kepada dewi
+panen.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Mari kita memberikan rasa
+terima kasih kepada dewi
+panen.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Mari kita memberikan rasa
+terima kasih kepada dewi
+panen.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Mari kita memberikan rasa
+terima kasih kepada dewi
+panen.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Apakah ini sebuah persemba-
+han untuk dewi panen?<PAGE>Oh, ternyata ini untuk
+festival ya.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Mari kita memberikan rasa
+terima kasih kepada dewi
+panen.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Mari kita memberikan rasa
+terima kasih kepada dewi
+panen.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Biarkan dewi panen member-
+kati makhluk ini!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Dewi panen itu mencintai
+semua binatang.<PAGE>Jadi mari kita berterima
+kasih kepadanya.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_SAD><FP_RIGHT>Maafkan aku, Dewi panen.<PAGE>Bahwa aku masih belum bisa
+menahan hewan satu ini.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Semua makhluk besar dan
+kecil itu selalu diperhati-
+kan oleh dewi panen.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Mari kita memberikan rasa
+terima kasih kepada dewi
+panen.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Mari kita memberikan rasa
+terima kasih kepada dewi
+panen.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Mari kita memberikan rasa
+terima kasih kepada dewi
+panen.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Mari kita memberikan rasa
+terima kasih kepada dewi
+panen.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Mari kita memberikan rasa
+terima kasih kepada dewi
+panen.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Mari kita memberikan rasa
+terima kasih kepada dewi
+panen.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Mari kita memberikan rasa
+terima kasih kepada dewi
+panen.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Mari kita memberikan rasa
+terima kasih kepada dewi
+panen.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Mari kita memberikan rasa
+terima kasih kepada dewi
+panen.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Mari kita memberikan rasa
+terima kasih kepada dewi
+panen.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Mari kita memberikan rasa
+terima kasih kepada dewi
+panen.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Mari kita memberikan rasa
+terima kasih kepada dewi
+panen.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_HAPPY><FP_RIGHT>Untukku? Terima kasih!
+Kebaikanmu pastinya akan
+diberikan sebuah hadiah.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Mari kita memberikan rasa
+terima kasih kepada dewi
+panen.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Mari kita memberikan rasa
+terima kasih kepada dewi
+panen.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Mari kita memberikan rasa
+terima kasih kepada dewi
+panen.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Mari kita memberikan rasa
+terima kasih kepada dewi
+panen.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Mari kita memberikan rasa
+terima kasih kepada dewi
+panen.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Mari kita memberikan rasa
+terima kasih kepada dewi
+panen.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Apakah ini untukku?
+Apa ya isinya?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_HAPPY><FP_RIGHT>Ini sungguh jarang untuk
+menemukan seseorang yang
+memiliki hati yang baik dan<PAGE>murni sepertimu,
+<MYNAME>.<PAGE><FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Kuharap hari-harimu diber-
+kati dengan keceriaan dan
+keberuntungan!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Mari kita memberikan rasa
+terima kasih kepada dewi
+panen.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Gereja ini tempat yang
+sakral untuk memberikan rasa
+terima kasih atas kebaikan<PAGE>Dewi panen. Kamu akan di-
+sambut dengan hangat untuk
+bergabung dengan kami.<PAGE>Aku yakin bahwa dewi panen
+juga sungguh menerimamu.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_SAD><FP_RIGHT>Alisa seharusnya sudah ad
+disini, mungkin dia agak
+terlambat datang.<PAGE>Aku penasaran apa yang
+sedang terjadi kepadanya.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Mari kita memberikan rasa
+terima kasih kepada dewi
+panen.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Mari kita memberikan rasa
+terima kasih kepada dewi
+panen.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Aku akan pergi kekolamnya
+dewi panen untuk memberikan
+rasa terima kasihku.<PAGE>Apakah kamu ingin ikut
+bersama aku?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Desa ini sungguh mirip
+dengan tempat tinggalku
+sebelumnya.<PAGE>Aku tahu ada seorang petani
+yang tinggal disana dimana
+baik dan ceria sepertimu,<PAGE><MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Aku merasakan kehadirannya
+dewi panen walaupun disini
+ini sebuah pegunungan.<PAGE>Dewi Panen...
+Tolong berikan semua orang
+dengan kedamaian dan<PAGE>kebahagiaan...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Aku sudah membangun gereja
+diberbagai tempat.<PAGE>Aku harap gereja didesa ini
+juga sukses. Aku akan mela-
+kukan sebisa mungkin.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Akhirnya kita kembali.
+Aku harus mempersiapkan
+makan malamnya.<PAGE>Apa ya untuk hari ini?
+memesan KFC atau pizza hut
+ya?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Mari kita memberikan rasa
+terima kasih kepada dewi
+panen.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Mari kita memberikan rasa
+terima kasih kepada dewi
+panen.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Mari kita memberikan rasa
+terima kasih kepada dewi
+panen.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Mari kita memberikan rasa
+terima kasih kepada dewi
+panen.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Mari kita memberikan rasa
+terima kasih kepada dewi
+panen.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Mari kita memberikan rasa
+terima kasih kepada dewi
+panen.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Mari kita memberikan rasa
+terima kasih kepada dewi
+panen.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Hari ini adalah festival
+memasakkan?<PAGE>Mari kita berikan rasa
+terima kasih.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Mari kita memberikan rasa
+terima kasih kepada dewi
+panen.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Mari kita memberikan rasa
+terima kasih kepada dewi
+panen.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Mari kita memberikan rasa
+terima kasih kepada dewi
+panen.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Semua yang terjadi itu sudah
+diatur oleh kehendaknya
+dewi panen.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Mari kita memberikan rasa
+terima kasih kepada dewi
+panen.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Tolong jangan berkecil hati
+atau dewi panen akan menga-
+watirkanmu.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Festival itu selalu dapat
+dinikmati walaupun cuman
+sebentar.<PAGE><FACE_POS_CENTER><FACE_NATHAN><FACE_HAPPY><FP_RIGHT>Desa dimana aku tinggal itu
+memiliki banyak festival
+yang diadakan dan itu<PAGE>semua sungguh menyenangkan.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Kuharap kamu ikut dalam
+festival selanjutnya. Dewi
+panen sudah menunggunya loh.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Mari kita memberikan rasa
+terima kasih kepada dewi
+panen.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Walaupun dewi panen sudah
+tahu betapa usahamu itu,
+<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Mari kita memberikan rasa
+terima kasih kepada dewi
+panen.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Mari kita memberikan rasa
+terima kasih kepada dewi
+panen.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Mari kita memberikan rasa
+terima kasih kepada dewi
+panen.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Mari kita memberikan rasa
+terima kasih kepada dewi
+panen.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Mari kita memberikan rasa
+terima kasih kepada dewi
+panen.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Mari kita memberikan rasa
+terima kasih kepada dewi
+panen.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Mari kita memberikan rasa
+terima kasih kepada dewi
+panen.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Mari kita memberikan rasa
+terima kasih kepada dewi
+panen.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Mari kita memberikan rasa
+terima kasih kepada dewi
+panen.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Mari kita memberikan rasa
+terima kasih kepada dewi
+panen.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Mari kita memberikan rasa
+terima kasih kepada dewi
+panen.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Mari kita memberikan rasa
+terima kasih kepada dewi
+panen.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Mari kita memberikan rasa
+terima kasih kepada dewi
+panen.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Mari kita memberikan rasa
+terima kasih kepada dewi
+panen.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Mari kita memberikan rasa
+terima kasih kepada dewi
+panen.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Mari kita memberikan rasa
+terima kasih kepada dewi
+panen.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Mari kita memberikan rasa
+terima kasih kepada dewi
+panen.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Mari kita memberikan rasa
+terima kasih kepada dewi
+panen.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Mari kita memberikan rasa
+terima kasih kepada dewi
+panen.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Mari kita memberikan rasa
+terima kasih kepada dewi
+panen.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Mari kita memberikan rasa
+terima kasih kepada dewi
+panen.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Festival hari ini sungguh
+menghibur. Apakah kamu di-
+sini untuk melihatnya juga,<PAGE><MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Mari kita memberikan rasa
+terima kasih kepada dewi
+panen.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Mari kita memberikan rasa
+terima kasih kepada dewi
+panen.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Mari kita memberikan rasa
+terima kasih kepada dewi
+panen.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Mari kita memberikan rasa
+terima kasih kepada dewi
+panen.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Mari kita memberikan rasa
+terima kasih kepada dewi
+panen.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Mari kita memberikan rasa
+terima kasih kepada dewi
+panen.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Mari kita memberikan rasa
+terima kasih kepada dewi
+panen.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Mari kita memberikan rasa
+terima kasih kepada dewi
+panen.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Mari kita memberikan rasa
+terima kasih kepada dewi
+panen.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Mari kita memberikan rasa
+terima kasih kepada dewi
+panen.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Mari kita memberikan rasa
+terima kasih kepada dewi
+panen.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Mari kita memberikan rasa
+terima kasih kepada dewi
+panen.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Mari kita memberikan rasa
+terima kasih kepada dewi
+panen.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Mari kita memberikan rasa
+terima kasih kepada dewi
+panen.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Mari kita memberikan rasa
+terima kasih kepada dewi
+panen.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Mari kita memberikan rasa
+terima kasih kepada dewi
+panen.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Mari kita memberikan rasa
+terima kasih kepada dewi
+panen.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Mari kita memberikan rasa
+terima kasih kepada dewi
+panen.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Mari kita memberikan rasa
+terima kasih kepada dewi
+panen.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Selamat pagi.
+Semuanya akan disambut
+dengan hangat digereja ini.<PAGE>Silahkan bergabung dengan
+kita dalam memberikan rasa
+bersyukur kepada dewi panen.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Selamat pagi.
+Kuharap kamu hari ini tidak
+mengalami masalah, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Selamat pagi.
+Ada banyak orang yang baik
+didesa ini.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Selamat sore.<PAGE>Oh, Aku harus memberi-
+kan persembahanku kepada
+dewi panen. Apa ya...?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Selamat sore, <MYNAME>.
+Bagaimana keadaan kebunmu?<PAGE><FACE_POS_CENTER><FACE_NATHAN><FACE_HAPPY><FP_RIGHT>Dewi panen pastinya bersama
+kamu. Aku tahu itu akan
+baik-baik saja.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Selamat sore, <MYNAME>.<PAGE>Apakah kamu sudah memberikan
+rasa terima kasih kepada
+dewi panen dihari ini?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Selamat Malam, <MYNAME>.<PAGE>Mari kita berikan rasa teri-
+ma kasih kepada dewi panen
+atas hari-hari baik ini.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Selamat Malam, <MYNAME>.
+Hari-hari lain yang akhir-
+nya sudah berakhir.<PAGE>Mari kita bersyukur apa
+saja yang telah terjadi
+dihari ini.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Selamat Malam.
+Tampaknya sudah sungguh
+gelap diluar.<PAGE>Jaga baik-baik ya diluar.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Mari kita memberikan rasa
+terima kasih kepada dewi
+panen.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Mari kita memberikan rasa
+terima kasih kepada dewi
+panen.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Mari kita memberikan rasa
+terima kasih kepada dewi
+panen.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Mari kita memberikan rasa
+terima kasih kepada dewi
+panen.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Mari kita memberikan rasa
+terima kasih kepada dewi
+panen.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Mari kita memberikan rasa
+terima kasih kepada dewi
+panen.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Mari kita memberikan rasa
+terima kasih kepada dewi
+panen.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Mari kita memberikan rasa
+terima kasih kepada dewi
+panen.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Mari kita memberikan rasa
+terima kasih kepada dewi
+panen.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Aku menyebarkan kata-kata
+dari dewi panen.
+itulah kehidupanku.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Aku menyebarkan kata-kata
+dari dewi panen.
+itulah kehidupanku.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Aku menyebarkan kata-kata
+dari dewi panen.
+itulah kehidupanku.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Mari kita memberikan rasa
+terima kasih kepada dewi
+panen.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Mari kita memberikan rasa
+terima kasih kepada dewi
+panen.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Mari kita memberikan rasa
+terima kasih kepada dewi
+panen.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Mari kita memberikan rasa
+terima kasih kepada dewi
+panen.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Mari kita memberikan rasa
+terima kasih kepada dewi
+panen.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Mari kita memberikan rasa
+terima kasih kepada dewi
+panen.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Mari kita memberikan rasa
+terima kasih kepada dewi
+panen.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Mari kita memberikan rasa
+terima kasih kepada dewi
+panen.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Mari kita memberikan rasa
+terima kasih kepada dewi
+panen.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_HAPPY><FP_LEFT>Selamat,
+<MYNAME>.<PAGE>Dewi panen sudah memberimu
+sebuah kemenangan.
+Betapa bagusnya itu.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_HAPPY><FP_RIGHT>Makananmu tampak menggugah
+selerahku! Itulah membuat
+perutku keroncongan.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_HAPPY><FP_LEFT>Selamat,
+<MYNAME>! Pastinya Dewi
+panen senang..
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_HAPPY><FP_RIGHT>Pastinya Dewi panen menik-
+mati untuk mengamati
+festivalnya.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_HAPPY><FP_RIGHT>Desa ini sungguh hidup di-
+saat festival diadakan.
+Ha ha ha!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Kita berterima kasih kepada
+dewi panen untuk cuaca yang
+baik dihari ini.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Mari kita memberikan rasa
+terima kasih kepada dewi
+panen.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Mari kita memberikan rasa
+terima kasih kepada dewi
+panen.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Mari kita memberikan rasa
+terima kasih kepada dewi
+panen.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Pastinya Dewi panen menik-
+mati untuk mengamati
+festivalnya.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Pastinya Dewi panen menik-
+mati untuk mengamati
+festivalnya.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Pastinya Dewi panen menik-
+mati untuk mengamati
+festivalnya.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_LEFT>Selamat,
+<MYNAME>! Pastinya Dewi
+panen senang..
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_LEFT>Selamat,
+<MYNAME>! Pastinya Dewi
+panen senang..
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_LEFT>Selamat,
+<MYNAME>! Pastinya Dewi
+panen senang..
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_LEFT>Selamat,
+<MYNAME>! Pastinya Dewi
+panen senang..
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_LEFT>Selamat,
+<MYNAME>! Pastinya Dewi
+panen senang..
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_NATHAN><FACE_NORMAL><FP_LEFT>Selamat,
+<MYNAME>! Pastinya Dewi
+panen senang..

@@ -1,0 +1,59 @@
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_SAD><FP_RIGHT><MYNAME>, I have some
+bad news. Take a deep
+breath and listen to me.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_SAD><FP_RIGHT>Your <VAR_0>, <VAR_1>,
+has passed away.
+It was due to illness.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_SAD><FP_RIGHT>Your <VAR_0>, <VAR_1>,
+has passed away.
+It was due to old age.
+----------------------------|----------------------------------
+<VAR_1> came into your life
+on <VAR_3> <VAR_4>, Year <VAR_2>.\u2390
+----------------------------|----------------------------------
+She was in the <VAR_0>
+Festival <VAR_2> time(s).<PAGE>She got 1st place <VAR_3>
+time(s), 2nd <VAR_4> times(s),
+and 3rd <VAR_5> time(s).<PAGE>What an amazing record!\u2390
+----------------------------|----------------------------------
+<VAR_1> counted on you.\u2390
+----------------------------|----------------------------------
+But you really could have
+treated her better.
+----------------------------|----------------------------------
+There's nothing to be sad
+about. She lived a long,
+full life.
+----------------------------|----------------------------------
+She was in the <VAR_0>
+Festival <VAR_2> time(s).\u2390
+----------------------------|----------------------------------
+<VAR_1> didn't really
+know you.\u2390
+----------------------------|----------------------------------
+<VAR_1> recognized you,
+but didn't know you well.\u2390
+----------------------------|----------------------------------
+<VAR_1> recognized you,
+and was comfortable
+around you.\u2390
+----------------------------|----------------------------------
+<VAR_1> thought of you
+as her master.\u2390
+----------------------------|----------------------------------
+<VAR_1> thought of you
+as a decent master.\u2390
+----------------------------|----------------------------------
+<VAR_1> thought of you
+as a good master.\u2390
+----------------------------|----------------------------------
+<VAR_1> thought of you
+as a very good master.\u2390
+----------------------------|----------------------------------
+<VAR_1> thought of you
+as a great master.\u2390
+----------------------------|----------------------------------
+<VAR_1> really
+loved you.\u2390

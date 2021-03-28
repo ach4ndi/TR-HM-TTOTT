@@ -1,0 +1,406 @@
+<FACE_POS_LEFT><FACE_INA><FACE_HAPPY><FP_LEFT>Oke, ayo dimulai, semuanya.
+\u270b<PAGE><FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT>Hari ini adalah festival
+Salju.<PAGE>Tahun ini patung saljunya
+dibuat oleh Sheng.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_INA><FACE_HAPPY><FP_LEFT>Oke, ayo dimulai, semuanya.
+\u270b<PAGE><FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT>Hari ini adalah festival
+Salju.<PAGE>Tahun ini patung saljunya
+dibuat oleh Mako.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_INA><FACE_HAPPY><FP_LEFT>Oke, ayo dimulai, semuanya.
+\u270b<PAGE><FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT>Hari ini adalah festival
+Salju.<PAGE>Tahun ini patung saljunya
+dibuat oleh Kana.
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_INA><FACE_HAPPY><FP_LEFT>Ayo kita lihat apa yang
+kamu buat, Sheng.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_INA><FACE_HAPPY><FP_LEFT>Ayo kita lihat apa yang
+kamu buat, Mako.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_INA><FACE_HAPPY><FP_LEFT>Ayo kita lihat apa yang
+kamu buat, Kana.
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Waktunya untuk menunjukkan
+hasil karyaku yang menggele-
+gar ini!<PAGE><FACE_POS_RIGHT><FACE_SHENG><FACE_HAPPY><FP_RIGHT>Ayo kesini! pegangan
+tangan ya!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Tentunya. Ayo kesini.<PAGE><FACE_POS_RIGHT><FACE_MAKO><FACE_HAPPY><FP_RIGHT>Ayo lihat bersama, jika kamu
+bisa menghargai kreasi buat-
+anku ini yang genius dan<PAGE>bagus! kamu seorang yang
+perhatian terhadap hal-hal
+kecil.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>Ayo cek bersama-sama, 
+semuanya!<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>Pastinya kamu semuanya ingin
+melihatnya! Betapa manisnya
+buatanku!
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_SHENG><FACE_HAPPY><FP_LEFT>Ayo dilihat, semuanya!
+Benar benar fantastis, dan
+terinspirasikan?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_MAKO><FACE_HAPPY><FP_LEFT>Ini dia patung yang kubuat!
+Terbuat dari siratan cinta
+ku! Suatu sebuah karya!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_KANA><FACE_HAPPY><FP_LEFT>Ini patung terkerenku!
+Ini akan memberikan kejutan
+imajinasimu!
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_SHENG><FACE_HAPPY><FP_LEFT>Uh, menurutmu ini apa,
+semuanya? Aku memanggilnya...
+"<RED>Panda bergulat</COLOR>"!<PAGE><FACE_POS_LEFT><FACE_SHENG><FACE_NORMAL><FP_LEFT>Lihat lihat, strutkturnya
+sangat halus dan ekspresinya
+benar-benar hidup!<PAGE><FACE_POS_LEFT><FACE_SHENG><FACE_HAPPY><FP_LEFT>Itu membuat panda terlihat
+hebat dan keren!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_MAKO><FACE_HAPPY><FP_LEFT>Heh, gimana kalau ini?
+Sebuah karya yang berjudul
+"<RED>Hasil bumi</COLOR>"!<PAGE><FACE_POS_LEFT><FACE_MAKO><FACE_NORMAL><FP_LEFT>Setiap daunnya terukir
+dengan bagus, dan terkesan
+seperti nyata.<PAGE><FACE_POS_LEFT><FACE_MAKO><FACE_HAPPY><FP_LEFT>Sama persis seperti aslinya!
+Tidak, lebih BAGUSlah!
+hahahaha
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_KANA><FACE_HAPPY><FP_LEFT>Jadi, apa yang dipikirkan?
+Aku memanggilnya ini
+"<RED>Sayap kuda</COLOR>"!<PAGE>Aku menggunakan Hayate
+sebagai model kudanya!<PAGE><FACE_POS_LEFT><FACE_KANA><FACE_NORMAL><FP_LEFT>Lihatlah begitu ramping,
+kuat badannya! Lihat tampan
+nya yang berwibawa!<PAGE><FACE_POS_LEFT><FACE_KANA><FACE_HAPPY><FP_LEFT>Kamu dapat menggambarkannya
+seperti sedang terbang
+menembus angkasa, hahahaha<PAGE>apa bisa ya?
+Keren kan, hu?!
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_YING><FACE_HAPPY><FP_LEFT>Itu adalah panda raksasa...
+Tee-hee! lucunya!<PAGE><FACE_POS_RIGHT><FACE_RAHI><FACE_HAPPY><FP_RIGHT>Wow, itu sungguh besar dan
+detail!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_YING><FACE_HAPPY><FP_LEFT>Itu adalah panda raksasa...
+Tee-hee! lucunya!<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_SHY><FP_RIGHT>Lucu...? \u270a Hmm, apa iya?
+Itu sepertinya menggangguku,
+dan menyeramkan...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_GOMBE><FACE_NORMAL><FP_LEFT>Tidak terlihat mengejutkan
+patung apa yang sheng buat,
+benar kan? hmmm...<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Yeee, itu sudah kita predik-
+sikan. Tetap saja itu
+sangat terbentuk dengan baik!
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Sebuah patung yang luar
+biasa! Itu sungguh besar dan
+terlihat sangat enak!<PAGE><FACE_POS_LEFT><FACE_YUN><FACE_HAPPY><FP_LEFT>oh, woooo! Sesuatu yang
+besar itu akan membuat mema-
+sak menjadi menyenangkan!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>Wow, daunnya terukir dengan
+bentuk yang benar...
+Keren...<PAGE><FACE_POS_LEFT><FACE_GOMBE><FACE_NORMAL><FP_LEFT>Itu memang benar! Aku 'dah
+menanam lobak putih semala
+berpuluh-puluh tahun jadi<PAGE>aku seharusnya tahu...!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_HAPPY><FP_RIGHT>Itu seperti terlihat
+Tumbuh keluar dari tanah.<PAGE><FACE_POS_LEFT><FACE_AYAME><FACE_HAPPY><FP_LEFT>Aku tahu! Itu membuatku
+ingin memanennya!
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_HAPPY><FP_RIGHT>Sungguh luar biasa! Itu ter-
+lihat akan mau terbang ke
+angkasa saja!<PAGE><FACE_POS_LEFT><FACE_REINA><FACE_HAPPY><FP_LEFT>Memang. 
+Kamu bisa mengatakan itu
+susah payah untuk memahatnya.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Kana memang benar-benar me-
+nyukai kuda, benarkan?<PAGE><FACE_POS_LEFT><FACE_GOMBE><FACE_HAPPY><FP_LEFT>Mungkin itu melebihi sheng
+yang menyukai seng...
+eh panda maksudnya...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_YING><FACE_HAPPY><FP_LEFT>Seekor kuda... tapi itu de...
+ngan sayap...!<PAGE><FACE_POS_RIGHT><FACE_RAHI><FACE_HAPPY><FP_RIGHT>Itu benar-benar suuuperrr! 
+Itu sepertinya sangat menye-
+nangkan jika dikundangi!
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_INA><FACE_HAPPY><FP_LEFT>Patung yang bagus!
+Terima kasih, Sheng.<PAGE><FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT>Dan itulah festival salju
+tahun ini.<PAGE><FACE_POS_LEFT><FACE_INA><FACE_HAPPY><FP_LEFT>Kita dapat melihat seperti
+apa patung yang dibuat
+pada tahun depan.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_INA><FACE_HAPPY><FP_LEFT>Patung yang bagus!
+Terima kasih, Mako.<PAGE><FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT>Dan itulah festival salju
+tahun ini.<PAGE><FACE_POS_LEFT><FACE_INA><FACE_HAPPY><FP_LEFT>Kita dapat melihat seperti
+apa patung yang dibuat
+pada tahun depan.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_INA><FACE_HAPPY><FP_LEFT>Patung yang bagus!
+Terima kasih, Kana.<PAGE><FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT>Dan itulah festival salju
+tahun ini.<PAGE><FACE_POS_LEFT><FACE_INA><FACE_HAPPY><FP_LEFT>Kita dapat melihat seperti
+apa patung yang dibuat
+pada tahun depan.
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_SHENG><FACE_NORMAL><FP_LEFT>Apakah kamu menyukainya?
+Jangan merasa malu untuk mem
+berikanku sebuah kritikan.<PAGE><FACE_POS_LEFT><FACE_SHENG><FACE_HAPPY><FP_LEFT>Jangan ditahan, ayo keluar-
+kan pendapatmu!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_MAKO><FACE_NORMAL><FP_LEFT>Heh, sepertinya semunya ter-
+cengang dengan hasil karya
+ku yang hebat ini!<PAGE><FACE_POS_LEFT><FACE_MAKO><FACE_HAPPY><FP_LEFT>Ada bagian tertentu yang
+memang benar-benar terpahat
+dengan sempurna, yang<PAGE>dilewati oleh orang orang
+awam...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_KANA><FACE_NORMAL><FP_LEFT>Oh, semua orang berpikiran
+bahwa pahatanku adalah yang
+terhebat! Bagus!<PAGE><FACE_POS_LEFT><FACE_KANA><FACE_HAPPY><FP_LEFT>Dan memang memakai hayate
+sebagai modelnya adalah
+keputusa yang paling tepat!<PAGE>Jika modelnya bagus, pasti-
+nya patungnya bakalan
+bagus juga!
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_AYAME><FACE_NORMAL><FP_LEFT>Itu cukup terlihat seperti
+panda
+yang machoooo.<PAGE><FACE_POS_LEFT><FACE_AYAME><FACE_HAPPY><FP_LEFT>Itu sepertinya hidup dan
+akan membuat keributan.<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_SHY><FP_RIGHT>Jika panda ini sedang gak
+mod, pastinya banyak orang
+yang terluka pada saat ini.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>Lihat, sheng juga memberikan
+warna pada bagian hitam pada
+panda.<PAGE>Pastinya itu membutuhkan
+waktu untuk menyelesaikan-
+nya!<PAGE><FACE_POS_LEFT><FACE_YUN><FACE_NORMAL><FP_LEFT>Ya pastinya, wadeww!
+kalau putih semua itu tidak
+bisa disebut panda...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Kenapa? ekspresinya seperti
+itu?<PAGE>Bisakah dia membuatnya lebih
+imut imut gitu?<PAGE><FACE_POS_LEFT><FACE_RAHI><FACE_HAPPY><FP_LEFT>Aku menyukainya! itu
+terlihat lebih garang!
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT>Sebuah patung fantastis,
+seperti biasanya. Lihat!
+daunnya saja detail banget!<PAGE><FACE_POS_RIGHT><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Ya! Tapi bagaimana dia bisa
+mempertahankan tipisnya daun
+itu tanpa merusaknya?<PAGE><FACE_POS_RIGHT><FACE_GOMBE><FACE_HAPPY><FP_RIGHT>Aku tidak bisa melakukan
+kemampuan seperti itu!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_NORI><FACE_NORMAL><FP_LEFT>Jadi, aku penasaran seperti
+apa bagian didalam tanahnya
+...<PAGE><FACE_POS_LEFT><FACE_NORI><FACE_HAPPY><FP_LEFT>Itu sepertinya dia menggali
+sebuah lobang dan lalu mena-
+ruh patungnya disitu...<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_SHY><FP_RIGHT>Bukan, itu sangat mustahil
+...<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_HAPPY><FP_RIGHT>Tapi... disaat kamu melihat
+bagian atasnya, aku pikir
+kamu tidak bisa melakukannya.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_AYAME><FACE_NORMAL><FP_LEFT>Tee-hee! Aku ingin mencoba
+untuk menariknya dari
+tanah!<PAGE><FACE_POS_LEFT><FACE_AYAME><FACE_HAPPY><FP_LEFT>Tapi sepertinya aku tidak..
+ato apa iya ...?<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_SHY><FP_RIGHT>Pastinya jangan! itu akan
+merusaknya...<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_NORMAL><FP_RIGHT>Mako bakalan memasang muka
+seramnya sepanjang tahunloh!
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT>Itulah yang disebut sebagai
+pahatan patung! Lihat
+kekuatan pada kakinya!<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_HAPPY><FP_RIGHT>Cukup luar biasa. Itu mem-
+berikan kekuatan yang tidak
+diragukan lagi.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Pahatan rambut dan sayap
+kudanya benar-benar indah
+dan cantik!<PAGE><FACE_POS_LEFT><FACE_GOMBE><FACE_NORMAL><FP_LEFT>Walaupun kana tidak terlihat
+tipe-tipe pemahat, tapi ini
+benar-benar hebat!<PAGE>atau jangan-jangan memakai
+printer 3D ya?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_AYAME><FACE_NORMAL><FP_LEFT>Seekor pegasus...\u270a<PAGE><FACE_POS_LEFT><FACE_AYAME><FACE_HAPPY><FP_LEFT>Kana pastinya sangat-sangat
+romantis!<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>Dia memberitahukanku disaat
+dia masih kecil, dia ingin
+terbang ke angkasa dengan<PAGE>menaiki si Hayate...
+mungkin itu sumber inspirasi
+nya.
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy
+----------------------------|----------------------------------
+Dummy

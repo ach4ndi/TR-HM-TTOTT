@@ -1,0 +1,18 @@
+<FACE_POS_LEFT><FACE_YING><FACE_NORMAL><FP_LEFT>...<PAGE><FACE_POS_RIGHT><FACE_SHENG><FACE_NORMAL><FP_RIGHT>...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_YING><FACE_NORMAL><FP_LEFT>...Are you a panda...?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_SHENG><FACE_NORMAL><FP_RIGHT>I love pandas, but I'm no
+panda, kid.<PAGE><FACE_POS_LEFT><FACE_YING><FACE_NORMAL><FP_LEFT>I...I have one...
+I mean...I have a panda...<PAGE><FACE_POS_RIGHT><FACE_SHENG><FACE_HAPPY><FP_RIGHT>That's a pretty cute stuffed
+animal!<PAGE><FACE_POS_LEFT><FACE_YING><FACE_HAPPY><FP_LEFT>My...My mom and dad...
+bought it...for me...<PAGE><FACE_POS_RIGHT><FACE_SHENG><FACE_NORMAL><FP_RIGHT>They did, did they? Well,
+take good care of it, kid.<PAGE><FACE_POS_RIGHT><FACE_SHENG><FACE_HAPPY><FP_RIGHT>Hey! Why don't I take you
+to see a real panda some
+time?!<PAGE>They're much bigger, but
+just as cute!<PAGE><FACE_POS_LEFT><FACE_YING><FACE_HAPPY><FP_LEFT>Sure... That would be fun!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_SHENG><FACE_HAPPY><FP_RIGHT>Well, we have a deal, then.<PAGE><FACE_POS_RIGHT><FACE_SHENG><FACE_NORMAL><FP_RIGHT>I've got some work I've got
+to do right now, though.
+See ya later!<PAGE><FACE_POS_LEFT><FACE_YING><FACE_HAPPY><FP_LEFT>OK...
+Bye bye...

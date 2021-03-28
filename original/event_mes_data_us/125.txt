@@ -1,0 +1,564 @@
+<FACE_POS_CENTER><HIDE_NAME><FACE_YING><FACE_NORMAL><FP_RIGHT>Oh... H-Hi.
+Your name's...<MYNAME>?<PAGE><FACE_POS_CENTER><FACE_YING><FACE_NORMAL><FP_RIGHT>...<BLUE>Ying</COLOR>...
+My name is...Ying.<PAGE>I live...with my
+grandma.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_SAD><FP_RIGHT>...Yesterday...
+...the skies were so dark.
+It was scary.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_NORMAL><FP_RIGHT>...<MYNAME>, how are you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_NORMAL><FP_RIGHT>...<MYNAME>, how are you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_NORMAL><FP_RIGHT>...<MYNAME>, how are you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_NORMAL><FP_RIGHT>...It won't bite?
+......<PAGE><FACE_POS_CENTER><FACE_YING><FACE_HAPPY><FP_RIGHT>...It's cute...
+...May I pet it?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_SAD><FP_RIGHT>...I...I don't
+like it.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_NORMAL><FP_RIGHT>...<MYNAME>, how are you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_NORMAL><FP_RIGHT>A blue feather...?
+...It's very pretty!
+I wish I had one too!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_NORMAL><FP_RIGHT>I'm not supposed to accept
+presents from strangers.
+That's what Grandma told me.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_NORMAL><FP_RIGHT>I don't need one right now.
+Sorry, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_NORMAL><FP_RIGHT>...<MYNAME>, how are you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_NORMAL><FP_RIGHT>...<MYNAME>, how are you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_NORMAL><FP_RIGHT>What IS this,
+<MYNAME>!?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_HAPPY><FP_RIGHT>Oh goody!!
+It's just what I wanted!<PAGE><MYNAME>, thank you
+for the birthday present!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_HAPPY><FP_RIGHT>...<RED>Pancakes</COLOR>?
+*munch, munch*
+So yummy!♪
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_NORMAL><FP_RIGHT>...<MYNAME>, how are you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_NORMAL><FP_RIGHT>...<MYNAME>, how are you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_HAPPY><FP_RIGHT>...A birthday present?
+Oh, thanks!
+I'm so happy!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_HAPPY><FP_RIGHT>This is for me?
+I like it a lot!<PAGE>Thanks, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_HAPPY><FP_RIGHT>A birthday present?
+Thanks!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_NORMAL><FP_RIGHT>...Thanks, <MYNAME>.
+
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_SAD><FP_RIGHT>F-For my birthday?
+This gift makes me sad...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_SAD><FP_RIGHT>I don't like it.
+Sorry...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_ANGRY><FP_RIGHT>I can't even...
+I just hate it.
+Sorry....
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_NORMAL><FP_RIGHT>...<MYNAME>, how are you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_NORMAL><FP_RIGHT>...<MYNAME>, how are you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_HAPPY><FP_RIGHT>How's being married? You
+look really happy.<PAGE>You remind me of how my
+mom and dad are.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_SAD><FP_RIGHT>The wind makes the whole
+house shake. It's really
+scary.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_HAPPY><FP_RIGHT>There's SO much snow!
+Tomorrow I want to build
+a little snowman.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_HAPPY><FP_RIGHT><MYNAME>, I got a letter
+from my dad and mom!<PAGE>I'm so, so happy!
+Now I need to write them
+a letter back!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_NORMAL><FP_RIGHT>My panda?
+My dad and mom sent it to
+me.<PAGE><FACE_POS_CENTER><FACE_YING><FACE_HAPPY><FP_RIGHT>It's the most precious
+thing to me...my panda bear!
+It's so cute, isn't it?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_NORMAL><FP_RIGHT>Ayame loves to eat tempura
+bowl mixed rice at
+the tea house.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_NORMAL><FP_RIGHT>Mako always orders chop
+suey or vegetable stir
+fry.<PAGE>He must like vegetables.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_NORMAL><FP_RIGHT>Gombe always orders
+okonomiyaki, yakisoba,
+things like that.<PAGE>He eats a lot 
+for an old guy.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_NORMAL><FP_RIGHT>Ina eats so much spicy
+stuff at the tea house!<PAGE>I'll bet she can breathe
+fire!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_NORMAL><FP_RIGHT>I love my grandma!
+She's super nice!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_NORMAL><FP_RIGHT>...<MYNAME>, how are you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_NORMAL><FP_RIGHT>...<MYNAME>, how are you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_NORMAL><FP_RIGHT>...<MYNAME>, how are you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_NORMAL><FP_RIGHT>...<MYNAME>, how are you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_NORMAL><FP_RIGHT>...<MYNAME>, how are you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_NORMAL><FP_RIGHT>...<MYNAME>, how are you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_NORMAL><FP_RIGHT>...<MYNAME>, how are you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_NORMAL><FP_RIGHT>...<MYNAME>, how are you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_NORMAL><FP_RIGHT>...<MYNAME>, how are you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_NORMAL><FP_RIGHT>...<MYNAME>, how are you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_NORMAL><FP_RIGHT>...<MYNAME>, how are you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_NORMAL><FP_RIGHT>...<MYNAME>, how are you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_NORMAL><FP_RIGHT>...<MYNAME>, how are you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_NORMAL><FP_RIGHT>...<MYNAME>, how are you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_NORMAL><FP_RIGHT>...<MYNAME>, how are you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_NORMAL><FP_RIGHT>...<MYNAME>, how are you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_NORMAL><FP_RIGHT>...<MYNAME>, how are you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_NORMAL><FP_RIGHT>...<MYNAME>, how are you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_NORMAL><FP_RIGHT>...<MYNAME>, how are you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_NORMAL><FP_RIGHT>...<MYNAME>, how are you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_NORMAL><FP_RIGHT>...<MYNAME>, how are you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_NORMAL><FP_RIGHT>...<MYNAME>, how are you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_NORMAL><FP_RIGHT>...<MYNAME>, how are you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_NORMAL><FP_RIGHT>...<MYNAME>, how are you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_NORMAL><FP_RIGHT>...<MYNAME>, how are you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_NORMAL><FP_RIGHT>...<MYNAME>, how are you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_NORMAL><FP_RIGHT>...<MYNAME>, how are you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_NORMAL><FP_RIGHT>...<MYNAME>, how are you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_NORMAL><FP_RIGHT>...<MYNAME>, how are you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_NORMAL><FP_RIGHT>...<MYNAME>, how are you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_NORMAL><FP_RIGHT>...<MYNAME>, how are you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_NORMAL><FP_RIGHT>...<MYNAME>, how are you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_NORMAL><FP_RIGHT>...<MYNAME>, how are you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_NORMAL><FP_RIGHT>...<MYNAME>, how are you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_NORMAL><FP_RIGHT>...<MYNAME>, how are you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_NORMAL><FP_RIGHT>...<MYNAME>, how are you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_NORMAL><FP_RIGHT>Is this for the festival?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_NORMAL><FP_RIGHT>...<MYNAME>, how are you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_NORMAL><FP_RIGHT>...<MYNAME>, how are you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_NORMAL><FP_RIGHT>It's cute.
+
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_NORMAL><FP_RIGHT>May I touch it?<PAGE><FACE_POS_CENTER><FACE_YING><FACE_HAPPY><FP_RIGHT>Ooh, cute!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_ANGRY><FP_RIGHT>......
+Please don't brint it
+any closer, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_NORMAL><FP_RIGHT>Hmmm...
+Looks tame...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_NORMAL><FP_RIGHT>...<MYNAME>, how are you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_NORMAL><FP_RIGHT>...<MYNAME>, how are you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_NORMAL><FP_RIGHT>...<MYNAME>, how are you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_NORMAL><FP_RIGHT>...<MYNAME>, how are you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_NORMAL><FP_RIGHT>...<MYNAME>, how are you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_NORMAL><FP_RIGHT>...<MYNAME>, how are you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_NORMAL><FP_RIGHT>...<MYNAME>, how are you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_NORMAL><FP_RIGHT>...<MYNAME>, how are you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_NORMAL><FP_RIGHT>...<MYNAME>, how are you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_NORMAL><FP_RIGHT>...<MYNAME>, how are you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_NORMAL><FP_RIGHT>...<MYNAME>, how are you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_NORMAL><FP_RIGHT>...<MYNAME>, how are you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_HAPPY><FP_RIGHT>Thanks!
+These flowers are so pretty!
+I'll put them in my room. 
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_NORMAL><FP_RIGHT>...<MYNAME>, how are you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_NORMAL><FP_RIGHT>...<MYNAME>, how are you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_NORMAL><FP_RIGHT>...<MYNAME>, how are you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_NORMAL><FP_RIGHT>...<MYNAME>, how are you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_NORMAL><FP_RIGHT>...<MYNAME>, how are you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_NORMAL><FP_RIGHT>...<MYNAME>, how are you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_HAPPY><FP_RIGHT>For me?
+What could it be?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_HAPPY><FP_RIGHT>I...
+I like you a lot,
+<MYNAME>!<PAGE>You're like an older
+sibling to me.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_NORMAL><FP_RIGHT>...<MYNAME>, how are you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_NORMAL><FP_RIGHT>Did you come from the
+other village, <MYNAME>?
+What's it like?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_NORMAL><FP_RIGHT>I help out at my
+grandma's shop.<PAGE>She says I'm
+a big, big help.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_NORMAL><FP_RIGHT>...<MYNAME>, how are you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_NORMAL><FP_RIGHT>...<MYNAME>, how are you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_NORMAL><FP_RIGHT>Talking to Rahi cheers me
+up.<PAGE>I'd like us to become even
+better friends.
+I wonder if he'd like that.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_NORMAL><FP_RIGHT>The air in this village is
+better for me than the
+air back home.<PAGE>That's why I'm living here
+with my grandma instead
+of with my parents.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_NORMAL><FP_RIGHT>Rahi's so lucky.
+He's always full of energy,
+running around the village.<PAGE>I wish I could have races
+with him...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_HAPPY><FP_RIGHT>It's my umbrella.
+My mom and dad bought it
+for me.<PAGE>So when it rains, I always
+want to open it up.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_NORMAL><FP_RIGHT>...<MYNAME>, how are you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_NORMAL><FP_RIGHT>...<MYNAME>, how are you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_NORMAL><FP_RIGHT>...<MYNAME>, how are you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_NORMAL><FP_RIGHT>...<MYNAME>, how are you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_NORMAL><FP_RIGHT>...<MYNAME>, how are you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_NORMAL><FP_RIGHT>...<MYNAME>, how are you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_NORMAL><FP_RIGHT>...<MYNAME>, how are you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_NORMAL><FP_RIGHT>I'm glad our village won.
+And you cheered us on,
+<MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_SAD><FP_RIGHT>I'm sad our village lost,
+even with you cheering us
+on.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_NORMAL><FP_RIGHT>I hope you'll represent
+OUR village in the next
+cooking festival, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_NORMAL><FP_RIGHT>...<MYNAME>, how are you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_NORMAL><FP_RIGHT>...<MYNAME>, how are you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_SAD><FP_RIGHT>Aww...
+Our village lost...
+Next time we won't lose...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_NORMAL><FP_RIGHT>...<MYNAME>, how are you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_NORMAL><FP_RIGHT>You lost...? Don't worry...
+What matters is you tried
+your best.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_HAPPY><FP_RIGHT>I'm looking forward to the
+festival so much! I can't
+wait for it to start!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_NORMAL><FP_RIGHT>What happened to you today?
+You weren't feeling well?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_NORMAL><FP_RIGHT>...<MYNAME>, how are you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_NORMAL><FP_RIGHT>I know you did your best.
+Don't feel bad.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_NORMAL><FP_RIGHT>...<MYNAME>, how are you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_NORMAL><FP_RIGHT>...<MYNAME>, how are you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_NORMAL><FP_RIGHT>...<MYNAME>, how are you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_NORMAL><FP_RIGHT>...<MYNAME>, how are you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_NORMAL><FP_RIGHT>...<MYNAME>, how are you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_NORMAL><FP_RIGHT>...<MYNAME>, how are you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_NORMAL><FP_RIGHT>...<MYNAME>, how are you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_NORMAL><FP_RIGHT>...<MYNAME>, how are you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_NORMAL><FP_RIGHT>...<MYNAME>, how are you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_NORMAL><FP_RIGHT>...<MYNAME>, how are you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_NORMAL><FP_RIGHT>...<MYNAME>, how are you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_NORMAL><FP_RIGHT>...<MYNAME>, how are you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_NORMAL><FP_RIGHT>...<MYNAME>, how are you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_NORMAL><FP_RIGHT>...<MYNAME>, how are you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_NORMAL><FP_RIGHT>...<MYNAME>, how are you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_NORMAL><FP_RIGHT>...<MYNAME>, how are you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_NORMAL><FP_RIGHT>...<MYNAME>, how are you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_NORMAL><FP_RIGHT>...<MYNAME>, how are you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_NORMAL><FP_RIGHT>...<MYNAME>, how are you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_NORMAL><FP_RIGHT>...<MYNAME>, how are you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_NORMAL><FP_RIGHT>...<MYNAME>, how are you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_NORMAL><FP_RIGHT><MYNAME>?
+Did you come for the
+festival?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_NORMAL><FP_RIGHT>...<MYNAME>, how are you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_NORMAL><FP_RIGHT>...<MYNAME>, how are you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_NORMAL><FP_RIGHT>...<MYNAME>, how are you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_NORMAL><FP_RIGHT>...<MYNAME>, how are you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_NORMAL><FP_RIGHT>...<MYNAME>, how are you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_NORMAL><FP_RIGHT>...<MYNAME>, how are you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_NORMAL><FP_RIGHT>...<MYNAME>, how are you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_NORMAL><FP_RIGHT>...<MYNAME>, how are you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_NORMAL><FP_RIGHT>...<MYNAME>, how are you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_NORMAL><FP_RIGHT>...<MYNAME>, how are you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_NORMAL><FP_RIGHT>...<MYNAME>, how are you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_NORMAL><FP_RIGHT>...<MYNAME>, how are you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_NORMAL><FP_RIGHT>...<MYNAME>, how are you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_NORMAL><FP_RIGHT>...<MYNAME>, how are you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_NORMAL><FP_RIGHT>...<MYNAME>, how are you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_NORMAL><FP_RIGHT>...<MYNAME>, how are you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_NORMAL><FP_RIGHT>...<MYNAME>, how are you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_NORMAL><FP_RIGHT>...<MYNAME>, how are you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_NORMAL><FP_RIGHT>...<MYNAME>, how are you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_SAD><FP_RIGHT>Good morning.
+...I'm sleepy.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_NORMAL><FP_RIGHT>G-Good morning,
+<MYNAME>...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_NORMAL><FP_RIGHT>...Good morning...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_NORMAL><FP_RIGHT>Hello...
+It's a nice day for reading.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_HAPPY><FP_RIGHT>...Hello, <MYNAME>...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_HAPPY><FP_RIGHT>...Hello...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_NORMAL><FP_RIGHT>...Hello...
+It's almost my bedtime.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_NORMAL><FP_RIGHT>...Hello, <MYNAME>...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_NORMAL><FP_RIGHT>...Hello...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_NORMAL><FP_RIGHT>...<MYNAME>, how are you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_NORMAL><FP_RIGHT>...<MYNAME>, how are you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_NORMAL><FP_RIGHT>...<MYNAME>, how are you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_NORMAL><FP_RIGHT>You can give your order
+to my grandma.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_NORMAL><FP_RIGHT>You can give your order
+to my grandma.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_NORMAL><FP_RIGHT>You can give your order
+to my grandma.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_NORMAL><FP_RIGHT>...<MYNAME>, how are you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_NORMAL><FP_RIGHT>...<MYNAME>, how are you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_NORMAL><FP_RIGHT>...<MYNAME>, how are you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_NORMAL><FP_RIGHT>Do you think Rahi thinks of
+me as a friend?<PAGE>He's always looking out for
+me and stuff...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_NORMAL><FP_RIGHT>Do you think Rahi thinks of
+me as a friend?<PAGE>He's always looking out for
+me and stuff...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_NORMAL><FP_RIGHT>Do you think Rahi thinks of
+me as a friend?<PAGE>He's always looking out for
+me and stuff...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_NORMAL><FP_RIGHT>...<MYNAME>, how are you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_NORMAL><FP_RIGHT>...<MYNAME>, how are you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_NORMAL><FP_RIGHT>...<MYNAME>, how are you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_NORMAL><FP_RIGHT>...<MYNAME>, how are you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_NORMAL><FP_RIGHT>...<MYNAME>, how are you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_NORMAL><FP_RIGHT>...<MYNAME>, how are you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_NORMAL><FP_RIGHT>...<MYNAME>, how are you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_NORMAL><FP_RIGHT>...<MYNAME>, how are you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_NORMAL><FP_RIGHT>...<MYNAME>, how are you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_HAPPY><FP_RIGHT>...<MYNAME>, you're a 
+wonderful cook.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_HAPPY><FP_RIGHT>...Congratulations.
+That was really great.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_HAPPY><FP_RIGHT>Congratulations on winning,
+<MYNAME>!<PAGE>Grandma says you're really
+great...!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_HAPPY><FP_RIGHT>This festival makes everyone
+so happy.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_NORMAL><FP_RIGHT>It's over... That makes me
+kind of sad.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_HAPPY><FP_RIGHT>I had so much fun today.
+I can't wait for the next
+time!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_NORMAL><FP_RIGHT>The crops you grow
+are so huge!
+Can I go and see them later?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_NORMAL><FP_RIGHT>Congratulations! You won!
+I would love to try your
+crops some time.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_NORMAL><FP_RIGHT>Your crops looked
+so yummy, <MYNAME>!
+...I'd love to try them.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_NORMAL><FP_RIGHT>Today's <VAR_0>
+was really something to see.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_NORMAL><FP_RIGHT>I had so much fun
+taking part in the festival
+with my grandma.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_NORMAL><FP_RIGHT>Everyone was so excited.
+How about you, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_NORMAL><FP_RIGHT>Everyone's so serious...
+I don't think I'm good
+enough to compete.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_NORMAL><FP_RIGHT>Congratulations!
+You caught so many!
+You must be happy.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_NORMAL><FP_RIGHT>Is fishing hard?
+Will you teach me sometime?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_NORMAL><FP_RIGHT>...<MYNAME>, how are you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_NORMAL><FP_RIGHT>...<MYNAME>, how are you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_YING><FACE_NORMAL><FP_RIGHT>...<MYNAME>, how are you?

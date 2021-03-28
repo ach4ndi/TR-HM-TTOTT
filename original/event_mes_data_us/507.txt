@@ -1,0 +1,125 @@
+<FACE_POS_LEFT><HIDE_NAME><FACE_INA><FACE_NORMAL><FP_LEFT><HIDE_FACE>Good morning, <MYNAME>.
+Thought I'd drop by for a
+visit.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>Sorry to barge in on you so
+early.<PAGE>I came to tell you some
+things that will be handy
+to know for your life here.<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>Come with me to the town
+square.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>今日は、<MYNAME>に
+おつかいについて
+話しておこうと思ってな。<PAGE>口で説明するより
+実際に見た方が
+早いだろう。<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL>ついて来てくれ。
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>This is the <RED>message board</COLOR>.<PAGE>Villagers who need something
+done will post their
+<RED>requests</COLOR> here.<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>To read the requests, just
+stand in front of the board
+and press the <RED>A Button</COLOR>.<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>I hope you'll take on some
+requests when you have the
+opportunity.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>OK, I'll explain, then!<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>First, you accept a request
+from the message board.<PAGE>Next, you try to acquire the
+item or items the person has
+requested.<PAGE>Finally, you give the items
+to the person that requested
+them.<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>If you deliver the requested
+item by the deadline, you'll
+receive a <RED>reward</COLOR>.<PAGE>Once you get your reward,
+you are done with the
+request!<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>And that's basically how it
+works.<PAGE>There are three things to
+remember about requests.<PAGE>The first is that there is a
+deadline.<PAGE>If you go past the deadline
+for a request, then you will
+fail to fulfill it.<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_SAD><FP_RIGHT>The person who requested the
+item won't accept it from
+you anymore.<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>But don't worry! There are
+no penalties for failing!<PAGE>So don't be afraid to fail.
+Go ahead and take on
+requests!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>And that's basically how a
+request works!<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>Do you want me to go over
+that again for you?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>Tap <RED>Requests</COLOR> on the bottom
+screen if you want to check
+what requests you've taken.<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>Now, why don't you try
+taking on a request?<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>First, check the message
+board. You'll see requests
+on the bottom screen.<PAGE>Use the <RED>+Control Pad</COLOR> to
+select a request, then push
+the <RED>A Button</COLOR> to view it.<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>I put up a starter request,
+so try picking that one!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>OK. I'll explain it again,
+then.<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>This is the <RED>message board</COLOR>.<PAGE>Villagers who need something
+done will post their
+<RED>requests</COLOR> here.<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>To read the requests, just
+stand in front of the board
+and press the <RED>A Button</COLOR>.<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>I hope you'll take on some
+requests when you have the
+opportunity.
+----------------------------|----------------------------------
+<CHOICE_AB> Yes, please.
+ No thanks, I got it.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>That's the way! That's how
+you accept a request!<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>For the request you just
+accepted, the <RED>requester</COLOR> is
+<RED>Ina</COLOR>... That's me, of course.<PAGE>And just like it's written
+on the request, I want to
+explain something to you.<PAGE>So, let's go back to
+your farm now.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>The second thing to remember
+is how to deliver the item
+to the requester.<PAGE>First, after taking on the
+request, get the item and
+put it in your bag.<PAGE>Next, talk to the requester,
+and they'll ask if you want
+to talk about the request.<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>After that, a screen will
+appear where you can give
+the requester their item.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>After you've delivered the
+items requested, you'll
+receive a <RED>reward</COLOR>.<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_ANGRY><FP_RIGHT>This is the final thing
+to remember, and it's
+important!<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>If your bag is full...<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_ANGRY><FP_RIGHT>...You'll be forced to <RED>throw
+away one of your items</COLOR>, or
+<RED>lose your reward</COLOR>!<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_SAD><FP_RIGHT>You wouldn't want to lose
+the reward you worked so
+hard for, would you?<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>So make sure you have room
+for your reward when you go
+to fulfill a request!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>Let me explain the basics of
+requests to you. Do you want
+to hear it?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>First, you accept a request
+from the message board.<PAGE>Next, you try to acquire the
+item or items the person has
+requested.<PAGE>Finally, you give the items
+to the person that requested
+them.<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>If you deliver the requested
+item by the deadline, you'll
+receive a <RED>reward</COLOR>.<PAGE>Once you get your reward,
+you are done with the
+request!<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>And that's basically how it
+works.<PAGE>There are three things to
+remember about requests.<PAGE>The first is that there is a
+deadline.<PAGE>If you go past the deadline
+for a request, then you will
+fail to fulfill it.<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_SAD><FP_RIGHT>The person who requested the
+item won't accept it from
+you anymore.<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_HAPPY><FP_RIGHT>But don't worry! There are
+no penalties for failing!<PAGE>So don't be afraid to fail.
+Go ahead and take on
+requests!

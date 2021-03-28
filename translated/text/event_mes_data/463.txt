@@ -1,0 +1,81 @@
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Telolelolet! Kamu sudah
+memanen tanamanmu pertama
+kalinya! Selamat!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>Diingat-ingat ya, memanen
+itu salah satu hal terpen-
+ting dalam pekerjaanmu di-<PAGE>perkebunan!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>Cobalah untuk memanen sega-
+la jenis dari tanaman, oke?<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Lanjutkan usaha kerasmu
+itu!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Telolelolet! Kamu sudah
+memanen tanamanmu 10 buah!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>Apakah kamu sudah mengguna-
+kan sebuah pupuk untuk me-
+ningkatkan kualitas tana-<PAGE>manmu itu?
+Kamu harus! Itu akan mem-
+bantumu sangat!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>Masih cukup banyak tanaman
+yang harus dicoba untuk di-
+panen!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Lanjutkan usaha kerasmu
+itu!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Telolelolet! Kamu sudah
+memanen tanamanmu 20 buah!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>Kamu pastinya sangat pena-
+saran untuk memanen banyak
+jenis dari tanaman!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>Jika kamu belum melakukan-
+nya, kamu harus mencoba
+menanam pohon buah-buahan!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Lanjutkan usaha kerasmu
+itu!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Telolelolet! Kamu sudah
+memanen tanamanmu 30 buah!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>Kamu benar-benar menyukai
+merawat tanaman, benarkan?<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>Dan ini sungguh bagus untuk
+memanen tanaman yang kamu
+rawat sendiri!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Lanjutkan usaha kerasmu
+itu!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Telolelolet! Kamu sudah 
+memanen dari segala jenis 
+tanaman yang ada! Selamat!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Ini benar-benar menakjubkan
+bagaimana kamu menyukai me-
+rawat tanaman! Kamu master!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>Kamu benar-benar
+super!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>Kamu itu membuatku ingin
+mencoba memanen sesuatu!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Oh, biarkan aku memberikan
+sebuah saran!<PAGE>Jika kamu ingin mendapatkan
+yang lebih, maka tanam
+<RED>nanas</COLOR>!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Lanjutkan usaha kerasmu
+itu!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><HIDE_NAME><FACE_HGODDES><FACE_NORMAL><FP_LEFT><HIDE_FACE>Telolelolet! Kamu sudah
+memanen tanamanmu pertamamu!
+Selamat!<PAGE>btw, apakah kamu sudah
+mengetahui siapa aku?<PAGE>Aku akan memberitahukanmu
+jika kamu dapat menemukan
+aku!<PAGE>Lanjutkan usaha kerasmu
+itu!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><HIDE_NAME><FACE_HGODDES><FACE_NORMAL><FP_LEFT><HIDE_FACE>Telolelolet! Kamu sudah
+memanen tanamanmu 10 buah!<PAGE>btw, apakah kamu sudah
+mengetahui siapa aku?<PAGE>Aku akan memberitahukanmu
+jika kamu dapat menemukan
+aku!<PAGE>Lanjutkan usaha kerasmu
+itu!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><HIDE_NAME><FACE_HGODDES><FACE_NORMAL><FP_LEFT><HIDE_FACE>Telolelolet! Kamu sudah
+memanen tanamanmu 20 buah!<PAGE>btw, apakah kamu sudah
+mengetahui siapa aku?<PAGE>Aku akan memberitahukanmu
+jika kamu dapat menemukan
+aku!<PAGE>Lanjutkan usaha kerasmu
+itu!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><HIDE_NAME><FACE_HGODDES><FACE_NORMAL><FP_LEFT><HIDE_FACE>Telolelolet! Kamu sudah
+memanen tanamanmu 30 buah!<PAGE>btw, apakah kamu sudah
+mengetahui siapa aku?<PAGE>Aku akan memberitahukanmu
+jika kamu dapat menemukan
+aku!<PAGE>Lanjutkan usaha kerasmu
+itu!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><HIDE_NAME><FACE_HGODDES><FACE_NORMAL><FP_LEFT><HIDE_FACE>Telolelolet! Kamu sudah 
+memanen dari segala jenis 
+tanaman yang ada! Selamat!<PAGE>btw, apakah ini saatnya
+kamu mengetahui siapa aku?<PAGE>Aku pikir akan menampakkan
+diriku didepan kolam untuk
+ditemukan...<PAGE>Lanjutkan usaha kerasmu
+itu!

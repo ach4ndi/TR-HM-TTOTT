@@ -1,0 +1,61 @@
+<FACE_POS_RIGHT><FACE_HIRO><FACE_NORMAL><FP_RIGHT>Oh, <MYNAME>!
+Ini sebuah bulu biru?<PAGE>Ini ini... balasanmu untuk
+lamaranku dulu itu?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_NORMAL><FP_RIGHT>Ah-ha...<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_HAPPY><FP_RIGHT>Aku terlalu...
+Terlalu gembira! hahahaha!<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_NORMAL><FP_RIGHT>Aku pikir aku gagal. Sudah
+berapa kali aku sudah di-
+tolak, mentah-mentah pula.<PAGE>Aku sudah mau menyerah ini,
+tapi...<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_HAPPY><FP_RIGHT>Aku senang bahwa diterima!<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_SHOCK><FP_RIGHT>Oh, <MYNAME>,
+Terima kasih atas kamu
+sudah memilihku!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_HAPPY><FP_RIGHT>Aku akan membuatmu bahagia!
+Tidak akan gagal, aku
+janji! Jadi tetaplah disisi-<PAGE>ku selama-lamanya.<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_SHOCK><FP_RIGHT>...\u270a\u270a...\u270a\u270aAku mencintai
+kamu, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_HAPPY><FP_RIGHT>Apakah kita akan memberitahu-
+kan Dokter Ayame mengenai
+hal ini?<PAGE>Dikarenakan dia sudah sangat
+ramah terhadap aku.<PAGE>Aku merasa aku harus mem-
+beritahukannya terlebih
+dahulu.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_AYAME><FACE_HAPPY><FP_LEFT>Oh, oh. Selamat ya!
+Aku sangat senang untuk
+kalian berdua!<PAGE><FACE_POS_LEFT><FACE_AYAME><FACE_NORMAL><FP_LEFT>Uh kapan pernikahannya di-
+laksanakan?<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_NORMAL><FP_RIGHT>Oh, kami masih belum menen-
+tukan kapan tanggal akan
+dimulai...<PAGE><FACE_POS_LEFT><FACE_AYAME><FACE_HAPPY><FP_LEFT>Tapi ini pastinya sebentar
+lagikan. Seperti seminggu
+dari sekarangkan?<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_SAD><FP_RIGHT>Apa? Kenapa kamu yang menen-
+tukan tanggal pernikahan
+kita?<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_ANGRY><FP_RIGHT>Kita butuh waktu untuk
+membicarakan hal ini...<PAGE><FACE_POS_LEFT><FACE_AYAME><FACE_NORMAL><FP_LEFT>Ah, tapi <MYNAME> ini
+seorang gadis yang popular,
+jika kamu tahu itu!<PAGE><FACE_POS_LEFT><FACE_AYAME><FACE_HAPPY><FP_LEFT>Kamu pastinya tidak mau
+ada seseorang yang mencuri-
+nya dari tanganmu, benar-<PAGE>kan? hehehe<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_NORMAL><FP_RIGHT>Oh! Benar juga!<PAGE><FACE_POS_LEFT><FACE_AYAME><FACE_NORMAL><FP_LEFT>...\u270a\u270aOh, Aku hanya bercanda
+kok!<PAGE><FACE_POS_LEFT><FACE_AYAME><FACE_HAPPY><FP_LEFT><MYNAME> ini tampaknya
+tipe gadis yang bukan
+langsung lakukan kepadamu.<PAGE>Jadi sekarang aku menaruh
+tanganmu dengannya.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_AYAME><FACE_NORMAL><FP_LEFT><MYNAME>, bagaimana
+tentang harinya? Apa oke
+seminggu dari sekarang huh?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_AYAME><FACE_HAPPY><FP_LEFT>Bagus!<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_NORMAL><FP_RIGHT>Jika itu diterima oleh 
+<MYNAME>, maka tidak
+ada masalah untuk bagianku.<PAGE><FACE_POS_LEFT><FACE_AYAME><FACE_HAPPY><FP_LEFT>Itu sudah diputuskan, maka
+aku akan membantu 
+<MYNAME> untuk merias<PAGE>diharinya.<PAGE><FACE_POS_LEFT><FACE_AYAME><FACE_NORMAL><FP_LEFT>Dihari pernikahan, kamu
+akan sangat sibuk selama
+seharian...<PAGE>Jadi patikan segala
+urusan perkebunanmu dise-
+lesaikan sebelum harinya.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_SHOCK><FP_RIGHT>Ini sepertinya mendadak...
+Tapi aku sangat menantikan-
+nya!

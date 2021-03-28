@@ -1,0 +1,38 @@
+<FACE_POS_RIGHT><FACE_DIEGO><FACE_NORMAL>Selamat datang ditoko serba
+ada Diego.<INPUT_KEYPAD>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIEGO><FACE_NORMAL><CHOICE_AB> Lihat barang.
+ dadah.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIEGO><FACE_NORMAL>Oh, okay.
+Kapan-kapan kesini lagi
+ya.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIEGO><FACE_SAD>Sepertinya uang kamu tidak
+mencukupi... Datang kembali
+jika sudah memiliki uang!<INPUT_KEYPAD>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIEGO><FACE_HAPPY>Terima kasih banyak!
+Ini keren!<INPUT_KEYPAD>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIEGO><FACE_SAD>Kelihatannya tidak pas di-
+masukkan kedalam tas.
+Karena sudah penuh.<INPUT_KEYPAD>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIEGO><FACE_NORMAL>Hm? Apa berubah pikiran?
+Apa ada yang hal yang
+diperlukan?<INPUT_KEYPAD>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIEGO><FACE_NORMAL>Itu berharga <RED><VAR_0>G</COLOR>.
+<CHOICE_AB> Beli.
+ Lupakan.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIEGO><FACE_NORMAL>Totalnya <RED><VAR_1>G</COLOR>
+untuk tiap
+<VAR_0>!<PAGE>Berapa banyak?<INPUT_KEYPAD>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIEGO><FACE_SAD>Anda datangnya telat.
+Karena hari ini sudah
+terjual habis.<INPUT_KEYPAD>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIEGO><FACE_NORMAL>No item left MSG

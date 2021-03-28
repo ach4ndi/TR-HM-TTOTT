@@ -1,0 +1,790 @@
+<FACE_POS_CENTER><HIDE_NAME><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Ah, dan kamu itu?
+<MYNAME>, hmm?<PAGE><FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Hmm? Nama aku?
+Aku <BLUE>Gombe</COLOR>.
+Senang berkenalan denganmu!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Apakah cuaca kemarin itu
+sungguh menyenangkan, hmm?
+Badai itu sungguh keren!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Apakah kamu memiliki
+waktu luang buatku?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Apakah kamu memiliki
+waktu luang buatku?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Apakah kamu memiliki
+waktu luang buatku?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_HAPPY><FP_RIGHT>Ahhh, ini untukku?<PAGE><FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Bukan? Oke, itu tampaknya
+sangat lucu.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_ANGRY><FP_RIGHT>Ah...ahhh...!
+Jauhkan itu dariku!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Apakah kamu memiliki
+waktu luang untuuku?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Hmm, yang kamu punya itu su-
+ngguh menarik. Tampaknya per
+nah kulihat disuatu tempat.<PAGE><FACE_POS_CENTER><FACE_GOMBE><FACE_HAPPY><FP_RIGHT>Ahhhhh! Sebuah Bulu Biru!!
+Dan untuk siapa itu?<PAGE>Apakah kamu akan memberi-
+tahukan orang tua ini?<PAGE><FACE_POS_CENTER><FACE_GOMBE><FACE_SAD><FP_RIGHT>Tidak? Awww. Tidak satupun
+orang yang akan memberi-
+tahukanku gosip yang bagus.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Untukku, hmm?
+Tida, tidak, tidak.
+Taruh itu jauh jauh ya.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Kumohon, aku sudah menerima
+semua hadiah yang bisa ku-
+terima untuk hari ini.<PAGE>Jadi, maaf kalau aku
+menolak hadiah lainnya.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Apakah kamu memiliki
+waktu luang buatku?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Apakah kamu memiliki
+waktu luang buatku?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Hmm? Apa yang kamu pikirkan
+disaat kamu melakukan hal
+itu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_HAPPY><FP_RIGHT>Yippee!!<PAGE>Kamu memberikan orang tua
+ini sebuah hal yang bagus
+dihari ulang tahunnya.<PAGE>Pastinya aku akan memakan
+semuanya, pasti! kurang!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_HAPPY><FP_RIGHT>Mmmm, sebuah <RED>Mangkuk sushi</COLOR>, ya?
+Jangan pikirkan kalau aku
+terlihat seperti ini.<PAGE>Oh sungguh terasa, oh ya!
+Aku sungguh senang untuk
+menerimanya!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Apakah kamu memiliki
+waktu luang buatku?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Apakah kamu memiliki
+waktu luang buatku?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_HAPPY><FP_RIGHT>Ahhh, ini untukku?
+Sebuah hadiah ulang tahun?<PAGE>Bagaimana kamu mengetahuinya,
+hmm?<PAGE>Dan itu sebuah hadiah yang
+aku suka. Kamu itu membuat
+orang tua ini bahagia!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_HAPPY><FP_RIGHT>Ahh, <MYNAME>. Kamu tahu
+apa yang aku suka. Hee-hee.
+Orang tua ini bahagia!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_HAPPY><FP_RIGHT>Ahh, 
+Sebuah hadiah ulang tahun.
+Sungguh baiknya.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Terima kasih, <MYNAME>!
+Sungguh baiknya.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Itu membuat orang tua ini
+menangis!<PAGE>Kenapa aku ingin kek begi-
+tuan, dan ini dihari ulang
+tahunku?<PAGE>Hmm, apakah kamu sedang
+bercanda ya? Jika betul,
+selera bercandamu buruk.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_ANGRY><FP_RIGHT>Apakah orang tua ini bisa
+lakukan apa dengan ini?<PAGE>Sepertinya aku akan memberi-
+kannya kepada Yun saja,
+hmm.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Apakah kamu benci dengan
+orang tua ini?<PAGE>Memberikan sesuatu yang aku
+benci ini, hmm?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Apakah kamu memiliki
+waktu luang buatku?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Ahh, sepertinya sudah lama
+semenjak terakhir kali aku
+memakan masakannya Nori.<PAGE><MYNAME>, Aku iri kepadamu.
+Seharusnya aku melarangnya
+untuk menikahi kamu!<PAGE><FACE_POS_CENTER><FACE_GOMBE><FACE_HAPPY><FP_RIGHT>Hee-hee, bercanda bercanda!
+Aku ingin kalian berdua
+bahagia selalu.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_HAPPY><FP_RIGHT><MYNAME>, apakah kamu
+senang disaat kamu menikah?
+Mungkin aku juga, hmm?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Badai, badai!
+Hee-hee, oh tidak!
+Aku ingin pergi keluar...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_HAPPY><FP_RIGHT>Badai salju!! Hee-hee!!
+Aku yakin besok akan lebih
+menyenangkan!!<PAGE>Aku senang membuat jejak
+ditempat baru dituruni
+salju.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_HAPPY><FP_RIGHT>Ahh, <MYNAME>, Aku senang
+karena kamu sudah ada di-
+sini.<PAGE>Melihatmu saja sudah membu-
+at orang tua ini bahagia.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_HAPPY><FP_RIGHT>Disaat orang bekerja seperti
+anjing, mereka nantinya
+akan merasa kecapekan.<PAGE>Hal terbaiknya disaat beker-
+ja itu harusnya dilakukan
+dengan santai, ya kan?<PAGE>Itulah apa yang diajarkan
+oleh kakekku dulu, hmm?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Menjadi tua seperti aku dan
+kamu akan belajar untuk
+meluangkan waktu liburan.<PAGE>Jika setiap harinya itu
+adalah tanggal merah.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Kamu pastinya berpikir
+bahwa orang tua ini selalu
+bersanda gurai, tapi...<PAGE>tidak tidak, tidak selalu,
+hmm?<PAGE><FACE_POS_CENTER><FACE_GOMBE><FACE_HAPPY><FP_RIGHT>Aku juga menghabiskan waktu
+untuk memikirkan sebuah
+lelucon untuk dimainkan<PAGE>keseseorang!
+Heh heh heh.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Ah, apakah kamu mempunyai
+sebuah pertanyaan tentang
+tanaman, hmm?<PAGE>Oh aku tidak tahu akan
+hal itu.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Apakah kamu datang kesini
+untuk bermain dengan orang
+tua ini? Tidak, terlalu<PAGE>sibuk ya? Wah wah wah
+pemuda zaman now, terlalu
+sombong untuk diajak!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Tahu lelucon yang bagus,hmm?
+Tidak? sungguh disayangkan.<PAGE>Kamu lebih baik belajar
+beberapa lelucon itu!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Apakah kamu memiliki
+waktu luang buatku?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Apakah kamu memiliki
+waktu luang buatku?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Apakah kamu memiliki
+waktu luang buatku?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Apakah kamu memiliki
+waktu luang buatku?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Apakah kamu memiliki
+waktu luang buatku?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Apakah kamu memiliki
+waktu luang buatku?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Apakah kamu memiliki
+waktu luang buatku?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Apakah kamu memiliki
+waktu luang buatku?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Apakah kamu memiliki
+waktu luang buatku?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Apakah kamu memiliki
+waktu luang buatku?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Apakah kamu memiliki
+waktu luang buatku?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Apakah kamu memiliki
+waktu luang buatku?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Apakah kamu memiliki
+waktu luang buatku?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Apakah kamu memiliki
+waktu luang buatku?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Apakah kamu memiliki
+waktu luang buatku?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Apakah kamu memiliki
+waktu luang buatku?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Apakah kamu memiliki
+waktu luang buatku?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Apakah kamu memiliki
+waktu luang buatku?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Apakah kamu memiliki
+waktu luang buatku?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Apakah kamu memiliki
+waktu luang buatku?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Apakah kamu memiliki
+waktu luang buatku?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Apakah kamu memiliki
+waktu luang buatku?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Apakah kamu memiliki
+waktu luang buatku?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Apakah kamu memiliki
+waktu luang buatku?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Apakah kamu memiliki
+waktu luang buatku?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Apakah kamu memiliki
+waktu luang buatku?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Apakah kamu memiliki
+waktu luang buatku?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Apakah kamu memiliki
+waktu luang buatku?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Apakah kamu memiliki
+waktu luang buatku?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Apakah kamu memiliki
+waktu luang buatku?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Apakah kamu memiliki
+waktu luang buatku?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Apakah kamu memiliki
+waktu luang buatku?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Apakah kamu memiliki
+waktu luang buatku?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Apakah kamu memiliki
+waktu luang buatku?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Apakah kamu memiliki
+waktu luang buatku?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Apakah kamu memiliki
+waktu luang buatku?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Ingin ikutan juga, hmm?
+Mungkin aku juga ikutan jika
+sesuatu yang memaksaku.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Apakah kamu memiliki
+waktu luang buatku?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Apakah kamu memiliki
+waktu luang buatku?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Itu sebenarnya tampak mirip
+denganmu, kamu tahukan.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_HAPPY><FP_RIGHT>Ah, Aku senang bermain
+dengan binatang yang aktrak-
+tif itu!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_SAD><FP_RIGHT>A-Aku memiiki sesuatu yang
+harus dilakukan sekarang.
+Maafkan aku ya.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Hmm. Aku pernah
+melihatnya disekitar sini
+sebelumnya.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Apakah kamu memiliki
+waktu luang buatku?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Apakah kamu memiliki
+waktu luang buatku?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Apakah kamu memiliki
+waktu luang buatku?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Apakah kamu memiliki
+waktu luang buatku?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Apakah kamu memiliki
+waktu luang buatku?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Apakah kamu memiliki
+waktu luang buatku?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Apakah kamu memiliki
+waktu luang buatku?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Apakah kamu memiliki
+waktu luang buatku?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Apakah kamu memiliki
+waktu luang buatku?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Apakah kamu memiliki
+waktu luang buatku?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Apakah kamu memiliki
+waktu luang buatku?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Apakah kamu memiliki
+waktu luang buatku?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_HAPPY><FP_RIGHT>Untuk... Festival bunga?
+Kamu itu membuat orang tua
+ini senang.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Apakah kamu memiliki
+waktu luang buatku?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Apakah kamu memiliki
+waktu luang buatku?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Apakah kamu memiliki
+waktu luang buatku?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Apakah kamu memiliki
+waktu luang buatku?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Apakah kamu memiliki
+waktu luang buatku?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Apakah kamu memiliki
+waktu luang buatku?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_HAPPY><FP_RIGHT>Hee-hee, sebuah hadiah!
+Apa ya isinya?<PAGE>Aku gak sabar untuk mengin-
+tipinya!
+hehehe
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_HAPPY><FP_RIGHT>Ini sesuatu yang membuat
+hati orang tua ini tetap
+hangat, karena gadis<PAGE>seperti mu itu tetap ber-
+teman denganku, hmmmmm?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Apakah kamu memiliki
+waktu luang buatku?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Beritahu aku mengenai
+<VAR_1>!<PAGE>Apa yang popular yang ada
+disana sekarang, hmm?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Apakah kamu memiliki
+waktu luang buatku?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Apakah kamu memiliki
+waktu luang buatku?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Apakah kamu memiliki
+waktu luang buatku?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Ahem!
+Apa untuk selanjutnya ya,
+hmm?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_SAD><FP_RIGHT>Ah, tampaknya sudah larut
+malam! Sudah cukup lelucon-
+nya untuk hari ini...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_HAPPY><FP_RIGHT>Disekitar sini selalu ada
+hal yang membuat sesuatu
+yang lucu!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Apakah kamu memiliki
+waktu luang buatku?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Apakah kamu memiliki
+waktu luang buatku?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Apakah kamu memiliki
+waktu luang buatku?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Apakah kamu memiliki
+waktu luang buatku?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Apakah kamu memiliki
+waktu luang buatku?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Apakah kamu memiliki
+waktu luang buatku?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Apakah kamu memiliki
+waktu luang buatku?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Apakah kamu memiliki
+waktu luang buatku?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_HAPPY><FP_RIGHT>Kita memenangkan festival
+memasak, <MYNAME>! dan kamu
+sudah menyemangati kami!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_SAD><FP_RIGHT>Ah, maafkan kami, <MYNAME>.<PAGE>Kamu sudah menyemangati
+kami, tapi akhirnya kita
+kalah.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Kenapa tinggal di Bluebell,
+hmm?<PAGE>Pindah kemari, dan maka
+memenangkan festival mema-
+sak untuk kami!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Apakah kamu memiliki
+waktu luang buatku?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Apakah kamu memiliki
+waktu luang buatku?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_SAD><FP_RIGHT>Festival memasaknya...
+Kita kalah...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Apakah kamu memiliki
+waktu luang buatku?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Ah, itu hampir saja ya!
+Orang tua ini mungkin sedi-
+kit lebih baik, hmm?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_HAPPY><FP_RIGHT>Festival, festival!
+Ah, aku menyukainya!
+Sungguh menyenangkan!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Apa yang sedang kamu pikir-
+kan? Kamu sudah melewatinya!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Apakah kamu memiliki
+waktu luang buatku?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Ahh, apa yang bisa kamu
+lakukan? Sepertinya ini
+juga susah buatmu.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Apakah kamu memiliki
+waktu luang buatku?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Apakah kamu memiliki
+waktu luang buatku?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Apakah kamu memiliki
+waktu luang buatku?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Apakah kamu memiliki
+waktu luang buatku?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Apakah kamu memiliki
+waktu luang buatku?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Apakah kamu memiliki
+waktu luang buatku?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Apakah kamu memiliki
+waktu luang buatku?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Apakah kamu memiliki
+waktu luang buatku?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Apakah kamu memiliki
+waktu luang buatku?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Apakah kamu memiliki
+waktu luang buatku?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Apakah kamu memiliki
+waktu luang buatku?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Apakah kamu memiliki
+waktu luang buatku?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Apakah kamu memiliki
+waktu luang buatku?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Apakah kamu memiliki
+waktu luang buatku?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Apakah kamu memiliki
+waktu luang buatku?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Apakah kamu memiliki
+waktu luang buatku?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Apakah kamu memiliki
+waktu luang buatku?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Apakah kamu memiliki
+waktu luang buatku?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Apakah kamu memiliki
+waktu luang buatku?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Apakah kamu memiliki
+waktu luang buatku?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Apakah kamu memiliki
+waktu luang buatku?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Ah, festival ini seharusnya
+menyenangkan bukan, hmm?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Apakah kamu memiliki
+waktu luang buatku?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Apakah kamu memiliki
+waktu luang buatku?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Apakah kamu memiliki
+waktu luang buatku?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Apakah kamu memiliki
+waktu luang buatku?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Apakah kamu memiliki
+waktu luang buatku?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Apakah kamu memiliki
+waktu luang buatku?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Apakah kamu memiliki
+waktu luang buatku?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Apakah kamu memiliki
+waktu luang buatku?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Apakah kamu memiliki
+waktu luang buatku?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Apakah kamu memiliki
+waktu luang buatku?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Apakah kamu memiliki
+waktu luang buatku?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Apakah kamu memiliki
+waktu luang buatku?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Apakah kamu memiliki
+waktu luang buatku?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Apakah kamu memiliki
+waktu luang buatku?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Apakah kamu memiliki
+waktu luang buatku?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Apakah kamu memiliki
+waktu luang buatku?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Apakah kamu memiliki
+waktu luang buatku?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Apakah kamu memiliki
+waktu luang buatku?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Apakah kamu memiliki
+waktu luang buatku?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Selamat pagi, <MYNAME>.
+Apa ada sesuatu yang
+menarik, hmm?<PAGE>Jika ada, beritahu orang
+tua ini ya!!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Selamat pagi, <MYNAME>.<PAGE>Apakah kamu mempunyai waktu
+luang untuk menemani orang
+tua ini?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Selamat pagi.
+Sepertinya kamu tampak
+sibuk, hmm?<PAGE>Tapi kamu dapat meluangkan
+waktu untuk menceritakan
+sebuah lelucon untuk orang<PAGE>tua ini, apa bisakah?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Beritahu aku sesuatu yang
+lucu, <MYNAME>.<PAGE>Aku tahu pastu adakan, hmm?
+Kamu tidak dapat membohongi
+aku!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_HAPPY><FP_RIGHT>Tampaknya sekarang sudah
+ditengah hari, <MYNAME>.<PAGE>Apakah kamu sudah membuat
+semua hal yang lucu dihari
+ini? Apa menyenangkan?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_HAPPY><FP_RIGHT><MYNAME>! Mari bermain
+petak umpet atau lomba
+lari yuk!<PAGE>Jadi inget pas mengunjungi
+sebuah desa. Bertemu seorang
+pemilik peternakan sapi.<PAGE>Kalau gak salah nama cucu-
+nya itu may. Lalu dia me-
+nyapaku pas aku lewat di-<PAGE>sekitar peternakan, eh
+malah diatak main petak
+umpet bersama cucunya.<PAGE>Hal yang lucu pada saat
+itu dia terjegur kesungai.
+hmmmmmmmmm....
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Ah, dah malam...membosankan!
+Apakah kamu berpikiran hal
+yang sama, hmm?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Selamat Malam. Ini sudah
+saatnya orang tua ini tidur
+dikasur,...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Sudah tidak ada hal yang
+lucu dilakukan disaat malam
+hari. Ah, sungguh membosan-<PAGE>kan! Aku tidak sabar untuk
+keesokkan harinya!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Apakah kamu memiliki
+waktu luang buatku?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Apakah kamu memiliki
+waktu luang buatku?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Apakah kamu memiliki
+waktu luang buatku?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Ah, jika kamu membutuhkan
+sesuatu dari tokoku, kamu
+dapat berbicara kepadaku<PAGE>dari depan tokoku ya, dan
+berbicara kepadaku didepan
+konternya, hmm?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Hmm, masih ada waktukan?
+Aku ingin sesuatu yang
+menyenangkan!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Saat ini tokoknya sudah
+buka. Tampaknya senang-
+senangnya nanti aja ya.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Masakkan Yun itu sungguh
+lezat! Dan itu sebanding
+dengan masakannya Nori,hmm?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Aku merapikan tokoku disaat
+Yun sedang libur.
+Aku tidak bisa memasak, hmm.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Hee-hee, Aku pikir me-
+ngenai lelucon kepada Yun!
+Mungkin naruh seekor ular...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Apakah kita akan pergi
+untuk bersenang-senang, hmm?
+Hee-hee!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Diwaktu yang lalu, disaat
+aku sedang bermain petak
+umpet bersama Rahi disini,<PAGE>itu membuat Ina marah-marah
+hmm?<PAGE>Ah, seharusnya dia tidak
+marah-marah kek gitu!<PAGE>Dia hanya menambahkan
+kerutan yang ada diwajahnya!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Rumah ini sangat cocok
+untuk bermain!
+Tapi itu membuat Ina marah..
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Apakah kamu memiliki
+waktu luang buatku?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Apakah kamu memiliki
+waktu luang buatku?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Apakah kamu memiliki
+waktu luang buatku?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Apakah kamu memiliki
+waktu luang buatku?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Apakah kamu memiliki
+waktu luang buatku?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Apakah kamu memiliki
+waktu luang buatku?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Apakah kamu memiliki
+waktu luang buatku?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Apakah kamu memiliki
+waktu luang buatku?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Apakah kamu memiliki
+waktu luang buatku?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_HAPPY><FP_RIGHT><MYNAME>, apakah kamu bisa
+memasakan masakan itu untuk
+orang tua ini, hmm?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_HAPPY><FP_RIGHT>Ahhh, Festival hari ini,
+memang festival lah :v
+Betapa menyenangkan!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_HAPPY><FP_LEFT>Selamat, <MYNAME>!
+Kamu sudah membuat orang
+tua ini bahagia.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Aww, Aku ingin kita semua
+untuk mengadakan sebuah
+perlombaan lari...<PAGE>Betapa mengecewakan...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Aku ingin kepala desa Ina
+membuat suatu festival di-
+mana kita dapat bermain<PAGE>bersama-sama. Tapi seperti-
+nya tidak ya, hmm?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Festival hari ini sungguh
+menyenangkan, ya, tapi
+kalau bermain petak umpet<PAGE>itu akan lebih menyenang-
+kan!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Memenangkan festival tanam-
+an ini sungguh pencapaian
+besar loh, hmm?<PAGE>Dikarenakan aku menjualkan
+bibit itu kepadamu, orang
+tua ini ikut senang juga.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Pheww, Aku kalah!
+Waktu kedepannya, orang tua
+ini akan memenangkannya!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Awwwww.
+Aku kalah...<PAGE>Itu sebuah tragedi seumuran
+orang tua ini.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Ah, itu sungguh bagus!
+Aku tidak sabar untuk me-
+nunggunya ditahun depan!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Ah, apakah festival itu
+cukup menyenangkan?
+Walaupun kamu masih muda.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Ah, orang tua ini ingin
+setiap harinya kita meraya-
+kan sebuah festival, hmm?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Ah, untuk mengalahkanku di-
+berbagai kontes itu bukan
+sebuah lelucon...<PAGE>Pastinya kontesnya cukup
+menyenangkan, hmm?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_HAPPY><FP_RIGHT>Aku kalah! Aku kalah! Phoew!
+Tapi itu cukup menyenangkan!
+Kedepannya, aku akan menang!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Aku itu sudah ahli, tetapi
+tampaknya kamu sudah menga-
+lahkanku dengan adil.<PAGE>Ah, sepertinya orang tua
+ini harus belajar dari kamu
+yang lebih muda.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Apakah kamu memiliki
+waktu luang buatku?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Apakah kamu memiliki
+waktu luang buatku?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Apakah kamu memiliki
+waktu luang buatku?

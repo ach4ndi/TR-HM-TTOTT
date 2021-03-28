@@ -1,0 +1,123 @@
+<FP_NONE>Tanya tentang permintaan?
+<CHOICE_AB> Ya
+ Tidak
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hei, aku senang disaat kamu
+datang, kiddo! Aku menyukai
+orang yang apa aku suruh!<PAGE>Seperti aku janjikan, aku
+akan mengajarimu sesuatu yg
+sangat penting diketahui!<PAGE><RED>Bagaimana berteman dengan
+warga desa</COLOR>!<PAGE>Aku bertaruh kamu ingin
+mengetahuinya, huh?
+----------------------------|----------------------------------
+<FP_NONE><CHOICE_AB> Tolong beritahuku!
+ Tidak makasih.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_AYAME><FACE_HAPPY><FP_RIGHT>Tidak masalah, perhatikan
+ya. kiddo.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Dan itu cara kerjanya.
+Ingin dengarkan ulang?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Benarkah?<PAGE>Oke, kenapa tidak kamu
+mencoba kepada aku jika
+kamu sudah mengetahuinya?<PAGE>Berikan keaku apa yang
+aku <RED>minta</COLOR>, itu
+akan membuatku senang!<PAGE><FACE_POS_RIGHT><FACE_AYAME><FACE_HAPPY>Aku akan menunggunya!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Halo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Halo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Halo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Halo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_AYAME><FACE_HAPPY><FP_RIGHT>Bagus, kamu membawakannya!
+Makasih.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Kerja bagus! 
+Kamu memiliki potensial!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Itu tidak terlalu susah,
+benarkan?
+Sejak kamu melakukan hal<PAGE>yang bagus, aku akan mem-
+beritahumu mengenai yang
+berguna!<PAGE>Apakah kamu tahu bahwa kamu
+dapat <RED>memberikan hadiah ke
+warga desa</COLOR>?<PAGE>Untuk memberikan seseorang
+hadiah, bicara kepada mereka
+sambil <RED>memegang</COLOR> yang<PAGE>ingin kamu berikan kepada
+mereka.<PAGE><FACE_POS_RIGHT><FACE_AYAME><FACE_HAPPY>Jika mereka suka akan
+hadiahnya, mereka akan
+senang.<PAGE>Kamu akan lebih semakin
+dekat dengan mereka dan
+<RED>mereka akan menyukaimu</COLOR>.<PAGE><FACE_POS_RIGHT><FACE_AYAME><FACE_SAD>Tapi jika kamu memberikan
+mereka suatu yang dibenci..\u270a
+Mereka akan tidak suka<PAGE>kepadamu sedikit!<PAGE><FACE_POS_RIGHT><FACE_AYAME><FACE_NORMAL>Hmm? kamu khawatir akan
+memberikannya yang
+dibenci?\u270a\u270a<FACE_POS_RIGHT><FACE_AYAME><FACE_HAPPY>Jangan khawatir, kiddo!<PAGE><FACE_POS_RIGHT><FACE_AYAME><FACE_HAPPY>Jika kamu tidak mempunyai
+hadiah yang diberikan,
+cukup berbincang-bincang<PAGE>kepada mereka untuk
+menjadi teman yang baik!
+Jika kamu berbicara setiap<PAGE>harinya, kamu akan memper
+lajari apa yang mereka
+suka atau tidak suka.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Dikarenakan kamu melakukan
+hal yang bagus, aku mempu-
+nyai hadiah buatmu!<PAGE>Hanya pilih hadiahmu dari
+<RED>Layar hadiah</COLOR>...<PAGE>...dan pindahkan kedalam
+<RED>tas</COLOR>!
+Gimana mudahkan?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_AYAME><FACE_HAPPY><FP_RIGHT>Aku tahu kamu akan melaku-
+kan yang bagus, kiddo!
+Lakukan dengan baik!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Halo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Halo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Halo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Halo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Halo, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Untuk meningkatkan perteman-
+anmu sama orang, hanya<PAGE><RED>bicara kepada mereka</COLOR>
+setiap harinya.<PAGE><FACE_POS_RIGHT><FACE_AYAME><FACE_HAPPY>Orang-orang secara alaminya
+akan menjadi teman baik<PAGE>dimana setiap hari diajak
+bicara!<PAGE><FACE_POS_RIGHT><FACE_AYAME><FACE_NORMAL>Jadi, aturan umum dari
+pertemanan ini:
+Selalu menyapa disaat ketemu<PAGE>Menyelesaikan permintaan,
+dan menjadi bagian dari
+peristiwa desa, juga bagus.
+----------------------------|----------------------------------
+<FP_NONE>Bagaimana disekitar 
+sini aja?
+----------------------------|----------------------------------
+<FP_NONE>Bagaimana disekitar 
+sini aja?
+----------------------------|----------------------------------
+<FP_NONE>Bagaimana disekitar 
+sini aja?
+----------------------------|----------------------------------
+<FP_NONE>Bagaimana disekitar 
+sini aja?
+----------------------------|----------------------------------
+<FP_NONE>Bagaimana disekitar 
+sini aja?
+----------------------------|----------------------------------
+<FP_NONE>Bagaimana disekitar 
+sini aja?
+----------------------------|----------------------------------
+<FP_NONE>Bagaimana disekitar 
+sini aja?
+----------------------------|----------------------------------
+<FP_NONE>Bagaimana disekitar 
+sini aja?
+----------------------------|----------------------------------
+<FP_NONE>Bagaimana disekitar 
+sini aja?

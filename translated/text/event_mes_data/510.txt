@@ -1,0 +1,85 @@
+<FACE_POS_LEFT><HIDE_NAME><FACE_HOWARD><FACE_NORMAL><FP_LEFT><HIDE_FACE>Oh, <MYNAME>!
+Apakah kamu sudah bangun?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><HIDE_NAME><FACE_HOWARD><FACE_NORMAL><FP_RIGHT>Senang untuk bertemu dengan-
+mu! Maaf kalau sudah memba-
+ngunkanmu sepagi ini!<PAGE><FACE_POS_RIGHT><FACE_HOWARD><FACE_HAPPY><FP_RIGHT>Nama aku <BLUE>Howard</COLOR>!
+Aku menjalankan sebuah kafe
+disini, Bluebell!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HOWARD><FACE_HAPPY><FP_RIGHT>Aku datang kemari untuk mem-
+berikan sebuah hadiah per-
+alatan dapur!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HOWARD><FACE_NORMAL><FP_RIGHT>Maaf untuk merepotkanmu,
+tapi aku datang ini untuk
+memberikanmu sebuah peralat-<PAGE>an dapur sebagai hadiah
+untukmu!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HOWARD><FACE_HAPPY><FP_RIGHT>Mari ketempat dapurmu itu
+...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_HOWARD><FACE_NORMAL><FP_LEFT>Ini sebuah <RED>panci</COLOR>!<PAGE>Ada banyak resep yang membu-
+tuhkan panci sebagai alat
+memasaknya!<PAGE>Gunakan, dan ini akan mem-
+buatmu bisa menjangkau le-
+bih banyak resep, <MYNAME>!<PAGE><FACE_POS_LEFT><FACE_HOWARD><FACE_HAPPY><FP_LEFT>Pastikan gunakan dengan
+baik ya!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_HOWARD><FACE_NORMAL><FP_LEFT>Dan juga, kamu tahukan cara
+untuk memperlajari resep,
+<MYNAME>?
+----------------------------|----------------------------------
+<CHOICE_AB> Beritahu aku!
+ Aku sudah tahu.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_HOWARD><FACE_HAPPY><FP_LEFT>Oke kalau begitu! Biarkan
+aku menjelaskan kepadamu!<PAGE><FACE_POS_LEFT><FACE_HOWARD><FACE_NORMAL><FP_LEFT>Ada dua cara untuk memperla-
+jari sebuah resep.<PAGE>Pertama membaca sebuah buku
+resep dan mengikuti intruk-
+si yang ada.<PAGE><FACE_POS_LEFT><FACE_HOWARD><FACE_HAPPY><FP_LEFT>Jika kamu membuatnya dengan
+benar, maka kamu berhasil
+memasak dengan resep itu!<PAGE><FACE_POS_LEFT><FACE_HOWARD><FACE_NORMAL><FP_LEFT>Dan kedua, dengan memikirkan
+sebuah resep baru dimana
+kamu sudah mempunyai sebuah<PAGE><RED>inspirasi!</COLOR><PAGE>Jika kamu sering memasak,
+terkadang kamu akan memi-
+kirkan sebuah resep baru!<PAGE><FACE_POS_LEFT><FACE_HOWARD><FACE_HAPPY><FP_LEFT>Walaupun disaat kamu ingin
+membuat banyak makanan
+sejenis, kamu seharusnya<PAGE>membuatnya satu per satu!<PAGE>Itulah caranya, kamu akan
+memiliki kesempatan lebih
+untuk terinspirasi!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_HOWARD><FACE_NORMAL><FP_LEFT>Jadi itulah bagaimana cara-
+nya untuk memperlajari se-
+buah resep! Mengerti?
+----------------------------|----------------------------------
+<CHOICE_AB> Ya, Paham!
+ Jelaskan lagi.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_HOWARD><FACE_NORMAL><FP_LEFT>Oke-oke, biarkan aku menje-
+laskannya lagi,...<PAGE><FACE_POS_LEFT><FACE_HOWARD><FACE_NORMAL><FP_LEFT>Ada dua cara untuk memperla-
+jari sebuah resep.<PAGE>Pertama membaca sebuah buku
+resep dan mengikuti intruk-
+si yang ada.<PAGE><FACE_POS_LEFT><FACE_HOWARD><FACE_HAPPY><FP_LEFT>Jika kamu membuatnya dengan
+benar, maka kamu berhasil
+memasak dengan resep itu!<PAGE><FACE_POS_LEFT><FACE_HOWARD><FACE_NORMAL><FP_LEFT>Dan kedua, dengan memikirkan
+sebuah resep baru dimana
+kamu sudah mempunyai sebuah<PAGE><RED>inspirasi!</COLOR><PAGE>Jika kamu sering memasak,
+terkadang kamu akan memi-
+kirkan sebuah resep baru!<PAGE><FACE_POS_LEFT><FACE_HOWARD><FACE_HAPPY><FP_LEFT>Walaupun disaat kamu ingin
+membuat banyak makanan
+sejenis, kamu seharusnya<PAGE>membuatnya satu per satu!<PAGE>Itulah caranya, kamu akan
+memiliki kesempatan lebih
+untuk terinspirasi!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_HOWARD><FACE_HAPPY><FP_LEFT>Keren banget! Aku tahu bahwa
+kamu bisa, <MYNAME>!<PAGE><FACE_POS_LEFT><FACE_HOWARD><FACE_NORMAL><FP_LEFT>Kamu juga bisa mendapatkan
+sebuah <RED>penggorengan</COLOR> dan
+sebuah <RED>rak bumbu</COLOR>!<PAGE>Aku akan memasang sebuah
+catatan pemberitahuan di
+papan permintaan disaat itu<PAGE>dibutuhkan dan itulah saat-
+saat kamu dapat memilikinya!<PAGE><FACE_POS_LEFT><FACE_HOWARD><FACE_HAPPY><FP_LEFT>Mari kulihat...<PAGE>Kenapa kamu tidak mencoba
+panci barumu itu seperti
+membuat <RED>susu panas</COLOR> aja?<PAGE><FACE_POS_LEFT><FACE_HOWARD><FACE_NORMAL><FP_LEFT>Tampaknya, waktunya sudah
+keburu pergi...<PAGE>Kapan-kapan kunjungi kafeku
+ya, <MYNAME>!

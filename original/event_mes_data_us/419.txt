@@ -1,0 +1,171 @@
+<FACE_POS_LEFT><FACE_CAM><FACE_NORMAL><FP_LEFT>Thanks for always stopping
+by to look at my flowers.<PAGE>Oh, \u270aspeaking of which...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_CAM><FACE_NORMAL><FP_LEFT>Hmm? What am I doing?<PAGE>...\u270aI was choosing
+flowers whose meaning
+fits the day.<PAGE><FACE_POS_LEFT><FACE_CAM><FACE_HAPPY><FP_LEFT>Here, let me tell you
+what one of these flowers
+means.<PAGE>Pardon me.
+
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_CAM><FACE_NORMAL><FP_LEFT>Today's is pink rose.
+It means "quality."<PAGE>Better crops make for
+better cooking.<PAGE>So we have to work hard
+to produce the best
+quality crops we can.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_CAM><FACE_NORMAL><FP_LEFT>Today's is marguerite.
+It means "a prediction
+of love."<PAGE><FACE_POS_LEFT><FACE_CAM><FACE_SHY><FP_LEFT>We can never predict how
+a romance will go.<PAGE><FACE_POS_LEFT><FACE_CAM><FACE_NORMAL><FP_LEFT>So sometimes it's nice to
+trust our feelings to
+fate.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_CAM><FACE_NORMAL><FP_LEFT>Today's is carnation.
+It means "filial love."<PAGE>It's important never to
+forget to be thankful
+for our mother's support.<PAGE>A carnation would be a
+great present for your
+mother.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_CAM><FACE_NORMAL><FP_LEFT>Today's is cherry blossom.
+It means "beauty."<PAGE>Animals love you because
+your heart is beautiful.<PAGE><FACE_POS_LEFT><FACE_CAM><FACE_HAPPY><FP_LEFT>Keep on taking good
+care of your animals!
+
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_CAM><FACE_NORMAL><FP_LEFT>Today's is chamomile.
+It means "perseverance."<PAGE>If anything bad happens to
+you today, don't let it
+stop you.<PAGE>Every problem has a
+solution.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_CAM><FACE_NORMAL><FP_LEFT>Today's is orange blossoms.
+They mean "generosity."<PAGE>It's important to have
+a generous heart.<PAGE><FACE_POS_LEFT><FACE_CAM><FACE_HAPPY><FP_LEFT>Maybe you should give
+someone a present today.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_CAM><FACE_NORMAL><FP_LEFT>Today's is pink rose.
+It means "thoughtfulness."<PAGE>It's important to always
+think about how your actions
+affect people and things.<PAGE>Try to be mindful of what
+you do, like remembering
+not to litter in the river.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_CAM><FACE_NORMAL><FP_LEFT>Today's is red rose.
+It means "love."<PAGE>Our everyday conversations
+can also express love.<PAGE>If you want to be friends
+with someone, trying talking
+to them every single day.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_CAM><FACE_NORMAL><FP_LEFT>Today's is sunflower.
+It means "longing."<PAGE>You always make people
+smile, <MYNAME>.
+<PAGE><FACE_POS_LEFT><FACE_CAM><FACE_HAPPY><FP_LEFT>I hope you never lose your
+enthusiasm for farming.
+Keep up the good work!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_CAM><FACE_NORMAL><FP_LEFT>Today's is lavender.
+It means "peaceful."<PAGE>Lavender has properties
+that relax you and
+help you de-stress.<PAGE>You should try to
+relax and take it
+easy today.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_CAM><FACE_NORMAL><FP_LEFT>Today's is peach blossoms.
+They mean "tranquility."<PAGE><FACE_POS_LEFT><FACE_CAM><FACE_HAPPY><FP_LEFT>If you got this flower,
+it must mean you're feeling
+satisfied with life today!<PAGE><FACE_POS_LEFT><FACE_CAM><FACE_NORMAL><FP_LEFT>Just keep on doing what
+you're doing.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_CAM><FACE_NORMAL><FP_LEFT>Today's is pineapple.
+It means "total perfection."<PAGE>It looks like everything
+will go your way today.
+<PAGE><FACE_POS_LEFT><FACE_CAM><FACE_HAPPY><FP_LEFT>Just have confidence in
+yourself, and you'll
+succeed.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_CAM><FACE_NORMAL><FP_LEFT>Today's is orange blossoms.
+They mean "generosity."<PAGE>It's important to have
+a generous heart.<PAGE><FACE_POS_LEFT><FACE_CAM><FACE_HAPPY><FP_LEFT>Maybe you should give
+someone a present today.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_CAM><FACE_NORMAL><FP_LEFT>Today's is gerbera.
+It means "progress."<PAGE>It's important to work
+towards a goal.<PAGE>If at first you don't
+succeed, try again.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_CAM><FACE_NORMAL><FP_LEFT>Today's is white rose.
+It means "cleanliness."<PAGE>It's important to keep
+clean. Have you been
+brushing your animals?<PAGE>You should go do that
+if you forgot.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_CAM><FACE_NORMAL><FP_LEFT>Today's is apple blossoms.
+They mean "lifting sadness."
+<PAGE>A friend of yours may be
+sad or worried about
+something.<PAGE>Try to listen to them.
+Sometimes people just need
+someone to listen.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_CAM><FACE_NORMAL><FP_LEFT>Today's is pineapple.
+It means "total perfection."<PAGE>It looks like everything
+will go your way today.
+<PAGE><FACE_POS_LEFT><FACE_CAM><FACE_HAPPY><FP_LEFT>Just have confidence in
+yourself and you'll succeed.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_CAM><FACE_NORMAL><FP_LEFT>Today's is orange blossoms.
+They mean "generosity."<PAGE>It's important to have
+a generous heart.<PAGE><FACE_POS_LEFT><FACE_CAM><FACE_HAPPY><FP_LEFT>Maybe you should give
+someone a present today.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_CAM><FACE_NORMAL><FP_LEFT>Today's is pink rose.
+It means "quality."<PAGE>Better crops make for
+better cooking.<PAGE>So we have to work hard
+to produce the best
+quality crops we can.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_CAM><FACE_NORMAL><FP_LEFT>Today's is snow drop.
+It means "hope."<PAGE>Are you doing errands
+for people?<PAGE>People in the village might
+be counting on you.
+You can do it!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_CAM><FACE_NORMAL><FP_LEFT>Today's is gentian.
+It means "worry."<PAGE>A friend of yours may be
+sad or worried about
+something.<PAGE>Try to listen to them.
+Sometimes people just need
+someone to listen.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_CAM><FACE_NORMAL><FP_LEFT>Today's is blue rose.
+It means "good luck."<PAGE>If you do good deeds,
+you'll be sure to have
+good luck.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_CAM><FACE_NORMAL><FP_LEFT>Today's is apple blossoms.
+They mean "regret."<PAGE>Don't put off until
+tomorrow what you can do
+today.<PAGE><FACE_POS_LEFT><FACE_CAM><FACE_SHY><FP_LEFT>If you put things off,
+you might end up
+regretting it. 
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_CAM><FACE_NORMAL><FP_LEFT>Today's is orange blossoms.
+They mean "generosity."<PAGE>It's important to have
+a generous heart.<PAGE><FACE_POS_LEFT><FACE_CAM><FACE_HAPPY><FP_LEFT>Maybe you should give
+someone a present today.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_CAM><FACE_NORMAL><FP_LEFT>Today's is pink rose.
+It means "thoughtfulness."<PAGE>It's important to always
+think about how your actions
+affect people and things.<PAGE>Try to be mindful of what
+you do, like remembering
+not to litter in the river.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_CAM><FACE_HAPPY><FP_LEFT>Some flowers have more
+than one meaning.
+<PAGE>So you should think of
+this like a horoscope.<PAGE><FACE_POS_LEFT><FACE_CAM><FACE_NORMAL><FP_LEFT>I'll tell you about another
+flower next time you stop
+by. See you later!

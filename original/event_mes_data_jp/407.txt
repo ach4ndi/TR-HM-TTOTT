@@ -1,0 +1,16 @@
+<FACE_POS_LEFT><FACE_YING><FACE_NORMAL><FP_LEFT>…。<PAGE><FACE_POS_RIGHT><FACE_SHENG><FACE_NORMAL><FP_RIGHT>………。
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_YING><FACE_NORMAL><FP_LEFT>………おっきいパンダさん？
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_SHENG><FACE_NORMAL><FP_RIGHT>パンダは好きじゃが、
+わしはパンダではないぞ。<PAGE><FACE_POS_LEFT><FACE_YING><FACE_NORMAL><FP_LEFT>…マオも…、
+パンダさん…持ってるの。<PAGE><FACE_POS_RIGHT><FACE_SHENG><FACE_HAPPY><FP_RIGHT>かわいいぬいぐるみじゃな。<PAGE><FACE_POS_LEFT><FACE_YING><FACE_HAPPY><FP_LEFT>…お父さんとね…、お母さんが
+…買ってくれたの。<PAGE><FACE_POS_RIGHT><FACE_SHENG><FACE_NORMAL><FP_RIGHT>そうか、そうか。
+大事にするんじゃぞ。<PAGE><FACE_POS_RIGHT><FACE_SHENG><FACE_HAPPY><FP_RIGHT>そうじゃ！
+今度、わしと本物の
+パンダさんを見に行こうか。<PAGE>もっと大きくて
+とてもかわいいんじゃ。<PAGE><FACE_POS_LEFT><FACE_YING><FACE_HAPPY><FP_LEFT>…うん、たのしみにしてるね。
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_SHENG><FACE_HAPPY><FP_RIGHT>約束じゃな。<PAGE><FACE_POS_RIGHT><FACE_SHENG><FACE_NORMAL><FP_RIGHT>わしは仕事があるから、
+それじゃ、行くぞ。<PAGE><FACE_POS_LEFT><FACE_YING><FACE_HAPPY><FP_LEFT>…うん…。
+またね。

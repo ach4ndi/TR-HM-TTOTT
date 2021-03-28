@@ -1,0 +1,20 @@
+<FACE_POS_LEFT><FACE_MAKO><FACE_NORMAL><FP_LEFT>Ah, hello, <MYNAME>.
+Hm? What am I doing here?<PAGE><FACE_POS_LEFT><FACE_MAKO><FACE_HAPPY><FP_LEFT>I'm just enjoying the nature
+here.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_MAKO><FACE_NORMAL><FP_LEFT>This is a great place to
+<RED>jump</COLOR> around and explore.<PAGE><FACE_POS_LEFT><FACE_MAKO><FACE_HAPPY><FP_LEFT>It's full of surprises if
+you're willing to be a
+little adventurous!<PAGE><FACE_POS_LEFT><FACE_MAKO><FACE_NORMAL><FP_LEFT>I recommend you explore the
+mountain to find nuts
+and flowers.<PAGE>There's rivers where you can
+catch fish, too.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><HIDE_NAME><FACE_MAKO><FACE_NORMAL><FP_LEFT>What's your business?<PAGE>Oh, you're <MYNAME>, aren't
+you? You work on the farm,
+right?<PAGE><FACE_POS_LEFT><FACE_MAKO><FACE_NORMAL><FP_LEFT>I'm <BLUE>Mako</COLOR>. I own the orchards
+in Konohana.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_MAKO><FACE_NORMAL><FP_LEFT>Huh? What am I doing here,
+you ask?<PAGE><FACE_POS_LEFT><FACE_MAKO><FACE_HAPPY><FP_LEFT>I'm just enjoying the
+nature.

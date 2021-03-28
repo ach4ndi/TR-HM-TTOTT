@@ -1,0 +1,21 @@
+<FACE_POS_RIGHT><HIDE_NAME><FACE_DIRK><FACE_HAPPY><FP_RIGHT>おっ、はじめまして！
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_NORMAL><FP_RIGHT>オレは、今日からこの村で
+暮らす事になった<BLUE>ディルカ</COLOR>。
+よろしくな！　…えーっと？
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_HAPPY><FP_RIGHT>そっか、
+<MYNAME>って言うのか。<PAGE>それじゃ、あらためて
+よろしく、<MYNAME>！
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_NORMAL><FP_RIGHT>あぁ、それとオレん家は
+すぐそこの
+赤い屋根の家だから。
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_NORMAL><FP_RIGHT>ふだん、ゆうびん配達の仕事で
+家をあける事が多いんだけど…
+良かったら今度遊びに来いよ。
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_NORMAL><FP_RIGHT>…おっと！
+オレそろそろ行かなくちゃ。<PAGE>まだ、あいさつまわりの
+とちゅうなんだ。<PAGE><FACE_POS_RIGHT><FACE_DIRK><FACE_HAPPY><FP_RIGHT>じゃあな、<MYNAME>！

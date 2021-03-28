@@ -1,0 +1,138 @@
+<FP_NONE>Tanya tentang permintaan?
+<CHOICE_AB> Ya
+ Tidak
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>Jadi, kamu datang kesini
+untuk mengajari kamu tentang
+<RED>menangkap serangga</COLOR><PAGE>dengan cara loncat, 
+benarkan?<PAGE><FACE_POS_RIGHT><FACE_GEORGIA><FACE_HAPPY>
+Apakah kamu mengetahui ada-
+nya trik untuk <RED>menangkap 
+serangga dengan cara<PAGE>loncat</COLOR>? 
+Aku dapat mengajarimu
+caranya!
+----------------------------|----------------------------------
+<FP_NONE><CHOICE_AB> Tolong beritahuku!
+ Tidak makasih.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_HAPPY><FP_RIGHT>Kenapa?, tentu saja!
+Dengan senang hati aku akan
+memberitahuimu!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>Dan itulah triknya!
+Apa kamu ingin mendengarkan
+trik itu sekali lagi?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_HAPPY><FP_RIGHT>Well, dikasus seperti itu,
+pergi tangkap kupu-kupu yang
+tertera pada <RED>permintaanku</COLOR>!<PAGE><FACE_POS_RIGHT><FACE_GEORGIA><FACE_NORMAL>Tahan dulu, ya!
+Aku akan memberitahukan
+sebuah petunjuk, Oke?<PAGE>Ini seperti namanya sudah
+memberikan petunjuk bahwa
+kupu-kup yang sedang kuminta<PAGE>ini adalah <RED>putih</COLOR>!
+Jika kamu mengalami kesulit-
+an untuk menemukannya. Ingat-<PAGE>ingat petunjuk warna yang
+kuberitahu ini!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_HAPPY><FP_RIGHT>Halo!
+Bagaimana kabarmu!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_HAPPY><FP_RIGHT>Halo!
+Bagaimana kabarmu!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_HAPPY><FP_RIGHT>Halo!
+Bagaimana kabarmu!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_HAPPY><FP_RIGHT>Halo!
+Bagaimana kabarmu!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>Wow, kamu telah melakukannya!
+Kamu menangkap serangga itu
+dengan usahamu sendiri!<PAGE>Mari kulihat yang kamu
+tangkap itu.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_HAPPY><FP_RIGHT>Ya itu, itu itu! Kamu telah
+menangkap yang kuminta
+dengan baik dan benar :v
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_HAPPY><FP_RIGHT>Ini sepertinya kamu memiliki
+kemampuan dari lahir nih,
+<MYNAME>!<PAGE><FACE_POS_RIGHT><FACE_GEORGIA><FACE_HAPPY>Ingat-ingat ya, beberapa
+serangga terbangnya bisa
+membuatmu kesulitan untuk<PAGE>menangkapnya!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>Dan, kamu sudah menyelesai-
+kan permintaanku, jadi kamu
+berhak mendapatkan hadiah!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_HAPPY><FP_RIGHT>Kamu sudah melakukan peker-
+jaan yang terbaik, <MYNAME>!<PAGE><FACE_POS_RIGHT><FACE_GEORGIA><FACE_NORMAL>Ini membuatku semakin yakin
+akan memberikanmu banyak
+permintaan kedepannya!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_HAPPY><FP_RIGHT>Halo!
+Bagaimana kabarmu!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_HAPPY><FP_RIGHT>Halo!
+Bagaimana kabarmu!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_HAPPY><FP_RIGHT>Halo!
+Bagaimana kabarmu!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_HAPPY><FP_RIGHT>Halo!
+Bagaimana kabarmu!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_HAPPY><FP_RIGHT>Halo!
+Bagaimana kabarmu!
+----------------------------|----------------------------------
+<FP_NONE>Aku mengatakan ada trik
+untuk melakukannya, tapi
+itu benar-benar mudah kok!
+----------------------------|----------------------------------
+<FP_NONE>Kupu-kupu berbeda dengan
+jangkrik, disaat mereka
+sedang terbang! lebih tepat<PAGE>nya cara mereka terbang
+benar-benar berbeda!
+----------------------------|----------------------------------
+<FP_NONE>Disaat kamu sedang mencoba
+menangkap seekor serangga
+yang kelihatan disekitar,<PAGE>seperti kupu kupu...
+Kamu tidak dapat menangkap-
+nya dengan hanya menekan<PAGE>tombol A!
+Disaat kamu menemukan kupu-
+kupu, dekati, dan ...<PAGE><RED>Tekan tombol B</COLOR> untuk
+loncat ke udara!\u270a Boing!<PAGE>Disaat kamu melompat, <RED>tekan
+tombol A</COLOR>! kamu bakalan
+menangkap serangga itu!<PAGE>Itu mudah untuk menangkapnya
+jika kamu mempersiapkan
+kapan dan dimana lompat untuk<PAGE>menangkapnya! jadi diperhati-
+kan ya untuk berhasil!
+----------------------------|----------------------------------
+<FP_NONE>Tapi jika kamu tidak menang-
+kapnya dengan cepat, itu 
+mungkin akan kabur duluan!<PAGE>Jadi hati hati!
+Jika mereka sudah kabur dan
+menghilang, jangan khawatir<PAGE>ini pegunungan! sewaktu-
+waktu jika kamu tetap meli-
+hat sana sini, aku yakin<PAGE>kamu dapat menemukan lebih
+banyak kupu-kupu!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_HAPPY><FP_RIGHT>Halo!
+Bagaimana kabarmu!
+----------------------------|----------------------------------
+<FP_NONE>Diingat-ingat ya, permintaan
+ku adalah kupu-kupu
+<GREEN>Putih kecil</COLOR>!
+----------------------------|----------------------------------
+<FP_NONE>Tempat terbaik untuk menemu-
+kannya ada disekitar tempat
+ini!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_HAPPY><FP_RIGHT>Halo!
+Bagaimana kabarmu!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_HAPPY><FP_RIGHT>Halo!
+Bagaimana kabarmu!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_HAPPY><FP_RIGHT>Halo!
+Bagaimana kabarmu!

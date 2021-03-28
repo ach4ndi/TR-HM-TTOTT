@@ -1,0 +1,30 @@
+<FACE_POS_LEFT><FACE_ULYSSA><FACE_NORMAL><FP_LEFT>Oooh, it's you, <MYNAME>!
+You came, you came!<PAGE><MYNAME>, you must be the
+curious type!<PAGE><FACE_POS_LEFT><FACE_ULYSSA><FACE_HAPPY><FP_LEFT>You've come ALL the way here
+to visit me many, many, MANY
+times! I'm so, SOOO happy!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ULYSSA><FACE_NORMAL><FP_LEFT>But I, the great Oracle,
+have never told you my name,
+have I, <MYNAME>? No, never!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ULYSSA><FACE_HAPPY><FP_LEFT>You may call me <BLUE>Ulyssa</COLOR>!
+Ulyssa, that's my name!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ULYSSA><FACE_NORMAL><FP_LEFT>It was so, so, SO long ago,
+I can't even remember when,
+that I was called that.<PAGE>I've almost never, ever,
+EVER told anybody that's my
+name before...<PAGE><FACE_POS_LEFT><FACE_ULYSSA><FACE_HAPPY><FP_LEFT>But I think I can trust you,
+<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ULYSSA><FACE_NORMAL><FP_LEFT>I thought and thought and
+thought and THOUGHT it over.<PAGE><FACE_POS_LEFT><FACE_ULYSSA><FACE_HAPPY><FP_LEFT><MYNAME>, until you came and
+talked to me, I hadn't seen
+anybody in years and YEARS!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ULYSSA><FACE_NORMAL><FP_LEFT>And that's how it is!
+You and I will be good,
+good, GOOD friends.<PAGE><FACE_POS_LEFT><FACE_ULYSSA><FACE_HAPPY><FP_LEFT>You can come here and be my
+laboratory guinea pig any
+old time! Okey-dokey?<RED>❤</COLOR>

@@ -1,0 +1,188 @@
+<FACE_POS_LEFT><HIDE_NAME><FACE_KID><FACE_NORMAL><FP_LEFT><HIDE_FACE>Pa...
+Pa...pa!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><HIDE_NAME><FACE_KID><FACE_NORMAL><FP_LEFT><HIDE_FACE>Ma...
+Ma...ma.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KID><FACE_HAPPY><FP_RIGHT>Hee hee!
+\u2338...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL><FP_RIGHT>Good morning, <MYNICKNAME>!
+<PAGE>Did you hear that?
+I was so shocked.
+Papa and Mama?<PAGE><FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>\u2337,
+good job waking Mama up.
+Very good!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_NORMAL><FP_RIGHT>Good morning, <MYNICKNAME>!
+<PAGE>You won't believe it!
+The baby just called me
+"Papa!"<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_HAPPY><FP_RIGHT>I was so touched, I almost
+started crying!<PAGE>And then \u2337 wanted
+to go wake you up!
+<PAGE>You're amazing,
+\u2337!!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT>Good morning, <MYNICKNAME>!
+<PAGE>Did you hear that?
+\u2337 said
+Mama and Papa.<PAGE>\u2337,
+good job waking Mama up.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>Good morning, <MYNICKNAME>!
+<PAGE>Wasn't that a shock? I knew
+\u2337 was starting
+to say a few words, but...<PAGE>Now Papa and Mama!
+I was so excited I made
+\u2337 wake you up.<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>And it worked!
+Good job waking up Mama,
+\u2337!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>Good morning, <MYNICKNAME>!
+<PAGE>Aren't you shocked?<PAGE>I was completely surprised
+when \u2337 said
+Papa all of sudden!<PAGE>Just the other day,
+\u2337 wasn't saying
+real words at all...<PAGE>Good job waking up Mama,
+\u2337. Next time, can
+you come and wake Papa, too?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_NORMAL><FP_RIGHT>Good morning, <MYNICKNAME>!
+<PAGE>Well?
+Weren't you surprised?<PAGE>I was really startled when
+\u2337 suddenly called
+me Mama!<PAGE><FACE_POS_RIGHT><FACE_LANEY><FACE_HAPPY><FP_RIGHT>\u2337,
+good job waking up Papa.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>Good morning, <MYNICKNAME>!
+<PAGE>Well now, did that just
+shock you silly?<PAGE>Why, when \u2337
+called me Mama...<PAGE><FACE_POS_RIGHT><FACE_GEORGIA><FACE_SHY><FP_RIGHT>You could've knocked me over
+with a feather!<PAGE><FACE_POS_RIGHT><FACE_GEORGIA><FACE_HAPPY><FP_RIGHT>I wanted you to get the same
+kind of surprise, so we came
+to wake you up.<PAGE>Looks like our plan worked,
+huh, \u2337?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>Good morning, <MYNICKNAME>!
+<PAGE>Wasn't that a surprise?
+When \u2337 called me
+Mama a little while ago...<PAGE>I was just so shocked!
+<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_HAPPY><FP_RIGHT>\u2337,
+good job waking up Papa.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>Good morning, <MYNICKNAME>!
+<PAGE>Heh heh.
+Were you surprised?<PAGE>I've been starting to teach
+\u2337 some words...
+<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>But today \u2337
+said Mama and Papa without
+any help from me.<PAGE>Right, \u2337?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>Good morning, <MYNICKNAME>!
+<PAGE>Well? Wasn't that the
+biggest surprise?<PAGE>\u2337 just called me
+Mama, and I was just
+stunned!<PAGE><FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>Good job waking up Papa,
+\u2337. You're the most
+amazing kid ever!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_NORMAL><FP_RIGHT>Good morning, <MYNICKNAME>!
+<PAGE>So? Wasn't that a shock?
+\u2337 called me Papa,
+and I was so surprised!<PAGE>So I thought we'd come in
+here to wake you up with a
+surprise.<PAGE><FACE_POS_RIGHT><FACE_DIRK><FACE_HAPPY><FP_RIGHT>Our plan worked,
+\u2337!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_KID><FACE_HAPPY><FP_LEFT>Yah<RED>❤</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL><FP_RIGHT>Kids grow so fast...
+<PAGE>It was the same with Cheryl.
+<PAGE>Look how old she is now, and
+I still feel like she was
+born just yesterday!<PAGE><FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>We've got to pay attention
+so we don't miss out on
+any milestones.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_NORMAL><FP_RIGHT>Children just grow so fast.
+<PAGE>You always hear that, but
+it's different seeing it
+with your own eyes...<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_HAPPY><FP_RIGHT><MYNICKNAME>, we've got to make
+sure we don't miss any
+milestones in \u2337's life!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT>\u2337 has gotten
+so big so fast...<PAGE>I just can't believe it...
+
+<PAGE>It's times like this that I
+really feel like a father.
+<PAGE><FACE_POS_RIGHT><FACE_CAM><FACE_HAPPY><FP_RIGHT><MYNICKNAME>, let's raise our
+child well!
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>Man, kids grow so fast...
+<PAGE>I'd heard that before, but
+it's a totally different
+thing to see it.<PAGE>I feel like if I blink, I'll
+miss something...<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT><MYNICKNAME>, let's make sure
+we watch \u2337
+grow together!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>Wow. Children grow so fast.
+<PAGE>It makes me so happy to
+think of all the music our
+child will play...<PAGE><FACE_POS_RIGHT><FACE_MIKHAIL><FACE_HAPPY><FP_RIGHT>I can't wait to teach \u2337
+an instrument. Then we can
+play together.<PAGE><FACE_POS_RIGHT><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT><MYNICKNAME>, let's keep an
+eye on our angel's growth
+together...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_NORMAL><FP_RIGHT>I must say, kids grow
+so fast...
+<PAGE>It must have been the same
+when I was little, but it
+felt so different.<PAGE><FACE_POS_RIGHT><FACE_LANEY><FACE_HAPPY><FP_RIGHT>Let's make sure we raise
+our child right.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>Goodness, children grow
+so quickly!
+<PAGE>I'll have to ask my father
+if my childhood felt so
+quick to him.<PAGE><FACE_POS_RIGHT><FACE_GEORGIA><FACE_HAPPY><FP_RIGHT><MYNICKNAME>, let's work
+together to raise our child
+right!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>Children grow at such
+an astounding rate.<PAGE>They soak up everything
+like little sponges...
+<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_HAPPY><FP_RIGHT>We need to be careful so we
+don't miss anything.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>I'd heard that children
+grow up fast, but I'd never
+realized just how fast.<PAGE>I thought I'd be used to it
+after helping take care of
+all the village children...<PAGE>But it really is different
+when it's your own child.<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY><FP_RIGHT>Let's keep on watching
+\u2337 grow together.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>Gosh, kids just grow
+so quickly...<PAGE>I know I was that age once
+upon a time, but of course 
+I don't remember it.<PAGE><FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>So I want to watch over
+every moment of our child's
+growth...<PAGE><FACE_POS_RIGHT><FACE_ULYSSA><FACE_SHOCK><FP_RIGHT>Along with you, dear.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_NORMAL><FP_RIGHT>Kids really grow so fast!
+<PAGE>I remember my brother saying
+something like that once...
+It brings back memories.<PAGE><FACE_POS_RIGHT><FACE_DIRK><FACE_HAPPY><FP_RIGHT><MYNICKNAME>! We'd better make
+sure we're raising \u2337
+right.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KID><FACE_HAPPY><FP_RIGHT>Papa, Mama.
+Love you!<RED>❤</COLOR>

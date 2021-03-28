@@ -1,0 +1,25 @@
+<FACE_POS_RIGHT><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Hey disana, Ying. Apa kamu
+lakukan sekarang?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_YING><FACE_NORMAL><FP_LEFT>Oh, aku hanya menikmati
+pancaran sinar matahari...<PAGE>Cuacanya sangat bagus
+hari ini<PAGE><FACE_POS_RIGHT><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Ah, oke...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RAHI><FACE_HAPPY><FP_RIGHT>btw, Aku mempunyai waktu
+luang hari ini, jadi, um,<PAGE>ayo kita lakukan sesuatu
+yang menyenangkan bersama!<PAGE><FACE_POS_RIGHT><FACE_RAHI><FACE_ANGRY><FP_RIGHT>Tapi ingat, ini hanya
+karena aku mempunyai waktu
+luang ya!<PAGE><FACE_POS_LEFT><FACE_YING><FACE_NORMAL><FP_LEFT>Tidak, aku tahu kamu sibuk.
+Kamu tidak usah susah susah
+kesini.<PAGE>Aku baik-baik saja
+bermain seorang diri disini
+...<PAGE><FACE_POS_RIGHT><FACE_RAHI><FACE_SAD><FP_RIGHT>Erm...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_YING><FACE_NORMAL><FP_LEFT>Aku harus kembali kedalam
+ruangan aku aja ya.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RAHI><FACE_SAD><FP_RIGHT>... Aku berharap benar-
+benar ingin berbicara
+dengannya sesaat...<PAGE>Entah kenapa selalu
+berakhir seperti ini
+mulu sih?

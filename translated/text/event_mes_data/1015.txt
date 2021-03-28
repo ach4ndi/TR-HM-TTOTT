@@ -1,0 +1,46 @@
+<FACE_POS_RIGHT><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Dan mari kita mulai...
+jreng jreng jreng...<PAGE>Kita disini untuk pernikahan-
+nya Hiro dan <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Hiro...<PAGE>Apakah <MYNAME> menjadi
+istrimu, untuk dicintai,dan
+menghiburnya dengan seluruh<PAGE>kehidupanmu?<PAGE><FACE_POS_LEFT><FACE_HIRO><FACE_HAPPY><FP_LEFT>Aku lakukan.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NATHAN><FACE_NORMAL><FP_RIGHT><MYNAME>...<PAGE>Apakah kamu menjadikan Hiro
+sebagai suamimu, untuk di-
+cintai dan disayang seumur<PAGE>hidupmu?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Maka aku umumkan, kamu se-
+orang suami dan istri!<PAGE><FACE_POS_RIGHT><FACE_NATHAN><FACE_HAPPY><FP_RIGHT>Semoga dewi panen member-
+karti pasangan yang sedang
+gembira ini!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_HIRO><FACE_SHOCK><FP_LEFT><MYNAME>, Aku tidak
+akan gagal untuk membuatmu
+bahagia! <PAGE>Mari kita semangati
+satu sama lain selamanya!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_SHOCK><FP_RIGHT>Hari ini kita akan menjalani
+kehidupan baru kita ini ber-
+sama!<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_HAPPY><FP_RIGHT>Jadi sekarang sudah menikah,
+uh apa ada nama panggilan
+yang ingin kamu inginkan?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_NORMAL><FP_RIGHT><MYNICKNAME>.
+Apakah ini yang kamu mau?
+----------------------------|----------------------------------
+<CHOICE_AB> Ya, Hiro.
+ Mungkin yang lainnya...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_HAPPY><FP_RIGHT>Bagus!
+Maka sudah diputuskan!<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_SHOCK><FP_RIGHT>Aku akan senang untuk
+tahun tahun kedepannya
+bersamamu <MYNICKNAME>.
+----------------------------|----------------------------------
+Kehidupan baru kita sudah di-
+mulai! Kita akan bersantai-
+santai hari ini.<PAGE>Besok akan kembali ke-
+rutinitas seperti biasanya!
+----------------------------|----------------------------------
+<CHOICE_AB> Simpan dan tidur.
+ tidur sajalah, capek.

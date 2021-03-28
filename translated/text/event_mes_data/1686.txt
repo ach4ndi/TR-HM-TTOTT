@@ -1,0 +1,58 @@
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>Kesalahan!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>Oooh, kamu melihat permin-
+taanku yang super duper
+keren dipapan? Bagus!<PAGE>Sekarang, ayo membuat kese-
+pakatan untuk saling tukar,
+benarkan?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>Kesalahan!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>Kesalahan!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>Ooh, inilah yang kucari!
+Ini sangat lembut-empuk!<PAGE>\u20d0Aku menyukainya!<RED>❤</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>Kesalahan!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>Sekarang uangnya.
+Biayanya <VAR_0>G.<PAGE><FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY>Sangat lembut...<RED>❤</COLOR>ED>❤</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>Kesalahan!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>Kesalahan!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>Kesalahan!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>Kesalahan!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>Kesalahan!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_ANGRY><FP_RIGHT>Oh. Ahem!<PAGE><FACE_POS_RIGHT><FACE_ULYSSA><FACE_NORMAL>Jadi, uh, makasih!
+Kerjamu bagus.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>Ini untuk kamu. Kamu
+pastinya akan menerimanya!
+----------------------------|----------------------------------
+<FP_NONE>Kamu mendapatkan sebuah
+<RED>baju imut</COLOR>!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>Jadi bagaimana? Ini benar-
+benar bagus, benarkan?<PAGE><FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY>Terlihat dari wajahmu,
+pastinya kamu tidak bisa
+berkata-kata sekarang!<PAGE><FACE_POS_RIGHT><FACE_ULYSSA><FACE_NORMAL>Sekarang, baju tersebut
+memiliki kekuatan khusus...<PAGE><FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY>Disaat kamu memakainya, baju
+tersebut akan mengeluarkan
+aura untuk<PAGE><RED>untuk menerbitkan
+matahari</COLOR>!<PAGE>Sangat hebat bukan?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>Ini menarik disaat aku meng
+gunakan jarumku lagi.
+Sangat menyenangkan!<PAGE><FACE_POS_RIGHT><FACE_ULYSSA><FACE_ANGRY>Kamu seharusnya menjaga
+baju tersebut! harus!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>Kesalahan!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>Kesalahan!</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>Kesalahan!</COLOR>

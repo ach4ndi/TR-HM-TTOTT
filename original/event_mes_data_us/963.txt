@@ -1,0 +1,41 @@
+<FACE_POS_RIGHT><FACE_LANEY><FACE_NORMAL><FP_RIGHT>There's something I want
+to give you today.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_NORMAL><FP_RIGHT>Here you go...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_NORMAL><FP_RIGHT>It's a cheesecake from
+my own recipe. I might start
+selling it at the caf.<PAGE><FACE_POS_RIGHT><FACE_LANEY><FACE_HAPPY><FP_RIGHT>I'd love it if you'd try it
+and tell me what you think.
+----------------------------|----------------------------------
+<CHOICE_AB> Thanks, I will!
+ I'm not hungry. Sorry.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_SHY><FP_RIGHT>H-How was it?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_HAPPY><FP_RIGHT>I'm so glad you liked it!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_NORMAL><FP_RIGHT>I love to bake.
+<PAGE>But my favorite part
+is watching people
+enjoy what I've made.<PAGE><FACE_POS_RIGHT><FACE_LANEY><FACE_HAPPY><FP_RIGHT>It makes me sooo happy.
+<PAGE><FACE_POS_RIGHT><FACE_LANEY><FACE_SHOCK><FP_RIGHT>I can't really explain it.
+It just...makes my
+heart feel so warm.<PAGE><FACE_POS_RIGHT><FACE_LANEY><FACE_HAPPY><FP_RIGHT>Knowing that my food made
+someone else smile...
+It's a great feeling.<PAGE>So I love to see someone
+enjoying what I make
+like you just did.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_NORMAL><FP_RIGHT>It's funny the way
+time always flies by when
+I'm talking to you.<PAGE><FACE_POS_RIGHT><FACE_LANEY><FACE_HAPPY><FP_RIGHT>Today was a lot of fun!
+Let's chat again soon.
+Later!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_SHY><FP_RIGHT>Oh, you're not? Then I guess
+you can't eat it...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_NORMAL><FP_RIGHT>I'll give it to someone
+else, then.
+I'll see you later...

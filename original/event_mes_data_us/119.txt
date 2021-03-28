@@ -1,0 +1,616 @@
+<FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>I don't think we've met.
+I'm <BLUE>Ina</COLOR>. I'm
+the mayor of this village.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>Awful weather yesterday.
+Is your house okay?<PAGE>Luckily, I haven't heard of
+any serious damage so far.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>You look fit as a fiddle.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>You look fit as a fiddle.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>You look fit as a fiddle.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_HAPPY><FP_RIGHT>What a cute animal!
+Is this your pet?<PAGE><FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>Rahi loves animals too.
+He wants a pet, but he
+has no time to care for one.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>I-Is that...
+your pet?<PAGE>P-Please don't bring
+it any closer.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>You look fit as a fiddle.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_HAPPY><FP_RIGHT>A Blue Feather, huh...?
+I guess you've found that
+special someone.<PAGE><FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>Well, you better propose
+to your true love the
+right way.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>Is that for me?<PAGE>Well, I'm sorry, but...
+I'm not in the mood for it.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>Another present today?<PAGE>That's just too generous.
+I'll have to pass.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>You look fit as a fiddle.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>You look fit as a fiddle.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>That's something you
+should keep.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>Is that for me!?<PAGE><FACE_POS_CENTER><FACE_INA><FACE_HAPPY><FP_RIGHT>Oh, right! My birthday! I
+completely forgot about it!<PAGE>And it's <RED>Puerh Tea</COLOR>!
+I love it! Thanks a lot!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>That's Puerh Tea. I love it!
+And it's...for me?<PAGE><FACE_POS_CENTER><FACE_INA><FACE_HAPPY><FP_RIGHT>Thanks!
+Good luck to you, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>You look fit as a fiddle.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>You look fit as a fiddle.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>Oh, a birthday present!?
+Right, it's my birthday...<PAGE><FACE_POS_CENTER><FACE_INA><FACE_HAPPY><FP_RIGHT>Well, thanks!
+It's very thoughtful.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>Is this for me?<PAGE><FACE_POS_CENTER><FACE_INA><FACE_HAPPY><FP_RIGHT>Thanks!
+I love it!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>Is this for me?<PAGE>Right, it's my birthday...
+You remembered.
+Thanks!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>Thank you very much.
+I appreciate it.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>Oh... A birthday present?<PAGE><FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>Hmph. Your gift-giving
+skills could use some work.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>Of all the... Well, if you
+REALLY insist I take it...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>Ah, for me?<PAGE><FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>You went to the trouble so
+I guess I'll take it, but...<PAGE><FACE_POS_CENTER><FACE_INA><FACE_ANGRY><FP_RIGHT>This is really an
+awful gift.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>You look fit as a fiddle.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>You look fit as a fiddle.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>And how is married life
+treating you? Remember,
+a good marriage takes work.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>The wind is fierce today.
+A walk's all well and good,
+but see you don't blow away!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>I hope this storm doesn't
+damage any homes.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>Talking with you like this,
+I'm reminded of my husband.<PAGE>He was a good, kind man.
+Your personality is
+very similar.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>How do you like our village?
+I quite like having you
+here. And so does Rahi.<PAGE>I hope you'll stay in this
+village for a long time.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_HAPPY><FP_RIGHT>Rahi loves it when you
+visit. I'm always happy to
+see you too.<PAGE><FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>I think you're a good role
+model for Rahi.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_HAPPY><FP_RIGHT>You seem to be getting
+along well with the people
+here.<PAGE><FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>You're a good neighbor.
+That's what I like to see.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>If you need anything, just
+ask around. Everyone's
+quite helpful here.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>How are you doing, <MYNAME>?
+Let me know if you need
+help with anything.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>This is the town hall,
+and I'm the mayor.<PAGE>If you've got a problem,
+drop by any time.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>You look fit as a fiddle.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>You look fit as a fiddle.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>You look fit as a fiddle.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>You look fit as a fiddle.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>You look fit as a fiddle.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>You look fit as a fiddle.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>You look fit as a fiddle.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>You look fit as a fiddle.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>You look fit as a fiddle.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>You look fit as a fiddle.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>You look fit as a fiddle.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>You look fit as a fiddle.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>You look fit as a fiddle.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>You look fit as a fiddle.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>You look fit as a fiddle.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>You look fit as a fiddle.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>You look fit as a fiddle.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>You look fit as a fiddle.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>You look fit as a fiddle.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>You look fit as a fiddle.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>You look fit as a fiddle.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>You look fit as a fiddle.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>You look fit as a fiddle.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>You look fit as a fiddle.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>You look fit as a fiddle.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>You look fit as a fiddle.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>You look fit as a fiddle.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>You look fit as a fiddle.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>You look fit as a fiddle.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>You look fit as a fiddle.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>You look fit as a fiddle.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>You look fit as a fiddle.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>You look fit as a fiddle.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>You look fit as a fiddle.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>You look fit as a fiddle.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>You look fit as a fiddle.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>Now why in the world
+did you bring that?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>You look fit as a fiddle.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>You look fit as a fiddle.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_HAPPY><FP_RIGHT>Well now, this cute animal
+must be your pet.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_HAPPY><FP_RIGHT>Did you find it yourself?
+It's pretty cute!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>Th-That animal...did you
+catch it somewhere?<PAGE>F-For goodness sake, keep it
+away from me!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>There are lots of wild
+animals in our village.
+Please treat them well.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>You look fit as a fiddle.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>You look fit as a fiddle.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>You look fit as a fiddle.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>You look fit as a fiddle.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>You look fit as a fiddle.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>You look fit as a fiddle.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>You look fit as a fiddle.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>You look fit as a fiddle.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>You look fit as a fiddle.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>You look fit as a fiddle.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>You look fit as a fiddle.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>You look fit as a fiddle.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_HAPPY><FP_RIGHT>Are those flowers for...?<PAGE>Ah-ha... Today's Flower Day.
+Thank you very much.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>You look fit as a fiddle.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>You look fit as a fiddle.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>You look fit as a fiddle.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>You look fit as a fiddle.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>You look fit as a fiddle.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>You look fit as a fiddle.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_HAPPY><FP_RIGHT>That's nice wrapping paper.
+I appreciate the extra
+effort.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>You're such a good friend,
+<MYNAME>. I feel like we
+have a lot in common.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>You look fit as a fiddle.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>How is <VAR_1>? If you ever
+want to move to Konohana,
+you'll always be welcome.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>You slept well last night?
+Please come stay any time.
+We'll be waiting...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>You look fit as a fiddle.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>You look fit as a fiddle.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>It's busy at the town
+hall, but sometimes I go
+out to check on the village.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>Now that the tunnel is done,
+it's easy to go to Bluebell.<PAGE>That'll take some getting
+used to.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>You look fit as a fiddle.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>You look fit as a fiddle.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>You look fit as a fiddle.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>You look fit as a fiddle.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>You look fit as a fiddle.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>You look fit as a fiddle.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>You look fit as a fiddle.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>You look fit as a fiddle.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>You look fit as a fiddle.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>Do your best, but don't push
+yourself so hard that you
+can't work the next day.<PAGE>Make good use of your horse
+and cart. They'll help you
+get more work done.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>I expect you to enter the
+next cooking contest. Your
+village is counting on you!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>I can tell you take
+representing your village
+very seriously.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>You look fit as a fiddle.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>You look fit as a fiddle.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>It's a shame about today...
+I expect better next time!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>You look fit as a fiddle.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>Well, that's a shame.
+Don't mope. There's
+always next year.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>Today's the
+<VAR_0>.<PAGE>It hasn't started yet,
+though. Come by a little
+later.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>Next time, I hope
+you'll join in!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>You look fit as a fiddle.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>Your <VAR_4>
+wasn't bad. Guess it
+wasn't your day, though.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>You look fit as a fiddle.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>You look fit as a fiddle.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>You look fit as a fiddle.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>You look fit as a fiddle.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>You look fit as a fiddle.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>You look fit as a fiddle.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>You look fit as a fiddle.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>You look fit as a fiddle.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>You look fit as a fiddle.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>You look fit as a fiddle.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>You look fit as a fiddle.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>You look fit as a fiddle.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>You look fit as a fiddle.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>You look fit as a fiddle.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>You look fit as a fiddle.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>You look fit as a fiddle.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>You look fit as a fiddle.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>You look fit as a fiddle.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>You look fit as a fiddle.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>This is what you want to
+enter? You're sure?<PAGE><CHOICE_AB> Yes.
+ I changed my mind.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>Okay, then. Pick the animal
+you want to enter in the
+contest.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>Today's the
+<VAR_0>.<PAGE>However, since you're not a
+resident, you can't
+participate. Sorry.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>Well, whenever you're ready,
+come talk to me.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>Today's the
+<VAR_0>.
+Do you want to participate?
+----------------------------|----------------------------------
+<CHOICE_ABC> I'm in!
+ I'll cheer you all on!
+ I'm not quite ready.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_HAPPY><FP_RIGHT>Let's get started, then!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>Ah, I see. Well, get your
+entry ready and then talk
+to me.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>If you want to participate,
+talk to me while holding a
+<RED><VAR_4></COLOR>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>Hmm... Hold on...
+Isn't this a little old?<PAGE>If you want to enter, you
+need to bring a fresher one.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>Hold on...
+Looks like your bag is full.<PAGE>Clear out some space in
+there and then come see me.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>Aren't you from Bluebell?<PAGE>Well then, Rutger is the man
+you need to talk to.
+----------------------------|----------------------------------
+<CHOICE_AB> Let's start.
+ I'm not ready yet.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>We don't have an Animal
+Festival in this town.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>Today's the Angling Contest.
+Equip a fishing rod if you
+want to compete.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>You look fit as a fiddle.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>You look fit as a fiddle.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>You look fit as a fiddle.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>You look fit as a fiddle.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>You look fit as a fiddle.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>You look fit as a fiddle.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>You look fit as a fiddle.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>Morning, <MYNAME>.
+How are you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_HAPPY><FP_RIGHT>Hello, <MYNAME>. You're
+looking bright-eyed and
+bushy-tailed this morning.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>Morning! We've got
+another busy day ahead!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>Hello, <MYNAME>.
+You look well today.
+Keeping fit is important!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_HAPPY><FP_RIGHT>Hello.
+How are you feeling?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>Hello.
+Drop by the town hall
+and see me sometime.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>Good evening!
+I see you're working late.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>Good evening, <MYNAME>.
+Now don't work TOO hard, or
+you'll wreck your health.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>Good evening.<PAGE>Early to bed, early to rise
+makes you healthy, wealthy
+and wise.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>You look fit as a fiddle.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>You look fit as a fiddle.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>You look fit as a fiddle.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>If you have business here,
+talk to me across the
+counter.<PAGE>If you want to stay the
+night, sign in the notebook
+on the counter.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>I'm working right now.<PAGE>If you want to stay the
+night, sign in the notebook
+on the counter.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>Sign in the notebook on the
+counter if you want to stay
+the night.<PAGE>If you want to move into
+town or have other business,
+talk to me at the counter.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_HAPPY><FP_RIGHT>The food here is the best.
+Have you eaten here before?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>Yun is a great cook.
+Get to know her, and she'll
+teach you some recipes.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>Well now, <MYNAME>. Are
+you going to eat here?<PAGE>What I recommend is...
+...well, everything is
+tasty, actually.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>Everyone in the village
+works hard.<PAGE>And they're all good folks.
+Some of them have their
+little quirks too, but...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>This town's mayor has
+always been someone from
+my family.<PAGE>Maybe that's not the best
+thing.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>Most in our village
+grow crops, but you can
+raise animals if you want.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>You look fit as a fiddle.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>You look fit as a fiddle.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>You look fit as a fiddle.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>You look fit as a fiddle.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>You look fit as a fiddle.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>You look fit as a fiddle.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>You look fit as a fiddle.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>You look fit as a fiddle.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>You look fit as a fiddle.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_HAPPY><FP_RIGHT>The Cooking Festival was a
+lot of fun today.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_HAPPY><FP_RIGHT>Konohana won today's Cooking
+Festival. I knew we
+could do it!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_HAPPY><FP_RIGHT>All the dishes today were
+quite delicious.<PAGE>But Konohana's cooking is
+indisputably the best.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_HAPPY><FP_RIGHT>Today sure was fun.
+I'm glad you had a
+good time too.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_HAPPY><FP_RIGHT>Today sure was fun.
+I'm glad everybody had
+a good time.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_HAPPY><FP_RIGHT>Today sure was fun.
+I'm glad you had a
+good time too.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_HAPPY><FP_RIGHT>Congratulations!
+Your <VAR_4>
+was excellent!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>You outdid yourself, <MYNAME>.
+I've never seen crops as
+superb as yours.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_HAPPY><FP_RIGHT>You won! Congratulations!
+You've got some
+talent.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>Today's <VAR_0>
+sure was fun.<PAGE>Tomorrow it's back to work.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>How about today's festival?
+Did you have a good time?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>Folks had a good time today.
+It's times like this I'm so
+glad to be mayor.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>You won! Congratulations!
+You did good today.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>Today was really something!
+I can't believe you won!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>You won! Congratulations!
+You did great.<PAGE>But what about your work
+tomorrow? Will it be okay?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>You won! Congratulations!
+You did good today.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>You won! Congratulations!
+You did good today.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_INA><FACE_NORMAL><FP_RIGHT>You won! Congratulations!
+You did good today.

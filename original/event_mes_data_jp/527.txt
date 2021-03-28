@@ -1,0 +1,47 @@
+<FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT><FP_LEFT>やぁ、<MYNAME>。
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT>ん？　何をしてるか？
+今は出荷箱の
+チェックをしてるんだ。<PAGE><FACE_POS_LEFT><FACE_INA><FACE_HAPPY><FP_LEFT>毎日、村のみんなが
+安心して使えるようにな。
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT><FP_LEFT>あぁ、そうだ！
+そういえば<MYNAME>に
+<RED>出荷箱</COLOR>を教えてなかったな。<PAGE>作物を育てて収穫したら
+自分で<RED>食べたり</COLOR>
+<RED>料理</COLOR>する事ができるが…、<PAGE><FACE_POS_LEFT><FACE_INA><FACE_HAPPY><FP_LEFT>なんと、そのまま
+<RED>出荷してお金にする</COLOR>事も
+できるんだ！<PAGE><FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT>…出荷箱について
+くわしい説明を聞くかい？
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT>よし。
+それじゃあ説明するよ。<PAGE>出荷箱に近づいて、<RED>Ａボタン</COLOR>を
+押すと下画面に出荷箱画面が
+出てくるよ。<PAGE><FACE_POS_LEFT><FACE_INA><FACE_HAPPY><FP_LEFT>そこに、とれた作物等の
+出荷したいものを入れると
+出荷ができるぞ。<PAGE>かんたんだろう？<PAGE><FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT>それから、一度出荷箱に
+入れた物は取り出せないから
+気をつけてくれ。<PAGE><FACE_POS_LEFT><FACE_INA><FACE_HAPPY><FP_LEFT>出荷した物のお金だが、
+朝一でキミの自宅に届くよう
+あたしの方で手配しておこう。<PAGE><FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT>出荷箱はいつでも使えるから
+自由に使ってくれ。
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT>…ん？
+出荷箱はここにしかないのか
+\u270aだって？<PAGE>いや、確か
+<BLUE>ブルーベル村のふもと</COLOR>にも
+あったと思う。<PAGE>出荷箱は、村に関係なく
+自由に使えるから、
+気にせず使うといい。<PAGE>きっとブルーベル村の村人は
+出荷箱に入った
+すばらしい作物を見て…、<PAGE><FACE_POS_LEFT><FACE_INA><FACE_HAPPY><FP_LEFT>あまりの美しさに
+腰をぬかすに違いない！！
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_INA><FACE_NORMAL><FP_LEFT>それでは、
+あたしは役場にもどるよ。<PAGE>では、またな。
+----------------------------|----------------------------------
+<CHOICE_AB> お願いします
+ いえ、説明はいりません
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_INA><FACE_HAPPY><FP_LEFT>そうか、それでは
+あたしは役場にもどるよ。<PAGE>では、またな。

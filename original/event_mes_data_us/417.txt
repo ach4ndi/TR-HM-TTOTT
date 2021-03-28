@@ -1,0 +1,69 @@
+<FACE_POS_RIGHT><FACE_HOWARD><FACE_NORMAL><FP_RIGHT>Oh, what could be wrong?
+I just don't know...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><HIDE_NAME><FACE_GRADY><FACE_NORMAL><FP_LEFT><HIDE_FACE>What's up, Howard?<PAGE><FACE_POS_RIGHT><FACE_HOWARD><FACE_NORMAL><FP_RIGHT>Sorry. I'm a little
+distracted right now.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GRADY><FACE_HAPPY><FP_RIGHT>Distracted? Why?<PAGE><FACE_POS_LEFT><FACE_HOWARD><FACE_NORMAL><FP_LEFT>I'm just so worried...<PAGE><FACE_POS_RIGHT><FACE_GRADY><FACE_NORMAL><FP_RIGHT>That's not like you.
+What is it?
+You can tell me anything.<PAGE><FACE_POS_LEFT><FACE_HOWARD><FACE_HAPPY><FP_LEFT>Oh, Grady.
+You're so kind.
+I suppose if you insist...<PAGE><FACE_POS_LEFT><FACE_HOWARD><FACE_NORMAL><FP_LEFT>It's my daughter, Laney.
+She's been so cold to me
+lately.<PAGE>I asked her if she had a
+boyfriend yesterday.<PAGE>She said it was weird for
+me to ask about that, and
+it's none of my business.<PAGE>And that's all I could get
+out of her!<PAGE><FACE_POS_RIGHT><FACE_GRADY><FACE_NORMAL><FP_RIGHT>So Laney's acting that way
+too?<PAGE>You know, my daughter
+Georgia is the same way.<PAGE>Girls are so difficult
+at that age...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_RUTGER><FACE_HAPPY><FP_LEFT>Ah. Hello, everyone.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HOWARD><FACE_NORMAL><FP_RIGHT>Welcome, Rutger.
+<PAGE>I'm glad you're here,
+actually.<PAGE><FACE_POS_RIGHT><FACE_GRADY><FACE_NORMAL><FP_RIGHT>I've got a question for you.
+Do you mind?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_RUTGER><FACE_NORMAL><FP_LEFT>Not at all. What is it?<PAGE><FACE_POS_RIGHT><FACE_HOWARD><FACE_NORMAL><FP_RIGHT>It's about my daughter.
+She won't talk to me about
+her personal life anymore.<PAGE><FACE_POS_LEFT><FACE_RUTGER><FACE_NORMAL><FP_LEFT>Oh is that all?
+That's not unusual
+for girls her age.<PAGE>I know that you're worried,
+but you mustn't push it.<PAGE>She'll come around in her
+own time, Howard.
+<PAGE><FACE_POS_RIGHT><FACE_HOWARD><FACE_NORMAL><FP_RIGHT>I know, but still...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_RUTGER><FACE_HAPPY><FP_LEFT>I'll have an order of
+<VAR_0>.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GRADY><FACE_NORMAL><FP_RIGHT>It's tough when you realize
+your children don't need
+you as much anymore.<PAGE><FACE_POS_LEFT><FACE_RUTGER><FACE_NORMAL><FP_LEFT>Yes. It's hard to let go.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Of course. But you have to
+start treating them as
+adults sometime.<PAGE><FACE_POS_RIGHT><FACE_GRADY><FACE_HAPPY><FP_RIGHT>Laney needs to see if she
+can make it without her
+father's advice.<PAGE><FACE_POS_LEFT><FACE_RUTGER><FACE_HAPPY><FP_LEFT>Yes. It's all part of
+growing up.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HOWARD><FACE_NORMAL><FP_RIGHT>Sorry to keep you waiting,
+Mr. Rutger.<PAGE><FACE_POS_LEFT><FACE_RUTGER><FACE_NORMAL><FP_LEFT>No problem.<PAGE><FACE_POS_LEFT><FACE_RUTGER><FACE_HAPPY><FP_LEFT>You've got to trust that
+your daughter will come to
+you if she really needs you.<PAGE><FACE_POS_LEFT><FACE_RUTGER><FACE_NORMAL><FP_LEFT>Well then, I'll be going.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GRADY><FACE_NORMAL><FP_RIGHT>I'm sure Laney will talk to
+you if you give her time.<PAGE>Just wait and see.<PAGE><FACE_POS_LEFT><FACE_HOWARD><FACE_NORMAL><FP_LEFT>You're right. I'll do that.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GRADY><FACE_HAPPY><FP_RIGHT>See you later.
+----------------------------|----------------------------------
+cabbage rolls
+----------------------------|----------------------------------
+marinated fish
+----------------------------|----------------------------------
+steamed mushrooms
+----------------------------|----------------------------------
+lasagne

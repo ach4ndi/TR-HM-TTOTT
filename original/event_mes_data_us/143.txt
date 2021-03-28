@@ -1,0 +1,557 @@
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>What is it, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>It was so stormy yesterday!
+The sky was so dark!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>What is it, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>What is it, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>What is it, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_HAPPY><FP_RIGHT>We play all the time.
+We're best friends!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_SAD><FP_RIGHT>No, stay away,
+\u2338!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>What is it, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_HAPPY><FP_RIGHT>That's a pretty feather.
+Can I touch it?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_SAD><FP_RIGHT>No, I don't want anything.
+
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>I don't need any more gifts
+today, \u2338.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>What is it, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>What is it, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_ANGRY><FP_RIGHT>Hey! Don't try to give that
+away!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_HAPPY><FP_RIGHT>Ooh, for me?<PAGE>I love birthdays cuz I can
+eat as much <RED>ice cream</COLOR>
+as I want!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_HAPPY><FP_RIGHT>Yay! <RED>Ice cream</COLOR>!!
+Thanks, \u2338!
+It's so yummy!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>What is it, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>What is it, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_HAPPY><FP_RIGHT>Thanks, \u2338!
+I love birthdays! I wish
+every day was my birthday.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Huh!?
+This is for me?<PAGE><FACE_POS_CENTER><FACE_KID><FACE_HAPPY><FP_RIGHT>Wow!
+Thanks, \u2338!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>A birthday present!?
+Yay!!
+Thanks, \u2338!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Thanks, \u2338.
+This is neat!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_SAD><FP_RIGHT>I don't want this for
+my birthday present.
+I want something else!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_SAD><FP_RIGHT>...
+Are you trying to tease me,
+\u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_SAD><FP_RIGHT>I hate this!
+I don't want to eat it!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>What is it, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>What is it, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_HAPPY><FP_RIGHT>\u2338, play with me!
+Come on! Let's play tag!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_SAD><FP_RIGHT>Aww, I wanted to play
+outside today...
+Stupid weather...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_SAD><FP_RIGHT>Can't I go outside?
+There's sooo much snow!
+It looks fun!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_HAPPY><FP_RIGHT>I wanna be a farmer just
+like you when I grow up,
+\u2338!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_HAPPY><FP_RIGHT>\u2338, what is it?
+Want a backrub?
+You look tired.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>\u2338, your work
+looks fun.
+Can I help?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Wow, \u2338.
+You always get up
+so early...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>What, \u2338?
+Will you play with me?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_SAD><FP_RIGHT>Leave me alone.
+I'm playing by myself...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_SAD><FP_RIGHT>\u2338, you never
+play with me...
+You're mean.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>What is it, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>What is it, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>What is it, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>What is it, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>What is it, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>What is it, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>What is it, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>What is it, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>What is it, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>What is it, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>What is it, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>What is it, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>What is it, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>What is it, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>What is it, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>What is it, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>What is it, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>What is it, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>What is it, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>What is it, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>What is it, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>What is it, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>What is it, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>What is it, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>What is it, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>What is it, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>What is it, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>What is it, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>What is it, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>What is it, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>What is it, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>What is it, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>What is it, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>What is it, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>What is it, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>What is it, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>What's this?
+Don't touch it?<PAGE><FACE_POS_CENTER><FACE_KID><FACE_SAD><FP_RIGHT>You're no fun...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>What is it, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>What is it, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>That's pretty cute!
+
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_HAPPY><FP_RIGHT>Whoa, where you find that?
+I want one!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_ANGRY><FP_RIGHT>\u2338...
+Take it away!
+
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Oooh...
+I want to find one too.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>What is it, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>What is it, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>What is it, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>What is it, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>What is it, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>What is it, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>What is it, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>What is it, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>What is it, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>What is it, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>What is it, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>What is it, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_HAPPY><FP_RIGHT>Is this for me?
+Thanks, \u2338!
+I love it.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>What is it, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>What is it, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>What is it, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>What is it, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>What is it, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>What is it, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_HAPPY><FP_RIGHT>Yay! What is it?
+Can I open it?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_HAPPY><FP_RIGHT>\u2338, I love you.
+You're the best!
+
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>What is it, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>What is it, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>What is it, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>What is it, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>What is it, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_HAPPY><FP_RIGHT>What should I play today?
+Maybe house, or maybe
+pirates.<PAGE>\u2338,
+which should I play?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_HAPPY><FP_RIGHT>Ooh, it's all white and
+snowy outside!<PAGE>I want to build
+a snowman!
+Let's go build one!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>When I get bigger, I
+want to ride a horse.
+<PAGE>I bet it's so fun,
+cuz they go so fast!
+I wanna be bigger now!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_HAPPY><FP_RIGHT>Huh? Am I cold?
+I'm okay. I'm wearing
+lots of layers.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>What is it, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>What is it, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>What is it, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>What is it, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>What is it, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>What is it, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>What is it, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_HAPPY><FP_RIGHT>You won the Cooking
+Festival, right? Will you
+take me when I'm bigger?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_SAD><FP_RIGHT>Aww...
+You would have won if
+I was cheering you on.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>I wanna compete in the
+Cooking Festival someday!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>What is it, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>What is it, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_SAD><FP_RIGHT>Oh, did our village lose the
+Cooking Festival?
+I hope we win next time!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>What is it, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_SAD><FP_RIGHT>That's too bad,
+\u2338.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_HAPPY><FP_RIGHT>I want the festival
+to start now!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_SAD><FP_RIGHT>Why didn't you enter,
+\u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>What is it, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>You'll win next time!
+Don't be sad!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>What is it, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>What is it, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>What is it, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KID><FACE_HAPPY><FP_RIGHT>Happy birthday,
+\u2338!<RED>❤</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>What is it, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_KID><FACE_HAPPY><FP_LEFT>Mom, Dad,
+happy birthday!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>What is it, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KID><FACE_HAPPY><FP_RIGHT>Happy birthday!
+I love birthdays!
+
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>What is it, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>What is it, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>What is it, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KID><FACE_HAPPY><FP_RIGHT>Ooh, so yummy!
+Thanks, Mom and Dad!
+This is so great!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>What is it, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KID><FACE_HAPPY><FP_RIGHT>Mom, Dad, you'll be in
+love forever, right?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>What is it, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>What is it, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>What is it, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>What is it, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>What is it, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>What is it, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>What is it, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>What is it, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>What is it, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>What is it, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>What is it, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>What is it, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>What is it, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>What is it, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>What is it, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>What is it, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>What is it, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>What is it, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>What is it, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>What is it, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>What is it, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>What is it, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>What is it, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>What is it, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>What is it, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>What is it, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>What is it, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Good morning, \u2338!
+Are you going to work?
+Have a good day!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Good morning, \u2338!
+I'm trying to decide
+what to play today.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Good morning.
+Did you eat breakfast?
+You should! It's yummy!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Hi, \u2338.
+What is it?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Play with me, \u2338!
+Oh, sorry...
+You're working.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_HAPPY><FP_RIGHT>There's still lots of time
+to play today!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_HAPPY><FP_RIGHT>Oh, \u2338.
+Welcome home!
+Are you done with work?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_SAD><FP_RIGHT>Mm...
+I'm tired.
+*Yawn*...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Hi, \u2338.
+It's late.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>What is it, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>What is it, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>What is it, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>What is it, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>What is it, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>What is it, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>What is it, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>What is it, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>What is it, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>What is it, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>What is it, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>What is it, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>What is it, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>What is it, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>What is it, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>What is it, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>What is it, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>What is it, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>What is it, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>What is it, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>What is it, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_HAPPY><FP_RIGHT>Wow, \u2338.
+Make that for me!
+I wanna eat it too!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_HAPPY><FP_RIGHT>I'm gonna brag to everyone.
+They'll be so jealous!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_HAPPY><FP_RIGHT>I'm hungry!
+I want to eat something
+like that winning dish!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_HAPPY><FP_RIGHT>That was so fun!
+I wish we had festivals
+every day!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_HAPPY><FP_RIGHT>\u2338, I had so
+much fun today!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>I can't wait for next
+year! Right, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>\u2338, you did it!
+You're the best ever!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Wow, you won!
+I knew you'd win, because
+you loved it so much!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Congratulations, \u2338!
+
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Today was so good!
+I loved it.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>I'll never forget today!
+
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>I'm tired.
+I'm going to go to bed
+early today.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>You won!
+Wow!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Everyone was shocked!
+They said you were great!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>I wanna be like you,
+\u2338!
+Teach me how!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_HAPPY><FP_RIGHT>Congratulations!
+You're the best!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_HAPPY><FP_RIGHT>Congratulations on the
+<VAR_0>!!<PAGE>I knew you'd win,
+\u2338!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Your
+<VAR_2> is
+the best!!

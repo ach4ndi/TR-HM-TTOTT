@@ -1,0 +1,733 @@
+<FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT>I love spring...
+It's so relaxing somehow...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT>I always have a lot of
+flowers in stock in spring.<PAGE><FACE_POS_RIGHT><FACE_CAM><FACE_HAPPY><FP_RIGHT>You should come down to the
+shop some time.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT>The cherry trees will be in
+full bloom soon.<PAGE><FACE_POS_RIGHT><FACE_CAM><FACE_HAPPY><FP_RIGHT>I always look forward to
+this time of year.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT>All the flowers in the
+mountains will be blooming
+soon.<PAGE><FACE_POS_RIGHT><FACE_CAM><FACE_HAPPY><FP_RIGHT>I'm looking forward to
+seeing them on my walks.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_SHY><FP_RIGHT>It's so hot all the time.<PAGE><FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT>You should make sure you
+don't get dehydrated.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_SHY><FP_RIGHT>It's so hot all the time...<PAGE>It's hard to stock flowers
+in the summer.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_SHY><FP_RIGHT>It's so hot all the time...<PAGE>It's hard to stock flowers
+in the summer.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT>It's another hot one.<PAGE>It's a good day to go to
+the mountain to catch a
+cool breeze.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT>Fall's really here now.<PAGE>The colors of the leaves are
+so beautiful.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT>The temperature can change
+a lot in the mornings and
+evenings in fall.<PAGE>You have to dress in layers.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT>It's a lot nicer out now.
+<PAGE>Work should get a little
+easier now too...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_HAPPY><FP_RIGHT>The fall flowers are so
+beautiful.<PAGE>Don't the flower beds around
+the village look beautiful?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT>It's gotten a lot colder.<PAGE><FACE_POS_RIGHT><FACE_CAM><FACE_SAD><FP_RIGHT>It's actually really cold
+at the shop during winter.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT>It's been so cold lately.<PAGE>Make sure to dress warm or
+you'll catch a cold.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_SHY><FP_RIGHT>It's even colder today.<PAGE><FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT>I can't wait for spring.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT>It's freezing today.<PAGE>Make sure to dress warm or
+you'll catch a cold.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT>Nice weather always puts me
+in a good mood.<PAGE><FACE_POS_RIGHT><FACE_CAM><FACE_HAPPY><FP_RIGHT>It's so nice to go for
+a walk on days like this.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT>The weather's been so
+unpredictable lately.<PAGE><FACE_POS_RIGHT><FACE_CAM><FACE_SHY><FP_RIGHT>It's really a nuisance when
+you work outside.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT>Nice days are so refreshing.
+<PAGE><FACE_POS_RIGHT><FACE_CAM><FACE_SHY><FP_RIGHT>I hate when it rains because
+the ground gets so muddy.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT>When it's nice out, I get to
+go all over to get flowers
+to stock my shop.<PAGE><FACE_POS_RIGHT><FACE_CAM><FACE_HAPPY><FP_RIGHT>I really like being able to
+have a job that takes me to
+other places.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT>It's been raining all day...<PAGE><FACE_POS_RIGHT><FACE_CAM><FACE_SHY><FP_RIGHT>I hate going out in
+the rain.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT>It gets so muddy on rainy
+days... Be careful not to
+slip.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT>The weather's been so
+unpredictable lately...<PAGE>You should probably check
+the weather report every
+day.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT>The weather has been so
+unpredictable lately...<PAGE>You should probably check
+the weather report every
+day.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT>I've always loved the way
+this place looks in the
+snow.<PAGE><FACE_POS_RIGHT><FACE_CAM><FACE_HAPPY><FP_RIGHT>Don't you think it's pretty?
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT>I saw someone slip here
+the last time it snowed.
+<PAGE>You should walk carefully
+when it's snowy out.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT>Snow, huh?
+This reminds me of when we
+were younger...<PAGE>Ash and Georgia joined
+forces for this huge 
+snowball fight...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT>When I was a kid...<PAGE>I used to build snowmen
+a lot when it snowed.
+It was so much fun.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_SHY><FP_RIGHT>I always feel uncomfortable
+here for some reason...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_SHY><FP_RIGHT>Sorry...<PAGE>I don't really like it here.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_HAPPY><FP_RIGHT>I had a lot of fun today.<PAGE>I hope we can talk again
+sometime soon...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT>Well, I'll see you later.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_SHY><FP_RIGHT>I'm going to head home now.
+<PAGE><FACE_POS_RIGHT><FACE_CAM><FACE_SAD><FP_RIGHT>See you...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_HAPPY><FP_RIGHT>I had a lot of fun today.<PAGE>I love that we can talk like
+this, <MYNICKNAME>...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_SHOCK><FP_RIGHT><MYNAME>。<PAGE>There's something important
+I want to talk to you about.<PAGE>Could you come with me?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_HAPPY><FP_RIGHT>I have so much fun with you.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_HAPPY><FP_RIGHT>I have so much fun with you.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_HAPPY><FP_RIGHT>I have so much fun with you.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_HAPPY><FP_RIGHT>I have so much fun with you.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_HAPPY><FP_RIGHT>I have so much fun with you.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_HAPPY><FP_RIGHT>I have so much fun with you.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_HAPPY><FP_RIGHT>I have so much fun with you.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_HAPPY><FP_RIGHT>I have so much fun with you.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_HAPPY><FP_RIGHT>I have so much fun with you.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_HAPPY><FP_RIGHT>I have so much fun with you.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_HAPPY><FP_RIGHT>I have so much fun with you.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_HAPPY><FP_RIGHT>I have so much fun with you.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_HAPPY><FP_RIGHT>I have so much fun with you.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_HAPPY><FP_RIGHT>I have so much fun with you.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_HAPPY><FP_RIGHT>I have so much fun with you.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT>Aren't animals great?<PAGE>You're a farmer, so you
+should raise more animals.
+<PAGE>Of course, it's up to you
+what you want to focus on...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT>Aren't animals great?<PAGE>I heard you've gotten a lot
+more animals on your farm.
+<PAGE><FACE_POS_RIGHT><FACE_CAM><FACE_HAPPY><FP_RIGHT>It must be hard to take care
+of them all, but I know you
+can do it. Good luck!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT>Aren't animals great?<PAGE>You sure have a lot of
+animals on your farm.
+<PAGE><FACE_POS_RIGHT><FACE_CAM><FACE_HAPPY><FP_RIGHT>They say that people who are
+good with animals have good
+hearts. It must be true.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT>Oh, I heard you're
+collecting bugs...
+<PAGE>...<PAGE>Looks like you've got a
+ways to go.<PAGE>You may be able to find
+different bugs at different
+places in different seasons.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT>Oh, I heard you're
+collecting bugs...
+<PAGE>...<PAGE>Hmm...<PAGE>You've got a pretty good
+collection going...<PAGE><FACE_POS_RIGHT><FACE_CAM><FACE_HAPPY><FP_RIGHT>But if you keep looking, I
+bet you'll find a lot more.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT>Oh, I heard you're
+collecting bugs...
+<PAGE>...<PAGE>Wow...<PAGE>You've really collected
+a lot!<PAGE><FACE_POS_RIGHT><FACE_CAM><FACE_HAPPY><FP_RIGHT>I really respect the way you
+always give everything a
+hundred percent.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT>Oh, I heard you keep a
+record of all the fish
+you catch...<PAGE>...<PAGE>Looks like you've got a
+ways to go.<PAGE>You may be able to find
+different fish at different
+places in different seasons.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT>Oh, I heard you keep a
+record of all the fish
+you catch...<PAGE>...<PAGE>Hmm...<PAGE>You've caught a pretty
+good amount...<PAGE><FACE_POS_RIGHT><FACE_CAM><FACE_HAPPY><FP_RIGHT>But if you keep looking, I
+bet you'll find a lot more.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT>Oh, I heard you keep a
+record of all the fish
+you catch...<PAGE>...<PAGE><FACE_POS_RIGHT><FACE_CAM><FACE_HAPPY><FP_RIGHT>Wow...<PAGE>You've really caught a lot!<PAGE>You're really passionate
+about your work. It's
+inspiring.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT>I heard you're great
+at coming up with new
+recipes....<PAGE>...<PAGE>Oh...
+Looks like you've got a
+ways to go.<PAGE>Maybe you should try
+experimenting with different
+ingredients.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT>I heard you're great
+at coming up with new
+recipes....<PAGE>...<PAGE>Looks like you've thought of
+quite a few recipes...<PAGE>If you keep it up, I bet
+you'll think of even more.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT>I heard you're great
+at coming up with new
+recipes....<PAGE>...<PAGE>You've really though of
+a lot of recipes!<PAGE><FACE_POS_RIGHT><FACE_CAM><FACE_HAPPY><FP_RIGHT>You really are brilliant
+at it! I'd love to eat
+your cooking some time.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_HAPPY><FP_RIGHT>I have so much fun with you.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_HAPPY><FP_RIGHT>I have so much fun with you.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_HAPPY><FP_RIGHT>I have so much fun with you.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_HAPPY><FP_RIGHT>I have so much fun with you.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_HAPPY><FP_RIGHT>I have so much fun with you.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_HAPPY><FP_RIGHT>I have so much fun with you.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_HAPPY><FP_RIGHT>I have so much fun with you.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_HAPPY><FP_RIGHT>I have so much fun with you.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_HAPPY><FP_RIGHT>I have so much fun with you.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_HAPPY><FP_RIGHT>I have so much fun with you.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_HAPPY><FP_RIGHT>I have so much fun with you.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_HAPPY><FP_RIGHT>I have so much fun with you.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_HAPPY><FP_RIGHT>I have so much fun with you.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_HAPPY><FP_RIGHT>I have so much fun with you.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_HAPPY><FP_RIGHT>I have so much fun with you.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_HAPPY><FP_RIGHT>I have so much fun with you.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_HAPPY><FP_RIGHT>I have so much fun with you.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_HAPPY><FP_RIGHT>I have so much fun with you.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_HAPPY><FP_RIGHT>I have so much fun with you.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_HAPPY><FP_RIGHT>I have so much fun with you.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_HAPPY><FP_RIGHT>I have so much fun with you.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_HAPPY><FP_RIGHT>I have so much fun with you.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_HAPPY><FP_RIGHT>I have so much fun with you.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_HAPPY><FP_RIGHT>I have so much fun with you.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_HAPPY><FP_RIGHT>I have so much fun with you.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_HAPPY><FP_RIGHT>I have so much fun with you.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_HAPPY><FP_RIGHT>I have so much fun with you.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_HAPPY><FP_RIGHT>I have so much fun with you.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_HAPPY><FP_RIGHT>I have so much fun with you.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_HAPPY><FP_RIGHT>I have so much fun with you.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_HAPPY><FP_RIGHT>I have so much fun with you.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_HAPPY><FP_RIGHT>I have so much fun with you.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_HAPPY><FP_RIGHT>I have so much fun with you.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_HAPPY><FP_RIGHT>I have so much fun with you.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_HAPPY><FP_RIGHT>I have so much fun with you.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_HAPPY><FP_RIGHT>I have so much fun with you.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_HAPPY><FP_RIGHT>I have so much fun with you.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_HAPPY><FP_RIGHT>I have so much fun with you.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT>I go all over the country
+to stock my flower shop.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT>Do you know about the
+message board in front of
+Town Hall?<PAGE>That's where villagers
+post requests they have.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT>The people in this village
+really love flowers.<PAGE><FACE_POS_RIGHT><FACE_CAM><FACE_HAPPY><FP_RIGHT>If you're interested in
+flowers, you can stop by
+my shop any time!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT>When I'm working at the
+store, a lot of people pass
+by.<PAGE><FACE_POS_RIGHT><FACE_CAM><FACE_HAPPY><FP_RIGHT>It's really interesting to
+people watch...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT>Every summer, the village
+has a Stargazing Festival.<PAGE><FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT>The night sky is so pretty
+in summer.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT>I've made so many
+discoveries traveling
+around the country.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT><MYNAME>, did you figure out
+about the message board yet?<PAGE>If you successfully fulfill
+a request, you get a
+reward...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT>Everyone in the village
+loves flowers.<PAGE>Cheryl comes to buy flower
+seeds from me a lot.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT>When I'm working at the
+store, a lot of people pass
+by.<PAGE>I see Cheryl going into the
+caf on errands a lot...
+<PAGE><FACE_POS_RIGHT><FACE_CAM><FACE_HAPPY><FP_RIGHT>She's such a good girl to
+work so hard like that.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT>Every summer, the village
+has a Stargazing Festival.<PAGE><FACE_POS_RIGHT><FACE_CAM><FACE_HAPPY><FP_RIGHT>You have such an amazing
+view of all the stars from
+the top of the mountain.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT>A little while ago, I went
+to a town with a lot of
+windmills.<PAGE><FACE_POS_RIGHT><FACE_CAM><FACE_HAPPY><FP_RIGHT>It was a really nice town
+with a refreshing breeze.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT>The mayor is in charge of
+the message board.<PAGE><FACE_POS_RIGHT><FACE_CAM><FACE_HAPPY><FP_RIGHT>People use it all the time,
+so it's really helpful.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT>Everyone in the village
+loves flowers.<PAGE><FACE_POS_RIGHT><FACE_CAM><FACE_HAPPY><FP_RIGHT>Rose's flowers are always
+really beautiful. She takes
+such good care of them.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT>When I'm working at the
+store, a lot of people pass
+by.<PAGE>Speaking of which...<PAGE><FACE_POS_RIGHT><FACE_CAM><FACE_SHY><FP_RIGHT>I see Eileen running around
+looking busy a lot.
+<PAGE><FACE_POS_RIGHT><FACE_CAM><FACE_SAD><FP_RIGHT>Sometime she trips and falls
+down, so I always get kind
+of anxious watching her.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT>Every summer, the village
+has a Stargazing Festival.<PAGE><FACE_POS_RIGHT><FACE_CAM><FACE_HAPPY><FP_RIGHT>I love looking at the stars.
+I could spend hours looking
+at them and not get bored.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT>There are a lot of unique
+flowers around the country.
+<PAGE>They also sell a lot of
+products made with flowers.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT>The other day, Howard put
+a request on the message
+board for me.<PAGE><FACE_POS_RIGHT><FACE_CAM><FACE_SHY><FP_RIGHT>I don't know why he didn't
+just tell me at the house.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT>I heard there's a botanist
+in Konohana.<PAGE>She mostly studies the
+local plants.<PAGE><FACE_POS_RIGHT><FACE_CAM><FACE_HAPPY><FP_RIGHT>I'd love to hear what she's
+learned about them.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT>When I'm working at the
+store, a lot of people pass
+by.<PAGE>Speaking of which...<PAGE><FACE_POS_RIGHT><FACE_CAM><FACE_HAPPY><FP_RIGHT>I see you running around
+looking busy all the time.<PAGE>Be careful you don't work
+too hard.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT>Do you like to watch the
+stars, <MYNAME>?<PAGE><FACE_POS_RIGHT><FACE_CAM><FACE_HAPPY><FP_RIGHT>I've always loved the stars
+ever since I was little.<PAGE>I've read a lot of books on
+astronomy.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_HAPPY><FP_RIGHT>When I went to another part
+of the countryside, I had
+this delicious herb tea.<PAGE><FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT>I tried making it when I
+got back here, but...<PAGE><FACE_POS_RIGHT><FACE_CAM><FACE_SHY><FP_RIGHT>It didn't taste the same.<PAGE><FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT>If I ever get to go there
+again, I want to have that
+tea.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT>The other day, Howard put
+a request on the message
+board for me.<PAGE><FACE_POS_RIGHT><FACE_CAM><FACE_SHY><FP_RIGHT>I don't know why he didn't
+just tell me at the house.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_HAPPY><FP_RIGHT>Rose gave me some flowers
+the other day.<PAGE>It's so nice to get flowers
+from someone...<PAGE>Even though I'm around
+flowers all day, ones I get
+as gifts are special.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT>When I'm working at the
+store, a lot of people pass
+by.<PAGE><FACE_POS_RIGHT><FACE_CAM><FACE_SHY><FP_RIGHT>The other day, Rose brought
+me some cake...
+<PAGE><FACE_POS_RIGHT><FACE_CAM><FACE_SAD><FP_RIGHT>I don't like sweet things,
+though, so I wasn't really
+sure what to do with it...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_HAPPY><FP_RIGHT>I love the stars...<PAGE>We're seeing the light that
+they gave off millions of
+years ago...<PAGE>Don't you think there's
+something almost mystical
+about that?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT>I've known Ash since we were
+kids.<PAGE><FACE_POS_RIGHT><FACE_CAM><FACE_SHY><FP_RIGHT>He's never changed much...
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT>I'm living at Howard's
+house.<PAGE>He's such a nice guy.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT>People in the village are
+always coming to buy the
+flowers I stock.<PAGE><FACE_POS_RIGHT><FACE_CAM><FACE_HAPPY><FP_RIGHT>I'm so glad they're all so
+interested in flowers.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT>The women in this village
+are really hardy.<PAGE><FACE_POS_RIGHT><FACE_CAM><FACE_SHY><FP_RIGHT>You'll see what I mean when
+you talk to them.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT>...<PAGE><FACE_POS_RIGHT><FACE_CAM><FACE_SHY><FP_RIGHT>Sorry.<PAGE>I'm much better at listening
+than I am at talking.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_SHY><FP_RIGHT>Ash has always been rowdy.
+<PAGE><FACE_POS_RIGHT><FACE_CAM><FACE_SAD><FP_RIGHT>I wouldn't mind it if he
+calmed down a little...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT>I'm living at Howard's
+house.<PAGE>Howard runs the caf with
+his daughter Laney.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT>People in the village are
+always coming to buy the
+flowers I stock.<PAGE>The other day, Cheryl came
+in to buy some flowers for a
+present.<PAGE><FACE_POS_RIGHT><FACE_CAM><FACE_HAPPY><FP_RIGHT>She was going to give them
+to Jessica and Ash to thank
+them for everything they do.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT>The women in this village
+are really tough.<PAGE>Jessica is raising her
+children and running a farm
+all by herself.<PAGE><FACE_POS_RIGHT><FACE_CAM><FACE_HAPPY><FP_RIGHT>She's such a strong person.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_SAD><FP_RIGHT>...<PAGE><FACE_POS_RIGHT><FACE_CAM><FACE_SHY><FP_RIGHT>Sorry.
+I've never been much of a
+talker.<PAGE>I hope that doesn't bother
+you.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT>Ash and I used to play
+in the mountains a lot.<PAGE><FACE_POS_RIGHT><FACE_CAM><FACE_SHY><FP_RIGHT>He'd just run around without
+a plan. He got lost all the
+time.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT>Howard is amazing.
+<PAGE>Once when Laney forgot her
+lunch on a field trip...<PAGE>..he climbed up the mountain
+to bring it to her.
+<PAGE><FACE_POS_RIGHT><FACE_CAM><FACE_SHY><FP_RIGHT>The power of a parent's love
+is really incredible.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT>People in the village are
+always coming to buy the
+flowers I stock.<PAGE>Rose came in to buy some
+flower seeds the other day.
+<PAGE><FACE_POS_RIGHT><FACE_CAM><FACE_HAPPY><FP_RIGHT>It's her dream to fill the
+village with flowers.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT>The women in this village
+are really tough.<PAGE>Eileen looks so petite, but
+she's able to carry all that
+heavy lumber.<PAGE><FACE_POS_RIGHT><FACE_CAM><FACE_SHY><FP_RIGHT>Where does she get all
+that strength?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_SAD><FP_RIGHT>...<PAGE><FACE_POS_RIGHT><FACE_CAM><FACE_SHY><FP_RIGHT>Sorry.
+I've never been a really
+big talker.<PAGE><FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT>But I'd love to hear what
+you have to say, <MYNAME>.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT>Ash and I used to play in
+the mountains all the time.<PAGE><FACE_POS_RIGHT><FACE_CAM><FACE_SHY><FP_RIGHT>He always liked it when
+I gave him the bugs I found
+on the plants I examined.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT>He becomes a totally
+different person when
+he's angry.<PAGE><FACE_POS_RIGHT><FACE_CAM><FACE_SAD><FP_RIGHT>You should try not to
+make him mad...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT>People in the village are
+always coming to buy the
+flowers I stock.<PAGE>Speaking of which,
+the other day...<PAGE>Grady came in to buy Georgia
+some flowers as a present.
+<PAGE><FACE_POS_RIGHT><FACE_CAM><FACE_HAPPY><FP_RIGHT>They're such a close family.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT>The women in this village
+are really tough.<PAGE><FACE_POS_RIGHT><FACE_CAM><FACE_SHY><FP_RIGHT>Cheryl knows just how to
+deal with Ash, even though
+she's still a kid.<PAGE><FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT>She'll be quite a woman
+when she grows up.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT>...<PAGE>It's amazing, <MYNAME>.<PAGE><FACE_POS_RIGHT><FACE_CAM><FACE_SHY><FP_RIGHT>I'm usually not good at
+making conversation...<PAGE><FACE_POS_RIGHT><FACE_CAM><FACE_HAPPY><FP_RIGHT>But somehow when I'm with
+you, the words just come
+pouring out of me...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT>When I come back from other
+villages, Ash always comes
+to see me.<PAGE><FACE_POS_RIGHT><FACE_CAM><FACE_SAD><FP_RIGHT>To be honest, it can be
+annoying at times...<PAGE><FACE_POS_RIGHT><FACE_CAM><FACE_HAPPY><FP_RIGHT>But it does make me feel
+like I'm really home.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT>Howard is like a father
+to me.
+<PAGE><FACE_POS_RIGHT><FACE_CAM><FACE_HAPPY><FP_RIGHT>He can be a little strange,
+but I have so much respect
+for him...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT>People in the village are
+always coming to buy the
+flowers I stock.<PAGE><FACE_POS_RIGHT><FACE_CAM><FACE_HAPPY><FP_RIGHT>The other day the mayor
+came in to buy a bouquet.<PAGE>He had a fight with Rose,
+and he wanted to give it to
+her when he apologized.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT>The women in this village
+are really tough.<PAGE><FACE_POS_RIGHT><FACE_CAM><FACE_SHY><FP_RIGHT>You should see Rose when she
+gets angry at the mayor.
+It's scary!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT>...<PAGE>You're amazing.<PAGE><FACE_POS_RIGHT><FACE_CAM><FACE_HAPPY><FP_RIGHT>You make friends so easily.
+<PAGE>You have some sort of
+charisma that draws people.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT>When I travel around the
+country for work, I meet
+all sorts of people.<PAGE><FACE_POS_RIGHT><FACE_CAM><FACE_HAPPY><FP_RIGHT>It's always interesting
+to hear what they have to
+say.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT>People in this village
+just love to talk!<PAGE><FACE_POS_RIGHT><FACE_CAM><FACE_HAPPY><FP_RIGHT>Everyone says nice things
+about you, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT>There's a lot of animals
+in this village.<PAGE>We really do share it with
+the animals. 
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_SHY><FP_RIGHT>People in this village are
+really nosy.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT><MYNAME>...<PAGE>You're...\u270b
+<FACE_POS_RIGHT><FACE_CAM><FACE_HAPPY><FP_RIGHT>so interesting.<PAGE>I have so much fun talking
+to you.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT>When I go all around the
+countryside for work, I meet
+all sorts of people.<PAGE><FACE_POS_RIGHT><FACE_CAM><FACE_HAPPY><FP_RIGHT>The other day, I saw a
+tough-looking craftsman
+dressed like a panda.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT>People in this village
+love to talk.<PAGE>I'm not a big talker...
+But you seem like you could
+talk to anyone.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT>The land this village is
+built on is perfect for
+raising animals.<PAGE><FACE_POS_RIGHT><FACE_CAM><FACE_HAPPY><FP_RIGHT>I think having animals
+around makes life wonderful.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT>The other day, Jessica came
+by to bring me some food.
+<PAGE><FACE_POS_RIGHT><FACE_CAM><FACE_HAPPY><FP_RIGHT>Jessica's a really sweet
+person. She's always
+thinking about other people.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT><MYNAME>...<PAGE>You're...\u270b
+<FACE_POS_RIGHT><FACE_CAM><FACE_HAPPY><FP_RIGHT>really nice.<PAGE>Talking to you makes me feel
+so relaxed.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT>When I go all around the
+countryside for work, I meet
+all sorts of people.<PAGE>This one time, I even
+saw a prince!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT>You're not throwing things
+in the river, are you?<PAGE><FACE_POS_RIGHT><FACE_CAM><FACE_SHY><FP_RIGHT>Polluting the river makes
+everyone angry.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT>The land this village is
+built on is perfect for
+raising animals.<PAGE><FACE_POS_RIGHT><FACE_CAM><FACE_HAPPY><FP_RIGHT>Do you like animals?
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT>The other day, I brought the
+shelves from the store
+to Eileen's shop for repair.<PAGE><FACE_POS_RIGHT><FACE_CAM><FACE_SHY><FP_RIGHT>She not only repaired them,
+she covered them in gold
+leaf for some reason.<PAGE><FACE_POS_RIGHT><FACE_CAM><FACE_SAD><FP_RIGHT>They were so gaudy. I had
+to scrape it all off.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_HAPPY><FP_RIGHT><MYNAME>...<PAGE>You're such...\u270b
+<FACE_POS_RIGHT><FACE_CAM><FACE_SHOCK><FP_RIGHT>a nice person.<PAGE>I really respect the way you
+think about other people.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT>When I go all around the
+countryside for work, I meet
+all sorts of people.<PAGE><FACE_POS_RIGHT><FACE_CAM><FACE_HAPPY><FP_RIGHT>Last time I went to this
+village where they were
+holding a grand bazaar.<PAGE>It was a great place.
+There was so much going on!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT><MYNAME>,
+have you given people in the
+village any presents yet?<PAGE><FACE_POS_RIGHT><FACE_CAM><FACE_HAPPY><FP_RIGHT>Everyone has their likes and
+dislikes, but I think they'd
+all love a present.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT>Do you have any pets?
+<PAGE><FACE_POS_RIGHT><FACE_CAM><FACE_SHOCK><FP_RIGHT>I think cats...<PAGE>...are really cute...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT>When I go to stock my shop,
+Howard makes me a ton of
+food to take with me.<PAGE>He always packs enough food
+for 4 or 5 days, so I never
+worry about going hungry.<PAGE><FACE_POS_RIGHT><FACE_CAM><FACE_HAPPY><FP_RIGHT>I'm always shocked at the
+amount of food he packs, but
+it's a huge help to me.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT><MYNAME>...<PAGE>Uh...\u270b
+I think...<PAGE><FACE_POS_RIGHT><FACE_CAM><FACE_SHOCK><FP_RIGHT>You're a great person.<PAGE>It's easy to see just why
+everyone loves you.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT>The other day, I ran into a
+merchant friend of mine who
+collects ore and minerals.<PAGE>He has a booth at his
+town's bazaar now.<PAGE><FACE_POS_RIGHT><FACE_CAM><FACE_HAPPY><FP_RIGHT>He seems to be doing well.
+
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT>Have you been talking to
+people in the village?<PAGE><FACE_POS_RIGHT><FACE_CAM><FACE_SHY><FP_RIGHT>If you get so wrapped up in
+work you forget to talk to
+people, they'll be sad.<PAGE><FACE_POS_RIGHT><FACE_CAM><FACE_SAD><FP_RIGHT>And...I'd be sad too...
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT>The other day, I went to
+Grady's to deliver
+a package...<PAGE>That cat that's always by
+the counter...<PAGE><FACE_POS_RIGHT><FACE_CAM><FACE_SHOCK><FP_RIGHT>He's...<PAGE>He's really cute....
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_SHY><FP_RIGHT>The other day, Georgia came
+by to tell me a joke...
+<PAGE>And then she wanted me to
+tell her a joke....<PAGE>So I tried my hardest to
+think up a funny joke...
+<PAGE><FACE_POS_RIGHT><FACE_CAM><FACE_SAD><FP_RIGHT>And...\u270a\u270a...\u270a\u270ashe looked...
+horrified!<PAGE>That's why I hate having to
+tell jokes...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_SHOCK><FP_RIGHT>...
+So, uh...<PAGE>I always have fun with you.
+<PAGE>And I hope...<PAGE><FACE_POS_RIGHT><FACE_CAM><FACE_HAPPY><FP_RIGHT>We can keep talking like
+this for a long time...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT>How long have we known each
+other now?<PAGE><FACE_POS_RIGHT><FACE_CAM><FACE_HAPPY><FP_RIGHT>When I'm with you, time just
+flies by...<PAGE><FACE_POS_RIGHT><FACE_CAM><FACE_SHOCK><FP_RIGHT>I know my love for you will
+never fade.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT><MYNICKNAME>...<PAGE>Work is important, but so is
+your health, so you need to
+take care of yourself.<PAGE><FACE_POS_RIGHT><FACE_CAM><FACE_SAD><FP_RIGHT>I just...I worry about you.
+Promise me you'll be
+careful.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT><MYNICKNAME>...
+<PAGE><FACE_POS_RIGHT><FACE_CAM><FACE_SHOCK><FP_RIGHT>Thank you for being with me.
+<PAGE>I, uh...\u270b
+I love you...

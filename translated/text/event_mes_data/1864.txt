@@ -1,0 +1,117 @@
+<FP_NONE>Tanya tentang permintaan?
+<CHOICE_AB> Ya
+ Tidak
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>Aku selalu pergi ke pegu-
+nungan untuk mencari bebera-
+pa tanaman dan bunga.<PAGE>Itu kenapa aku tahu banyak
+mengenai apa yang kamu cari
+dipegunungan.<PAGE>Apakah kamu ingin beberapa
+saran untuk bagaimana untuk
+memanfaatkan semaksimal<PAGE>mungkin disaat kamu jalan-
+jalan kepegunungan?
+----------------------------|----------------------------------
+<FP_NONE><CHOICE_AB> Tolong beritahuku!
+ Tidak makasih.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>Oke, kalau gitu aku akan
+menjelaskan itu kepada
+kamu.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>Itulah yang bisa dipelajari.
+Apa ingin dijelaskan lagi?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>Sekarang kamu dapat jalan-
+jalan disekitar dan cari
+yang kamu cari dipegunungan!<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_HAPPY>Jika kamu lihat secara lebih
+dekat, kamu dapat menemukan
+bunga cantik bermekaran di<PAGE>tempat yang membuatmu kaget.<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL>Aku harap kamu dapat mene-
+mukan barang dalam 
+<RED>permintaan</COLOR> untukku.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>Halo.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>Halo.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>Halo.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>Halo.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>Oh, ternyata kamu dapat me-
+nemukan apa yang aku minta
+...\u270a...<FACE_POS_RIGHT><FACE_REINA><FACE_HAPPY>Bagus! Sangat bagus!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>Ya, ini cukup memuaskan.
+Kamu sudah lakukan dengan
+baik.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>Selain herbal itu, aku
+tebak kamu juga menemukan
+banyak hal yang lainkan?<PAGE>Rembung tumbuh disepanjang
+musim ini, dan juga jamur,
+kastanye.<PAGE>Disana ada banyak <RED>bahan-
+bahan masak</COLOR>.
+Coba cari semuanya.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>Well, ini hadiah untukmu 
+karena sudah memenuhi per-
+mintaanku.<PAGE>Pilih hadiahmu dari <RED>layar
+hadiah</COLOR>...<PAGE>...dan pindahkan itu kedalam
+<RED>tas</COLOR>.
+mudahkan?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>Lihat itu lavender...?
+Aku mengumpulkan itu selama
+musim dingin.<PAGE>...<FACE_POS_RIGHT><FACE_REINA><FACE_HAPPY>Baunya wangi, tidak?<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL>Kamu juga dapat menggunakan
+<RED>lavender</COLOR> dan <RED>herbal 
+yang aku minta</COLOR><PAGE>digunakan dalam memasak...<PAGE>Bahan-bahan tersebut sangat
+wangi untuk <RED>salad herbal</COLOR>. 
+Kamu harus mencoba buat!<PAGE>Aku tahu hidup dalam per-
+kebunan pastinya berat, jadi
+lakukan dengan baik!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>Halo.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>Halo.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>Halo.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>Halo.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>Halo.
+----------------------------|----------------------------------
+<FP_NONE>Kamu tidak membutuhkan gelar
+untuk memperlajari apa yang
+aku beritahu kepadamu...
+----------------------------|----------------------------------
+<FP_NONE>Apa kamu tahu bagaimana cara
+mengambil barang yang berge-
+letak ditanah?<PAGE>Hanya menekan <RED>tombol A</COLOR>.<PAGE>Itu juga berlaku untuk me-
+ngambil barang yang berte-
+baran dipegunungan.
+----------------------------|----------------------------------
+<FP_NONE>Kamu dapat mencari beberapa
+barang yang ada
+dipegunungan.<PAGE>Beberapa diantaranya bisa di
+makan dan tidak.<PAGE>Itu sangat menyenangkan
+untuk mencari semuanya
+disana.
+----------------------------|----------------------------------
+<FP_NONE>Kamu dapat mencari bunga dan
+kacang ditempat seperti ini.<PAGE>Coba mencarinya jika kamu
+berpikir sesuatu bagus
+mungkin didapatkan.<PAGE>Kalau tidak dapat, ya...
+APESMU.
+wkwkwkwkwk
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>Halo.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>Halo.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>Halo.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>Halo.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>Halo.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>Halo.

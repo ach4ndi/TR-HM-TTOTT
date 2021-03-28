@@ -1,0 +1,601 @@
+<FACE_POS_CENTER><HIDE_NAME><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hey, you're a new face!
+<MYNAME> is your name?<PAGE><FACE_POS_CENTER><FACE_AYAME><FACE_HAPPY><FP_RIGHT>I'm <BLUE>Ayame</COLOR>.
+I'm a doctor.
+Come see me if you need me.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_SAD><FP_RIGHT>I always feel a little down
+in bad weather like
+yesterday's storm.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, kiddo.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, kiddo.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, kiddo.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_HAPPY><FP_RIGHT>Aww. What a little cutie!
+How adorable!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_ANGRY><FP_RIGHT>What's THAT?
+Are you trying to get a rise
+out of me? How childish...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, kiddo.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_HAPPY><FP_RIGHT>Well now! A blue feather!
+So you're proposing to
+someone?<PAGE>Don't mess it up!
+I'm rooting for you!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>I don't want it right now.
+I'm not in the mood.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Oh, another gift today?
+Hmm, I have to decline.
+Sorry.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, kiddo.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, kiddo.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>What are you up to?
+
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_HAPPY><FP_RIGHT>I haven't had such a nice
+birthday present in ages.<PAGE>It's perfect!
+Thanks, <MYNAME>.
+
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_HAPPY><FP_RIGHT>It's <RED>quiche</COLOR>!
+This looks wonderful!<PAGE>How delightful!
+Thank you!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, kiddo.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, kiddo.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Thanks to you, this will be
+a birthday to remember,
+<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>I'm thrilled.
+I just can't resist this.
+Thanks!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>So you knew it was my
+birthday today?
+I'm thrilled!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Is this for me?
+How nice of you.
+Thanks!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>A birthday present?
+Um, what to say...?
+Honestly, I don't like it.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>I just can't stand this.
+But I'll take it off your
+hands.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>No, not <RED>corn cereal</COLOR>!
+I know it's nutritious,
+but I hate eating it...<PAGE>I'm sorry to say, this is
+a terrible present.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, kiddo.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Is life with Hiro all
+that you hoped for,
+<MYNAME>?<PAGE>You are one lucky girl,
+getting to eat his home-
+cooked meals every day...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>It looks like marriage is
+treating you well, <MYNAME>.<PAGE>I hope I meet my Mr. Right
+someday... *sigh*
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_SAD><FP_RIGHT>I hope everyone has the good
+sense to stay indoors today.
+It's dangerous out there.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_ANGRY><FP_RIGHT>This snow is terribly heavy.
+Stay inside and keep warm!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_HAPPY><FP_RIGHT><MYNAME>, I'm glad
+to be friends with you.<PAGE>Since meeting you, I feel
+like I've learned a lot.
+Let's stay friends!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>In Konohana, people rarely
+get sick.<PAGE>It's probably all the clean
+air and fresh crops. It
+certainly makes my job easy!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_HAPPY><FP_RIGHT>How are things on your
+farm? Could I come by and
+see it some time?<PAGE>I'm interested to see what
+farming life is like.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_HAPPY><FP_RIGHT>I'm always happy to see you,
+<MYNAME>. You're good
+company.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Let me know if you ever
+get injured.<PAGE>The faster you treat an
+injury, the better it's
+likely to heal.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Are you hurt? Anything
+wrong with you? If so, let
+me know.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Come on in.
+Make yourself some tea
+if you'd like.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, kiddo.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, kiddo.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, kiddo.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, kiddo.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, kiddo.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, kiddo.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, kiddo.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, kiddo.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, kiddo.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, kiddo.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, kiddo.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, kiddo.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, kiddo.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, kiddo.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, kiddo.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, kiddo.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, kiddo.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, kiddo.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, kiddo.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, kiddo.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, kiddo.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, kiddo.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, kiddo.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, kiddo.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, kiddo.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, kiddo.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, kiddo.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, kiddo.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, kiddo.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, kiddo.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, kiddo.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, kiddo.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, kiddo.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, kiddo.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, kiddo.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, kiddo.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_HAPPY><FP_RIGHT>That's for the festival?
+Good luck, kiddo.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, kiddo.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, kiddo.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Huh...
+Not very interesting...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_HAPPY><FP_RIGHT>What do we have here?
+How adorable!
+
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_ANGRY><FP_RIGHT>Don't bring that over here!
+Get that thing away from me!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Wild animals are dangerous.
+You should just let it go.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, kiddo.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, kiddo.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, kiddo.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, kiddo.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, kiddo.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, kiddo.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, kiddo.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, kiddo.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, kiddo.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, kiddo.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, kiddo.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, kiddo.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_HAPPY><FP_RIGHT>A flower for me?
+Thanks! That's sweet.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, kiddo.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, kiddo.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, kiddo.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, kiddo.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, kiddo.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, kiddo.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_HAPPY><FP_RIGHT>Can't wait to see what it
+is...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_HAPPY><FP_RIGHT><MYNAME>, you're like a
+little sister to me.
+You're a sweet kid.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, kiddo.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Face me for a second...
+Open wide...
+Okay...<PAGE><FACE_POS_CENTER><FACE_AYAME><FACE_ANGRY><FP_RIGHT>Hold on, now!!!
+That doesn't look good.
+<PAGE>Eat something nutritious and
+get to bed early today!
+Doctor's orders.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Face me for a second...
+Open wide...
+Okay, good.<PAGE>Things look okay, but you
+should still probably get to
+bed early tonight.<PAGE>All done!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, kiddo.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, kiddo.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_HAPPY><FP_RIGHT>I worked a lot this week.
+Today I want to get away
+from the clinic for awhile.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_SAD><FP_RIGHT>Oh boy, today
+just flew by.
+Not a moment's rest...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_ANGRY><FP_RIGHT>Now hold up a second there,
+<MYNAME>.<PAGE>What are you doing out in
+the rain with no umbrella?
+You'll catch cold!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, kiddo.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, kiddo.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, kiddo.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, kiddo.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, kiddo.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, kiddo.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, kiddo.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, kiddo.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_HAPPY><FP_RIGHT>It's a great day!
+We couldn't have done it
+without you cheering us on!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_SAD><FP_RIGHT>We lost today...
+And you were cheering us on
+too, kiddo... Oh well.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_HAPPY><FP_RIGHT><MYNAME>, I want to enter the
+Cooking Festival with you.
+For Konohana, of course.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, kiddo.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, kiddo.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_SAD><FP_RIGHT>Oh fiddlesticks! We lost!
+Cheer me up somehow,
+kiddo!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, kiddo.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>There's always next time.
+Buck up, kiddo.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_SAD><FP_RIGHT>Today's festival will be
+fun. I'm just worried that
+someone might get hurt...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>You didn't join in today?
+Weren't you feeling well?
+Should I take a look at you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, kiddo.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Oh boy, and my hopes
+were so high...
+We'll get it next time.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, kiddo.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, kiddo.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, kiddo.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, kiddo.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, kiddo.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, kiddo.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, kiddo.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, kiddo.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, kiddo.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, kiddo.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, kiddo.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, kiddo.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, kiddo.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, kiddo.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, kiddo.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, kiddo.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, kiddo.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, kiddo.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, kiddo.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, kiddo.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, kiddo.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Just here to watch the
+festival? That's fine.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, kiddo.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, kiddo.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, kiddo.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, kiddo.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, kiddo.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, kiddo.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, kiddo.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, kiddo.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, kiddo.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, kiddo.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, kiddo.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, kiddo.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, kiddo.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, kiddo.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, kiddo.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, kiddo.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, kiddo.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, kiddo.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, kiddo.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Good morning, <MYNAME>.
+<PAGE>How are you feeling?
+If you're sleepy, try some
+exercise to wake up!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Good morning, <MYNAME>.
+<PAGE>I have low blood sugar, so
+mornings are tough for me...
+I'm always sleepy...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Ugh. Mornings.
+Being sleepy can be
+dangerous.<PAGE>You're clumsier and more
+likely to injure yourself. 
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, <MYNAME>.
+Need anything from me?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, <MYNAME>.<PAGE>How's work?
+Don't be loafing around!
+Keep working hard!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi.<PAGE><MYNAME>, I can read you
+like a book. I know just
+what you're thinking.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Evening, <MYNAME>.<PAGE>It's time to be getting to
+bed. A doctor should set a
+good example.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Evening, <MYNAME>.<PAGE>I'm glad you stopped by,
+but you have an early start
+tomorrow, so go home to bed!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Good evening.<PAGE>I need to clean the place.
+It's looking dusty. I'm
+always so busy, though.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, kiddo.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, kiddo.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, kiddo.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, kiddo.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, kiddo.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, kiddo.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_HAPPY><FP_RIGHT>Mmm. Delicious!
+The food here is heavenly.
+Just like Mom's cooking.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>You wonder why I don't cook?
+It's not that I CAN'T cook,
+I just don't have time.<PAGE>And I hate the set-up and
+clean-up.
+What a waste of time!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>What should I have today?
+Do you recommend anything,
+<MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>What's up?
+Are you feeling ill?
+No? That's good.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>What's up?
+Are you feeling ill?
+No? That's good.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>What's up?
+Are you feeling ill?
+No? That's good.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, kiddo.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, kiddo.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, kiddo.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, kiddo.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, kiddo.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, kiddo.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, kiddo.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, kiddo.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, kiddo.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_HAPPY><FP_RIGHT><MYNAME>, you are an
+incredible cook!<PAGE>I could eat your home-made
+food any time!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>To be self-taught and win
+like that shows hard work!
+Congrats!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Your food looks amazing!
+I should ask you to cook for
+the clinic.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_HAPPY><FP_RIGHT>I'm glad nobody got injured
+at the festival.
+What a relief.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Ah, it's finally over.
+I was worried that somebody
+would get sick or hurt.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Since nothing went wrong,
+I can sleep easy tonight.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_HAPPY><FP_RIGHT>Whenever I eat your crops,
+I feel a burst of energy!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_HAPPY><FP_RIGHT>Congrats on winning!
+I knew you could do it,
+kiddo.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Fresh produce is healthy,
+so keep on growing crops.
+Everyone should buy them.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Ah, what a good feeling.
+I'm sure I'll sleep well
+tonight.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_HAPPY><FP_RIGHT>Today's festival was lots of
+fun. 
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>What a nice, relaxing day.
+I know I'll wake up feeling
+refreshed tomorrow!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_HAPPY><FP_RIGHT>Congrats on winning!<PAGE>You looked like a little kid
+out there, you were having
+so much fun. I'm jealous!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Not hurt, are you?
+Don't overdo it.
+That's my advice.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Today's festival was fun
+for the grownups.
+I can see why.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, kiddo.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, kiddo.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hi, kiddo.

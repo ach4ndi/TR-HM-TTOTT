@@ -1,0 +1,37 @@
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_NORMAL>Apa kamu membutuhkan sesuatu
+dariku?<INPUT_KEYPAD>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_NORMAL><CHOICE_AB> Buatkan sesuatu.
+ Lupakan.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_NORMAL>Kamu inginkan aku untuk
+membuat sesuatu?<PAGE>Kamu tahukan, apa aku sudah
+melakukannya?
+bener kan?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_NORMAL>Oke, Lalu.
+Datang lagi dilain waktu!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_SAD>Apa? Kamu berubah pikiran?
+Oke...
+Ada yang lainnya?<INPUT_KEYPAD>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY>harganya.. <RED><VAR_0>G</COLOR>!
+<CHOICE_AB> Oke!
+ Tidak!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_SAD>Uang kamu tidak mencukupi!
+Dan aku juga tidak tahu
+alasanmu kemari...<INPUT_KEYPAD>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_SAD>Oh, sepertinya tasmu
+penuh<INPUT_KEYPAD>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY>Aku sedang mengerjakan
+sesuatu, saat ini!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY>Apa yang kamu pikirkan? apa
+tidak ini sangat bagus?
+kamu sangat mengagumkan!
+----------------------------|----------------------------------
+Dummy

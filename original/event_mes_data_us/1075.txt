@@ -1,0 +1,121 @@
+<FACE_POS_RIGHT><FACE_ASH><FACE_SHY><FP_RIGHT>What's wrong?
+You're really pale...<PAGE><FACE_POS_RIGHT><FACE_ASH><FACE_ANGRY><FP_RIGHT>It doesn't seem like
+a cold, but let's get the
+doctor to be sure. Hold on!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_SAD><FP_RIGHT>A-Are you alright?
+You look really pale!<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_SHY><FP_RIGHT>It doesn't seem like a cold.
+What could it be?
+<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_ANGRY><FP_RIGHT>Please hang on!
+I'll get Dr. Ayame.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_SHY><FP_RIGHT>What's wrong? You're awfully
+pale.<PAGE><FACE_POS_RIGHT><FACE_CAM><FACE_ANGRY><FP_RIGHT>Hang on...
+I'll get the doctor!
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_SAD><FP_RIGHT><MYNICKNAME>...are you okay?
+You look...worse than bad.
+<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_ANGRY><FP_RIGHT>I'll go get Dr. Ayame!
+Hold on!
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MIKHAIL><FACE_SHY><FP_RIGHT>Wh-What is it?
+You're white as a wax doll.
+<PAGE><FACE_POS_RIGHT><FACE_MIKHAIL><FACE_ANGRY><FP_RIGHT>I'll go get the doctor.
+Just hang in there.
+I'll be back soon.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_SAD><FP_RIGHT>Hey, what is it?
+You're so pale!<PAGE><FACE_POS_RIGHT><FACE_DIRK><FACE_NORMAL><FP_RIGHT>I'll go get Ayame. She'll
+know what's wrong...
+<PAGE><FACE_POS_RIGHT><FACE_DIRK><FACE_ANGRY><FP_RIGHT>Just hang in there,
+okay, <MYNICKNAME>?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_AYAME><FACE_NORMAL><FP_RIGHT>You're not feeling well?
+You do look pale.
+Now let's take a look...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Oh my.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Hope you two are ready for
+an exciting change in your
+life...<PAGE><FACE_POS_RIGHT><FACE_AYAME><FACE_HAPPY><FP_RIGHT>You're going to be parents!
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_AYAME><FACE_HAPPY><FP_RIGHT>Congratulations!
+You're going to have
+a baby!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL><FP_RIGHT>A...A baby?
+What, really?<PAGE><FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT><MYNICKNAME>, isn't this great?
+I'm so happy!
+<PAGE><FACE_POS_RIGHT><FACE_ASH><FACE_SHOCK><FP_RIGHT>I can't wait to see what our
+child will be like!
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_NORMAL><FP_RIGHT>I knew it!
+I wasn't sure, but I had my
+suspicions...<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_SHOCK><FP_RIGHT>I'm so glad. We're going to
+have a baby...
+<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_HAPPY><FP_RIGHT>I wonder if it'll be a boy
+or a girl...<PAGE>Either way, I know it will
+be adorable!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT>A...A baby?
+R-Really?<PAGE><FACE_POS_RIGHT><FACE_CAM><FACE_HAPPY><FP_RIGHT>I can't believe it...
+<MYNICKNAME> and I are
+going to have a baby...<PAGE><FACE_POS_RIGHT><FACE_CAM><FACE_SHOCK><FP_RIGHT>I'm so happy.
+I wonder what our baby
+will be like...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>R-Really?
+I see, so that's why...<PAGE>Yahoo! That's awesome!
+We're having a baby!
+<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_SHOCK><FP_RIGHT>This is so exciting!
+I can't wait!
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>We're having a baby?
+<PAGE><FACE_POS_RIGHT><FACE_MIKHAIL><FACE_HAPPY><FP_RIGHT>How wonderful! I feel like
+I could write a symphony of
+joy right now!<PAGE>I know! I'll write songs
+for our baby.
+<PAGE><FACE_POS_RIGHT><FACE_MIKHAIL><FACE_SHOCK><FP_RIGHT>I can't wait for our
+treasure's arrival.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_NORMAL><FP_RIGHT>Whaat!?
+A...A baby!?<PAGE><FACE_POS_RIGHT><FACE_DIRK><FACE_HAPPY><FP_RIGHT>Wow. I'm so happy. Ha ha!
+So I'm going to be a dad...<PAGE><FACE_POS_RIGHT><FACE_DIRK><FACE_SHOCK><FP_RIGHT>I can't wait to see if it's
+a boy or a girl.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_AYAME><FACE_HAPPY><FP_RIGHT>Heh heh. Well then, I'll
+be off.<PAGE><FACE_POS_RIGHT><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Call me when the time comes.
+I'll come right over.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>Thank you very much.
+We'll see you soon.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_HAPPY><FP_RIGHT>Okay. Thank you very much!
+We'll be seeing you.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_HAPPY><FP_RIGHT>Thank you very much.
+We'll see you later.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>Will do!
+Thanks, Ayame!
+See you later!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MIKHAIL><FACE_HAPPY><FP_RIGHT>Thank you.
+You're a big help.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_HAPPY><FP_RIGHT>Thank you! I'm so glad you
+were here, Ayame!
+We'll see you later.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_AYAME><FACE_HAPPY><FP_RIGHT>You're very welcome. Don't
+work too hard, now.<PAGE><FACE_POS_RIGHT><FACE_AYAME><FACE_NORMAL><FP_RIGHT>And take good care of
+<MYNAME>!

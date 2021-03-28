@@ -1,0 +1,93 @@
+<FACE_POS_LEFT><HIDE_NAME><FACE_GEORGIA><FACE_NORMAL><FP_LEFT><HIDE_FACE>Hei, Laney!
+Gua nyariin lu kamvret!
+Lu lagi apaan sih?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_NORMAL><FP_RIGHT>Oh, Georgia.
+Apa maksudmu asw?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_HAPPY><FP_RIGHT>Gw hanya jalan jalan
+sama <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_GEORGIA><FACE_NORMAL><FP_LEFT>Btw, Neng Howard
+Nyariin lu.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_GEORGIA><FACE_NORMAL><FP_LEFT>Neng bilang lu harus kerja 
+di kafe untuk sekarang 
+juga!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_SHY><FP_RIGHT>\u20d0Oh ga!<PAGE>HHH aku lupa nih!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_SHY><FP_RIGHT>Maaf ya, <MYNAME>,
+Aku harus kembali ke cafe.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_NORMAL><FP_RIGHT>Hah? 
+Kamu ingin bantu bantu?
+Hmm... tapii.. yasudah deh..
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_HAPPY><FP_RIGHT>Makasih, <MYNAME>.
+Ayu kita ke cafe
+papaku!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_NORMAL><FP_RIGHT>Makasih udh di kasih tau,
+Georgia!<PAGE><FACE_POS_LEFT><FACE_GEORGIA><FACE_HAPPY><FP_LEFT>Iya iya.
+Bye kamvret!<PAGE><FACE_POS_RIGHT><FACE_LANEY><FACE_HAPPY><FP_RIGHT>Oke asw!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_SHY><FP_RIGHT>Maaf ya papa, aku
+aku lupa sih..
+untuk membantu.<PAGE><FACE_POS_LEFT><FACE_HOWARD><FACE_NORMAL><FP_LEFT>Oh, gapapa ko, Laney.
+Papa gak maksa kok..
+untuk bantu bantu.<PAGE>tapi gapapa deh ya
+udah kelanjur ini..
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_HOWARD><FACE_NORMAL><FP_LEFT>Jangan bilang ke aku
+kalo kamu bersama sama!?<PAGE><FACE_POS_RIGHT><FACE_LANEY><FACE_NORMAL><FP_RIGHT>Huh? Yeah.<PAGE>Sebenarnya, <MYNAME>
+dia ingin membantu.<PAGE><FACE_POS_LEFT><FACE_HOWARD><FACE_NORMAL><FP_LEFT>Iyakah?
+Hmmm...Mau pelatihan banci?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_SHY><FP_RIGHT>Anjrit! jangan
+gitu lah papa!?<PAGE>Kamu membuat <MYNAME>
+gugup.<PAGE>Udah udah deh.
+malu maluin!<PAGE><FACE_POS_LEFT><FACE_HOWARD><FACE_HAPPY><FP_LEFT>Ohh gitu, maafin ya
+aku pikir kamu mao jadi banci
+biar bisa anu sama aku.<PAGE>yaudah deh makasih ya,
+<MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_HOWARD><FACE_NORMAL><FP_LEFT>Maaf aku keterlaluan!
+<PAGE><FACE_POS_LEFT><FACE_HOWARD><FACE_HAPPY><FP_LEFT>Tapi btw makasih ya
+udah bantu bantu,
+<MYNAME>.<PAGE>Kamu tampan!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_NORMAL><FP_RIGHT>Aku harap ini 
+tidak cape!
+----------------------------|----------------------------------
+<CHOICE_AB> Masalahnya papalu HOMO.
+ Nggak cape kok!.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_SHY><FP_RIGHT>Iyakah? mungkin
+di pertanian lebih
+cape kali yak<PAGE><FACE_POS_RIGHT><FACE_LANEY><FACE_NORMAL><FP_RIGHT>BTW, makasih ya
+udah bantu bantu.
+Bye, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_HAPPY><FP_RIGHT>Aku selalu mengandalkanmu
+<MYNAME>.<PAGE>Kamu pasti lebih cape
+kerja di pertanian
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_HOWARD><FACE_HAPPY><FP_LEFT>Gimana kalo aku jadi suami
+kamu?<PAGE>mungkin akan lebih
+menyenangkan!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_SHOCK><FP_RIGHT>Anjrit!!
+Jan bilang gitu anjrit!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_HAPPY><FP_RIGHT>Maaf ya, <MYNAME>.
+Anggap aja dia nyamuk
+yang lewat!<PAGE><FACE_POS_RIGHT><FACE_LANEY><FACE_NORMAL><FP_RIGHT>BTW, makasih
+ya udah bantu bantu.
+kamu sangat membantu!<PAGE>Jadi maafin kata"
+papaku ini.<PAGE><FACE_POS_RIGHT><FACE_LANEY><FACE_SHOCK><FP_RIGHT>Lain kali kita keluar,
+bareng bareng yak!.
+Janji okey!?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_HAPPY><FP_RIGHT>Hee hee. Sampai jumpa nanti,
+<MYNAME>!

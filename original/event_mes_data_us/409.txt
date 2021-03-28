@@ -1,0 +1,42 @@
+<FACE_POS_LEFT><FACE_YUN><FACE_NORMAL><FP_LEFT>Now, Ying, dear, these long,
+slim stalks are bamboo.<PAGE>We eat bamboo shoots often,
+but when they get big, they
+look like this!<PAGE>Take a look here, Ying...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_YING><FACE_NORMAL><FP_LEFT>It's a panda...!<PAGE>And an even bigger panda...!<PAGE><FACE_POS_RIGHT><FACE_SHENG><FACE_HAPPY><FP_RIGHT>Oh, it's you, Ying!
+How are you, kid?<PAGE><FACE_POS_LEFT><FACE_YING><FACE_NORMAL><FP_LEFT>Um...fine...<PAGE>There's...an even bigger
+panda with you...!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_SHENG><FACE_NORMAL><FP_RIGHT>You got that right, kid!<PAGE>This here is a real, live
+panda, Ying!<PAGE><FACE_POS_RIGHT><FACE_SHENG><FACE_HAPPY><FP_RIGHT>Look at its face! It's so
+cute!<PAGE><FACE_POS_LEFT><FACE_YING><FACE_HAPPY><FP_LEFT>Yeah... It's really cute!<PAGE>My panda is cute, but real
+pandas are really cute,
+too!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_SHENG><FACE_NORMAL><FP_RIGHT>I think it likes you more
+than it likes me, kid...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_YUN><FACE_NORMAL><FP_LEFT><HIDE_FACE>Ying, dearie! Time to go
+home!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_YING><FACE_NORMAL><FP_LEFT>Um...
+My grandma's calling me...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_YING><FACE_HAPPY><FP_LEFT>I'll come see you again
+sometime...OK?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_YUN><FACE_NORMAL><FP_RIGHT>My, my, there are dangerous
+wild animals around here, so
+you mustn't wander off!<PAGE><FACE_POS_LEFT><FACE_YING><FACE_NORMAL><FP_LEFT>...\u270a...\u270a...\u270aI'm sorry...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_YUN><FACE_NORMAL><FP_LEFT>Look! I found some nice
+bamboo shoots! I'll cook
+them up for dinner tonight!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_YUN><FACE_NORMAL><FP_LEFT>Oh, it's too bad I couldn't
+find any good bamboo shoots.
+What will I make tonight?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_SHENG><FACE_NORMAL><FP_RIGHT>I gotta go home, too.<PAGE><FACE_POS_RIGHT><FACE_SHENG><FACE_HAPPY><FP_RIGHT>Don't worry, though! I'll
+come play with you again
+as soon as I can!

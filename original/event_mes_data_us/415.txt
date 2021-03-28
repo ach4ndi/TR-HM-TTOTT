@@ -1,0 +1,19 @@
+<FACE_POS_RIGHT><FACE_GRADY><FACE_SAD><FP_RIGHT>That hurt!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GRADY><FACE_HAPPY><FP_RIGHT>Oh, <MYNAME>!
+I didn't know you were here.<PAGE><FACE_POS_RIGHT><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Well now, I wish you
+hadn't seen that.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Would you believe it?<PAGE>Here I am, trying to
+wash her, but she won't
+do what I say.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GRADY><FACE_HAPPY><FP_RIGHT>I'm not giving treats to
+an animal who spends all
+day lying around...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GRADY><FACE_HAPPY><FP_RIGHT>Make sure you train your
+pets well.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GRADY><FACE_NORMAL><FP_RIGHT>An unruly farm animal can
+really make your life rough!

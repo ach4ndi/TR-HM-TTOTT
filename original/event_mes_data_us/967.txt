@@ -1,0 +1,42 @@
+<FACE_POS_LEFT><FACE_NATHAN><FACE_NORMAL><FP_LEFT>We are gathered here today
+to witness the marriage of
+<MYNAME> and Laney.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_NATHAN><FACE_NORMAL><FP_LEFT><MYNAME>...<PAGE>Do you take Laney
+as your wife, to
+love forever?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_NATHAN><FACE_NORMAL><FP_LEFT>Laney...<PAGE>Do you take <MYNAME>
+as your husband, to
+love forever?<PAGE><FACE_POS_RIGHT><FACE_LANEY><FACE_HAPPY><FP_RIGHT>I do.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_NATHAN><FACE_NORMAL><FP_LEFT>Then I now pronounce
+you husband and wife!<PAGE><FACE_POS_LEFT><FACE_NATHAN><FACE_HAPPY><FP_LEFT>May the Harvest Goddess
+smile upon your union!
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_SHOCK><FP_RIGHT>I love you, <MYNAME>.
+I'm so happy.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_SHOCK><FP_RIGHT>So now we start our new
+life together.<PAGE>Oh yeah!
+Now that we're married, I
+want to call you a nickname.<PAGE>What nickname would you
+like, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_NORMAL><FP_RIGHT><MYNICKNAME>?
+Are you sure?
+----------------------------|----------------------------------
+<CHOICE_AB> Yeah, I'm sure.
+ I changed my mind.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_HAPPY><FP_RIGHT>I'll call you that from now
+on.<PAGE><FACE_POS_RIGHT><FACE_LANEY><FACE_SHOCK><FP_RIGHT>I love you, <MYNICKNAME>.
+
+----------------------------|----------------------------------
+What an exciting day!
+Tomorrow we start our
+new life together!
+----------------------------|----------------------------------
+<CHOICE_AB> Save and go to bed.
+ Go to bed without saving.

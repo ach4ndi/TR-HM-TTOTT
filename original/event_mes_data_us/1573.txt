@@ -1,0 +1,37 @@
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_NORMAL>Welcome to Gombe's Seeds!
+What can I help you
+with?\u2390
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_NORMAL><CHOICE_AB> View items.
+ Never mind.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_NORMAL>Okay. Feel free to come
+by any time!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_SAD>Oh, you don't have enough 
+money. 
+I'm very sorry.\u2390
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_HAPPY>Thank you very much.
+Good luck on harvesting
+quality products!\u2390
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_SAD>Oh, your bag is all 
+full...\u2390
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_NORMAL>Well, what else can 
+I do for you?\u2390
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_HAPPY>That'll be <RED><VAR_0>G</COLOR>.
+<CHOICE_AB> Buy.
+ No thanks.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_NORMAL>That'll be <RED><VAR_1>G</COLOR> for
+each <VAR_0>.
+How many would you like?\u2390
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_SAD>I'm sorry. I only have one
+available for sale at the
+moment...\u2390
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_NORMAL>There's no items left.

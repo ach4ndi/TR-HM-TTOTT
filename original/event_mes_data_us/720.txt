@@ -1,0 +1,5 @@
+<FACE_POS_CENTER><FACE_REINA><FACE_HAPPY><FP_RIGHT>Where do you want to go?
+----------------------------|----------------------------------
+<CHOICE_ABC> <VAR_0>
+ <VAR_1>
+ <VAR_2>

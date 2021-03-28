@@ -1,0 +1,614 @@
+<FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL><FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL><FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL><FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL><FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL><FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_NORMAL><FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_NORMAL><FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_NORMAL><FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_NORMAL><FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_NORMAL><FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_NORMAL><FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_NORMAL><FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_NORMAL><FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_NORMAL><FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_NORMAL><FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ROSE><FACE_NORMAL><FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ROSE><FACE_NORMAL><FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ROSE><FACE_NORMAL><FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ROSE><FACE_NORMAL><FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ROSE><FACE_NORMAL><FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CHERYL><FACE_NORMAL><FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CHERYL><FACE_NORMAL><FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CHERYL><FACE_NORMAL><FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CHERYL><FACE_NORMAL><FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CHERYL><FACE_NORMAL><FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_EILEEN><FACE_NORMAL><FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_EILEEN><FACE_NORMAL><FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_EILEEN><FACE_NORMAL><FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_EILEEN><FACE_NORMAL><FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_EILEEN><FACE_NORMAL><FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HOWARD><FACE_NORMAL><FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HOWARD><FACE_NORMAL><FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HOWARD><FACE_NORMAL><FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HOWARD><FACE_NORMAL><FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HOWARD><FACE_NORMAL><FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GRADY><FACE_NORMAL><FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GRADY><FACE_NORMAL><FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GRADY><FACE_NORMAL><FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GRADY><FACE_NORMAL><FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GRADY><FACE_NORMAL><FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NATHAN><FACE_NORMAL><FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NATHAN><FACE_NORMAL><FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NATHAN><FACE_NORMAL><FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NATHAN><FACE_NORMAL><FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NATHAN><FACE_NORMAL><FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RAHI><FACE_NORMAL><FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RAHI><FACE_NORMAL><FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RAHI><FACE_NORMAL><FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RAHI><FACE_NORMAL><FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RAHI><FACE_NORMAL><FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_NORMAL><FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_NORMAL><FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_NORMAL><FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_NORMAL><FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_NORMAL><FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MAKO><FACE_NORMAL><FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MAKO><FACE_NORMAL><FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MAKO><FACE_NORMAL><FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MAKO><FACE_NORMAL><FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MAKO><FACE_NORMAL><FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_AYAME><FACE_NORMAL><FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_AYAME><FACE_NORMAL><FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_AYAME><FACE_NORMAL><FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_AYAME><FACE_NORMAL><FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_AYAME><FACE_NORMAL><FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_YUN><FACE_NORMAL><FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_YUN><FACE_NORMAL><FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_YUN><FACE_NORMAL><FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_YUN><FACE_NORMAL><FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_YUN><FACE_NORMAL><FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_YING><FACE_NORMAL><FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_YING><FACE_NORMAL><FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_YING><FACE_NORMAL><FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_YING><FACE_NORMAL><FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_YING><FACE_NORMAL><FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_NORMAL><FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_NORMAL><FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_NORMAL><FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_NORMAL><FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_NORMAL><FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_SHENG><FACE_NORMAL><FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_SHENG><FACE_NORMAL><FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_SHENG><FACE_NORMAL><FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_SHENG><FACE_NORMAL><FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_SHENG><FACE_NORMAL><FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIEGO><FACE_NORMAL><FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIEGO><FACE_NORMAL><FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIEGO><FACE_NORMAL><FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIEGO><FACE_NORMAL><FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIEGO><FACE_NORMAL><FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RAUL><FACE_NORMAL><FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RAUL><FACE_NORMAL><FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RAUL><FACE_NORMAL><FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RAUL><FACE_NORMAL><FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RAUL><FACE_NORMAL><FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_NORMAL><FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_NORMAL><FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_NORMAL><FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_NORMAL><FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_NORMAL><FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KID><FACE_NORMAL><FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KID><FACE_NORMAL><FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KID><FACE_NORMAL><FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KID><FACE_NORMAL><FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KID><FACE_NORMAL><FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HERO><FACE_NORMAL><FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HERO><FACE_NORMAL><FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HERO><FACE_NORMAL><FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HERO><FACE_NORMAL><FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HERO><FACE_NORMAL><FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fc8<FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fc8<FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fc8<FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fc8<FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fc8<FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fc9<FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fc9<FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fc9<FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fc9<FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fc9<FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fca<FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fca<FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fca<FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fca<FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fca<FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fcb<FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fcb<FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fcb<FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fcb<FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fcb<FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fcc<FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fcc<FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fcc<FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fcc<FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fcc<FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fcd<FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fcd<FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fcd<FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fcd<FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fcd<FP_RIGHT><RED>　　　★ＥＲＲＯＲ★
+　　　　予備ナリよ！</COLOR>

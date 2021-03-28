@@ -1,0 +1,18 @@
+<FACE_POS_LEFT><FACE_CHERYL><FACE_ANGRY><FP_LEFT>も〜！　急に逃げるから
+ビックリしたじゃない！<PAGE><FACE_POS_LEFT><FACE_CHERYL><FACE_SAD><FP_LEFT>あ〜あ、
+ずぶぬれになっちゃったよ…。
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_CHERYL><FACE_SAD><FP_LEFT>風邪ひいちゃうから帰るよ。
+もう逃げたらダメだからね。
+----------------------------|----------------------------------
+<FACE_POS_LEFT><HIDE_NAME><FACE_ASH><FACE_NORMAL><FP_LEFT><HIDE_FACE>こんなところにいたのか。
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL><FP_RIGHT>カサささないと、
+ずぶぬれになるぞ。<PAGE><FACE_POS_LEFT><FACE_CHERYL><FACE_HAPPY><FP_LEFT>お兄ちゃん、ありがとう！
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL><FP_RIGHT>カサも持たずに、いきなり
+飛び出して行ったから
+ビックリしたよ。<PAGE><FACE_POS_LEFT><FACE_CHERYL><FACE_NORMAL><FP_LEFT>わたしの事、
+心配してくれてたんだ。<PAGE><FACE_POS_LEFT><FACE_CHERYL><FACE_HAPPY><FP_LEFT>やっぱり、頼りになるなぁ〜。
+お兄ちゃん、だ〜い好き<RED>❤</COLOR><PAGE><FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>はいはい。<PAGE><FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL><FP_RIGHT>さぁ、母さんも
+心配してる事だし帰ろうか。<PAGE><FACE_POS_LEFT><FACE_CHERYL><FACE_NORMAL><FP_LEFT>うん♪

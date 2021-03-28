@@ -1,0 +1,738 @@
+<FACE_POS_CENTER><FACE_KANA><FACE_NORMAL><FP_RIGHT>Hey, a new face in town!
+I'm <BLUE>Kana</COLOR>.<PAGE>If you need anything
+horse-related, I'm your guy.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KANA><FACE_NORMAL><FP_RIGHT>Yesterday's weather stunk.
+I thought my stable was
+gonna blow away!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KANA><FACE_NORMAL><FP_RIGHT>What's up, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KANA><FACE_NORMAL><FP_RIGHT>What's up, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KANA><FACE_NORMAL><FP_RIGHT>What's up, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KANA><FACE_HAPPY><FP_RIGHT>Check it out! I think it
+likes me!
+Now this is my kinda pet!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KANA><FACE_SHY><FP_RIGHT>Huh, that's not really my
+kinda pet, y'know? 
+Yeah, sorry to say...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KANA><FACE_SHY><FP_RIGHT>Wh-Whoa! Do you seriously
+know the meaning of this
+feather?<PAGE>We gotta go someplace
+where we can be alone and,
+like, talk this stuff over.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KANA><FACE_NORMAL><FP_RIGHT>Huh, a blue feather.<PAGE><FACE_POS_CENTER><FACE_KANA><FACE_SHY><FP_RIGHT>Why would you show me
+something like that?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KANA><FACE_NORMAL><FP_RIGHT>Nah, don't want it.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KANA><FACE_NORMAL><FP_RIGHT>Whoa, another gift today?
+I can't. That's just too
+generous.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KANA><FACE_NORMAL><FP_RIGHT>That looks waaay sweet.
+Are you giving it to me?<PAGE><FACE_POS_CENTER><FACE_KANA><FACE_SHY><FP_RIGHT>Normally I don't like sweet
+stuff, but even I can't turn
+it down on Harmony Day.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KANA><FACE_NORMAL><FP_RIGHT>A present for me?
+I don't eat sweet stuff.<PAGE><FACE_POS_CENTER><FACE_KANA><FACE_SHY><FP_RIGHT>But it's nice to get a
+Harmony Day gift, as long as
+your husband doesn't mind.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KANA><FACE_NORMAL><FP_RIGHT>Hey, don't try to give that
+away!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KANA><FACE_NORMAL><FP_RIGHT>Is that for me?
+For my birthday?<PAGE><FACE_POS_CENTER><FACE_KANA><FACE_HAPPY><FP_RIGHT>Yeah, right, today IS my
+birthday...<PAGE>And you got that <RED>Spicy Curry</COLOR>
+I just can't get enough of!
+Thanks! I'm so stoked!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KANA><FACE_NORMAL><FP_RIGHT>Whoa, <RED>Spicy Curry</COLOR>...
+It's for me!?<PAGE><FACE_POS_CENTER><FACE_KANA><FACE_HAPPY><FP_RIGHT>I love this stuff!
+Thanks a ton!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KANA><FACE_NORMAL><FP_RIGHT>What's up, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KANA><FACE_NORMAL><FP_RIGHT>What's up, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KANA><FACE_NORMAL><FP_RIGHT>Huh, a birthday present?
+Seriously? For me?<PAGE><FACE_POS_CENTER><FACE_KANA><FACE_SHOCK><FP_RIGHT>Wow...this is great!
+Thanks!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KANA><FACE_NORMAL><FP_RIGHT>Whoa! For me? Seriously?
+<PAGE><FACE_POS_CENTER><FACE_KANA><FACE_HAPPY><FP_RIGHT>Awesome! Thank you!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KANA><FACE_NORMAL><FP_RIGHT>A birthday present?<PAGE>Whoa, you remembered.
+Thanks!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KANA><FACE_NORMAL><FP_RIGHT>Oh, for me? Nice.
+Thanks!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KANA><FACE_NORMAL><FP_RIGHT>What's THIS?
+A birthday present?<PAGE><FACE_POS_CENTER><FACE_KANA><FACE_SHY><FP_RIGHT>Uhhh...
+Don't have much choice, huh?
+So yeah, thanks, I guess.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KANA><FACE_NORMAL><FP_RIGHT>Huh? What's this?<PAGE><FACE_POS_CENTER><FACE_KANA><FACE_SHY><FP_RIGHT>It's not my thing, but...
+if you don't want it,
+I'll take it off your hands.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KANA><FACE_SHY><FP_RIGHT>Whatcha doing with THAT?
+Giving it to me?
+Are you for real?<PAGE><FACE_POS_CENTER><FACE_KANA><FACE_SAD><FP_RIGHT>Gimme a break. You
+seriously want me to take
+THIS...? Okay, whatever.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KANA><FACE_NORMAL><FP_RIGHT>What's up, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KANA><FACE_NORMAL><FP_RIGHT>So, how's married life
+treating you? All good?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KANA><FACE_NORMAL><FP_RIGHT>So hey, <MYNAME>...
+what's it like being
+married?<PAGE>I'm a single guy, so what do
+I know, but...
+being married is heavy, huh?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KANA><FACE_NORMAL><FP_RIGHT>This weather is so uncool.
+I hope Hayate is okay...<PAGE>You take care of yourself
+too, yeah?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KANA><FACE_NORMAL><FP_RIGHT>Hayate loves the snow, so
+she'll be stoked.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KANA><FACE_NORMAL><FP_RIGHT>You really like Hayate?<PAGE>Well Hayate seems to think
+you're cool too.<PAGE><FACE_POS_CENTER><FACE_KANA><FACE_HAPPY><FP_RIGHT>She loves your visits.
+And I'm happy to see
+you too, for sure.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KANA><FACE_NORMAL><FP_RIGHT>All I ever think about is
+horses, but...<PAGE>When I'm talking with you,
+it really expands my
+thinking, you know?<PAGE><FACE_POS_CENTER><FACE_KANA><FACE_NORMAL><FP_RIGHT>Taking time for that kinda
+stuff is also important.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KANA><FACE_NORMAL><FP_RIGHT>Did you know that horses get
+jealous?<PAGE><FACE_POS_CENTER><FACE_KANA><FACE_SHY><FP_RIGHT>These days, whenever you
+come over, Hayate acts odd.<PAGE>I guess she's angry we're
+hanging out so much.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KANA><FACE_NORMAL><FP_RIGHT>Have you ever looked at a
+horse's eyes? I mean LOOKED?<PAGE>They're so gorgeous.
+So clear and soft.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KANA><FACE_NORMAL><FP_RIGHT>Spending time with me means
+tons of horse talk.
+Is that boring for you?<PAGE>I just don't know what else
+to even talk about.
+Hope you don't mind.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KANA><FACE_NORMAL><FP_RIGHT>When you ride a horse, you
+gotta have trust.
+Definitely don't be scared.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KANA><FACE_NORMAL><FP_RIGHT>If you wanna, you can take
+a look around at the horses
+and stuff.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KANA><FACE_NORMAL><FP_RIGHT>What's up, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KANA><FACE_SHY><FP_RIGHT>Huh, <MYNAME>...
+I don't even wanna TALK to
+you today.
+----------------------------|----------------------------------
+<CHOICE_AB> I'm really sorry.
+ When you calm down, then.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KANA><FACE_NORMAL><FP_RIGHT>You don't have to apologize.
+It was just bugging me,
+y'know.<PAGE>...But it's cool now.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KANA><FACE_NORMAL><FP_RIGHT>Sure, yeah, if you say so.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KANA><FACE_NORMAL><FP_RIGHT>What's up, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KANA><FACE_NORMAL><FP_RIGHT>Whoa, this is some scary
+weather, <MYNICKNAME>.<PAGE>I hope Hayate isn't too
+scared.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KANA><FACE_NORMAL><FP_RIGHT>What's up, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KANA><FACE_NORMAL><FP_RIGHT>What's up, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KANA><FACE_NORMAL><FP_RIGHT>What's up, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KANA><FACE_NORMAL><FP_RIGHT>What's up, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KANA><FACE_NORMAL><FP_RIGHT>What's that?<PAGE><FACE_POS_CENTER><FACE_KANA><FACE_HAPPY><FP_RIGHT>A Harmony Day present?
+I dig presents just as much
+now that we're married.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KANA><FACE_NORMAL><FP_RIGHT>Awright, is this...?
+Because it's my birthday!?<PAGE><FACE_POS_CENTER><FACE_KANA><FACE_HAPPY><FP_RIGHT>You remembered!!
+Whoa, I am TOTALLY stoked!
+Thanks a ton!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KANA><FACE_NORMAL><FP_RIGHT>A present for me?<PAGE><FACE_POS_CENTER><FACE_KANA><FACE_HAPPY><FP_RIGHT>Awright, it's my favorite!
+You remembered! Awesome!
+Thanks a ton!!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KANA><FACE_HAPPY><FP_RIGHT><MYNICKNAME>, remember how we
+went on dates before we got
+married? Let's have one now!
+----------------------------|----------------------------------
+<CHOICE_AB> That would be nice.
+ Maybe some other time.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KANA><FACE_SHY><FP_RIGHT>Uh, yeah, some other time.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KANA><FACE_NORMAL><FP_RIGHT>What's up, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KANA><FACE_NORMAL><FP_RIGHT>What's that thing for?
+Huh? My birthday present?<PAGE><FACE_POS_CENTER><FACE_KANA><FACE_SAD><FP_RIGHT>Uhhh, are you getting back
+at me for something?
+Well, whatever.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KANA><FACE_NORMAL><FP_RIGHT>Huh? Why are you giving
+me this?<PAGE><FACE_POS_CENTER><FACE_KANA><FACE_SHY><FP_RIGHT>Ugh, this is the WORST!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KANA><FACE_HAPPY><FP_RIGHT>If my dad comes back, he'll
+be so surprised!
+He'll have a grandkid!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KANA><FACE_NORMAL><FP_RIGHT>Should you really be up and
+doing stuff so much?<PAGE>You gotta take care of your
+health, so take it easy!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KANA><FACE_NORMAL><FP_RIGHT>I've seen plenty of horses
+getting born, but this will
+be my first human baby!<PAGE>I'm kinda worried.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KANA><FACE_HAPPY><FP_RIGHT><MYNICKNAME>, seeing your face
+every day makes me the
+happiest guy in the world.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KANA><FACE_NORMAL><FP_RIGHT>Whenever I talk to you,
+<MYNICKNAME>, time just seems
+to fly by.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KANA><FACE_HAPPY><FP_RIGHT>We gotta make spending time
+as a couple totally KEY.
+Whoa, when did night fall?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KANA><FACE_NORMAL><FP_RIGHT>We're both busy with work,
+but it's important to spend
+time with each other, too.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KANA><FACE_HAPPY><FP_RIGHT>Hayate's in a good mood
+these days. She likes having
+you around.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KANA><FACE_HAPPY><FP_RIGHT>It's hard to get that
+work-life balance thing
+right.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KANA><FACE_NORMAL><FP_RIGHT>So, <MYNICKNAME>, whatcha think
+of our life these days?<PAGE>Do you think we're still
+having fun?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KANA><FACE_NORMAL><FP_RIGHT>It's like we never have any
+time to hang out anymore.<PAGE>I seriously want us to spend
+more time together as a
+couple, okay?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KANA><FACE_SAD><FP_RIGHT>Y'know, <MYNICKNAME>,
+since we got married, you've
+lost that loving feeling...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KANA><FACE_SHY><FP_RIGHT>I don't wanna talk today.
+You know why.
+----------------------------|----------------------------------
+<CHOICE_AB> I'm really sorry.
+ Suit yourself.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KANA><FACE_NORMAL><FP_RIGHT>Naw, I'm not really, like,
+MAD or anything.
+It's cool, forget it.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KANA><FACE_ANGRY><FP_RIGHT>Whatever.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KANA><FACE_NORMAL><FP_RIGHT>Didn't you take it today?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KANA><FACE_NORMAL><FP_RIGHT>What's up, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KANA><FACE_NORMAL><FP_RIGHT>What's up, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KANA><FACE_NORMAL><FP_RIGHT>This thing is your pet?
+I'm all about horses, but
+this critter's kinda cool.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KANA><FACE_HAPPY><FP_RIGHT>Whoa! Hey, little guy!
+What a cool pet!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KANA><FACE_SHY><FP_RIGHT>Yeah, uh, I'm not into any
+animals other than horses.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KANA><FACE_NORMAL><FP_RIGHT>You can't keep those as
+pets, so let it go.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KANA><FACE_NORMAL><FP_RIGHT>You're looking good.
+I dig that outfit.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KANA><FACE_HAPPY><FP_RIGHT>So, <MYNAME>, how about
+you and I go on a date?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KANA><FACE_NORMAL><FP_RIGHT>So, <MYNAME>,
+why don't the two of us go
+do something fun?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KANA><FACE_NORMAL><FP_RIGHT>So, <MYNAME>,
+do you wanna, like, take
+a walk with me or something?
+----------------------------|----------------------------------
+<CHOICE_AB> Sure, I'd love to.
+ Not today.
+----------------------------|----------------------------------
+<CHOICE_AB> Sounds great! Let's go!
+ Today's not the best...
+----------------------------|----------------------------------
+<CHOICE_AB> Okay, let's go.
+ Maybe some other time.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KANA><FACE_NORMAL><FP_RIGHT>What's up, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KANA><FACE_NORMAL><FP_RIGHT>What's up, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KANA><FACE_SAD><FP_RIGHT>No go, huh?
+Yeah, some other time, sure.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KANA><FACE_NORMAL><FP_RIGHT>Okay, sure, if you're busy.
+I get it.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KANA><FACE_NORMAL><FP_RIGHT>Yeah, okay.
+It's just I kinda had some
+free time at the moment...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KANA><FACE_NORMAL><FP_RIGHT>Is this like a Flower Day
+present or something?<PAGE><FACE_POS_CENTER><FACE_KANA><FACE_HAPPY><FP_RIGHT>It's not exactly my style,
+but I'll take it... Thanks.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KANA><FACE_NORMAL><FP_RIGHT>You still took the time to
+get me a Flower Day gift?
+You're the best!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KANA><FACE_NORMAL><FP_RIGHT>Tomorrow is the Starry Night
+Festival. <MYNAME>, you
+got any plans?<PAGE>If it's cool with you, we
+could, like, go together.
+----------------------------|----------------------------------
+<CHOICE_AB> Really? I'd love that.
+ Sorry, but...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KANA><FACE_HAPPY><FP_RIGHT>You would?
+Okay, we're on for tomorrow,
+then! It'll be awesome.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KANA><FACE_NORMAL><FP_RIGHT>Uh, sure, no big deal. I'll
+just, uh, go alone, yeah.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KANA><FACE_NORMAL><FP_RIGHT>I can't wait for
+tomorrow!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KANA><FACE_HAPPY><FP_RIGHT>Oh, check out that sweet
+wrapping! Makes me really
+wanna see what's inside.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KANA><FACE_NORMAL><FP_RIGHT>Looks like Hayate's really
+taken a liking to you.<PAGE>But she seems kinda distant
+toward me recently.
+Like she's jealous.<PAGE><FACE_POS_CENTER><FACE_KANA><FACE_SHY><FP_RIGHT>Maybe she understands that I
+have feelings for you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KANA><FACE_NORMAL><FP_RIGHT>What's up, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KANA><FACE_NORMAL><FP_RIGHT>Has it been a busy day for
+you?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KANA><FACE_NORMAL><FP_RIGHT>Keep it chill.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KANA><FACE_SAD><FP_RIGHT>Keep it chill.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KANA><FACE_NORMAL><FP_RIGHT>I know you're waaay busy,
+but keep it chill, y'know?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KANA><FACE_NORMAL><FP_RIGHT>I still love taking care of
+horses. You know how I feel,
+right?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KANA><FACE_NORMAL><FP_RIGHT>When I see a horse looking
+good, I feel good.
+You get what I mean, yeah?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KANA><FACE_NORMAL><FP_RIGHT>Now that the tunnel's done,
+you can come all the way to
+Konohana to shop.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KANA><FACE_SHY><FP_RIGHT>It's cool that the tunnel's
+open, but it's kinda
+scary in there, y'know?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KANA><FACE_NORMAL><FP_RIGHT>It's nice to take a break
+from work, but I can't stop
+thinking about my horses.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KANA><FACE_NORMAL><FP_RIGHT>I gotta care for the horses
+every day, so I worry when
+I'm away from them.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KANA><FACE_NORMAL><FP_RIGHT>What's up, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KANA><FACE_NORMAL><FP_RIGHT>What's up, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KANA><FACE_NORMAL><FP_RIGHT>What's up, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KANA><FACE_NORMAL><FP_RIGHT>What's up, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KANA><FACE_NORMAL><FP_RIGHT>What's up, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KANA><FACE_SAD><FP_RIGHT>You were on Bluebell's side
+in the cooking festival?<PAGE>Next time you should hang
+out with us Konohana folks!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KANA><FACE_NORMAL><FP_RIGHT>Did you see my sculpture
+today?<PAGE>I gotta say I did an awesome
+job on that thing...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KANA><FACE_NORMAL><FP_RIGHT>So you were cheering for us?
+Next time, make a dish and
+enter the Cooking Festival!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KANA><FACE_NORMAL><FP_RIGHT>What's up, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KANA><FACE_NORMAL><FP_RIGHT>What's up, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KANA><FACE_NORMAL><FP_RIGHT>It's no big deal that we
+lost the Cooking Festival.<PAGE>People have different tastes
+in food, y'know?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KANA><FACE_NORMAL><FP_RIGHT>What's up, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KANA><FACE_NORMAL><FP_RIGHT>Yeah, you lost this time.
+Just do awesome next time!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KANA><FACE_HAPPY><FP_RIGHT>So are you going to today's
+<VAR_0>?<PAGE>Everyone's gonna party!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KANA><FACE_NORMAL><FP_RIGHT>I heard you missed out on
+today's <VAR_0>.<PAGE><FACE_POS_CENTER><FACE_KANA><FACE_HAPPY><FP_RIGHT>You gotta do the next one!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KANA><FACE_NORMAL><FP_RIGHT>What's up, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KANA><FACE_NORMAL><FP_RIGHT>Bummer that you lost today.
+Your <VAR_4>
+was really good, but...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KANA><FACE_NORMAL><FP_RIGHT>What's up, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KANA><FACE_NORMAL><FP_RIGHT>What's up, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_KANA><FACE_HAPPY><FP_LEFT>Welcome home, 
+<MYNICKNAME>.<PAGE>It's your birthday, yeah?
+Check it out, we're gonna
+party, so come on over here!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>How 'bout that?
+Are you totally surprised?<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>A birthday's only once a
+year, so I thought I'd
+make this to surprise you.<PAGE>Of course the main reason I
+cooked this was to make you
+happy!<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>Happy birthday!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_KANA><FACE_HAPPY><FP_LEFT>Welcome home,
+<MYNICKNAME>.<PAGE>Today's your birthday and
+also mine, y'know?<PAGE>So let's party!
+Come on over here!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>How 'bout that?
+Are you totally surprised?<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>Since we both have the same
+birthday, I decided to make
+something.<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>C'mon, let's eat it while
+it's still hot!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_KANA><FACE_NORMAL><FP_LEFT>Welcome home,
+<MYNICKNAME>!!<PAGE><FACE_POS_LEFT><FACE_KANA><FACE_HAPPY><FP_LEFT>Remember what today is?
+It's my birthday!
+You didn't forget, right?<PAGE>I wanted to party with you,
+so I've been waiting!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>I got carried away and made
+too much, huh?<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_SHOCK><FP_RIGHT>I was just thinking about
+being together on your
+birthday and kept going!<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>Check it out!
+Eat it while it's hot!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_KANA><FACE_NORMAL><FP_LEFT>Welcome home,
+<MYNICKNAME>!!<PAGE>Remember what today is?
+\u2337's birthday!
+No way you forgot, right?<PAGE><FACE_POS_LEFT><FACE_KANA><FACE_HAPPY><FP_LEFT>Come over here!
+It's party time!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>Our kid sure is cute!!<PAGE>Gonna be idolized all around
+the village in a few years!<PAGE>We'll do an awesome job
+raising our kid together,
+<MYNICKNAME>.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_KANA><FACE_NORMAL><FP_LEFT>Welcome home,
+<MYNICKNAME>!!<PAGE><FACE_POS_LEFT><FACE_KANA><FACE_HAPPY><FP_LEFT>It's \u2337's birthday!
+It's a special occasion, so
+I did some serious cooking.<PAGE>Come on over here!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>Whatcha think?
+Looks tasty, yeah?<PAGE>Since it's \u2337's
+birthday, I went all out
+to make this!<PAGE>There's plenty of seconds!
+Go on, eat it while it's
+still hot!<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>Happy birthday,
+\u2337!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_KANA><FACE_NORMAL><FP_LEFT>Welcome home,
+<MYNICKNAME>!!<PAGE><FACE_POS_LEFT><FACE_KANA><FACE_HAPPY><FP_LEFT>It's our anniversary
+today, yeah? So I cooked for
+us! I was waiting for you!<PAGE>Come on over and let's eat!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>It just feels so right when
+you and I spend time
+together like this.<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>We're both busy with our
+work, yeah, but on this day
+every year we should party!<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_SHOCK><FP_RIGHT>Life is gonna be awesome for
+us, <MYNICKNAME>!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KANA><FACE_NORMAL><FP_RIGHT>What's up, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KANA><FACE_NORMAL><FP_RIGHT>What's up, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KANA><FACE_NORMAL><FP_RIGHT>What's up, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KANA><FACE_NORMAL><FP_RIGHT>What's up, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KANA><FACE_NORMAL><FP_RIGHT>What's up, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KANA><FACE_NORMAL><FP_RIGHT>What's up, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KANA><FACE_NORMAL><FP_RIGHT>What's up, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KANA><FACE_NORMAL><FP_RIGHT>There's a thing going on in
+our village today called
+the <VAR_0>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KANA><FACE_NORMAL><FP_RIGHT>What's up, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KANA><FACE_NORMAL><FP_RIGHT>What's up, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KANA><FACE_NORMAL><FP_RIGHT>What's up, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KANA><FACE_NORMAL><FP_RIGHT>What's up, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KANA><FACE_NORMAL><FP_RIGHT>What's up, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KANA><FACE_NORMAL><FP_RIGHT>What's up, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KANA><FACE_NORMAL><FP_RIGHT>What's up, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KANA><FACE_NORMAL><FP_RIGHT>What's up, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KANA><FACE_NORMAL><FP_RIGHT>What's up, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KANA><FACE_NORMAL><FP_RIGHT>What's up, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KANA><FACE_NORMAL><FP_RIGHT>What's up, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KANA><FACE_NORMAL><FP_RIGHT>What's up, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KANA><FACE_NORMAL><FP_RIGHT>What's up, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KANA><FACE_NORMAL><FP_RIGHT>What's up, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KANA><FACE_NORMAL><FP_RIGHT>What's up, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KANA><FACE_NORMAL><FP_RIGHT>What's up, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KANA><FACE_NORMAL><FP_RIGHT>What's up, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KANA><FACE_NORMAL><FP_RIGHT>What's up, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KANA><FACE_NORMAL><FP_RIGHT>What's up, <MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KANA><FACE_HAPPY><FP_RIGHT>Morning, <MYNAME>.
+You working hard?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KANA><FACE_HAPPY><FP_RIGHT>Hey, morning.
+Got stuff to do today?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KANA><FACE_HAPPY><FP_RIGHT>What's up, <MYNAME>?
+Getting to work early, yeah?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KANA><FACE_NORMAL><FP_RIGHT>Hey, <MYNAME>.
+Aren't you working today?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KANA><FACE_HAPPY><FP_RIGHT>Hey, <MYNAME>.
+How you doing?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KANA><FACE_NORMAL><FP_RIGHT>Whoa, it's late.
+Taking the day off?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KANA><FACE_NORMAL><FP_RIGHT>Evening.
+Whatcha up to at this hour?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KANA><FACE_NORMAL><FP_RIGHT>What's up, <MYNAME>?
+Done with work for the day?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KANA><FACE_NORMAL><FP_RIGHT>Evening, <MYNAME>.
+I am SERIOUSLY tired.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KANA><FACE_SHY><FP_RIGHT>We're getting married.
+Whoa, I'm totally nervous.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KANA><FACE_NORMAL><FP_RIGHT>On our wedding day, do I
+have to say anything?<PAGE>Now I'm seriously nervous.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KANA><FACE_SHOCK><FP_RIGHT>The wedding's coming up.
+I've been waiting for this,
+but... no more single life.<PAGE>I'm kinda nervous.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KANA><FACE_NORMAL><FP_RIGHT>If you want to buy
+something, talk to me
+across the counter.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KANA><FACE_NORMAL><FP_RIGHT>All our horses are in top
+condition and hard workers!<PAGE>Find one you like and then
+place your order!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KANA><FACE_NORMAL><FP_RIGHT>How about a pet?
+Tell me if you see one you
+like.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KANA><FACE_NORMAL><FP_RIGHT>On my days off, I always
+eat lunch here.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KANA><FACE_HAPPY><FP_RIGHT>The food here is awesome!
+You should try eating here!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KANA><FACE_HAPPY><FP_RIGHT>Yun's cooking is the best.
+And Konohana has the best
+crops, too!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KANA><FACE_NORMAL><FP_RIGHT>More than anywhere else,
+I feel totally mellow when
+I'm here.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KANA><FACE_NORMAL><FP_RIGHT>If you want a horse or a
+pet, come on by my shop.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KANA><FACE_NORMAL><FP_RIGHT>Keeping a pet is a really
+awesome experience. It's
+worth the effort it takes.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KANA><FACE_HAPPY><FP_RIGHT>Morning, <MYNICKNAME>!
+You sleep all right?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KANA><FACE_HAPPY><FP_RIGHT>Hey, <MYNICKNAME>.
+How d'ya feel this morning?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KANA><FACE_NORMAL><FP_RIGHT>Morning! You gonna
+get a ton done today?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KANA><FACE_NORMAL><FP_RIGHT>What's up, <MYNICKNAME>?
+It's midday already!
+How's work going?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KANA><FACE_NORMAL><FP_RIGHT>How you feeling?
+Don't overdo it!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KANA><FACE_NORMAL><FP_RIGHT>What's up, <MYNICKNAME>?
+Man, I'm about ready to
+catch some Z's.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KANA><FACE_NORMAL><FP_RIGHT>What's up?
+You work hard today?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KANA><FACE_NORMAL><FP_RIGHT>Whoa, it's gotten really
+late...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KANA><FACE_NORMAL><FP_RIGHT>Y'know, this is the first
+time today that we've had
+a chance to talk.<PAGE><FACE_POS_CENTER><FACE_KANA><FACE_SHY><FP_RIGHT>Kinda bums me out to think
+about that.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KANA><FACE_HAPPY><FP_RIGHT>Awright, you won the Cooking
+Festival!<PAGE>Man, I would love to chow
+down on that tasty grub!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KANA><FACE_NORMAL><FP_RIGHT>Your dish won the Cooking
+Festival for our village!
+<PAGE>Ina is totally stoked!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KANA><FACE_NORMAL><FP_RIGHT>You won the cooking festival
+for our village! Way to go!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KANA><FACE_HAPPY><FP_RIGHT>It's awesome when we all
+get together to eat tasty
+grub!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KANA><FACE_HAPPY><FP_RIGHT>Today's <VAR_0>
+was seriously fun.<PAGE>Looks like you had a blast
+too, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KANA><FACE_NORMAL><FP_RIGHT>When all the partying's
+over, I feel kinda bummed.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KANA><FACE_HAPPY><FP_RIGHT>You won today! Awesome!
+You were great... <PAGE>I dunno anything about
+crops, but...<PAGE>The <VAR_4> you
+grew made me drool!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KANA><FACE_NORMAL><FP_RIGHT>You straight up won the
+Konohana Crop Festival.
+You're awesome.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KANA><FACE_HAPPY><FP_RIGHT>Awesome job today.
+All that work you put into
+growing crops paid off!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KANA><FACE_HAPPY><FP_RIGHT>Did you have fun today?
+Everyone was having a blast.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KANA><FACE_NORMAL><FP_RIGHT>Isn't it cool when everyone
+gets together to party?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KANA><FACE_NORMAL><FP_RIGHT>Today was a blast!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KANA><FACE_HAPPY><FP_RIGHT>You won today! Congrats!
+You did awesome.<PAGE><FACE_POS_CENTER><FACE_KANA><FACE_NORMAL><FP_RIGHT>I seriously stink at that
+kinda thing, personally...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KANA><FACE_NORMAL><FP_RIGHT>Hey, you were awesome today.
+It's so wild that you won.
+Can't BELIEVE you beat me.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KANA><FACE_HAPPY><FP_RIGHT>Next <VAR_0>,
+there's no way I'm losing!!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KANA><FACE_NORMAL><FP_RIGHT>You won. That's cool.
+Your <VAR_2> was
+out of sight.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KANA><FACE_NORMAL><FP_RIGHT>Today was so cool, yeah?
+You got a lot of skills when
+it comes to raising animals.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KANA><FACE_NORMAL><FP_RIGHT>Today's Animal Festival
+was wild, yeah?<PAGE>Your <VAR_2>
+was seriously awesome.

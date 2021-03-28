@@ -1,0 +1,188 @@
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>Dum-Da-Da-DAA!
+Good morning,
+<MYNAME>!<PAGE>I've got a favor to ask you!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>That's why I'm going to take
+you to my spring at the
+top of the mountain!<PAGE>\u20d0Here we go!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>Dum-Da-Da-DAA! Welcome to my
+spring!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>Now, I know this is sudden,
+but there's something I want
+to ask you!<PAGE><MYNAME>, have you ever
+wanted to share the crops
+you grow with other people?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>That's what I thought!
+I knew I could count
+on you!<PAGE>Come, follow me into the
+spring!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>So, what do you think?
+I bet you weren't expecting
+something like this!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>This is the <RED>Multiplayer
+Field</COLOR>!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>The Multiplayer Field is a
+special field you can use
+in Multiplayer Mode!<PAGE>What makes it special? Well,
+<RED>you can't harvest the crops</COLOR>
+you grow here.<PAGE>But you can <RED>invite friends</COLOR>
+here, and <RED>they can harvest
+the crops that you've grown</COLOR>!<PAGE>It's a wonderful chance to
+share your crops with other
+people!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Anyway, I thought I'd give
+you the Multiplayer Field
+as a present!
+----------------------------|----------------------------------
+<CHOICE_AB> Thanks!
+ I don't want it!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Tee-hee! I'm glad you like
+it!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>Anyway, you grow crops on
+this field a little
+differently than usual...<PAGE>It's pretty different from a
+normal field. Do you want me
+to explain it to you?<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>I can answer any questions
+you have!
+----------------------------|----------------------------------
+dummy
+----------------------------|----------------------------------
+<CHOICE_ABC> What can I do here?
+ How do I grow crops here?
+ Next.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>The process of growing crops
+on the Multiplayer Field
+is different than normal.<PAGE>Usually you need to cut
+down the grass with a sickle
+before you plant crops.<PAGE>But you don't need to cut
+any grass here, as you can
+see.<PAGE>Also, there's no set seasons
+in the Multiplayer Field.<PAGE>So, before you sow your
+seeds, you have to use a
+<RED>Sun</COLOR> to chose the season.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>That's a <RED>Sun</COLOR> right there!<PAGE>If you want to change the
+season, <RED>put the Sun from
+that season there</COLOR>!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>Is there anything else you
+want to ask me about?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Well then, let me explain
+what you can do with
+Multiplayer Mode.<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>Like I said, you can invite
+friends over to harvest
+crops you've grown...<PAGE>...Or you can visit a
+friend's field to take home
+some of their crops.<PAGE>The first thing you'll want
+to do is invite a friend to
+your farm.<PAGE>Next, choose how much the
+<RED>entrance fee</COLOR> is to enter
+your farm.<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_SAD><FP_RIGHT>Make sure your fee's not too
+high, though, or no one will
+want to come to your farm...<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>Oh, and if you want to leave
+during Multiplayer Mode...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Well, good luck, then!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>Oh! I almost forgot! It's
+really important!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Remember to give me lots of
+offerings when you stop by
+my spring!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>Just throw them right in the
+water! I'll get them!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>By the way, I really like
+sweet, red berries! Well,
+I'll be waiting!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>...Right here! Don't forget,
+now!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>...Just exit right through
+there!<PAGE>However, the connection
+won't end until <RED>all players
+have exited</COLOR>.<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Everyone harvests at a
+different pace, so be nice
+and wait for everyone!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>I'll give you your collected
+entrance fees after you exit
+Multiplayer Mode.<PAGE>So select <RED>Continue</COLOR> from the
+Main Menu and come back
+here to collect it!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_SAD><FP_RIGHT><RED>You can't invite anyone else</COLOR>
+to Multiplayer Mode until
+you collect the fees.<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Oh, and if you use
+Multiplayer Mode a lot,
+I'll give you a reward!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>By the way, are you watering
+your crops every day,
+<MYNAME>?<PAGE>Normal crops will wilt if
+you don't water them every
+day...<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>...But the crops here won't
+wilt, even if you don't
+water them!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>However, even though they
+won't wilt, they won't grow
+unless you water them!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>But if you're busy, that
+means that you don't need to
+water your crops here!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>You're free to raise the
+crops here at your own
+pace!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>In Multiplayer Mode, you can
+invite friends over to
+harvest crops you've grown!<PAGE>And you can also go to their
+Multiplayer Fields to
+harvest crops they've grown!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Tee-hee! Doesn't that sound
+fun?<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>Oh, before I explain more,
+let me tell you how to go to
+Multiplayer Mode...<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>First, select <RED>Multiplayer</COLOR>
+from the <RED>Main Menu</COLOR>.<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>There are two ways to play
+Multiplayer Mode.<PAGE>To play with <RED>nearby
+friends</COLOR>, select <RED>Local
+Wireless</COLOR>.<PAGE>To play with <RED>far
+away friends</COLOR>, select
+<RED>Nintendo WFC</COLOR>.<PAGE>You'll need a <RED>wireless
+internet connection</COLOR> and<PAGE>at least one friend's
+<RED>friend code</COLOR> to play over
+<RED>Nintendo WFC</COLOR>, though.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>First, change the Sun to the
+season you'd like.<PAGE>After you've done that, just
+till the field, sow the
+seeds, and water them!<PAGE>Oh, only you can't sow
+<RED>wheat</COLOR>, <RED>buckwheat</COLOR>, <RED>soybeans</COLOR>,
+or use <RED>fertilizer</COLOR>!<PAGE>Keep that in mind!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Ah, I need to show you
+where you can get water!
+You can get it...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>...\u270a\u270a...\u270a\u270a...\u270a\u270a<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Tee-hee! I'm glad you like
+it!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>Anyway, you grow crops on
+this field a little
+differently than usual...<PAGE>It's pretty different from a
+normal field. Do you want me
+to explain it to you?<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>I can answer any questions
+you have!
+----------------------------|----------------------------------
+<CHOICE_ABC> Explain friend codes.
+ I'm done.
+ Back.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>You need a <RED>friend code</COLOR> to
+connect to Nintendo WFC.<PAGE>A friend code is a number
+used to distinguish between
+users. Everyone has one.<PAGE>You can enter a friend's
+friend code directly in your
+friend roster.<PAGE>Or, when you connect to
+people over local wireless,<PAGE>their friend codes will
+automatically be entered
+in your friend roster.<PAGE>But if you already have
+30 friends on your
+friend roster,<PAGE>your new friend will not
+be registered on your
+friend roster automatically.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>And that's everything! Now
+let me take you back to your
+house, <MYNAME>!<PAGE>I'll take you back home this
+time...<PAGE>...But next time, you'll
+have to get home on your
+own!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Well, I hope I see you at
+the Multiplayer Field!
+Toodles!

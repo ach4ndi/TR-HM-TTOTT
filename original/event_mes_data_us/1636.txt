@@ -1,0 +1,1625 @@
+<FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL><FP_RIGHT>Good work!
+Thanks for this!<PAGE><FACE_POS_RIGHT><FACE_ASH><FACE_SHY>The cows have been really
+restless lately...<PAGE>A boar or some other animal
+might be bothering them. I
+need to check it out.<PAGE>You should be on guard
+at <MYFARMNAME> Farm, too.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL><FP_RIGHT>Good work!
+Thanks for this!<PAGE><FACE_POS_RIGHT><FACE_ASH><FACE_SHY>Huh?
+You think I spoil Cheryl?
+<PAGE><FACE_POS_RIGHT><FACE_ASH><FACE_SAD>Hmm...maybe you're right.
+My mom is always chiding me
+not to spoil her too much.<PAGE><FACE_POS_RIGHT><FACE_ASH><FACE_SHY>I'll try to watch out
+for that...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY><FP_RIGHT>Thanks!
+Good work!
+This is perfect!<PAGE>Now I can make that
+dessert Cheryl wanted.<PAGE><FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL>Huh?
+You think I spoil her?
+<PAGE><FACE_POS_RIGHT><FACE_ASH><FACE_SAD>Hmm...maybe you're right.
+My mom is always chiding me
+not to spoil her so much.<PAGE><FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL>But you know...<PAGE>When she looks at me
+with those huge eyes
+and says,<PAGE><FACE_POS_RIGHT><FACE_ASH><FACE_SHY>"I don't want others,
+I want the ones you make!"<PAGE><FACE_POS_RIGHT><FACE_ASH><FACE_SAD>There's no way I can
+refuse her...<PAGE>I guess I'm kind of a
+sucker that way.<PAGE><FACE_POS_RIGHT><FACE_ASH><FACE_HAPPY>Well, what can I do?
+<PAGE>Making my sister happy and
+making my animals happy.
+That's what I live for!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL><FP_RIGHT>Good work!
+Thanks for this!<PAGE>So I said this would be a
+collaboration, but I'm not
+too confident, to be honest.<PAGE>That's why I need to try
+a few different things out!
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ASH><FACE_NORMAL><FP_RIGHT>Thank you very much.
+I was waiting for this.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_NORMAL><FP_RIGHT>You did such a good job!
+Thanks for this!
+<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_SHY>Dr. Ayame is...a
+really amazing doctor...
+<PAGE>But she does thrust these
+sudden jobs on me like
+this sometimes...<PAGE>I wish she wouldn't.
+<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_NORMAL>But I am still
+an apprentice, after all.<PAGE>Maybe she does it
+for a good reason...<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_NORMAL>...\u270b<FACE_POS_RIGHT><FACE_HIRO><FACE_ANGRY>Oh! Maybe it's so...
+I won't panic when something
+unexpected happens?<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_SHOCK>How like Dr. Ayame!
+She has such a unique
+way of doing things!<PAGE>I can't let her down!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_NORMAL><FP_RIGHT>You did such a good job!
+Thanks for this!
+<PAGE>Sorry for asking for
+such a strange favor...<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_SAD>To tell you the truth...
+I'm a little worried by
+how young I look it.<PAGE>A lot of people think I'm
+a teenager when they first
+meet me.<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_SHY>I want to become a strong,
+manly doctor patients feel
+they can rely on...<PAGE>Like...that's it!
+I want to be big and
+strong like Kana!<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_ANGRY>And to get like that,
+I have to change the
+way that I eat!<PAGE>If I do that, I know I'll
+get big and buff like Kana!<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_SHOCK>Ha ha.
+Wish me luck!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_ANGRY><FP_RIGHT>You did such a good job!
+Thanks for this!
+<PAGE>Now Dr. Ayame won't make
+me...
+<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_ANGRY>...\u270b<FACE_POS_RIGHT><FACE_HIRO><FACE_HAPPY>Oh!
+Um, n-never mind.
+Don't listen to me!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_HAPPY><FP_RIGHT>You did such a good job!
+Thanks for this!
+<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_NORMAL>Huh?
+You look puzzled...
+<PAGE>These natural items have
+some wonderful properties.
+<PAGE>You know, for example...
+Lavender is relaxing...
+<PAGE>And tomatoes are good for
+warding off all sorts
+of illnesses.<PAGE>Like they say, a tomato a
+day keeps the doctor away...
+<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_HAPPY>There are likely many more
+plants with healing
+properties yet undiscovered.<PAGE>I've been studying
+traditional folk remedies
+to try and find out...<PAGE>Heh heh.
+Bet you didn't expect
+that, huh?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_NORMAL><FP_RIGHT>Thank you very much.
+I was waiting for this.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_HAPPY><FP_RIGHT>Thanks.
+You did a great job.<PAGE><FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL>Howard said not to
+worry about it, but
+I couldn't help it.<PAGE>I guess this is just to
+make myself feel better.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT>That's great.
+Thanks so much.<PAGE>...\u270bWhat's that look for?<PAGE><FACE_POS_RIGHT><FACE_CAM><FACE_SHY>Wh-What else could I do?
+It's still a kitten...
+No mother cat around...<PAGE>It came up and rubbed
+against me...<PAGE>It...
+It was so cute...<PAGE>And I couldn't just...
+ignore it...<PAGE><FACE_POS_RIGHT><FACE_CAM><FACE_SAD>And I can't keep it
+at the caf...<PAGE>So I at least wanted
+to give it something
+to eat...<PAGE><FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL>Um. Could you not stare,
+please?\u270a\u270a
+<FACE_POS_RIGHT><FACE_CAM><FACE_SHY>I-It's embarrassing...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT>Thanks.
+That's perfect.<PAGE><FACE_POS_RIGHT><FACE_CAM><FACE_SAD>Pretty pitiful, huh?<PAGE>I didn't realize I was
+out of flowers...<PAGE>I guess I need to pay
+more attention to things.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT>Great job.
+I've got it now.<PAGE>See, I've got this
+friend named Lloyd...
+<PAGE>And he's looking for
+something to sell at
+the bazaar...<PAGE>I don't know much
+about anything but
+flowers, so...<PAGE>I was in a bit of
+a dilemma here...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CAM><FACE_NORMAL><FP_RIGHT>Thank you very much.
+I was waiting for this.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>Thanks!
+That looks great!<PAGE>Sorry for that weird
+request...<PAGE>Now I can go devote
+my time to taking
+care of Hayate...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>Thanks!
+<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_SHY>I don't want Hayate
+or the other horses
+to get sick...<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL>So it's important to keep up
+maintenance on the barn.
+How's yours looking?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>Thanks!
+That's perfect!<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY>The horses get bored of
+fodder after a while<PAGE>I wanted to give them
+something else to eat...<PAGE>I figured they'd be
+happy if I gave them
+some fruits and vegetables.<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL>Not too much, of course.
+Just occasionally for
+treats.<PAGE>Unlike humans, horses eat
+fruits and vegetables for
+the water in them.<PAGE>So it's not good for
+them to have too many.<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_SHY>What's that?
+You look impressed.<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL>Spoiling someone isn't
+always the best way to
+give them love...<PAGE>Diet is really
+important for animals.<PAGE>If you don't think about
+what you're giving them,
+you can make them sick.<PAGE>So you should be careful!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>Thanks!
+This is perfect!<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY>Heh heh.
+I've been waiting for this!<PAGE>You know, moon gazing
+is pretty fun!<PAGE>The moon looks different
+during each season, and
+the full moon is so nice!<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_SHY>What's with that face?<PAGE>I can enjoy a little
+culture every once in
+a while!<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY>You should try it sometime!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>Thank you very much.
+I was waiting for this.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>Thanks for this.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>Thanks for this.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>Thanks for this.<PAGE>I know she'll love this.
+<PAGE><FACE_POS_RIGHT><FACE_MIKHAIL><FACE_SHOCK>Those flowing,
+silken locks...<PAGE>Those soulful,
+liquid eyes...
+<PAGE>And that...
+\u270bfluffy tail...<PAGE><FACE_POS_RIGHT><FACE_MIKHAIL><FACE_NORMAL>She is nature's most
+glorious work of art...
+<PAGE><FACE_POS_RIGHT><FACE_MIKHAIL><FACE_HAPPY>Hee hee.
+I can't wait until
+the next time I see her.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>Thanks for this.<PAGE>It's a gift for someone I
+met on my travels.
+<PAGE><FACE_POS_RIGHT><FACE_MIKHAIL><FACE_HAPPY>His name is Claude, and he's
+an incredible guy...<PAGE>His job takes him back and
+forth from his village to
+the big city...<PAGE>And he does it all for his
+wife and daughter...
+<PAGE>Now if that's not dedication
+to your family, I don't
+know what is...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>Thank you very much.
+I was waiting for this.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_NORMAL><FP_RIGHT>Thanks so much!
+This is just what I wanted!<PAGE><FACE_POS_RIGHT><FACE_LANEY><FACE_SHY>My dad's cooking is always
+so fancy...
+<PAGE>Like, he always writes
+LOVE in ketchup on his
+omelets...<PAGE>And that's the least
+of it! Sometimes he
+draws a self-portrait!<PAGE>A really realistic one!
+<PAGE>And it kind of creeps me
+out to eat my dad's face
+on my food, you know?<PAGE><FACE_POS_RIGHT><FACE_LANEY><FACE_SAD>And you should see the
+other crazy things he
+does with our food...<PAGE>I know he has fun with it,
+but really, now...<PAGE>I can't imagine what
+guests eating at our house
+must think!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_NORMAL><FP_RIGHT>Thanks!
+This is perfect!<PAGE><FACE_POS_RIGHT><FACE_LANEY><FACE_HAPPY>Hee hee.<PAGE>You look like you're dying
+to know what I'm using the
+flowers for...<PAGE><FACE_POS_RIGHT><FACE_LANEY><FACE_NORMAL>Did you know some flowers
+are edible?<PAGE>You can put them in salad...
+or in soups...
+or decorate cakes with them.<PAGE>You can also coat them in
+sugar and eat them that way.
+<PAGE><FACE_POS_RIGHT><FACE_LANEY><FACE_HAPPY>Hee hee.
+Bet you never thought you
+could eat flowers, huh?<PAGE>I was surprised at first
+too, but it's a neat idea,
+so I want to give it a try!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_NORMAL><FP_RIGHT>Thanks!
+This is perfect!<PAGE>I want to make everyone
+something delicious...
+<PAGE>So I'm studying all sorts
+or recipes...<PAGE><FACE_POS_RIGHT><FACE_LANEY><FACE_HAPPY>I want to make something
+that'll really knock
+everyone's socks off!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_NORMAL><FP_RIGHT>Thanks!
+That's great!<PAGE>This is a big help!
+I ran out of room
+in my cart...<PAGE><FACE_POS_RIGHT><FACE_LANEY><FACE_HAPPY>But now I can make
+some delicious tea
+for everyone...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_LANEY><FACE_NORMAL><FP_RIGHT>Thank you very much.
+I was waiting for this.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_HAPPY><FP_RIGHT>Why now, this is just
+what I needed!
+Thank you kindly!<PAGE><FACE_POS_RIGHT><FACE_GEORGIA><FACE_NORMAL>I've had such a hankering
+for this...<PAGE>But of course that's
+always when you don't have
+the right ingredients!<PAGE>Well, I can tell you,
+that just made me want
+to eat it even more!<PAGE><FACE_POS_RIGHT><FACE_GEORGIA><FACE_HAPPY>You know what I mean?
+I knew you would!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_HAPPY><FP_RIGHT>Thank you! I knew I
+could count on you!<PAGE><FACE_POS_RIGHT><FACE_GEORGIA><FACE_NORMAL>Now what're you making
+that funny face for?<PAGE>Sure, I'm trying to eat
+healthy, but that doesn't
+mean I can't have dessert!<PAGE><FACE_POS_RIGHT><FACE_GEORGIA><FACE_SAD>You just don't get it!
+<PAGE>Now listen up...
+It's all about...<PAGE><FACE_POS_RIGHT><FACE_GEORGIA><FACE_ANGRY>\u20d0Your\u270a second stomach!<PAGE>Desserts go to a special
+place in your body, so
+they're not bad for you.<PAGE><FACE_POS_RIGHT><FACE_GEORGIA><FACE_HAPPY>It's totally true! Honest!
+Besides, I'd just go plum
+crazy without desserts.<PAGE>And there's no sense in
+being healthy if you aren't
+happy!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_HAPPY><FP_RIGHT>Thanks!
+Just what I need!<PAGE><FACE_POS_RIGHT><FACE_GEORGIA><FACE_NORMAL>Now I can make some
+spectacular fodder!
+<PAGE>This'll show that
+fool, Kana! It'll knock...<PAGE><FACE_POS_RIGHT><FACE_GEORGIA><FACE_ANGRY>\u20d0...his socks...
+\u270bclean off!<PAGE><FACE_POS_RIGHT><FACE_GEORGIA><FACE_HAPPY>With what you've given me,
+my fodder recipe will be
+unbeatable!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_HAPPY><FP_RIGHT>Thanks!
+This is just what I need!<PAGE><FACE_POS_RIGHT><FACE_GEORGIA><FACE_NORMAL>You see...
+I want to be a
+veterinarian.<PAGE>Animals can't talk, right?
+So I want to understand
+how they're feeling...<PAGE>I want to make sure they're
+always happy and healthy!
+<PAGE><FACE_POS_RIGHT><FACE_GEORGIA><FACE_HAPPY>So my dad is teaching me
+about medicine for animals.
+<PAGE><FACE_POS_RIGHT><FACE_GEORGIA><FACE_NORMAL>My dad can be a pretty
+amazing guy, you know.
+<PAGE><FACE_POS_RIGHT><FACE_GEORGIA><FACE_ANGRY>Oh!
+But don't tell him I
+said so!<PAGE>He'd let it go to his
+head, for sure!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT>Thank you very much.
+I was waiting for this.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>Hmm. You did a good job.
+I'm impressed.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>Hmm...
+I suppose it's hard to
+tell by just looking...<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_SHY>It looks like I'll have
+to examine this under a
+microscope...<PAGE>Or maybe...
+I should ask Mako to crush
+it up for me...<PAGE>No, but then the seeds
+would get crushed too.
+There's no point in that.<PAGE>What I really want to do
+is examine the fossil
+polymers...<PAGE>Because inside here is...
+\u232e*mutter mutter mutter*
+*mutter mutter mutter...*\u232c\u238f<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL>...\u270b\u20d0Oh.<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_SHOCK>S-Sorry!
+I got a little carried away.
+It's a bad habit of mine.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_ANGRY><FP_RIGHT>Hmm. Thanks a lot.
+This should work...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_SHY><FP_RIGHT>Ick...
+I k-know I asked for it,
+but, I just...<PAGE>This...
+peculiar smell...
+it must be...<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL>What?
+Why are you
+smirking like that?<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_SAD>\u20d0\u232eAhhh! Y-You idiot! Don't
+point that at me! Get it
+away from me!<PAGE>\u232eOkay! Get it away!
+Away! Ack!
+<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_ANGRY>Y-You...You're so mean!
+You know I can't stand
+those things!<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_SHY>Wait, no...
+I asked for that to
+conquer my fear...<PAGE>Eek...
+I'll take it...
+<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_SAD>I'll take it, but...
+...\u270bSorry, could
+you put it on the ground?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>Thank you very much.
+I was waiting for this.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>Thank you.
+This is perfect.<PAGE>I'll take it.
+<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_SHY>I am sorry for asking
+you to do this...<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY>My grandfather eats
+like a horse...<PAGE>You wouldn't think it to
+look at him, would you?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>Thank you.
+This is perfect.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>Thank you.
+This is perfect.<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY>Heh heh.
+Now I can make some
+new clothes...<PAGE>Ayame is looking forward
+to them too...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>Thank you.
+This is perfect.<PAGE><FACE_POS_RIGHT><FACE_NORI><FACE_HAPPY>Now I can make something
+delicious for my grandpa.
+I know he'll be happy.<PAGE>I just want to make
+sure that he's happy...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NORI><FACE_NORMAL><FP_RIGHT>Thank you very much.
+I was waiting for this.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_ANGRY><FP_RIGHT>Hmm...I've heard a lot
+about this... So this is
+what you villagers eat...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY><FP_RIGHT>Just what I wanted!
+
+<PAGE>This is just what I need to
+keep my gorgeous looks!
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>Thanks!
+This is what I need.
+<PAGE><FACE_POS_RIGHT><FACE_ULYSSA><FACE_ANGRY>What's with that look?<PAGE>Don't tell me...
+You've forgotten that I'm
+an alchemist!?<PAGE><FACE_POS_RIGHT><FACE_ULYSSA><FACE_SAD>You just don't understand,
+do you?<PAGE>Still waters run deep,
+as they say...
+<PAGE>In other words, the truly
+powerful don't boast of
+their power!<PAGE><FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY>Hmmph!
+I can see you're impressed.
+You've got a lot to learn!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_ANGRY><FP_RIGHT>Oooh...
+So that's it! C-Could I get
+a closer look?<PAGE>Look at this smooth,
+shining wool...<PAGE>This is definitely
+alpaca!<PAGE>Mmm...
+And it's so warm!<PAGE>...
+...
+...<FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY>Hee hee!<RED>❤</COLOR>
+<PAGE><FACE_POS_RIGHT><FACE_ULYSSA><FACE_SHOCK>Oooh...<RED>❤</COLOR>
+So fluffy!<RED>❤</COLOR>
+<PAGE><FACE_POS_RIGHT><FACE_ULYSSA><FACE_SHOCK>Fluffy...<RED>❤</COLOR>
+\u270aSo fluffy!<RED>❤</COLOR>
+\u270aSo fluff, fluff, FLUFFY!!<RED>❤</COLOR><PAGE><FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY>…\u270b<FACE_POS_RIGHT><FACE_ULYSSA><FACE_NORMAL>\u20d0Oh!!
+<PAGE><FACE_POS_RIGHT><FACE_ULYSSA><FACE_ANGRY>Ah...ahem!
+G-Good job!<PAGE><FACE_POS_RIGHT><FACE_ULYSSA><FACE_NORMAL>This will be very useful
+for my alchemy...
+<PAGE><FACE_POS_RIGHT><FACE_ULYSSA><FACE_HAPPY>\u270a...\u270aYes. For my alchemy.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ULYSSA><FACE_NORMAL><FP_RIGHT>Thank you very much.
+I was waiting for this.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Good work, <MYNAME>!
+I knew you'd make just
+the thing!<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY>Ho ho...
+Now Rose and I will be able
+have a romantic dinner!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Good work, <MYNAME>!
+
+<PAGE>To thank you for
+delivering this for me,
+I'll tell you...<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_ANGRY>You see...
+What I asked you for...<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY>Is a present for my beloved
+Rose!<RED>❤</COLOR>
+<PAGE>\u20d0Oh dear!
+I've gone and said it now!
+How embarrassing!<PAGE><FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL>Now remember, this is a
+secret! No letting word of
+it slip to Rose!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Ah...
+How beautiful!
+<PAGE>Rose will look absolutely
+radiant with this!
+<PAGE>Good work, <MYNAME>!
+I knew I could count
+on you!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_HAPPY><FP_RIGHT>Oh!
+Good work! I knew I
+could count on you!<PAGE>Won't this be wonderful
+for all the people
+who come to Town Hall!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RUTGER><FACE_NORMAL><FP_RIGHT>Thank you very much.
+I was waiting for this.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ROSE><FACE_HAPPY><FP_RIGHT>Oh, what a lot of food!
+
+<PAGE>This will certainly
+satisfy my Rutger!
+Thank you, dear!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ROSE><FACE_HAPPY><FP_RIGHT>Very nice work,
+<MYNAME>, dear.
+This is just perfect.<PAGE><FACE_POS_RIGHT><FACE_ROSE><FACE_NORMAL>Well now...
+I suppose I can tell
+you, <MYNAME>...<PAGE>You see, I'm going to
+use this to make a present
+for Rutger...<PAGE>Soon after we were married,
+he said the silliest
+thing...<PAGE>He said...<PAGE>We should secretly get
+presents for each other
+on occasion.<PAGE>And that when we do, we
+should turn the whole day
+into one long date!<PAGE><FACE_POS_RIGHT><FACE_ROSE><FACE_HAPPY>\u20d0Ho ho ho!
+It sounds silly, doesn't it?
+And yet we still do it!<PAGE>And Rutger gets so fidgety
+when he gets me a present...
+I always know he's done it!<PAGE>But I still find it
+so adorable...<PAGE>And our dates are just
+lovely, of course.<PAGE>Oh dear, listen to me
+going on and on!
+Sorry, dear!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ROSE><FACE_NORMAL><FP_RIGHT><BLUE>★★★★★★★★★★★★★★
+Message Won't Appear!
+★★★★★★★★★★★★★★</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ROSE><FACE_NORMAL><FP_RIGHT><BLUE>★★★★★★★★★★★★★★
+Message Won't Appear!
+★★★★★★★★★★★★★★</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ROSE><FACE_NORMAL><FP_RIGHT>Thank you very much.
+I was waiting for this.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Thank you, <MYNAME>!
+This is just what I need!
+<PAGE>You just wouldn't believe
+how much Cheryl eats...
+<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_HAPPY>I don't know where it all
+goes! She's a growing
+girl, I suppose.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_HAPPY><FP_RIGHT>Thank you, <MYNAME>!
+This is just what I need
+for my cows!<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL>Oh, that probably sounds a
+little strange.
+<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_HAPPY>Well, do you know that
+tea contains catechins?
+<PAGE>Mixing in tea with the
+fodder helps prevent the
+cows from getting sick.<PAGE>The cows are part of
+the family, so I have
+to take care of them.<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL>Make sure you keep an eye
+on your cows, so they don't
+get sick or stressed...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_HAPPY><FP_RIGHT>Thank you, <MYNAME>!
+This is just what I need!
+<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL>You know herb cheese?
+<PAGE>I wondered if you couldn't
+make a similar cheese
+with flowers.<PAGE>Laney was telling me
+all about edible flowers.
+<PAGE>And I thought it might
+be a nice dessert cheese...
+<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_HAPPY>I don't know if this will
+work or not, but I'm going
+to give it a try.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_HAPPY><FP_RIGHT>Thank you, <MYNAME>!
+This is just what I need!
+<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL>Ash has been working
+so hard lately.<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_HAPPY>Farm work isn't easy, but
+he never complains.<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_SAD>But all that work really
+does a number on his
+clothes.<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL>I've got to mend them for
+him while there's still more
+cloth than holes.<PAGE><FACE_POS_RIGHT><FACE_JESSICA><FACE_HAPPY>Thank you so much for
+the wool!
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_JESSICA><FACE_NORMAL><FP_RIGHT>Thank you very much.
+I was waiting for this.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Hmm...
+Not bad...<PAGE><FACE_POS_RIGHT><FACE_CHERYL><FACE_ANGRY>But my brother could
+make it look a lot nicer!
+<PAGE>He's better than you are!
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Hmm...
+Not bad...Thanks.<RED>❤</COLOR><PAGE><FACE_POS_RIGHT><FACE_CHERYL><FACE_HAPPY>Now I'll be really pretty!
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Hmm...
+Not bad...
+Pretty good, actually.<PAGE><FACE_POS_RIGHT><FACE_CHERYL><FACE_HAPPY>Hee hee. It smells pretty!
+Now I smell all grown up!
+<PAGE><FACE_POS_RIGHT><FACE_CHERYL><FACE_ANGRY>Don't tell my brother!
+I'm going to surprise him!
+<PAGE><FACE_POS_RIGHT><FACE_CHERYL><FACE_HAPPY>I bet he'll think it
+smells pretty too!
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CHERYL><FACE_HAPPY><FP_RIGHT>Okay, not bad!
+Pretty good, even!<PAGE>This will help me scare
+away any girls who get
+near...<PAGE><FACE_POS_RIGHT><FACE_CHERYL><FACE_ANGRY>\u20d0...my brother!<PAGE><FACE_POS_RIGHT><FACE_CHERYL><FACE_SAD>If Ash gets a girlfriend,
+then he'll spend all his
+time with her.<PAGE>Then he won't have any time
+to play with me!
+<PAGE>\u20d0I won't let that happen!
+<PAGE><FACE_POS_RIGHT><FACE_CHERYL><FACE_HAPPY>Grown up ladies hate
+bugs, right?<PAGE>I'm going to use these to
+scare them!<PAGE>I feel bad for the bugs,
+but it's the only way to
+protect my big brother!<PAGE><FACE_POS_RIGHT><FACE_CHERYL><FACE_ANGRY>You fulfilled my request,
+so you're my partner in
+crime, okay, <MYNAME>?<PAGE>This will be our secret!
+Promise?
+<PAGE>If you tell anyone...
+Then...\u270b
+\u20d0I won't talk to you again!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_CHERYL><FACE_NORMAL><FP_RIGHT>Thank you very much.
+I was waiting for this.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Thanks so much!
+<PAGE><FACE_POS_RIGHT><FACE_EILEEN><FACE_HAPPY>Oh wow, this looks so
+delicious!
+Thank you!<PAGE>Now I'll have something to
+eat today in case I forget
+to cook!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Thank you so much!
+This looks great!<PAGE>I have a wreath hanging
+on my door...<PAGE>But it's a little wilted
+so I have to make a new one.<PAGE><FACE_POS_RIGHT><FACE_EILEEN><FACE_HAPPY>Hee hee hee.<PAGE>I'm pretty handy, you know!
+I'm going to make a really
+cute new wreath!<RED>❤</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Thanks! This is great!
+<PAGE>This job came up really
+suddenly, so I just didn't
+know what to do!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Thanks for this!
+<PAGE><FACE_POS_RIGHT><FACE_EILEEN><FACE_HAPPY>Oh good!<RED>❤</COLOR>
+Now I can be a good
+hostess...<PAGE>Thank you so much!<PAGE><FACE_POS_RIGHT><FACE_EILEEN><FACE_NORMAL>You see... I've got
+some guests coming.
+Some people Howard knows.<PAGE>Apparently they want to be
+my apprentice...
+<PAGE><FACE_POS_RIGHT><FACE_EILEEN><FACE_SAD>The things is...
+I don't really want or
+need an apprentice...<PAGE>But Howard said that it
+wouldn't hurt to meet them.
+<PAGE><FACE_POS_RIGHT><FACE_EILEEN><FACE_NORMAL>He even brought me pictures
+of them!
+<PAGE>He was so insistent that I
+had to at least meet them.
+I couldn't turn him down.<PAGE><FACE_POS_RIGHT><FACE_EILEEN><FACE_SAD>I'm just going to turn
+them down, so maybe I
+shouldn't meet them at all.<PAGE>I feel bad for them...
+Hmm...
+<PAGE>But then again...
+\u270aWhat if I was Sheng?
+What would I do then?\u270b<PAGE><FACE_POS_RIGHT><FACE_EILEEN><FACE_HAPPY>Oh, sorry!
+Just thinking out loud!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_EILEEN><FACE_NORMAL><FP_RIGHT>Thank you very much.
+I was waiting for this.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HOWARD><FACE_HAPPY><FP_RIGHT>Oh\u270a wooooww!\u270a
+\u20d1Wow!<RED>❤</COLOR>
+\u270bWhat a gorgeous dish!<PAGE>So elegant and pretty...
+It looks delicious!<RED>❤</COLOR>
+I'm impressed, <MYNAME>!<PAGE><FACE_POS_RIGHT><FACE_HOWARD><FACE_NORMAL>Can I adopt you?
+\u270b<FACE_POS_RIGHT><FACE_HOWARD><FACE_HAPPY>Just kidding!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HOWARD><FACE_NORMAL><FP_RIGHT>Thanks, <MYNAME>.
+This is just what I need!<PAGE>\u20d0But listen to this!
+We have a leak!<PAGE><FACE_POS_RIGHT><FACE_HOWARD><FACE_SAD>I checked it out, and it
+turns out some rats chewed
+a hole! Isn't that horrible?<PAGE><FACE_POS_RIGHT><FACE_HOWARD><FACE_NORMAL>Well, I'll just have to
+patch it up.<PAGE>And I want to fix up some
+other things while I'm at
+it.<PAGE>It's not anything I
+want to bother Eileen
+with, after all...<PAGE><FACE_POS_RIGHT><FACE_HOWARD><FACE_HAPPY>And I am the man of the
+house! I can handle basic
+repairs!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HOWARD><FACE_HAPPY><FP_RIGHT>Ooh!\u270aThis is great!
+\u20d1Very nice!<RED>❤</COLOR>
+I love how fluffy it is!<RED>❤</COLOR><PAGE>Great work as always,
+<MYNAME>!
+<PAGE>I know any clothes I make
+with this will be amazing!
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HOWARD><FACE_NORMAL><FP_RIGHT>Great work as always,
+<MYNAME>!
+<PAGE>Hmm?
+You want to hear what I'm
+going to make with it?<PAGE><FACE_POS_RIGHT><FACE_HOWARD><FACE_HAPPY>Heh heh.</COLOR>
+I can't tell even you that,
+<MYNAME>!<PAGE>It's a professional secret!
+<PAGE><FACE_POS_RIGHT><FACE_HOWARD><FACE_NORMAL>Actually, I've never
+made it before.
+<PAGE>So I don't know exactly how
+the dish will turn out.<PAGE>A friend of mine in the
+city told me the recipe...<PAGE>But it was mostly
+improvised, and there was a
+lot he couldn't remember.<PAGE>So it's going to be quite
+an exciting experiment!
+<PAGE><FACE_POS_RIGHT><FACE_HOWARD><FACE_HAPPY>Heh heh.
+Wish me luck!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HOWARD><FACE_NORMAL><FP_RIGHT>Thank you very much.
+I was waiting for this.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GRADY><FACE_HAPPY><FP_RIGHT>Oh!
+I've been waiting for this!
+This is a big help!<PAGE>Georgia and I had a fight...\u270b
+<FACE_POS_RIGHT><FACE_GRADY><FACE_SAD>And I would have gone
+without dinner...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Thanks a lot.
+This is a real help.<PAGE>I'm going to send this to a
+family in a village we lived
+in out west.<PAGE>That's where Georgia picked
+up her accent.<PAGE>She was so embarrassed of
+that accent when we first
+got here...<PAGE>She barely ever left the
+house.<PAGE><FACE_POS_RIGHT><FACE_GRADY><FACE_HAPPY>Her friendship with 
+Laney really helped her
+find her place here.<PAGE>Anyway, I wanted to let
+those old friends know we're
+doing fine.<PAGE><FACE_POS_RIGHT><FACE_GRADY><FACE_NORMAL><MYNAME>,
+I hope you and Georgia
+remain good friends!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GRADY><FACE_HAPPY><FP_RIGHT>Thanks! This is just
+what I need for the horses.<PAGE><FACE_POS_RIGHT><FACE_GRADY><FACE_NORMAL>Hmm?
+How does tea build strength?<PAGE><FACE_POS_RIGHT><FACE_GRADY><FACE_HAPPY>Tea contains caffeine, and
+catechins, and various 
+vitamins...<PAGE><FACE_POS_RIGHT><FACE_GRADY><FACE_NORMAL>In the old days, before
+they sent horses to race...<PAGE>they would build their
+strength and speed by
+feeding them tea leaves...<PAGE>It made a big difference!
+<PAGE>They don't do it anymore,
+because it's seen as
+cheating...<PAGE><FACE_POS_RIGHT><FACE_GRADY><FACE_HAPPY>But a little bit of tea
+leaves can do horses a world
+of good.<PAGE><FACE_POS_RIGHT><FACE_GRADY><FACE_NORMAL>Just a little, though. It's
+no good to give them too
+much.<PAGE><FACE_POS_RIGHT><FACE_GRADY><FACE_HAPPY>Heh! See? You learn
+something new every day.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GRADY><FACE_HAPPY><FP_RIGHT>Thanks! This is
+just what I needed...<PAGE>Hmm? Am I just going to
+give this to the horses
+as treats?<PAGE><FACE_POS_RIGHT><FACE_GRADY><FACE_NORMAL>Heh heh.
+Good question!<PAGE>This has to be dried.
+<PAGE>You know how we have
+dried fruit and
+dried vegetables?<PAGE>When you dry fruits and
+vegetables, it concentrates
+the vitamins.<PAGE>They get sweeter too, so
+I thought they'd be good
+treats!<PAGE><FACE_POS_RIGHT><FACE_GRADY><FACE_HAPPY>Heh heh.
+Pretty good idea, huh?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GRADY><FACE_NORMAL><FP_RIGHT>Thank you very much.
+I was waiting for this.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NATHAN><FACE_HAPPY><FP_RIGHT>Thank you!<PAGE>Oh, Harvest Goddess!
+We give thanks for this
+bounty!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NATHAN><FACE_HAPPY><FP_RIGHT>Thank you!<PAGE>Oh, Harvest Goddess!
+We give thanks for this
+bounty!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NATHAN><FACE_HAPPY><FP_RIGHT>Thank you!<PAGE>Oh, Harvest Goddess!
+We give thanks for this
+bounty!<PAGE><FACE_POS_RIGHT><FACE_NATHAN><FACE_NORMAL>You see, I used to be
+a treasure hunter.
+<PAGE>A certain event led me to
+my present life of service
+to the Harvest Goddess...<PAGE>But sometimes I get the
+urge to see treasure
+once more...<PAGE><FACE_POS_RIGHT><FACE_NATHAN><FACE_HAPPY>Ha ha. I guess some habits
+die hard.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NATHAN><FACE_HAPPY><FP_RIGHT>Thank you!<PAGE>Oh, Harvest Goddess!
+We give thanks for this
+bounty!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_NATHAN><FACE_NORMAL><FP_RIGHT>Thank you very much.
+I was waiting for this.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Oooh, thank you!
+You're so kind!
+<PAGE>Now I don't have to worry
+about anything else while I
+give my daily thanks...<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL>Oh, Harvest Goddess...
+Thank you for this bounty.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>Oh, thank you very much!<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY>I know the Harvest Goddess
+will bless you!
+<PAGE>Hee hee. I do hope this
+pleases the Harvest
+Goddess!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Oh, thank you very much!<PAGE>And Harvest Goddess...
+Thank you for this bounty.<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL>What a wonderful thing it
+is to grow something with
+love...<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY>I know how much love you
+put into these seeds, so
+I'll care for them well!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_HAPPY><FP_RIGHT>Oh, thank you very much!<PAGE>Now I can serve this to
+everyone when they come
+to give thanks!<PAGE><FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL>Oh, Harvest Goddess...
+Thank you for this bounty.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ALISA><FACE_NORMAL><FP_RIGHT>Thank you very much.
+I was waiting for this.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>This looks wonderful,
+just like I expected.
+Thank you.<PAGE>Hmm?
+Is my injury alright?<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_HAPPY>Ha ha. Not to worry!
+It's just a little
+cut on my hand.<PAGE>But it's nice of
+you to worry about me.<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_SAD>It's not that I
+can't cook...<PAGE>Rahi came into the
+kitchen to tell me
+to take a break, and...<PAGE><FACE_POS_RIGHT><FACE_INA><FACE_HAPPY>He's a sweet boy, but
+he's a bit clumsy.<PAGE>I hope you'll be friends
+with him, <MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>Thank you. This is
+just what I need.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT><BLUE>★★★★★★★★★★★★★★
+Message Won't Appear!
+★★★★★★★★★★★★★★</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT><BLUE>★★★★★★★★★★★★★★
+Message Won't Appear!
+★★★★★★★★★★★★★★</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_INA><FACE_NORMAL><FP_RIGHT>Thank you very much.
+I was waiting for this.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Good work!
+This is great.
+Thank you so much!<PAGE><FACE_POS_RIGHT><FACE_RAHI><FACE_SAD>I wanted to be the one
+to cook for my mom,
+but...<PAGE>Last time I tried to cook,
+I cut my finger...<PAGE>And I just ended up causing
+my mom to worry more...<PAGE><FACE_POS_RIGHT><FACE_RAHI><FACE_NORMAL>So I decided not to cook
+again until I'm older.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Good work!
+This is great.
+Thank you so much!<PAGE>You see...
+I'm going to make my
+mom a present...<PAGE>I lost my dad before
+you moved here, <MYNAME>.<PAGE>So now my mom is raising
+me all by herself...
+<PAGE>Along with working for
+the village as the mayor.<PAGE><FACE_POS_RIGHT><FACE_RAHI><FACE_HAPPY>I'm so proud of my mom.
+<PAGE>There's not much I can
+do to help...<PAGE>So I wanted to make her
+a present instead...<PAGE><FACE_POS_RIGHT><FACE_RAHI><FACE_ANGRY>But don't tell anyone
+what I just told you...
+<PAGE>I want to make sure it's
+a surprise!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Good work!
+This is just what I wanted!
+Thank you so much!<PAGE><FACE_POS_RIGHT><FACE_RAHI><FACE_HAPPY>Maybe if I give her this
+she's understand...
+Heh heh heh...<PAGE><FACE_POS_RIGHT><FACE_RAHI><FACE_NORMAL>N-Nothing!
+I didn't say anything!
+Never mind!<PAGE><FACE_POS_RIGHT><FACE_RAHI><FACE_ANGRY>I-I said I was going to
+eat this myself!
+Right?<PAGE>I-I never said I was
+giving it to Ying, did I?<PAGE>R-Really! I-It's just
+for me!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Good work!
+This is just what I wanted!
+Thank you so much!<PAGE><FACE_POS_RIGHT><FACE_RAHI><FACE_HAPPY>Maybe if I give Ying these,
+she'll really like them...
+<PAGE><FACE_POS_RIGHT><FACE_RAHI><FACE_NORMAL>I-I didn't say anything!
+Forget that!<PAGE><FACE_POS_RIGHT><FACE_RAHI><FACE_ANGRY>I-I'm going to put these
+in my room! That's why
+I asked for them!<PAGE><FACE_POS_RIGHT><FACE_RAHI><FACE_NORMAL>What? Wasn't I going to
+put them in Town Hall?<PAGE><FACE_POS_RIGHT><FACE_RAHI><FACE_SAD>\u20d0Oh no! I forgot!<PAGE>That's what I wrote on the
+message board, isn't it?
+Um...uh...<PAGE><FACE_POS_RIGHT><FACE_RAHI><FACE_ANGRY>There's too many to put in
+Town Hall, so I'm
+giving some to a friend.<PAGE>You know, not everyone
+gets to Town Hall, so...
+I'm sharing some with her!<PAGE>It's not like I like Ying
+or anything like that!
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RAHI><FACE_NORMAL><FP_RIGHT>Thank you very much.
+I was waiting for this.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_HAPPY><FP_RIGHT>Thanks, <MYNAME>.
+This looks delicious!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_HAPPY><FP_RIGHT>Thanks, <MYNAME>.
+This looks delicious!<PAGE>Yum yum.
+You can't have rice
+without this!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_HAPPY><FP_RIGHT>Thanks, <MYNAME>.
+You did a great job,
+just like always.<PAGE>Music is so wonderful!
+It soothes the savage beast.
+It's the height of culture!<PAGE>Don't you agree,
+<MYNAME>?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_HAPPY><FP_RIGHT>Thanks, <MYNAME>.
+You did a great job,
+just like always.<PAGE><FACE_POS_RIGHT><FACE_GOMBE><FACE_SAD>I just had such a
+craving for it...<PAGE>You understand, don't you,
+<MYNAME>?<PAGE><FACE_POS_RIGHT><FACE_GOMBE><FACE_NORMAL>After all, now we're
+partners in crime!
+<PAGE><FACE_POS_RIGHT><FACE_GOMBE><FACE_HAPPY>If Nori gets mad at me,
+she'll also get mad
+at you...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GOMBE><FACE_NORMAL><FP_RIGHT>Thank you very much.
+I was waiting for this.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Thank you!
+This is great!<PAGE>I think it's boars, but
+I can't let them get
+my fruit, now...<PAGE><FACE_POS_RIGHT><FACE_MAKO><FACE_ANGRY>I'll put a stop to them!
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Thanks a lot!
+<PAGE>This is just what
+my friend wanted!
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MAKO><FACE_HAPPY><FP_RIGHT>Yes!
+Good work！
+Very good work!<PAGE>Now that I've got this,
+they won't run away from
+me again!<PAGE><FACE_POS_RIGHT><FACE_MAKO><FACE_NORMAL>Yes, well...
+You see, the other
+day, I spoke to Ying...<PAGE><FACE_POS_RIGHT><FACE_MAKO><FACE_SAD>And she burst out crying!
+And then Rahi saw it and
+came running over...<PAGE>kicked me in the shin,
+and ran off, half-sobbing!<PAGE><FACE_POS_RIGHT><FACE_MAKO><FACE_ANGRY>\u20d0Why!?
+Look at this smile!
+I love children!<PAGE><FACE_POS_RIGHT><FACE_MAKO><FACE_NORMAL>And so...
+I didn't want them to run
+away from me...<PAGE>and that's why I asked
+for this...<PAGE><FACE_POS_RIGHT><FACE_MAKO><FACE_HAPPY>Now Ying and Rahi
+won't cry anymore!
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Thank you!
+This is what I need!<PAGE>I'm going to use this to
+make a fertilizer that's
+never been seen before...<PAGE><FACE_POS_RIGHT><FACE_MAKO><FACE_HAPPY>Then I'm going to present
+it to the academic society!<PAGE>And when I do, you're
+coming with me, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MAKO><FACE_NORMAL><FP_RIGHT>Thank you very much.
+I was waiting for this.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_AYAME><FACE_HAPPY><FP_RIGHT>Heh heh.
+Thanks, <MYNAME>.
+This looks delicious.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_AYAME><FACE_HAPPY><FP_RIGHT>Heh heh.
+Thanks, <MYNAME>.
+This smells wonderful.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_AYAME><FACE_HAPPY><FP_RIGHT>Heh heh.
+Thanks, <MYNAME>.
+What a lovely color.<RED>❤</COLOR>
+<PAGE><FACE_POS_RIGHT><FACE_AYAME><FACE_NORMAL>Heh heh heh... This will
+make a perfect poison apple.<PAGE><FACE_POS_RIGHT><FACE_AYAME><FACE_HAPPY>I'm just kidding!
+You went white as snow!
+How cute.<RED>❤</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_AYAME><FACE_HAPPY><FP_RIGHT>Heh heh.
+Thanks, <MYNAME>.
+This is perfect.<PAGE><FACE_POS_RIGHT><FACE_AYAME><FACE_NORMAL>Oh?
+Can I make medicine with
+this?<PAGE>Heh heh.
+I thought you'd ask.<PAGE><FACE_POS_RIGHT><FACE_AYAME><FACE_HAPPY>Well then, I'll tell you.
+Now listen up...
+<PAGE><FACE_POS_RIGHT><FACE_AYAME><FACE_NORMAL>This is related to the
+onion.
+You wouldn't guess, right?<PAGE>The juice of this
+works well on bug bites.<PAGE>It's also good for your
+skin, because it contains
+a lot of iron and vitamin C.<PAGE>And then...this plant
+over here, for example.<PAGE>You can bite on this
+to soothe a toothache.<PAGE><FACE_POS_RIGHT><FACE_AYAME><FACE_HAPPY>Heh heh.
+Surprised?
+<PAGE>Don't underestimate
+plants. They have a
+lot of power, you know.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_AYAME><FACE_NORMAL><FP_RIGHT>Thank you very much.
+I was waiting for this.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_YUN><FACE_HAPPY><FP_RIGHT>Oh my, this looks just
+delicious!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_YUN><FACE_HAPPY><FP_RIGHT>Oh my!
+Such lovely ingredients!
+They look wonderful...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_YUN><FACE_NORMAL><FP_RIGHT>Oh my, this looks just
+delicious!<PAGE>Ho ho.<PAGE>I thought it'd be nice to
+have drinks and watch the
+moon with Sheng and Gombe.<PAGE><FACE_POS_RIGHT><FACE_YUN><FACE_HAPPY>I'm really looking
+forward to it...<PAGE><FACE_POS_RIGHT><FACE_YUN><FACE_SAD>The only problem is...
+When we start drinking...
+<PAGE>Sheng and Gombe always
+end up calling it quits
+early.<PAGE>What a pair of lightweights.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_YUN><FACE_NORMAL><FP_RIGHT>Oh my, doesn't this just
+look delicious!<PAGE>So this is a dessert from
+Bluebell Village...
+It looks too pretty to eat.<PAGE>The desserts we make here
+aren't so fancy looking.
+But they taste just as nice!<PAGE><FACE_POS_RIGHT><FACE_YUN><FACE_HAPPY>Hee hee. This will be
+very informative...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_YUN><FACE_NORMAL><FP_RIGHT>Thank you very much.
+I was waiting for this.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_YING><FACE_NORMAL><FP_RIGHT>Wow, <MYNAME>!
+This looks...great!<PAGE><FACE_POS_RIGHT><FACE_YING><FACE_HAPPY>Now Grandma can rest...
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_YING><FACE_HAPPY><FP_RIGHT>It's soft...
+And fluffy and warm!
+<PAGE>Panda will love this!
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_YING><FACE_NORMAL><FP_RIGHT>Thanks for this...<PAGE><FACE_POS_RIGHT><FACE_YING><FACE_SAD>See...
+My mom and dad are in
+the city...<PAGE>They sent me here because
+I'm sick and the air's
+better here.<PAGE><FACE_POS_RIGHT><FACE_YING><FACE_NORMAL>But...I'm not homesick...
+Because I have Grandma...<PAGE><FACE_POS_RIGHT><FACE_YING><FACE_HAPPY>You're really nice too,
+<MYNAME>...<PAGE><FACE_POS_RIGHT><FACE_YING><FACE_NORMAL>I write to my mom and dad
+and tell them I'm
+doing well...<PAGE>I tell them how nice
+everyone is, how much
+fun it is here.<PAGE>And I send flowers with
+each letter.<PAGE><FACE_POS_RIGHT><FACE_YING><FACE_HAPPY>I hope they like these!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_YING><FACE_HAPPY><FP_RIGHT>Thanks for this...<PAGE><FACE_POS_RIGHT><FACE_YING><FACE_NORMAL>See...
+When Sheng is done with
+work...<PAGE><FACE_POS_RIGHT><FACE_YING><FACE_HAPPY>He has a drink and says,
+"Ahh! That one glass after
+work tastes the best!"<PAGE><FACE_POS_RIGHT><FACE_YING><FACE_NORMAL>So...I want to give
+him this as a present.
+<PAGE><FACE_POS_RIGHT><FACE_YING><FACE_HAPPY>Hee hee hee.
+I hope he likes it.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_YING><FACE_NORMAL><FP_RIGHT>Thank you very much.
+I was waiting for this.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_NORMAL><FP_RIGHT>Ooh!
+This looks great!
+Thanks!<PAGE>Now I can concentrate
+on my work!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_NORMAL><FP_RIGHT>Thanks, this is great!
+<PAGE><FACE_POS_RIGHT><FACE_DIRK><FACE_ANGRY>Heh heh...
+Now her heart will be mine!
+<PAGE><FACE_POS_RIGHT><FACE_DIRK><FACE_NORMAL>Huh?
+Who am I talking about?
+Isn't it obvious?<PAGE><FACE_POS_RIGHT><FACE_DIRK><FACE_HAPPY>This cat!
+She's so elegant!
+<PAGE>Those huge eyes...
+That cute meow!
+She's adorable!<PAGE><FACE_POS_RIGHT><FACE_DIRK><FACE_SAD>I like her so much...
+<PAGE>But she won't give me
+the time of day...
+<PAGE><FACE_POS_RIGHT><FACE_DIRK><FACE_NORMAL>I went to Bluebell on a
+delivery...<PAGE>And I saw Cam the florist
+playing with a stray cat!
+<PAGE><FACE_POS_RIGHT><FACE_DIRK><FACE_SHOCK>It was such a beautiful
+cat that I was jealous!
+<PAGE><FACE_POS_RIGHT><FACE_DIRK><FACE_NORMAL>I wanted to play
+with her too...
+<PAGE><FACE_POS_RIGHT><FACE_DIRK><FACE_SAD>But the second she saw
+me, she ran away with her
+fur standing on end!<PAGE>She just zoomed away!
+Isn't that mean?<PAGE>And Cam was mad at me
+for scaring her!
+<PAGE><FACE_POS_RIGHT><FACE_DIRK><FACE_ANGRY>But I didn't do anything!
+That cat just has a
+hard heart!<PAGE><FACE_POS_RIGHT><FACE_DIRK><FACE_SHOCK>Man...
+That's just part of
+her charm I guess!<RED>❤</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_NORMAL><FP_RIGHT>Thanks! This is great!
+<PAGE><FACE_POS_RIGHT><FACE_DIRK><FACE_HAPPY>Heh heh.
+I bet he'll like this!
+<PAGE><FACE_POS_RIGHT><FACE_DIRK><FACE_NORMAL>Hmm?
+Who will like it?
+You wanna know?<PAGE>In the town I used to live
+in, there was this little
+troublemaker named Kevin.<PAGE><FACE_POS_RIGHT><FACE_DIRK><FACE_HAPPY>He was pretty cool!
+I really thought of him
+like a little brother.<PAGE>He collects these as a
+hobby, so I wanted to
+send him some...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_NORMAL><FP_RIGHT>Thanks! This is great!
+<PAGE>A lady on my delivery route
+said she really needs
+this...<PAGE>She's a regular, and I'd
+lose her trust if I couldn't
+deliver what she wants!<PAGE><FACE_POS_RIGHT><FACE_DIRK><FACE_HAPPY>Ha ha! I tried to tell her
+I just deliver mail, but she
+wouldn't listen.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIRK><FACE_NORMAL><FP_RIGHT>Thank you very much.
+I was waiting for this.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Thanks, <MYNAME>.
+Knew I could count on you!<PAGE><FACE_POS_RIGHT><FACE_SHENG><FACE_HAPPY>Hmm...looks pretty good!
+
+...\u270aGreat!<PAGE>Now I can concentrate on
+my work!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_SHENG><FACE_NORMAL><FP_RIGHT>What do we have here...?
+Not bad!\u270a
+\u20d0Great job!<PAGE>This is fantastic!
+I knew I could count
+on you, <MYNAME>!<PAGE><FACE_POS_RIGHT><FACE_SHENG><FACE_HAPPY>Hmm... Maybe I should
+invite Yun and Gombe...
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_SHENG><FACE_ANGRY><FP_RIGHT>Ooh!
+This is it!
+This is what I need!
+<PAGE><FACE_POS_RIGHT><FACE_SHENG><FACE_SAD>I'm embarrassed to say
+that I ran out of materials
+for fixing up my tools.<PAGE>I didn't know what I
+was going to do...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_SHENG><FACE_ANGRY><FP_RIGHT>Ooh!
+This is it!
+This is what I need!
+<PAGE><FACE_POS_RIGHT><FACE_SHENG><FACE_NORMAL>Hmm...\u270a I guess
+I can tell you. You did
+help me out, after all...<PAGE><FACE_POS_RIGHT><FACE_SHENG><FACE_ANGRY>You see...
+This...<PAGE><FACE_POS_RIGHT><FACE_SHENG><FACE_HAPPY>Is going to be a
+present for Ying.\u270a
+<FACE_POS_RIGHT><FACE_SHENG><FACE_ANGRY>Don't tell anyone!
+<PAGE><FACE_POS_RIGHT><FACE_SHENG><FACE_HAPPY>She's always really sweet
+to me. She loves my panda
+outfit!<PAGE>So...
+I almost feel like I
+have a granddaughter now!<PAGE><FACE_POS_RIGHT><FACE_SHENG><FACE_NORMAL>She's living so far
+away from her parents...
+But she's doing so well...<PAGE><FACE_POS_RIGHT><FACE_SHENG><FACE_SAD>It made me want to do
+something for her, but
+I can't cook...<PAGE><FACE_POS_RIGHT><FACE_SHENG><FACE_NORMAL>And that's why I asked
+you, <MYNAME>.<PAGE><FACE_POS_RIGHT><FACE_SHENG><FACE_HAPPY>I can just imagine her
+smile when she sees this!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_SHENG><FACE_NORMAL><FP_RIGHT>Thank you very much.
+I was waiting for this.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Good work, <MYNAME>!
+Thanks a lot!
+<PAGE><FACE_POS_RIGHT><FACE_DIEGO><FACE_HAPPY>Now I have a delicious
+feast to eat!
+Ho ho ho!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Good work, <MYNAME>!
+Thanks a lot!
+<PAGE>You look like you want
+to know what I'm using
+this for...<PAGE><FACE_POS_RIGHT><FACE_DIEGO><FACE_HAPPY>I'm going to make
+a new cologne!<PAGE>Then I will smell
+wonderful!<PAGE>As the eldest, I need
+to take great care
+with my appearance.<PAGE><FACE_POS_RIGHT><FACE_DIEGO><FACE_NORMAL>\u20d0Just look!
+Look at this carefully
+curled mustache!<PAGE>A real gentleman
+always takes care with
+all the little things.<PAGE>What was that?
+You want my
+cologne formula?<PAGE>Sorry! That's
+\u270atop \u270asecret! \u270aTop secret!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Good work, <MYNAME>!
+Thanks a lot!
+<PAGE>I'm trying to invent an
+exciting new product!<PAGE><FACE_POS_RIGHT><FACE_DIEGO><FACE_HAPPY>And then I'll become
+a rich man, and
+everyone will be happy!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Good work, <MYNAME>!
+Thanks a lot!
+<PAGE><FACE_POS_RIGHT><FACE_DIEGO><FACE_HAPPY>Mmm...<RED>❤</COLOR>
+This smells great!
+\u20d0Thank you!<PAGE>Now I can enjoy a
+nice, relaxing
+break time.<PAGE><FACE_POS_RIGHT><FACE_DIEGO><FACE_NORMAL>You have to take the time
+to enjoy your breaks or life
+is so colorless!<PAGE>You should take my
+word for it, <MYNAME>!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_DIEGO><FACE_NORMAL><FP_RIGHT>Thank you very much.
+I was waiting for this.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Good work, <MYNAME>!
+Thanks a lot!
+<PAGE><FACE_POS_RIGHT><FACE_RAUL><FACE_HAPPY>Now I have a delicious
+feast to eat!
+Ho ho ho!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Finally... Finally..
+<PAGE><FACE_POS_RIGHT><FACE_RAUL><FACE_HAPPY>\u20d0It's mine!<PAGE>Now Marian will give her
+heart to me!
+<PAGE><FACE_POS_RIGHT><FACE_RAUL><FACE_SAD>Wait, wait... I can't be
+all nervous and excited.
+<PAGE>I have to be calm.
+Cool as a cucumber...<PAGE><FACE_POS_RIGHT><FACE_RAUL><FACE_ANGRY>Calm!<PAGE>You've been a big help.
+Now I'm one step closer
+to realizing my dream.<PAGE><FACE_POS_RIGHT><FACE_RAUL><FACE_NORMAL>You see, in the village
+I used to live in...<PAGE>There was a beautiful
+woman named Marian...
+<PAGE>I know that one day she'll
+realize how I feel about her
+and return my feelings.<PAGE><FACE_POS_RIGHT><FACE_RAUL><FACE_HAPPY>Ooh...<RED>❤</COLOR>
+Marian...<RED>❤</COLOR><RED>❤</COLOR><PAGE><FACE_POS_RIGHT><FACE_RAUL><FACE_NORMAL>...\u270bWait!
+I must be calm! Calm!<PAGE><FACE_POS_RIGHT><FACE_RAUL><FACE_ANGRY>\u20d0Calm!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Good work, <MYNAME>!
+Thanks a lot!
+<PAGE>I'm going to use this
+to make my own brand
+of products!<PAGE><FACE_POS_RIGHT><FACE_RAUL><FACE_HAPPY>That'll show my
+brothers!<PAGE>Remember to support
+my new product!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RAUL><FACE_HAPPY><FP_RIGHT>Good work, <MYNAME>!
+Thanks a lot!
+<PAGE><FACE_POS_RIGHT><FACE_RAUL><FACE_NORMAL>Women seem to like men who
+are tall, strong, and have
+lots of muscles.<PAGE><FACE_POS_RIGHT><FACE_RAUL><FACE_SAD>I'm kind of short,
+and I'm not what
+you'd call a muscle man...<PAGE><FACE_POS_RIGHT><FACE_RAUL><FACE_HAPPY>Yet!<PAGE><FACE_POS_RIGHT><FACE_RAUL><FACE_NORMAL>But I'm going to
+eat what you brought me...
+<PAGE>And one day, I will
+be buff!
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_RAUL><FACE_NORMAL><FP_RIGHT>Thank you very much.
+I was waiting for this.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>Good work, <MYNAME>!
+Thanks a lot!
+<PAGE><FACE_POS_RIGHT><FACE_ENRIQUE><FACE_HAPPY>Now I have a delicious
+feast to eat!
+Ho ho ho!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>Good work, <MYNAME>!
+Thanks a lot!
+<PAGE>Heh heh heh.
+I'm going to use this...<PAGE><FACE_POS_RIGHT><FACE_ENRIQUE><FACE_HAPPY>...to take my brothers
+down a peg or two!<PAGE><FACE_POS_RIGHT><FACE_ENRIQUE><FACE_NORMAL>I'm going to hang it
+from the ceiling...
+And when they wake up...<PAGE><FACE_POS_RIGHT><FACE_ENRIQUE><FACE_HAPPY>When they wake up...
+It'll go\u270a\u20d0 SPLAT\u270a on their
+faces!<PAGE><FACE_POS_RIGHT><FACE_ENRIQUE><FACE_SAD>Ha ha ha!
+Just thinking about it
+makes me laugh!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>Good work, <MYNAME>!
+Thanks a lot!
+<PAGE><FACE_POS_RIGHT><FACE_ENRIQUE><FACE_NORMAL>I work so hard to
+keep the store stocked.
+<PAGE><FACE_POS_RIGHT><FACE_ENRIQUE><FACE_ANGRY>And my brother is
+acting so stuck up!<PAGE><FACE_POS_RIGHT><FACE_ENRIQUE><FACE_NORMAL>Oh, can you pretend
+that you didn't hear
+that just now?<PAGE>It's our secret!
+Don't tell anyone!<RED>❤</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>Good work, <MYNAME>!
+Thanks a lot!
+<PAGE><FACE_POS_RIGHT><FACE_ENRIQUE><FACE_HAPPY>Now I wish I could tell you
+the official salesperson
+secrets...<PAGE><FACE_POS_RIGHT><FACE_ENRIQUE><FACE_NORMAL>But only the High Master
+Salesperson is allowed to
+tell those!<PAGE><FACE_POS_RIGHT><FACE_ENRIQUE><FACE_ANGRY>I can't tell you! To do so
+would break my sacred
+salesperson brotherhood vow!<PAGE><FACE_POS_RIGHT><FACE_ENRIQUE><FACE_SAD>And it could get us both
+in a lot of trouble.
+<PAGE><FACE_POS_RIGHT><FACE_ENRIQUE><FACE_NORMAL>In fact, you should probably
+forget this whole
+conversation.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_ENRIQUE><FACE_NORMAL><FP_RIGHT>Thank you very much.
+I was waiting for this.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_NORMAL><FP_RIGHT>Thank you very much.
+I was waiting for this.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_NORMAL><FP_RIGHT>Thank you very much.
+I was waiting for this.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_NORMAL><FP_RIGHT>Thank you very much.
+I was waiting for this.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_NORMAL><FP_RIGHT>Thank you very much.
+I was waiting for this.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_PIERRE><FACE_NORMAL><FP_RIGHT>Thank you very much.
+I was waiting for this.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>Oh, great!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>Oh, great!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>Oh, good job!
+My compliments!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_HAPPY><FP_RIGHT>Oh, thank you.
+Very good job.
+My compliments!<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL>Well...
+Since you helped me,
+I guess I'll tell you...<PAGE>I'm giving this to the
+Harvest King and the
+Witch Princess.<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_ANGRY>I didn't want to, but the
+Harvest King ordered me
+to, so I had to.<PAGE><FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL>He helped me out a
+little bit, so it's to
+thank him for that.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HGODDES><FACE_NORMAL><FP_RIGHT>Thank you very much.
+I was waiting for this.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KID><FACE_NORMAL><FP_RIGHT>Thank you very much.
+I was waiting for this.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KID><FACE_NORMAL><FP_RIGHT>Thank you very much.
+I was waiting for this.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KID><FACE_NORMAL><FP_RIGHT>Thank you very much.
+I was waiting for this.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KID><FACE_NORMAL><FP_RIGHT>Thank you very much.
+I was waiting for this.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KID><FACE_NORMAL><FP_RIGHT>Thank you very much.
+I was waiting for this.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HERO><FACE_NORMAL><FP_RIGHT>Thank you very much.
+I was waiting for this.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HERO><FACE_NORMAL><FP_RIGHT>Thank you very much.
+I was waiting for this.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HERO><FACE_NORMAL><FP_RIGHT>Thank you very much.
+I was waiting for this.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HERO><FACE_NORMAL><FP_RIGHT>Thank you very much.
+I was waiting for this.
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HERO><FACE_NORMAL><FP_RIGHT>Thank you very much.
+I was waiting for this.
+
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fc8<FP_RIGHT>Ooh...
+So this is it!<PAGE>It's even more beautiful
+than the rumors said!
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fc8<FP_RIGHT>Ooh...
+So this is it!<PAGE>Look how rich and healthy
+it looks! Amazing!
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fc8<FP_RIGHT>Ooh...
+So this is it!<PAGE>Look at this beautiful
+jewel-like color!
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fc8<FP_RIGHT>Ooh...
+So this is it!<PAGE>Thank you.
+This is a big help.<PAGE>What history am I
+looking into?<PAGE>Heh heh heh...
+Maybe it's safer for
+you not to know...
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fc8<FP_RIGHT>Thank you very much.
+I was waiting for this.
+
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fc9<FP_RIGHT>Oh my!
+That looks delicious!<PAGE>*Sniff* *Sniff*
+Oooh...<RED>❤</COLOR>
+It \u270asmells \u270aso \u270agood!<RED>❤</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fc9<FP_RIGHT>Ooh!
+So this is it?<PAGE>What a cute bottle!<RED>❤</COLOR>
+<PAGE>*Sniff* *Sniff*
+Oooh.<RED>❤</COLOR>
+It \u270asmells \u270aso \u270agood!<RED>❤</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fc9<FP_RIGHT>Ooh!
+This is wonderful!<PAGE>My friend will love this!
+<RED>❤</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fc9<FP_RIGHT>Ooh!
+How wonderful!<PAGE>I'll be able to make
+a lovely arrangement now!<RED>❤</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fc9<FP_RIGHT>Thank you very much.
+I was waiting for this.
+
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fca<FP_RIGHT>Oooh...
+So this is it, then,
+is it?<PAGE>Hmm. Smells great!
+
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fca<FP_RIGHT>Ho ho...
+Now let's see here...<PAGE>Hmm, smells great!
+<PAGE>Perfect!
+<PAGE>Ho ho ho...
+You see, I'm going
+on a date with the missus.<PAGE>A little cologne, a sharp
+suit, and my wife'll be
+swooning!<PAGE>It takes work to keep the
+spark in a relationship,
+you know!<RED>❤</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fca<FP_RIGHT>Oh, this is it!
+This is what I was
+waiting for!<PAGE>Look how it shines...
+<PAGE>What presence it has！
+Amazing!<PAGE>Thank you!
+You're a huge help!<PAGE>Oh,
+but keep this a secret.
+<PAGE>Like they say,
+the walls have ears!
+<PAGE>No, I don't mean
+literally, now. Ho ho...<PAGE>It means that you have
+to be careful.<PAGE>You never know who
+could be listening...<PAGE>If the missus heard about
+this, I could get in
+some trouble!
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fca<FP_RIGHT>Oooh...
+So this is what the
+rumors were about...<PAGE>What awe-inspiring
+power!
+<PAGE>Thank you.
+I'll care for it well.
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fca<FP_RIGHT>Thank you very much.
+I was waiting for this.
+
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fcb<FP_RIGHT>Oh my...
+So this is the dish
+you'd recommend...?<PAGE>Well, doesn't it smell
+just lovely?
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fcb<FP_RIGHT>My, what an adorable
+little bottle!<PAGE>*sniff* *sniff*
+It smells lovely.<RED>❤</COLOR><PAGE>I think it's just the
+thing!
+<PAGE>Hee hee...
+You see, my husband and
+I are going on a date.<PAGE>I want to get all dolled
+up for it.
+Hee hee hee.<RED>❤</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fcb<FP_RIGHT>Oh my.
+Thank you!<PAGE>Hee hee.
+What adorable seeds.
+I love them!<PAGE>It's such a wonderful
+and mysterious thing
+to think that...<PAGE>fruits and vegetables
+come from these tiny
+seeds, isn't it?
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fcb<FP_RIGHT>Oh my.
+Thank you!
+This is lovely!<PAGE>Hee hee.
+I think my husband
+will stop worrying now.<PAGE>You see...
+My sense of direction
+is just awful...<PAGE>It's really a miracle
+that I made it here.<PAGE>So my husband always
+worries about me when
+I go for a walk.<PAGE>So I want to bring him
+back this souvenir from
+my trip.
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fcb<FP_RIGHT>Thank you very much.
+I was waiting for this.
+
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fcc<FP_RIGHT>Ho ho...
+So this is it?
+<PAGE>*sniff* *sniff*
+It smells real good.
+And it's pretty...<PAGE>Pretty...good!Not bad.
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fcc<FP_RIGHT>Ho ho...
+I've heard rumors about
+this here...<PAGE>Hmm... The color, the shine,
+the shape, and the feel...
+Wow...<PAGE>Th-That doesn't mean
+I think it's \u270athe best I've
+seen!<PAGE>I-I'm not crying!
+I said I'm not!
+\u270a*sniff*
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fcc<FP_RIGHT>Ho ho...
+I've heard rumors about
+this here...<PAGE>Oooh.<RED>❤</COLOR>
+That smells real nice!<PAGE>Heh heh.
+Maybe my hubby would
+like this...<RED>❤</COLOR><PAGE>B-But I'm not getting
+it for him! I'm getting
+it for me!
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fcc<FP_RIGHT>Ho ho...
+These tea leaves
+are real nice...<PAGE>Pretty good!
+You're not so bad
+after all...<PAGE>My farm can make a real
+nice product with
+these.<PAGE>When I do, I'll put
+<MYFARMNAME> Farm's name
+on it too!<PAGE>Because I have to!
+And it'll be smaller!
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fcc<FP_RIGHT>Thank you very much.
+I was waiting for this.
+
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fcd<FP_RIGHT>Yay!
+This looks yummy!<PAGE>I hope my grandma
+likes it!
+Thanks! 
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fcd<FP_RIGHT>...\u270b...\u270b...
+Hmm...<PAGE>Well, this is on
+the list...
+Good job.
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fcd<FP_RIGHT>Yeah, this is it!
+Thanks for bringing me
+the right thing...<PAGE>To thank you, I'm going
+to tell you my secret.<PAGE>With the body of a kid, and
+the brain of a grownup,
+they call me...<PAGE>\u270b\u20d0Candy Hunter!<PAGE>...\u270a...\u270a...
+You know, you could react
+a little more...<PAGE>You're making me look
+like an idiot.<PAGE>Sheesh...
+This is why I hate
+country bumpkins.<PAGE>You know, I'm so famous,
+they've written books
+about me!<PAGE>On the streets,
+they call me the
+the Prince of Candy!<PAGE>I may look like a kid,
+but don't underestimate me!
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fcd<FP_RIGHT>Th-Thanks.
+Glad you caught it
+for me...<PAGE>That was nice of you to
+put it in a box.<PAGE>\u20d0Ah! It jumped!<PAGE>I-It won't get away,
+right!?<PAGE>Huh?
+I gotta open the
+lid to feed it?<PAGE>O-Oh right,
+cuz these guys
+are alive...<PAGE>I'll have to take
+good care of it.<PAGE>Okay!
+I'll take really
+good care of it!
+----------------------------|----------------------------------
+<FACE_POS_LEFT>\u1fcd<FP_RIGHT>Thank you very much.
+I was waiting for this.

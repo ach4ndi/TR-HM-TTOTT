@@ -1,0 +1,57 @@
+<FACE_POS_LEFT><HIDE_NAME><FACE_ULYSSA><FACE_SHY><FP_LEFT>\u20d0Aiiiiiyyeeeee!!<PAGE><FACE_POS_LEFT><HIDE_NAME><FACE_ULYSSA><FACE_SAD><FP_LEFT>Wh-Who are you!?
+You surprised me!<PAGE><FACE_POS_LEFT><HIDE_NAME><FACE_ULYSSA><FACE_ANGRY><FP_LEFT>Who told you that you could
+stand around getting in the
+way right here? Here! HERE!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><HIDE_NAME><FACE_ULYSSA><FACE_NORMAL><FP_LEFT>YOU'RE...asking ME...what
+I'M...doing here?<PAGE>Don't you know? Can't you
+see? I'm collecting
+ingredients for alchemy!<PAGE><FACE_POS_LEFT><HIDE_NAME><FACE_ULYSSA><FACE_SHY><FP_LEFT>What's alchemy? Hmm...
+It's really hard to explain!<PAGE><FACE_POS_LEFT><HIDE_NAME><FACE_ULYSSA><FACE_NORMAL><FP_LEFT>Basically putting this thing
+and that thing together to
+make a whole other thing!<PAGE>I've been living on this
+mountain a long, long, LONG
+time to master alchemy!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><HIDE_NAME><FACE_ULYSSA><FACE_HAPPY><FP_LEFT>Ooh, ooooh! I know, I know!
+YOOOUUUU must be interested
+in alchemy too, right!?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><HIDE_NAME><FACE_ULYSSA><FACE_HAPPY><FP_LEFT>Don't try to hide it, now!
+It must be fate that we met!<PAGE><FACE_POS_LEFT><HIDE_NAME><FACE_ULYSSA><FACE_NORMAL><FP_LEFT>Okey-dokey, from now on...\u270b
+<FACE_POS_LEFT><HIDE_NAME><FACE_ULYSSA><FACE_HAPPY><FP_LEFT>You'll be my guinea pig for
+alchemical experiments!
+----------------------------|----------------------------------
+<CHOICE_AB> I don't know...
+ Sure! I'm game!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><HIDE_NAME><FACE_ULYSSA><FACE_ANGRY><FP_LEFT>Wha-Wha-Wha-What!?
+Who do you think you are to
+turn me down? ME!?<PAGE><FACE_POS_LEFT><HIDE_NAME><FACE_ULYSSA><FACE_HAPPY><FP_LEFT>It doesn't work like that!
+No one defies ME!
+What I say goes!<PAGE><FACE_POS_LEFT><HIDE_NAME><FACE_ULYSSA><FACE_NORMAL><FP_LEFT>So you're my guinea pig
+starting today!
+Now...what's your name?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><HIDE_NAME><FACE_ULYSSA><FACE_NORMAL><FP_LEFT><MYNAME>?
+<MYNAME>, <MYNAME>, <MYNAME>...<PAGE><FACE_POS_LEFT><FACE_ULYSSA><FACE_HAPPY><FP_LEFT>And you may call me, with
+the gravest respect..
+<BLUE>The Oracle</COLOR>!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_ULYSSA><FACE_HAPPY><FP_LEFT>Now then!
+<MYNAME>, you will be very,
+very, VERY useful to me!<RED>❤</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_LEFT><HIDE_NAME><FACE_ULYSSA><FACE_HAPPY><FP_LEFT>Oooh!
+A very, VERY good answer!<PAGE>You seem pret-t-t-t-t-ty
+sharp!
+I LIKE you!<PAGE><FACE_POS_LEFT><HIDE_NAME><FACE_ULYSSA><FACE_NORMAL><FP_LEFT>But I haven't asked your
+name yet, have I?
+What do people call you?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><HIDE_NAME><FACE_ULYSSA><FACE_NORMAL><FP_LEFT><MYNAME>?
+<MYNAME>, <MYNAME>, <MYNAME>...<PAGE><FACE_POS_LEFT><FACE_ULYSSA><FACE_HAPPY><FP_LEFT>And you may call me, with
+the gravest respect..
+<BLUE>The Oracle</COLOR>!<PAGE>Now then!
+<MYNAME>, you will be very,
+very, VERY useful to me!<RED>❤</COLOR>

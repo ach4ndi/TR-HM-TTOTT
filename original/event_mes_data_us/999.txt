@@ -1,0 +1,54 @@
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>Let me introduce you to
+my beloved horse,
+Hayate!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>I should mention that Hayate
+and I are pretty close.<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>But I'll bet you already
+figured that out.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>Hayate and I actually grew
+up together.
+<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_SHY><FP_RIGHT>She gave me a lot of trouble
+as a kid! She wouldn't let
+anyone ride her.<PAGE>But of course, I was too
+stubborn to quit trying.<PAGE>I fed her by hand every day
+until she trusted me enough
+to let me ride her.<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>Since then, her and I have
+never missed a chance to
+ride.<PAGE>But now that she's getting
+older, she gets leg pains
+sometimes.<PAGE>So I don't push her too
+hard these days.
+----------------------------|----------------------------------
+<CHOICE_AB> She's like family...
+ Let's race!
+
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>Yeah, exactly! I've known
+her as long as I've known
+anyone.<PAGE>She's a part of my family.
+I can't imagine life without
+her.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>Isn't that right,
+Hayate?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>Haha, cut it out!
+That tickles!!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_NORMAL><FP_RIGHT>Hey, <MYNAME>, I'm glad
+I got to introduce you to
+Hayate today.<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>Seems like Hayate likes you
+too.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_HAPPY><FP_RIGHT>I hope you'll stop by
+sometime to see Hayate
+again.<PAGE>Thanks for coming today,
+<MYNAME>.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KANA><FACE_SAD><FP_RIGHT>C'mon, <MYNAME>,
+did you even listen to me?<PAGE><FACE_POS_RIGHT><FACE_KANA><FACE_ANGRY><FP_RIGHT>Even as a joke,
+saying stuff like that
+isn't cool.<PAGE>I know I asked you to come
+over, but I'd like you to
+leave now.

@@ -1,0 +1,37 @@
+<FACE_POS_LEFT><FACE_HIRO><FACE_SAD><FP_LEFT>It is a formidable challenge
+to be a doctor... I erred
+again today...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_HIRO><FACE_NORMAL><FP_LEFT>I have the utmost respect
+for my father, who became a
+doctor for my mother's sake.<PAGE><FACE_POS_LEFT><FACE_HIRO><FACE_SAD><FP_LEFT>I wish to become a doctor of
+his caliber...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_NORMAL><FP_RIGHT>Ying... What brings you here
+today?<PAGE><FACE_POS_LEFT><FACE_YING><FACE_NORMAL><FP_LEFT>I...I think you can become
+a great doctor, Hiro...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_YING><FACE_NORMAL><FP_LEFT>Once...I went to see a
+doctor about my condition
+in the city...<PAGE>He was so kind... And he
+looked just like you...
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_NORMAL><FP_RIGHT>Really...?<PAGE><FACE_POS_LEFT><FACE_YING><FACE_HAPPY><FP_LEFT>So, that's why I think...
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_YUN><FACE_NORMAL><FP_LEFT><HIDE_FACE>Ying, dear! It's dinner
+time!
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_YUN><FACE_NORMAL><FP_LEFT>So this is where you've
+been! It's time to eat,
+dearie, so let's go on home!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_HAPPY><FP_RIGHT>We should speak again on
+another occasion, Ying.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_SHY><FP_RIGHT>He looked just like me...?
+Could my father have been
+Ying's doctor...?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_HIRO><FACE_NORMAL><FP_RIGHT>It had to be him...<PAGE><FACE_POS_RIGHT><FACE_HIRO><FACE_HAPPY><FP_RIGHT>Well, I can't give up now!
+I have to treat Ying exactly
+as my father did!

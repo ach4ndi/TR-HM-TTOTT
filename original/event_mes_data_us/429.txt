@@ -1,0 +1,13 @@
+<FACE_POS_LEFT><HIDE_NAME><FACE_MIKHAIL><FACE_NORMAL><FP_LEFT><HIDE_FACE>Are you there, <MYNAME>?
+I'm coming in.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MIKHAIL><FACE_NORMAL><FP_RIGHT>It's been a while, <MYNAME>.<PAGE>Now that the cool weather of
+fall is here, I've returned
+to stay awhile.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_MIKHAIL><FACE_HAPPY><FP_RIGHT>I love the nature around
+this village.
+I've grown fond of it.<PAGE>And I love that I can play
+my music here.<PAGE>I'm staying at the town
+hall, so stop by and say
+hello any time.

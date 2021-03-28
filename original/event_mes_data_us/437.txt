@@ -1,0 +1,31 @@
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>What interesting plant life
+there is around here!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_HAPPY><FP_RIGHT>The diversity of species is
+remarkable!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_HAPPY><FP_RIGHT>You guys have so many
+friends...I envy you.\u270a\u270a<PAGE><FACE_POS_LEFT><FACE_ASH><FACE_NORMAL><FP_LEFT>Reina!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_SHY><FP_RIGHT>Huh? Oh, it's you, Ash.<PAGE><FACE_POS_LEFT><FACE_ASH><FACE_SHY><FP_LEFT>Is "Huh?" the best greeting
+you can give me? <PAGE><FACE_POS_LEFT><FACE_ASH><FACE_HAPPY><FP_LEFT>Anyway, what are you doing
+here?<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>I'm on a plant collecting
+expedition. I've never come
+as far as Bluebell before.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>They're for my research.<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_ANGRY><FP_RIGHT>I need to study their scent,
+composition, life cycle, and
+everything like that.<PAGE><FACE_POS_LEFT><FACE_ASH><FACE_HAPPY><FP_LEFT>I guess there's a lot to
+know about plants.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>There are some rare trees
+growing here!<PAGE><FACE_POS_LEFT><FACE_ASH><FACE_HAPPY><FP_LEFT>It's true.<PAGE>That tree only grows around
+here. It's the symbol of
+Bluebell!<PAGE><FACE_POS_LEFT><FACE_ASH><FACE_NORMAL><FP_LEFT>Did you know that the caf
+in town has a flower shop?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>It does? Ah.
+Next time I come, I'll try
+to go, if I remember.<PAGE><FACE_POS_LEFT><FACE_ASH><FACE_HAPPY><FP_LEFT>And stop by to say hello!
+That would be cool.<PAGE><FACE_POS_RIGHT><FACE_REINA><FACE_NORMAL><FP_RIGHT>I...um...I will.
+See you later.

@@ -1,0 +1,40 @@
+<FACE_POS_LEFT><FACE_NATHAN><FACE_NORMAL><FP_LEFT>Kita hari ini dikumpulkan
+untuk menghadiri pernikahan
+<MYNAME> dan Georgia.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_NATHAN><FACE_NORMAL><FP_LEFT><MYNAME>...<PAGE>Apakah kamu menjadikan
+Georgia sebagai istrimu?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_NATHAN><FACE_NORMAL><FP_LEFT>Georgia...<PAGE>Apakah kamu menjadikan
+<MYNAME> sebagai suamimu?<PAGE><FACE_POS_RIGHT><FACE_GEORGIA><FACE_HAPPY><FP_RIGHT>Pastinya aku terima.
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_NATHAN><FACE_NORMAL><FP_LEFT>Maka aku umumkan kamu
+sebagai suami dan istri!<PAGE><FACE_POS_LEFT><FACE_NATHAN><FACE_HAPPY><FP_LEFT>Mungkin Dewi panen akan
+tersenyum atas persatuan
+menjadi sebuah keluargamu!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_SHOCK><FP_RIGHT><MYNAME>, kamu membuatku seorang
+wanita tersenang diseluruh
+dunia!
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_SHOCK><FP_RIGHT>Hari ini kita memulai kehi-
+dupan baru bersama.<PAGE>Well sekarang, sejak kita
+hidup bersama, apa kamu
+ingin memanggilku nama<PAGE>panggilan apa?<PAGE><FACE_POS_RIGHT><FACE_GEORGIA><FACE_HAPPY><FP_RIGHT>Apa seharusnya aku
+memanggilmu?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_NORMAL><FP_RIGHT><MYNICKNAME>?
+Apa kamu yakin?
+----------------------------|----------------------------------
+<CHOICE_AB> Yeah!
+ Aku berubah pikiran.
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_GEORGIA><FACE_HAPPY><FP_RIGHT>Maka telah ditentukan, maka.<PAGE><FACE_POS_RIGHT><FACE_GEORGIA><FACE_SHOCK><FP_RIGHT>Aku mencintaimu seperti
+dasyatnya ombak, <MYNICKNAME>...
+----------------------------|----------------------------------
+Hari yang menyenangkan!
+Besok kita akan memulai
+kehidupan kita yang baru!
+----------------------------|----------------------------------
+<CHOICE_AB> Tidur dan simpan.
+ Tidur...

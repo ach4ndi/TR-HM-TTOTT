@@ -1,0 +1,20 @@
+\u232eMusim apa yang pilih?
+Pakai <RED>+Kontrol Pad</COLOR>
+dan tekan <RED>Tombol A</COLOR>.\u2708
+----------------------------|----------------------------------
+\u232eHari apa yang dipilih?
+Pakai <RED>+Kontrol Pad</COLOR>
+dan tekan <RED>Tombol A</COLOR>.\u2708
+----------------------------|----------------------------------
+\u232e<VAR_0> <VAR_1>? Apakah yakin?
+<CHOICE_AB> Ya.
+Tidak.
+
+----------------------------|----------------------------------
+\u232eHari apa yang dipilih?
+Pakai <RED>+Kontrol Pad</COLOR>
+dan tekan <RED>Tombol A</COLOR>.\u2708
+----------------------------|----------------------------------
+\u232eHari apa yang dipilih?
+Pakai <RED>+Kontrol Pad</COLOR>
+dan tekan <RED>Tombol A</COLOR>.\u2708

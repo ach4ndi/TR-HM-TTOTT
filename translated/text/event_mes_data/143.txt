@@ -1,0 +1,558 @@
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Apa itu, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Kemarin sangat berbadai!
+Langitnya mau jatuh!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Apa itu, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Apa itu, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Apa itu, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_HAPPY><FP_RIGHT>Kita bermain sepanjang
+waktu. Kita adalah teman
+sepanjang masa!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_SAD><FP_RIGHT>Tidak, sana jauh-jauh,
+\u2338!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Apa itu, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_HAPPY><FP_RIGHT>Itu bulu yang keren.
+Apa aku bisa memegangnya?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_SAD><FP_RIGHT>Tidak, sata tidak ingin
+apa-apa.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Aku tidak butuh hadiah saat
+ini, karena terlalu banyak.
+\u2338.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Apa itu, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Apa itu, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_ANGRY><FP_RIGHT>Hey! Jangan mencoba memberi-
+kan itu!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_HAPPY><FP_RIGHT>Ooh, untuk aku?<PAGE>Aku suka ulang tahun!
+Karena bisa makan
+<RED>es krim</COLOR> semauku!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_HAPPY><FP_RIGHT>Yay! <RED>Es krim</COLOR>!!
+Makasih, \u2338!
+Ini sangat yummy!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Apa itu, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Apa itu, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_HAPPY><FP_RIGHT>Makasih, \u2338!
+Aku suka ulang tahun! aku
+harap tiap hari merayakannya.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Huh!?
+Ini untuk aku?<PAGE><FACE_POS_CENTER><FACE_KID><FACE_HAPPY><FP_RIGHT>Wow!
+Makasih, \u2338!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Sebuah hadiah ulang tahun!?
+Yay!!
+Makasih, \u2338!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Makasih, \u2338.
+Ini Bagus!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_SAD><FP_RIGHT>Aku tidak membutuhkan ini
+untuk hadiah ulang tahun!
+Aku ingin yang lainnya!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_SAD><FP_RIGHT>...
+Apa kamu mencoba menggodaku,
+\u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_SAD><FP_RIGHT>SAYA BENCI INI!
+Aku tidak mau memakan ini!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Apa itu, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Apa itu, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_HAPPY><FP_RIGHT>\u2338, main dengan aku!
+Ayo! Mari kita main petak-
+umpet!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_SAD><FP_RIGHT>Aww, Aku ingin bermain
+diluar sekarang...
+Cuaca bodoh...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_SAD><FP_RIGHT>Kenapa aku tidak bisa ke-
+luar? Disana banyak salju-
+nya!<PAGE>Itu terlihat menyenangkan!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_HAPPY><FP_RIGHT>Aku ingin menjadi seorang
+petani seperti kamu disaat
+aku sudah dewasa,\u2338!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_HAPPY><FP_RIGHT>\u2338, apa ini?
+Apa ingin digaruk punggung
+nya? kamu terlihat capek.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>\u2338, pekerjaanmu terlihat
+menyenangkan. Apa aku bisa
+membantumu?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Wow, \u2338.
+Kamu selalu bangun pagi-pagi
+...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Apa, \u2338?
+Apa kamu akan bermain
+dengan aku?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_SAD><FP_RIGHT>Biarkan aku sendirian.
+Aku ingin bermain sendiri
+...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_SAD><FP_RIGHT>\u2338, kamu tidak
+pernah bermain dengan aku
+... sedih aku.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Apa itu, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Apa itu, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Apa itu, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Apa itu, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Apa itu, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Apa itu, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Apa itu, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Apa itu, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Apa itu, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Apa itu, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Apa itu, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Apa itu, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Apa itu, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Apa itu, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Apa itu, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Apa itu, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Apa itu, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Apa itu, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Apa itu, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Apa itu, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Apa itu, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Apa itu, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Apa itu, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Apa itu, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Apa itu, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Apa itu, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Apa itu, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Apa itu, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Apa itu, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Apa itu, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Apa itu, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Apa itu, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Apa itu, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Apa itu, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Apa itu, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Apa itu, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Apa ini?
+Jangan disentuh -kah?<PAGE><FACE_POS_CENTER><FACE_KID><FACE_SAD><FP_RIGHT>Kamu itu membosankan...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Apa itu, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Apa itu, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Itu sangat lucu...!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_HAPPY><FP_RIGHT>Whoa, dimanakah kamu
+menemukannya?
+Aku ingin satu!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_ANGRY><FP_RIGHT>\u2338...
+Jauhkan itu! jaaauuuh!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Oooh...
+Aku ingin mencarinya juga.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Apa itu, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Apa itu, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Apa itu, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Apa itu, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Apa itu, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Apa itu, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Apa itu, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Apa itu, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Apa itu, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Apa itu, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Apa itu, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Apa itu, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_HAPPY><FP_RIGHT>Ini untuk aku?
+Makasih, \u2338!
+Aku menyukainya.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Apa itu, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Apa itu, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Apa itu, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Apa itu, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Apa itu, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Apa itu, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_HAPPY><FP_RIGHT>Yay! apa ini?
+Apa boleh kubuka?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_HAPPY><FP_RIGHT>\u2338, Aku mencintaimu.
+Kamu yang terbaik!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Apa itu, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Apa itu, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Apa itu, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Apa itu, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Apa itu, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_HAPPY><FP_RIGHT>Apa yang aku mainkan hari
+ini? Apa rumah-rumahan,
+atau bajak laut.<PAGE>\u2338,
+yang mana ya? bingung.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_HAPPY><FP_RIGHT>Ooh, semuanya jadi putih
+dan bersalju diluar!<PAGE>Aku ingin membangun kastil
+dari salju!
+Ayo buat! ayo buat!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Disaat aku menjadi besar,
+aku ingin menaiki sebuah
+kuda.<PAGE>Aku bertaruh itu akan me-
+nyenangkan, karena berlari
+dengan kencang!<PAGE>Aku ingin cepat-cepat
+besar!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_HAPPY><FP_RIGHT>Huh? Apa aku kedinginan?
+Aku gak pa pa. Aku memakai
+banyak lapisan baju.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Apa itu, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Apa itu, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Apa itu, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Apa itu, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Apa itu, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Apa itu, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Apa itu, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_HAPPY><FP_RIGHT>Kamu memenangkan festival
+memasak, benarkan? Apa kamu
+akan membawaku bersama?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_SAD><FP_RIGHT>Aww...
+Kamu pastinya akan menang
+jika aku mendukungmu.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Aku ingin berkompetisi di
+festival memasak, nanti!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Apa itu, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Apa itu, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_SAD><FP_RIGHT>Oh, apa desa kita kalah
+dalam festival memasak?<PAGE>Aku harap kita akan menang
+dilain waktu!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Apa itu, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_SAD><FP_RIGHT>Itu terlalu buruk,
+\u2338.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_HAPPY><FP_RIGHT>Aku ingin festivalnya
+segera dimulai!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_SAD><FP_RIGHT>Kenapa kamu tidak ikutan,
+\u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Apa itu, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Kamu akan menang kedepannya!
+Jangan sedih!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Apa itu, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Apa itu, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Apa itu, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KID><FACE_HAPPY><FP_RIGHT>Ulang tahun,
+\u2338!<RED>❤</COLOR>
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Apa itu, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_LEFT><FACE_KID><FACE_HAPPY><FP_LEFT>Bu, yah,
+Selamat ulang tahun!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Apa itu, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KID><FACE_HAPPY><FP_RIGHT>Selamat ulang tahun!
+Aku menyukai ulang tahun!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Apa itu, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Apa itu, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Apa itu, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KID><FACE_HAPPY><FP_RIGHT>Ooh, sangat yummy!
+Makasih, bu, yah!
+Ini sangat bagus!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Apa itu, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_RIGHT><FACE_KID><FACE_HAPPY><FP_RIGHT>Bu, yah, kamu akan
+selalu menyanyangikan?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Apa itu, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Apa itu, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Apa itu, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Apa itu, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Apa itu, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Apa itu, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Apa itu, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Apa itu, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Apa itu, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Apa itu, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Apa itu, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Apa itu, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Apa itu, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Apa itu, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Apa itu, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Apa itu, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Apa itu, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Apa itu, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Apa itu, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Apa itu, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Apa itu, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Apa itu, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Apa itu, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Apa itu, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Apa itu, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Apa itu, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Apa itu, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Selamat pagi, \u2338!
+Apa kamu akan pergi bekerja?
+Semoga harinya menyenangkan!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Selamat pagi, \u2338!
+Aku mencoba memilih permain
+an apa untuk hari ini.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Selamat pagi.
+Apa kamu sudah makan?
+Seharusnya sudah! Enak!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Hi, \u2338.
+apa ini?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Bermain denganku, \u2338!
+Oh, maaf...
+Kamu sedang bekerja.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_HAPPY><FP_RIGHT>Masih banyak waktu untuk
+bermain untuk hari ini!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_HAPPY><FP_RIGHT>Oh, \u2338.
+Selamat datang kerumah!
+Apa kamu sudah selesai?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_SAD><FP_RIGHT>Mm...
+Capek.
+*ngantuK*...
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Hi, \u2338.
+Ini sudah m..zzz alam..zzz.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Apa itu, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Apa itu, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Apa itu, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Apa itu, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Apa itu, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Apa itu, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Apa itu, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Apa itu, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Apa itu, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Apa itu, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Apa itu, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Apa itu, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Apa itu, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Apa itu, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Apa itu, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Apa itu, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Apa itu, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Apa itu, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Apa itu, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Apa itu, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Apa itu, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_HAPPY><FP_RIGHT>Wow, \u2338.
+Buatkan aku juga donk!
+Aku ingin memakannya juga!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_HAPPY><FP_RIGHT>Aku akan memamerkan kese-
+muanya, mereka akan iri!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_HAPPY><FP_RIGHT>Aku lapaar!
+Aku ingin memakan sesuatu
+seperti makanan yg menang!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_HAPPY><FP_RIGHT>Itu begitu menyenangkan!
+Aku ingin kita selalu
+mengadakannya tiap hari!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_HAPPY><FP_RIGHT>\u2338, 
+Hari ini cukup menyenangkan
+untuk aku!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Aku tidak bisa menunggu
+tahun depan! Benar, \u2338?
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>\u2338, kamu melakukannya!
+Kamu yang terbaik!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Wow, kamu menang!
+Aku tahu kamu akan menang,
+karena aku menyukainya!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_LEFT>Selamat, \u2338!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Hari ini sangat bagus! Aku
+menyukainya.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Aku tidak akan melupakan
+hari ini!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Aku capek. Aku akan tidur
+dikasur hari ini.
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Kamu menang!
+Wow!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Semua orang kaget! Mereka
+bilang kamu yang terhebat!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT>Aku ingin menjadi kamu,
+\u2338!
+Ajari aku donk!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_HAPPY><FP_LEFT>Selamat!
+Kamu yang terbaik!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_HAPPY><FP_LEFT>Selamat di
+<VAR_0>!!<PAGE>Aku tahu kamu akan
+menang, \u2338!
+----------------------------|----------------------------------
+<FACE_POS_CENTER><FACE_KID><FACE_NORMAL><FP_RIGHT><VAR_2> milikmu,
+yang terbaik!!
